@@ -9,7 +9,7 @@ def test_basic_search(client, live_server):
     #live_server_setup(live_server)
 
     urls = ['https://localhost:12300?first-result=1',
-            'https://localhost:5000?second-result=1'
+            'https://localhost:3000?second-result=1'
             ]
     res = client.post(
         url_for("import_page"),
@@ -42,7 +42,7 @@ def test_search_in_tag_limit(client, live_server):
     #live_server_setup(live_server)
 
     urls = ['https://localhost:12300?first-result=1 tag-one',
-            'https://localhost:5000?second-result=1 tag-two'
+            'https://localhost:3000?second-result=1 tag-two'
             ]
     res = client.post(
         url_for("import_page"),
