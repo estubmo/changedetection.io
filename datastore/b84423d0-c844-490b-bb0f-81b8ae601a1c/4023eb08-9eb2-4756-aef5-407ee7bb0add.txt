@@ -1,0 +1,360 @@
+[
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q1EA9m",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q1EA9m",
+        "preamble": "(Ranheim – Moss 2–1) Morten Gamst Pedersen (41) og strafferedning på tampen avgjorde for Ranheim.",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 17:06:11",
+            "niceformat": "04.06.2023, 17:06",
+            "timestamp": "2023-06-04T15:06:11.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/7466be51-6285-4bf6-b552-956f60597b04?fit=crop&format=auto&h=267&w=400&s=13f1f75a8717c9273ec371e694dfd8ace41bc74e",
+            "width": 400
+        },
+        "title": "«Gamsten»-scoring i Ranheim-seier",
+        "url": "https://www.vg.no/sport/fotball/i/q1EA9m/gamsten-scoring-i-ranheim-seier"
+    },
+    {
+        "authors": [
+            {
+                "email": "oyvind.herrebroden@vg.no",
+                "id": "7b5d0009-0f34-41e3-b5af-dcf22addbd42",
+                "name": "Øyvind Herrebrøden"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "rlX20e",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/rlX20e",
+        "preamble": "Over 100 millioner i underskudd, seks trenere og bare to trofeer av ni mulige. Hverken på banen, benken eller i banken har Rosenborg gjort suksess de siste fem årene. ",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 13:59:29",
+            "niceformat": "04.06.2023, 13:59",
+            "timestamp": "2023-06-04T11:59:29.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/b23a66df-7318-4fc8-a49d-3a4c8f19470d?fit=crop&format=auto&h=267&w=400&s=46952fa8be347e277892ac172fcf3b69656e8ee3",
+            "width": 400
+        },
+        "title": "Rosenborgs fem år med kaos: – En klubb i et enormt forfall på alle områder",
+        "url": "https://www.vg.no/sport/fotball/i/rlX20e/rosenborgs-fem-aar-med-kaos-en-klubb-i-et-enormt-forfall-paa-alle-omraader"
+    },
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QOK3G",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QOK3G",
+        "preamble": "Karim Benzema (35) har vært i Real Madrid siden 2009. Nå er det slutt for den regjerende Ballon d’Or-vinneren.",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 11:56:19",
+            "niceformat": "04.06.2023, 11:56",
+            "timestamp": "2023-06-04T09:56:19.000Z"
+        },
+        "thumbnail": {
+            "height": 265,
+            "url": "https://akamai.vgc.no/v2/images/6f77d4fc-edae-4006-bd74-098de3d5c63e?fit=crop&format=auto&h=265&w=400&s=a6c8fae9319b64ecf2740f9c074af18f47fe7ebb",
+            "width": 400
+        },
+        "title": "Bekreftet: Benzema forlater Real Madrid",
+        "url": "https://www.vg.no/sport/fotball/i/0QOK3G/bekreftet-benzema-forlater-real-madrid"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "MoJ35M",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/MoJ35M",
+        "preamble": "Maren Mjelde (33) har skrevet under på en ny ettårskontrakt med Chelsea i den engelske superligaen.",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 11:22:30",
+            "niceformat": "04.06.2023, 11:22",
+            "timestamp": "2023-06-04T09:22:30.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/4885a886-957e-4e1f-a040-35f1a5468cad?fit=crop&format=auto&h=267&w=400&s=79d22a15765b10a67baad2a176904f6b4d7c5581",
+            "width": 400
+        },
+        "title": "Maren Mjelde forlenget med Chelsea",
+        "url": "https://www.vg.no/sport/fotball/i/MoJ35M/maren-mjelde-forlenget-med-chelsea"
+    },
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "bgdnMA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/bgdnMA",
+        "preamble": "Etter 11 år i klubben forteller Hugo Lloris (36) at han ønsker å forlate Tottenham.",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 09:35:14",
+            "niceformat": "04.06.2023, 09:35",
+            "timestamp": "2023-06-04T07:35:14.000Z"
+        },
+        "thumbnail": {
+            "height": 273,
+            "url": "https://akamai.vgc.no/v2/images/7cca9c2e-5505-4184-9a86-c3a7d4e41086?fit=crop&format=auto&h=273&w=400&s=130155b71c9c96b4a5f33e25e6910d978721e34f",
+            "width": 400
+        },
+        "title": "Tottenham-kapteinen vil bort: – Slutten på en æra",
+        "url": "https://www.vg.no/sport/fotball/i/bgdnMA/tottenham-kapteinen-vil-bort-slutten-paa-en-aere"
+    },
+    {
+        "authors": [
+            {
+                "email": "mattis.holt@vg.no",
+                "id": "783ec02a-650f-49b8-8655-cd3e1ad5f4fa",
+                "name": "Mattis Holt"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAXz51",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAXz51",
+        "preamble": "I 2022 endret Coca-Cola designet på sine brusflasker til at korken skulle sitte fast. Det har skapt utfordringer for norske fotballklubber. Mandag fikk det miljøvennlige designet for første gang konsekvenser.",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 01:46:39",
+            "niceformat": "04.06.2023, 01:46",
+            "timestamp": "2023-06-03T23:46:39.000Z"
+        },
+        "thumbnail": {
+            "height": 242,
+            "url": "https://akamai.vgc.no/v2/images/c4bfcd14-c961-467c-a64d-2c1ad931f9a9?fit=crop&format=auto&h=242&w=400&s=6c428e7b146084d7d02ebf6b8d48e5886c17c6ed",
+            "width": 400
+        },
+        "title": "Korken som skaper trøbbel – hevder NFF droppet colaråd",
+        "url": "https://www.vg.no/sport/fotball/i/wAXz51/flaskeskandalen-i-eliteserien-nff-fikk-colaraad"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QOn3M",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QOn3M",
+        "preamble": "(Paris Saint-Germain – Clermont 2–3) PSG ga fra seg en 2–0-ledelse i den franske serieavslutningen. Lionel Messi (35) ble buet på i avskjeden.",
+        "published": {
+            "date": "lørdag 3. juni",
+            "datetime": "2023-06-03 23:03:05",
+            "niceformat": "03.06.2023, 23:03",
+            "timestamp": "2023-06-03T21:03:05.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6869c811-013a-4028-9515-138eba76626b?fit=crop&format=auto&h=267&w=400&s=2b8ee8d2dc12d717656263699a433bd3bebbed8f",
+            "width": 400
+        },
+        "title": "Paris Saint-Germain raknet i Messis avskjed",
+        "url": "https://www.vg.no/sport/fotball/i/0QOn3M/paris-saint-germain-raknet-i-messis-avskjed"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEK70a",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEK70a",
+        "preamble": "LONDON (VG) (Manchester City – Manchester United 2–1) Langpasningen mot Erling Braut Haaland (22) nesten rett fra avspark er blitt et nytt våpen for Manchester City. ",
+        "published": {
+            "date": "lørdag 3. juni",
+            "datetime": "2023-06-03 21:55:15",
+            "niceformat": "03.06.2023, 21:55",
+            "timestamp": "2023-06-03T19:55:15.000Z"
+        },
+        "thumbnail": {
+            "height": 277,
+            "url": "https://akamai.vgc.no/v2/images/4582865d-2f34-44f0-87cd-654bfcc99857?fit=crop&format=auto&h=277&w=400&s=58ebf62923b87705df6847ef40b8601957256907",
+            "width": 400
+        },
+        "title": "City-stjernen Akanji forklarer Haaland-trekket – Guardiola genierklærer seg selv",
+        "url": "https://www.vg.no/sport/fotball/i/gEK70a/city-stjernen-akanji-forklarer-haaland-trekket-guardiola-genierklaerer-seg-selv"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQG1k8",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQG1k8",
+        "preamble": "LERKENDAL (VG) Rosenborg-trener Kjetil Rekdal føler seg «absolutt ikke» truffet av supporternes siste melding. ",
+        "published": {
+            "date": "lørdag 3. juni",
+            "datetime": "2023-06-03 21:07:44",
+            "niceformat": "03.06.2023, 21:07",
+            "timestamp": "2023-06-03T19:07:44.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/27bea3c0-6a4d-461e-845b-f8acd5543bde?fit=crop&format=auto&h=300&w=400&s=c7e7bc854d163ef1a31c9898cc70682526200e7c",
+            "width": 400
+        },
+        "title": "Stengte treningen - Rekdal og RBK møtt av nok et banner ",
+        "url": "https://www.vg.no/sport/fotball/i/JQG1k8/rbk-og-kjetil-rekdal-moett-av-banner-fra-supportere"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jlMdz0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jlMdz0",
+        "preamble": "Eden Hazard (32) hadde i utgangspunktet ett år igjen av kontrakten med Real Madrid. Nå bekrefter imidlertid hovedstadsklubben at belgieren er frigitt.",
+        "published": {
+            "date": "lørdag 3. juni",
+            "datetime": "2023-06-03 20:11:09",
+            "niceformat": "03.06.2023, 20:11",
+            "timestamp": "2023-06-03T18:11:09.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/e185bae8-df28-4883-aec6-1ea4d9a2bdc2?fit=crop&format=auto&h=267&w=400&s=b246f945aad5b3d46aa8ec7b3fb28b4dcae3d49c",
+            "width": 400
+        },
+        "title": "Bekreftet: Hazard forlater Real Madrid",
+        "url": "https://www.vg.no/sport/fotball/i/jlMdz0/bekreftet-hazard-forlater-real-madrid"
+    }
+]

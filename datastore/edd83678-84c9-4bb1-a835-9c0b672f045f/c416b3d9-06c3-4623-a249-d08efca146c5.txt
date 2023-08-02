@@ -1,0 +1,194 @@
+[
+    {
+        "slug": "charlottenlund-mistet-seieren-paa-overtid",
+        "url": "/lokalfotballen/i/WRdalg/charlottenlund-mistet-seieren-paa-overtid",
+        "title": {
+            "value": "Charlottenlund mistet seieren på overtid"
+        },
+        "description": "Charlottenlund ledet 3-2, men Tiller kom tilbake mot slutten og sørget for 3-3 i G19 Elite, Vår. Det medførte at Charlottenlund brøt tapsrekken på tre kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-24T20:22:31Z",
+        "lastModifiedAt": "2023-05-24T20:22:31Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "to-fulltreffere-fra-jobotn",
+        "url": "/lokalfotballen/i/nQXMkL/to-fulltreffere-fra-jobotn",
+        "title": {
+            "value": "To fulltreffere fra Jobotn"
+        },
+        "description": "Med dagens 5-3-seier over Tiller 3 tok Hitra 2 sin første seier i årets sesong. I 6. divisjon, Trøndelag - Avdeling 5 i fotball. Arne Julian Jobotn scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-24T20:12:57Z",
+        "lastModifiedAt": "2023-05-24T20:12:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya"
+        ]
+    },
+    {
+        "slug": "mina-othman-omar-saleem-var-giftig-foran-maal-scoret-hattrick",
+        "url": "/lokalfotballen/i/76LjWB/mina-othman-omar-saleem-var-giftig-foran-maal-scoret-hattrick",
+        "title": {
+            "value": "Mina Othman Omar Saleem scoret hattrick mot Orkla"
+        },
+        "description": "Strindheim snudde 0-1 til 3-1 mot Orkla i J17 1. divisjon, Avdeling 2 - Vår onsdag. Mina Othman Omar Saleem scoret hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-24T19:46:13Z",
+        "lastModifiedAt": "2023-05-24T20:03:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "freidig-kunne-juble-etter-toppkampen",
+        "url": "/lokalfotballen/i/P4mOMJ/freidig-kunne-juble-etter-toppkampen",
+        "title": {
+            "value": "Freidig slo Ranheim i toppkampen"
+        },
+        "description": "Freidig slo Ranheim 2-1 på Freidigbanen i J14 1. divisjon, Avdeling 1 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-24T19:40:59Z",
+        "lastModifiedAt": "2023-05-24T20:03:06Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "hitra-9er-viste-muskler",
+        "url": "/lokalfotballen/i/jlXwyL/hitra-9er-viste-muskler",
+        "title": {
+            "value": "Hitra 9er viste muskler"
+        },
+        "description": "Evert Aarre Olavi Roseth ledet an med tre av målene i 4-2-seieren over KIL/Hemne 9er i G14 9er, Avdeling 3 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-24T19:02:20Z",
+        "lastModifiedAt": "2023-05-24T19:02:20Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-hitrafroya"
+        ]
+    },
+    {
+        "slug": "vanvik-2-stadsbygd-2-rissa-2-med-hjemmeseier-over-ranheim-2",
+        "url": "/lokalfotballen/i/JQMpAJ/vanvik-2-stadsbygd-2-rissa-2-med-hjemmeseier-over-ranheim-2",
+        "title": {
+            "value": "Hjemmeseier for Vanvik 2/Stadsbygd 2/Rissa 2 over Ranheim 2"
+        },
+        "description": "Vanvik 2/Stadsbygd 2/Rissa 2 slo Ranheim 2 3-1 og fikk dermed med seg tre poeng i G14 2. divisjon, Avdeling 3 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-24T18:32:50Z",
+        "lastModifiedAt": "2023-05-24T19:01:18Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "rekdals-varsler-oppvask-jeg-er-godt-sjokkert",
+        "url": "/sport/fotball/i/rlX9yl/rekdals-varsler-oppvask-jeg-er-godt-sjokkert",
+        "title": {
+            "value": "Rekdal:– Jeg har aldri opplevd noe lignende "
+        },
+        "description": "Kjetil Rekdal varsler en til en-prat med hver enkelt spiller.",
+        "imageUrl": "aa4e7332-7a36-4232-b8da-5bada00ecb2a",
+        "publishedAt": "2023-05-24T18:15:24Z",
+        "lastModifiedAt": "2023-05-24T18:28:23Z",
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "froeya-il-slo-kil-hemne-i-toppkampen",
+        "url": "/lokalfotballen/i/76LjMv/froeya-il-slo-kil-hemne-i-toppkampen",
+        "title": {
+            "value": "Frøya IL gikk seirende ut av toppoppgjøret"
+        },
+        "description": "Med dagens 1-2-tap mot Frøya IL gikk KIL/Hemne på sesongens første nederlag. I J15 2. divisjon, Avdeling 3 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-24T18:12:04Z",
+        "lastModifiedAt": "2023-05-24T18:33:54Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "kjoerte-i-134-kilometer-i-timen",
+        "url": "/nyhetsstudio/i/q1X3vz/kjoerte-i-134-kilometer-i-timen",
+        "title": {
+            "value": "Tatt i 134 km/t i Trondheim"
+        },
+        "description": null,
+        "imageUrl": null,
+        "publishedAt": "2023-05-24T18:08:57Z",
+        "lastModifiedAt": "2023-05-24T18:11:08Z",
+        "premium": true,
+        "authors": [
+            "Norunn Bergesen"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "torbjoern-stanget-melhus-til-himmels",
+        "url": "/sport/fotball/i/zEX9E9/torbjoern-stanget-melhus-til-himmels",
+        "title": {
+            "value": "Vil ha RBK på besøk: - Vi har sjans"
+        },
+        "description": "Torbjørn Trøen hadde en drømmedag på jobben og sørget for avansement i cupen.",
+        "imageUrl": "ff67162a-7971-4247-a53d-f5727aa87ae3",
+        "publishedAt": "2023-05-24T17:52:55Z",
+        "lastModifiedAt": "2023-05-24T18:12:50Z",
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "melhus",
+            "kolstad",
+            "melhus-il",
+            "kolstad-il",
+            "fotball",
+            "sport"
+        ]
+    }
+]

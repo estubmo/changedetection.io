@@ -1,0 +1,190 @@
+[
+    {
+        "slug": "ole-laurits-hiim-haugseth-dobbel-for-sverresborg",
+        "url": "/lokalfotballen/i/y6ywyJ/ole-laurits-hiim-haugseth-dobbel-for-sverresborg",
+        "title": {
+            "value": "Ole Laurits Hiim Haugseth-dobbel for Sverresborg"
+        },
+        "description": "Ole Laurits Hiim Haugseth sto fram med to mål da Sverresborg seiret 3-0 over Vestbyen 2/Nationalkameratene 2 i G14 2. divisjon, Avdeling 3 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-13T19:10:30Z",
+        "lastModifiedAt": "2023-06-13T19:10:30Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "varsler-full-helsesjekk-etter-troebbelet",
+        "url": "/sport/langrenn/i/Q7KbrP/varsler-full-helsesjekk-etter-troebbelet",
+        "title": {
+            "value": "Stoppet helsesjekken etter operasjon – nå varsler Iversen nye undersøkelser"
+        },
+        "description": "Emil Iversen har allerede operert bihulene etter en ny sesong med nedturer. Nå vil skistjernen gjennomføre flere grundige undersøkelser.",
+        "imageUrl": "ada1d6cb-a950-4ce5-b1bd-282dd16dd0dc",
+        "publishedAt": "2023-06-13T18:27:10Z",
+        "lastModifiedAt": "2023-06-13T18:27:10Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "emil-iversen",
+            "langrenn",
+            "trond-nystad"
+        ]
+    },
+    {
+        "slug": "til-minne-om-egil-eidsvaag",
+        "url": "/folk/i/xgy2yV/til-minne-om-egil-eidsvaag",
+        "title": {
+            "value": "Til minne om Egil Eidsvåg"
+        },
+        "description": null,
+        "imageUrl": null,
+        "publishedAt": "2023-06-13T13:03:58Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Minneord"
+        ],
+        "tags": [
+            "minneord"
+        ]
+    },
+    {
+        "slug": "siste-fra-breddefotballen",
+        "url": "/sport/fotball/i/GMjXaq/siste-fra-breddefotballen",
+        "title": {
+            "value": "Tidligere toppfotballdommer blir A-lagstrener"
+        },
+        "description": null,
+        "imageUrl": "171c8c64-f644-4d1a-952e-064b31d3a7fb",
+        "publishedAt": "2023-03-24T14:51:36Z",
+        "lastModifiedAt": "2023-05-09T10:22:27Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "fotball",
+            "breddefotbaill",
+            "lokalfotballen",
+            "breddefotball"
+        ]
+    },
+    {
+        "slug": "han-forsvant-like-raskt-som-han-kom-naa-gjoer-den-tidligere-rbk-spilleren-comeback",
+        "url": "/sport/fotball/i/xgw9Bp/han-forsvant-like-raskt-som-han-kom-naa-gjoer-den-tidligere-rbk-spilleren-comeback",
+        "title": {
+            "value": "Angrer fortsatt på at han forlot RBK: - Agenten min maste"
+        },
+        "description": "Paal Christian Alsaker angrer fortsatt på at han forlot Lerkendal.",
+        "imageUrl": "67d42d4f-383f-4cfc-b7ee-aece4e7c89c0",
+        "publishedAt": "2023-06-13T12:01:48Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "nils-arne-eggen",
+            "rasmus-saga",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/2B4Aer/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag, 13. juni.",
+        "imageUrl": "9eb72e0d-64c6-4680-900f-cae55a221de4",
+        "publishedAt": "2023-06-13T04:01:26Z",
+        "lastModifiedAt": "2023-06-13T04:01:26Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "hattrick-show-fra-trygg-lade-2",
+        "url": "/lokalfotballen/i/veyj94/hattrick-show-fra-trygg-lade-2",
+        "title": {
+            "value": "Hattrick-show fra Trygg / Lade 2"
+        },
+        "description": "Trygg/Lade 2 vant 5-3 mot Orkanger og tok dermed sin første hjemmeseier denne sesongen i 5. divisjon, Trøndelag - Avdeling 2 i fotball for menn. Fred Artur Walla Saasen scoret tre av målene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T22:27:49Z",
+        "lastModifiedAt": "2023-06-12T22:27:49Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "knusende-seier-for-charlottenlund",
+        "url": "/lokalfotballen/i/KnkAWG/knusende-seier-for-charlottenlund",
+        "title": {
+            "value": "Knusende seier for Charlottenlund"
+        },
+        "description": "Charlottenlund knuste Levanger 2 4-0 i 4. divisjon, Trøndelag - Avdeling 1 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T21:28:36Z",
+        "lastModifiedAt": "2023-06-12T21:28:36Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "trygve-solvoll-scoret-hattrick-for-oppdal",
+        "url": "/lokalfotballen/i/veyjwV/trygve-solvoll-scoret-hattrick-for-oppdal",
+        "title": {
+            "value": "Mål-lykke for Trygve Solvoll"
+        },
+        "description": "Oppdal slo Charlottenlund 2 6-1 og har dermed tatt poeng i seks kamper på rad i G19 2. divisjon, Avdeling 4 - Vår. Trygve Solvoll scoret hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T21:07:09Z",
+        "lastModifiedAt": "2023-06-12T21:59:29Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-opp"
+        ]
+    },
+    {
+        "slug": "hattrick-show-fra-bratsberg",
+        "url": "/lokalfotballen/i/4oGAmo/hattrick-show-fra-bratsberg",
+        "title": {
+            "value": "Hattrick-show fra Bratsberg"
+        },
+        "description": "Christian Rasch scoret tre ganger og hjalp Bratsberg til 7-2-seier over Astor i 6. divisjon, Trøndelag - Avdeling 4 i fotball mandag. Bratsberg har fire seirer på sine fem siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T21:03:00Z",
+        "lastModifiedAt": "2023-06-12T21:03:00Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

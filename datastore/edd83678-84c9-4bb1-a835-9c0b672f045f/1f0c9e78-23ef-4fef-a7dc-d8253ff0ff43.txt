@@ -1,0 +1,194 @@
+[
+    {
+        "slug": "alander-boettet-inn-maal-mot-budal",
+        "url": "/lokalfotballen/i/dwzxwo/alander-boettet-inn-maal-mot-budal",
+        "title": {
+            "value": "Alander bøttet inn mål mot Budal"
+        },
+        "description": "Oline Alander sto fram med fire mål da Vestbyen 2 vant 16-1 over Budal i 4. divisjon, Trøndelag - Avdeling 3 i fotball. Budal har gått poengløse av banen i alle kampene sine hittil i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-16T07:31:06Z",
+        "lastModifiedAt": "2023-06-16T07:31:06Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-gauldalsposten",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "dropper-legebesoek-etter-gjentatte-brudd-gidder-ikke-bruke-tid-paa-det",
+        "url": "/sport/fotball/i/wA5GyP/dropper-legebesoek-etter-gjentatte-brudd-gidder-ikke-bruke-tid-paa-det",
+        "title": {
+            "value": "Dropper legebesøk etter gjentatte brudd: – Gidder ikke bruke tid på det"
+        },
+        "description": "Etter seks nesebrudd har Hitra-helten Sindre Kvakland lært seg å ta saken i egne hender.",
+        "imageUrl": "1017a222-bbf9-4c73-a57e-a1a019373ff1",
+        "publishedAt": "2023-06-16T06:43:58Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "hitra",
+            "breddefotbaill",
+            "lokalfotballen"
+        ]
+    },
+    {
+        "slug": "foreslaar-endringer-til-trondheim-vm-dabbet-av-og-blitt-kjedelig-aa-se-paa",
+        "url": "/sport/langrenn/i/O80MJb/foreslaar-endringer-til-trondheim-vm-dabbet-av-og-blitt-kjedelig-aa-se-paa",
+        "title": {
+            "value": "NRK varsler grep til Trondheim-VM"
+        },
+        "description": "Fem NTNU-studenter mener langrenn henger etter som TV-sport. Nå varsler NRK grep til 2025.",
+        "imageUrl": "0e85fe21-807a-43f5-b842-231cc6c09679",
+        "publishedAt": "2023-06-16T06:43:53Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "ski-vm-2025",
+            "langrenn",
+            "kristin-murer-stemland",
+            "nrk"
+        ]
+    },
+    {
+        "slug": "klaveness-advarer-kommunene-i-granulatsaken-de-neste-maanedene-er-avgjoerende",
+        "url": "/nyheter/innenriks/i/158mJJ/klaveness-advarer-kommunene-i-granulatsaken-de-neste-maanedene-er-avgjoerende",
+        "title": {
+            "value": "Klaveness advarer kommunene i granulatsaken: – De neste månedene er avgjørende"
+        },
+        "description": "Fotballpresident Lise Klaveness sier at resten av året er viktig i kampen for å sikre kunstgressbaner og veien videre før granulatforbudet slår inn.",
+        "imageUrl": "2dec4fcb-6059-4fea-aec8-bc199c956c48",
+        "publishedAt": "2023-06-16T05:16:04Z",
+        "lastModifiedAt": "2023-06-16T05:16:04Z",
+        "premium": false,
+        "authors": [
+            "NTB-Lars Eide"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "borteseier-for-charlottenlund-2-over-strindheim-2",
+        "url": "/lokalfotballen/i/158mvq/borteseier-for-charlottenlund-2-over-strindheim-2",
+        "title": {
+            "value": "Charlottenlund 2 med borteseier over Strindheim 2"
+        },
+        "description": "Charlottenlund 2 knuste Strindheim 2 3-0 i 4. divisjon, Trøndelag - Avdeling 2 i fotball for kvinner. Charlottenlund 2 har fire seirer på sine fem siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-15T21:50:00Z",
+        "lastModifiedAt": "2023-06-15T22:01:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "malvik-2-hommelvik-2-rundspilte-ekne",
+        "url": "/lokalfotballen/i/zEevAw/malvik-2-hommelvik-2-rundspilte-ekne",
+        "title": {
+            "value": "Malvik 2 / Hommelvik 2 slo Ekne i målfest"
+        },
+        "description": "Malvik 2/Hommelvik 2 knuste Ekne 7-1 i 6. divisjon, Trøndelag - Avdeling 2 i fotball for menn torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-15T21:05:05Z",
+        "lastModifiedAt": "2023-06-15T21:33:48Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "maalshow-fra-kolstad-2",
+        "url": "/lokalfotballen/i/4oGy7V/maalshow-fra-kolstad-2",
+        "title": {
+            "value": "Scoringslykke for Homstad"
+        },
+        "description": "Lars Petter Homstad viste scoringsform da Kolstad 2 vant 4-3 over Stjørna i 6. divisjon, Trøndelag - Avdeling 3 i fotball torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-15T20:42:13Z",
+        "lastModifiedAt": "2023-06-16T04:31:11Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "ranheim-2-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/pQm7pw/ranheim-2-fortsatte-seiersrekken",
+        "title": {
+            "value": "Åttende strake seier for Ranheim 2"
+        },
+        "description": "Ranheim 2 tok sin åttende seier på rad med 3-2 over Levanger 2/Sverre 2/Skogn 2 i J17 2. divisjon, Avdeling 1 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-15T20:38:54Z",
+        "lastModifiedAt": "2023-06-16T02:29:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "borteseier-for-innherred-over-vanvik",
+        "url": "/lokalfotballen/i/69dxje/borteseier-for-innherred-over-vanvik",
+        "title": {
+            "value": "Innherred med borteseier over Vanvik"
+        },
+        "description": "Vanvik gikk på sitt fjerde tap på rad da laget tapte 1-2 for Innherred i 5. divisjon, Trøndelag - Avdeling 1 i fotball torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-15T20:17:37Z",
+        "lastModifiedAt": "2023-06-15T20:31:04Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "scoringslykke-for-soerkilflaa",
+        "url": "/lokalfotballen/i/JQGk1P/scoringslykke-for-soerkilflaa",
+        "title": {
+            "value": "Sørkilflå-dobbel for Egge"
+        },
+        "description": "Mathias Sørkilflå sto fram med to mål da Egge vant 6-2 over Bangsund i 5. divisjon, Trøndelag - Avdeling 1 i fotball torsdag. Dermed har Egge vunnet tre kamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-15T20:13:22Z",
+        "lastModifiedAt": "2023-06-15T20:31:03Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    }
+]

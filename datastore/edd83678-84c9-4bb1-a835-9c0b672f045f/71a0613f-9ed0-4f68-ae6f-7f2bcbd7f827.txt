@@ -1,0 +1,206 @@
+[
+    {
+        "slug": "full-eufori-etter-cupbomben-har-ikke-opplevd-noe-bedre",
+        "url": "/sport/fotball/i/bgWE3l/full-eufori-etter-cupbomben-har-ikke-opplevd-noe-bedre",
+        "title": {
+            "value": " - Jeg går på vannet i morgen"
+        },
+        "description": "Mens fortvilelsen var stor i Rosenborg-leiren, var gleden minst like stor for 2. divisjonslaget som tente cupbomben.",
+        "imageUrl": "7b52ea7c-f46c-4112-8ac0-9f895b0d2fbd",
+        "publishedAt": "2023-06-01T19:17:43Z",
+        "lastModifiedAt": "2023-06-01T19:30:11Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "stjoerdals-blink-fotball",
+            "kjetil-rekdal",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "rbk-kapteinen-er-klokkeklar-paa-spoersmaal-om-tillit-til-rekdal",
+        "url": "/sport/fotball/i/O8Pw0w/rbk-kapteinen-er-klokkeklar-paa-spoersmaal-om-tillit-til-rekdal",
+        "title": {
+            "value": "RBK-kapteinen er klokkeklar på spørsmål om tillit til Rekdal"
+        },
+        "description": "Markus Henriksen var tydelig da spørsmålet om Kjetil Rekdals framtid kom på banen.",
+        "imageUrl": "ddca3ab3-6903-4e01-8ce3-0899e5efafdc",
+        "publishedAt": "2023-06-01T19:12:04Z",
+        "lastModifiedAt": "2023-06-01T19:34:28Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold",
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "kjetil-rekdal"
+        ]
+    },
+    {
+        "slug": "nye-bannere-paa-lerkendal-etter-cupbomben",
+        "url": "/sport/fotball/i/WRdn2r/nye-bannere-paa-lerkendal-etter-cupbomben",
+        "title": {
+            "value": "Nye bannere på Lerkendal etter cupbomben"
+        },
+        "description": "Flere bannere er hengt opp på Lerkendal. Både ved Nils Arne Eggen-statuen, og ved garderobene.",
+        "imageUrl": "22ce4b47-8b2a-442c-add9-d73830209194",
+        "publishedAt": "2023-06-01T19:11:22Z",
+        "lastModifiedAt": "2023-06-01T19:21:24Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken",
+            "Johannes Strand"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "taus-om-egen-framtid",
+        "url": "/sport/fotball/i/zEXvQq/taus-om-egen-framtid",
+        "title": {
+            "value": "- Det er rimelig brutalt"
+        },
+        "description": "Kjetil Rekdal ville ikke snakke om egen framtid etter at cupbomben var et faktum.",
+        "imageUrl": "384c2252-53cc-49ed-85ea-a949c5a31120",
+        "publishedAt": "2023-06-01T18:27:40Z",
+        "lastModifiedAt": "2023-06-01T18:40:22Z",
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal",
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "styrelederen-etter-tapet-styret-maa-snakke-sammen",
+        "url": "/sport/fotball/i/GMK4e9/styrelederen-etter-tapet-styret-maa-snakke-sammen",
+        "title": {
+            "value": "- Dette er for dårlig"
+        },
+        "description": "Men benekter at det kommer et nytt møte som følger av tapet",
+        "imageUrl": "59dd541a-e716-47fa-9081-411f8a7ccea4",
+        "publishedAt": "2023-06-01T18:16:12Z",
+        "lastModifiedAt": "2023-06-01T18:28:01Z",
+        "premium": true,
+        "authors": [
+            "Even Berthelsen",
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "sport",
+            "fotball",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "melhus-holdt-uavgjort-til-pause-men-molde-ble-for-sterke",
+        "url": "/sport/fotball/i/EQ5Owl/melhus-holdt-uavgjort-til-pause-men-molde-ble-for-sterke",
+        "title": {
+            "value": "Melhus holdt uavgjort til pause, men Molde ble for sterke"
+        },
+        "description": "Melhus er ute av cupen, men var lenge svært gode mot Molde.",
+        "imageUrl": "c725da31-eea4-40a0-a697-026bc46e1910",
+        "publishedAt": "2023-06-01T17:58:03Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "sport",
+            "fotball",
+            "cupen",
+            "melhus",
+            "melhus-idrettslag"
+        ]
+    },
+    {
+        "slug": "her-blir-rbk-krisen-total-sendt-ut-av-cupen-av-stjoerdals-blink",
+        "url": "/sport/fotball/i/P4mK37/her-blir-rbk-krisen-total-sendt-ut-av-cupen-av-stjoerdals-blink",
+        "title": {
+            "value": "Her blir RBK-krisen total - nå øker presset mot Rekdal"
+        },
+        "description": "Onsdag fikk Kjetil Rekdal ny tillit som RBK-trener. Torsdag kom smellen som øker presset ytterligere.",
+        "imageUrl": "a4cc6dfa-c268-4dcf-9f93-733786362a45",
+        "publishedAt": "2023-06-01T17:53:28Z",
+        "lastModifiedAt": "2023-06-01T18:54:58Z",
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "fotball",
+            "rosenborg-bk",
+            "nm-cup-menn",
+            "norsk-fotball"
+        ]
+    },
+    {
+        "slug": "ranheim-saa-roedt-men-vant-med-en-mann-mindre",
+        "url": "/sport/fotball/i/BWdgOe/ranheim-saa-roedt-men-vant-med-en-mann-mindre",
+        "title": {
+            "value": "Kåre hyller reaksjonen etter det røde kortet: – Fantastisk"
+        },
+        "description": "Tidlig i andreomgangen måtte målscorer Ruben Alte forlate banen etter to gule kort. Like før slutt unngikk Ranheim en cupskrell på Myra.",
+        "imageUrl": "11f8ff9f-ef39-40bf-a3b7-056a9cc4b70c",
+        "publishedAt": "2023-06-01T17:51:50Z",
+        "lastModifiedAt": "2023-06-01T18:21:08Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "strindheim-il",
+            "ranheim-tf",
+            "fotball"
+        ]
+    },
+    {
+        "slug": "disse-11-starter-for-rbk-foelg-cupfesten-her",
+        "url": "/sport/fotball/i/8JWgpA/disse-11-starter-for-rbk-foelg-cupfesten-her",
+        "title": {
+            "value": "- Dette er flaut. Sjokkerende"
+        },
+        "description": "Rosenborg er på plass i Stjørdal. Vi følger Blink-RBK og fire andre kamper her fra 17.45!",
+        "imageUrl": "969f9e29-c6c4-4b9c-bf13-937a40976ba5",
+        "publishedAt": "2023-06-01T14:46:00Z",
+        "lastModifiedAt": "2023-06-01T16:40:40Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball"
+        ]
+    },
+    {
+        "slug": "siste-fra-breddefotballen",
+        "url": "/sport/fotball/i/GMjXaq/siste-fra-breddefotballen",
+        "title": {
+            "value": "Nytt håp om å få tilkjent seier etter regelbrudd: - Virker helt meningsløst"
+        },
+        "description": null,
+        "imageUrl": "47afffe1-ee26-4cdb-9359-8f76f1f73907",
+        "publishedAt": "2023-03-24T14:51:36Z",
+        "lastModifiedAt": "2023-05-09T10:22:27Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "fotball",
+            "breddefotbaill",
+            "lokalfotballen",
+            "breddefotball"
+        ]
+    }
+]

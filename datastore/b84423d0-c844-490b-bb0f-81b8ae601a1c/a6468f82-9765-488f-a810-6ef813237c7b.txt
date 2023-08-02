@@ -1,0 +1,358 @@
+[
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMX67B",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMX67B",
+        "preamble": "Odin Thiago Holm (20) har signert en fem års-kontrakt med den skotske storklubben Celtic.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 16:57:37",
+            "niceformat": "22.06.2023, 16:57",
+            "timestamp": "2023-06-22T14:57:37.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/29a4eb30-4b72-45be-9126-5bd78e027b58?fit=crop&format=auto&h=267&w=400&s=7907ec7d5986af923c42372773dc14829c134881",
+            "width": 400
+        },
+        "title": "Thiago Holm forlater Vålerenga: – Celtic er en massiv klubb",
+        "url": "https://www.vg.no/sport/fotball/i/GMX67B/bekreftet-thiago-holm-har-signert-fem-aars-kontrakt-med-celtic"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "LldrgR",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/LldrgR",
+        "preamble": "CLUJ, ROMANIA (VG) Det er et fryktløst U21-landslag som entrer gressmatten mot Sveits i Norges første mesterskapskamp på 10 år.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 15:55:32",
+            "niceformat": "22.06.2023, 15:55",
+            "timestamp": "2023-06-22T13:55:32.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/OJVqxksVpi3g.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "U21-gutta vil forsvare Norges ære: – Vi skal sjokkere",
+        "url": "https://www.vg.no/sport/fotball/i/LldrgR/u21-gutta-vil-forsvare-norges-aere-vi-skal-sjokkere"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgd9Vn",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgd9Vn",
+        "preamble": "Barcelona starter tittelforsvaret i La Liga borte mot Getafe, mens Real Madrid møter Athletic Bilbao. Sesongens første El Clásico er lagt til 29. oktober.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 15:02:35",
+            "niceformat": "22.06.2023, 15:02",
+            "timestamp": "2023-06-22T13:02:35.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/8f932a55-ebce-4ee9-b2f9-6ebcc55486dc?fit=crop&format=auto&h=267&w=400&s=a91af23a850bbe9aeb4505d268193fea5bbaaeba",
+            "width": 400
+        },
+        "title": "La Liga-kalenderen er klar: El Clásico i slutten av oktober",
+        "url": "https://www.vg.no/sport/fotball/i/xgd9Vn/la-liga-kalenderen-er-klar-el-clasico-i-slutten-av-oktober"
+    },
+    {
+        "authors": [
+            {
+                "email": "leif.welhaven@vg.no",
+                "id": "e46ed1bb-8354-4bd4-97d3-09ac43c5dc8f",
+                "name": "Leif Welhaven"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4Xdzb",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4Xdzb",
+        "preamble": "Malcolm Bidali ble et symbol på migrantarbeidernes kamp i Qatar. Dessverre har den ikke ført til stort.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 13:10:14",
+            "niceformat": "22.06.2023, 13:10",
+            "timestamp": "2023-06-22T11:10:14.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/55e4a1a6-002d-461b-a791-60ccce82bfd0?fit=crop&format=auto&h=300&w=400&s=53f34d96157c3195b79a3e728622e65c38b77cb0",
+            "width": 400
+        },
+        "title": "Stille etter stormen",
+        "url": "https://www.vg.no/sport/fotball/i/P4Xdzb/migrantarbeidere-i-qatar-stille-etter-stormen"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEzxg1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEzxg1",
+        "preamble": "CLUJ, ROMANIA (VG) De neste ukene spiller Oscar Bobb for Norge i U21-EM. I etterkant kan 19-åringen bli fast lagkamerat med Erling Braut Haaland (22) i Manchester City.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 13:04:17",
+            "niceformat": "22.06.2023, 13:04",
+            "timestamp": "2023-06-22T11:04:17.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/405eb8d4-60cf-41df-aabf-6f75f4ecc29d?fit=crop&format=auto&h=267&w=400&s=bbd8fa2837d8413135d84c1b83c41a9ad7432a11",
+            "width": 400
+        },
+        "title": "Norsk juvel (19) kan få City-drømmen oppfylt",
+        "url": "https://www.vg.no/sport/fotball/i/zEzxg1/den-norske-juvelen-oscar-bobb-19-kan-faa-city-droemmen-oppfylt"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "APB0k3",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/APB0k3",
+        "preamble": "Australske Gianni Stensness pådro seg en korsbåndsskade under torsdagens trening. Nå er han ute resten av sesongen.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 11:11:58",
+            "niceformat": "22.06.2023, 11:11",
+            "timestamp": "2023-06-22T09:11:58.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a6d48384-694a-4898-98f9-b3c8521aa5bc?fit=crop&format=auto&h=267&w=400&s=203ae662ffb9c06453c89afefac5157ade223b87",
+            "width": 400
+        },
+        "title": "Viktig Viking-brikke ute resten av sesongen",
+        "url": "https://www.vg.no/sport/fotball/i/APB0k3/eliteserien-vikings-midtstopper-gianni-stensness-trolig-ute-resten-av-sesongen-etter-skade-paa-trening"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3EeP59",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3EeP59",
+        "preamble": "Inter Miami-målvakt Nick Marsman (32) havnet på sykehuset i tre dager etter et ublidt møte med en giftig edderkopp.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 11:08:23",
+            "niceformat": "22.06.2023, 11:08",
+            "timestamp": "2023-06-22T09:08:23.000Z"
+        },
+        "thumbnail": {
+            "height": 219,
+            "url": "https://akamai.vgc.no/v2/images/87b75277-c3d1-4b1f-b2f1-63d87e981478?fit=crop&format=auto&h=219&w=400&s=9f4ce34294bfb905d04c2a685e36de9f13e3b45c",
+            "width": 400
+        },
+        "title": "Messis nye lagkamerat på sykehus etter edderkoppbitt",
+        "url": "https://www.vg.no/sport/fotball/i/3EeP59/lionel-messis-inter-miami-lagkamerat-nick-marsman-lagt-inn-paa-sykehuset-etter-giftig-edderkoppbitt"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "KnqzAE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/KnqzAE",
+        "preamble": "De måtte se seg slått i EM-semifinalen av suverene Spania med store, kommende stjerner på laget. De norske spillernes suksess har ikke vært like stabil. Bare to av 23 spiller nå på landslaget.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 08:47:07",
+            "niceformat": "22.06.2023, 08:47",
+            "timestamp": "2023-06-22T06:47:07.000Z"
+        },
+        "thumbnail": {
+            "height": 249,
+            "url": "https://akamai.vgc.no/v2/images/3d1d7711-e5c3-46ed-853c-2d79c2272f67?fit=crop&format=auto&h=249&w=400&s=c3ada2da54f0feb9d2e012405324605b19668744",
+            "width": 400
+        },
+        "title": "Bronselaget 10 år etter den ville festen",
+        "url": "https://www.vg.no/sport/fotball/i/KnqzAE/u21-em-bronselaget-10-aar-etter-den-ville-festen"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "LlXWr4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/LlXWr4",
+        "preamble": "Erling Braut Haaland og Manchester City ser ut til å miste kapteinen sin.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 08:34:16",
+            "niceformat": "22.06.2023, 08:34",
+            "timestamp": "2023-06-22T06:34:16.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/fb40a498-a2f5-4054-84bf-0f5136ad0b40?fit=crop&format=auto&h=267&w=400&s=1cb12e62b3ef20e5c55064dee040e84f59c12ff2",
+            "width": 400
+        },
+        "title": "Medier: City-kapteinen enig med Barcelona",
+        "url": "https://www.vg.no/sport/fotball/i/LlXWr4/medier-city-kapteinen-enig-med-barcelona"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "KnXWx5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/KnXWx5",
+        "preamble": "Newcastle forbereder seg til neste sesong med Champions League-spill. Den første storsigneringen ser ut til å nærme seg.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 08:26:11",
+            "niceformat": "22.06.2023, 08:26",
+            "timestamp": "2023-06-22T06:26:11.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ee3ceb54-5ed4-44af-9fe2-720c5b0a5eba?fit=crop&format=auto&h=267&w=400&s=f1a3b008dfa844b8756662cd4d58b99fdcc954b9",
+            "width": 400
+        },
+        "title": "The Athletic: AC-Milan stjerne nærmer seg Newcastle",
+        "url": "https://www.vg.no/sport/fotball/i/KnXWx5/sandro-tonali-naermer-seg-en-overgang-fra-ac-milan-til-newcastle"
+    }
+]

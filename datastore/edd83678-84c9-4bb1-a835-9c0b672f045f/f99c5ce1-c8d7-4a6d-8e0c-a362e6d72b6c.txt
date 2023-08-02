@@ -1,0 +1,193 @@
+[
+    {
+        "slug": "chat-fortsetter-ranheims-cupeventyr",
+        "url": "/sport/fotball/i/0QO3jJ/chat-fortsetter-ranheims-cupeventyr",
+        "title": {
+            "value": "- Forsøker et lykketreff "
+        },
+        "description": "Både Ranheim og Stjørdals/Blink henger med i cupen. Varer det også etter denne onsdagskvelden? Følg Adressas chat.",
+        "imageUrl": "0a49a37d-1b2e-4cf6-b18e-e21c83ace43a",
+        "publishedAt": "2023-06-07T15:48:12Z",
+        "lastModifiedAt": "2023-06-07T16:20:33Z",
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "ranheim-tf"
+        ]
+    },
+    {
+        "slug": "rbk-henter-stortalent",
+        "url": "/sport/fotball/i/eJ0qWl/rbk-henter-stortalent",
+        "title": {
+            "value": "RBK henter stortalent"
+        },
+        "description": "Rosenborg er enig med Cille Nilsen om en treårskontrakt.",
+        "imageUrl": "f0a3b224-c233-4f7b-a352-b8d8793f06a7",
+        "publishedAt": "2023-06-07T15:35:11Z",
+        "lastModifiedAt": "2023-06-07T15:36:36Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "toppserien",
+            "rosenborg-kvinner",
+            "cille-nilsen"
+        ]
+    },
+    {
+        "slug": "iversen-med-klar-beskjed-til-familien-om-dere-mener-det-slutter-jeg",
+        "url": "/sport/langrenn/i/8Jz9Kw/iversen-med-klar-beskjed-til-familien-om-dere-mener-det-slutter-jeg",
+        "title": {
+            "value": "Iversen med klar beskjed til familien: – Om dere mener det, slutter jeg"
+        },
+        "description": "Emil Iversen tar drastiske grep for å slå tilbake etter to tøffe år. Det hele startet med et familieråd.",
+        "imageUrl": "58460d99-6918-4764-ac0d-0bb9d9d21b36",
+        "publishedAt": "2023-06-07T14:40:49Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "emil-iversen",
+            "langrenn",
+            "johannes-hoesflot-klaebo",
+            "trond-nystad"
+        ]
+    },
+    {
+        "slug": "her-er-han-tilbake-paa-rbk-trening-oensker-snarlig-avklaring",
+        "url": "/sport/i/JQGBbb/her-er-han-tilbake-paa-rbk-trening-oensker-snarlig-avklaring",
+        "title": {
+            "value": "Her er han tilbake på trening"
+        },
+        "description": "Noah Holm er tilbake i Trondheim etter det han beskriver som en skuffende avslutning på sesongen i Frankrike.",
+        "imageUrl": "a91618ff-8332-4089-b99f-b27900dbdaf4",
+        "publishedAt": "2023-06-07T11:41:05Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Yngve Bergli",
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg",
+            "noah-holm"
+        ]
+    },
+    {
+        "slug": "flere-klubber-reagerer-paa-kretsens-avgjoerelse-taapelig",
+        "url": "/sport/fotball/i/eJ0z7Q/flere-klubber-reagerer-paa-kretsens-avgjoerelse-taapelig",
+        "title": {
+            "value": "Betalte ikke gebyr på 500 kroner - det kan ødelegge drømmen"
+        },
+        "description": "Styrelederen betegner fotballkretsens håndtering som «håpløs». Samtidig får han støtte fra flere konkurrenter.",
+        "imageUrl": "103483d4-4aed-4896-b09f-b5719dddfa31",
+        "publishedAt": "2023-06-07T11:23:49Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "4-divisjon",
+            "breddefotbaill",
+            "lokalfotballen"
+        ]
+    },
+    {
+        "slug": "han-er-ny-sportslig-leder-i-rosenborg",
+        "url": "/sport/fotball/i/zEe4Vr/han-er-ny-sportslig-leder-i-rosenborg",
+        "title": {
+            "value": "Ny RBK-jobb: – Spennende"
+        },
+        "description": "Mads Pettersen blir ny sportslig leder i Rosenborg Kvinner. Han går inn i stillingen etter å ha vært toppspillerutvikler i klubben.",
+        "imageUrl": "e6eb4472-64ba-423c-9489-6242e147523b",
+        "publishedAt": "2023-06-07T09:40:55Z",
+        "lastModifiedAt": "2023-06-07T09:45:33Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/158qpX/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag. 7. juni.",
+        "imageUrl": "9309c9c4-55cd-42df-a20a-d67349ed2c25",
+        "publishedAt": "2023-06-07T04:01:53Z",
+        "lastModifiedAt": "2023-06-07T04:01:53Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "dobbel-lykke-da-ranheim-tf-2-vant",
+        "url": "/lokalfotballen/i/onPkKB/dobbel-lykke-da-ranheim-tf-2-vant",
+        "title": {
+            "value": "To fulltreffere fra Fillip Dahl Heireth"
+        },
+        "description": "Ranheim TF 2 har tatt poeng i fem strake kamper etter dagens 5-1-seier i G19 2. divisjon, Avdeling 4 - Vår tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-06T20:39:35Z",
+        "lastModifiedAt": "2023-06-06T20:59:26Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "tvete-var-giftig-foran-maal-scoret-hattrick",
+        "url": "/lokalfotballen/i/wA5Rr1/tvete-var-giftig-foran-maal-scoret-hattrick",
+        "title": {
+            "value": "Tvete var giftig foran mål - scoret hattrick"
+        },
+        "description": "Ekne ledet 5-3, men Helgådal kom tilbake og sørget for 5-5 i 6. divisjon, Trøndelag - Avdeling 2 i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-06T20:32:06Z",
+        "lastModifiedAt": "2023-06-06T20:32:06Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "knusende-seier-for-kvam-7er",
+        "url": "/lokalfotballen/i/wA5R8n/knusende-seier-for-kvam-7er",
+        "title": {
+            "value": "Brakseier for Kvam 7er"
+        },
+        "description": "Hanne Lundås Bueng viste scoringsform da Kvam 7er seiret 8-0 over Vuku 2 7er i 7er, Trøndelag - Avdeling 1 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-06T19:50:43Z",
+        "lastModifiedAt": "2023-06-06T19:59:21Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred",
+            "lokalfotballen-steinkjer-2"
+        ]
+    }
+]

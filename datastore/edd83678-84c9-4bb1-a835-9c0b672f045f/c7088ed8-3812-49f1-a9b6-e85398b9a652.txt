@@ -1,0 +1,198 @@
+[
+    {
+        "slug": "her-blir-det-store-endringer-sentralt-i-trondheim",
+        "url": "/nyheter/i/eJRMrK/her-blir-det-store-endringer-sentralt-i-trondheim",
+        "title": {
+            "value": "Her blir det store endringer sentralt i Trondheim"
+        },
+        "description": "Kommunedirektøren ville avslå søknaden om det nye prosjektet i Trondheim. Tirsdag behandlet politikerne saken.",
+        "imageUrl": "3addd248-6865-45cb-944a-fa7bed7c3d48",
+        "publishedAt": "2023-06-21T04:36:40Z",
+        "lastModifiedAt": "2023-06-21T04:36:40Z",
+        "premium": true,
+        "authors": [
+            "Alexander Killingberg"
+        ],
+        "tags": [
+            "byutvikling",
+            "byutvikling-i-trondheim"
+        ]
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/4olEP9/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene onsdag 21. juni.",
+        "imageUrl": "f1af9bb4-af73-480b-bd57-b6e4a30ea9fe",
+        "publishedAt": "2023-06-21T04:00:57Z",
+        "lastModifiedAt": "2023-06-21T04:00:57Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "gjorde-ikke-samme-tabbe-som-rekdal",
+        "url": "/sport/i/y6JzlR/gjorde-ikke-samme-tabbe-som-rekdal",
+        "title": {
+            "value": "Gjorde ikke samme tabbe som Rekdal"
+        },
+        "description": "KOMMENTAR: Ståle Solbakken taklet kollapsen mot Skottland godt. Sjefens måte å løse skuffelsen på så ut til å smitte over på hele landslaget.",
+        "imageUrl": "ad2ab074-f9c7-409e-a0a6-42829894eb51",
+        "publishedAt": "2023-06-20T20:35:56Z",
+        "lastModifiedAt": "2023-06-20T20:35:56Z",
+        "premium": true,
+        "authors": [
+            "Birger Løfaldli"
+        ],
+        "tags": [
+            "staale-solbakken",
+            "kjetil-rekdal",
+            "alexander-soerloth",
+            "ola-solbakken",
+            "svein-maalen",
+            "birger-loefaldli"
+        ]
+    },
+    {
+        "slug": "innherred-seiret-i-maalfest",
+        "url": "/lokalfotballen/i/APBR03/innherred-seiret-i-maalfest",
+        "title": {
+            "value": "Innherred seiret i målfest"
+        },
+        "description": "Nessegutten gikk på sitt fjerde tap på rad da laget røk 2-6 for Innherred i 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn. Simen Løfblad Kirkreit scoret tre ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-20T20:25:36Z",
+        "lastModifiedAt": "2023-06-20T20:33:49Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "rbk-dorsin-forstaar-spoersmaalene-ikke-vurdert-aa-trekke-seg",
+        "url": "/sport/fotball/i/5Bepd1/rbk-dorsin-forstaar-spoersmaalene-ikke-vurdert-aa-trekke-seg",
+        "title": {
+            "value": "Dorsin forstår spørsmålene: Ikke vurdert å trekke seg"
+        },
+        "description": "Mikael Dorsin føler et ansvar for RBKs svake seriestart, som endte i trenersparking.",
+        "imageUrl": "0834bbe8-a30c-4297-b163-e75bdf2a23c2",
+        "publishedAt": "2023-06-20T19:12:37Z",
+        "lastModifiedAt": "2023-06-20T19:32:45Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "mikael-dorsin",
+            "rosenborg-bk",
+            "andre-hansen",
+            "kjetil-knutsen",
+            "svein-maalen",
+            "roar-vikvang",
+            "eirik-horneland",
+            "tore-bjoerseth-berdal"
+        ]
+    },
+    {
+        "slug": "kan-norge-slaa-tilbake-etter-fiasko-kampen-foelg-kampen-her",
+        "url": "/sport/fotball/i/2Bgpor/kan-norge-slaa-tilbake-etter-fiasko-kampen-foelg-kampen-her",
+        "title": {
+            "value": "Norge vant på hjemmebane"
+        },
+        "description": "Norge møter tabelljumbo Kypros i EM-kvalifiseringen. Kampen, som starer 20.45, kan du følge minutt for minutt nedenfor.",
+        "imageUrl": "9409ec82-2632-473b-93e4-bbaedfcef295",
+        "publishedAt": "2023-06-20T18:15:00Z",
+        "lastModifiedAt": "2023-06-20T19:04:35Z",
+        "premium": false,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "vuku-2-leksdal-2-knuste-laanke-2",
+        "url": "/lokalfotballen/i/Q7XMoJ/vuku-2-leksdal-2-knuste-laanke-2",
+        "title": {
+            "value": "Vuku 2 / Leksdal 2 knuste Lånke 2"
+        },
+        "description": "Vuku 2/Leksdal 2 knuste Lånke 2 4-0 i 6. divisjon, Trøndelag - Avdeling 2 i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T22:04:20Z",
+        "lastModifiedAt": "2023-06-19T22:04:20Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "malvik-tok-sin-sjuende-seier-paa-rad",
+        "url": "/lokalfotballen/i/q1x1Kw/malvik-tok-sin-sjuende-seier-paa-rad",
+        "title": {
+            "value": "Malvik tok sin sjuende seier på rad"
+        },
+        "description": "Malvik knuste Utleira 3-0 i 3. divisjon, Trøndelag i fotball. Malvik har tatt poeng i sju strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T21:05:05Z",
+        "lastModifiedAt": "2023-06-19T21:34:55Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "knusende-seier-for-tiller-2",
+        "url": "/lokalfotballen/i/P4X4kb/knusende-seier-for-tiller-2",
+        "title": {
+            "value": "Bye-Andersen-dobbel for Tiller 2"
+        },
+        "description": "Tiller 2 knuste Nardo 6-0 i 3. divisjon, Trøndelag i fotball. Ida Sofie Bye-Andersen scoret to ganger. Tiller 2 har tatt poeng i sine fem siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T20:43:25Z",
+        "lastModifiedAt": "2023-06-19T21:34:56Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ingen-maal-paa-heggoeya-kunstgras",
+        "url": "/lokalfotballen/i/jlxl60/ingen-maal-paa-heggoeya-kunstgras",
+        "title": {
+            "value": "Ingen mål på Heggøya kunstgras"
+        },
+        "description": "Verken Meldal eller Flatås fikk nettkjenning da lagene møttes i 6. divisjon, Trøndelag - Avdeling 5 i fotball for menn mandag. Det stanset tapsrekken til Flatås, som var poengløse på de siste fem kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T20:38:14Z",
+        "lastModifiedAt": "2023-06-19T20:38:14Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    }
+]

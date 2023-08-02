@@ -1,0 +1,371 @@
+[
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3L7vM",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3L7vM",
+        "preamble": "ULLEVAAL STADION (VG) Daily Mail-journalist Craig Hope forteller at det er Haaland-hysteri i Skottland før lørdagens potensielle skjebnekamp mot Norge.",
+        "published": {
+            "date": "lørdag 17. juni",
+            "datetime": "2023-06-17 09:56:11",
+            "niceformat": "17.06.2023, 09:56",
+            "timestamp": "2023-06-17T07:56:11.000Z"
+        },
+        "thumbnail": {
+            "height": 265,
+            "url": "https://akamai.vgc.no/v2/images/1a0f58fe-9af5-49ec-966c-8931409aaf8d?fit=crop&format=auto&h=265&w=400&s=a84b543efff913d71ebd2f61cf13042bd5941ad5",
+            "width": 400
+        },
+        "title": "Hysteri i Storbritannia: Engelsk journalist fikk uventet Haaland-møte ",
+        "url": "https://www.vg.no/sport/fotball/i/l3L7vM/hysteri-i-storbritannia-engelsk-journalist-fikk-uventet-haaland-moete"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4oGlVq",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4oGlVq",
+        "preamble": "Det norske landslaget fikk en skuffende start på EM-kvalifiseringen, og ferden mot første mesterskapssluttspill siden 2000 har fått en betydelig ripe i lakken. Norsk Regnesentral har undersøkt tallene på Norges sjanse for direkte kvalik.",
+        "published": {
+            "date": "lørdag 17. juni",
+            "datetime": "2023-06-17 08:14:11",
+            "niceformat": "17.06.2023, 08:14",
+            "timestamp": "2023-06-17T06:14:11.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/3e594085-33cb-4b35-9452-464a3da1c167?fit=crop&format=auto&h=267&w=400&s=5a831a999afbd157862023b0b3bc558c3ad73c9e",
+            "width": 400
+        },
+        "title": "Dette er sannsynligheten for at Norge går til EM: – Har ikke råd til noe bananskall",
+        "url": "https://www.vg.no/sport/fotball/i/4oGlVq/fotball-sannsynligheten-for-at-norge-kvalifiserer-seg-til-em"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WRWEJd",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WRWEJd",
+        "preamble": "ULLEVAAL STADION (VG) Landslagskaptein Martin Ødegaard hentet inn en NRK-legende for å underholde lagkompisene noen dager før møtet med Skottland. ",
+        "published": {
+            "date": "lørdag 17. juni",
+            "datetime": "2023-06-17 00:50:54",
+            "niceformat": "17.06.2023, 00:50",
+            "timestamp": "2023-06-16T22:50:54.000Z"
+        },
+        "thumbnail": {
+            "height": 327,
+            "url": "https://akamai.vgc.no/v2/images/a492ffe4-36a3-4c00-8161-796e49595ba0?fit=crop&format=auto&h=327&w=400&s=84e82027494f7f1be6cff6555de991357b6a60f0",
+            "width": 400
+        },
+        "title": "Ødegaard-grep: Hentet inn Dan Børge Akerø til landslagssamling ",
+        "url": "https://www.vg.no/sport/fotball/i/WRWEJd/oedegaard-grep-hentet-inn-dan-boerge-akeroe-til-landslagssamling"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "XbnGOb",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/XbnGOb",
+        "preamble": "(Danmark – Nord-Irland 1–0) Jonas Wind scoret og ølglassene gikk i været i Parken. Men på overtid sjokkerte den nordirske debutanten Callum Marshall Danmark.",
+        "published": {
+            "date": "fredag 16. juni",
+            "datetime": "2023-06-16 22:50:20",
+            "niceformat": "16.06.2023, 22:50",
+            "timestamp": "2023-06-16T20:50:20.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/hxRcn6915MmR.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Danmark slapp med skrekken: – Kjempedrama",
+        "url": "https://www.vg.no/sport/fotball/i/XbnGOb/danmark-slapp-med-skrekken-slo-nord-irland"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kE14Mj",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kE14Mj",
+        "preamble": "Tirsdag sa styreleder Cecilie Gotaas Johnsen at «de har tillit, de er trenere», om Kjetil Rekdal og Geir Frigård. Dagen etter bestemte RBK-styret seg for å sparke trenerne. ",
+        "published": {
+            "date": "fredag 16. juni",
+            "datetime": "2023-06-16 21:09:25",
+            "niceformat": "16.06.2023, 21:09",
+            "timestamp": "2023-06-16T19:09:25.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/49eae2e9-8c5c-4823-809b-295b33e3c8a0?fit=crop&format=auto&h=267&w=400&s=7ff061aa154e346d5a7f93b187948a20f4da09e9",
+            "width": 400
+        },
+        "title": "Ga Rekdal tillit tirsdag – onsdag var han ferdig ",
+        "url": "https://www.vg.no/sport/fotball/i/kE14Mj/ga-rekdal-tillit-tirsdag-onsdag-var-han-ferdig"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8Jz3y1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8Jz3y1",
+        "preamble": "Fredag kom beskjeden om at Kjetil Rekdal er ferdig i Rosenborg. Lørdag gjester han VG-studio under landskampen. ",
+        "published": {
+            "date": "fredag 16. juni",
+            "datetime": "2023-06-16 20:03:38",
+            "niceformat": "16.06.2023, 20:03",
+            "timestamp": "2023-06-16T18:03:38.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/17bd51d7-6346-446f-8690-726ff9ce433c?fit=crop&format=auto&h=267&w=400&s=0f242bd98c9575ec74b55aae17d51bd86a597d9f",
+            "width": 400
+        },
+        "title": "Rekdal i VG-studio under landskampen ",
+        "url": "https://www.vg.no/sport/fotball/i/8Jz3y1/rekdal-i-vg-studio-under-landskampen"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgyx78",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgyx78",
+        "preamble": "Enzo Maresca (43) er mannen som skal forsøke å ta Leicester tilbake opp i Premier League.",
+        "published": {
+            "date": "fredag 16. juni",
+            "datetime": "2023-06-16 19:43:38",
+            "niceformat": "16.06.2023, 19:43",
+            "timestamp": "2023-06-16T17:43:38.000Z"
+        },
+        "thumbnail": {
+            "height": 288,
+            "url": "https://akamai.vgc.no/v2/images/cca70f36-d972-46c8-8b13-7dae430b5ebe?fit=crop&format=auto&h=288&w=400&s=7efaf5e972a74c7c50cd169c30e7229976ea1ee9",
+            "width": 400
+        },
+        "title": "Guardiolas assistent i Manchester City blir ny manager i Leicester",
+        "url": "https://www.vg.no/sport/fotball/i/xgyx78/guardiolas-assistent-i-manchester-city-blir-ny-manager-i-leicester"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3L8K3",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3L8K3",
+        "preamble": "Manchester City-stjernen Kyle Walker (33) kan ende opp i tysk fotball, ifølge fotballnettstedet The Athletic.",
+        "published": {
+            "date": "fredag 16. juni",
+            "datetime": "2023-06-16 18:44:16",
+            "niceformat": "16.06.2023, 18:44",
+            "timestamp": "2023-06-16T16:44:16.000Z"
+        },
+        "thumbnail": {
+            "height": 272,
+            "url": "https://akamai.vgc.no/v2/images/c5a23292-b4f0-41ae-99b1-bb9655e15b2e?fit=crop&format=auto&h=272&w=400&s=7b7f43000e526ff5c1f33dc6171c5c4d6bfbfcba",
+            "width": 400
+        },
+        "title": "The Athletic: Walker i samtaler med Bayern München",
+        "url": "https://www.vg.no/sport/fotball/i/l3L8K3/the-athletic-manchester-city-spiller-kyle-walker-i-samtaler-med-bayern-munchen"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3L7mG",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3L7mG",
+        "preamble": "Svein Maalen (45) overtar som midlertidig trener etter Kjetil Rekdal. Nå varsler han endringer. ",
+        "published": {
+            "date": "fredag 16. juni",
+            "datetime": "2023-06-16 15:35:06",
+            "niceformat": "16.06.2023, 15:35",
+            "timestamp": "2023-06-16T13:35:06.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/662909a0-20b6-4625-91f1-d9839a8b26ba?fit=crop&format=auto&h=267&w=400&s=fdf8e0230c7e3e60bf158574e921a96c51ad4aaa",
+            "width": 400
+        },
+        "title": "RBKs nye trener: – Drømmejobben ",
+        "url": "https://www.vg.no/sport/fotball/i/l3L7mG/rbks-nye-trener-droemmejobben"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "veyvn5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/veyvn5",
+        "preamble": "Arsenal-stopper William Saliba kommer til å signere ny langtidskontrakt med London-klubben, ifølge anerkjente Fabrizio Romano.",
+        "published": {
+            "date": "fredag 16. juni",
+            "datetime": "2023-06-16 14:39:04",
+            "niceformat": "16.06.2023, 14:39",
+            "timestamp": "2023-06-16T12:39:04.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/8038f333-a139-4d8e-a88d-c1c515d9b2dd?fit=crop&format=auto&h=267&w=400&s=4c19e9ad2eb29d1fbea150c76625dc0334b6b1f7",
+            "width": 400
+        },
+        "title": "Romano: Saliba signerer ny kontrakt",
+        "url": "https://www.vg.no/sport/fotball/i/veyvn5/romano-saliba-signerer-ny-kontrakt"
+    }
+]

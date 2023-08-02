@@ -1,0 +1,368 @@
+[
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WRyAjQ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WRyAjQ",
+        "preamble": "Eirik Hestad (28) returnerer til Molde. VG erfarer at han signerer for klubben i dag.",
+        "published": {
+            "date": "fredag 7. juli",
+            "datetime": "2023-07-07 12:09:06",
+            "niceformat": "07.07.2023, 12:09",
+            "timestamp": "2023-07-07T10:09:06.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/aecc1761-ce99-40c3-946d-f3844786e87d?fit=crop&format=auto&h=267&w=400&s=85b87527870225d2111ffc23eeac0b8d1af25630",
+            "width": 400
+        },
+        "title": "Opplysninger til VG: Eirik Hestad signerer for Molde",
+        "url": "https://www.vg.no/sport/fotball/i/WRyAjQ/opplysninger-til-vg-eirik-hestad-signerer-for-molde"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQkaaA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQkaaA",
+        "preamble": "BODØ (VG) Omar Elabdellaoui (31) har fått en utfordrende start på Bodø/Glimt-karrieren, uten familien og med mange skader. På trening denne uken fikk han et hyggelig besøk.",
+        "published": {
+            "date": "fredag 7. juli",
+            "datetime": "2023-07-07 11:44:44",
+            "niceformat": "07.07.2023, 11:44",
+            "timestamp": "2023-07-07T09:44:44.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/38b8ade2-a1bc-44ac-bcd2-ad63de91ec9a?fit=crop&format=auto&h=300&w=400&s=61894654ef814130df0271bfe3f487cd27871706",
+            "width": 400
+        },
+        "title": "Elabdellaoui åpner opp om tøff Glimt-start: – Har vært mye forskjellig",
+        "url": "https://www.vg.no/sport/fotball/i/EQkaaA/eliteserien-omar-elabdellaoui-har-hatt-en-toeff-start-for-bodoe-glimt-uten-familien"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4LzQR",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4LzQR",
+        "preamble": "Cupfinalen i fotball for menn flyttes til 9. desember for å unngå kollisjon med utdelingen av Nobels fredspris søndag 10. desember.",
+        "published": {
+            "date": "fredag 7. juli",
+            "datetime": "2023-07-07 10:21:02",
+            "niceformat": "07.07.2023, 10:21",
+            "timestamp": "2023-07-07T08:21:02.000Z"
+        },
+        "thumbnail": {
+            "height": 253,
+            "url": "https://akamai.vgc.no/v2/images/716b4268-2330-45a4-ae57-71dfabdccfa5?fit=crop&format=auto&h=253&w=400&s=105ffcf5cca1b198b8e9db64e7698dd7192a155a",
+            "width": 400
+        },
+        "title": "Cupfinalen for menn flyttes til 9. desember",
+        "url": "https://www.vg.no/sport/fotball/i/P4LzQR/cupfinalen-for-menn-flyttes-til-9-desember"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69MgdO",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69MgdO",
+        "preamble": "Rio Ferdinand (44) og Jamie Carragher (45) går hardt ut mot hverandre i debatten om den saudiarabiske ligaens vanvittige satsing.",
+        "published": {
+            "date": "torsdag 6. juli",
+            "datetime": "2023-07-06 23:57:45",
+            "niceformat": "06.07.2023, 23:57",
+            "timestamp": "2023-07-06T21:57:45.000Z"
+        },
+        "thumbnail": {
+            "height": 260,
+            "url": "https://akamai.vgc.no/v2/images/fbcf2952-ad98-436c-8c8c-9b9444868942?fit=crop&format=auto&h=260&w=400&s=59873a79fe9c4386117aa5a76e71e4e788515149",
+            "width": 400
+        },
+        "title": "Premier League-legender i ordkrig om Saudi-Arabia: – Hvor er du, mann?",
+        "url": "https://www.vg.no/sport/fotball/i/69MgdO/premier-league-legender-i-ordkrig-om-saudi-arabia-hvor-er-du-mann"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "MovBnJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/MovBnJ",
+        "preamble": "Granit Xhaka (30) returnerer til Tyskland. Den tidligere Arsenal-kapteinen har signert for Bayer Leverkusen.",
+        "published": {
+            "date": "torsdag 6. juli",
+            "datetime": "2023-07-06 18:41:28",
+            "niceformat": "06.07.2023, 18:41",
+            "timestamp": "2023-07-06T16:41:28.000Z"
+        },
+        "thumbnail": {
+            "height": 262,
+            "url": "https://akamai.vgc.no/v2/images/8a43d0ec-281f-45fb-835f-5d90f513e236?fit=crop&format=auto&h=262&w=400&s=560bcba8dddd275f391bd9de5efb9bf9b1462e5c",
+            "width": 400
+        },
+        "title": "Xhaka forlater Arsenal – klar for tysk klubb",
+        "url": "https://www.vg.no/sport/fotball/i/MovBnJ/xhaka-forlater-arsenal"
+    },
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            },
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAJpmG",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAJpmG",
+        "preamble": "César Azpilicueta (33) er ferdig i Chelsea etter 11 år. Ferden går videre til Spania.",
+        "published": {
+            "date": "torsdag 6. juli",
+            "datetime": "2023-07-06 15:05:39",
+            "niceformat": "06.07.2023, 15:05",
+            "timestamp": "2023-07-06T13:05:39.000Z"
+        },
+        "thumbnail": {
+            "height": 274,
+            "url": "https://akamai.vgc.no/v2/images/922ea4cf-e5cb-444a-8274-f5cfbaabda6c?fit=crop&format=auto&h=274&w=400&s=8ca42681a2abfe37c98b5833389c8c35e38ac253",
+            "width": 400
+        },
+        "title": "Tårevått farvel – Chelsea-kapteinen klar for ny klubb",
+        "url": "https://www.vg.no/sport/fotball/i/wAJpmG/taarefult-farvel-chelsea-kapteinen-forlater-klubben"
+    },
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q18rVL",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q18rVL",
+        "preamble": "Etter åtte år i Real Madrid er det slutt for Marco Asensio (27). Torsdag signerte han en treårskontrakt med Paris Saint-Germain.",
+        "published": {
+            "date": "torsdag 6. juli",
+            "datetime": "2023-07-06 14:04:08",
+            "niceformat": "06.07.2023, 14:04",
+            "timestamp": "2023-07-06T12:04:08.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/08f8e96c-3010-4ab2-916e-7325c11fdcc8?fit=crop&format=auto&h=267&w=400&s=119c505210840a0e9578e2c6af35183170d295b3",
+            "width": 400
+        },
+        "title": "Asensio signerte for PSG",
+        "url": "https://www.vg.no/sport/fotball/i/q18rVL/asensio-signerte-for-psg"
+    },
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q18rRe",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q18rRe",
+        "preamble": "Franske medier skriver at hjemmet til Nasser al-Khelaifi, president i PSG, ble ransaket av fransk politi onsdag.",
+        "published": {
+            "date": "torsdag 6. juli",
+            "datetime": "2023-07-06 13:18:24",
+            "niceformat": "06.07.2023, 13:18",
+            "timestamp": "2023-07-06T11:18:24.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/65ae133f-2372-4865-9a66-634ecd1bd576?fit=crop&format=auto&h=267&w=400&s=246db8101db06a71b0372019e21a0882e6a8a357",
+            "width": 400
+        },
+        "title": "Flere medier: PSG-presidentens bolig ransaket",
+        "url": "https://www.vg.no/sport/fotball/i/q18rRe/flere-medier-psg-presidentens-bolig-ransaket"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQw2rR",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQw2rR",
+        "preamble": "Etter 12 serierunder forsvinner Sarpsborgs juvel til utlandet.",
+        "published": {
+            "date": "torsdag 6. juli",
+            "datetime": "2023-07-06 13:05:09",
+            "niceformat": "06.07.2023, 13:05",
+            "timestamp": "2023-07-06T11:05:09.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/f288fc5d-9c3b-43bb-a4ba-b01ac0b5795e?fit=crop&format=auto&h=267&w=400&s=82f746f00b47e1db2ac578a6c792324ce3329526",
+            "width": 400
+        },
+        "title": "Sarpsborg med rekordsalg: Bonsu Baah blir Genk-spiller",
+        "url": "https://www.vg.no/sport/fotball/i/JQw2rR/christopher-bonsu-baah-til-genk-blir-sarpsborgs-stoerste-spillersalg"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QzzmJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QzzmJ",
+        "preamble": "Den norske fotballdommeren Espen Eskås (35) blir kampleder i lørdagens finale mellom Spania og England.",
+        "published": {
+            "date": "torsdag 6. juli",
+            "datetime": "2023-07-06 11:27:49",
+            "niceformat": "06.07.2023, 11:27",
+            "timestamp": "2023-07-06T09:27:49.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/9ba92e7d-1c60-48e0-ab38-e631e1543e28?fit=crop&format=auto&h=267&w=400&s=49d68184a1a0c6e644bc47d27206fa307a193aef",
+            "width": 400
+        },
+        "title": "Espen Eskås dømmer finalen i U21-EM i fotball: – Vel fortjent",
+        "url": "https://www.vg.no/sport/fotball/i/0QzzmJ/espen-eskaas-doemmer-finalen-i-u21-em-i-fotball"
+    }
+]

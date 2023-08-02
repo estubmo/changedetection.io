@@ -1,0 +1,188 @@
+[
+    {
+        "slug": "rosenborg-2-senket-av-storbraaten",
+        "url": "/lokalfotballen/i/APBByn/rosenborg-2-senket-av-storbraaten",
+        "title": {
+            "value": "Storbråten ble helten for Frigg"
+        },
+        "description": "Innbytter Tonje Storbråten avgjorde med sin 3-2-scoring da Frigg slo Rosenborg 2 i 2. divisjon, Avdeling 1 i fotball for kvinner søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-25T15:06:06Z",
+        "lastModifiedAt": "2023-06-25T15:07:11Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "militaerbloggere-minst-13-russiske-soldater-drept-i-opproeret",
+        "url": "/nyheter/utenriks/i/dwaaew/militaerbloggere-minst-13-russiske-soldater-drept-i-opproeret",
+        "title": {
+            "value": "Militærbloggere: Minst 13 russiske soldater drept i opprøret"
+        },
+        "description": "Minst 13 russiske soldater, blant dem flere flygere, ble drept i opprøret fra Wagner-gruppa lørdag, hevder russiske militærbloggere.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-25T15:01:33Z",
+        "lastModifiedAt": "2023-06-25T15:01:33Z",
+        "premium": false,
+        "authors": [
+            "NTB-DPA"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "ranheim-2-seiret-i-maalfest",
+        "url": "/lokalfotballen/i/veGG1B/ranheim-2-seiret-i-maalfest",
+        "title": {
+            "value": "Ranheim 2 seiret i målfest"
+        },
+        "description": "Ranheim 2 har tatt poeng i sju kamper på rad etter dagens 4-3-seier Fridtjof Killi Olsen scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-25T14:04:30Z",
+        "lastModifiedAt": "2023-06-25T14:04:30Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "rbk-helten-er-med-i-studio-foelg-maalens-debut-her",
+        "url": "/sport/fotball/i/Xb33n7/rbk-helten-er-med-i-studio-foelg-maalens-debut-her",
+        "title": {
+            "value": "- I alle dager. Hva skjedde der?"
+        },
+        "description": "Mike Jensen er med under  «Ivers direkte»-sendingen klokken 16.30. Dette er også Svein Maalens debut som RBK-trener.",
+        "imageUrl": "df46054c-c26a-42b8-9d9a-f67a27769af9",
+        "publishedAt": "2023-06-25T13:05:42Z",
+        "lastModifiedAt": "2023-06-25T14:00:49Z",
+        "premium": true,
+        "authors": [],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "eliteserien"
+        ]
+    },
+    {
+        "slug": "kil-hemne-slo-grand-bodoe-paa-hjemmebane",
+        "url": "/lokalfotballen/i/onxxPg/kil-hemne-slo-grand-bodoe-paa-hjemmebane",
+        "title": {
+            "value": "KIL / Hemne seiret over Grand Bodø"
+        },
+        "description": "KIL/Hemne banket Grand Bodø 3-0 i 1. divisjon, grunnserie i fotball for kvinner søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-25T13:00:53Z",
+        "lastModifiedAt": "2023-06-25T13:35:11Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "skrev-ut-boeter-under-fotballcup-det-er-den-store-utfordringen",
+        "url": "/nyheter/trondheim/i/KnXXbG/skrev-ut-boeter-under-fotballcup-det-er-den-store-utfordringen",
+        "title": {
+            "value": "– Over helga vil det nok komme noen reaksjoner"
+        },
+        "description": "Trondheim parkering har skrevet ut titalls bøter for feilparkering under Skandia Cup på Lade.",
+        "imageUrl": "c5611799-20e3-4444-a17a-8d38da8ca415",
+        "publishedAt": "2023-06-25T12:33:28Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ståle Langørgen"
+        ],
+        "tags": [
+            "fotball",
+            "skandia-cup",
+            "trondheim-parkering",
+            "parkering",
+            "idrettsanlegg",
+            "lade"
+        ]
+    },
+    {
+        "slug": "josephine-om-det-foerste-moetet-jeg-er-ikke-vant-til-dette",
+        "url": "/sport/i/pQxKXW/josephine-om-det-foerste-moetet-jeg-er-ikke-vant-til-dette",
+        "title": {
+            "value": "Josephine om det første møtet: - Jeg er ikke vant til dette  "
+        },
+        "description": "– Hun så litt forvirret ut, sier Kari Aalvik Grimsbø.",
+        "imageUrl": "1fe65484-d408-42b9-9bf3-66970cd4e4dd",
+        "publishedAt": "2023-06-25T12:17:13Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "kari-aalvik-grimsboe",
+            "byaasen-haandball-elite"
+        ]
+    },
+    {
+        "slug": "rbk-kjempen-er-straks-gratis-jeg-har-mine-tanker",
+        "url": "/sport/fotball/i/wAkXGn/rbk-kjempen-er-straks-gratis-jeg-har-mine-tanker",
+        "title": {
+            "value": "RBK-kjempen: - Det kan jo være få dager igjen"
+        },
+        "description": "Om seks dager kan André Hansen forhandle med hvem han vil om en kontrakt fra nyttår. 33-åringen er sin egen agent.",
+        "imageUrl": "aead23e1-cfda-4913-8fec-d8064afb5253",
+        "publishedAt": "2023-06-25T09:02:08Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg",
+            "andre-hansen"
+        ]
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/l3aLoo/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene søndag 25. juni.",
+        "imageUrl": "54b2333d-340c-409c-b48b-eb354aba2cc5",
+        "publishedAt": "2023-06-25T04:01:10Z",
+        "lastModifiedAt": "2023-06-25T04:01:10Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "trond-maatte-dele-poengene",
+        "url": "/lokalfotballen/i/l3aLme/trond-maatte-dele-poengene",
+        "title": {
+            "value": "Trond spilte uavgjort"
+        },
+        "description": "Det ble poengdeling mellom Bjørgan/Åfjord 2 og Trond på Bessaker stadion i 6. divisjon, Trøndelag - Avdeling 3 i fotball lørdag. Det stoppet tapsrekken til Bjørgan/Åfjord 2, som ikke hadde tatt poeng de siste tre kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-24T21:05:09Z",
+        "lastModifiedAt": "2023-06-25T09:34:53Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-fosnafolket",
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

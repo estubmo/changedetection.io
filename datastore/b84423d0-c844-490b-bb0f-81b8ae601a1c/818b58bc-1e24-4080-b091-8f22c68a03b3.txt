@@ -1,0 +1,359 @@
+[
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kE1wzj",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kE1wzj",
+        "preamble": "Stjerner som Youri Tielemans og Çaglar Söyüncü er ferdige i Leicester etter nedrykket fra Premier League.",
+        "published": {
+            "date": "mandag 5. juni",
+            "datetime": "2023-06-05 19:58:00",
+            "niceformat": "05.06.2023, 19:58",
+            "timestamp": "2023-06-05T17:58:00.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/3777f7fa-31d0-4c14-b63b-67f006408b83?fit=crop&format=auto&h=266&w=400&s=b4f83da24ff26e1ab314a0342282bfd70488325e",
+            "width": 400
+        },
+        "title": "Syv spillere forlater Leicester gratis etter Premier League-nedrykket",
+        "url": "https://www.vg.no/sport/fotball/i/kE1wzj/syv-spillere-forlater-leicester-gratis-etter-premier-league-nedrykket"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "APW3A5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/APW3A5",
+        "preamble": "SOLSIDEN (VG) Det var kampen han måtte vinne. Etter seieren mot HamKam feiret Kjetil Rekdal (54) med burger og cola. ",
+        "published": {
+            "date": "mandag 5. juni",
+            "datetime": "2023-06-05 18:43:32",
+            "niceformat": "05.06.2023, 18:43",
+            "timestamp": "2023-06-05T16:43:32.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/a586791a-9524-462e-8136-5b0c4fbdeb3b?fit=crop&format=auto&h=300&w=400&s=b264c00f41fe1f9d58babb51b46463ad04e74d7c",
+            "width": 400
+        },
+        "title": "Rekdal åpner opp om presset: – Sover dårligere og våkner om natta",
+        "url": "https://www.vg.no/sport/fotball/i/APW3A5/kjetil-rekdal-om-presset-som-rosenborg-trener"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4wpa7",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4wpa7",
+        "preamble": "Roma-spilleren Tammy Abraham ble båret av banen i siste serierunde av Serie A-fotballen søndag. Nå er det klart at spissen kan bli lenge borte fra fotballen.",
+        "published": {
+            "date": "mandag 5. juni",
+            "datetime": "2023-06-05 18:08:26",
+            "niceformat": "05.06.2023, 18:08",
+            "timestamp": "2023-06-05T16:08:26.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/48e58d6a-2e3f-4653-9250-683b9fb6d719?fit=crop&format=auto&h=267&w=400&s=e3808860a9c1158e1081f561799943a89cf3ac9a",
+            "width": 400
+        },
+        "title": "Kjempesmell for Roma-spiss – pådro seg alvorlig kneskade",
+        "url": "https://www.vg.no/sport/fotball/i/P4wpa7/kjempesmell-for-roma-spiss-paadro-seg-alvorlig-kneskade"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "MoJnj5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/MoJnj5",
+        "preamble": "Ramy Bensebaini (28) går gratis fra Borussia Mönchengladbach til ligarival Borussia Dortmund.",
+        "published": {
+            "date": "mandag 5. juni",
+            "datetime": "2023-06-05 17:15:53",
+            "niceformat": "05.06.2023, 17:15",
+            "timestamp": "2023-06-05T15:15:53.000Z"
+        },
+        "thumbnail": {
+            "height": 251,
+            "url": "https://akamai.vgc.no/v2/images/dc735b72-c08f-4310-8e69-81fe3f6cd166?fit=crop&format=auto&h=251&w=400&s=b2d2f21190180af9e411afd2869912bdd84e5cbe",
+            "width": 400
+        },
+        "title": "Algerisk landslagsspiller signerte for Dortmund",
+        "url": "https://www.vg.no/sport/fotball/i/MoJnj5/algerisk-landslagsspiller-signerte-for-dortmund"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwzRJA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwzRJA",
+        "preamble": "Chelsea har skrevet kontrakt med 16 år gamle Kendry Paez.",
+        "published": {
+            "date": "mandag 5. juni",
+            "datetime": "2023-06-05 16:47:22",
+            "niceformat": "05.06.2023, 16:47",
+            "timestamp": "2023-06-05T14:47:22.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/f3012508-5b76-4138-a98f-730d54d430fb?fit=crop&format=auto&h=267&w=400&s=d5652ab61dfb6ca1e740cb3aec082d58f25d80bd",
+            "width": 400
+        },
+        "title": "Chelsea signerte 16-årig stortalent fra Ecuador",
+        "url": "https://www.vg.no/sport/fotball/i/dwzRJA/chelsea-signerte-16-aarig-stortalent-fra-ecuador"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5BkEJb",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5BkEJb",
+        "preamble": "Stabæk-supporteren som sendte en brusflaske i hodet på dommer Rohit Saggi, får ikke se flere av klubbens hjemmekamper i år.",
+        "published": {
+            "date": "mandag 5. juni",
+            "datetime": "2023-06-05 15:30:58",
+            "niceformat": "05.06.2023, 15:30",
+            "timestamp": "2023-06-05T13:30:58.000Z"
+        },
+        "thumbnail": {
+            "height": 282,
+            "url": "https://akamai.vgc.no/v2/images/6f0e1ef6-8139-4f0d-b8d5-934d5c5eb58b?fit=crop&format=auto&h=282&w=400&s=f9026db6f8e4792d7a0db13f007882b6b6208454",
+            "width": 400
+        },
+        "title": "Stabæk utestenger tilskuer etter flaskekasting mot dommer",
+        "url": "https://www.vg.no/sport/fotball/i/5BkEJb/stabaek-utestenger-tilskuer-etter-flaskekasting-mot-dommer"
+    },
+    {
+        "authors": [
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3E7EQP",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3E7EQP",
+        "preamble": "Lionel Messi (35) har takket av i PSG og er uten kontrakt. Samtidig vokser Barcelona-ryktene etter at faren Jorge ble fotografert i Barcelona-presidenten Joan Laportas hjem.",
+        "published": {
+            "date": "mandag 5. juni",
+            "datetime": "2023-06-05 13:30:55",
+            "niceformat": "05.06.2023, 13:30",
+            "timestamp": "2023-06-05T11:30:55.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a3bab805-555d-40b8-a62f-c55ff82c48f3?fit=crop&format=auto&h=267&w=400&s=43b9fdf6ea90671ab02f8623ad387f7de152ef87",
+            "width": 400
+        },
+        "title": "Messi-ryktene tar seg opp: «Bomben gikk av»",
+        "url": "https://www.vg.no/sport/fotball/i/3E7EQP/messi-ryktene-tar-seg-opp-bomben-gikk-av"
+    },
+    {
+        "authors": [
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "mQWQQv",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/mQWQQv",
+        "preamble": "Overgangsjournalisten Fabrizio Romano melder at Alexis Mac Allister blir Liverpool-spiller.",
+        "published": {
+            "date": "mandag 5. juni",
+            "datetime": "2023-06-05 12:05:54",
+            "niceformat": "05.06.2023, 12:05",
+            "timestamp": "2023-06-05T10:05:54.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/c6b77d1a-c3cd-46fc-8562-bc128d36150f?fit=crop&format=auto&h=266&w=400&s=b88730d17667a0a89f9f19c592be164f88ffabdb",
+            "width": 400
+        },
+        "title": "Fabrizio Romano: Alexis Mac Allister enig med Liverpool",
+        "url": "https://www.vg.no/sport/fotball/i/mQWQQv/romano-mac-allister-enig-med-liverpool"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "158kKK",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/158kKK",
+        "preamble": "EINDHOVEN (VG) Caroline Graham Hansen (28) startet opphentingen som sikret Barcelona Champions League-tittelen. Fotballekspert mener det er på tide at Hansen får betalt for leveransen.",
+        "published": {
+            "date": "mandag 5. juni",
+            "datetime": "2023-06-05 10:30:13",
+            "niceformat": "05.06.2023, 10:30",
+            "timestamp": "2023-06-05T08:30:13.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/5fb3f973-c721-48f0-a4d2-34c6e016733a?fit=crop&format=auto&h=267&w=400&s=37298a4c283aba837aa23aef47b1e8718abc8ccb",
+            "width": 400
+        },
+        "title": "Lanserer Graham Hansen som åpenbar vinner av prestisjepris: – Om ikke, er det urettferdig",
+        "url": "https://www.vg.no/sport/fotball/i/158kKK/lanserer-graham-hansen-som-aapenbar-vinner-av-prestisjepris-om-ikke-er-det-urettferdig"
+    },
+    {
+        "authors": [
+            {
+                "id": "3100f6b8-79ee-4e8e-84b3-e9463bf7d83f",
+                "name": "VG-sporten"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q7OpBW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q7OpBW",
+        "preamble": "For første gang på ti år deltar Norge i U21-EM i fotball for herrer. VG og NRK skal sammen vise alle de norske kampene fra både U21- og det påfølgende U19-EM, mens øvrige kamper i mesterskapet vises eksklusivt på VG+ Sport.",
+        "published": {
+            "date": "mandag 5. juni",
+            "datetime": "2023-06-05 10:03:29",
+            "niceformat": "05.06.2023, 10:03",
+            "timestamp": "2023-06-05T08:03:29.000Z"
+        },
+        "thumbnail": {
+            "height": 263,
+            "url": "https://akamai.vgc.no/v2/images/00a7e1ed-c23e-45ed-8dba-fba360285bfb?fit=crop&format=auto&h=263&w=400&s=e050ff9beac3fd551ee3933e45e1c18caee91f36",
+            "width": 400
+        },
+        "title": "VG inngår samarbeid med NRK – se Norge og alle andre kamper i U21- og U19-EM",
+        "url": "https://www.vg.no/sport/fotball/i/Q7OpBW/se-u21-em-og-u19-em-paa-tv"
+    }
+]

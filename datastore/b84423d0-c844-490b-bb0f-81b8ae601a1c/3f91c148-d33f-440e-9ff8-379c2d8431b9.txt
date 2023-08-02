@@ -1,0 +1,397 @@
+[
+    {
+        "authors": [
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            },
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76Jz1B",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76Jz1B",
+        "preamble": "Ingrid Syrstad Engen (25) viser sin lykke med en av verdens beste fotballspillere Maria Pilar León (28) for sine 337.000 følgere på Instagram.",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 16:58:55",
+            "niceformat": "19.06.2023, 16:58",
+            "timestamp": "2023-06-19T14:58:55.000Z"
+        },
+        "thumbnail": {
+            "height": 478,
+            "url": "https://akamai.vgc.no/v2/images/a12bf6ad-e0e2-40fc-b119-b8efc192e8c6?fit=crop&format=auto&h=478&w=400&s=c3c40caec1f58d669e3557abb6417788909e2357",
+            "width": 400
+        },
+        "title": "Lykkelig Ingrid Syrstad Engen forelsket i lagvenninne: – Elsker deg ",
+        "url": "https://www.vg.no/sport/fotball/i/76Jz1B/barcelona-spiller-ingrid-syrstad-engen-bekrefter-forhold-til-lagvenninnen-maria-pilar-leon-jeg-elsker-deg"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3Ee4v0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3Ee4v0",
+        "preamble": "Pep Guardiola sier han håper at Ilkay Gündogan (32) blir i Manchester City, men at han venter konkurranse fra sin tidligere klubb Barcelona.",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 15:39:44",
+            "niceformat": "19.06.2023, 15:39",
+            "timestamp": "2023-06-19T13:39:44.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/fe09adae-554f-421a-a7b2-a0f660b0e0fa?fit=crop&format=auto&h=267&w=400&s=e9b951a0c84ed5e10823cb224f21aec64f70dada",
+            "width": 400
+        },
+        "title": "Guardiola om Gündogan: – Kjemper for å beholde ham",
+        "url": "https://www.vg.no/sport/fotball/i/3Ee4v0/guardiola-om-gundogan-kjemper-for-aa-beholde-ham"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            },
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "2Bg3Oa",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/2Bg3Oa",
+        "preamble": "ULLEVAAL STADION (VG) Tidligere landslagsspiller John Carew (43) var tilstede på Ullevaal Stadion. Han har startet sin nye jobb i Norges Fotballforbund (NFF). ",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 13:50:06",
+            "niceformat": "19.06.2023, 13:50",
+            "timestamp": "2023-06-19T11:50:06.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/704f8154-45e5-405f-9f59-12b92bd9f2aa?fit=crop&format=auto&h=267&w=400&s=e895b38c5699281cd6c953d7da10fab086f5ffc6",
+            "width": 400
+        },
+        "title": "John Carew har begynt i ny jobb i NFF",
+        "url": "https://www.vg.no/sport/fotball/i/2Bg3Oa/john-carew-har-begynt-i-ny-jobb-i-nff"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69e6VL",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69e6VL",
+        "preamble": "Det å holde plassen i Premier League var ikke godt nok for Bournemouth. Mandag ble Gary O’Neil sparket som manager og Andoni Iraola presentert som etterkommeren.",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 13:43:46",
+            "niceformat": "19.06.2023, 13:43",
+            "timestamp": "2023-06-19T11:43:46.000Z"
+        },
+        "thumbnail": {
+            "height": 302,
+            "url": "https://akamai.vgc.no/v2/images/2410cfe4-3cf3-4042-a3b5-1b793da17274?fit=crop&format=auto&h=302&w=400&s=94132e698c950066aa0465cb46c0a02d339e8b24",
+            "width": 400
+        },
+        "title": "Gary O'Neil er ferdig i Bournemouth – erstatteren presentert",
+        "url": "https://www.vg.no/sport/fotball/i/69e6VL/gary-o-neil-er-ferdig-i-bournemouth"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "LlX5WP",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/LlX5WP",
+        "preamble": "Brendan Rodgers er klar for en ny periode som hovedtrener for det skotske storlaget Celtic.",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 13:24:12",
+            "niceformat": "19.06.2023, 13:24",
+            "timestamp": "2023-06-19T11:24:12.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/685a4f34-8071-4ab7-8f5a-aceb85d274c0?fit=crop&format=auto&h=266&w=400&s=ee86d98080372caa8ab42cf5c0c7a60899b42a0a",
+            "width": 400
+        },
+        "title": "Rodgers gjør comeback i Celtic",
+        "url": "https://www.vg.no/sport/fotball/i/LlX5WP/rodgers-gjoer-comeback-i-celtic"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4XojR",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4XojR",
+        "preamble": "Belgia-keeper Thibaut Courtois har forlatt troppen før EM-kvalifiseringskampen mot Estland, angivelig fordi han ikke fikk være kaptein mot Østerrike i helgen.",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 13:19:32",
+            "niceformat": "19.06.2023, 13:19",
+            "timestamp": "2023-06-19T11:19:32.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/133beaac-e371-42c6-8d56-54e6a6b246bb?fit=crop&format=auto&h=267&w=400&s=aae4b6ffa924d8a9062d3a41e060f7027cb8a3a6",
+            "width": 400
+        },
+        "title": "Krangel i Belgia-troppen – Courtois forlot samlingen",
+        "url": "https://www.vg.no/sport/fotball/i/P4XojR/krangel-i-belgia-troppen-courtois-forlot-samlingen"
+    },
+    {
+        "authors": [
+            {
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Xb36Pn",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Xb36Pn",
+        "preamble": "Landslagsstopperen er syk og reiser hjem fra samlingen med det norske herrelandslaget. ",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 12:00:04",
+            "niceformat": "19.06.2023, 12:00",
+            "timestamp": "2023-06-19T10:00:04.000Z"
+        },
+        "thumbnail": {
+            "height": 268,
+            "url": "https://akamai.vgc.no/v2/images/24646631-d816-493a-9d67-85d728820680?fit=crop&format=auto&h=268&w=400&s=0d1b5cd4e1ce3439908b0e4600e424a5b3ea3786",
+            "width": 400
+        },
+        "title": "Hanche-Olsen reiser hjem ",
+        "url": "https://www.vg.no/sport/fotball/i/Xb36Pn/landslaget-andreas-hanche-olsen-reiser-hjem-fra-samling"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "RGXy0O",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/RGXy0O",
+        "preamble": "ULLEVAAL STADION (VG) Norge slipper inn flest sene mål i Europa, og klarer ikke å levere i de store kampene. Her mener Patrick Berg at landslaget må lære av Glimt.",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 11:46:35",
+            "niceformat": "19.06.2023, 11:46",
+            "timestamp": "2023-06-19T09:46:35.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/02a5f08f-e5cd-4925-82f3-11ce69a0c831?fit=crop&format=auto&h=267&w=400&s=0af891b14e41789e4b33e26ed2850552609b3a3d",
+            "width": 400
+        },
+        "title": "Berg mener Norge kan lære av Glimt: – Uforklarlig",
+        "url": "https://www.vg.no/sport/fotball/i/RGXy0O/berg-mener-norge-kan-laere-av-glimt-uforklarlig"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "mattis.sandblad@vg.no",
+                "id": "79683f94-a05d-4191-9208-ec33ca98d72a",
+                "name": "Mattis Sandblad (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMXQKm",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMXQKm",
+        "preamble": "Emilie Nautnes sto på reservelisten da VM-troppen til Hege Riise ble presentert. Det var bare ett problem. ",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 10:21:36",
+            "niceformat": "19.06.2023, 10:21",
+            "timestamp": "2023-06-19T08:21:36.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/CfsIIGEzXiS4.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "NFF beklager etter uttakstabbe: – Skal ikke skje",
+        "url": "https://www.vg.no/sport/fotball/i/GMXQKm/nff-tabbet-seg-ut-under-vm-uttaket-tok-ut-feil-spiller"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Xb36Em",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Xb36Em",
+        "preamble": "Fotballspilleren Quincy Promes (31) er dømt til fengsel i halvannet år for grov vold etter å ha brukt kniv i en krangel i en bursdagsfest i 2020, melder NOS.",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 10:14:52",
+            "niceformat": "19.06.2023, 10:14",
+            "timestamp": "2023-06-19T08:14:52.000Z"
+        },
+        "title": "Nederlandsk fotballstjerne dømt til fengselsstraff for å ha knivstukket fetteren sin",
+        "url": "https://www.vg.no/sport/fotball/i/Xb36Em/den-nederlandske-fotballstjernen-quincy-promes-doemt-til-fengsel"
+    }
+]

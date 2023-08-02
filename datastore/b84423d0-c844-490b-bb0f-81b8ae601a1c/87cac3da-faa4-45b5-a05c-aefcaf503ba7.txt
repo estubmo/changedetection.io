@@ -1,0 +1,366 @@
+[
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "y6JJjg",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/y6JJjg",
+        "preamble": "(Molde-FK Haugesund 1–0) Molde er inne i en skjebneuke. Det åpnet bra søndag med 1–0 på Røkke-løkka. Uten flere av sine største stjerner.  Det ble drama på overtid da Haugesunds Sory Ibrahim Diarra (23) fikk direkte rødt kort.",
+        "published": {
+            "date": "søndag 25. juni",
+            "datetime": "2023-06-25 18:56:35",
+            "niceformat": "25.06.2023, 18:56",
+            "timestamp": "2023-06-25T16:56:35.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ea50e7f8-917b-4040-a779-2e217354679c?fit=crop&format=auto&h=267&w=400&s=7625f4c71fb0aa31885ac55e1c1bc7eedb3f5141",
+            "width": 400
+        },
+        "title": "Rødt kort på overtid da Molde startet skjebneuken med seier over Haugesund",
+        "url": "https://www.vg.no/sport/fotball/i/y6JJjg/roedt-kort-paa-overtid-da-molde-startet-skjebneuken-med-seier-over-haugesund"
+    },
+    {
+        "authors": [
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QqqdB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QqqdB",
+        "preamble": "TRONDHEIM (VG) (Rosenborg – Sarpsborg 08 0–3) Nesten alt gikk galt i Svein Maalens (45) trenerdebut i Rosenborg. Det endte med lite glitrende angrepsfotball, få sjanser og tre baklengsmål. ",
+        "published": {
+            "date": "søndag 25. juni",
+            "datetime": "2023-06-25 17:55:25",
+            "niceformat": "25.06.2023, 17:55",
+            "timestamp": "2023-06-25T15:55:25.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/5a8f849f-e61c-47f5-ade9-306d3fd41947?fit=crop&format=auto&h=267&w=400&s=e32e5086fb21ac88a0b038db2c0b1a136586f9a5",
+            "width": 400
+        },
+        "title": "Maalen med krisestart i sin Rosenborg-debut: – Dette er årsverste",
+        "url": "https://www.vg.no/sport/fotball/i/0QqqdB/krisestart-for-maalen-i-rosenborg-i-garderoben-til-voldsom-pipekonsert"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69ee03",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69ee03",
+        "preamble": "(Moss – Kongsvinger 0–1) Med sitt tredje mål på fire kamper sendte kaptein og klubblegende Adem Güven (37) Kongsvinger til tabelltopp i Obos-ligaen.",
+        "published": {
+            "date": "søndag 25. juni",
+            "datetime": "2023-06-25 16:53:57",
+            "niceformat": "25.06.2023, 16:53",
+            "timestamp": "2023-06-25T14:53:57.000Z"
+        },
+        "thumbnail": {
+            "height": 268,
+            "url": "https://akamai.vgc.no/v2/images/47bc4fdf-51ee-4a15-b636-4d76652e2480?fit=crop&format=auto&h=268&w=400&s=c76800109c310316c9215a7e804608bf372736c4",
+            "width": 400
+        },
+        "title": "Kongsvinger tok tilbake tabelltoppen ",
+        "url": "https://www.vg.no/sport/fotball/i/69ee03/obos-ligaen-kongsvinger-tilbake-paa-tabelltopp-etter-seier-mot-moss"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5BeeQE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5BeeQE",
+        "preamble": "Det er bare et tidsspørsmål før Villarreal-spiss Nicolas Jackson (22) er Chelsea-spiller, ifølge anerkjente The Athletic.",
+        "published": {
+            "date": "søndag 25. juni",
+            "datetime": "2023-06-25 15:51:36",
+            "niceformat": "25.06.2023, 15:51",
+            "timestamp": "2023-06-25T13:51:36.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/f3362535-066a-4200-858f-9ef65eff74c8?fit=crop&format=auto&h=267&w=400&s=f41ebcc767facdeeeae923d8238c0986a0d7a238",
+            "width": 400
+        },
+        "title": "The Athletic: Nicolas Jackson har bestått den medisinske testen hos Chelsea",
+        "url": "https://www.vg.no/sport/fotball/i/5BeeQE/nicolas-jackson-har-bestaatt-medisinsk-test-hos-chelsea"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "2Bgg3l",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/2Bgg3l",
+        "preamble": "CLUJ, ROMANIA (VG) Kristoffer Klaesson (22) får tillit i U21-landslagets EM-kamp mot Frankrike, etter at Mads Hedenstad Christiansen (22) tabbet seg ut mot Sveits.",
+        "published": {
+            "date": "søndag 25. juni",
+            "datetime": "2023-06-25 15:43:23",
+            "niceformat": "25.06.2023, 15:43",
+            "timestamp": "2023-06-25T13:43:23.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0f43c38c-2f79-4f12-b092-663c85492307?fit=crop&format=auto&h=267&w=400&s=bf9c4ba67e495703ba7753b496f476fb018e8ea1",
+            "width": 400
+        },
+        "title": "Endring før skjebnekamp: Klaesson må redde Norge",
+        "url": "https://www.vg.no/sport/fotball/i/2Bgg3l/endring-etter-keeperkaos-kristoffer-klaesson-22-maa-redde-norge"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4XXmR",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4XXmR",
+        "preamble": "Ifølge Sky i Tyskland er Manchester City og RB Leipzig i forhandlinger om stjerneskuddet Joško Gvardiol (21).",
+        "published": {
+            "date": "søndag 25. juni",
+            "datetime": "2023-06-25 14:34:01",
+            "niceformat": "25.06.2023, 14:34",
+            "timestamp": "2023-06-25T12:34:01.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/c481866a-8e29-49ea-b1b6-d96f76cd53bd?fit=crop&format=auto&h=267&w=400&s=647e3debff9bba0e8cf2f9c5910f3202e8adf52d",
+            "width": 400
+        },
+        "title": "Sky: Manchester City tilbyr gigantsum for midtstopper",
+        "url": "https://www.vg.no/sport/fotball/i/P4XXmR/overgangsrykter-manchester-city-med-milliardbud-paa-josko-gvardiol"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEzzQw",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEzzQw",
+        "preamble": "U21-EM skal benytte VAR fra og med kvartfinalene i turneringen. Det skjer etter store dommerfeil i kampen mellom Italia og Frankrike.",
+        "published": {
+            "date": "søndag 25. juni",
+            "datetime": "2023-06-25 14:08:09",
+            "niceformat": "25.06.2023, 14:08",
+            "timestamp": "2023-06-25T12:08:09.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/49640fc2-a418-4b6f-b066-f46744fc4f10?fit=crop&format=auto&h=267&w=400&s=094b4381d0bef62551b6e41c1f3f5da5eeaf9b3b",
+            "width": 400
+        },
+        "title": "U21-EM innfører VAR etter skandalekamp",
+        "url": "https://www.vg.no/sport/fotball/i/zEzzQw/u21-em-innfoerer-var-etter-skandalekamp"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q7KeBA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q7KeBA",
+        "preamble": "HOLBERGS PLASS (VG) Her fortviler Ola Brynhildsen etter det han trodde var scoring. Situasjonen har fått de ansvarlige for VAR-gruppen i norsk fotball til å tenke mer på måldømming. ",
+        "published": {
+            "date": "søndag 25. juni",
+            "datetime": "2023-06-25 13:11:16",
+            "niceformat": "25.06.2023, 13:11",
+            "timestamp": "2023-06-25T11:11:16.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6be2785b-5e3e-4d09-9425-d913d149b2fb?fit=crop&format=auto&h=267&w=400&s=868d6f4c5bae7f3fb4371516e101c05a2e7c2c8e",
+            "width": 400
+        },
+        "title": "Denne situasjonen får VAR-teamet til å snu: – Det var veldig diskutert",
+        "url": "https://www.vg.no/sport/fotball/i/Q7KeBA/knut-kristvang-og-var-i-norges-fotballforbund-aapner-opp-for-maaldoemming"
+    },
+    {
+        "authors": [
+            {
+                "email": "oyvind.herrebroden@vg.no",
+                "id": "7b5d0009-0f34-41e3-b5af-dcf22addbd42",
+                "name": "Øyvind Herrebrøden"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69eWWe",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69eWWe",
+        "preamble": "Svein Maalen (45) har gått på Rosenborg-treninger i 30 år. Denne uken har han for første gang fått lede dem.",
+        "published": {
+            "date": "søndag 25. juni",
+            "datetime": "2023-06-25 11:43:18",
+            "niceformat": "25.06.2023, 11:43",
+            "timestamp": "2023-06-25T09:43:18.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/551c3096-dda7-4741-b4ec-471ffb543868?fit=crop&format=auto&h=267&w=400&s=2643c95b13c58972f5121968d9ec70e1891edd4d",
+            "width": 400
+        },
+        "title": "Slik ble Maalen Rosenborg-trener: – Har gått fjord og fjell",
+        "url": "https://www.vg.no/sport/fotball/i/69eWWe/eliteserien-slik-ble-ukjente-svein-maalen-rosenborg-trener"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BWeejE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BWeejE",
+        "preamble": "Crystal Palace-angriper Wilfried Zaha (30) har én uke igjen av kontrakten med London-klubben, noe som lokker flere klubber.",
+        "published": {
+            "date": "søndag 25. juni",
+            "datetime": "2023-06-25 10:14:34",
+            "niceformat": "25.06.2023, 10:14",
+            "timestamp": "2023-06-25T08:14:34.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/de17b31c-f884-4a75-92ee-85d907ae363a?fit=crop&format=auto&h=267&w=400&s=fb9710576a16feb0d71a3d1bea463316b6bb64c0",
+            "width": 400
+        },
+        "title": "The Mirror: Al-Nassr ønsker å lønne Zaha 200 millioner kroner i året",
+        "url": "https://www.vg.no/sport/fotball/i/BWeejE/overgangsrykter-al-nassr-og-psg-interessert-i-wilfried-zaha"
+    }
+]

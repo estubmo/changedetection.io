@@ -1,0 +1,193 @@
+[
+    {
+        "slug": "melhus-2-senket-av-vattengaard",
+        "url": "/lokalfotballen/i/zEb9Xv/melhus-2-senket-av-vattengaard",
+        "title": {
+            "value": "Melhus 2 senket av Vattengård"
+        },
+        "description": "Simon Vattengård sikret seieren med sin 1-0-scoring for Glimt mot Melhus 2 på Glimt stadion i 6. divisjon, Trøndelag - Avdeling 4 i fotball tirsdag. Melhus 2 gikk på sitt første tap for sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-09T20:47:16Z",
+        "lastModifiedAt": "2023-05-09T21:15:38Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "malvik-2-spilte-uavgjort",
+        "url": "/lokalfotballen/i/76QjQ8/malvik-2-spilte-uavgjort",
+        "title": {
+            "value": "Uavgjort på Viksletta kunstgress"
+        },
+        "description": "Malvik 2 og NTNUI delte poengene i 4. divisjon, Trøndelag - Avdeling 1 i fotball tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-09T20:33:39Z",
+        "lastModifiedAt": "2023-05-09T20:47:14Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "vuku-og-gullvikmoen-delte-poengene",
+        "url": "/lokalfotballen/i/VPpded/vuku-og-gullvikmoen-delte-poengene",
+        "title": {
+            "value": "Vuku ubeseiret på fire kamper"
+        },
+        "description": "Vuku og Gullvikmoen delte poengene på Elman stadion i G16 1. divisjon, Avdeling 1 - Vår tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-09T20:20:46Z",
+        "lastModifiedAt": "2023-05-09T21:16:44Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "ny-seier-for-fram-remyra",
+        "url": "/lokalfotballen/i/gEBJR0/ny-seier-for-fram-remyra",
+        "title": {
+            "value": "Ny seier for Fram/Remyra"
+        },
+        "description": "Fram/Remyra slo Neset/Aasguten hjemme 3-0 og sikret dermed alle poengene i J17 2. divisjon, Avdeling 1 - Vår. Dermed har Fram/Remyra vunnet fire kamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-09T20:07:43Z",
+        "lastModifiedAt": "2023-05-09T20:22:01Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "orkla-reddet-poeng",
+        "url": "/lokalfotballen/i/4o0rrE/orkla-reddet-poeng",
+        "title": {
+            "value": "Julie Skaugen Runhaug reddet poeng for Orkla"
+        },
+        "description": "Flatås og Orkla delte poengene på Flatåsen kunstgress i J17 1. divisjon, Avdeling 2 - Vår tirsdag. Det medførte at Flatås brøt tapsrekken på tre kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-09T19:54:00Z",
+        "lastModifiedAt": "2023-05-09T20:22:04Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "her-er-rbk-problemet-treneren-helst-ikke-vil-snakke-om",
+        "url": "/sport/fotball/i/bgoQMv/her-er-rbk-problemet-treneren-helst-ikke-vil-snakke-om",
+        "title": {
+            "value": "Her er RBK-problemet treneren helst ikke vil snakke om"
+        },
+        "description": "Rosenborgs angrepsspillere sliter med å få ballen i mål. Treneren mener sjanseproduksjonen holder lenge til å holde stresset over manglende uttelling unna.",
+        "imageUrl": "342371fe-7261-4f17-adfb-2e32565ada90",
+        "publishedAt": "2023-05-09T19:27:52Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "toppserien",
+            "steinar-lein",
+            "cesilie-andreassen"
+        ]
+    },
+    {
+        "slug": "strindheim-3-sikret-poeng",
+        "url": "/lokalfotballen/i/EQqBJa/strindheim-3-sikret-poeng",
+        "title": {
+            "value": "Strindheim 3 sikret poeng"
+        },
+        "description": "Ranheim 2 ledet 1-0, men Strindheim 3 kom tilbake mot slutten og sørget for 1-1 i J13 2. divisjon, Avdeling 4 - Vår. Det stanset tapsrekken til Strindheim 3, som var poengløse på de siste tre kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-09T19:15:03Z",
+        "lastModifiedAt": "2023-05-09T19:15:03Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ranheim-2-tok-sin-tredje-seier-paa-rad",
+        "url": "/lokalfotballen/i/0QkrVo/ranheim-2-tok-sin-tredje-seier-paa-rad",
+        "title": {
+            "value": "Ranheim 2 fortsatte seiersrekken"
+        },
+        "description": "Ranheim 2 kan juble for full pott så langt denne sesongen, etter å ha slått Vinne 4-1. I J17 2. divisjon, Avdeling 1 - Vår tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-09T18:47:35Z",
+        "lastModifiedAt": "2023-05-09T19:45:06Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "sjetne-2-7er-seiret-i-maalfest",
+        "url": "/lokalfotballen/i/zEb9A4/sjetne-2-7er-seiret-i-maalfest",
+        "title": {
+            "value": "Sjetne 2 7er vant i målfest"
+        },
+        "description": "Ranheim ble slått 10-6 av Sjetne 2 7er og tapte dermed sin første kamp i årets sesong. I J15 2. divisjon, Avdeling 4 - Vår tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-09T18:47:34Z",
+        "lastModifiedAt": "2023-05-09T19:16:06Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ranheim-2-vant-over-nidelv-2",
+        "url": "/lokalfotballen/i/gEBJWk/ranheim-2-vant-over-nidelv-2",
+        "title": {
+            "value": "Borteseier for Ranheim 2 over Nidelv 2"
+        },
+        "description": "Ranheim 2 slo Nidelv 2 4-0 og tok sin første seier i årets sesong. I G13 2. divisjon, Avdeling 4 - Vår tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-09T18:08:34Z",
+        "lastModifiedAt": "2023-05-09T18:16:53Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

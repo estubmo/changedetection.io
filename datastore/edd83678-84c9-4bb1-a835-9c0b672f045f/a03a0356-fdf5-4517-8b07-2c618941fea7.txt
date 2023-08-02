@@ -1,0 +1,188 @@
+[
+    {
+        "slug": "spillum-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/O8qx8k/spillum-fortsatte-seiersrekken",
+        "title": {
+            "value": "Spillum fortsatte seiersrekken"
+        },
+        "description": "Marius Eggen Persgård ledet an med to av målene i 5-2-seieren over Inderøy i 6. divisjon, Trøndelag - Avdeling 1 i fotball. Det var Spillums tredje strake seier.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T21:54:13Z",
+        "lastModifiedAt": "2023-05-15T21:54:13Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "ranheim-2-vant-i-maalfest",
+        "url": "/lokalfotballen/i/rlbxER/ranheim-2-vant-i-maalfest",
+        "title": {
+            "value": "Storseier for Ranheim 2"
+        },
+        "description": "Ranheim 2 slo Fosen 7-1 og har dermed tatt poeng i seks strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T21:40:50Z",
+        "lastModifiedAt": "2023-05-15T21:54:14Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-fosnafolket",
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "sverre-snudde-til-seier-paa-tampen-over-vikvarvet",
+        "url": "/lokalfotballen/i/APqK3j/sverre-snudde-til-seier-paa-tampen-over-vikvarvet",
+        "title": {
+            "value": "Sverre snudde til seier i sluttminuttene mot Vikvarvet"
+        },
+        "description": "Sverre snudde til seier i sluttminuttene mot Vikvarvet i 6. divisjon, Trøndelag - Avdeling 2 i fotball. Stian Venseth scoret to ganger. Det var Vikvarvets tredje tap på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T21:25:26Z",
+        "lastModifiedAt": "2023-05-15T21:54:14Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "to-fulltreffere-fra-fossdal",
+        "url": "/lokalfotballen/i/eJXQPQ/to-fulltreffere-fra-fossdal",
+        "title": {
+            "value": "To fulltreffere fra Fossdal"
+        },
+        "description": "Inge Marius Fossdal viste scoringsform da Kolstad 2 seiret 4-1 over Kattem i 6. divisjon, Trøndelag - Avdeling 3 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T21:25:24Z",
+        "lastModifiedAt": "2023-05-15T21:25:24Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "strindheim-vant-igjen",
+        "url": "/lokalfotballen/i/bgo0zl/strindheim-vant-igjen",
+        "title": {
+            "value": "Strindheim tok sin tredje strake seier"
+        },
+        "description": "Johanne Skarvøy Strand scoret kampens eneste mål da Strindheim slo Charlottenlund 1-0 i 3. divisjon, Trøndelag i fotball for kvinner. Charlottenlund har gått poengløse av banen i fire strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T21:25:23Z",
+        "lastModifiedAt": "2023-05-15T21:54:15Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "maalshow-fra-homstad",
+        "url": "/lokalfotballen/i/9zM7Ew/maalshow-fra-homstad",
+        "title": {
+            "value": "Målshow fra Homstad"
+        },
+        "description": "Lars Petter Homstad sto fram med tre scoringer da Kolstad 2 seiret 9-4 over Trond i 6. divisjon, Trøndelag - Avdeling 3 i fotball for menn. Trond gikk på sitt første tap i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T21:25:22Z",
+        "lastModifiedAt": "2023-05-15T21:25:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "kolvereid-7er-med-borteseier-over-namdalseid-7er",
+        "url": "/lokalfotballen/i/y6bA72/kolvereid-7er-med-borteseier-over-namdalseid-7er",
+        "title": {
+            "value": "Kolvereid 7er med borteseier over Namdalseid 7er"
+        },
+        "description": "Kolvereid 7er fikk med seg alle poengene da Namdalseid 7er ble slått 3-2 i 7er, Trøndelag - Avdeling 1 i fotball. Namdalseid 7er har tapt sine tre siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T21:25:22Z",
+        "lastModifiedAt": "2023-05-15T21:25:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "lund-i-scoringshumoer-mot-flataas",
+        "url": "/lokalfotballen/i/15dlnq/lund-i-scoringshumoer-mot-flataas",
+        "title": {
+            "value": "Lund scoret to for Heimdal 2"
+        },
+        "description": "Flatås gikk på sitt tredje strake tap da klubben tapte 1-4 for Heimdal 2 i 6. divisjon, Trøndelag - Avdeling 5 i fotball mandag. Oscar Emanuel Lund scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T20:59:04Z",
+        "lastModifiedAt": "2023-05-15T21:54:15Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "pelabon-scoret-hattrick-mot-gimse-melhus-gauldal",
+        "url": "/lokalfotballen/i/xgb6Al/pelabon-scoret-hattrick-mot-gimse-melhus-gauldal",
+        "title": {
+            "value": "Pelabon scoret hattrick for Ranheim"
+        },
+        "description": "Ranheim har tatt poeng i fem kamper på rad etter dagens 5-1-seier. I 3. divisjon, Trøndelag mandag. Maren Pelabon gjorde hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T20:38:54Z",
+        "lastModifiedAt": "2023-05-15T21:25:25Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "jakobsen-med-maalshow",
+        "url": "/lokalfotballen/i/8JvabA/jakobsen-med-maalshow",
+        "title": {
+            "value": "Jakobsen bøttet inn mål for Flatanger 7er"
+        },
+        "description": "Signe Kristine Jakobsen scoret alle målene for Flatanger 7er og ble den store helten i 4-1-seieren over Sørlia 7er i 7er, Trøndelag - Avdeling 1 i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T20:36:42Z",
+        "lastModifiedAt": "2023-05-15T20:59:03Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    }
+]

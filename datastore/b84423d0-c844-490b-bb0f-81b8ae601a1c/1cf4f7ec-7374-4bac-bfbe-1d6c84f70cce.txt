@@ -1,0 +1,368 @@
+[
+    {
+        "authors": [
+            {
+                "email": "kristine.bechmann.holter@schibsted.no",
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            },
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QJLWA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QJLWA",
+        "preamble": "Etter tolv år i klubben forlenger Marcus Rashford sin Manchester United-karriere med fem nye år.",
+        "published": {
+            "date": "tirsdag 18. juli",
+            "datetime": "2023-07-18 18:02:24",
+            "niceformat": "18.07.2023, 18:02",
+            "timestamp": "2023-07-18T16:02:24.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/12263847-f855-4420-8444-70fa93d630f0?fit=crop&format=auto&h=267&w=400&s=51bf7decabe7342e1f64f0ba7f341510b450ad7e",
+            "width": 400
+        },
+        "title": "Bekreftet: Rashford forlenger med United",
+        "url": "https://www.vg.no/sport/fotball/i/0QJLWA/bekreftet-rashford-forlenger-med-united"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dw0kOj",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dw0kOj",
+        "preamble": "22 år gamle Emil Frederiksen nærmer seg en overgang til Rosenborg. Islandske Kristall Mani Ingason selges trolig andre veien. ",
+        "published": {
+            "date": "tirsdag 18. juli",
+            "datetime": "2023-07-18 17:33:16",
+            "niceformat": "18.07.2023, 17:33",
+            "timestamp": "2023-07-18T15:33:16.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/595bc58c-b05c-4c95-a7e6-3914ba3e0d79?fit=crop&format=auto&h=266&w=400&s=c45fa5e32188d451a93862cf82e0b12a7f8a8dce",
+            "width": 400
+        },
+        "title": "Opplysninger til VG: RBK henter kantspiller - spiss går andre veien",
+        "url": "https://www.vg.no/sport/fotball/i/dw0kOj/dansk-avis-rbk-henter-midtbanespiller"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "nQP4RB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/nQP4RB",
+        "preamble": "Isak Hansen-Aarøen blir med Manchester United på turné. Samtidig overrasker Erik Ten Hag med ett navn i troppen. ",
+        "published": {
+            "date": "tirsdag 18. juli",
+            "datetime": "2023-07-18 17:07:54",
+            "niceformat": "18.07.2023, 17:07",
+            "timestamp": "2023-07-18T15:07:54.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/497435af-54b4-4817-abe0-b289c1071002?fit=crop&format=auto&h=267&w=400&s=0b6a6e3618ea453435ca8475c6e23270ae8d9657",
+            "width": 400
+        },
+        "title": "Nordmann blir med Manchester United på treningsleir",
+        "url": "https://www.vg.no/sport/fotball/i/nQP4RB/nordmann-blir-med-manchester-united-paa-treningsleir"
+    },
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76Mqb8",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76Mqb8",
+        "preamble": "Manchester United og Rasmus Højlund (20) skal være enige om personlige betingelser, men den engelske storklubben skal fortsatt være langt fra enige med Atalanta om en overgang for dansken.",
+        "published": {
+            "date": "tirsdag 18. juli",
+            "datetime": "2023-07-18 16:35:17",
+            "niceformat": "18.07.2023, 16:35",
+            "timestamp": "2023-07-18T14:35:17.000Z"
+        },
+        "thumbnail": {
+            "height": 284,
+            "url": "https://akamai.vgc.no/v2/images/5647be75-7776-489f-b485-32c93fb5e213?fit=crop&format=auto&h=284&w=400&s=82bf1dec74a6b9e26bc6fd28df953a36f31ed61b",
+            "width": 400
+        },
+        "title": "The Athletic: Manchester United enig med Højlund",
+        "url": "https://www.vg.no/sport/fotball/i/76Mqb8/the-athletic-manchester-united-enig-med-hoejlund"
+    },
+    {
+        "authors": [
+            {
+                "email": "kristine.bechmann.holter@schibsted.no",
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4oKL9G",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4oKL9G",
+        "preamble": "Wesley Fofana har operert fremre korsbånd og kommer til å gå glipp av store deler av den kommende sesongen.",
+        "published": {
+            "date": "tirsdag 18. juli",
+            "datetime": "2023-07-18 16:09:34",
+            "niceformat": "18.07.2023, 16:09",
+            "timestamp": "2023-07-18T14:09:34.000Z"
+        },
+        "thumbnail": {
+            "height": 258,
+            "url": "https://akamai.vgc.no/v2/images/c1af03df-d09f-406a-bca4-7127d4eff516?fit=crop&format=auto&h=258&w=400&s=7c16ff20bfaa5511b848b6133985336bcc6a866e",
+            "width": 400
+        },
+        "title": "Chelsea-stjerne ute med alvorlig kneskade ",
+        "url": "https://www.vg.no/sport/fotball/i/4oKL9G/chelsea-stjerne-ute-med-alvorlig-kneskade"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Kn2PVe",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Kn2PVe",
+        "preamble": "Bergenseren Mads Sande (25) bytter vestlandsklubb og går fra Haugesund til Brann før neste sesong. ",
+        "published": {
+            "date": "tirsdag 18. juli",
+            "datetime": "2023-07-18 15:48:18",
+            "niceformat": "18.07.2023, 15:48",
+            "timestamp": "2023-07-18T13:48:18.000Z"
+        },
+        "thumbnail": {
+            "height": 311,
+            "url": "https://akamai.vgc.no/v2/images/97a60b9b-bf13-48e4-bafb-9f16cb997c8a?fit=crop&format=auto&h=311&w=400&s=5ded6e484aa659eab05b588e6c58469421a36ab2",
+            "width": 400
+        },
+        "title": "Sande blir Brann-spiller neste sesong",
+        "url": "https://www.vg.no/sport/fotball/i/Kn2PVe/sande-klar-for-brann"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "15zjbX",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/15zjbX",
+        "preamble": "Manchester United ser ut til å ha sikret seg ny sisteskanse. Inter-keeper André Onana (27) skal reise til Manchester i dag, ifølge medier. ",
+        "published": {
+            "date": "tirsdag 18. juli",
+            "datetime": "2023-07-18 15:12:12",
+            "niceformat": "18.07.2023, 15:12",
+            "timestamp": "2023-07-18T13:12:12.000Z"
+        },
+        "thumbnail": {
+            "height": 271,
+            "url": "https://akamai.vgc.no/v2/images/225c039a-c2b9-482e-be10-2f609f4a81bd?fit=crop&format=auto&h=271&w=400&s=365c196095fccef22dfb42ae503d8bedfb670d4a",
+            "width": 400
+        },
+        "title": "Medier: Manchester United enig om Onana-overgang",
+        "url": "https://www.vg.no/sport/fotball/i/15zjbX/medier-manchester-united-enig-om-onana-overgang"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "15zq2W",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/15zq2W",
+        "preamble": "Bayern Münchens Leon Goretzka (28) skal være ønsket i London etter at Declan Rice ble solgt til Arsenal.",
+        "published": {
+            "date": "tirsdag 18. juli",
+            "datetime": "2023-07-18 14:25:51",
+            "niceformat": "18.07.2023, 14:25",
+            "timestamp": "2023-07-18T12:25:51.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ae56f192-091e-40f1-81fb-0d1f808502cf?fit=crop&format=auto&h=267&w=400&s=8440f13ae4f982c4f7baa2a8f964c0b367454e66",
+            "width": 400
+        },
+        "title": "Sky: West Ham har funnet mulig Rice-erstatter",
+        "url": "https://www.vg.no/sport/fotball/i/15zq2W/sky-west-ham-har-funnet-mulig-rice-erstatter"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            },
+            {
+                "email": "andreas.hellenes@schibsted.com",
+                "id": "424642b6-03fe-42cd-abe2-5f7517e8a8e1",
+                "name": "Andreas Hellenes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Kn26ne",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Kn26ne",
+        "preamble": "Cristiano Ronaldo har fått mye kritikk etter overgangen til saudiarabiske Al Nassr. Selv mener han at han har ledet an for spillerstrømmen til ligaen.",
+        "published": {
+            "date": "tirsdag 18. juli",
+            "datetime": "2023-07-18 14:11:20",
+            "niceformat": "18.07.2023, 14:11",
+            "timestamp": "2023-07-18T12:11:20.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/7b26edfa-d9ae-4be2-8879-ea4e8445b35b?fit=crop&format=auto&h=267&w=400&s=43598b5737dd0c0d03eb8da8e8da8206c73d2c9a",
+            "width": 400
+        },
+        "title": "Ronaldo hardt ut mot europeisk toppfotball: – Mistet kvalitet",
+        "url": "https://www.vg.no/sport/fotball/i/Kn26ne/cristiano-ronaldo-med-saudi-arabia-forsvar-etter-al-nassr-tap-saudi-ligaen-er-bedre-enn-mls"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kELpEX",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kELpEX",
+        "preamble": "Chelsea jakter Brightons midtbanetalent. Et bud på 70 millioner pund er avslått.",
+        "published": {
+            "date": "tirsdag 18. juli",
+            "datetime": "2023-07-18 12:37:55",
+            "niceformat": "18.07.2023, 12:37",
+            "timestamp": "2023-07-18T10:37:55.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/14544010-3036-46f4-9abc-68336f4237b3?fit=crop&format=auto&h=267&w=400&s=c5f2a177fdc992e904edd67dd487c77c406cd7c6",
+            "width": 400
+        },
+        "title": "Chelseas storbud på Caicedo avslått",
+        "url": "https://www.vg.no/sport/fotball/i/kELpEX/chelseas-storbud-paa-caicedo-avslaatt"
+    }
+]

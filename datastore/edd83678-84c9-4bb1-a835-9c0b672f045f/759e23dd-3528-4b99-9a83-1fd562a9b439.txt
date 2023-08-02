@@ -1,0 +1,188 @@
+[
+    {
+        "slug": "sendte-lerkendal-publikummet-til-himmels",
+        "url": "/sport/fotball/i/O82orw/sendte-lerkendal-publikummet-til-himmels",
+        "title": {
+            "value": "Sendte Lerkendal-publikummet til himmels "
+        },
+        "description": "Ulrik Yttergård Jenssen ble dagens redningsmann da han sendte RBK til seier på overtid.",
+        "imageUrl": "972a39d5-007f-468f-b5f5-6d784897ab18",
+        "publishedAt": "2023-07-16T16:53:01Z",
+        "lastModifiedAt": "2023-07-16T17:02:45Z",
+        "premium": true,
+        "authors": [
+            "Ine Skjellum"
+        ],
+        "tags": [
+            "rosenborg"
+        ]
+    },
+    {
+        "slug": "troenderen-har-over-300-000-foelgere-paa-instagram-janteloven-staar-sterkt-i-norge",
+        "url": "/kultur/i/Q7WpQP/troenderen-har-over-300-000-foelgere-paa-instagram-janteloven-staar-sterkt-i-norge",
+        "title": {
+            "value": "Trønderen har over 300 000 følgere på Instagram: – Janteloven står sterkt i Norge"
+        },
+        "description": "Huy Ta Nguyen (28) viser fram livet sitt på jobb til sine 309 000 følgere på Instagram. Men åpenheten har ikke alltid vært enkel.",
+        "imageUrl": "4b88bbd1-9420-448f-92da-212549ef207e",
+        "publishedAt": "2023-07-16T16:42:18Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Oda Wiik"
+        ],
+        "tags": [
+            "instagram",
+            "trondheim",
+            "troendelag",
+            "video",
+            "foto-og-video"
+        ]
+    },
+    {
+        "slug": "farlige-heteboelger-rammer-verden-over",
+        "url": "/nyheter/utenriks/i/8J1q1x/farlige-heteboelger-rammer-verden-over",
+        "title": {
+            "value": "Farlige hetebølger rammer verden over"
+        },
+        "description": "Livsfarlig hete holder store deler av verden i sitt nådeløse grep etter hvert som konsekvensene av klimaendringene blir alt tydeligere.",
+        "imageUrl": "06e1b00d-5542-499b-93a3-305f95945979",
+        "publishedAt": "2023-07-16T16:39:29Z",
+        "lastModifiedAt": "2023-07-16T16:39:29Z",
+        "premium": false,
+        "authors": [
+            "NTB-AFP-Reuters"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "faar-sin-foerste-start-under-maalen-slik-stiller-rbk-mot-tromsoe",
+        "url": "/sport/fotball/i/5BQB9X/faar-sin-foerste-start-under-maalen-slik-stiller-rbk-mot-tromsoe",
+        "title": {
+            "value": "– Smaker så utrolig deilig"
+        },
+        "description": "Svein Maalen jakter fortsatt sin første seier som Rosenborg-trener.",
+        "imageUrl": "c01b3b66-8d16-4e44-bbc2-adf0e17a76a3",
+        "publishedAt": "2023-07-16T13:46:54Z",
+        "lastModifiedAt": "2023-07-16T17:03:14Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "eliteserien"
+        ]
+    },
+    {
+        "slug": "konkrete-henvendelser-til-rbk-spissen-jeg-kan-ikke-lyve",
+        "url": "/sport/fotball/i/3Ew9GL/konkrete-henvendelser-til-rbk-spissen-jeg-kan-ikke-lyve",
+        "title": {
+            "value": "Konkrete henvendelser til RBK-spissen: - Jeg kan ikke lyve"
+        },
+        "description": "Ole Sæter hevder målet mot LSK har fått flere aktuelle klubber på banen.",
+        "imageUrl": "1650a768-c580-407d-ba9a-e478c43cafb6",
+        "publishedAt": "2023-07-16T13:27:00Z",
+        "lastModifiedAt": "2023-07-16T13:31:00Z",
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "ole-saeter-2",
+            "tore-bjoerseth-berdal",
+            "rosenborg-bk",
+            "eliteserien"
+        ]
+    },
+    {
+        "slug": "maatte-stenge-e6-etter-syklist",
+        "url": "/nyhetsstudio/i/Kn2nx6/maatte-stenge-e6-etter-syklist",
+        "title": {
+            "value": "Syklist i feil kjøreretning førte til at E6 måtte stenges"
+        },
+        "description": null,
+        "imageUrl": null,
+        "publishedAt": "2023-07-16T06:29:51Z",
+        "lastModifiedAt": "2023-07-16T08:11:04Z",
+        "premium": true,
+        "authors": [
+            "Lea Lauvland Longva"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "knuste-ruter-paa-ranheim",
+        "url": "/nyhetsstudio/i/l3W3Ry/knuste-ruter-paa-ranheim",
+        "title": {
+            "value": "Mann knuste ruter på restaurant i Trondheim"
+        },
+        "description": null,
+        "imageUrl": "5cb8e780-df5c-473e-a541-5bb169bad9c1",
+        "publishedAt": "2023-07-16T06:19:27Z",
+        "lastModifiedAt": "2023-07-16T09:46:59Z",
+        "premium": true,
+        "authors": [
+            "Lea Lauvland Longva"
+        ],
+        "tags": [
+            "ranheim",
+            "troendelag-politidistrikt",
+            "trondheim",
+            "restaurant",
+            "haerverk"
+        ]
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/AP9P9j/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene søndag 15. juli.",
+        "imageUrl": "75976f00-049e-4c62-9760-055a15e6b6fd",
+        "publishedAt": "2023-07-16T04:00:41Z",
+        "lastModifiedAt": "2023-07-16T04:00:41Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "minst-31-doede-i-ekstremvaer-i-soer-korea",
+        "url": "/nyheter/utenriks/i/eJwJma/minst-31-doede-i-ekstremvaer-i-soer-korea",
+        "title": {
+            "value": "Minst 37 døde i ekstremvær i Sør-Korea"
+        },
+        "description": "Ytterligere ni personer er funnet omkommet i ekstremværet i Sør-Korea. Dødstallet har dermed steget til minst 37.",
+        "imageUrl": "adeee6e5-c413-4fef-b036-b5a863f7db9b",
+        "publishedAt": "2023-07-16T01:33:56Z",
+        "lastModifiedAt": "2023-07-16T13:48:44Z",
+        "premium": false,
+        "authors": [
+            "NTB-Reuters-AP"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "lucas-19-er-toppscorer-i-troendelag-naa-tar-han-en-pause-fra-fotballen",
+        "url": "/sport/fotball/i/jln6Bq/lucas-19-er-toppscorer-i-troendelag-naa-tar-han-en-pause-fra-fotballen",
+        "title": {
+            "value": "Scorer mest av alle i Trøndelag – tar pause fra fotballen"
+        },
+        "description": "Lucas Berg Steen (19) scorer mest av alle i fylket, men klarer neppe å beholde tittelen.",
+        "imageUrl": "95510764-d7d0-49dd-9b4b-f4ceafdd9e63",
+        "publishedAt": "2023-07-15T18:19:02Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "breddefotbaill",
+            "lokalfotballen"
+        ]
+    }
+]

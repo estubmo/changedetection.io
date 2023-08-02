@@ -1,0 +1,199 @@
+[
+    {
+        "slug": "gimse-vant-i-maalfest",
+        "url": "/lokalfotballen/i/kEXPo6/gimse-vant-i-maalfest",
+        "title": {
+            "value": "Knusende seier for Gimse"
+        },
+        "description": "Gimse knuste Skaun 6-1 i 6. divisjon, Trøndelag - Avdeling 6 i fotball lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-27T11:58:04Z",
+        "lastModifiedAt": "2023-05-27T12:59:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "ny-seier-for-vinne",
+        "url": "/lokalfotballen/i/nQXl8o/ny-seier-for-vinne",
+        "title": {
+            "value": "Tredje seier på rad for Vinne"
+        },
+        "description": "Robert Myrvang Gates sikret seieren med sin 1-0-scoring for Vinne mot Levangerstudentene på Ness stadion i 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-26T20:58:52Z",
+        "lastModifiedAt": "2023-05-26T21:59:32Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "stiklestad-dobbel-for-leksdal",
+        "url": "/lokalfotballen/i/zEXzm4/stiklestad-dobbel-for-leksdal",
+        "title": {
+            "value": "Stiklestad i scoringshumør mot Vanvik"
+        },
+        "description": "Leksdal snudde Vanviks 3-1-ledelse og vant 4-3 i 5. divisjon, Trøndelag - Avdeling 1 i fotball fredag. Vetle Stiklestad scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-26T20:17:04Z",
+        "lastModifiedAt": "2023-05-26T21:59:31Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "byaasen-2-seiret-borte-mot-aalen",
+        "url": "/lokalfotballen/i/2BKgWx/byaasen-2-seiret-borte-mot-aalen",
+        "title": {
+            "value": "Byåsen 2-seier over Ålen"
+        },
+        "description": "Byåsen 2 slo Ålen 2-1 og fikk dermed med seg tre poeng i 5. divisjon, Trøndelag - Avdeling 3 i fotball for menn fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-26T20:10:58Z",
+        "lastModifiedAt": "2023-05-26T21:59:32Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "furberg-i-scoringshumoer",
+        "url": "/lokalfotballen/i/LlLXRJ/furberg-i-scoringshumoer",
+        "title": {
+            "value": "Furberg ble tomålshelt"
+        },
+        "description": "Nataniel Sandvik Furberg scoret to mål og hjalp Frøya til 3-1-seier over Nationalkameratene 2 i 6. divisjon, Trøndelag - Avdeling 4 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-26T19:25:39Z",
+        "lastModifiedAt": "2023-05-26T21:59:31Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    },
+    {
+        "slug": "melhus-med-borteseier-over-nardo-2",
+        "url": "/lokalfotballen/i/dwPaEj/melhus-med-borteseier-over-nardo-2",
+        "title": {
+            "value": "To fulltreffere fra Totland"
+        },
+        "description": "Nardo 2 gikk på sitt fjerde strake tap da laget tapte 0-2 for Melhus i 4. divisjon, Trøndelag - Avdeling 2 i fotball for menn. Philip Totland scoret begge målene for Melhus.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-26T19:22:33Z",
+        "lastModifiedAt": "2023-05-27T10:29:31Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "aattende-strake-seier-for-neset",
+        "url": "/lokalfotballen/i/76LovB/aattende-strake-seier-for-neset",
+        "title": {
+            "value": "Ny seier for Neset"
+        },
+        "description": "Helgådal gikk på sitt åttende strake tap da laget røk 2-5 for Neset i 6. divisjon, Trøndelag - Avdeling 2 i fotball for menn fredag. Benjamin Skogen scoret to av målene.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-26T19:12:25Z",
+        "lastModifiedAt": "2023-05-26T19:30:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "siste-fra-breddefotballen",
+        "url": "/sport/fotball/i/GMjXaq/siste-fra-breddefotballen",
+        "title": {
+            "value": "Tidligere RBK-talent gjør klubbytte før skjebnekamper"
+        },
+        "description": null,
+        "imageUrl": "46654b64-0eae-43a5-97b8-8000981c19bc",
+        "publishedAt": "2023-03-24T14:51:36Z",
+        "lastModifiedAt": "2023-05-09T10:22:27Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "fotball",
+            "breddefotbaill",
+            "lokalfotballen",
+            "breddefotball"
+        ]
+    },
+    {
+        "slug": "rbk-vil-forsterke-i-sommer",
+        "url": "/sport/fotball/i/P4m0Lz/rbk-vil-forsterke-i-sommer",
+        "title": {
+            "value": "RBK vil forsterke i sommer"
+        },
+        "description": "Med RBK-stjernen Skinnes Hansens exit, er trener Steinar Lein tre spillere i manko.",
+        "imageUrl": "b93572af-281b-4645-b5da-f4ff168e1fc5",
+        "publishedAt": "2023-05-26T13:31:54Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "synne-skinnes-hansen",
+            "anna-joesendal",
+            "rosenborg-kvinner",
+            "toppserien",
+            "steinar-lein"
+        ]
+    },
+    {
+        "slug": "joshua-mugishu-scoret-hattrick-for-nardo",
+        "url": "/lokalfotballen/i/mQaWwg/joshua-mugishu-scoret-hattrick-for-nardo",
+        "title": {
+            "value": "Joshua Mugishu scoret hattrick for Nardo"
+        },
+        "description": "Joshua Mugishu scoret tre av målene og hjalp Nardo til 6-1-seier over Steinkjer i G19 Elite, Vår onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-26T11:58:48Z",
+        "lastModifiedAt": "2023-05-26T12:28:56Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    }
+]

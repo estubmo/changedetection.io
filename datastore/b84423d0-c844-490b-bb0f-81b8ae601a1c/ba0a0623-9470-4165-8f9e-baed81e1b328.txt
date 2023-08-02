@@ -1,0 +1,358 @@
+[
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4oKp1G",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4oKp1G",
+        "preamble": "TOKYO (VG) Gjensynsgleden mellom Erling Braut Haaland (23) og Jack Grealish (27) fikk oppmerksomhet i britisk presse, men sistnevnte røper at de ikke klarte å holde seg helt borte fra hverandre i sommerferien.",
+        "published": {
+            "date": "onsdag 26. juli",
+            "datetime": "2023-07-26 18:58:45",
+            "niceformat": "26.07.2023, 18:58",
+            "timestamp": "2023-07-26T16:58:45.000Z"
+        },
+        "thumbnail": {
+            "height": 287,
+            "url": "https://akamai.vgc.no/v2/images/29fb026a-a8c7-45e8-9782-e50fd8b4d0dd?fit=crop&format=auto&h=287&w=400&s=d4b6ac9d6cbb451b045c6ddfae649b314fc96add",
+            "width": 400
+        },
+        "title": "Dansende Grealish røper Haaland-møte i Frankrike i sommer",
+        "url": "https://www.vg.no/sport/fotball/i/4oKp1G/jack-grealish-roeper-moete-med-erling-braut-haaland-i-frankrike-i-sommer"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dw0APB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dw0APB",
+        "preamble": "TOKYO (VG) (Bayern München – Manchester City 1–2) For andre gang på rad startet Erling Braut Haaland (23) på benken, men i motsetning til sist, ble det en kamp som trolig går rett i glemmeboken.",
+        "published": {
+            "date": "onsdag 26. juli",
+            "datetime": "2023-07-26 14:21:35",
+            "niceformat": "26.07.2023, 14:21",
+            "timestamp": "2023-07-26T12:21:35.000Z"
+        },
+        "thumbnail": {
+            "height": 278,
+            "url": "https://akamai.vgc.no/v2/images/9cfdfc7a-5567-4e9e-8937-5126aa045945?fit=crop&format=auto&h=278&w=400&s=6f975baef451a4fa68a5c596b4c2673f06df2013",
+            "width": 400
+        },
+        "title": "Haaland usynlig i Tokyo: Laporte sikret seieren i gigantmøtet",
+        "url": "https://www.vg.no/sport/fotball/i/dw0APB/haaland-usynlig-i-tokyo-laporte-sikret-seieren-i-gigantmoetet"
+    },
+    {
+        "authors": [
+            {
+                "id": "823a353f-90ae-4986-a5b3-883af5ac5840",
+                "name": "VG / NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4oKa0E",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4oKa0E",
+        "preamble": "Tromsø-trener Gaute Helstrup raser etter at Bodø/Glimt har kalt tilbake Lasse Nordås for å være med i kamptropp torsdag. Glimts sports manager Håvard Sakariassen mener klubben har full rett til å hente tilbake spilleren.",
+        "published": {
+            "date": "onsdag 26. juli",
+            "datetime": "2023-07-26 13:51:57",
+            "niceformat": "26.07.2023, 13:51",
+            "timestamp": "2023-07-26T11:51:57.000Z"
+        },
+        "thumbnail": {
+            "height": 238,
+            "url": "https://akamai.vgc.no/v2/images/8182c1ba-c83e-4a9a-a671-6f45209188df?fit=crop&format=auto&h=238&w=400&s=8d977813f8bf71bc3ea8fee620fa479c32770e35",
+            "width": 400
+        },
+        "title": "Nordås kalt tilbake til Bodø/Glimt: – Uaktuelt at han skal spille kamp der",
+        "url": "https://www.vg.no/sport/fotball/i/4oKa0E/nordaas-kalt-tilbake-til-bodoe-glimt-uaktuelt-at-han-skal-spille-kamp-der"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "15z4Al",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/15z4Al",
+        "preamble": "AUCKLAND (VG) Caroline Graham Hansen har vært misfornøyd med landslagssjefens valg. Nå er Hege Riise usikker på om spilleren vil være en del av landslagsprosjektet over lengre tid.",
+        "published": {
+            "date": "onsdag 26. juli",
+            "datetime": "2023-07-26 11:46:07",
+            "niceformat": "26.07.2023, 11:46",
+            "timestamp": "2023-07-26T09:46:07.000Z"
+        },
+        "thumbnail": {
+            "height": 292,
+            "url": "https://akamai.vgc.no/v2/images/ce4e6cce-b9f9-4c18-a0c1-2cd1c6e42f49?fit=crop&format=auto&h=292&w=400&s=490f095b913203e19fb6052acd33cfaca1f1c9a0",
+            "width": 400
+        },
+        "title": "Derfor følte Graham Hansen seg «tråkket på i ett år»: – Var uenig ",
+        "url": "https://www.vg.no/sport/fotball/i/15z4Al/norge-i-fotball-vm-kvinner-caroline-graham-hansen-om-misnoeyen"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wApLoP",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wApLoP",
+        "preamble": "Magne Hoseth (42) har ledet Klaksvik til sin største bragd. Nå er de nærmere et europeisk gruppespill enn noen gang.",
+        "published": {
+            "date": "onsdag 26. juli",
+            "datetime": "2023-07-26 11:40:01",
+            "niceformat": "26.07.2023, 11:40",
+            "timestamp": "2023-07-26T09:40:01.000Z"
+        },
+        "thumbnail": {
+            "height": 306,
+            "url": "https://akamai.vgc.no/v2/images/25e2f07a-ebed-464b-b7ee-ad3f25cd605f?fit=crop&format=auto&h=306&w=400&s=d01b94fedf11a3875824b86bb3bd6e7ac986a356",
+            "width": 400
+        },
+        "title": "Norsk suksess i Klaksvik – kan skrive historie: – Uten sidestykke",
+        "url": "https://www.vg.no/sport/fotball/i/wApLoP/norsk-suksess-i-klaksvik-kan-skrive-historie-uten-sidestykke"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dw0A5w",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dw0A5w",
+        "preamble": "Spania vant komfortabelt 5-0 mot Zambia og er videre fra gruppe C i fotball-VM for kvinner. 33-åringen Jennifer Hermoso nådde en gjev milepæl i kampen.",
+        "published": {
+            "date": "onsdag 26. juli",
+            "datetime": "2023-07-26 11:36:52",
+            "niceformat": "26.07.2023, 11:36",
+            "timestamp": "2023-07-26T09:36:52.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/9493adf7-1170-461a-b2ed-cf0e275bef44?fit=crop&format=auto&h=267&w=400&s=ef8d4619fd2d98b4e9e1dcb5b94a8c1118d4a1b6",
+            "width": 400
+        },
+        "title": "Spania lekte seg videre i fotball-VM",
+        "url": "https://www.vg.no/sport/fotball/i/dw0A5w/spania-lekte-seg-videre-i-fotball-vm"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "pQE811",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/pQE811",
+        "preamble": "TOKYO (VG) Midtstopper Rúben Dias mener den vennskapelige ertingen fra kompisduoen Jack Grealish og Erling Braut Haaland er et godt eksempel på at de har det bra i Manchester City-garderoben.",
+        "published": {
+            "date": "onsdag 26. juli",
+            "datetime": "2023-07-26 09:38:26",
+            "niceformat": "26.07.2023, 09:38",
+            "timestamp": "2023-07-26T07:38:26.000Z"
+        },
+        "thumbnail": {
+            "height": 275,
+            "url": "https://akamai.vgc.no/v2/images/5eaabd14-5bda-41c5-8374-90703da4ad5e?fit=crop&format=auto&h=275&w=400&s=ed2a16fa69b88675f142a0b1c4f1d190b118e20e",
+            "width": 400
+        },
+        "title": "Lagkameraten ble ertet av Haaland: – Må akseptere å bli gjort narr av",
+        "url": "https://www.vg.no/sport/fotball/i/pQE811/lagkameraten-ble-ertet-av-haaland-maa-akseptere-aa-bli-gjort-narr-av"
+    },
+    {
+        "authors": [
+            {
+                "email": "oystein.david.johansen@vg.no",
+                "id": "93c58def-3983-4047-baa7-5c32d0bec3b8",
+                "name": "Øystein David Johansen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEQ9qJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEQ9qJ",
+        "preamble": "(Inter Miami – Atlanta 4–0) Lionel Messi fulgte opp knalldebuten for Inter Miami med to nye nettkjenninger. ",
+        "published": {
+            "date": "onsdag 26. juli",
+            "datetime": "2023-07-26 04:52:26",
+            "niceformat": "26.07.2023, 04:52",
+            "timestamp": "2023-07-26T02:52:26.000Z"
+        },
+        "thumbnail": {
+            "height": 265,
+            "url": "https://akamai.vgc.no/v2/images/8e61d234-976f-4562-aaed-f94203480ee5?fit=crop&format=auto&h=265&w=400&s=eea28c53019625ef8d9b51c8ef8c2b2b0b6b280e",
+            "width": 400
+        },
+        "title": "Messi fortsetter å herje i USA: – Drøm som går i oppfyllelse",
+        "url": "https://www.vg.no/sport/fotball/i/gEQ9qJ/messi-fortsetter-aa-herje-i-usa"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB-Reuters"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQ2e4m",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQ2e4m",
+        "preamble": "Britiske Joe Lewis er satt under tiltale i USA for å ha organisert innsidehandel. Milliardæren eier blant annet Premier League-klubben Tottenham Hotspur.",
+        "published": {
+            "date": "onsdag 26. juli",
+            "datetime": "2023-07-26 01:42:11",
+            "niceformat": "26.07.2023, 01:42",
+            "timestamp": "2023-07-25T23:42:11.000Z"
+        },
+        "title": "Tottenham-eieren tiltalt for innsidehandel",
+        "url": "https://www.vg.no/sport/fotball/i/JQ2e4m/tottenham-eieren-tiltalt-for-innsidehandel"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76MzmK",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76MzmK",
+        "preamble": "Den norske landslagsspissen Alexander Sørloth (27) melder overgang fra RB Leipzig til Villarreal. Overgangen beskrives som «en bombe» av storavis.",
+        "published": {
+            "date": "tirsdag 25. juli",
+            "datetime": "2023-07-25 21:09:25",
+            "niceformat": "25.07.2023, 21:09",
+            "timestamp": "2023-07-25T19:09:25.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/bc39645a-10b7-4bec-ab4b-1b88c6cc062f?fit=crop&format=auto&h=267&w=400&s=5b47f19a1334b9321437ec75bbfe299d1a6abd1f",
+            "width": 400
+        },
+        "title": "Sørloth klar for Villarreal – omtales som «en bombe» i storavis",
+        "url": "https://www.vg.no/sport/fotball/i/76MzmK/soerloth-klar-for-villarreal"
+    }
+]

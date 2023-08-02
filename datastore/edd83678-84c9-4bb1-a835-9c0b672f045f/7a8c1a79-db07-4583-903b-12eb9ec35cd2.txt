@@ -1,0 +1,211 @@
+[
+    {
+        "slug": "rbk-imponerte-ingen-i-cupen",
+        "url": "/sport/fotball/i/6915q3/rbk-imponerte-ingen-i-cupen",
+        "title": {
+            "value": "RBK imponerte ingen i cupen"
+        },
+        "description": "Rosenborg gikk videre. Og det var omtrent det på Lade.",
+        "imageUrl": "9b0a9b37-aa26-4a5e-9260-d907e390f30c",
+        "publishedAt": "2023-05-24T17:50:55Z",
+        "lastModifiedAt": "2023-05-24T17:52:13Z",
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "agon-sadiku",
+            "rosenborg-bk",
+            "nm-i-fotball"
+        ]
+    },
+    {
+        "slug": "droemmestart-for-kolstad-knuste-rivalen-for-fjerde-gang",
+        "url": "/sport/i/APkxlM/droemmestart-for-kolstad-knuste-rivalen-for-fjerde-gang",
+        "title": {
+            "value": "Drømmestart for Kolstad: Knuste rivalen for fjerde gang "
+        },
+        "description": "Det var spennende i én finaleomgang. Så sa Kolstad takk og farvel til Elverum.",
+        "imageUrl": "43ac14ad-6580-4c4b-bfd6-62d6e8464cfb",
+        "publishedAt": "2023-05-24T17:47:22Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "haandball",
+            "kolstad-haandball",
+            "christian-berge"
+        ]
+    },
+    {
+        "slug": "formlaget-tok-seg-enkelt-videre",
+        "url": "/sport/fotball/i/BWd6Wl/formlaget-tok-seg-enkelt-videre",
+        "title": {
+            "value": "Formlaget tok seg enkelt videre"
+        },
+        "description": "Den tidligere RBK-kjempen Per Verner Rønning og Levanger hadde null problemer med å ta seg videre.",
+        "imageUrl": "f52f040a-bf42-4e9d-aea7-dd6e7439dc6a",
+        "publishedAt": "2023-05-24T17:47:14Z",
+        "lastModifiedAt": "2023-05-24T17:48:39Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "levanger-fk",
+            "orkla-fk",
+            "nm"
+        ]
+    },
+    {
+        "slug": "livets-harde-skole-moeter-dasspapirselgerne",
+        "url": "/meninger/i/onBkRR/livets-harde-skole-moeter-dasspapirselgerne",
+        "title": {
+            "value": "Hver gang du kjøper dopapir av en «helikopterpappa», har du spart skattepenger i fremtiden"
+        },
+        "description": null,
+        "imageUrl": "2a9ac976-d4ae-4757-9d16-45d7b9fe1ca3",
+        "publishedAt": "2023-05-24T16:44:23Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Børge Ånesen"
+        ],
+        "tags": [
+            "debatt",
+            "idrettspolitikk",
+            "inkludering",
+            "facebook",
+            "idrett",
+            "barn",
+            "dugnad",
+            "fotball",
+            "idrettsanlegg"
+        ]
+    },
+    {
+        "slug": "smeller-bomben-paa-lade-foelg-cupfesten-her",
+        "url": "/sport/fotball/i/APk0jA/smeller-bomben-paa-lade-foelg-cupfesten-her",
+        "title": {
+            "value": "RBK med knepen seier - se oppsummeringen"
+        },
+        "description": "Vi går direkte i studio fra 17.45, og er på plass med reporter på fire arenaer!",
+        "imageUrl": "28004cc6-6448-4bb4-a48c-744e70e3c734",
+        "publishedAt": "2023-05-24T13:58:16Z",
+        "lastModifiedAt": "2023-05-24T15:36:00Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball"
+        ]
+    },
+    {
+        "slug": "freidig-2-med-hjemmeseier-over-rissa-stadsbygd-vanvik",
+        "url": "/lokalfotballen/i/rlX5j8/freidig-2-med-hjemmeseier-over-rissa-stadsbygd-vanvik",
+        "title": {
+            "value": "Freidig 2 med hjemmeseier over Rissa/Stadsbygd/Vanvik"
+        },
+        "description": "Freidig 2 seiret 5-0 over Rissa/Stadsbygd/Vanvik i J13 2. divisjon, Avdeling 4 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-24T12:28:05Z",
+        "lastModifiedAt": "2023-05-24T12:28:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "forskyver-cupkamp-etter-e6-stengning",
+        "url": "/sport/fotball/i/bgWQzq/forskyver-cupkamp-etter-e6-stengning",
+        "title": {
+            "value": "Forskyver cupkamp etter E6-stengning"
+        },
+        "description": "Onsdagens cupkamp mellom Verdal og Ranheim flyttes to timer.",
+        "imageUrl": "bfe4c200-e246-43e3-8183-e831f89d66ee",
+        "publishedAt": "2023-05-24T10:21:46Z",
+        "lastModifiedAt": "2023-05-24T10:47:42Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "kaare-ingebrigtsen",
+            "ranheim",
+            "levanger",
+            "verdal-il"
+        ]
+    },
+    {
+        "slug": "startet-med-en-leilighet-naa-er-han-milliardaer",
+        "url": "/nyheter/i/wAb6pM/startet-med-en-leilighet-naa-er-han-milliardaer",
+        "title": {
+            "value": "Han startet med én leilighet i Trondheim. Slik fikk han millionene til å renne inn"
+        },
+        "description": "Mens Francis Hay har kranglet om småpenger, har milliardformuen hans bare økt. Han er nå Trondheims tredje rikeste.",
+        "imageUrl": "1d83a292-17ef-4345-bb71-2f1dccf5a02f",
+        "publishedAt": "2023-05-24T08:01:47Z",
+        "lastModifiedAt": "2023-05-24T14:10:43Z",
+        "premium": true,
+        "authors": [
+            "Espen Rasmussen",
+            "Rune Petter Ness (foto)",
+            "Sissel Lynum",
+            "Margrete Konstad",
+            "Lajla Ellingsen"
+        ],
+        "tags": [
+            "sveits",
+            "trondheim",
+            "francis-hay",
+            "milliardaerer",
+            "naeringseiendom",
+            "penger"
+        ]
+    },
+    {
+        "slug": "her-tilbrakte-rbk-stjernen-hele-barndommen-20-aar-etter-er-han-tilbake",
+        "url": "/sport/fotball/i/15wq4W/her-tilbrakte-rbk-stjernen-hele-barndommen-20-aar-etter-er-han-tilbake",
+        "title": {
+            "value": "Her tilbrakte RBK-stjernen hele barndommen. 20 år etter er han tilbake"
+        },
+        "description": "Han er blitt 35 år, er RBK-helt og har vært proff i bundesliga. Men all erfaring til tross: Per Ciljan Skjelbred er krystallklar før møtet med 4. divisjonsgutta i Trygg/Lade.",
+        "imageUrl": "86e616fc-4efc-46fc-8fed-94b53c0aaa02",
+        "publishedAt": "2023-05-24T06:28:55Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "per-ciljan-skjelbred"
+        ]
+    },
+    {
+        "slug": "charlottenlund-2-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/VPkGa3/charlottenlund-2-fortsatte-seiersrekken",
+        "title": {
+            "value": "Tredje seier på rad for Charlottenlund 2"
+        },
+        "description": "Charlottenlund 2s 3-2-seier stanset NTNUI 2s seiersrekke på tre kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-23T21:27:30Z",
+        "lastModifiedAt": "2023-05-24T13:28:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

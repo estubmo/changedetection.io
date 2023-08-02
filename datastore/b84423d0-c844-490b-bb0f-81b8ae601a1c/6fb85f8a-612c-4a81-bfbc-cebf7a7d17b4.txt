@@ -1,0 +1,393 @@
+[
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPk4op",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPk4op",
+        "preamble": "I en fotballkamp i Oslo mellom to guttelag oppstod det en alvorlig voldshendelse. Flere spillere skal ha blitt slått og sparket mens de lå på bakken. Barnevern og politi har blitt koblet på saken.",
+        "published": {
+            "date": "torsdag 25. mai",
+            "datetime": "2023-05-25 12:54:39",
+            "niceformat": "25.05.2023, 12:54",
+            "timestamp": "2023-05-25T10:54:39.000Z"
+        },
+        "thumbnail": {
+            "height": 285,
+            "url": "https://akamai.vgc.no/v2/images/1dea4df4-e7bd-4edc-b90b-2139115fe579?fit=crop&format=auto&h=285&w=400&s=bad612bfaf0ca7059d4c5b86fdee6830a5a301c3",
+            "width": 400
+        },
+        "title": "Kaos etter ungdomskamp i Oslo: – Tok løpefart og klinte til hodet",
+        "url": "https://www.vg.no/sport/fotball/i/VPk4op/grov-voldshendelse-mellom-to-guttelag-i-oslo-fotballen-tok-loepefart-og-klinte-til-i-hodet"
+    },
+    {
+        "authors": [
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4mE3J",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4mE3J",
+        "preamble": "Manchester United har valgt Ullevaal stadion når de spiller sin første kamp i sesongoppkjøringen. Onsdag 12. juli møter de Leeds i Oslo.  ",
+        "published": {
+            "date": "torsdag 25. mai",
+            "datetime": "2023-05-25 11:55:05",
+            "niceformat": "25.05.2023, 11:55",
+            "timestamp": "2023-05-25T09:55:05.000Z"
+        },
+        "thumbnail": {
+            "height": 288,
+            "url": "https://akamai.vgc.no/v2/images/128294a8-c65e-42d1-a2b9-eaca4e0d1c85?fit=crop&format=auto&h=288&w=400&s=4e4ff4ea81154ae496a42f942a8aba7e971fa7bf",
+            "width": 400
+        },
+        "title": "Manchester United kommer til Ullevaal i juli: Møter Leeds ",
+        "url": "https://www.vg.no/sport/fotball/i/P4mE3J/manchester-united-kommer-til-ullevaal-i-juli-moeter-leeds"
+    },
+    {
+        "authors": [
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            },
+            {
+                "email": "oyvind.herrebroden@vg.no",
+                "id": "7b5d0009-0f34-41e3-b5af-dcf22addbd42",
+                "name": "Øyvind Herrebrøden"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgX75X",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgX75X",
+        "preamble": "John Arne Riise (42) har meldt overgang til Avaldsnes, og er klar for spill i 5. divisjon. ",
+        "published": {
+            "date": "torsdag 25. mai",
+            "datetime": "2023-05-25 10:27:22",
+            "niceformat": "25.05.2023, 10:27",
+            "timestamp": "2023-05-25T08:27:22.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/363f7b0f-0f97-42c5-b1df-9aed51f6a569?fit=crop&format=auto&h=267&w=400&s=6e197341397474644f374adccc10746eae9f45fb",
+            "width": 400
+        },
+        "title": "John Arne Riise klar for comeback: – Formen hans er fin",
+        "url": "https://www.vg.no/sport/fotball/i/xgX75X/j"
+    },
+    {
+        "authors": [
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            },
+            {
+                "email": "andreas.hellenes@schibsted.com",
+                "id": "424642b6-03fe-42cd-abe2-5f7517e8a8e1",
+                "name": "Andreas Hellenes"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "nQXBmm",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/nQXBmm",
+        "preamble": "Ronny Deila (47) er ferdig som hovedtrener i Standard Liège. Han overtar storklubben Club Brugge. ",
+        "published": {
+            "date": "torsdag 25. mai",
+            "datetime": "2023-05-25 10:09:22",
+            "niceformat": "25.05.2023, 10:09",
+            "timestamp": "2023-05-25T08:09:22.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ed7900f7-dee5-4521-a0c6-ceeaf8e0866f?fit=crop&format=auto&h=267&w=400&s=2928ec9420e0813515a3748a0ed9dcc74bb42f8b",
+            "width": 400
+        },
+        "title": "Ronny Deila bytter klubb i Belgia: Klar for Club Brugge",
+        "url": "https://www.vg.no/sport/fotball/i/nQXBmm/ronny-deila-slutter-med-umiddelbar-virkning"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            },
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "15wyvJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/15wyvJ",
+        "preamble": "Feyenoord-trener Arne Slot (44) vil ikke bli ny Tottenham-manager. Han ønsker å fortsette i jobben i Nederland.",
+        "published": {
+            "date": "torsdag 25. mai",
+            "datetime": "2023-05-25 09:50:49",
+            "niceformat": "25.05.2023, 09:50",
+            "timestamp": "2023-05-25T07:50:49.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/76ab32f3-2ad6-48d6-8847-f19fb9b390cd?fit=crop&format=auto&h=267&w=400&s=8931221638f1aca49abbad496fee157cd38fe2b3",
+            "width": 400
+        },
+        "title": "Arne Slot avviser spekulasjoner: Vil ikke til Tottenham",
+        "url": "https://www.vg.no/sport/fotball/i/15wyvJ/arne-slot-vil-ikke-til-tottenham"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3XrjA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3XrjA",
+        "preamble": "Den spanske fotballegenden Andrés Iniesta forlater japanske Vissel Kobe, men 39-åringen vil ikke legge opp. ",
+        "published": {
+            "date": "torsdag 25. mai",
+            "datetime": "2023-05-25 07:22:29",
+            "niceformat": "25.05.2023, 07:22",
+            "timestamp": "2023-05-25T05:22:29.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/318b39a5-ccdf-4b12-b3a1-fc211b7793c3?fit=crop&format=auto&h=266&w=400&s=48b7492facc775f5ee970d00c52729deaabb153d",
+            "width": 400
+        },
+        "title": "Andrés Iniesta (39) ferdig i Vissel Kobe: Vil ikke legge opp",
+        "url": "https://www.vg.no/sport/fotball/i/l3XrjA/andres-iniesta-39-ferdig-i-vissel-kobe-nekter-aa-legge-opp"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "LlLalp",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/LlLalp",
+        "preamble": "BRIGHTON (VG) (Brighton – Manchester City 1–1) Manchester City-manager Pep Guardiola (52) kjeftet på seg gult kort etter det annullerte målet til Erling Braut Haaland (22). Nå røper han hvorfor han ble så sint.",
+        "published": {
+            "date": "torsdag 25. mai",
+            "datetime": "2023-05-25 00:01:04",
+            "niceformat": "25.05.2023, 00:01",
+            "timestamp": "2023-05-24T22:01:04.000Z"
+        },
+        "thumbnail": {
+            "height": 278,
+            "url": "https://akamai.vgc.no/v2/images/8f8c663b-88eb-4361-b3f2-74209aeb301e?fit=crop&format=auto&h=278&w=400&s=5f2d1ff2e066ab4d6d56e61ac3e1db184f89f7e9",
+            "width": 400
+        },
+        "title": "Guardiola raser etter annullering og Haaland-behandling: – Det er latterlig",
+        "url": "https://www.vg.no/sport/fotball/i/LlLalp/guardiola-raser-etter-haaland-behandling-maalet-skulle-ha-staatt"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WRdaOG",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WRdaOG",
+        "preamble": "Inter kom tidlig under, men to mål fra Lautaro Martínez sikret Milano-laget sitt niende italienske cupgull med 2-1-seier over Fiorentina",
+        "published": {
+            "date": "onsdag 24. mai",
+            "datetime": "2023-05-24 22:58:41",
+            "niceformat": "24.05.2023, 22:58",
+            "timestamp": "2023-05-24T20:58:41.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/aeVHnJmeX83X.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Inter snudde mot Fiorentina og sikret cupgullet – Martinez med måldobbel",
+        "url": "https://www.vg.no/sport/fotball/i/WRdaOG/inter-snudde-mot-fiorentina-og-sikret-cupgullet-martinez-med-maaldobbel"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q1X3Ko",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q1X3Ko",
+        "preamble": "BRIGHTON (VG) (Brighton – Manchester City 1–1) Erling Braut Haaland (22) mislyktes i jakten på sitt 37. ligamål, men noterte seg for en målgivende pasning som gjør at han nå er likt med Arsenal-legenden Thierry Henry (45).",
+        "published": {
+            "date": "onsdag 24. mai",
+            "datetime": "2023-05-24 22:53:31",
+            "niceformat": "24.05.2023, 22:53",
+            "timestamp": "2023-05-24T20:53:31.000Z"
+        },
+        "thumbnail": {
+            "height": 290,
+            "url": "https://akamai.vgc.no/v2/images/6c4b512c-9355-4ff1-875c-22788bdf979a?fit=crop&format=auto&h=290&w=400&s=a4bb1d82c29d54bdf33948b10ffe38aea48d28bc",
+            "width": 400
+        },
+        "title": "Uselvisk og målløs Haaland med assist: Tangerte Thierry Henry",
+        "url": "https://www.vg.no/sport/fotball/i/q1X3Ko/uselvisk-og-maalloes-haaland-med-assist-tangerte-thierry-henrys-maalpoeng-rekord"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3XQdy",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3XQdy",
+        "preamble": "Joshua King kom inn fra benken og scoret det siste målet da Fenerbahçe slo Sivasspor 3-0 og avanserte til cupfinalen i Tyrkia.",
+        "published": {
+            "date": "onsdag 24. mai",
+            "datetime": "2023-05-24 21:34:14",
+            "niceformat": "24.05.2023, 21:34",
+            "timestamp": "2023-05-24T19:34:14.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/99419141-ebec-4ee8-8051-d196cba61d01?fit=crop&format=auto&h=267&w=400&s=d10c84676c925374370e8971352b30dac07dfb96",
+            "width": 400
+        },
+        "title": "King scoret da Fenerbahçe sikret cupfinale",
+        "url": "https://www.vg.no/sport/fotball/i/l3XQdy/joshua-king-scoret-da-fenerbahce-sikret-cupfinale"
+    }
+]

@@ -1,0 +1,190 @@
+[
+    {
+        "slug": "uavgjort-mellom-ntnui-3-og-leinstrand-byneset-i-maalfest",
+        "url": "/lokalfotballen/i/BWdq9w/uavgjort-mellom-ntnui-3-og-leinstrand-byneset-i-maalfest",
+        "title": {
+            "value": "Uavgjort mellom NTNUI 3 og Leinstrand/Byneset i målfest"
+        },
+        "description": "NTNUI 3 og Leinstrand/Byneset måtte nøye seg med ett poeng hver på Lade 4 kunstgress i 4. divisjon, Trøndelag - Avdeling 3 i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T20:36:29Z",
+        "lastModifiedAt": "2023-05-25T20:36:29Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "langlo-med-maalshow",
+        "url": "/lokalfotballen/i/2BKJzq/langlo-med-maalshow",
+        "title": {
+            "value": "Langlo med målshow"
+        },
+        "description": "Tuva Elise Langlo viste scoringsform da Ranheim 3 vant 11-0 over Flatås i 4. divisjon, Trøndelag - Avdeling 3 torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T20:36:29Z",
+        "lastModifiedAt": "2023-05-25T20:41:48Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "uavgjort-mellom-egge-og-varden-meraaker-i-maalfest",
+        "url": "/lokalfotballen/i/wAXbGG/uavgjort-mellom-egge-og-varden-meraaker-i-maalfest",
+        "title": {
+            "value": "Uavgjort mellom Egge og Varden Meråker i målfest"
+        },
+        "description": "Egge var på vei mot seier, men måtte nøye seg med 3-3 mot Varden Meråker i 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn torsdag. Egge står uten seier på sine fem siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T20:29:24Z",
+        "lastModifiedAt": "2023-05-25T20:29:24Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "dobbel-fra-olsen-for-nessegutten",
+        "url": "/lokalfotballen/i/zEXbJ1/dobbel-fra-olsen-for-nessegutten",
+        "title": {
+            "value": "Dobbel fra Olsen for Nessegutten"
+        },
+        "description": "Runar Storsve Olsen scoret to ganger da Nessegutten vant 4-3 over Åfjord i 5. divisjon, Trøndelag - Avdeling 1 i fotball torsdag. Åfjord har tapt de siste tre kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T20:29:23Z",
+        "lastModifiedAt": "2023-05-25T20:29:23Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "storseier-for-strindheim-2",
+        "url": "/lokalfotballen/i/y6Xbj2/storseier-for-strindheim-2",
+        "title": {
+            "value": "Strindheim 2 vant i målfest"
+        },
+        "description": "Strindheim 2 knuste KIL/Hemne 2 5-1 i 4. divisjon, Trøndelag - Avdeling 2 i fotball. Strindheim 2 dro i land sin første hjemmeseier denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T20:21:10Z",
+        "lastModifiedAt": "2023-05-25T20:36:29Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "fossmo-boettet-inn-maal-for-orkla",
+        "url": "/lokalfotballen/i/WRd3K2/fossmo-boettet-inn-maal-for-orkla",
+        "title": {
+            "value": "Fossmo bøttet inn mål mot Heimdal"
+        },
+        "description": "Line Hoel Fossmo scoret fire ganger da Orkla vant 8-2 over Heimdal i 4. divisjon, Trøndelag - Avdeling 2 i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T20:20:08Z",
+        "lastModifiedAt": "2023-05-25T20:36:29Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "skorstad-sikret-seieren-paa-overtid",
+        "url": "/lokalfotballen/i/onBlQg/skorstad-sikret-seieren-paa-overtid",
+        "title": {
+            "value": "Grong snudde til seier i sluttminuttene"
+        },
+        "description": "Grong snudde til seier i sluttminuttene over Namsos i 4. divisjon, Trøndelag - Avdeling 1 i fotball. Anna Skorstad scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T20:12:36Z",
+        "lastModifiedAt": "2023-05-25T20:36:29Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "stjoerdals-blink-moeter-rosenborg-i-andre-runde-i-nm-for-menn",
+        "url": "/sport/i/Kn1q7M/stjoerdals-blink-moeter-rosenborg-i-andre-runde-i-nm-for-menn",
+        "title": {
+            "value": "Stjørdals/Blink møter «storebror» i andre runde i cupen"
+        },
+        "description": "Den andre runden i NM i fotball for menn er trukket. Det er duket for flere lokaloppgjør.",
+        "imageUrl": "064407b7-1728-42c0-98e1-19c81a4fa1c8",
+        "publishedAt": "2023-05-25T20:12:11Z",
+        "lastModifiedAt": "2023-05-25T20:21:24Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "overland-med-maalshow",
+        "url": "/lokalfotballen/i/P4mqz0/overland-med-maalshow",
+        "title": {
+            "value": "Overland bøttet inn mål mot Munkholmen"
+        },
+        "description": "Kevin Overland sto fram med fire mål da Rissa vant 8-4 over Munkholmen i 6. divisjon, Trøndelag - Avdeling 3 i fotball for menn torsdag. Det var sesongens første seier for Rissa.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T20:11:27Z",
+        "lastModifiedAt": "2023-05-25T20:36:31Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "tyldum-dobbel-for-innherred",
+        "url": "/lokalfotballen/i/pQXbEV/tyldum-dobbel-for-innherred",
+        "title": {
+            "value": "Innherred vant igjen"
+        },
+        "description": "Innherred tok sin tredje seier på rad da Fram ble slått 3-1 i 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn torsdag. Jørgen Tyldum scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T19:56:03Z",
+        "lastModifiedAt": "2023-05-25T20:29:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet",
+            "lokalfotballen-steinkjer-2"
+        ]
+    }
+]

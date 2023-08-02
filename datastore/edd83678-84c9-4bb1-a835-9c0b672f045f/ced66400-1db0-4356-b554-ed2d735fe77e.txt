@@ -1,0 +1,193 @@
+[
+    {
+        "slug": "loeberg-avgjorde-for-stoeren",
+        "url": "/lokalfotballen/i/VPk2q4/loeberg-avgjorde-for-stoeren",
+        "title": {
+            "value": "Løberg avgjorde for Støren"
+        },
+        "description": "Støren tok sin tredje seier på rad da Tylldal ble slått 1-0 i 6. divisjon, Trøndelag - Avdeling 6 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-27T15:08:09Z",
+        "lastModifiedAt": "2023-05-27T15:08:09Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-gauldalsposten",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "sen-scoring-reddet-ranheim-poeng",
+        "url": "/lokalfotballen/i/l3XWgo/sen-scoring-reddet-ranheim-poeng",
+        "title": {
+            "value": "Seieren glapp for Nardo på tampen"
+        },
+        "description": "Ranheim lå under 0-2, men klarte 2-2 mot Nardo i G19 Elite, Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-27T14:36:32Z",
+        "lastModifiedAt": "2023-05-27T15:00:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "sjoevold-dobbel-for-brekken",
+        "url": "/lokalfotballen/i/bgWw9v/sjoevold-dobbel-for-brekken",
+        "title": {
+            "value": "Sjøvold scoret to for Brekken"
+        },
+        "description": "Brekken slo Melhus 3 4-1 og har dermed tatt poeng i seks kamper på rad i 6. divisjon, Trøndelag - Avdeling 6 i fotball lørdag. Thomas Sjøvold scoret to av målene.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-27T14:19:14Z",
+        "lastModifiedAt": "2023-05-27T14:30:25Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "kan-rbk-tette-luka-til-tabbeltoppen-foelg-kampen",
+        "url": "/sport/fotball/i/EQ5EBA/kan-rbk-tette-luka-til-tabbeltoppen-foelg-kampen",
+        "title": {
+            "value": "Kan RBK tette luka til tabelltoppen? Følg kampen"
+        },
+        "description": "Vålerenga har startet året best, men med seier vil Rosenborg krympe luka til tre poeng - med en kamp mindre spilt. Følg toppoppgjøret fra 16:45 nedenfor.",
+        "imageUrl": "cffa35e2-80d9-4998-8083-927f46afd088",
+        "publishedAt": "2023-05-27T14:15:00Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "rosenborg-kvinner"
+        ]
+    },
+    {
+        "slug": "poengdeling-mellom-grei-og-kil-hemne",
+        "url": "/lokalfotballen/i/O8P1GV/poengdeling-mellom-grei-og-kil-hemne",
+        "title": {
+            "value": "Grei spilte uavgjort"
+        },
+        "description": "Grei og KIL/Hemne spilte 1-1 på Greibanen i 1. divisjon, grunnserie i fotball for kvinner lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-27T13:51:38Z",
+        "lastModifiedAt": "2023-05-27T14:29:23Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "gimse-vant-i-maalfest",
+        "url": "/lokalfotballen/i/kEXPo6/gimse-vant-i-maalfest",
+        "title": {
+            "value": "Knusende seier for Gimse"
+        },
+        "description": "Gimse knuste Skaun 6-1 i 6. divisjon, Trøndelag - Avdeling 6 i fotball lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-27T11:58:04Z",
+        "lastModifiedAt": "2023-05-27T12:59:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "ny-seier-for-vinne",
+        "url": "/lokalfotballen/i/nQXl8o/ny-seier-for-vinne",
+        "title": {
+            "value": "Tredje seier på rad for Vinne"
+        },
+        "description": "Robert Myrvang Gates sikret seieren med sin 1-0-scoring for Vinne mot Levangerstudentene på Ness stadion i 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-26T20:58:52Z",
+        "lastModifiedAt": "2023-05-26T21:59:32Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "stiklestad-dobbel-for-leksdal",
+        "url": "/lokalfotballen/i/zEXzm4/stiklestad-dobbel-for-leksdal",
+        "title": {
+            "value": "Stiklestad i scoringshumør mot Vanvik"
+        },
+        "description": "Leksdal snudde Vanviks 3-1-ledelse og vant 4-3 i 5. divisjon, Trøndelag - Avdeling 1 i fotball fredag. Vetle Stiklestad scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-26T20:17:04Z",
+        "lastModifiedAt": "2023-05-26T21:59:31Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "byaasen-2-seiret-borte-mot-aalen",
+        "url": "/lokalfotballen/i/2BKgWx/byaasen-2-seiret-borte-mot-aalen",
+        "title": {
+            "value": "Byåsen 2-seier over Ålen"
+        },
+        "description": "Byåsen 2 slo Ålen 2-1 og fikk dermed med seg tre poeng i 5. divisjon, Trøndelag - Avdeling 3 i fotball for menn fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-26T20:10:58Z",
+        "lastModifiedAt": "2023-05-26T21:59:32Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "furberg-i-scoringshumoer",
+        "url": "/lokalfotballen/i/LlLXRJ/furberg-i-scoringshumoer",
+        "title": {
+            "value": "Furberg ble tomålshelt"
+        },
+        "description": "Nataniel Sandvik Furberg scoret to mål og hjalp Frøya til 3-1-seier over Nationalkameratene 2 i 6. divisjon, Trøndelag - Avdeling 4 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-26T19:25:39Z",
+        "lastModifiedAt": "2023-05-26T21:59:31Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    }
+]

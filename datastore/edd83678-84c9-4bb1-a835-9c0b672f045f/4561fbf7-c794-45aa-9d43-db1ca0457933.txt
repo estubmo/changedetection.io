@@ -1,0 +1,195 @@
+[
+    {
+        "slug": "rbk-treneren-etter-ydmykelsen-det-er-100-prosent-mitt-ansvar",
+        "url": "/sport/fotball/i/eJXMLl/rbk-treneren-etter-ydmykelsen-det-er-100-prosent-mitt-ansvar",
+        "title": {
+            "value": "RBK-treneren etter ydmykelsen: – Det er 100 prosent mitt ansvar "
+        },
+        "description": "Kjetil Rekdal tar det fulle ansvaret for Rosenborgs svake sesongstart.",
+        "imageUrl": "2eb51ff1-793e-4359-a428-f022c0535147",
+        "publishedAt": "2023-05-06T18:38:59Z",
+        "lastModifiedAt": "2023-05-06T19:03:06Z",
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl",
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "hvor-lenge-gidder-han",
+        "url": "/sport/i/Moqnkm/hvor-lenge-gidder-han",
+        "title": {
+            "value": "Hvor lenge gidder han?"
+        },
+        "description": "KOMMENTAR: Det var kampen Kjetil Rekdal måtte vinne. Det gikk i stedet fra vondt til verre. Nå er Rosenborg i nedrykksstriden.",
+        "imageUrl": "0ddcc17c-47e5-45d3-8498-4706cb3eb9f5",
+        "publishedAt": "2023-05-06T17:59:55Z",
+        "lastModifiedAt": "2023-05-06T18:20:42Z",
+        "premium": true,
+        "authors": [
+            "Birger Løfaldli"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "birger-loefaldli",
+            "cecilie-gotaas-johnsen",
+            "per-mathias-hoegmo",
+            "eirik-horneland"
+        ]
+    },
+    {
+        "slug": "svak-rbk-boers-etter-vaalerenga-smell",
+        "url": "/sport/i/q1bPpo/svak-rbk-boers-etter-vaalerenga-smell",
+        "title": {
+            "value": "Svak RBK-børs etter Vålerenga-smell"
+        },
+        "description": "Et Rosenborg på desperat poengjakt fikk nok en gang problemer på eget gress.",
+        "imageUrl": "c0d08082-a436-4107-b33f-343927d1118b",
+        "publishedAt": "2023-05-06T17:58:44Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "ntnui-vant-igjen",
+        "url": "/lokalfotballen/i/Moqnbm/ntnui-vant-igjen",
+        "title": {
+            "value": "NTNUI vant igjen"
+        },
+        "description": "Etter dagens 3-0-seier står NTNUI uten poengtap så langt denne sesongen. I 4. divisjon, Trøndelag - Avdeling 2 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-06T17:46:48Z",
+        "lastModifiedAt": "2023-05-06T17:46:48Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "to-fulltreffere-fra-kleppo-vangen",
+        "url": "/lokalfotballen/i/bgom6g/to-fulltreffere-fra-kleppo-vangen",
+        "title": {
+            "value": "Tynset fortsatte seiersrekken"
+        },
+        "description": "Tynset tok sin fjerde strake seier med 3-1 over Ørland i 4. divisjon, Trøndelag - Avdeling 2 i fotball for menn lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-06T16:24:40Z",
+        "lastModifiedAt": "2023-05-06T16:46:53Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "storseier-for-namsos",
+        "url": "/lokalfotballen/i/LlqMdJ/storseier-for-namsos",
+        "title": {
+            "value": "Knusende seier for Namsos"
+        },
+        "description": "Namsos banket Charlottenlund 4-0 i 4. divisjon, Trøndelag - Avdeling 1 lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-06T16:22:35Z",
+        "lastModifiedAt": "2023-05-06T16:46:53Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "knusende-seier-for-kvik",
+        "url": "/lokalfotballen/i/15dM8K/knusende-seier-for-kvik",
+        "title": {
+            "value": "Kvik knuste KIL/Hemne"
+        },
+        "description": "Kvik tok sin tredje strake seier da KIL/Hemne ble slått 6-2 i 4. divisjon, Trøndelag - Avdeling 2 i fotball for menn lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-06T16:22:35Z",
+        "lastModifiedAt": "2023-05-06T18:46:30Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "linnea-hoeyem-haukland-avgjorde-for-verdal",
+        "url": "/lokalfotballen/i/abpl3a/linnea-hoeyem-haukland-avgjorde-for-verdal",
+        "title": {
+            "value": "Linnea Høyem Haukland avgjorde for Verdal"
+        },
+        "description": "Linnea Høyem Haukland ble matchvinner med sin 2-1-scoring da Verdal slo Tiller i J14 1. divisjon, Avdeling 1 - Vår lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-06T14:57:53Z",
+        "lastModifiedAt": "2023-05-06T15:21:41Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "femte-seier-paa-rad-for-byaasen",
+        "url": "/lokalfotballen/i/wAbgK4/femte-seier-paa-rad-for-byaasen",
+        "title": {
+            "value": "Byåsen seiret i målfest"
+        },
+        "description": "Med 6-0-seier over Orkla tok Byåsen sin femte seier på rad i 3. divisjon, Avdeling 5 lørdag. Brede Frøysa scoret fire mål.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-06T14:54:43Z",
+        "lastModifiedAt": "2023-05-06T15:19:24Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "mesterlig-ranheim-opphenting-etter-straffedobbel",
+        "url": "/sport/fotball/i/q1bPAL/mesterlig-ranheim-opphenting-etter-straffedobbel",
+        "title": {
+            "value": "Bruttern turte ikke se på da Bendik skulle skyte: - Det ble for mye for meg"
+        },
+        "description": "Det så bekmørkt ut for Ranheim. Men Bendik Byes presise straffefot ble redningen, før luggen til Mads Reginiussen ble helten.",
+        "imageUrl": "b0aa6f58-2b07-4231-bbff-b0165940004f",
+        "publishedAt": "2023-05-06T14:52:54Z",
+        "lastModifiedAt": "2023-05-06T15:54:08Z",
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "sport",
+            "fotball",
+            "ranheim-tf",
+            "ranheim",
+            "kaare-ingebrigtsen"
+        ]
+    }
+]

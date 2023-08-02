@@ -1,0 +1,196 @@
+[
+    {
+        "slug": "naeroey-snudde-til-seier",
+        "url": "/lokalfotballen/i/4ov74e/naeroey-snudde-til-seier",
+        "title": {
+            "value": "Nærøy snudde til seier"
+        },
+        "description": "Nærøy lå under 0-1, men snudde til 2-1-seier mot Flatanger 2 i 6. divisjon, Trøndelag - Avdeling 1 søndag. Det var Flatanger 2s andre tap på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-21T14:51:40Z",
+        "lastModifiedAt": "2023-05-21T15:04:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "rbk-knuste-riises-avaldsnes",
+        "url": "/sport/fotball/i/Kn1zXX/rbk-knuste-riises-avaldsnes",
+        "title": {
+            "value": "Målene rant inn for RBK"
+        },
+        "description": "Rosenborg fikk ikke spillet til å sitte. Så rant målene inn.",
+        "imageUrl": "9cfebe3d-1f23-4712-8987-f632b1f971f3",
+        "publishedAt": "2023-05-21T14:48:54Z",
+        "lastModifiedAt": "2023-05-21T14:51:12Z",
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "fotball",
+            "norsk-fotball",
+            "toppserien"
+        ]
+    },
+    {
+        "slug": "to-fulltreffere-fra-sigrid-holsetstuen",
+        "url": "/lokalfotballen/i/mQarlq/to-fulltreffere-fra-sigrid-holsetstuen",
+        "title": {
+            "value": "Sigrid Holsetstuen scoret to for Valsøyfjord/Halsa 9er"
+        },
+        "description": "Sigrid Holsetstuen scoret begge målene for Valsøyfjord/Halsa 9er og ble den store helten i 2-0-seieren over Hitra 9er i J15 2. divisjon, Avdeling 3 - Vår søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-21T14:43:37Z",
+        "lastModifiedAt": "2023-05-21T15:04:59Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-hitrafroya"
+        ]
+    },
+    {
+        "slug": "joergenvaag-ble-tremaalshelt",
+        "url": "/lokalfotballen/i/0Q0Gyo/joergenvaag-ble-tremaalshelt",
+        "title": {
+            "value": "Jørgenvåg ble tremålshelt"
+        },
+        "description": "Magnus Kongsnes Jørgenvåg scoret tre ganger og hjalp Kvik 2 til 5-3-seier over Byåsen 2 i 5. divisjon, Trøndelag - Avdeling 3 i fotball for menn søndag. Byåsen 2 har tapt sine to siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-21T14:19:00Z",
+        "lastModifiedAt": "2023-05-21T14:33:06Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "foelg-rbk-kampen-direkte-her",
+        "url": "/sport/fotball/i/gEjPka/foelg-rbk-kampen-direkte-her",
+        "title": {
+            "value": "Fullstendig utklassing"
+        },
+        "description": "Klokka 15 tar Rosenborg imot Avaldsnes på hjemmebane. Du kan følge kampen minutt for minutt her.",
+        "imageUrl": "c4e6375e-2d75-46dc-a884-2dce86a17ca5",
+        "publishedAt": "2023-05-21T12:30:00Z",
+        "lastModifiedAt": "2023-05-21T13:34:11Z",
+        "premium": false,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "avaldsnes"
+        ]
+    },
+    {
+        "slug": "du-vet-det-er-sommer-naar",
+        "url": "/magasin/i/xgX3xj/du-vet-det-er-sommer-naar",
+        "title": {
+            "value": "Folk stimlet sammen for å gjøre et kupp i finværet"
+        },
+        "description": "Du vet det er sommer i Trondheim når...",
+        "imageUrl": "4139f345-6602-4c21-90b7-825b9390cebd",
+        "publishedAt": "2023-05-21T12:25:09Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Håvard Haugseth Jensen (foto)"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "nettsus-for-philip-lundberg-holden",
+        "url": "/lokalfotballen/i/zEX7V1/nettsus-for-philip-lundberg-holden",
+        "title": {
+            "value": "Philip Lundberg Holden ble tomålshelt mot Trygg/Lade"
+        },
+        "description": "Philip Lundberg Holden førte an med to mål i 3-1-seieren over Trygg/Lade i G14 2. divisjon, Avdeling 3 - Vår. Det var årets første seier for Strindheim 4.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-21T11:48:50Z",
+        "lastModifiedAt": "2023-05-21T12:03:02Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "hun-kan-bli-idrettens-nye-foerstedame-jeg-er-ferdig-med-aa-vaere-et-talent",
+        "url": "/magasin/i/jlbk39/hun-kan-bli-idrettens-nye-foerstedame-jeg-er-ferdig-med-aa-vaere-et-talent",
+        "title": {
+            "value": "Hun gjemte trenings­avgiften for foreldrene på grunn av dårlig råd"
+        },
+        "description": "Hun gjemte treningsavgiften for foreldrene på grunn av dårlig råd. To tiår senere kan Zaineb Al-Samarai bli norsk idretts førstedame.",
+        "imageUrl": "270d5b44-f4b3-48b3-ba48-2e8c64786353",
+        "publishedAt": "2023-05-21T09:03:33Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Robert Veiåker Johansen"
+        ],
+        "tags": [
+            "idrett",
+            "holmlia",
+            "vaalerenga-fotball",
+            "berit-kjoell",
+            "irak",
+            "ukeadressa",
+            "portrettet",
+            "norges-idrettsforbund-nif"
+        ]
+    },
+    {
+        "slug": "trondheimslag-med-historisk-seier-i-klassiker",
+        "url": "/sport/i/dwPndo/trondheimslag-med-historisk-seier-i-klassiker",
+        "title": {
+            "value": "Historisk seier: – Dette kommer jeg aldri til å glemme"
+        },
+        "description": "NTNUI har vunnet det svenske Tiomila, og blir med det første norske lag siden 2012 som vinner det gjeve løpet.",
+        "imageUrl": "b725d20a-45d1-4e1c-8535-a1352773d629",
+        "publishedAt": "2023-05-21T07:11:58Z",
+        "lastModifiedAt": "2023-05-21T10:10:05Z",
+        "premium": true,
+        "authors": [
+            "Roy Tommy Bråten",
+            "NTB",
+            "Truls August Råen"
+        ],
+        "tags": [
+            "ntnui",
+            "orientering"
+        ]
+    },
+    {
+        "slug": "da-jan-ove-farstad-doede-fikk-kompisene-en-ide-for-levi-andre-leite-har-det-gitt-et-langt-lettere-liv",
+        "url": "/sport/sprek/i/GMK3lm/da-jan-ove-farstad-doede-fikk-kompisene-en-ide-for-levi-andre-leite-har-det-gitt-et-langt-lettere-liv",
+        "title": {
+            "value": " Da Jan-Ove døde, fikk kompisene en idé. For Levi har livet blitt 20 kilo lettere"
+        },
+        "description": "Han gikk under kallenavnet «Joggis». Nå hedres han av kompisene.",
+        "imageUrl": "34dd82a0-7f7b-4fbb-bbe4-2f49d608210a",
+        "publishedAt": "2023-05-21T07:00:09Z",
+        "lastModifiedAt": "2023-05-21T07:00:09Z",
+        "premium": true,
+        "authors": [
+            "Odd-Sølve Grannes"
+        ],
+        "tags": [
+            "kreft"
+        ]
+    }
+]

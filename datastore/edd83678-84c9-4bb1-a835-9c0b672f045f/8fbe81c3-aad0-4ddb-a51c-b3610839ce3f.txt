@@ -1,0 +1,189 @@
+[
+    {
+        "slug": "siste-fra-breddefotballen",
+        "url": "/sport/fotball/i/GMjXaq/siste-fra-breddefotballen",
+        "title": {
+            "value": "RBK møter bydelsklubb i cupen: - Dette blir gøy"
+        },
+        "description": null,
+        "imageUrl": "7cc1e655-6530-4feb-a7b9-e9784b0f2574",
+        "publishedAt": "2023-03-24T14:51:36Z",
+        "lastModifiedAt": "2023-04-23T20:17:37Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "fotball",
+            "breddefotbaill",
+            "lokalfotballen",
+            "breddefotball"
+        ]
+    },
+    {
+        "slug": "foelges-tett-i-utlandet-naa-har-rbk-strategen-bestemt-seg",
+        "url": "/sport/fotball/i/KnqymG/foelges-tett-i-utlandet-naa-har-rbk-strategen-bestemt-seg",
+        "title": {
+            "value": "Bekrefter kontrakt med RBK"
+        },
+        "description": "Elin Sørum (23) følges av storklubber, blant annet i England. Nå er hun klar for for to nye år i Rosenborg.",
+        "imageUrl": "ae4cc987-5da2-45df-86e7-832165cd0db7",
+        "publishedAt": "2023-05-05T09:40:08Z",
+        "lastModifiedAt": "2023-05-05T10:37:09Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken",
+            "Petter Rasmus"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "troendersk-skitalent-faar-landslagsplass",
+        "url": "/sport/i/kEbRo9/troendersk-skitalent-faar-landslagsplass",
+        "title": {
+            "value": "Trøndersk skitalent får landslagsplass"
+        },
+        "description": "Det norske juniorlandslaget i langrenn til 2023/2024-sesongen er klart. Der er trønderske Casper Kvam Grindhagen blant ti utøvere.",
+        "imageUrl": "68616094-554f-4537-b1dc-a6b73040392c",
+        "publishedAt": "2023-05-05T09:00:01Z",
+        "lastModifiedAt": "2023-05-05T09:00:01Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold",
+            "NTB"
+        ],
+        "tags": [
+            "casper-kvam-grindhagen"
+        ]
+    },
+    {
+        "slug": "leik-seiret-hjemme-mot-roeros-os-nansen",
+        "url": "/lokalfotballen/i/VPpqpW/leik-seiret-hjemme-mot-roeros-os-nansen",
+        "title": {
+            "value": "Leik seiret hjemme mot Røros/Os/Nansen"
+        },
+        "description": "Leik seiret 2-0 over Røros/Os/Nansen i 6. divisjon, Trøndelag - Avdeling 6 i fotball torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-05T07:46:02Z",
+        "lastModifiedAt": "2023-05-05T07:46:02Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "manchester-city-eierne-kjoeper-brasiliansk-klubb",
+        "url": "/nyheter/innenriks/i/Xbp8R7/manchester-city-eierne-kjoeper-brasiliansk-klubb",
+        "title": {
+            "value": "Manchester City-eierne kjøper brasiliansk klubb"
+        },
+        "description": "City Football Group (CFG) har kjøpt seg inn i den brasilianske klubben Bahia. De håper å kunne hjelpe brasiliansk fotball til å vokse finansielt.",
+        "imageUrl": "23717e93-b82d-40c8-81b1-0386eb426ce1",
+        "publishedAt": "2023-05-05T06:48:35Z",
+        "lastModifiedAt": "2023-05-05T06:48:35Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "berg-senket-ranheim-2",
+        "url": "/lokalfotballen/i/abpwd4/berg-senket-ranheim-2",
+        "title": {
+            "value": "Berg senket Ranheim 2"
+        },
+        "description": "Ranheim 2 fikk sitt første tap på tre kamper etter dagens 1-0-tap mot Orkla. I 4. divisjon, Trøndelag - Avdeling 2 i fotball for kvinner torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-04T22:35:08Z",
+        "lastModifiedAt": "2023-05-04T22:46:19Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "ranheim-3-slo-varden-meraaker-i-maalfest",
+        "url": "/lokalfotballen/i/Knq3bX/ranheim-3-slo-varden-meraaker-i-maalfest",
+        "title": {
+            "value": "Ranheim 3 slo Varden Meråker i målfest"
+        },
+        "description": "Ranheim 3 banket Varden Meråker 20-2 i 4. divisjon, Trøndelag - Avdeling 3 i fotball torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-04T20:21:34Z",
+        "lastModifiedAt": "2023-05-04T20:21:34Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "ishac-fayssal-mohamad-var-giftig-foran-maal-scoret-hattrick",
+        "url": "/lokalfotballen/i/GMqGO6/ishac-fayssal-mohamad-var-giftig-foran-maal-scoret-hattrick",
+        "title": {
+            "value": "Ishac Fayssal Mohamad scoret hattrick for Charlottenlund 2"
+        },
+        "description": "Ishac Fayssal Mohamad scoret tre av målene og hjalp Charlottenlund 2 til 5-3-seier over Trygg/Lade 2 i G19 2. divisjon, Avdeling 4 - Vår torsdag. Det var sesongens første seier for Charlottenlund 2.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-04T20:09:27Z",
+        "lastModifiedAt": "2023-05-04T22:16:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "nygaard-boettet-inn-maal-for-tingvoll",
+        "url": "/lokalfotballen/i/69KjlQ/nygaard-boettet-inn-maal-for-tingvoll",
+        "title": {
+            "value": "Målene rant inn for Nygård"
+        },
+        "description": "Iver Stenhjem Nygård viste scoringsform da Tingvoll seiret 8-1 over Valsøyfjord i 6. divisjon, Nordmøre og Romsdal - Avdeling 1 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-04T20:04:06Z",
+        "lastModifiedAt": "2023-05-04T20:23:55Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "borteseier-for-malvik-2-over-tangmoen",
+        "url": "/lokalfotballen/i/4o0qLa/borteseier-for-malvik-2-over-tangmoen",
+        "title": {
+            "value": "Borteseier for Malvik 2 over Tangmoen"
+        },
+        "description": "Malvik 2 knuste Tangmoen 4-1 i 4. divisjon, Trøndelag - Avdeling 1 i fotball for kvinner torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-04T19:58:43Z",
+        "lastModifiedAt": "2023-05-04T20:21:35Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    }
+]

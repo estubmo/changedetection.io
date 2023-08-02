@@ -1,0 +1,371 @@
+[
+    {
+        "authors": [
+            {
+                "email": "oyvind.herrebroden@vg.no",
+                "id": "7b5d0009-0f34-41e3-b5af-dcf22addbd42",
+                "name": "Øyvind Herrebrøden"
+            },
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4ol3LG",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4ol3LG",
+        "preamble": "Chelsea bekrefter signering av den franske stjernespissen Christopher Nkunku.",
+        "published": {
+            "date": "tirsdag 20. juni",
+            "datetime": "2023-06-20 11:34:30",
+            "niceformat": "20.06.2023, 11:34",
+            "timestamp": "2023-06-20T09:34:30.000Z"
+        },
+        "thumbnail": {
+            "height": 279,
+            "url": "https://akamai.vgc.no/v2/images/4d34d6a9-a742-4d74-866a-307413fdfbc2?fit=crop&format=auto&h=279&w=400&s=19a25a3bab2b64adcb0e0fcd6e675a370e5761ad",
+            "width": 400
+        },
+        "title": "Bekreftet: Nkunku klar for Chelsea",
+        "url": "https://www.vg.no/sport/fotball/i/4ol3LG/bekreftet-nkunku-klar-for-chelsea"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB-Reuters"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAkgXn",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAkgXn",
+        "preamble": "Japans landslagssjef, Futoshi Ikeda, tror at de potensielle svarte TV-skjermene under kvinnenes fotball-VM kan skade den langsiktige utviklingen av idretten.",
+        "published": {
+            "date": "tirsdag 20. juni",
+            "datetime": "2023-06-20 07:37:04",
+            "niceformat": "20.06.2023, 07:37",
+            "timestamp": "2023-06-20T05:37:04.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/8f3035d7-12d8-4ad0-b043-f7860c103ab2?fit=crop&format=auto&h=267&w=400&s=1bc63217b6af7fa18bf9742062aee5ab531c7ba3",
+            "width": 400
+        },
+        "title": "Japans landslagssjef hardt ut for Fifa: – Vil skade idretten",
+        "url": "https://www.vg.no/sport/fotball/i/wAkgXn/japans-landslagssjef-hardt-ut-for-fifa-vil-skade-idretten"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEKJwB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEKJwB",
+        "preamble": "OSLO SENTRUM (VG) Leif Gunnar Smerud (46) mener U21-landslaget kan overraske motstandere som Frankrike og Italia, når Norge deltar i EM for første gang på 10 år. Selv ble rogalendingen utbrent som 23-åring.",
+        "published": {
+            "date": "tirsdag 20. juni",
+            "datetime": "2023-06-20 07:10:12",
+            "niceformat": "20.06.2023, 07:10",
+            "timestamp": "2023-06-20T05:10:12.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/9a1d32e1-f4ff-4890-99e9-8a43578f7492?fit=crop&format=auto&h=267&w=400&s=68dcdb6f7156f5991ba29917345f30288ec7ae4f",
+            "width": 400
+        },
+        "title": "U21-sjefen vil skape magi i EM: – Jeg tror på skjulte, naturlige krefter",
+        "url": "https://www.vg.no/sport/fotball/i/gEKJwB/u21-landslagssjef-leif-gunnar-smerud-vil-skape-magi-i-em-jeg-tror-paa-skjulte-naturlige-krefter"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB-Ritzau"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O8XomV",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O8XomV",
+        "preamble": "Danmarks landslagssjef, Kasper Hjulmand, mener at de danske mediene overdriver dramatikken ved at han sendte Mohamed Daramy hjem fra landslagssamlingen.",
+        "published": {
+            "date": "tirsdag 20. juni",
+            "datetime": "2023-06-20 07:05:15",
+            "niceformat": "20.06.2023, 07:05",
+            "timestamp": "2023-06-20T05:05:15.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ff801792-02ce-4adb-a2b0-ab9f472194f3?fit=crop&format=auto&h=267&w=400&s=d5f368e3359fdc5e8cdfebb4e5b7e74e58b67d03",
+            "width": 400
+        },
+        "title": "Hjulmand avviser dramatisk vraking: – Storm i et vannglass",
+        "url": "https://www.vg.no/sport/fotball/i/O8XomV/hjulmand-avviser-dramatisk-vraking-storm-i-et-vannglass"
+    },
+    {
+        "authors": [
+            {
+                "email": "svea@vg.no",
+                "id": "f852e5e5-5ba9-48c7-96da-9455a160031f",
+                "name": "Knut Espen Svegaarden"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "MoX3Xr",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/MoX3Xr",
+        "preamble": "ULLEVAAL STADION (VG) Går ting galt én gang kan det kalles «uflaks». Kanskje to ganger også. Men skjer det samme igjen og igjen, så snakker vi om en trend. Og den har herrelandslaget slitt med i 20 år.",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 23:13:07",
+            "niceformat": "19.06.2023, 23:13",
+            "timestamp": "2023-06-19T21:13:07.000Z"
+        },
+        "thumbnail": {
+            "height": 303,
+            "url": "https://akamai.vgc.no/v2/images/3a5db6f0-cf78-406a-9a25-d47e6805ae04?fit=crop&format=auto&h=303&w=400&s=cc916ec9ccb5be110d0c706f93a70dd9fad962b4",
+            "width": 400
+        },
+        "title": "Det er en stygg trend – den måten Norge taper kamper på",
+        "url": "https://www.vg.no/sport/fotball/i/MoX3Xr/det-er-en-stygg-trend-den-maaten-norge-taper-kamper-paa"
+    },
+    {
+        "authors": [
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QqQqg",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QqQqg",
+        "preamble": "(Slovenia - Danmark 1–1) Danskene har hatt en svak start på EM-kvalifiseringen og trener Kasper Hjulmand har fått massiv kritikk de siste dagene. Mandag kveld kan han prise seg lykkelig over stortalentet Rasmus Højlund (20).",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 22:39:32",
+            "niceformat": "19.06.2023, 22:39",
+            "timestamp": "2023-06-19T20:39:32.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/HOO_kZ9R5Ruj.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Reddet av «danske Haaland» etter kaos-dager",
+        "url": "https://www.vg.no/sport/fotball/i/0QqQqg/reddet-av-danske-haaland-etter-kaos-dager"
+    },
+    {
+        "authors": [
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WRXR5a",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WRXR5a",
+        "preamble": "(England–Nord-Makedonia 7–0) Da Bukayo Saka (21) scoret sitt første hat trick gikk det fort. I løpet av 14 spilleminutter var det gjort. Han forteller hvilken scoring han likte best.",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 22:20:29",
+            "niceformat": "19.06.2023, 22:20",
+            "timestamp": "2023-06-19T20:20:29.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/oGGDaPWBU01n.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "England ydmyket Nord-Makedonia: Saka med hat trick",
+        "url": "https://www.vg.no/sport/fotball/i/WRXR5a/england-ydmyker-nord-makedonia-saka-med-hat-trick"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4X4l6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4X4l6",
+        "preamble": "Paris Saint-Germains målvakt Sergio Rico (29) er tatt ut av kunstig koma tre uker etter at han pådro seg alvorlige skader i en rideulykke.",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 21:16:33",
+            "niceformat": "19.06.2023, 21:16",
+            "timestamp": "2023-06-19T19:16:33.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/3737fc30-f1cb-4ec9-9f6d-71bc5cc5eedb?fit=crop&format=auto&h=267&w=400&s=cbb4c15c58d4c7b13b8154a2dc41c27bade42bb6",
+            "width": 400
+        },
+        "title": "PSG-keeper ute av koma etter rideulykke",
+        "url": "https://www.vg.no/sport/fotball/i/P4X4l6/psg-keeper-ute-av-koma-etter-rideulykke"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            },
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5BeGAE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5BeGAE",
+        "preamble": "ULLEVAAL STADION (VG) Tabber, kramper og bytter stjal mye av oppmerksomheten da det raknet mot Skottland. Men det var også et annet problem som pekte seg ut i lørdagens fiasko.",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 20:48:45",
+            "niceformat": "19.06.2023, 20:48",
+            "timestamp": "2023-06-19T18:48:45.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/067e7964-592e-463c-bc46-b871d28c21db?fit=crop&format=auto&h=267&w=400&s=70dadfcaf2e2c3149f938896f6632ee056443d15",
+            "width": 400
+        },
+        "title": "Én ting irriterer Solbakken etter Skottland-fadesen: – For feige og for dårlige",
+        "url": "https://www.vg.no/sport/fotball/i/5BeGAE/en-ting-irriterer-solbakken-etter-skottland-fadesen-for-feige-og-for-daarlige"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "RGXGXW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/RGXGXW",
+        "preamble": "(Finland – San Marino 6–0) Daniel Håkans (22) scoret tre mål på ni minutter mot San Marino.",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 19:52:31",
+            "niceformat": "19.06.2023, 19:52",
+            "timestamp": "2023-06-19T17:52:31.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/dc34b405-4ef6-4cb2-95fb-f875214288b7?fit=crop&format=auto&h=267&w=400&s=9cc130ba4de7b59076c69759810ebe455632cab3",
+            "width": 400
+        },
+        "title": "Vålerenga-spiller scoret hat trick",
+        "url": "https://www.vg.no/sport/fotball/i/RGXGXW/vaalerenga-spiller-scoret-hat-trick"
+    }
+]

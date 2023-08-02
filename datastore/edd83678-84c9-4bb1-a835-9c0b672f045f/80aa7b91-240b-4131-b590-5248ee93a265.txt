@@ -1,0 +1,193 @@
+[
+    {
+        "slug": "daarlig-vaer-skapte-troebbel-i-forsoeket-paa-the-double",
+        "url": "/sport/i/bgwr7e/daarlig-vaer-skapte-troebbel-i-forsoeket-paa-the-double",
+        "title": {
+            "value": "Supertalentet overrasket seg selv med rekordløp"
+        },
+        "description": "Bastian Elnan Aurstad viste at han også kan løpe 400 meter flatt under NM i friidrett på Jessheim.",
+        "imageUrl": "319d3071-5bee-468b-b63e-439a73da5bf6",
+        "publishedAt": "2023-07-07T17:48:55Z",
+        "lastModifiedAt": "2023-07-07T19:07:11Z",
+        "premium": true,
+        "authors": [
+            "Ine Skjellum",
+            "Andreas Jakobsen, NTB"
+        ],
+        "tags": [
+            "friidrett"
+        ]
+    },
+    {
+        "slug": "rbk-styret-har-satt-ned-eget-trenerutvalg",
+        "url": "/sport/fotball/i/Q7WA8J/rbk-styret-har-satt-ned-eget-trenerutvalg",
+        "title": {
+            "value": "RBK-styrelederen: – Vi snakker ikke med noen nå"
+        },
+        "description": "Et utvalg på fem vil levere et utkast på hvordan trenerprosessen skal løses.",
+        "imageUrl": "81c91319-da24-4604-b15d-555ecb5c0049",
+        "publishedAt": "2023-07-07T16:59:23Z",
+        "lastModifiedAt": "2023-07-07T17:01:07Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "cecilie-gotaas-johnsen"
+        ]
+    },
+    {
+        "slug": "paa-laan-ut-aaret",
+        "url": "/sport/i/gE1eEA/paa-laan-ut-aaret",
+        "title": {
+            "value": "På lån ut året "
+        },
+        "description": "Rosenborg og Kristiansund er enige om en utlånsavtale for Marius Broholm ut sesongen.",
+        "imageUrl": "0b7e4907-3ed2-46cc-b7cd-18e5830eac57",
+        "publishedAt": "2023-07-07T16:13:46Z",
+        "lastModifiedAt": "2023-07-07T16:13:46Z",
+        "premium": true,
+        "authors": [
+            "Karoline Ulvnes"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "har-fotballpublikum-for-mye-makt",
+        "url": "/meninger/i/zEw11b/har-fotballpublikum-for-mye-makt",
+        "title": {
+            "value": " – Rosenborg er ingen vanlig bedrift, Kari Hovde"
+        },
+        "description": null,
+        "imageUrl": "1c76589c-53db-4a2d-939c-a2d278083fb5",
+        "publishedAt": "2023-07-07T15:09:31Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Arve Hjelseth "
+        ],
+        "tags": [
+            "debatt",
+            "fotball",
+            "rosenborg",
+            "kari-hovde"
+        ]
+    },
+    {
+        "slug": "har-faatt-nytt-kontraktsforslag-av-rbk",
+        "url": "/sport/fotball/i/8JLk02/har-faatt-nytt-kontraktsforslag-av-rbk",
+        "title": {
+            "value": "Har fått nytt kontraktsforslag"
+        },
+        "description": "Ole Sæter har mottatt et nytt kontraktsforslag av RBK.",
+        "imageUrl": "4325c04d-a625-42e3-a1e1-2c9a15afd6c9",
+        "publishedAt": "2023-07-07T14:45:29Z",
+        "lastModifiedAt": "2023-07-07T15:11:17Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken",
+            "Johannes Strand"
+        ],
+        "tags": [
+            "rosenborg",
+            "roar-vikvang",
+            "ole-saeter-2",
+            "mikael-dorsin"
+        ]
+    },
+    {
+        "slug": "lover-250-millioner-til-skole",
+        "url": "/nyheter/trondheim/i/zEzvj1/lover-250-millioner-til-skole",
+        "title": {
+            "value": "– Det ender opp med at dette koster oss dyrt om noen år"
+        },
+        "description": "– Det er tre ting som må på plass for at elevene skal få en bedre skole og fremtid, sier Høyres ordførerkandidat, Kent Ranum.",
+        "imageUrl": "52e54f5c-d102-4285-9ae2-da70fdabf724",
+        "publishedAt": "2023-07-07T10:39:56Z",
+        "lastModifiedAt": "2023-07-07T10:44:29Z",
+        "premium": true,
+        "authors": [
+            "Norunn Bergesen"
+        ],
+        "tags": [
+            "trondheim",
+            "kent-ranum",
+            "mats-ramo",
+            "politikk",
+            "skole",
+            "utdanning"
+        ]
+    },
+    {
+        "slug": "om-fotball-norge-har-glemt-det-skal-jeg-vaere-den-foerste-til-aa-minne-dem-paa-det",
+        "url": "/sport/fotball/i/VPr2p4/om-fotball-norge-har-glemt-det-skal-jeg-vaere-den-foerste-til-aa-minne-dem-paa-det",
+        "title": {
+            "value": "Avslo lukrative tilbud: – Jeg ville følge hjertet mitt"
+        },
+        "description": "Spissen bygger kropp for å være spilleklar så fort han får lov.",
+        "imageUrl": "916bde4c-2316-47ac-9cb6-90b0c7f11a7c",
+        "publishedAt": "2023-07-07T05:04:07Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "fotball",
+            "sport",
+            "svein-maalen",
+            "noah-holm",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/150G7X/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene fredag 7. juli.",
+        "imageUrl": "ef51dc7b-03ea-474e-8d21-7c7b278f606e",
+        "publishedAt": "2023-07-07T04:00:44Z",
+        "lastModifiedAt": "2023-07-07T04:00:44Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "ringte-inn-til-politiet-opplevde-aa-ha-blitt-beskutt",
+        "url": "/nyheter/i/JQwgpR/ringte-inn-til-politiet-opplevde-aa-ha-blitt-beskutt",
+        "title": {
+            "value": "Syklist mener han ble beskutt: – Han og flere vitner hadde hørt et smell"
+        },
+        "description": "Politiet har tatt beslag i en signalpenn etter at en syklist opplevde å bli skutt på.",
+        "imageUrl": "f22bcede-dbd0-44e5-a779-e7ce262b2a20",
+        "publishedAt": "2023-07-06T18:18:04Z",
+        "lastModifiedAt": "2023-07-06T19:58:13Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold",
+            "Malin von Düring"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "politiet-person-sa-han-ble-beskutt-i-trondheim-en-paagrepet",
+        "url": "/nyheter/innenriks/i/1503rG/politiet-person-sa-han-ble-beskutt-i-trondheim-en-paagrepet",
+        "title": {
+            "value": "Person sa han ble beskutt i Trondheim – en pågrepet"
+        },
+        "description": "En person er pågrepet på Ranheim i Trondheim etter at en syklist hevdet han ble skutt etter.",
+        "imageUrl": null,
+        "publishedAt": "2023-07-06T18:15:41Z",
+        "lastModifiedAt": "2023-07-06T18:39:43Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    }
+]

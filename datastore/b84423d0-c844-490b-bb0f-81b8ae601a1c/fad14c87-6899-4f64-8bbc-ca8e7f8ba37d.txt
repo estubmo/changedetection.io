@@ -1,0 +1,371 @@
+[
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEX3w4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEX3w4",
+        "preamble": "(Strasbourg-PSG 1–1) Lionel Messi har blitt pepet på og ønsket vekk av egne supportere. Lørdag kveld sikret han PSG et nytt seriegull.",
+        "published": {
+            "date": "lørdag 27. mai",
+            "datetime": "2023-05-27 22:48:13",
+            "niceformat": "27.05.2023, 22:48",
+            "timestamp": "2023-05-27T20:48:13.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/f23bcb88-a313-4fbc-b1ae-a2a9a9026247?fit=crop&format=auto&h=267&w=400&s=ed5c92094c044585d913bd3ef5f5ccafbd8b98da",
+            "width": 400
+        },
+        "title": "Messi sikret ligatittel til PSG – satte ny rekord",
+        "url": "https://www.vg.no/sport/fotball/i/zEX3w4/messi-sikret-ligatittel-til-psg"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQ525o",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQ525o",
+        "preamble": "Fredrik Aursnes  (27) er portugisisk seriemester med Benfica etter 3–0 over bunnlaget Santa Clara lørdag.",
+        "published": {
+            "date": "lørdag 27. mai",
+            "datetime": "2023-05-27 21:34:42",
+            "niceformat": "27.05.2023, 21:34",
+            "timestamp": "2023-05-27T19:34:42.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/dd7137c7-1666-4074-a35a-a7d35fe3463f?fit=crop&format=auto&h=267&w=400&s=1b6be54a9ad636e9e03b6fb7c6dcb93c030b47b7",
+            "width": 400
+        },
+        "title": "Aursnes portugisisk mester med Benfica",
+        "url": "https://www.vg.no/sport/fotball/i/EQ525o/aursnes-portugisisk-mester-med-benfica"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "bgWJ8l",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/bgWJ8l",
+        "preamble": "(Coventry-Luton 1–1 e.e.o., 5–6 på straffer) Luton er klar for milliardbingen Premier League etter straffeseier over Coventry i det som omtales som den mest verdifulle enkeltkamp i fotballen. 31 års ventetid er over for fansen.",
+        "published": {
+            "date": "lørdag 27. mai",
+            "datetime": "2023-05-27 20:49:18",
+            "niceformat": "27.05.2023, 20:49",
+            "timestamp": "2023-05-27T18:49:18.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/RC6u0htPAECr.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Luton vant milliardkampen etter straffedrama",
+        "url": "https://www.vg.no/sport/fotball/i/bgWJ8l/vant-milliardkampen-etter-straffedrama"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JW1Jr",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JW1Jr",
+        "preamble": "Klubbdirektør i Bayern München, Oliver Kahn, og sportsdirektør Hasan Salihamidzić har fått sparken av klubben.",
+        "published": {
+            "date": "lørdag 27. mai",
+            "datetime": "2023-05-27 17:49:35",
+            "niceformat": "27.05.2023, 17:49",
+            "timestamp": "2023-05-27T15:49:35.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/05798f84-3aa6-4928-90a8-6e06a58eb29c?fit=crop&format=auto&h=267&w=400&s=993f70c7519639eb7eda54aa8326561a1492dd55",
+            "width": 400
+        },
+        "title": "Kahn og Salihamidzić ferdig i Bayern: – Ansvarlige for alt som skjedde",
+        "url": "https://www.vg.no/sport/fotball/i/8JW1Jr/kahn-og-salihamidzic-ferdig-i-bayern"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            },
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPk2ll",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPk2ll",
+        "preamble": "(Borussia Dortmund – Mainz 2–2, Köln – Bayern München 1–2) Premisset var klart: Med seier i siste kamp ville Dortmund bli tyske mestere for første gang siden 2012. På ti minutter raknet det fullstendig, og da erkerivalen gjorde sin del av jobben sendes trofeet til München.",
+        "published": {
+            "date": "lørdag 27. mai",
+            "datetime": "2023-05-27 17:26:07",
+            "niceformat": "27.05.2023, 17:26",
+            "timestamp": "2023-05-27T15:26:07.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/D2ohbHrI2Vkd.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Ligagullet glapp i siste kamp – Bayern er mestere for ellevte gang på rad",
+        "url": "https://www.vg.no/sport/fotball/i/VPk2ll/ligagullet-glapp-i-siste-kamp-bayern-er-mestere-for-ellevte-gang-paa-rad"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "2BKwRx",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/2BKwRx",
+        "preamble": "(Reading - Chelsea 0–3) Guro Reiten har herjet i ligaen i hele år. I siste serierunde toppet hun den gode sesongen med både scoring, målgivende og seriegull.",
+        "published": {
+            "date": "lørdag 27. mai",
+            "datetime": "2023-05-27 17:18:49",
+            "niceformat": "27.05.2023, 17:18",
+            "timestamp": "2023-05-27T15:18:49.000Z"
+        },
+        "thumbnail": {
+            "height": 250,
+            "url": "https://akamai.vgc.no/v2/images/07afcc0e-e0c3-4ed7-b19b-f12a9125d3cd?fit=crop&format=auto&h=250&w=400&s=9d33b6482702f3b9be5fceca6fd7be0bee92bfca",
+            "width": 400
+        },
+        "title": "Reiten med scoring og assist – Chelsea seriemester igjen",
+        "url": "https://www.vg.no/sport/fotball/i/2BKwRx/guro-reiten-og-maren-mjelde-ble-seriemester-med-chelsea"
+    },
+    {
+        "authors": [
+            {
+                "email": "per.opsahl@vg.no",
+                "id": "a8b54406-d047-4b1c-90e2-f9f77a0e7317",
+                "name": "Per Opsahl"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMKObV",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMKObV",
+        "preamble": "«Mirakelmannen» Mark Robins (53) kan ha reddet Alex Ferguson fra å få sparken i 1990. Nå kan han lede Coventry til Premier League-opprykk. I oktober lå laget helt sist i Championship. ",
+        "published": {
+            "date": "lørdag 27. mai",
+            "datetime": "2023-05-27 12:43:01",
+            "niceformat": "27.05.2023, 12:43",
+            "timestamp": "2023-05-27T10:43:01.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/0a3ed844-6299-4808-a590-2823c4ca5774?fit=crop&format=auto&h=300&w=400&s=ba884524e1b2816cea2ffabdc39daef1340dcb03",
+            "width": 400
+        },
+        "title": "Coventry fra sisteplass til opprykkskamp: – Ikke til å tro",
+        "url": "https://www.vg.no/sport/fotball/i/GMKObV/coventry-laa-sist-spiller-om-opprykk-mot-luton-ikke-til-aa-tro"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "2BKwla",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/2BKwla",
+        "preamble": "Erling Braut Haaland (22) stakk av med to nye utmerkelser da han lørdag ble kåret til sesongens spiller og sesongens unge spiller i Premier League.",
+        "published": {
+            "date": "lørdag 27. mai",
+            "datetime": "2023-05-27 12:05:38",
+            "niceformat": "27.05.2023, 12:05",
+            "timestamp": "2023-05-27T10:05:38.000Z"
+        },
+        "thumbnail": {
+            "height": 302,
+            "url": "https://akamai.vgc.no/v2/images/2dbea927-829a-4c78-b8ba-0f40512621bc?fit=crop&format=auto&h=302&w=400&s=369bf55e57376d2589191077d2d760b2cb540daa",
+            "width": 400
+        },
+        "title": "Historisk prisdryss for Haaland: Kåret til sesongens spiller i Premier League",
+        "url": "https://www.vg.no/sport/fotball/i/2BKwla/haaland-kaaret-til-aarets-spiller-i-premier-league"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPkpAW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPkpAW",
+        "preamble": "Frank Lampard (44) har hatt et annus horribilis som manager. Til sammen har han fem seirer på 32 kamper med Everton og Chelsea.",
+        "published": {
+            "date": "lørdag 27. mai",
+            "datetime": "2023-05-27 10:00:14",
+            "niceformat": "27.05.2023, 10:00",
+            "timestamp": "2023-05-27T08:00:14.000Z"
+        },
+        "thumbnail": {
+            "height": 273,
+            "url": "https://akamai.vgc.no/v2/images/dd59182f-655a-4eb1-8f74-629c683ba9e6?fit=crop&format=auto&h=273&w=400&s=17210f12e44f69b25ff8d239b17754d687f87b7b",
+            "width": 400
+        },
+        "title": "Frank Lampards katastrofetall: 0,70 poeng per kamp",
+        "url": "https://www.vg.no/sport/fotball/i/VPkpAW/frank-lampards-katastrofetall-0-70-poeng-per-kamp"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            },
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQ5kvo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQ5kvo",
+        "preamble": "Martin Foyston, mengeårig assistent for Häcken-trener Per-Mathias Høgmo, må tåle hard kritikk etter at han prøvde å spenne bein på Djurgården-trener Kim Bergstrand.",
+        "published": {
+            "date": "lørdag 27. mai",
+            "datetime": "2023-05-27 08:37:45",
+            "niceformat": "27.05.2023, 08:37",
+            "timestamp": "2023-05-27T06:37:45.000Z"
+        },
+        "thumbnail": {
+            "height": 288,
+            "url": "https://akamai.vgc.no/v2/images/abe92a35-48b6-4e1a-b148-12aead5181fa?fit=crop&format=auto&h=288&w=400&s=b62c5abeef0bc1fc5f84b91d1d0ad18cb00f5dd3",
+            "width": 400
+        },
+        "title": "Høgmo-assistent i hardt vær etter beinkrok: – Dumt og uprofesjonelt",
+        "url": "https://www.vg.no/sport/fotball/i/EQ5kvo/hoegmo-assistent-i-hardt-vaer-etter-beinkrok-dumt-og-uprofesjonelt"
+    }
+]

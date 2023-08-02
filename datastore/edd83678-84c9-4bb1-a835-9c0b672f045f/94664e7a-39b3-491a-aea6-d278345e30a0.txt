@@ -1,0 +1,198 @@
+[
+    {
+        "slug": "den-gamle-rbk-kjempen-innroemmer-en-veldig-tung-periode",
+        "url": "/sport/fotball/i/BWmlnv/den-gamle-rbk-kjempen-innroemmer-en-veldig-tung-periode",
+        "title": {
+            "value": "RBK-legenden: - Surrealistisk. Ingen tenkte det skulle gå så langt"
+        },
+        "description": "I høst gjør Erik Hoftun comeback i fotballen, for første gang siden RBK-sparkingen og rettssaken som fulgte. Men han kunne vært tilbake tidligere.",
+        "imageUrl": "c201bfd4-1650-4937-994c-3018adca1b7a",
+        "publishedAt": "2023-05-09T15:31:17Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "erik-hoftun",
+            "kaare-ingebrigtsen",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "polsk-klubb-forhoerte-seg-om-rbk-profil",
+        "url": "/sport/fotball/i/wAbx8L/polsk-klubb-forhoerte-seg-om-rbk-profil",
+        "title": {
+            "value": "Utenlandsk klubb forhørte seg om RBK-profil"
+        },
+        "description": "Lech Poznan har Carlo Holse (23) høyt på ønskelista. Men ingenting tyder på at polakkene får det som de vil.",
+        "imageUrl": "52f47908-a7c5-4ac9-acde-1e6e3c8e0c2f",
+        "publishedAt": "2023-05-09T12:52:37Z",
+        "lastModifiedAt": "2023-05-09T12:59:19Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken",
+            "Petter Rasmus",
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "siste-fra-breddefotballen",
+        "url": "/sport/fotball/i/GMjXaq/siste-fra-breddefotballen",
+        "title": {
+            "value": "RBK-talentene ble sendt til sykehus - tvinges til å ta pause"
+        },
+        "description": null,
+        "imageUrl": "0f85965f-2681-4dac-bf47-21374d0c01bf",
+        "publishedAt": "2023-03-24T14:51:36Z",
+        "lastModifiedAt": "2023-05-09T10:22:27Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "fotball",
+            "breddefotbaill",
+            "lokalfotballen",
+            "breddefotball"
+        ]
+    },
+    {
+        "slug": "her-gaar-de-loes-paa-hverandre-midt-i-trondheim-sentrum",
+        "url": "/nyheter/trondheim/i/pQbrP1/her-gaar-de-loes-paa-hverandre-midt-i-trondheim-sentrum",
+        "title": {
+            "value": "Plutselig begynte svartkledde menn å slåss midt i Trondheim"
+        },
+        "description": "Med barnefamilier og andre forbipasserende som vitner, barket fotballsupportere fra RBK og Vålerenga sammen på åpen gate lørdag. Nå har politiet gitt reaksjoner.",
+        "imageUrl": "9a715663-4b77-4b93-a4c8-8baf8247275c",
+        "publishedAt": "2023-05-09T11:57:10Z",
+        "lastModifiedAt": "2023-05-09T12:07:25Z",
+        "premium": true,
+        "authors": [
+            "Pål E. Solberg",
+            "Camilla Kilnes"
+        ],
+        "tags": [
+            "troendelag-politidistrikt",
+            "trondheim"
+        ]
+    },
+    {
+        "slug": "373-personer-faar-forkjoepsrett-paa-cupfinalebilletter",
+        "url": "/nyheter/innenriks/i/dwpqvw/373-personer-faar-forkjoepsrett-paa-cupfinalebilletter",
+        "title": {
+            "value": "373 personer får forkjøpsrett på cupfinalebilletter"
+        },
+        "description": "373 personer sikret seg muligheten til å kjøpe billett til cupfinalen til tross for at billettsystemet til Norges Fotballforbund brøt sammen mandag.",
+        "imageUrl": "e8c16c89-bdca-4eab-9e6f-b6cb444fe1a7",
+        "publishedAt": "2023-05-09T08:16:18Z",
+        "lastModifiedAt": "2023-05-09T08:16:18Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "eskil-22-bestemte-seg-for-aa-flytte-fra-trondheim-da-skjedde-det-noe-med-spillet-hans",
+        "url": "/sport/i/y6bgrr/eskil-22-bestemte-seg-for-aa-flytte-fra-trondheim-da-skjedde-det-noe-med-spillet-hans",
+        "title": {
+            "value": "Bestemte seg for å flytte fra Trondheim. Da skjedde det noe med spillet hans "
+        },
+        "description": "– Nå syns jeg det er kjempeartig. Jeg bare går ut på banen og koser meg, sier Eskil Dahl Reitan.",
+        "imageUrl": "087f3439-4ee9-4711-a8da-1f2b36885bfa",
+        "publishedAt": "2023-05-09T07:36:24Z",
+        "lastModifiedAt": "2023-05-09T15:41:40Z",
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "eskil-dahl-reitan",
+            "haandball",
+            "janus-smarason",
+            "torbjoern-bergerud",
+            "magnus-gullerud"
+        ]
+    },
+    {
+        "slug": "namdalseid-senket-av-borgan",
+        "url": "/lokalfotballen/i/mQp8Pl/namdalseid-senket-av-borgan",
+        "title": {
+            "value": "Namdalseid senket av Borgan"
+        },
+        "description": "Etter dagens 2-1-seier står Kvam med full pott så langt denne sesongen. I 6. divisjon, Trøndelag - Avdeling 1 i fotball for menn mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-08T21:50:10Z",
+        "lastModifiedAt": "2023-05-08T21:50:10Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "fjerde-strake-seier-for-tiller-2",
+        "url": "/lokalfotballen/i/APqpLn/fjerde-strake-seier-for-tiller-2",
+        "title": {
+            "value": "Fjerde seier på rad for Tiller 2"
+        },
+        "description": "Charlottenlund gikk på sitt tredje tap på rad da laget røk 0-3 for Tiller 2 i 3. divisjon, Trøndelag i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-08T21:10:57Z",
+        "lastModifiedAt": "2023-05-08T22:18:41Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ntnui-knuste-tangmoen",
+        "url": "/lokalfotballen/i/8JvEQw/ntnui-knuste-tangmoen",
+        "title": {
+            "value": "Knusende seier for NTNUI"
+        },
+        "description": "Med 5-0-seier over Tangmoen tok NTNUI sin femte strake seier i 4. divisjon, Trøndelag - Avdeling 1 i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-08T21:02:53Z",
+        "lastModifiedAt": "2023-05-08T21:21:27Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "forseth-ble-helten-for-gimse-melhus-gauldal",
+        "url": "/lokalfotballen/i/4o0mda/forseth-ble-helten-for-gimse-melhus-gauldal",
+        "title": {
+            "value": "Forseth sikret seieren for Gimse/Melhus/Gauldal"
+        },
+        "description": "Gimse/Melhus/Gauldal tok sine første poeng på tre kamper da Steinkjer ble slått 2-1 i 3. divisjon, Trøndelag i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-08T20:22:49Z",
+        "lastModifiedAt": "2023-05-08T20:52:20Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet",
+            "lokalfotballen-steinkjer-2"
+        ]
+    }
+]

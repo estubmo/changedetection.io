@@ -1,0 +1,191 @@
+[
+    {
+        "slug": "storkampen-derfor-var-landslagsspilleren-best",
+        "url": "/sport/i/15dMlq/storkampen-derfor-var-landslagsspilleren-best",
+        "title": {
+            "value": "Storkampen: Derfor var landslagsspilleren best "
+        },
+        "description": "Rosenborg mislyktes med å score, men nektet samtidig seriens mest målfarlige lag nettkjenning på Koteng Arena. Mathilde Harviken var best da storkampen endte med uavgjort.",
+        "imageUrl": "8bb59b73-1ffd-41e0-a37b-52aa9ceefe5a",
+        "publishedAt": "2023-05-07T14:55:26Z",
+        "lastModifiedAt": "2023-05-07T15:02:08Z",
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "rosenborg-kvinner"
+        ]
+    },
+    {
+        "slug": "maktet-ikke-aa-vinne-toppkampen",
+        "url": "/sport/fotball/i/y6b5rA/maktet-ikke-aa-vinne-toppkampen",
+        "title": {
+            "value": "Maktet ikke å vinne toppkampen"
+        },
+        "description": "Rosenborg er fremdeles tre poeng bak Vålerenga. Gjestene var også nærmest å vinne.",
+        "imageUrl": "bec998ae-a78c-41a8-aec5-8b53a5eaf1cf",
+        "publishedAt": "2023-05-07T14:52:42Z",
+        "lastModifiedAt": "2023-05-07T15:14:08Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-kvinner"
+        ]
+    },
+    {
+        "slug": "hitra-seier-over-orkla-2",
+        "url": "/lokalfotballen/i/8JvGpE/hitra-seier-over-orkla-2",
+        "title": {
+            "value": "Hitra-seier over Orkla 2"
+        },
+        "description": "Med dagens 0-2-tap har Orkla 2 ikke tatt et eneste poeng på de første fire kampene i år. I 4. divisjon, Trøndelag - Avdeling 2 i fotball søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-07T14:33:42Z",
+        "lastModifiedAt": "2023-05-07T14:47:59Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "aafjord-slo-bangsund-i-maalfest",
+        "url": "/lokalfotballen/i/76Q73K/aafjord-slo-bangsund-i-maalfest",
+        "title": {
+            "value": "Åfjord vant i målfest"
+        },
+        "description": "Åfjord slo Bangsund 6-4 og tok dermed tre poeng i 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-07T14:18:14Z",
+        "lastModifiedAt": "2023-05-07T14:47:59Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "knusende-seier-for-orkanger",
+        "url": "/lokalfotballen/i/3Ez1EA/knusende-seier-for-orkanger",
+        "title": {
+            "value": "Knusende seier for Orkanger"
+        },
+        "description": "KIL/Hemne 2 gikk på sitt tredje tap på rad da laget tapte 0-8 for Orkanger i 5. divisjon, Trøndelag - Avdeling 2 i fotball søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-07T14:12:59Z",
+        "lastModifiedAt": "2023-05-07T14:18:13Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "storseier-for-kil-hemne-2",
+        "url": "/lokalfotballen/i/WR3gRa/storseier-for-kil-hemne-2",
+        "title": {
+            "value": "Storseier for KIL/Hemne 2"
+        },
+        "description": "KIL/Hemne 2 banket Trond 7-1 i 4. divisjon, Trøndelag - Avdeling 2 søndag. Trond har gått poengløse av banen i fire strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-07T14:07:57Z",
+        "lastModifiedAt": "2023-05-07T14:19:23Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "nettsus-for-sagvold",
+        "url": "/lokalfotballen/i/GMqrMQ/nettsus-for-sagvold",
+        "title": {
+            "value": "Dobbel fra Sagvold for Vuku"
+        },
+        "description": "Petter Sagvold førte an med to mål i 6-1-seieren over Levanger 2 i 4. divisjon, Trøndelag - Avdeling 1 i fotball søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-07T14:05:56Z",
+        "lastModifiedAt": "2023-05-07T14:17:12Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "ranheim-2-vant-i-maalfest",
+        "url": "/lokalfotballen/i/4o0Ooq/ranheim-2-vant-i-maalfest",
+        "title": {
+            "value": "Scoringslykke for Olsen"
+        },
+        "description": "Fridtjof Killi Olsen viste scoringsform da Ranheim 2 vant 4-2 over Trygg/Lade i 4. divisjon, Trøndelag - Avdeling 1 søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-07T14:05:56Z",
+        "lastModifiedAt": "2023-05-07T14:17:12Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "storseier-for-selbu",
+        "url": "/lokalfotballen/i/q1byWz/storseier-for-selbu",
+        "title": {
+            "value": "Selbu vant i målfest"
+        },
+        "description": "Selbu knuste Fosen 6-0 i 4. divisjon, Trøndelag - Avdeling 2 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-07T14:02:55Z",
+        "lastModifiedAt": "2023-05-07T14:19:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "maal-lykke-for-tunc",
+        "url": "/lokalfotballen/i/l3bKEe/maal-lykke-for-tunc",
+        "title": {
+            "value": "Tunc med målshow"
+        },
+        "description": "Kolstad 7er kunne juble for årets første seier etter dagens 8-1-seier mot Frøya IL 7er. Aleyna Tunc gjorde hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-07T13:22:59Z",
+        "lastModifiedAt": "2023-05-07T13:48:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    }
+]

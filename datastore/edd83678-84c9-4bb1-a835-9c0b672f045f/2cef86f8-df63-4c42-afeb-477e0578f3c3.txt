@@ -1,0 +1,199 @@
+[
+    {
+        "slug": "kvam-7er-tok-sin-tredje-seier-paa-rad",
+        "url": "/lokalfotballen/i/on8o57/kvam-7er-tok-sin-tredje-seier-paa-rad",
+        "title": {
+            "value": "Flatanger 7er tapte på hjemmebane"
+        },
+        "description": "Flatanger 7er måtte seg seg slått 2-3 da Dina Beate Werstad førte an med to av målene for Kvam 7er i 7er, Trøndelag - Avdeling 1 i fotball for kvinner mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T15:40:01Z",
+        "lastModifiedAt": "2023-05-01T15:49:13Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "fra-foerstellever-til-ute-av-troppen-paa-en-uke-brutalt-innroemmer-rekdal",
+        "url": "/sport/fotball/i/9zGJrE/fra-foerstellever-til-ute-av-troppen-paa-en-uke-brutalt-innroemmer-rekdal",
+        "title": {
+            "value": "Fra førsteellever til ute av troppen på én uke: – Brutalt"
+        },
+        "description": "Kristall Mani Ingason gikk fra å starte mot Sandefjord til å være ute av troppen mot Odd. - Vi leter littegrann, sier Kjetil Rekdal om laguttakene.",
+        "imageUrl": "9814bded-6ba0-4eff-8a60-c73bd89deb4d",
+        "publishedAt": "2023-05-01T15:06:11Z",
+        "lastModifiedAt": "2023-05-01T15:13:57Z",
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen",
+            "Johannes Strand"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "stroemsgodset-2-maatte-dele-poengene",
+        "url": "/lokalfotballen/i/y6Koo2/stroemsgodset-2-maatte-dele-poengene",
+        "title": {
+            "value": "Uavgjort mellom Stjørdals-Blink og Strømsgodset 2"
+        },
+        "description": "Mats Lillebo og Dilawar Ahmadzay scoret da Stjørdals-Blink og Strømsgodset 2 måtte nøye seg med ett poeng hver på MUS stadion Sandskogan i 2. divisjon, Avdeling 2 i fotball for menn mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T15:01:38Z",
+        "lastModifiedAt": "2023-05-01T15:18:46Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "storseier-for-beitstad",
+        "url": "/lokalfotballen/i/kEyoV9/storseier-for-beitstad",
+        "title": {
+            "value": "Tungt nederlag for Inderøy"
+        },
+        "description": "Aron Morken Furre scoret to av målene og hjalp Beitstad til 4-0-seier over Inderøy i 6. divisjon, Trøndelag - Avdeling 1 i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T14:12:45Z",
+        "lastModifiedAt": "2023-05-01T14:18:56Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "nettsus-for-kvakland",
+        "url": "/lokalfotballen/i/Mop0rM/nettsus-for-kvakland",
+        "title": {
+            "value": "Melhus tapte på bortebane"
+        },
+        "description": "Sindre Sætherbø Kvakland viste scoringsform da Hitra seiret 3-1 over Melhus i 4. divisjon, Trøndelag - Avdeling 2 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T14:05:44Z",
+        "lastModifiedAt": "2023-05-01T14:49:18Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "tydelig-beskjed-det-var-for-daarlig-av-meg",
+        "url": "/sport/fotball/i/kEyoK6/tydelig-beskjed-det-var-for-daarlig-av-meg",
+        "title": {
+            "value": "Tydelig beskjed: – Det var for dårlig av meg "
+        },
+        "description": "Innleggene må bli bedre, mener Edvard Tagseth. Men sammen med backkompis Leo Cornic er han klar på at det er mye bra RBK-spill å spore.",
+        "imageUrl": "03916bb0-1122-43ea-890e-a4647f28bebc",
+        "publishedAt": "2023-05-01T13:52:29Z",
+        "lastModifiedAt": "2023-05-01T13:55:18Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand",
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "kvik-2-tapte-borte",
+        "url": "/lokalfotballen/i/eJypBg/kvik-2-tapte-borte",
+        "title": {
+            "value": "Rennebu-seier over Kvik 2"
+        },
+        "description": "Rennebu vant 2-1 over Kvik 2 i 5. divisjon, Trøndelag - Avdeling 3 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T13:18:04Z",
+        "lastModifiedAt": "2023-05-01T13:20:04Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-opp"
+        ]
+    },
+    {
+        "slug": "gladmelding-for-rbk-fansen-ekstremt-deilig-aa-faa-det-paa-plass",
+        "url": "/sport/fotball/i/764aQB/gladmelding-for-rbk-fansen-ekstremt-deilig-aa-faa-det-paa-plass",
+        "title": {
+            "value": "Gladmelding for RBK-fansen: – Ekstremt deilig å få det på plass "
+        },
+        "description": "Rugile Rulyte blir i RBK med en ny toårskontrakt i banken.",
+        "imageUrl": "d8dd2375-7c7a-4aa2-8382-0baa292f9e9a",
+        "publishedAt": "2023-05-01T12:47:23Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "operert-i-natt-en-katastrofe-oekonomisk",
+        "url": "/nyheter/trondheim/i/jlp5O9/operert-i-natt-en-katastrofe-oekonomisk",
+        "title": {
+            "value": "- Det blir ikke mer utur enn dette"
+        },
+        "description": "Gunnar Nedrelid ligger på sykehus etter hesteulykken på Ranheim søndag.",
+        "imageUrl": "56b6a3ce-c6e6-4dde-97a4-02c3939f1e01",
+        "publishedAt": "2023-05-01T11:58:12Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Truls August Råen"
+        ],
+        "tags": [
+            "hest",
+            "ranheim",
+            "hester",
+            "st-olavs"
+        ]
+    },
+    {
+        "slug": "kapteinens-klare-melding-for-daarlig-kvalitet",
+        "url": "/sport/fotball/i/0QX6r6/kapteinens-klare-melding-for-daarlig-kvalitet",
+        "title": {
+            "value": "RBK-kapteinens dom: – Det er der vi sliter mest"
+        },
+        "description": "Tre mål og én seier på fire kamper. Markus Henriksen er ikke i tvil om hvor skoen trykker for trønderne.",
+        "imageUrl": "b88578dd-c19c-4ca7-b75d-c93726047c88",
+        "publishedAt": "2023-05-01T06:01:36Z",
+        "lastModifiedAt": "2023-05-01T06:01:36Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand",
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "markus-henriksen"
+        ]
+    }
+]

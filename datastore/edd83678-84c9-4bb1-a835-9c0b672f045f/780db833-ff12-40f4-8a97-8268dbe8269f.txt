@@ -1,0 +1,204 @@
+[
+    {
+        "slug": "kilikevych-med-maalshow",
+        "url": "/lokalfotballen/i/q1EKoe/kilikevych-med-maalshow",
+        "title": {
+            "value": "Kilikevych med målshow"
+        },
+        "description": "Volodymyr Kilikevych scoret fire mål da Rennebu vant 5-1 over Strindheim 3 i 5. divisjon, Trøndelag - Avdeling 3 i fotball for menn fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-16T20:15:05Z",
+        "lastModifiedAt": "2023-06-16T21:01:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-opp"
+        ]
+    },
+    {
+        "slug": "malvik-hommelvik-slo-utleira-i-maalfest",
+        "url": "/lokalfotballen/i/0QOw6A/malvik-hommelvik-slo-utleira-i-maalfest",
+        "title": {
+            "value": "Malvik / Hommelvik vant i målfest"
+        },
+        "description": "Malvik/Hommelvik knuste Utleira 6-1 i 5. divisjon, Trøndelag - Avdeling 2 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-16T20:06:58Z",
+        "lastModifiedAt": "2023-06-16T20:31:15Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "orkla-2-slo-ranheim-paa-bortebane",
+        "url": "/lokalfotballen/i/BWn7Lw/orkla-2-slo-ranheim-paa-bortebane",
+        "title": {
+            "value": "Orkla 2 vant over Ranheim"
+        },
+        "description": "Orkla 2 seiret 2-0 over Ranheim på bortebane i J15 2. divisjon, Avdeling 4 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-16T20:02:51Z",
+        "lastModifiedAt": "2023-06-16T20:34:26Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "ranheim-tf-2-sikret-seriegull",
+        "url": "/lokalfotballen/i/veyEKl/ranheim-tf-2-sikret-seriegull",
+        "title": {
+            "value": "Ranheim TF 2 tok seriemesterskapet"
+        },
+        "description": "Oppdal ble slått 7-1 av Ranheim TF 2 og tapte dermed sin første kamp denne sesongen i G19 2. divisjon, Avdeling 4 - Vår fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-16T19:10:59Z",
+        "lastModifiedAt": "2023-06-16T21:03:04Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-opp"
+        ]
+    },
+    {
+        "slug": "gunnarsen-i-scoringshumoer",
+        "url": "/lokalfotballen/i/jlMVbA/gunnarsen-i-scoringshumoer",
+        "title": {
+            "value": "Gunnarsen ble tomålshelt"
+        },
+        "description": "Marcus Gunnarsen scoret to mål og hjalp Mosjøen til 3-2-seier over Rosenborg 2 i 3. divisjon, Avdeling 5 fredag. Rosenborg 2 har tapt to kamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-16T18:08:04Z",
+        "lastModifiedAt": "2023-06-16T18:30:53Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ny-seier-for-froeya-il",
+        "url": "/lokalfotballen/i/KnkEqy/ny-seier-for-froeya-il",
+        "title": {
+            "value": "Tredje seier på rad for Frøya IL"
+        },
+        "description": "Frøya IL slo Skaun 2 4-1 på Moan gras - Børsa i G16 3. divisjon, Avdeling 2 - Vår fredag. Frøya IL har vunnet fire av sine fem siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-16T18:02:59Z",
+        "lastModifiedAt": "2023-06-16T18:34:21Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-tronderbladet",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    },
+    {
+        "slug": "avsloerte-noeyaktig-hvor-rbks-problem-ligger",
+        "url": "/sport/i/XbnGMo/avsloerte-noeyaktig-hvor-rbks-problem-ligger",
+        "title": {
+            "value": "Avslørte nøyaktig hvor RBKs problem ligger"
+        },
+        "description": "KOMMENTAR: Nok en gang skal Rosenborg snu opp ned på det klubben har jobbet med over tid.",
+        "imageUrl": "25c8e169-4622-4fea-8173-b069399170c3",
+        "publishedAt": "2023-06-16T17:46:46Z",
+        "lastModifiedAt": "2023-06-16T18:36:24Z",
+        "premium": true,
+        "authors": [
+            "Birger Løfaldli"
+        ],
+        "tags": [
+            "erik-hamren",
+            "kaare-ingebrigtsen",
+            "kjetil-rekdal",
+            "svein-maalen",
+            "birger-loefaldli",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "roert-maalen-droemmer-om-aa-bli-fast-rbk-trener",
+        "url": "/sport/fotball/i/y6ye42/roert-maalen-droemmer-om-aa-bli-fast-rbk-trener",
+        "title": {
+            "value": "Røper i fersk podcast: Slik blir Maalens RBK"
+        },
+        "description": "RBK-trener Svein Maalen gjester Rasmus&Saga.",
+        "imageUrl": "2b1f0d09-a505-40f2-9443-076a157eab29",
+        "publishedAt": "2023-06-16T16:46:23Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Ole K. Sagbakken",
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rasmus-saga"
+        ]
+    },
+    {
+        "slug": "fikk-telefon-fra-rekdal-og-frigaard-de-staar-hoeyt-i-kurs-i-gruppen",
+        "url": "/sport/fotball/i/XbnxyW/fikk-telefon-fra-rekdal-og-frigaard-de-staar-hoeyt-i-kurs-i-gruppen",
+        "title": {
+            "value": "Fikk telefon fra trenerne: - De var triste og lei seg"
+        },
+        "description": "RBK-kaptein Markus Henriksen fikk nyheten om Kjetil Rekdals exit på Mallorca-ferie.",
+        "imageUrl": "67164502-bd22-427d-9d31-8cd51770d3b2",
+        "publishedAt": "2023-06-16T14:45:54Z",
+        "lastModifiedAt": "2023-06-16T15:22:39Z",
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "fotball",
+            "geir-frigaard",
+            "markus-henriksen",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "direkte-fra-lerkendal-rbk-svarer-om-rekdals-exit",
+        "url": "/sport/fotball/i/5BkAwz/direkte-fra-lerkendal-rbk-svarer-om-rekdals-exit",
+        "title": {
+            "value": "RBKs nye trener varsler store endringer"
+        },
+        "description": "Svein Maalen overtar etter Kjetil Rekdal. Det kommer til å merkes.",
+        "imageUrl": "76eac123-f51d-4b75-8ae6-c6b2bbd0b3fc",
+        "publishedAt": "2023-06-16T13:04:07Z",
+        "lastModifiedAt": "2023-06-16T14:03:57Z",
+        "premium": true,
+        "authors": [
+            "Christian Stendal",
+            "Johannes Strand"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "rosenborg-bk",
+            "cecilie-gotaas-johnsen"
+        ]
+    }
+]

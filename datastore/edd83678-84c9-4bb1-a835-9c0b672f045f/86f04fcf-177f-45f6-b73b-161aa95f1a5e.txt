@@ -1,0 +1,199 @@
+[
+    {
+        "slug": "faeroe-avgjorde-for-sverresborg",
+        "url": "/lokalfotballen/i/vezvK4/faeroe-avgjorde-for-sverresborg",
+        "title": {
+            "value": "Færø avgjorde for Sverresborg"
+        },
+        "description": "Tuva Bjørkedal Færø ble matchvinner med sin 3-2-scoring da Sverresborg slo Vestbyen 2 i 4. divisjon, Trøndelag - Avdeling 3 i fotball onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-03T20:28:54Z",
+        "lastModifiedAt": "2023-05-03T20:28:54Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "hjemmeseier-for-gauldal-over-ranheim-3",
+        "url": "/lokalfotballen/i/eJy2oa/hjemmeseier-for-gauldal-over-ranheim-3",
+        "title": {
+            "value": "Gauldal seiret hjemme mot Ranheim 3"
+        },
+        "description": "Gauldal slo Ranheim 3 2-1 og fikk dermed med seg tre poeng i G16 3. divisjon, Avdeling 3 - Vår onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-03T20:22:32Z",
+        "lastModifiedAt": "2023-05-03T20:27:47Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "dobbel-lykke-da-kattem-vant",
+        "url": "/lokalfotballen/i/rlG0yw/dobbel-lykke-da-kattem-vant",
+        "title": {
+            "value": "Dobbel lykke i Kattem-seier"
+        },
+        "description": "Kattem slo Charlottenlund 3-0 og tok sin første trepoenger i årets sesong. I G19 Elite, Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-03T20:05:17Z",
+        "lastModifiedAt": "2023-05-03T20:17:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "stoeren-knuste-sokna",
+        "url": "/lokalfotballen/i/698peO/stoeren-knuste-sokna",
+        "title": {
+            "value": "Støren slo Sokna i målfest"
+        },
+        "description": "Magnus Tilseth scoret to av målene da Støren vant 6-1 over Sokna i 6. divisjon, Trøndelag - Avdeling 6 i fotball onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-03T19:57:53Z",
+        "lastModifiedAt": "2023-05-03T20:22:29Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-gauldalsposten",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "vi-trenger-ny-skole-og-det-maa-vedtas-naa",
+        "url": "/nyheter/trondheim/i/MopQJM/vi-trenger-ny-skole-og-det-maa-vedtas-naa",
+        "title": {
+            "value": "Foreldre advarer: - Det skal klemmes inn enda flere"
+        },
+        "description": "– Så får vi leve med paviljonger til ungdomsskolen med 600 plasser står klar på smelteverkstomta, sier foreldrene.",
+        "imageUrl": "0fbe911f-8529-4e0f-8d98-3375919aa959",
+        "publishedAt": "2023-05-03T19:11:57Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Norunn Bergesen"
+        ],
+        "tags": [
+            "skole",
+            "skole-og-utdanning",
+            "trondheim",
+            "rosenborg",
+            "svein-johny-forren",
+            "rektor-2",
+            "utdanningsforbundet",
+            "budsjett",
+            "trondheim-kommune",
+            "undervisning",
+            "boligbygging"
+        ]
+    },
+    {
+        "slug": "rbk-spissen-innroemmer-filming-faar-klar-beskjed-fra-rekdal",
+        "url": "/sport/fotball/i/KneQPE/rbk-spissen-innroemmer-filming-faar-klar-beskjed-fra-rekdal",
+        "title": {
+            "value": "RBK-spissen innrømmer filming - får klar beskjed"
+        },
+        "description": "Kristall Mani Ingason hevder han ikke bryr seg om reaksjonene etter forsøket på å filme til seg straffe - og vil fortsette med forsøkene",
+        "imageUrl": "8d52284e-c088-464c-919c-507597c8100f",
+        "publishedAt": "2023-05-03T19:00:13Z",
+        "lastModifiedAt": "2023-05-03T19:08:58Z",
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "eliteserien"
+        ]
+    },
+    {
+        "slug": "ranheim-2-seiret-borte-mot-oerland",
+        "url": "/lokalfotballen/i/wA0Mxd/ranheim-2-seiret-borte-mot-oerland",
+        "title": {
+            "value": "Ranheim 2-seier over Ørland"
+        },
+        "description": "Ranheim 2 vant 5-0 over Ørland i G16 1. divisjon, Avdeling 1 - Vår onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-03T18:58:54Z",
+        "lastModifiedAt": "2023-05-03T20:22:30Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "rekdal-etter-ydmykelsen-det-er-et-betimelig-spoersmaal",
+        "url": "/sport/fotball/i/jlp809/rekdal-etter-ydmykelsen-det-er-et-betimelig-spoersmaal",
+        "title": {
+            "value": "Rekdal etter ydmykelsen: – Et betimelig spørsmål "
+        },
+        "description": "Når ideene dine fram til spillerne, Kjetil Rekdal? Det spørsmålet klarte ikke RBK-treneren å gi et klart svar på etter tapet mot Brann.",
+        "imageUrl": "dbfd222d-60df-4c8a-99ff-d5b114f0173b",
+        "publishedAt": "2023-05-03T18:54:20Z",
+        "lastModifiedAt": "2023-05-03T18:54:51Z",
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "sander-stenvik-dyrvik-reddet-poeng-for-orkla-2-9er",
+        "url": "/lokalfotballen/i/EQLdl3/sander-stenvik-dyrvik-reddet-poeng-for-orkla-2-9er",
+        "title": {
+            "value": "Orkla 2 9er reddet uavgjort"
+        },
+        "description": "KIL/Hemne 9er var på vei mot seier, men måtte nøye seg med 2-2 mot Orkla 2 9er i G14 9er, Avdeling 3 - Vår onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-03T18:30:14Z",
+        "lastModifiedAt": "2023-05-03T19:21:50Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "borteseier-for-orkla-over-valsoeyfjord-halsa-9er",
+        "url": "/lokalfotballen/i/Q73ng4/borteseier-for-orkla-over-valsoeyfjord-halsa-9er",
+        "title": {
+            "value": "To fulltreffere fra Kornelia Vikvald Asklund"
+        },
+        "description": "Med dagens 2-5-tap mot Orkla gikk Valsøyfjord/Halsa 9er på årets første nederlag. I J15 2. divisjon, Avdeling 3 - Vår onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-03T18:28:11Z",
+        "lastModifiedAt": "2023-05-03T20:23:33Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    }
+]

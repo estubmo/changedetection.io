@@ -1,0 +1,192 @@
+[
+    {
+        "slug": "troender-lyn-ubeseiret-paa-fire-kamper",
+        "url": "/lokalfotballen/i/GM817V/troender-lyn-ubeseiret-paa-fire-kamper",
+        "title": {
+            "value": "Fire strake uten tap for Trønder-Lyn"
+        },
+        "description": "Det endte 1-1 mellom Trønder-Lyn og Orkla på Sørøya kunstgress i 3. divisjon, Avdeling 5 i fotball. Det medførte at Orkla brøt tapsrekken på fire kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T15:10:53Z",
+        "lastModifiedAt": "2023-06-03T15:24:12Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "leinstrand-byneset-knuste-tynset-2",
+        "url": "/lokalfotballen/i/XbnwQx/leinstrand-byneset-knuste-tynset-2",
+        "title": {
+            "value": "Sæterbø-dobbel sikret seier"
+        },
+        "description": "Sunniva Sæterbø ledet an med to mål i 7-2-seieren over Tynset 2 i 4. divisjon, Trøndelag - Avdeling 3 i fotball lørdag. Det var Leinstrand/Bynesets første seier i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T14:12:31Z",
+        "lastModifiedAt": "2023-06-03T14:25:49Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "fjerdingoey-dobbel-for-neset",
+        "url": "/lokalfotballen/i/y6yvrK/fjerdingoey-dobbel-for-neset",
+        "title": {
+            "value": "To fulltreffere fra Fjerdingøy"
+        },
+        "description": "Henrik Aassved Fjerdingøy førte an med to av målene i 4-1-seieren over Vikvarvet i 6. divisjon, Trøndelag - Avdeling 2 i fotball for menn lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T13:43:35Z",
+        "lastModifiedAt": "2023-06-03T13:55:01Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ranheim-viste-muskler",
+        "url": "/lokalfotballen/i/abk2dd/ranheim-viste-muskler",
+        "title": {
+            "value": "Ranheim viste muskler"
+        },
+        "description": "Matilde Bentzen Hammer ledet an med tre av målene i 5-1-seieren over Remyra/Fram i J14 1. divisjon, Avdeling 1 - Vår lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T13:26:05Z",
+        "lastModifiedAt": "2023-06-03T13:56:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "kasper-dybvad-ble-helten-for-laanke",
+        "url": "/lokalfotballen/i/BWnJ4e/kasper-dybvad-ble-helten-for-laanke",
+        "title": {
+            "value": "Kasper Dybvad ble helten for Lånke"
+        },
+        "description": "Kasper Dybvad ble matchvinner med sin 1-0-scoring for Lånke mot Ranheim 2 på Extra Arena i G16 1. divisjon, Avdeling 1 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T13:19:42Z",
+        "lastModifiedAt": "2023-06-03T13:56:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "rbk-vil-savne-henne-herjet-i-innhoppet-paa-lerkendal",
+        "url": "/sport/i/onPR37/rbk-vil-savne-henne-herjet-i-innhoppet-paa-lerkendal",
+        "title": {
+            "value": "Viste hvorfor hun vil bli savnet"
+        },
+        "description": "Synne Skinnes Hansen var med på å sette fart i Rosenborg-laget etter pause. 27-åringen scorer «alltid» på Lerkendal.",
+        "imageUrl": "78b04ab9-ab09-44f0-86bd-4fbe59d51870",
+        "publishedAt": "2023-06-03T13:00:53Z",
+        "lastModifiedAt": "2023-06-03T13:12:18Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "rosenborg-kvinner"
+        ]
+    },
+    {
+        "slug": "to-magiske-minutter-soerget-for-rbk-jubel",
+        "url": "/sport/fotball/i/l3L1Ke/to-magiske-minutter-soerget-for-rbk-jubel",
+        "title": {
+            "value": "To magiske minutter sørget for RBK-jubel"
+        },
+        "description": "Selv om tilskuertallet var mer enn halvvert fra fjorårets festkamp, ble det trønderfest på Lerkendal.",
+        "imageUrl": "efb81a72-4c5e-40f3-b6e9-5d2d63cd3c89",
+        "publishedAt": "2023-06-03T12:52:45Z",
+        "lastModifiedAt": "2023-06-03T14:24:23Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand",
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "toppserien"
+        ]
+    },
+    {
+        "slug": "rbk-stenger-treninga-skjoenner-noen-reagerer",
+        "url": "/sport/fotball/i/Knkvb5/rbk-stenger-treninga-skjoenner-noen-reagerer",
+        "title": {
+            "value": "RBK stenger treninga: – Skjønner noen reagerer"
+        },
+        "description": "Kjetil Rekdal sier det er flere årsaker til valget. Han erkjenner at de trenger en pust i bakken før den «ekstremt viktige kampen».",
+        "imageUrl": "55a1d377-71ae-4ae7-b261-975bac43ec10",
+        "publishedAt": "2023-06-03T12:31:31Z",
+        "lastModifiedAt": "2023-06-03T15:35:47Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "kjetil-rekdal"
+        ]
+    },
+    {
+        "slug": "ranheim-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/kE1aQB/ranheim-fortsatte-seiersrekken",
+        "title": {
+            "value": "Ranheim fortsatte seiersrekken"
+        },
+        "description": "Ranheim tok sin tredje strake seier da Strindheim 2 ble slått 5-1 i G14 1. divisjon, Avdeling 2 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T11:36:45Z",
+        "lastModifiedAt": "2023-06-03T11:52:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "scoringslykke-for-edvard-leidland-stokke",
+        "url": "/lokalfotballen/i/4oGdmR/scoringslykke-for-edvard-leidland-stokke",
+        "title": {
+            "value": "Tomålslykke i Trygg / Lade-seier"
+        },
+        "description": "Edvard Leidland Stokke scoret to av målene da Trygg/Lade vant 5-1 over Vestbyen 2/Nationalkameratene 2 i G14 2. divisjon, Avdeling 3 - Vår lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T11:33:41Z",
+        "lastModifiedAt": "2023-06-03T11:52:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

@@ -1,0 +1,213 @@
+[
+    {
+        "slug": "tomaalslykke-da-ranheim-vant",
+        "url": "/lokalfotballen/i/wAbvzn/tomaalslykke-da-ranheim-vant",
+        "title": {
+            "value": "Dobbel lykke da Ranheim vant"
+        },
+        "description": "Adrian Leistad scoret to ganger og hjalp Ranheim til 3-0-seier over Orkla i G16 Elite, Vår. Det var Ranheims femte strake seier.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-08T18:27:46Z",
+        "lastModifiedAt": "2023-05-08T18:48:23Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "byaasen-2-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/BWqyE0/byaasen-2-fortsatte-seiersrekken",
+        "title": {
+            "value": "Ny seier for Byåsen 2"
+        },
+        "description": "Byåsen 2 fikk med seg alle poengene da Freidig ble slått 3-1 i G13 1. divisjon, Avdeling 2 - Vår mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-08T17:48:47Z",
+        "lastModifiedAt": "2023-05-08T18:22:52Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "trondheim-er-ikke-for-alle",
+        "url": "/meninger/i/JQqE6X/trondheim-er-ikke-for-alle",
+        "title": {
+            "value": "Hun visste kun om fire steder i Trondheim hvor hun og barnet kunne dra"
+        },
+        "description": null,
+        "imageUrl": "ad19e036-9f6f-4619-9fe4-672e3778151b",
+        "publishedAt": "2023-05-08T17:04:49Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Ronja Mylius"
+        ],
+        "tags": [
+            "debatt",
+            "funksjonshemmede",
+            "funksjonsnedsettelse",
+            "fritid",
+            "fritidsaktiviteter",
+            "trondheim",
+            "rullestol",
+            "trondheim-kommune",
+            "midtnorsk-debatt",
+            "shopping"
+        ]
+    },
+    {
+        "slug": "dette-bildet-er-snart-50-aar-gammelt-og-illustrerer-et-stort-rbk-problem",
+        "url": "/sport/fotball/i/APq7Xn/dette-bildet-er-snart-50-aar-gammelt-og-illustrerer-et-stort-rbk-problem",
+        "title": {
+            "value": "Dette bildet er snart 50 år gammelt og illustrerer et stort RBK-problem"
+        },
+        "description": "RBKs sesongstart stiller seg i et historisk dårlig lys. Starten på 2019 er den eneste verre - på 56 sesonger i toppfotballen.",
+        "imageUrl": "81b460a7-4c85-406a-9230-48af3004c22f",
+        "publishedAt": "2023-05-08T15:53:35Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken",
+            "Steffen Stenersen",
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "john-carew",
+            "nils-arne-eggen",
+            "eirik-horneland",
+            "odd-iversen"
+        ]
+    },
+    {
+        "slug": "rbk-sjefen-kaster-et-veldig-daarlig-lys-over-klubben",
+        "url": "/sport/fotball/i/0Qk9aG/rbk-sjefen-kaster-et-veldig-daarlig-lys-over-klubben",
+        "title": {
+            "value": "RBK-sjefen: – Kaster et veldig dårlig lys over klubben"
+        },
+        "description": "Tore Bjørseth Berdal er tydelig: - Maskerte menn som går rundt og slåss i Midtbyen har ingenting med fotball å gjøre.",
+        "imageUrl": "2e778537-6e58-432b-a925-8f46dedfb332",
+        "publishedAt": "2023-05-08T14:15:47Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "supporter",
+            "troendelag-politidistrikt"
+        ]
+    },
+    {
+        "slug": "rbk-trukket-poeng",
+        "url": "/sport/fotball/i/dwpvBJ/rbk-trukket-poeng",
+        "title": {
+            "value": "Trekker RBK i poeng:  - Veldig kjedelig"
+        },
+        "description": "I 2020 tapte Rosenborg-kvinnene seriegullet på målforskjell. Nå trekkes de ett poeng på grunn av økonomien.",
+        "imageUrl": "e92ee85c-a11b-4747-ae26-08c1a8cf1a6c",
+        "publishedAt": "2023-05-08T11:31:06Z",
+        "lastModifiedAt": "2023-05-08T12:37:22Z",
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal",
+            "Ole K. Sagbakken",
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "norsk-fotball",
+            "rosenborg-kvinner",
+            "toppserien",
+            "fotball"
+        ]
+    },
+    {
+        "slug": "kritikken-fra-northug-ble-en-snakkis-paa-skolen-saa-slo-jentene-tilbake",
+        "url": "/sport/langrenn/i/Xbeyjn/kritikken-fra-northug-ble-en-snakkis-paa-skolen-saa-slo-jentene-tilbake",
+        "title": {
+            "value": "Kritikken fra Northug ble en snakkis på skolen. Så slo jentene tilbake"
+        },
+        "description": null,
+        "imageUrl": "f867116d-d997-40d7-90c7-4f656d306c48",
+        "publishedAt": "2023-05-08T08:08:34Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Johannes Strand",
+            "Leif Arne Holme (Foto)"
+        ],
+        "tags": [
+            "langrenn",
+            "jenny-farbu",
+            "johanne-bjugan",
+            "steinkjer-videregaaende-skole",
+            "frode-lillefjell",
+            "troendersk-langrenn",
+            "adressasnapchat-2"
+        ]
+    },
+    {
+        "slug": "rosenborg-vant-toppkampen",
+        "url": "/lokalfotballen/i/4o0Eaa/rosenborg-vant-toppkampen",
+        "title": {
+            "value": "Rosenborg slo Molde i toppoppgjøret"
+        },
+        "description": "Rosenborg vant 4-2 over Molde på hjemmebane i Nasjonal G15, Gruppe C søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-08T07:47:54Z",
+        "lastModifiedAt": "2023-05-08T08:18:03Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "rbk-profilen-om-oeyeblikket-foeler-jeg-gjoer-alt-rett",
+        "url": "/sport/fotball/i/5Bw8W6/rbk-profilen-om-oeyeblikket-foeler-jeg-gjoer-alt-rett",
+        "title": {
+            "value": "RBK-profilen om øyeblikket: - Føler jeg gjør alt rett "
+        },
+        "description": "Synne Skinnes Hansen var nær ved å sende Rosenborg i ledelsen nesten direkte fra avspark. Nå skal hun studere situasjonen nøye.",
+        "imageUrl": "c23c532b-d6f6-4a05-9f80-a8f0f533d06f",
+        "publishedAt": "2023-05-08T05:28:20Z",
+        "lastModifiedAt": "2023-05-08T07:24:46Z",
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl",
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "synne-skinnes-hansen"
+        ]
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/onlMMm/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag, mandag 8. mai.",
+        "imageUrl": "85627e99-882b-4dc3-9ed1-8d3dd617cf81",
+        "publishedAt": "2023-05-08T04:00:45Z",
+        "lastModifiedAt": "2023-05-08T04:00:45Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    }
+]

@@ -1,0 +1,364 @@
+[
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgd0vB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgd0vB",
+        "preamble": "Manchester Uniteds lynving ble beskyldt for voldtekt. Nå tar han til orde for den vanskelige tiden.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 15:21:16",
+            "niceformat": "28.06.2023, 15:21",
+            "timestamp": "2023-06-28T13:21:16.000Z"
+        },
+        "thumbnail": {
+            "height": 283,
+            "url": "https://akamai.vgc.no/v2/images/cec070cb-a9ab-4ec9-ba13-19554a521836?fit=crop&format=auto&h=283&w=400&s=b71062c3a92aff68ee558fbb0f705765ae4b6d13",
+            "width": 400
+        },
+        "title": "Antony beskyldt for overgrep: – Har lidd i stillhet",
+        "url": "https://www.vg.no/sport/fotball/i/xgd0vB/antony-beskyldt-for-overgrep-har-lidd-i-stillhet"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gExeo0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gExeo0",
+        "preamble": "CLUJ, ROMANIA (VG) Serie A-spiller Emil Konradsen Ceïde (21) tror Norge vinner skjebnekampen mot Italia og går videre til kvartfinale mot Spania i U21-EM.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 15:15:19",
+            "niceformat": "28.06.2023, 15:15",
+            "timestamp": "2023-06-28T13:15:19.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/5016445b-e233-4942-8052-db222fe700bb?fit=crop&format=auto&h=267&w=400&s=2526f34d5a95182b5da078ecd820abaaf6dcece3",
+            "width": 400
+        },
+        "title": "Det norske laget føler seg avskrevet: – Vi har ekstremt stor tro",
+        "url": "https://www.vg.no/sport/fotball/i/gExeo0/det-norske-laget-foeler-seg-avskrevet-vi-har-ekstremt-stor-tro"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQX84j",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQX84j",
+        "preamble": "Sommervinduet er fullt i gang. Få oversikt over de bekreftede overgangene i Premier League, La Liga, Serie A, Bundesliga og Ligue 1, samt hos topplagene i Saudi-Arabia.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 15:04:38",
+            "niceformat": "28.06.2023, 15:04",
+            "timestamp": "2023-06-28T13:04:38.000Z"
+        },
+        "thumbnail": {
+            "height": 265,
+            "url": "https://akamai.vgc.no/v2/images/e12dba59-18ab-4ed5-a929-3c13e236fb54?fit=crop&format=auto&h=265&w=400&s=a1184c755a88124fe41ebb225dcd634e03e85231",
+            "width": 400
+        },
+        "title": "Silly Season 2023: De bekreftede overgangene i fotballverdenen",
+        "url": "https://www.vg.no/sport/fotball/i/JQX84j/fotball-silly-season-2023-bekreftede-overganger-i-premier-league-la-liga-serie-a-bundesliga-ligue-1"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O8XOPl",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O8XOPl",
+        "preamble": "En avgjørelse rundt Declan Rice sin neste klubb nærmer seg. Nå gir Manchester City opp kampen med Arsenal.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 14:32:31",
+            "niceformat": "28.06.2023, 14:32",
+            "timestamp": "2023-06-28T12:32:31.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/dd33e5d5-ed5e-4540-a07b-0a842fb15f8f?fit=crop&format=auto&h=267&w=400&s=5b68439efc107475b55cf215e9d4e8abfa7cccaf",
+            "width": 400
+        },
+        "title": "Medier: Manchester City trekker seg fra Rice-forhandlingene",
+        "url": "https://www.vg.no/sport/fotball/i/O8XOPl/medier-manchester-city-trekker-seg-fra-rice-forhandlingene"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76ovQ9",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76ovQ9",
+        "preamble": "Brattvåg kommer rett fra stortap i 2. divisjon. Men i kveld blir det cupfest mot regjerende norgesmester Brann. Sunnmøringene er ikke slått på forhånd.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 13:22:45",
+            "niceformat": "28.06.2023, 13:22",
+            "timestamp": "2023-06-28T11:22:45.000Z"
+        },
+        "thumbnail": {
+            "height": 227,
+            "url": "https://akamai.vgc.no/v2/images/7d1402fe-f3bf-4974-9a24-f9fb544082a5?fit=crop&format=auto&h=227&w=400&s=c42bbf5bce214bdfa256e464ed8aac871cf724d1",
+            "width": 400
+        },
+        "title": "Askeladdenes cupfest: – Brann har gått på en del bananskall",
+        "url": "https://www.vg.no/sport/fotball/i/76ovQ9/brattvaag-stjoerdals-blink-gjoevik-lyn-er-2-divisjonsklubber-som-kan-komme-til-kvartfinalen-i-cupen"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwaEvw",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwaEvw",
+        "preamble": "Senegalesiske Kalidou Koulibaly (32) ble forrige uke presentert som ny Al-Hilal-spiller. I et intervju med Corriere dello Sport begrunner han valget.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 13:16:36",
+            "niceformat": "28.06.2023, 13:16",
+            "timestamp": "2023-06-28T11:16:36.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/71ec2f26-afa3-4121-98bb-ef79738704dc?fit=crop&format=auto&h=267&w=400&s=fc5be97312a023ceeb260fdefa2bbe53315690cc",
+            "width": 400
+        },
+        "title": "Koulibaly dro til Saudi-Arabia for pengenes skyld: – Jeg kan ikke nekte for det",
+        "url": "https://www.vg.no/sport/fotball/i/dwaEvw/koulibaly-dro-til-saudi-arabia-for-pengenes-skyld-jeg-kan-ikke-nekte-for-det"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jlx25w",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jlx25w",
+        "preamble": "Erling Braut Haaland fikk ikke innvilget søknaden om retten til eget navn, «Erling Haaland». Nå har han klaget til Patentstyret.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 11:35:30",
+            "niceformat": "28.06.2023, 11:35",
+            "timestamp": "2023-06-28T09:35:30.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/e64668f7-3122-4193-a26f-104c4f377e44?fit=crop&format=auto&h=266&w=400&s=b56c73741d92c5986fac6be9ad5f9ab307a5642a",
+            "width": 400
+        },
+        "title": "Haaland krever å få varemerke slettet",
+        "url": "https://www.vg.no/sport/fotball/i/jlx25w/haaland-krever-aa-faa-varemerke-slettet"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gExleA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gExleA",
+        "preamble": "Den tyske storklubben forlenger ikke sponsoravtalen med Qatars ledende flyselskap.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 10:39:09",
+            "niceformat": "28.06.2023, 10:39",
+            "timestamp": "2023-06-28T08:39:09.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/c8dba759-f2ca-4623-b5bb-ea2101a850f7?fit=crop&format=auto&h=267&w=400&s=bfa58b53aff17f5a00433e5123bbc00c1172fa54",
+            "width": 400
+        },
+        "title": "Bayern München og Qatar Airways avslutter samarbeidet",
+        "url": "https://www.vg.no/sport/fotball/i/gExleA/bayern-munchen-og-qatar-airways-avslutter-samarbeidet"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            },
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gExem1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gExem1",
+        "preamble": "Laget har senket Rosenborg og skal bryne seg på Vålerenga, men cupbomber blir små opp mot de voldsomme naturkreftene hovedtrener Odd-Karl Stangnes (54) sto overfor for snaue fire år siden.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 09:31:30",
+            "niceformat": "28.06.2023, 09:31",
+            "timestamp": "2023-06-28T07:31:30.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/92593e24-40d9-471f-afc3-2ce640ddb8d2?fit=crop&format=auto&h=267&w=400&s=86fade61856f1d7ee6814113496343f23504dff1",
+            "width": 400
+        },
+        "title": "Blink-trenerens ville forsøk endte i dramatikk: – Fikk et annet syn",
+        "url": "https://www.vg.no/sport/fotball/i/gExem1/norgesmesterskapet-stjoerdals-blink-trener-odd-karl-stangvik-bodde-paa-et-skjaer-naa-skal-han-lede-laget-mot-vaalerenga-i-cupen"
+    },
+    {
+        "authors": [
+            {
+                "email": "svea@vg.no",
+                "id": "f852e5e5-5ba9-48c7-96da-9455a160031f",
+                "name": "Knut Espen Svegaarden"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAkj3A",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAkj3A",
+        "preamble": "Uansett hvordan det går i onsdagens kamp mot Italia: At Norge deltar i mesterskap for aldersbestemte landslag er uvurderlig - for A-landslaget.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 08:26:46",
+            "niceformat": "28.06.2023, 08:26",
+            "timestamp": "2023-06-28T06:26:46.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a82e08b5-0366-4184-b7f3-1ef9fe3e0c9e?fit=crop&format=auto&h=267&w=400&s=d820493732ae2a9000486fe083a0a950fb0560fc",
+            "width": 400
+        },
+        "title": "Deltakelsen er viktig - for A-landslaget",
+        "url": "https://www.vg.no/sport/fotball/i/wAkj3A/deltakelsen-er-viktig-for-a-landslaget"
+    }
+]

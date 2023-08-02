@@ -1,0 +1,198 @@
+[
+    {
+        "slug": "det-blir-som-spoersmaalet-om-rbk-trener",
+        "url": "/sport/i/jlMP2L/det-blir-som-spoersmaalet-om-rbk-trener",
+        "title": {
+            "value": "Det blir som spørsmålet om Rosenborg-trener"
+        },
+        "description": "KOMMENTAR: Det snakkes om at presidenten har mistet garderoben. Men finnes det et bedre alternativ?",
+        "imageUrl": "96e080af-9d92-4be6-aa5e-2acdbd0f239a",
+        "publishedAt": "2023-06-03T18:30:09Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Birger Løfaldli"
+        ],
+        "tags": [
+            "sven-mollekleiv",
+            "tom-tvedt",
+            "birger-loefaldli",
+            "zaineb-al-samarai",
+            "staale-vaag",
+            "berit-kjoell"
+        ]
+    },
+    {
+        "slug": "sebastian-juliussen-sikret-tre-poeng-for-rosenborg",
+        "url": "/lokalfotballen/i/5Bk006/sebastian-juliussen-sikret-tre-poeng-for-rosenborg",
+        "title": {
+            "value": "Sebastian Juliussen ble matchvinner for Rosenborg"
+        },
+        "description": "Sebastian Juliussen sto for den avgjørende scoringen for Rosenborg i 4-3-seieren over Lillestrøm på SalMar-banen i Nasjonal G15, Gruppe C.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T17:34:12Z",
+        "lastModifiedAt": "2023-06-03T17:52:30Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "elias-molund-sikret-poeng-for-tromsoe",
+        "url": "/lokalfotballen/i/abkww2/elias-molund-sikret-poeng-for-tromsoe",
+        "title": {
+            "value": "Tromsø sikret uavgjort"
+        },
+        "description": "Tromsø lå under 0-1, men klarte 1-1 mot Rosenborg etter en sen utligning i Nasjonal G17 1. divisjon.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T17:33:12Z",
+        "lastModifiedAt": "2023-06-03T17:52:30Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-itromso",
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "maalloest-mellom-aafjord-og-varden-meraaker",
+        "url": "/lokalfotballen/i/GM8G1x/maalloest-mellom-aafjord-og-varden-meraaker",
+        "title": {
+            "value": "Målløst mellom Åfjord og Varden Meråker"
+        },
+        "description": "Verken Åfjord eller Varden Meråker fikk nettkjenning da lagene møttes i 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn lørdag. Det stanset tapsrekken til Åfjord, som var poengløse på de siste tre kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T17:23:00Z",
+        "lastModifiedAt": "2023-06-03T17:23:00Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "scoringslykke-for-bue",
+        "url": "/lokalfotballen/i/q1Enzo/scoringslykke-for-bue",
+        "title": {
+            "value": "Dobbel fra Bue for Tangmoen"
+        },
+        "description": "Erika Bue scoret to mål og hjalp Tangmoen til 3-1-seier over Overhalla i 4. divisjon, Trøndelag - Avdeling 1 i fotball for kvinner lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T16:51:36Z",
+        "lastModifiedAt": "2023-06-03T17:24:00Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "fosen-vant-over-strindheim-2",
+        "url": "/lokalfotballen/i/XbnwPW/fosen-vant-over-strindheim-2",
+        "title": {
+            "value": "Fosen slo Strindheim 2 på bortebane"
+        },
+        "description": "Fosen knuste Strindheim 2 3-0 i 4. divisjon, Trøndelag - Avdeling 2 i fotball for kvinner lørdag. Det var Fosens første trepoenger på hjemmebane i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T16:11:09Z",
+        "lastModifiedAt": "2023-06-03T16:24:21Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "maalshow-fra-olsen",
+        "url": "/lokalfotballen/i/zEeLab/maalshow-fra-olsen",
+        "title": {
+            "value": "Mål-lykke for Olsen"
+        },
+        "description": "Ranheim 2 knuste Namsos 5-2 i 4. divisjon, Trøndelag - Avdeling 1 lørdag. Fridtjof Killi Olsen scoret tre ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T16:00:04Z",
+        "lastModifiedAt": "2023-06-03T17:21:53Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "nardo-vant-over-kristiansund-2",
+        "url": "/lokalfotballen/i/q1EnjO/nardo-vant-over-kristiansund-2",
+        "title": {
+            "value": "Nardo slo Kristiansund 2 på hjemmebane"
+        },
+        "description": "Nardo banket Kristiansund 2 3-0 i 3. divisjon, Avdeling 5 i fotball for menn. Nardo har vunnet seks av sine sju siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T15:59:00Z",
+        "lastModifiedAt": "2023-06-03T17:52:29Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "historiske-ingrid-engen-vant-champions-league",
+        "url": "/sport/fotball/i/4oGdAE/historiske-ingrid-engen-vant-champions-league",
+        "title": {
+            "value": "Storesøsteren tok til tårene: - Enorm stolthet"
+        },
+        "description": "Barcelona og Ingrid Syrstad Engen vant Champions League. Da tok søsteren til tårene.",
+        "imageUrl": "903dd5e7-e004-4b96-be1f-e845ee4426ee",
+        "publishedAt": "2023-06-03T15:57:18Z",
+        "lastModifiedAt": "2023-06-03T16:35:07Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "womens-champions-league",
+            "ingrid-syrstad-engen",
+            "rosenborg-kvinner"
+        ]
+    },
+    {
+        "slug": "skaun-snudde-til-seier-over-sokna",
+        "url": "/lokalfotballen/i/BWnJO0/skaun-snudde-til-seier-over-sokna",
+        "title": {
+            "value": "Skaun snudde til seier over Sokna"
+        },
+        "description": "Skaun lå under 0-1, men snudde til 3-1-seier mot Sokna i 6. divisjon, Trøndelag - Avdeling 6 i fotball for menn. Skaun tok sin første seier i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T15:54:57Z",
+        "lastModifiedAt": "2023-06-03T15:54:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-tronderbladet",
+            "lokalfotballen-gauldalsposten"
+        ]
+    }
+]

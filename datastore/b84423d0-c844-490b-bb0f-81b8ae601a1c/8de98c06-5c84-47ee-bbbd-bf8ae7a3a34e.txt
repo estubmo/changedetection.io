@@ -1,0 +1,380 @@
+[
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJXp2l",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJXp2l",
+        "preamble": "(Leicester-Liverpool 0–3) Scoringer av Curtis Jones (22) og Trent Alexander-Arnold (24) sendte Leicester nærmere nedrykk foran øynene på fortvilte hjemmesupportere.",
+        "published": {
+            "date": "mandag 15. mai",
+            "datetime": "2023-05-15 22:52:50",
+            "niceformat": "15.05.2023, 22:52",
+            "timestamp": "2023-05-15T20:52:50.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/2V1j-xXpmLFo.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Liverpool holdt liv i Champions League-håpet med Leicester-nedsabling",
+        "url": "https://www.vg.no/sport/fotball/i/eJXp2l/liverpool-holdt-liv-i-champions-league-haapet-med-leicester-nedsabling"
+    },
+    {
+        "authors": [
+            {
+                "email": "svea@vg.no",
+                "id": "f852e5e5-5ba9-48c7-96da-9455a160031f",
+                "name": "Knut Espen Svegaarden"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEBmg1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEBmg1",
+        "preamble": "ULLEVAAL STADION (VG) Ståle Solbakken (55) har forlenget avtalen sin med Norges Fotballforbund til VM i 2026. Men det vil selvsagt ikke si det samme som at han automatisk er norsk landslagssjef i tre år til.",
+        "published": {
+            "date": "mandag 15. mai",
+            "datetime": "2023-05-15 18:05:43",
+            "niceformat": "15.05.2023, 18:05",
+            "timestamp": "2023-05-15T16:05:43.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/8c43451f-78d9-4138-b2f1-ffd1a5cedfd7?fit=crop&format=auto&h=267&w=400&s=a9b79476a03a620d6b2c74e003e95ea029eb5bcd",
+            "width": 400
+        },
+        "title": "Solbakken er ikke fredet",
+        "url": "https://www.vg.no/sport/fotball/i/gEBmg1/solbakken-er-ikke-fredet"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAboKP",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAboKP",
+        "preamble": "Champions League-jaktende Manchester United må klare seg uten Marcel Sabitzer de siste kampene av årets sesong. Midtbanespilleren har pådratt seg en kneskade.",
+        "published": {
+            "date": "mandag 15. mai",
+            "datetime": "2023-05-15 17:54:20",
+            "niceformat": "15.05.2023, 17:54",
+            "timestamp": "2023-05-15T15:54:20.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/05ca349f-d755-4f1a-aaba-1c1e09ed47f4?fit=crop&format=auto&h=267&w=400&s=05b85525a99ce3757822ab677f64424dc2011400",
+            "width": 400
+        },
+        "title": "Sabitzer mister resten av sesongen med kneskade",
+        "url": "https://www.vg.no/sport/fotball/i/wAboKP/sabitzer-mister-resten-av-sesongen-med-kneskade"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.magnussen@vg.no",
+                "id": "c2719103-4ea1-4707-a00b-f29f023b60e1",
+                "name": "Jostein Magnussen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgb7Jp",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgb7Jp",
+        "preamble": "Påskeoppgjøret mot Sverige i april ble likevel ikke generalprøven før VM. Nå skal det spilles en «hemmelig kamp» noen dager før sommerens mesterskap.",
+        "published": {
+            "date": "mandag 15. mai",
+            "datetime": "2023-05-15 15:36:59",
+            "niceformat": "15.05.2023, 15:36",
+            "timestamp": "2023-05-15T13:36:59.000Z"
+        },
+        "thumbnail": {
+            "height": 290,
+            "url": "https://akamai.vgc.no/v2/images/4dc1c199-1315-4c55-af22-5f4ee0854efc?fit=crop&format=auto&h=290&w=400&s=09549f1d6b1e7456b6d2644d1639ac24476546d7",
+            "width": 400
+        },
+        "title": "Hege Riise og landslaget får «hemmelig» VM-test",
+        "url": "https://www.vg.no/sport/fotball/i/xgb7Jp/hege-riise-og-landslaget-faar-hemmelig-vm-test"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9zMJKE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9zMJKE",
+        "preamble": "ULLEVAAL STADION (VG) Ståle Solbakken fortsetter som landslagssjef for Norge frem mot 2026 og er åpen om hvilken lønn han får for jobben. ",
+        "published": {
+            "date": "mandag 15. mai",
+            "datetime": "2023-05-15 12:19:20",
+            "niceformat": "15.05.2023, 12:19",
+            "timestamp": "2023-05-15T10:19:20.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/c8c2ad16-5846-440e-9591-4936c4519380?fit=crop&format=auto&h=267&w=400&s=6bc08e9dfc21bf04cc6ed17c272557dc32d8ed0d",
+            "width": 400
+        },
+        "title": "Solbakken åpen om egen lønn – har mesterskapsbonus på fem mill.",
+        "url": "https://www.vg.no/sport/fotball/i/9zMJKE/solbakken-aapen-om-egen-loenn-faar-mesterskapsbonus-paa-fem-mill"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3bkgG",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3bkgG",
+        "preamble": "Terje Liverød utarbeidet en rapport som slaktet norsk toppfotball, men ville ikke gi den gratis til Norges Fotballforbund eller Norsk Toppfotball. Nå har NFF endelig fått den.   ",
+        "published": {
+            "date": "mandag 15. mai",
+            "datetime": "2023-05-15 07:13:01",
+            "niceformat": "15.05.2023, 07:13",
+            "timestamp": "2023-05-15T05:13:01.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/faf39a31-1689-4e5d-91b8-6e89b91d9f9b?fit=crop&format=auto&h=267&w=400&s=3def5967443ec966c757e7c1a11a88f4eb11d500",
+            "width": 400
+        },
+        "title": "NFF har fått Liverød-rapporten: – Ingen hensikt å gi den til Norsk Toppfotball",
+        "url": "https://www.vg.no/sport/fotball/i/l3bkgG/nff-har-faatt-liveroed-rapporten-ingen-hensikt-aa-gi-den-til-norsk-toppfotball"
+    },
+    {
+        "authors": [
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69KREo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69KREo",
+        "preamble": "BODØ (VG) Troppen er full av enten meritterte, profilerte eller dyre spillere. Nå kommer også flere tilbake fra skade. Glimts midtstopperbauta Isak Helstad Amundsen (23) begynner å kjenne det på kroppen.",
+        "published": {
+            "date": "mandag 15. mai",
+            "datetime": "2023-05-15 04:27:04",
+            "niceformat": "15.05.2023, 04:27",
+            "timestamp": "2023-05-15T02:27:04.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/30b6d9bb-425c-440b-9aa5-69da3bd97bc2?fit=crop&format=auto&h=267&w=400&s=d06a03603209706e08d849598ea0a3c8207a1b4a",
+            "width": 400
+        },
+        "title": "Glimt-profilen om spilletid: – Ikke alltid like enig i valgene som tas",
+        "url": "https://www.vg.no/sport/fotball/i/69KREo/glimt-profilen-om-spilletid-ikke-alltid-like-enig-i-valgene-som-tas"
+    },
+    {
+        "authors": [
+            {
+                "email": "skandsen@vg.no",
+                "id": "f435294c-56cc-4c38-a714-d1f3f4e7a881",
+                "name": "Sondre Skandsen"
+            },
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "MoqGpo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/MoqGpo",
+        "preamble": "(Espanyol - Barcelona 2–4) For første gang siden 2019 kan Barcelona kalle seg spansk seriemester, etter å ha slått erkerival Espanyol i egen by. Etter kampen måtte de rømme banen etter å ha feiret foran erkerivalens fans.",
+        "published": {
+            "date": "søndag 14. mai",
+            "datetime": "2023-05-14 22:50:03",
+            "niceformat": "14.05.2023, 22:50",
+            "timestamp": "2023-05-14T20:50:03.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/1459d996-d12a-4b54-8127-cabcd51d2e95?fit=crop&format=auto&h=266&w=400&s=cb0e0972784054e95603562ba940c32626bfac13",
+            "width": 400
+        },
+        "title": "Barcelona vant ligaen på stadion til lillebror - måtte rømme banen etter storming",
+        "url": "https://www.vg.no/sport/fotball/i/MoqGpo/barcelona-banket-rivalen-vant-ligaen-for-foerste-gang-siden-2019"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3Ez05A",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3Ez05A",
+        "preamble": "(Feyenoord - Go Ahead Eagles 3 −0) Marcus Holmgren Pedersen og Feyenoord ble seriemestere i Nederland.",
+        "published": {
+            "date": "søndag 14. mai",
+            "datetime": "2023-05-14 20:36:24",
+            "niceformat": "14.05.2023, 20:36",
+            "timestamp": "2023-05-14T18:36:24.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/6iJuDtjlIfFw.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Ville jubelscener da Holmgren Pedersen ble seriemester",
+        "url": "https://www.vg.no/sport/fotball/i/3Ez05A/ville-jubelscener-da-holmgren-pedersen-ble-seriemester"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            },
+            {
+                "email": "skandsen@vg.no",
+                "id": "f435294c-56cc-4c38-a714-d1f3f4e7a881",
+                "name": "Sondre Skandsen"
+            },
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgbkdX",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgbkdX",
+        "preamble": "LIVERPOOL (VG) (Everton – Manchester City 0–3) Erling Braut Haaland (22) og Manchester City er to kamper unna seriegull. Pep Guardiola refser Everton-stopper Yerry Mina etter duellene med Haaland.",
+        "published": {
+            "date": "søndag 14. mai",
+            "datetime": "2023-05-14 16:52:19",
+            "niceformat": "14.05.2023, 16:52",
+            "timestamp": "2023-05-14T14:52:19.000Z"
+        },
+        "thumbnail": {
+            "height": 335,
+            "url": "https://akamai.vgc.no/v2/images/6c310459-c71e-4a3f-b0b4-869040bcaa30?fit=crop&format=auto&h=335&w=400&s=fbc86820e0ea8d9f7f56fc641f5e2003d2ecd46d",
+            "width": 400
+        },
+        "title": "Haaland-scoring i nøkkelkamp – Guardiola refser Everton-stopper",
+        "url": "https://www.vg.no/sport/fotball/i/xgbkdX/erling-braut-haaland-scoret-i-noekkelkamp-manchester-city-naer-seriegull"
+    }
+]

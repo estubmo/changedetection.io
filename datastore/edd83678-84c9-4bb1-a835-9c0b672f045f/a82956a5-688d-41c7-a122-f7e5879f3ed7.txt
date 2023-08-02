@@ -1,0 +1,206 @@
+[
+    {
+        "slug": "ida-ljoekelsoey-scoret-hattrick-for-orkla",
+        "url": "/lokalfotballen/i/4oX9aE/ida-ljoekelsoey-scoret-hattrick-for-orkla",
+        "title": {
+            "value": "Ida Ljøkelsøy scoret hattrick for Orkla"
+        },
+        "description": "Ida Ljøkelsøy ledet an med tre av målene i 6-2-seieren over Byåsen i J17 1. divisjon, Avdeling 2 - Vår. Orkla tok sin første seier denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-02T20:04:33Z",
+        "lastModifiedAt": "2023-05-02T20:04:33Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "lucas-rode-schanche-ble-helten-for-oerland",
+        "url": "/lokalfotballen/i/aby69A/lucas-rode-schanche-ble-helten-for-oerland",
+        "title": {
+            "value": "Lucas Rode Schanche ble helten for Ørland"
+        },
+        "description": "Lucas Rode Schanche ble matchvinner med sin 1-0-scoring for Ørland mot Nidelv på Tempe hovedbane i G16 1. divisjon, Avdeling 1 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-02T19:54:48Z",
+        "lastModifiedAt": "2023-05-02T19:54:48Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "hun-var-centimetere-unna-aa-avgjoere-for-rbk",
+        "url": "/sport/i/dwb3xo/hun-var-centimetere-unna-aa-avgjoere-for-rbk",
+        "title": {
+            "value": "Hun var centimetere unna å avgjøre for RBK"
+        },
+        "description": "Elin Sørum var knallgod da RBK var som best mot Avaldsnes. Det holdt likevel ikke til tre poeng.",
+        "imageUrl": "3ec5bad5-54af-4993-a41a-4d259615ad65",
+        "publishedAt": "2023-05-02T19:31:00Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "toppserien"
+        ]
+    },
+    {
+        "slug": "aafjord-seier-over-ranheim-2",
+        "url": "/lokalfotballen/i/4oX9l9/aafjord-seier-over-ranheim-2",
+        "title": {
+            "value": "Åfjord seiret borte mot Ranheim 2"
+        },
+        "description": "Åfjord vant 2-1 over Ranheim 2 i G13 2. divisjon, Avdeling 4 - Vår tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-02T18:43:13Z",
+        "lastModifiedAt": "2023-05-02T18:52:31Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "freidig-2-ordnet-poeng",
+        "url": "/lokalfotballen/i/mQykel/freidig-2-ordnet-poeng",
+        "title": {
+            "value": "Freidig 2 ordnet uavgjort"
+        },
+        "description": "Freidig 2 og Ranheim 2 måtte nøye seg med uavgjort Det brøt seiersrekken til Ranheim 2, som ikke hadde gitt fra seg poeng på tre kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-02T17:58:08Z",
+        "lastModifiedAt": "2023-05-02T18:24:34Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "nyter-opptur-i-brann-jeg-fikk-min-sjanse-i-rbk-og-grep-den-ikke",
+        "url": "/sport/fotball/i/7642y3/nyter-opptur-i-brann-jeg-fikk-min-sjanse-i-rbk-og-grep-den-ikke",
+        "title": {
+            "value": "- Jeg mistet kraften"
+        },
+        "description": "Eirik Horneland (48) mener det ikke finnes noen vanskeligere klubb å trene i Norge enn Rosenborg.",
+        "imageUrl": "8da5e2e9-0f8a-48c7-80c6-2308e23d615e",
+        "publishedAt": "2023-05-02T17:39:02Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "kaare-ingebrigtsen",
+            "erik-hoftun",
+            "nicklas-bendtner",
+            "kjetil-rekdal",
+            "eirik-horneland",
+            "karl-oskar-emberland",
+            "kjetil-knutsen"
+        ]
+    },
+    {
+        "slug": "forbes-ronaldo-forbi-messi-topper-med-1-47-milliarder-i-aarsinntekt",
+        "url": "/nyheter/innenriks/i/JQRzl4/forbes-ronaldo-forbi-messi-topper-med-1-47-milliarder-i-aarsinntekt",
+        "title": {
+            "value": "Forbes: Ronaldo forbi Messi – topper med 1,47 milliarder i årsinntekt"
+        },
+        "description": "Cristiano Ronaldo er øverst på Forbes' nyeste liste over verdens best betalte idrettsutøvere. Overgangen til Saudi-Arabia tok ham foran rivalen Lionel Messi.",
+        "imageUrl": "56c11112-f810-4feb-b2cc-2c6239e30640",
+        "publishedAt": "2023-05-02T17:07:53Z",
+        "lastModifiedAt": "2023-05-02T17:08:51Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "foelg-rbk-borte-mot-riises-avaldsnes",
+        "url": "/sport/fotball/i/3EX2QM/foelg-rbk-borte-mot-riises-avaldsnes",
+        "title": {
+            "value": "Følg jakten på seier mot John Arne Riises lag her"
+        },
+        "description": "Rosenborg var tilbake på vinnersporet sist. Tirsdag venter bortekamp mot Avaldsnes.",
+        "imageUrl": "3e95b98b-002e-44c1-b6e3-a53b0383c7eb",
+        "publishedAt": "2023-05-02T16:30:00Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "fotball",
+            "toppserien",
+            "norsk-fotball",
+            "rosenborg-bk",
+            "rosenborg-kvinner"
+        ]
+    },
+    {
+        "slug": "gaar-mot-flere-endringer-han-er-trolig-tilbake-paa-laget",
+        "url": "/sport/fotball/i/kEe1pA/gaar-mot-flere-endringer-han-er-trolig-tilbake-paa-laget",
+        "title": {
+            "value": "Går mot flere endringer til prestisjeoppgjøret"
+        },
+        "description": "Adrian Pereira ser ut til å være inne på laget, mens Sverre Nypan er tilbake i troppen mot Brann.",
+        "imageUrl": "e15f49d7-eb3f-4b9d-9bb8-88c8c4a20449",
+        "publishedAt": "2023-05-02T12:47:18Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen",
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "norsk-fotball",
+            "kjetil-rekdal",
+            "eliteserien",
+            "adrian-pereira"
+        ]
+    },
+    {
+        "slug": "holse-ute-i-fire-uker",
+        "url": "/sport/fotball/i/P4eVWR/holse-ute-i-fire-uker",
+        "title": {
+            "value": "Holse måtte opereres: - Strek i regningen"
+        },
+        "description": "Rosenborg må klare seg uten dansken den neste tiden.",
+        "imageUrl": "e76e2c70-d38b-431c-9168-4997aa48ff4b",
+        "publishedAt": "2023-05-02T10:05:11Z",
+        "lastModifiedAt": "2023-05-02T11:18:48Z",
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal",
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "fotball",
+            "rosenborg-bk",
+            "norsk-fotball",
+            "kjetil-rekdal",
+            "carlo-holse"
+        ]
+    }
+]

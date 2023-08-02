@@ -1,0 +1,362 @@
+[
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEjP81",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEjP81",
+        "preamble": "Erling Braut Haaland har kjøpt milliardær-leilighet i Oslo.",
+        "published": {
+            "date": "fredag 19. mai",
+            "datetime": "2023-05-19 15:34:11",
+            "niceformat": "19.05.2023, 15:34",
+            "timestamp": "2023-05-19T13:34:11.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/d6d62fac-259d-459c-b870-2532d9c51664?fit=crop&format=auto&h=267&w=400&s=32222f41c4eceed6734618ef8bbe375284ce3d51",
+            "width": 400
+        },
+        "title": "Finansavisen: Haaland kjøpte milliardærleilighet",
+        "url": "https://www.vg.no/sport/fotball/i/gEjP81/finansavisen-haaland-kjoepte-millardleilighet"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "bgWKBg",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/bgWKBg",
+        "preamble": "MANCHESTER (VG) I Manchester Citys overlegne seier mot Real Madrid onsdag, fanget kameraene opp Kevin De Bruyne som kjeftet på Pep Guardiola mens ballen var i spill.",
+        "published": {
+            "date": "fredag 19. mai",
+            "datetime": "2023-05-19 14:57:43",
+            "niceformat": "19.05.2023, 14:57",
+            "timestamp": "2023-05-19T12:57:43.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/63594c95-b9bf-4ed1-968c-23d1072faffb?fit=crop&format=auto&h=267&w=400&s=a7da5744fa3e4c4bba9d7a24e52f5f0de2cc882e",
+            "width": 400
+        },
+        "title": "Manchester City-stjernen ba Pep Guardiola holde kjeft: – Jeg elsker det",
+        "url": "https://www.vg.no/sport/fotball/i/bgWKBg/ba-guardiola-holde-kjeft-jeg-elsker-det"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "RG8xB5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/RG8xB5",
+        "preamble": "Liverpool-manager Jürgen Klopp leder ikke laget mot Aston Villa lørdag på grunn av oppførselen etter seieren mot Tottenham. Tyskeren håper boten han betaler går til en god sak.",
+        "published": {
+            "date": "fredag 19. mai",
+            "datetime": "2023-05-19 14:32:36",
+            "niceformat": "19.05.2023, 14:32",
+            "timestamp": "2023-05-19T12:32:36.000Z"
+        },
+        "thumbnail": {
+            "height": 265,
+            "url": "https://akamai.vgc.no/v2/images/42a2b809-c1f6-4b87-a6cb-16ceb091b9a4?fit=crop&format=auto&h=265&w=400&s=35b2084c9ec349be2d69d50e220ccebc7b9e1631",
+            "width": 400
+        },
+        "title": "Klopp om suspensjonen: – Jeg forventet en straff",
+        "url": "https://www.vg.no/sport/fotball/i/RG8xB5/klopp-om-suspensjonen-jeg-forventet-en-straff"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAXE9G",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAXE9G",
+        "preamble": "Manchester United kan måtte klare seg uten Marcus Rashford også i lørdagens viktige bortekamp mot Bournemouth.",
+        "published": {
+            "date": "fredag 19. mai",
+            "datetime": "2023-05-19 13:25:38",
+            "niceformat": "19.05.2023, 13:25",
+            "timestamp": "2023-05-19T11:25:38.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/48f9290c-a0f1-4451-85e8-67a10a3c7f11?fit=crop&format=auto&h=267&w=400&s=5e8d8fb249936e4c801ef6097b221148638a2dd3",
+            "width": 400
+        },
+        "title": "Syk Rashford kan miste ny United-kamp",
+        "url": "https://www.vg.no/sport/fotball/i/wAXE9G/syk-rashford-kan-miste-ny-united-kamp"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JWw5r",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JWw5r",
+        "preamble": "Brentford-trener Thomas Frank har kommet med en støtteerklæring til Ivan Toney etter spissen ble utestengt i åtte måneder for brudd på gamblingreglene.",
+        "published": {
+            "date": "fredag 19. mai",
+            "datetime": "2023-05-19 12:52:28",
+            "niceformat": "19.05.2023, 12:52",
+            "timestamp": "2023-05-19T10:52:28.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/fa103404-974e-4e77-904e-60e943214709?fit=crop&format=auto&h=267&w=400&s=0f75acaf3c274495fcf2e472eff60025ae314a10",
+            "width": 400
+        },
+        "title": "Brentford-sjefen støtter utestengt stjerne: – Han er også et menneske",
+        "url": "https://www.vg.no/sport/fotball/i/8JWw5r/brentford-sjefen-med-stoette-til-utestengt-stjerne-han-er-ogsaa-et-menneske"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76Ll33",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76Ll33",
+        "preamble": "Kong Harald uteblir fra årets cupfinale mellom Brann og Lillestrøm lørdag.",
+        "published": {
+            "date": "fredag 19. mai",
+            "datetime": "2023-05-19 12:21:19",
+            "niceformat": "19.05.2023, 12:21",
+            "timestamp": "2023-05-19T10:21:19.000Z"
+        },
+        "thumbnail": {
+            "height": 278,
+            "url": "https://akamai.vgc.no/v2/images/7b3a44b1-ce56-4c46-9f4e-151405e82b69?fit=crop&format=auto&h=278&w=400&s=446c1d48556d2fd4f244063c367f11c7bdd12071",
+            "width": 400
+        },
+        "title": "Kongen kommer ikke på cupfinalen",
+        "url": "https://www.vg.no/sport/fotball/i/76Ll33/kongen-kommer-ikke-paa-cupfinalen"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76Ll63",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76Ll63",
+        "preamble": "Chelsea-stjernen Guro Reiten og Arsenal-profil Frida Maanum er blant de åtte spillerne som er nominert til prisen som årets spiller i den engelske superligaen.",
+        "published": {
+            "date": "fredag 19. mai",
+            "datetime": "2023-05-19 12:16:45",
+            "niceformat": "19.05.2023, 12:16",
+            "timestamp": "2023-05-19T10:16:45.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a554d5cc-a2a6-448e-84f7-50ae02b07153?fit=crop&format=auto&h=267&w=400&s=9114ce8051fd5f6ae9af056f1eebfa7564029224",
+            "width": 400
+        },
+        "title": "Reiten og Maanum kan bli årets spiller i den engelske superligaen",
+        "url": "https://www.vg.no/sport/fotball/i/76Ll63/reiten-og-maanum-kan-bli-aarets-spiller-i-den-engelske-superligaen"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O8Pnb1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O8Pnb1",
+        "preamble": "Arsenal-trener Mikel Arteta bekrefter at både Gabriel Martinelli og Oleksandr Zintsjenko vil være ute av spill resten av sesongen.",
+        "published": {
+            "date": "fredag 19. mai",
+            "datetime": "2023-05-19 11:37:58",
+            "niceformat": "19.05.2023, 11:37",
+            "timestamp": "2023-05-19T09:37:58.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/48ee2a6c-84ea-41ba-b354-f3be6fa0f6e2?fit=crop&format=auto&h=267&w=400&s=614cbb8b7ef8eea56fb8b6627b8a798c538bf2c3",
+            "width": 400
+        },
+        "title": "Arsenal-stjerner mister resten av sesongen: – Ganske stygg skade",
+        "url": "https://www.vg.no/sport/fotball/i/O8Pnb1/arsenal-stjerner-mister-resten-av-sesongen-ganske-stygg-skade"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76LnXB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76LnXB",
+        "preamble": "Aune Heggebø sliter med en leggskade og blir ikke spilleklar til Branns cupfinale mot Lillestrøm på Ullevaal stadion lørdag, melder BA.",
+        "published": {
+            "date": "fredag 19. mai",
+            "datetime": "2023-05-19 11:23:08",
+            "niceformat": "19.05.2023, 11:23",
+            "timestamp": "2023-05-19T09:23:08.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/dce7ca60-f437-4ce9-b455-6b082430130c?fit=crop&format=auto&h=267&w=400&s=97409cf946104ed42bf860a6d40d3aac420a8dc7",
+            "width": 400
+        },
+        "title": "Branns Heggebø mister cupfinalen med skade",
+        "url": "https://www.vg.no/sport/fotball/i/76LnXB/branns-heggeboe-mister-cupfinalen-med-skade"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwP5yX",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwP5yX",
+        "preamble": "12 år etter overgangen fra Blackburn er Phil Jones (31) ferdig i Manchester United.",
+        "published": {
+            "date": "fredag 19. mai",
+            "datetime": "2023-05-19 11:07:42",
+            "niceformat": "19.05.2023, 11:07",
+            "timestamp": "2023-05-19T09:07:42.000Z"
+        },
+        "thumbnail": {
+            "height": 259,
+            "url": "https://akamai.vgc.no/v2/images/46cf25b4-84c7-403b-937e-b8752cea1480?fit=crop&format=auto&h=259&w=400&s=9e42f4cf768a829e3944bb0be04bb226819f891a",
+            "width": 400
+        },
+        "title": "Phil Jones ferdig i Manchester United: – Det har vært veldig vanskelig",
+        "url": "https://www.vg.no/sport/fotball/i/dwP5yX/phil-jones-ferdig-i-manchester-united"
+    }
+]

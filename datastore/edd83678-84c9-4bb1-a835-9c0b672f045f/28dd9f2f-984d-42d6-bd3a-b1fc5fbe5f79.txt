@@ -1,0 +1,191 @@
+[
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/BWq4qg/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag, fredag 12. mai.",
+        "imageUrl": "0bae66e0-3c5c-4f9f-9d66-b4e206e994eb",
+        "publishedAt": "2023-05-12T04:01:29Z",
+        "lastModifiedAt": "2023-05-12T04:01:29Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "gjoevik-avgjorde-for-oeksendal",
+        "url": "/lokalfotballen/i/LlqQMR/gjoevik-avgjorde-for-oeksendal",
+        "title": {
+            "value": "Gjøvik avgjorde for Øksendal"
+        },
+        "description": "Øksendal kunne juble for sesongens første trepoenger etter dagens 1-0-seier mot Valsøyfjord. I 6. divisjon, Nordmøre og Romsdal - Avdeling 1 i fotball for menn torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T22:28:44Z",
+        "lastModifiedAt": "2023-05-11T22:28:44Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "poengdeling-mellom-egge-og-nessegutten",
+        "url": "/lokalfotballen/i/KnqKM7/poengdeling-mellom-egge-og-nessegutten",
+        "title": {
+            "value": "Poengdeling mellom Egge og Nessegutten"
+        },
+        "description": "Egge og Nessegutten måtte nøye seg med ett poeng hver på SMN Arena Egge i 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T22:27:43Z",
+        "lastModifiedAt": "2023-05-11T22:27:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "malakzadeh-scoret-hattrick-for-malvik-2-hommelvik-2",
+        "url": "/lokalfotballen/i/Q7qW7A/malakzadeh-scoret-hattrick-for-malvik-2-hommelvik-2",
+        "title": {
+            "value": "Malakzadeh scoret hattrick mot Vikvarvet"
+        },
+        "description": "Daniel Reza Malakzadeh scoret tre av målene og hjalp Malvik 2/Hommelvik 2 til 9-0-seier over Vikvarvet i 6. divisjon, Trøndelag - Avdeling 2 i fotball torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T22:07:12Z",
+        "lastModifiedAt": "2023-05-11T22:16:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "ranheim-3-vant-igjen",
+        "url": "/lokalfotballen/i/q1b81L/ranheim-3-vant-igjen",
+        "title": {
+            "value": "Ranheim 3 fortsatte seiersrekken"
+        },
+        "description": "Ranheim 3 banket Gauldal 3-0 i 5. divisjon, Trøndelag - Avdeling 3 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T22:04:22Z",
+        "lastModifiedAt": "2023-05-11T22:18:03Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "forseth-med-maalshow",
+        "url": "/lokalfotballen/i/69KM6O/forseth-med-maalshow",
+        "title": {
+            "value": "Forseth bøttet inn mål mot Varden Meråker"
+        },
+        "description": "Melhus 2/Gimse 2/Gauldal 2 banket Varden Meråker 13-0 i 4. divisjon, Trøndelag - Avdeling 3 i fotball. Gunilla Forseth scoret sju mål.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T22:02:06Z",
+        "lastModifiedAt": "2023-05-11T22:08:16Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "strindheim-2-slo-malvik-2-hommelvik-2-paa-hjemmebane",
+        "url": "/lokalfotballen/i/onlyLV/strindheim-2-slo-malvik-2-hommelvik-2-paa-hjemmebane",
+        "title": {
+            "value": "Strindheim 2 med hjemmeseier over Malvik 2/Hommelvik 2"
+        },
+        "description": "Strindheim 2 slo Malvik 2/Hommelvik 2 6-1 på Leangen Bolig Arena i J17 2. divisjon, Avdeling 1 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T21:03:54Z",
+        "lastModifiedAt": "2023-05-11T21:42:04Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "overhalla-senket-av-rosoe",
+        "url": "/lokalfotballen/i/zEbzRb/overhalla-senket-av-rosoe",
+        "title": {
+            "value": "Overhalla senket av Rosø"
+        },
+        "description": "Vuku snudde 0-1 til 2-1-seier over Overhalla i 4. divisjon, Trøndelag - Avdeling 1 i fotball torsdag. Overhalla har gått poengløse av banen i to strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T21:01:16Z",
+        "lastModifiedAt": "2023-05-11T21:39:25Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "maalshow-fra-bekk",
+        "url": "/lokalfotballen/i/5Bwemb/maalshow-fra-bekk",
+        "title": {
+            "value": "Hattrick-show fra NTNUI 3"
+        },
+        "description": "NTNUI 3 tok sine første poeng på tre kamper med 6-2 over Budal i 4. divisjon, Trøndelag - Avdeling 3 i fotball for kvinner torsdag. Mia Frekhaug Bekk slo til med hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T21:01:14Z",
+        "lastModifiedAt": "2023-05-11T22:20:18Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-gauldalsposten",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "aanensen-avgjorde-for-flataas",
+        "url": "/lokalfotballen/i/VPpXO6/aanensen-avgjorde-for-flataas",
+        "title": {
+            "value": "Aanensen senket Sverresborg"
+        },
+        "description": "Sverresborg ble slått 2-1 av Flatås og tapte dermed sin første kamp i årets sesong. I 4. divisjon, Trøndelag - Avdeling 3 i fotball torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T21:01:13Z",
+        "lastModifiedAt": "2023-05-11T21:39:25Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

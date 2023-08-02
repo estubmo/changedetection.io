@@ -1,0 +1,195 @@
+[
+    {
+        "slug": "siste-fra-breddefotballen",
+        "url": "/sport/fotball/i/GMjXaq/siste-fra-breddefotballen",
+        "title": {
+            "value": "Startet kampen som keeper. Så snudde han alt på egen hånd"
+        },
+        "description": null,
+        "imageUrl": "d0c393a5-10d8-407b-917a-4bc184274856",
+        "publishedAt": "2023-03-24T14:51:36Z",
+        "lastModifiedAt": "2023-05-09T10:22:27Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "fotball",
+            "breddefotbaill",
+            "lokalfotballen",
+            "breddefotball"
+        ]
+    },
+    {
+        "slug": "ukas-lag-superspissen-startet-kampen-som-keeper-saa-snudde-han-alt-paa-egen-haand",
+        "url": "/sport/fotball/i/l3LGak/ukas-lag-superspissen-startet-kampen-som-keeper-saa-snudde-han-alt-paa-egen-haand",
+        "title": {
+            "value": "Superspissen startet kampen som keeper. Snudde han alt på egen hånd"
+        },
+        "description": null,
+        "imageUrl": "b1f3fc20-b8e3-429e-ab22-6e7a628ed818",
+        "publishedAt": "2023-06-15T12:08:42Z",
+        "lastModifiedAt": "2023-06-15T12:08:59Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "breddefotbaill",
+            "lokalfotballen"
+        ]
+    },
+    {
+        "slug": "vi-er-paa-en-plass-vi-ikke-oensker-aa-vaere",
+        "url": "/sport/fotball/i/JQGmO7/vi-er-paa-en-plass-vi-ikke-oensker-aa-vaere",
+        "title": {
+            "value": "– Vi er på en plass vi ikke ønsker å være"
+        },
+        "description": "Rosenborg-styret står akkurat nå midt i en stor evaluering av klubben.",
+        "imageUrl": "5e426fae-edd7-4423-b584-b9f72b3ac873",
+        "publishedAt": "2023-06-15T11:28:53Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "cecilie-gotaas-johnsen",
+            "kjetil-rekdal"
+        ]
+    },
+    {
+        "slug": "samler-tusener-til-stor-idrettsfest-i-troendelag",
+        "url": "/sport/i/EQE8Ql/samler-tusener-til-stor-idrettsfest-i-troendelag",
+        "title": {
+            "value": "Samler tusener til folkefest i helga: - Det vil merkes"
+        },
+        "description": "NM-veka inntar Trondheim og fem andre trønderske kommuner fredag.",
+        "imageUrl": "a5c261cb-e0d4-459d-944f-c5703ad24cad",
+        "publishedAt": "2023-06-15T08:12:47Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "nm-veka",
+            "morten-eliassen"
+        ]
+    },
+    {
+        "slug": "melhus-2-snudde-til-seier-paa-tampen",
+        "url": "/lokalfotballen/i/jlMqrL/melhus-2-snudde-til-seier-paa-tampen",
+        "title": {
+            "value": "Melhus 2 snudde til seier på tampen over Nationalkameratene 2"
+        },
+        "description": "Nationalkameratene 2 gikk på sitt fjerde strake tap da klubben røk 1-2 for Melhus 2 i 6. divisjon, Trøndelag - Avdeling 4 i fotball for menn onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-14T20:35:14Z",
+        "lastModifiedAt": "2023-06-14T20:39:32Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "ranheim-3-avgjorde-seriespillet",
+        "url": "/lokalfotballen/i/kE15dL/ranheim-3-avgjorde-seriespillet",
+        "title": {
+            "value": "Ranheim 3 sikret førsteplassen"
+        },
+        "description": "Ranheim 3 hentet opp Rennebus 2-0-ledelse og vant 3-2 i G16 3. divisjon, Avdeling 3 - Vår onsdag. Ranheim 3 har tatt poeng i sine fem siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-14T20:20:24Z",
+        "lastModifiedAt": "2023-06-14T20:36:17Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-opp"
+        ]
+    },
+    {
+        "slug": "dobbel-lykke-i-vestbyen-nationalkameratene-sverresborg-seier",
+        "url": "/lokalfotballen/i/O80Vzk/dobbel-lykke-i-vestbyen-nationalkameratene-sverresborg-seier",
+        "title": {
+            "value": "Dobbel lykke da Vestbyen / Nationalkameratene / Sverresborg vant"
+        },
+        "description": "Marcus Elmgren viste scoringsform da Vestbyen/Nationalkameratene/Sverresborg vant 4-1 over Ranheim i G19 Elite, Vår onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-14T20:16:14Z",
+        "lastModifiedAt": "2023-06-14T20:36:15Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "troender-lyn-2-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/EQEVzA/troender-lyn-2-fortsatte-seiersrekken",
+        "title": {
+            "value": "Tredje seier på rad for Trønder-Lyn 2"
+        },
+        "description": "Trønder-Lyn 2 knuste Sokna 4-1 i 6. divisjon, Trøndelag - Avdeling 6 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-14T20:10:01Z",
+        "lastModifiedAt": "2023-06-14T21:03:16Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet",
+            "lokalfotballen-gauldalsposten"
+        ]
+    },
+    {
+        "slug": "vant-serien",
+        "url": "/lokalfotballen/i/nQnqQo/vant-serien",
+        "title": {
+            "value": "Oppdal ble seriemester"
+        },
+        "description": "Line Sletvold ledet an med to mål i 4-3-seieren over Ranheim i J15 2. divisjon, Avdeling 4 - Vår. Dermed har Oppdal vunnet tre kamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-14T18:55:19Z",
+        "lastModifiedAt": "2023-06-14T21:04:19Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-opp"
+        ]
+    },
+    {
+        "slug": "maal-lykke-for-vegar-paulsby",
+        "url": "/lokalfotballen/i/KnkVpG/maal-lykke-for-vegar-paulsby",
+        "title": {
+            "value": "Vegar Paulsby bøttet inn mål mot Ranheim 2"
+        },
+        "description": "Utleira 2 tok sine første poeng på fire kamper med 10-2 over Ranheim 2",
+        "imageUrl": null,
+        "publishedAt": "2023-06-14T18:38:57Z",
+        "lastModifiedAt": "2023-06-14T19:02:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

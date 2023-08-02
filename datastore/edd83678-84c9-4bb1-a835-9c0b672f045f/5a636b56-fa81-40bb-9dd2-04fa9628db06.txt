@@ -1,0 +1,200 @@
+[
+    {
+        "slug": "ranheim-3-slo-varden-meraaker-i-maalfest",
+        "url": "/lokalfotballen/i/Knq3bX/ranheim-3-slo-varden-meraaker-i-maalfest",
+        "title": {
+            "value": "Ranheim 3 slo Varden Meråker i målfest"
+        },
+        "description": "Ranheim 3 banket Varden Meråker 20-2 i 4. divisjon, Trøndelag - Avdeling 3 i fotball torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-04T20:21:34Z",
+        "lastModifiedAt": "2023-05-04T20:21:34Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "ishac-fayssal-mohamad-var-giftig-foran-maal-scoret-hattrick",
+        "url": "/lokalfotballen/i/GMqGO6/ishac-fayssal-mohamad-var-giftig-foran-maal-scoret-hattrick",
+        "title": {
+            "value": "Mål-lykke for Ishac Fayssal Mohamad"
+        },
+        "description": "Ishac Fayssal Mohamad scoret tre ganger da Charlottenlund 2 vant 5-3 over Trygg/Lade 2 i G19 2. divisjon, Avdeling 4 - Vår torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-04T20:09:27Z",
+        "lastModifiedAt": "2023-05-04T20:22:38Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "borteseier-for-malvik-2-over-tangmoen",
+        "url": "/lokalfotballen/i/4o0qLa/borteseier-for-malvik-2-over-tangmoen",
+        "title": {
+            "value": "Borteseier for Malvik 2 over Tangmoen"
+        },
+        "description": "Malvik 2 knuste Tangmoen 4-1 i 4. divisjon, Trøndelag - Avdeling 1 i fotball for kvinner torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-04T19:58:43Z",
+        "lastModifiedAt": "2023-05-04T20:21:35Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "rbk-sjefen-klubben-har-full-tillit-til-kjetil-geir-og-roar",
+        "url": "/sport/fotball/i/VPplKr/rbk-sjefen-klubben-har-full-tillit-til-kjetil-geir-og-roar",
+        "title": {
+            "value": "- Full tillit"
+        },
+        "description": "Tore Bjørseth Berdal innrømmer både dårlig nattesøvn og dårligere RBK-spill enn han hadde håpet.",
+        "imageUrl": "55d5c6b3-03e2-4d77-85b7-b6b741e840ca",
+        "publishedAt": "2023-05-04T18:57:40Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken",
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg",
+            "kjetil-rekdal",
+            "mikael-dorsin",
+            "tore-bjoerseth-berdal",
+            "geir-frigaard",
+            "casper-tengstedt",
+            "eirik-horneland"
+        ]
+    },
+    {
+        "slug": "tredje-strake-seier-for-ranheim",
+        "url": "/lokalfotballen/i/O8qn4V/tredje-strake-seier-for-ranheim",
+        "title": {
+            "value": "Brakseier for Ranheim"
+        },
+        "description": "Med dagens 14-0-kamp har Ranheims tatt sin tredje seier på rad. Det holder til full pott hittil i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-04T17:38:10Z",
+        "lastModifiedAt": "2023-05-04T17:47:47Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "kjaeresten-spiller-for-laget-rbk-spissen-hater",
+        "url": "/sport/fotball/i/nQbgPJ/kjaeresten-spiller-for-laget-rbk-spissen-hater",
+        "title": {
+            "value": "Kjæresten spiller for laget RBK-spissen «hater»"
+        },
+        "description": "Oscar Aga gjester Rasmus&Saga.",
+        "imageUrl": "efd03d1a-cf6f-4db4-bb70-82f544c036f4",
+        "publishedAt": "2023-05-04T16:39:59Z",
+        "lastModifiedAt": "2023-05-04T16:39:59Z",
+        "premium": false,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rasmus-saga"
+        ]
+    },
+    {
+        "slug": "siste-fra-breddefotballen",
+        "url": "/sport/fotball/i/GMjXaq/siste-fra-breddefotballen",
+        "title": {
+            "value": "Signerer for å spille én kamp"
+        },
+        "description": null,
+        "imageUrl": "f21ae75e-94dc-4036-932a-f98205cedd53",
+        "publishedAt": "2023-03-24T14:51:36Z",
+        "lastModifiedAt": "2023-04-23T20:17:37Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "fotball",
+            "breddefotbaill",
+            "lokalfotballen",
+            "breddefotball"
+        ]
+    },
+    {
+        "slug": "sitter-arbeidsledig-i-tyskland-rosenborg-maa-bare-ringe",
+        "url": "/sport/fotball/i/zEkqkK/sitter-arbeidsledig-i-tyskland-rosenborg-maa-bare-ringe",
+        "title": {
+            "value": "Sitter arbeidsledig i Tyskland: - Rosenborg må bare ringe"
+        },
+        "description": "Anthony Annan får fortsatt energi og motivasjon av «Bilde tå’n Ivers» og «Rosenborgsangen».",
+        "imageUrl": "b1a41b0f-c1e1-450d-ac7d-7d66c36cc528",
+        "publishedAt": "2023-05-04T15:57:15Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "rasmus-saga"
+        ]
+    },
+    {
+        "slug": "rekdal-koblet-av-etter-tapet-naa-kommer-du-til-aa-le",
+        "url": "/sport/fotball/i/5BwJPz/rekdal-koblet-av-etter-tapet-naa-kommer-du-til-aa-le",
+        "title": {
+            "value": "Slik koblet Rekdal av etter tapet: - Nå kommer du til å le"
+        },
+        "description": "Etter onsdagens 0–2-tap mot Brann dro Kjetil Rekdal omsider hjem for å koble av, men mye søvn ble det ikke.",
+        "imageUrl": "f4ef066b-2cb8-48e9-9a0a-51ad3c6a3738",
+        "publishedAt": "2023-05-04T13:25:10Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "kjetil-rekdal"
+        ]
+    },
+    {
+        "slug": "innroemmet-filming-jeg-angrer-paa-noe-av-det-jeg-sa",
+        "url": "/sport/i/69Kw7r/innroemmet-filming-jeg-angrer-paa-noe-av-det-jeg-sa",
+        "title": {
+            "value": "- Jeg angrer på noe av det jeg sa"
+        },
+        "description": "Kristall Mani Ingason innrømmet å ha forsøkt på å filme seg til straffe. - Jeg angrer på noe av det jeg sa, sier han dagen derpå.",
+        "imageUrl": "c69e8127-467f-4e94-9981-9b3db80ad7c6",
+        "publishedAt": "2023-05-04T11:18:10Z",
+        "lastModifiedAt": "2023-05-04T12:36:40Z",
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl",
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "rosenborg-bk",
+            "fotball"
+        ]
+    }
+]

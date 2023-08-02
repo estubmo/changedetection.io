@@ -1,0 +1,373 @@
+[
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9z08Qr",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9z08Qr",
+        "preamble": "Alexis Mac Allister blir Jürgen Klopps første sommersignering.",
+        "published": {
+            "date": "torsdag 8. juni",
+            "datetime": "2023-06-08 11:58:31",
+            "niceformat": "08.06.2023, 11:58",
+            "timestamp": "2023-06-08T09:58:31.000Z"
+        },
+        "thumbnail": {
+            "height": 217,
+            "url": "https://akamai.vgc.no/v2/images/3bb67650-bd19-41dc-81f6-25ffa1291fc4?fit=crop&format=auto&h=217&w=400&s=163946a81afaca3126b338f3695f46e6acad2a05",
+            "width": 400
+        },
+        "title": "Bekreftet: Argentinsk verdensmester klar for Liverpool",
+        "url": "https://www.vg.no/sport/fotball/i/9z08Qr/bekreftet-argentinsk-verdensmester-klar-for-liverpool"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5Bkr6b",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5Bkr6b",
+        "preamble": "I et intervju med TalkSport sier West Ham-eier David Sullivan at Declan Rice kommer til å forlate klubben denne sommeren.",
+        "published": {
+            "date": "torsdag 8. juni",
+            "datetime": "2023-06-08 10:50:38",
+            "niceformat": "08.06.2023, 10:50",
+            "timestamp": "2023-06-08T08:50:38.000Z"
+        },
+        "thumbnail": {
+            "height": 284,
+            "url": "https://akamai.vgc.no/v2/images/9db02407-945c-4ced-8b02-0818024262ea?fit=crop&format=auto&h=284&w=400&s=01767fccc5545852e6aafa46ca1e0f59598f0bec",
+            "width": 400
+        },
+        "title": "West Ham-eier bekrefter: Rice forlater klubben",
+        "url": "https://www.vg.no/sport/fotball/i/5Bkr6b/britiske-medier-arsenal-er-i-foerersetet-i-kampen-om-west-ham-kaptein-declan-rice"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB-TT"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GM8ORq",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GM8ORq",
+        "preamble": "En billett til Lionel Messis trolige debutkamp for Inter Miami har økt med 1500 prosent i pris over natten. Klubben har også fått en svært stor følgeskare.",
+        "published": {
+            "date": "torsdag 8. juni",
+            "datetime": "2023-06-08 08:29:10",
+            "niceformat": "08.06.2023, 08:29",
+            "timestamp": "2023-06-08T06:29:10.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/7a82b2f3-c5c0-4edf-b5da-06351cc8da52?fit=crop&format=auto&h=267&w=400&s=5407ff7af43a8cfbd2af353d16edf8de6515a98e",
+            "width": 400
+        },
+        "title": "Messi-signatur ga økte billettpriser og millioner av følgere",
+        "url": "https://www.vg.no/sport/fotball/i/GM8ORq/messi-signatur-ga-oekte-billettpriser-og-millioner-av-foelgere"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9z0o9q",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9z0o9q",
+        "preamble": "(Fiorentina – West Ham 1–2) I kampens siste minutt før fulltid ble Jarrod Bowen den store helten. West Ham sikret Conference League-tittelen i sin første europeiske finale siden 1999.",
+        "published": {
+            "date": "onsdag 7. juni",
+            "datetime": "2023-06-07 23:01:31",
+            "niceformat": "07.06.2023, 23:01",
+            "timestamp": "2023-06-07T21:01:31.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/XekeXuNRmGA8.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Bowen sendte West Ham til himmels – tok sitt første europeiske trofé på 24 år",
+        "url": "https://www.vg.no/sport/fotball/i/9z0o9q/bowen-sende-west-ham-til-himmels-tok-sitt-foerste-europeiske-trofe-paa-58-aar"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4oGRaG",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4oGRaG",
+        "preamble": "Onsdag kveld ble fjerde runde av NM på herresiden trukket.",
+        "published": {
+            "date": "onsdag 7. juni",
+            "datetime": "2023-06-07 22:08:54",
+            "niceformat": "07.06.2023, 22:08",
+            "timestamp": "2023-06-07T20:08:54.000Z"
+        },
+        "thumbnail": {
+            "height": 257,
+            "url": "https://akamai.vgc.no/v2/images/1547de57-727b-4b07-b328-0c5a5ec094ea?fit=crop&format=auto&h=257&w=400&s=c414ce44f203cb282fbd742c4555befbb25375ea",
+            "width": 400
+        },
+        "title": "«Slaget om Nord-Norge» i 4. runde av fotball-NM ",
+        "url": "https://www.vg.no/sport/fotball/i/4oGRaG/slaget-om-nord-norge-i-4-runde-av-fotball-nm"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            },
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5BkREE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5BkREE",
+        "preamble": "Neste stoppested for Lionel Messi (35) er klart. Den lille magikeren velger bort gamleklubben Barcelona og fortsetter karrieren i USA og MLS.",
+        "published": {
+            "date": "onsdag 7. juni",
+            "datetime": "2023-06-07 21:01:55",
+            "niceformat": "07.06.2023, 21:01",
+            "timestamp": "2023-06-07T19:01:55.000Z"
+        },
+        "thumbnail": {
+            "height": 272,
+            "url": "https://akamai.vgc.no/v2/images/4116a65f-0d6e-4743-ae36-064f94a4e9d0?fit=crop&format=auto&h=272&w=400&s=73e8cba0e3065349d221a44d878d14bb6546960e",
+            "width": 400
+        },
+        "title": "Messi klar for Inter Miami",
+        "url": "https://www.vg.no/sport/fotball/i/5BkREE/messi-klar-for-inter-miami"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            },
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "y6ymyr",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/y6ymyr",
+        "preamble": "(Aalesund – Brann 3–3 e.e.o., 5–6 etter straffer) Det måtte straffer til på Sunnmøre. Brann slo Aalesund for andre gang på tre dager og sikret avansement til cupens fjerde runde.",
+        "published": {
+            "date": "onsdag 7. juni",
+            "datetime": "2023-06-07 20:50:39",
+            "niceformat": "07.06.2023, 20:50",
+            "timestamp": "2023-06-07T18:50:39.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/d53d27a4-8406-41c0-ae77-4611ca838fc1?fit=crop&format=auto&h=267&w=400&s=d0fc26fe2b5f83fc05be688bbed5fc3c43027b13",
+            "width": 400
+        },
+        "title": "Brann vant etter straffekonk - Aalesund ute av cupen",
+        "url": "https://www.vg.no/sport/fotball/i/y6ymyr/brann-vant-etter-straffekonk-aalesund-ute-av-cupen"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            },
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "RGQor2",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/RGQor2",
+        "preamble": "(Brattvåg – Haugesund 2–1) Andredivisjonslaget Brattvåg sjokkerte Haugesund.",
+        "published": {
+            "date": "onsdag 7. juni",
+            "datetime": "2023-06-07 19:55:55",
+            "niceformat": "07.06.2023, 19:55",
+            "timestamp": "2023-06-07T17:55:55.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/2e33d406-609c-4691-b95f-c1b5234a9d5d?fit=crop&format=auto&h=267&w=400&s=40f7f81e5116ee0957c80578cc51a7475e790c9b",
+            "width": 400
+        },
+        "title": "Cupbombe på Sunnmøre – Brattvåg sendte Haugesund ut av NM",
+        "url": "https://www.vg.no/sport/fotball/i/RGQor2/cupbombe-i-aalesund-brattvaag-sendte-haugesund-ut-av-cupen"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJ0qGK",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJ0qGK",
+        "preamble": "Aleksander Andresen (18) har skrevet under en ny Stabæk-kontrakt. Den varer ut 2025-sesongen.",
+        "published": {
+            "date": "onsdag 7. juni",
+            "datetime": "2023-06-07 18:38:12",
+            "niceformat": "07.06.2023, 18:38",
+            "timestamp": "2023-06-07T16:38:12.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/55eea501-43e9-4284-9ca0-0b34acfa76e6?fit=crop&format=auto&h=267&w=400&s=d3213f08506fbb8d88139be8f487435c1f92f909",
+            "width": 400
+        },
+        "title": "Stabæk forlenget med midtbanetalent",
+        "url": "https://www.vg.no/sport/fotball/i/eJ0qGK/stabaek-forlenget-med-midtbanetalent"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9z06g5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9z06g5",
+        "preamble": "Fiorentina-tilhengere gikk til angrep på noen West Ham-supportere i en bar i Praha før finalen i conferenceligaen, opplyser tsjekkisk politi.",
+        "published": {
+            "date": "onsdag 7. juni",
+            "datetime": "2023-06-07 17:16:00",
+            "niceformat": "07.06.2023, 17:16",
+            "timestamp": "2023-06-07T15:16:00.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/bb0aee3b-fab8-429b-b8df-22bfc4ff6e7a?fit=crop&format=auto&h=267&w=400&s=4fa2d8b0830242cd4cd4cfd4b54d75b4ad620448",
+            "width": 400
+        },
+        "title": "Fiorentina-fans angrep West Ham-supportere før finalen i Conference League",
+        "url": "https://www.vg.no/sport/fotball/i/9z06g5/fiorentina-fans-angrep-west-ham-supportere-foer-finalen-iconferenceligaen"
+    }
+]

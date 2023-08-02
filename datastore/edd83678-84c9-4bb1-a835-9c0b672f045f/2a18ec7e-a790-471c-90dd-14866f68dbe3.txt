@@ -1,0 +1,200 @@
+[
+    {
+        "slug": "storseier-for-beitstad",
+        "url": "/lokalfotballen/i/kEyoV9/storseier-for-beitstad",
+        "title": {
+            "value": "Tungt nederlag for Inderøy"
+        },
+        "description": "Aron Morken Furre scoret to av målene og hjalp Beitstad til 4-0-seier over Inderøy i 6. divisjon, Trøndelag - Avdeling 1 i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T14:12:45Z",
+        "lastModifiedAt": "2023-05-01T14:18:56Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "nettsus-for-kvakland",
+        "url": "/lokalfotballen/i/Mop0rM/nettsus-for-kvakland",
+        "title": {
+            "value": "Melhus tapte på bortebane"
+        },
+        "description": "Sindre Sætherbø Kvakland viste scoringsform da Hitra seiret 3-1 over Melhus i 4. divisjon, Trøndelag - Avdeling 2 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T14:05:44Z",
+        "lastModifiedAt": "2023-05-01T14:49:18Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "tydelig-beskjed-det-var-for-daarlig-av-meg",
+        "url": "/sport/fotball/i/kEyoK6/tydelig-beskjed-det-var-for-daarlig-av-meg",
+        "title": {
+            "value": "Tydelig beskjed: – Det var for dårlig av meg "
+        },
+        "description": "Innleggene må bli bedre, mener Edvard Tagseth. Men sammen med backkompis Leo Cornic er han klar på at det er mye bra RBK-spill å spore.",
+        "imageUrl": "03916bb0-1122-43ea-890e-a4647f28bebc",
+        "publishedAt": "2023-05-01T13:52:29Z",
+        "lastModifiedAt": "2023-05-01T13:55:18Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand",
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "kvik-2-tapte-borte",
+        "url": "/lokalfotballen/i/eJypBg/kvik-2-tapte-borte",
+        "title": {
+            "value": "Rennebu-seier over Kvik 2"
+        },
+        "description": "Rennebu vant 2-1 over Kvik 2 i 5. divisjon, Trøndelag - Avdeling 3 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T13:18:04Z",
+        "lastModifiedAt": "2023-05-01T13:20:04Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-opp"
+        ]
+    },
+    {
+        "slug": "gladmelding-for-rbk-fansen-ekstremt-deilig-aa-faa-det-paa-plass",
+        "url": "/sport/fotball/i/764aQB/gladmelding-for-rbk-fansen-ekstremt-deilig-aa-faa-det-paa-plass",
+        "title": {
+            "value": "Gladmelding for RBK-fansen: – Ekstremt deilig å få det på plass "
+        },
+        "description": "Rugile Rulyte blir i RBK med en ny toårskontrakt i banken.",
+        "imageUrl": "d8dd2375-7c7a-4aa2-8382-0baa292f9e9a",
+        "publishedAt": "2023-05-01T12:47:23Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "operert-i-natt-en-katastrofe-oekonomisk",
+        "url": "/nyheter/trondheim/i/jlp5O9/operert-i-natt-en-katastrofe-oekonomisk",
+        "title": {
+            "value": "- Det blir ikke mer utur enn dette"
+        },
+        "description": "Gunnar Nedrelid ligger på sykehus etter hesteulykken på Ranheim søndag.",
+        "imageUrl": "56b6a3ce-c6e6-4dde-97a4-02c3939f1e01",
+        "publishedAt": "2023-05-01T11:58:12Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Truls August Råen"
+        ],
+        "tags": [
+            "hest",
+            "ranheim",
+            "hester",
+            "st-olavs"
+        ]
+    },
+    {
+        "slug": "kapteinens-klare-melding-for-daarlig-kvalitet",
+        "url": "/sport/fotball/i/0QX6r6/kapteinens-klare-melding-for-daarlig-kvalitet",
+        "title": {
+            "value": "RBK-kapteinens dom: – Det er der vi sliter mest"
+        },
+        "description": "Tre mål og én seier på fire kamper. Markus Henriksen er ikke i tvil om hvor skoen trykker for trønderne.",
+        "imageUrl": "b88578dd-c19c-4ca7-b75d-c93726047c88",
+        "publishedAt": "2023-05-01T06:01:36Z",
+        "lastModifiedAt": "2023-05-01T06:01:36Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand",
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "markus-henriksen"
+        ]
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/4oX4kG/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag, mandag 1. mai.",
+        "imageUrl": "1bb13020-f903-45db-814c-dac8088d295f",
+        "publishedAt": "2023-05-01T04:01:10Z",
+        "lastModifiedAt": "2023-05-01T04:01:10Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "ntnui-rundspilte-roervik",
+        "url": "/lokalfotballen/i/VPe7X4/ntnui-rundspilte-roervik",
+        "title": {
+            "value": "NTNUI rundspilte Rørvik"
+        },
+        "description": "NTNUI banket Rørvik 5-0 i 4. divisjon, Trøndelag - Avdeling 1 i fotball for kvinner søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-30T22:18:05Z",
+        "lastModifiedAt": "2023-04-30T22:18:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "har-tatt-veldig-store-steg-paa-kort-tid-folk-med-innsikt-og-peiling-ser-det",
+        "url": "/sport/fotball/i/jlpyrA/har-tatt-veldig-store-steg-paa-kort-tid-folk-med-innsikt-og-peiling-ser-det",
+        "title": {
+            "value": "– Folk med innsikt og peiling ser det"
+        },
+        "description": "Erlend Dahl Reitan er ikke imponert over alle meningene rundt Rosenborg.",
+        "imageUrl": "aa8522a0-a41b-4aa3-bbc0-aa5a6d00e436",
+        "publishedAt": "2023-04-30T20:35:08Z",
+        "lastModifiedAt": "2023-04-30T21:47:51Z",
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal",
+            "Johannes Strand",
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "fotball",
+            "michael-karlsen",
+            "erlend-dahl-reitan",
+            "rosenborg-bk",
+            "norsk-fotball",
+            "eliteserien"
+        ]
+    }
+]

@@ -1,0 +1,199 @@
+[
+    {
+        "slug": "tynset-senket-av-aaberge",
+        "url": "/lokalfotballen/i/0QX8qg/tynset-senket-av-aaberge",
+        "title": {
+            "value": "Tynset senket av Aaberge"
+        },
+        "description": "Tynset tapte 1-2 mot Sogndal FK på bortebane i 2. divisjon, Avdeling 1 i fotball for kvinner søndag. Tynset har ikke tatt ett eneste poeng i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-30T12:12:44Z",
+        "lastModifiedAt": "2023-04-30T12:18:47Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "uavgjort-paa-amfi-moa-stadion",
+        "url": "/lokalfotballen/i/q174X0/uavgjort-paa-amfi-moa-stadion",
+        "title": {
+            "value": "Herd spilte uavgjort"
+        },
+        "description": "Herd og Rosenborg 2 spilte 1-1 på Amfi Moa stadion i 2. divisjon, Avdeling 1 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-30T11:53:38Z",
+        "lastModifiedAt": "2023-04-30T12:48:00Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-smpno",
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "en-spiller-manglet-da-rbk-reiste-til-bortekamp",
+        "url": "/sport/fotball/i/q174QL/en-spiller-manglet-da-rbk-reiste-til-bortekamp",
+        "title": {
+            "value": "Én spiller manglet da RBK reiste til bortekamp "
+        },
+        "description": "RBK må klare seg uten Ulrik Yttergård Jenssen i Skien.",
+        "imageUrl": "7d405a58-ae6b-4d63-9796-6e6fcc24669d",
+        "publishedAt": "2023-04-30T10:15:07Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen",
+            "Johannes Strand"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "kompisen-hans-trener-sjuaaringer-og-er-stjerne-paa-rbk",
+        "url": "/sport/fotball/i/jlpJEw/kompisen-hans-trener-sjuaaringer-og-er-stjerne-paa-rbk",
+        "title": {
+            "value": "Kompisen hans trener sjuåringer og er stjerne på RBK"
+        },
+        "description": "– Jeg så ikke helt for meg ham som hovedtrener. Men han en veldig godt likt type, og måten han har bygget seg opp er imponerende.",
+        "imageUrl": "61004d09-7e5e-43f0-8626-3331b863080c",
+        "publishedAt": "2023-04-30T09:32:02Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "premier-league",
+            "markus-henriksen",
+            "manchester-united",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/BWv98e/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag.",
+        "imageUrl": "8187b61e-f4d9-4ebd-a946-24763362288f",
+        "publishedAt": "2023-04-30T04:00:53Z",
+        "lastModifiedAt": "2023-04-30T04:00:53Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "maalshow-fra-andreas-nikolaisen-nygaard",
+        "url": "/lokalfotballen/i/3EX0VL/maalshow-fra-andreas-nikolaisen-nygaard",
+        "title": {
+            "value": "Andreas Nikolaisen Nygård bøttet inn mål mot Levanger 2"
+        },
+        "description": "Levanger 2 tapte 0-9 da Andreas Nikolaisen Nygård scoret fem av målene for Ranheim 2 i G16 1. divisjon, Avdeling 1 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T18:48:03Z",
+        "lastModifiedAt": "2023-04-29T19:18:23Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "hun-ble-dagens-ivers-gjoer-nesten-ingen-feil",
+        "url": "/sport/fotball/i/4oXe9G/hun-ble-dagens-ivers-gjoer-nesten-ingen-feil",
+        "title": {
+            "value": "Hun ble dagens Ivers: «Gjør nesten ingen feil»"
+        },
+        "description": "I en trygg 3–0-seier var Emilie Joramo banens beste.",
+        "imageUrl": "f2eb8162-6bcf-4e91-925c-3a819c2f40b9",
+        "publishedAt": "2023-04-29T18:15:26Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "fotball",
+            "rosenborg-bk",
+            "toppserien",
+            "rosenborg-kvinner"
+        ]
+    },
+    {
+        "slug": "slo-tilbake-etter-smellen",
+        "url": "/sport/fotball/i/eJyLAO/slo-tilbake-etter-smellen",
+        "title": {
+            "value": "Tangerte «personlig rekord»: - Hun bekrefter hvilken spiller hun er"
+        },
+        "description": "Emilie Joramo scoret sitt andre mål for sesongen. Det er ikke tilfeldig.",
+        "imageUrl": "65572999-9b01-4ea8-b643-de7c46bc3d46",
+        "publishedAt": "2023-04-29T16:33:52Z",
+        "lastModifiedAt": "2023-04-29T17:50:10Z",
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "rosenborg-kvinner",
+            "norsk-fotball",
+            "toppserien",
+            "emilie-joramo",
+            "elin-soerum",
+            "anna-joesendal"
+        ]
+    },
+    {
+        "slug": "laanke-gikk-paa-sitt-tredje-nederlag-paa-rad",
+        "url": "/lokalfotballen/i/pQ42WE/laanke-gikk-paa-sitt-tredje-nederlag-paa-rad",
+        "title": {
+            "value": "Stygt tap for Lånke"
+        },
+        "description": "Lånke tapte 0-5 da Petter Sagvold scoret tre av målene for Vuku i 4. divisjon, Trøndelag - Avdeling 1 i fotball for menn lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T16:04:47Z",
+        "lastModifiedAt": "2023-04-29T18:17:46Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "nytt-tap-for-namsos",
+        "url": "/lokalfotballen/i/l3l2VL/nytt-tap-for-namsos",
+        "title": {
+            "value": "Tredje strake nederlag for Namsos"
+        },
+        "description": "Trygg/Lade knuste Namsos 5-1 i 4. divisjon, Trøndelag - Avdeling 1 lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T16:04:46Z",
+        "lastModifiedAt": "2023-04-29T16:17:51Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

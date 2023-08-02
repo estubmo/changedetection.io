@@ -1,0 +1,185 @@
+[
+    {
+        "slug": "joergenvaag-ble-helten-for-kvik-2",
+        "url": "/lokalfotballen/i/3Ezdx9/joergenvaag-ble-helten-for-kvik-2",
+        "title": {
+            "value": "Jørgenvåg avgjorde for Kvik 2"
+        },
+        "description": "Med dagens 2-1-seier over Tolga-Vingelen tok Kvik 2 sin første trepoenger i årets sesong. I 5. divisjon, Trøndelag - Avdeling 3 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-12T20:20:40Z",
+        "lastModifiedAt": "2023-05-12T20:49:59Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "nettsus-for-johnsen",
+        "url": "/lokalfotballen/i/5Bwzrb/nettsus-for-johnsen",
+        "title": {
+            "value": "Johnsen avgjorde for Bangsund"
+        },
+        "description": "Lasse Johnsen scoret begge målene for Bangsund og ble den store helten i 2-1-seieren over Leksdal i 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-12T20:12:31Z",
+        "lastModifiedAt": "2023-05-12T20:20:39Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "bolme-senket-utleira",
+        "url": "/lokalfotballen/i/q1bM3O/bolme-senket-utleira",
+        "title": {
+            "value": "Bolme ble helten for Rindal"
+        },
+        "description": "Sondre Næss Bolme sikret tre poeng for Rindal da Utleira ble slått 1-0 i 5. divisjon, Trøndelag - Avdeling 2 i fotball for menn fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-12T20:12:31Z",
+        "lastModifiedAt": "2023-05-12T21:19:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/2BJkvq/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag, lørdag 13. mai,",
+        "imageUrl": "0fb52ef5-9432-47f3-95f7-9f66c4514177",
+        "publishedAt": "2023-05-12T19:07:35Z",
+        "lastModifiedAt": "2023-05-12T19:07:35Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "rbk-legenden-om-bildet-jeg-haaper-dette-er-fra-80-tallet",
+        "url": "/sport/fotball/i/xgbWaV/rbk-legenden-om-bildet-jeg-haaper-dette-er-fra-80-tallet",
+        "title": {
+            "value": "RBK-legenden om bildet: – Jeg håper dette er fra 80-tallet! "
+        },
+        "description": "Ørjan Berg om tiden i Rosenborg, sønnens oppvekst i Trondheim og forskjellen mellom lagene.",
+        "imageUrl": "c009f6cc-e87c-4334-9540-1c7cbd89e2d1",
+        "publishedAt": "2023-05-12T18:44:58Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "kolstad-flataas-seiret-over-leinstrand-byneset",
+        "url": "/lokalfotballen/i/bgobGd/kolstad-flataas-seiret-over-leinstrand-byneset",
+        "title": {
+            "value": "Kolstad/Flatås seiret over Leinstrand/Byneset"
+        },
+        "description": "Kolstad/Flatås slo Leinstrand/Byneset 6-1 og tok sin første seier denne sesongen. I G16 3. divisjon, Avdeling 2 - Vår fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-12T18:23:02Z",
+        "lastModifiedAt": "2023-05-12T18:23:02Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "askil-maeland-i-scoringshumoer-mot-nidelv",
+        "url": "/lokalfotballen/i/O8qJnA/askil-maeland-i-scoringshumoer-mot-nidelv",
+        "title": {
+            "value": "To fulltreffere fra Askil Mæland"
+        },
+        "description": "Ranheim 2 tok sin tredje seier på rad med 5-0 over Nidelv i G16 1. divisjon, Avdeling 1 - Vår fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-12T17:45:08Z",
+        "lastModifiedAt": "2023-05-12T17:51:38Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "mannen-de-aldri-fikk-tak-i-har-et-tydelig-raad-til-rbk",
+        "url": "/sport/i/dwpQEz/mannen-de-aldri-fikk-tak-i-har-et-tydelig-raad-til-rbk",
+        "title": {
+            "value": "Mannen de aldri fikk tak i har et tydelig råd til RBK"
+        },
+        "description": "KOMMENTAR: For to år siden var det høyst realistisk å hente Kjetil Knutsen til Lerkendal. Slik er det ikke lenger.",
+        "imageUrl": "70964cdf-b082-4359-a1d1-7272caebf299",
+        "publishedAt": "2023-05-12T17:44:44Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Birger Løfaldli"
+        ],
+        "tags": [
+            "kjetil-knutsen",
+            "patrick-berg",
+            "nils-arne-eggen",
+            "birger-loefaldli",
+            "bodoe-glimt",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "ble-paakjoert-taxisjaafoer-tok-ifra-foereren-bilnoeklene",
+        "url": "/nyhetsstudio/i/y6bnea/ble-paakjoert-taxisjaafoer-tok-ifra-foereren-bilnoeklene",
+        "title": {
+            "value": "Ble påkjørt - taxisjåfør tok fra føreren bilnøklene "
+        },
+        "description": null,
+        "imageUrl": null,
+        "publishedAt": "2023-05-12T17:24:43Z",
+        "lastModifiedAt": "2023-05-12T17:28:46Z",
+        "premium": true,
+        "authors": [
+            "Karoline Ulvnes"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "en-ting-vil-ikke-den-gamle-rbk-spilleren-snakke-om-hadde-vaert-naivt-og-urettferdig",
+        "url": "/sport/fotball/i/zEbXRr/en-ting-vil-ikke-den-gamle-rbk-spilleren-snakke-om-hadde-vaert-naivt-og-urettferdig",
+        "title": {
+            "value": "Én ting vil ikke den gamle RBK-spilleren snakke om: – Hadde vært naivt og urettferdig"
+        },
+        "description": "I seriestarten har Levanger FK levert langt over det de selv forventet. Likevel vil de ikke snakke om det «alle» andre tenker.",
+        "imageUrl": "8f3a85d0-70e7-4a9f-93b4-ea1dd318cb53",
+        "publishedAt": "2023-05-12T16:41:19Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "levanger-fk"
+        ]
+    }
+]

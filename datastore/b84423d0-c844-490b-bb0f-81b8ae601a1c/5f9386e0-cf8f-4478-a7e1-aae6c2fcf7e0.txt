@@ -1,0 +1,371 @@
+[
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "AP9mzM",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/AP9mzM",
+        "preamble": "HAMILTON (VG) Mandag var Caroline Graham Hansen tilbake på trening med det norske laget for siste kampforberedende trening før den andre gruppespillskampen mot Sveits. ",
+        "published": {
+            "date": "mandag 24. juli",
+            "datetime": "2023-07-24 06:07:21",
+            "niceformat": "24.07.2023, 06:07",
+            "timestamp": "2023-07-24T04:07:21.000Z"
+        },
+        "thumbnail": {
+            "height": 268,
+            "url": "https://akamai.vgc.no/v2/images/ada60771-70ef-4691-a59c-95039f0f010e?fit=crop&format=auto&h=268&w=400&s=6d1f21109ff97f710e06d8bf8ccdcfca3d305c00",
+            "width": 400
+        },
+        "title": "Graham Hansen tilbake på trening dagen før skjebneskampen ",
+        "url": "https://www.vg.no/sport/fotball/i/AP9mzM/graham-hansen-tilbake-paa-trening-dagen-foer-skjebneskampen"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8J1op2",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8J1op2",
+        "preamble": "TOKYO (VG) Erling Braut Haaland (23) har for alvor satt Norge på fotballkartet. Nå kan det være duket for en ny nordmann, som bergtok norske TV-seere allerede som 11-åring.",
+        "published": {
+            "date": "mandag 24. juli",
+            "datetime": "2023-07-24 03:57:57",
+            "niceformat": "24.07.2023, 03:57",
+            "timestamp": "2023-07-24T01:57:57.000Z"
+        },
+        "thumbnail": {
+            "height": 304,
+            "url": "https://akamai.vgc.no/v2/images/a49be29d-67cc-431a-97e4-155cc806d85d?fit=crop&format=auto&h=304&w=400&s=0be3c3117a6546c3a4e24468ba1d99ee1381cde6",
+            "width": 400
+        },
+        "title": "Norske Oscar Bobb (20) hylles av Guardiola: – Vi stoler veldig mye på ham",
+        "url": "https://www.vg.no/sport/fotball/i/8J1op2/det-norske-stortalentet-oscar-bobb-20-lovprises-av-manchester-city-manager-pep-guardiola"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O82BO1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O82BO1",
+        "preamble": "DRAMMEN (VG) Olaus Skarsem deler bilde fra sykesenga etter en knallhard smell i kampen mot Strømsgodset. ",
+        "published": {
+            "date": "søndag 23. juli",
+            "datetime": "2023-07-23 23:26:51",
+            "niceformat": "23.07.2023, 23:26",
+            "timestamp": "2023-07-23T21:26:51.000Z"
+        },
+        "thumbnail": {
+            "height": 533,
+            "url": "https://akamai.vgc.no/v2/images/b2abe320-fb38-42cf-8e9e-a5b5efd95567?fit=crop&format=auto&h=533&w=400&s=3ddccac7a874237c0b6bf1dbab26a91cba7ac9fd",
+            "width": 400
+        },
+        "title": "RBK-profil sendt til sykehus: – En smell vi må ta på alvor",
+        "url": "https://www.vg.no/sport/fotball/i/O82BO1/rbk-profil-sendt-til-sykehus-en-smell-vi-maa-ta-paa-alvor"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "vep1bX",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/vep1bX",
+        "preamble": "TOKYO (VG) Erling Braut Haaland (23) trengte bare seks minutter på å score sitt første mål i sommerens oppkjøring. Etterpå kom Manchester City-sjefen med et utspill som bør uroe konkurrentene.",
+        "published": {
+            "date": "søndag 23. juli",
+            "datetime": "2023-07-23 23:04:01",
+            "niceformat": "23.07.2023, 23:04",
+            "timestamp": "2023-07-23T21:04:01.000Z"
+        },
+        "thumbnail": {
+            "height": 278,
+            "url": "https://akamai.vgc.no/v2/images/21eb7326-00d7-4611-982d-e03a01c0b1d1?fit=crop&format=auto&h=278&w=400&s=82b3f5405513a78f07cdde96b9f9b89d3a761176",
+            "width": 400
+        },
+        "title": "Guardiola kommer med Haaland-advarsel etter ny oppvisning",
+        "url": "https://www.vg.no/sport/fotball/i/vep1bX/guardiola-kommer-med-haaland-advarsel-etter-ny-oppvisning"
+    },
+    {
+        "authors": [
+            {
+                "email": "kristine.bechmann.holter@schibsted.no",
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Xb2BBn",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Xb2BBn",
+        "preamble": "Etter at VAR brukte over syv minutter på å avgjøre en offside raste Vålerengas styreleder. Dommersjef Terje Hauge erkjenner at kritikken er berettiget.",
+        "published": {
+            "date": "søndag 23. juli",
+            "datetime": "2023-07-23 22:03:16",
+            "niceformat": "23.07.2023, 22:03",
+            "timestamp": "2023-07-23T20:03:16.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/7bmt0xqj2AvE.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Styreleder raser og dommersjef erkjenner VAR-trøbbel: – Fotballen lider",
+        "url": "https://www.vg.no/sport/fotball/i/Xb2BBn/styreleder-raser-og-dommersjef-erkjenner-var-troebbel-fotballen-lider"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kELPkL",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kELPkL",
+        "preamble": "DRAMMEN (VG) (Strømsgodset-Rosenborg 0–1) Han er knapt gammel nok til å kjøre moped, men søndag kveld var det Sverre Nypans (16) scoring som sikret RBK sin andre trepoenger under Svein Maalen. Han må dog dele noe av æren med Ole Sæter som stod for den målgivende pasningen.",
+        "published": {
+            "date": "søndag 23. juli",
+            "datetime": "2023-07-23 21:08:02",
+            "niceformat": "23.07.2023, 21:08",
+            "timestamp": "2023-07-23T19:08:02.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/MpwdUdxU6sdc.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "16-åring ble matchvinner for RBK: – Måtte grave dypt i verktøykassa",
+        "url": "https://www.vg.no/sport/fotball/i/kELPkL/sverre-nypan-avgjorde-da-rbk-slo-stroemsgodset"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WR2Bek",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WR2Bek",
+        "preamble": "(Haugesund – Lillestrøm 1–0) Simon Mesfin gikk på sitt første tap som midlertidig LSK-trener i møte med Haugesund i Eliteserien søndag. Etter kampen kokte det over for Akor Adams.",
+        "published": {
+            "date": "søndag 23. juli",
+            "datetime": "2023-07-23 18:57:43",
+            "niceformat": "23.07.2023, 18:57",
+            "timestamp": "2023-07-23T16:57:43.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/95d1f9ce-f00f-4de3-958f-608212325982?fit=crop&format=auto&h=267&w=400&s=27b8730e52fe5fba349ea224ec1b870827ef19df",
+            "width": 400
+        },
+        "title": "Illsint Adams utvist etter kampslutt: – Mye energi som må ut",
+        "url": "https://www.vg.no/sport/fotball/i/WR2Bek/foerste-tap-for-mesfins-lsk-dansk-matchvinner-for-haugesund"
+    },
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            },
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q72BEJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q72BEJ",
+        "preamble": "(Sandefjord – Bodø/Glimt 2–5) Sandefjord overrasket før pause, men Bodø/Glimt-toget dundrer videre på toppen av tabellen.",
+        "published": {
+            "date": "søndag 23. juli",
+            "datetime": "2023-07-23 18:56:16",
+            "niceformat": "23.07.2023, 18:56",
+            "timestamp": "2023-07-23T16:56:16.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/777a26de-9ca9-4e54-8088-9b082d54c5b7?fit=crop&format=auto&h=267&w=400&s=110a6f73a5fdf17e5a9966163133a95dd616262e",
+            "width": 400
+        },
+        "title": "Sandefjord sjokkerte Bodø/Glimt – serielederen slo knallhardt tilbake",
+        "url": "https://www.vg.no/sport/fotball/i/Q72BEJ/sandefjord-sjokkerte-bodoe-glimt-serielederen-slo-knallhardt-tilbake"
+    },
+    {
+        "authors": [
+            {
+                "email": "kristine.bechmann.holter@schibsted.no",
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEQO3B",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEQO3B",
+        "preamble": "(Odd – Vålerenga 2–1) VAR brukte så mye som over syv minutter på å godkjenne Odds scoring mot Vålerenga. Det får ekspertene til å rase. ",
+        "published": {
+            "date": "søndag 23. juli",
+            "datetime": "2023-07-23 18:32:24",
+            "niceformat": "23.07.2023, 18:32",
+            "timestamp": "2023-07-23T16:32:24.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/e4902b7c-2cc0-4f19-8532-f0150098c797?fit=crop&format=auto&h=267&w=400&s=428f56d347469314ca82030c752dc260d7e87be5",
+            "width": 400
+        },
+        "title": "Tordner mot VAR-sjekk: – Det her er jo en skandale",
+        "url": "https://www.vg.no/sport/fotball/i/gEQO3B/tordner-mot-var-sjekk-det-her-er-jo-en-skandale"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jl17m0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jl17m0",
+        "preamble": "(HamKam – Stabæk 3–2) HamKam tok sin tredje strake seier i Eliteserien da Stabæk ble sendt hjem med overtidsstap fra Briskeby.",
+        "published": {
+            "date": "søndag 23. juli",
+            "datetime": "2023-07-23 17:12:15",
+            "niceformat": "23.07.2023, 17:12",
+            "timestamp": "2023-07-23T15:12:15.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/20155b29-a322-4bf1-8a3c-0941bd3cde12?fit=crop&format=auto&h=267&w=400&s=4ff97385a9c9cf5b6ea1d165e04e7c17e9992859",
+            "width": 400
+        },
+        "title": "HamKam tok sin tredje strake seier med overtidsscoring: – Kan gjerne kalle det et ran",
+        "url": "https://www.vg.no/sport/fotball/i/jl17m0/hamkam-fansen-forlot-banen-i-protest-mot-var"
+    }
+]

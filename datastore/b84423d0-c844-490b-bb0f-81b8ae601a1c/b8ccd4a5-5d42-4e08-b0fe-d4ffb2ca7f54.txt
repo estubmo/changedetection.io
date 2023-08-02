@@ -1,0 +1,396 @@
+[
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPXRzJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPXRzJ",
+        "preamble": "ULLEVAAL STADION (VG) (Norge-Skottland 1–2) Rotete norsk forsvarsspill ødela festkvelden på Ullevaal. Nå må trolig Norge belage seg på Nations League for å komme til EM. ",
+        "published": {
+            "date": "lørdag 17. juni",
+            "datetime": "2023-06-17 19:54:08",
+            "niceformat": "17.06.2023, 19:54",
+            "timestamp": "2023-06-17T17:54:08.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/676d276f-c7c7-4d3b-bc36-3515e4b62590?fit=crop&format=auto&h=267&w=400&s=561ac31602249447a4dd8529fecd1804e348728b",
+            "width": 400
+        },
+        "title": "Marerittminutt ødela for Norge: – Pinlig ",
+        "url": "https://www.vg.no/sport/fotball/i/VPXRzJ/marerittminutt-oedela-for-norge-pinlig"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            },
+            {
+                "email": "vegard.aulstad@vg.no",
+                "id": "32320ac9-8b78-4d86-b923-ee64dc408816",
+                "name": "Vegard Aulstad"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q1xp2g",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q1xp2g",
+        "preamble": "For første gang snakker Kjetil Rekdal (54) om exiten i Rosenborg. Treneren er med når VG følger Norges kamp mot Skottland i EM-kvaliken.",
+        "published": {
+            "date": "lørdag 17. juni",
+            "datetime": "2023-06-17 17:15:30",
+            "niceformat": "17.06.2023, 17:15",
+            "timestamp": "2023-06-17T15:15:30.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/WT1YOI9l_3cG.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Rekdal i stort VG-intervju: – Nå er jeg på jakt etter ny jobb",
+        "url": "https://www.vg.no/sport/fotball/i/q1xp2g/rekdal-etter-rosenborg-exiten-naa-er-jeg-paa-jakt-etter-ny-jobb"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "vegard.aulstad@vg.no",
+                "id": "32320ac9-8b78-4d86-b923-ee64dc408816",
+                "name": "Vegard Aulstad"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "158J8M",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/158J8M",
+        "preamble": "ULLEVAAL STADION (VG) Landslagets to største stjerner er en gullgruve for NFF. Mot Kypros kommer det 20.000 flere tilskuere enn det gjorde for fem år siden. ",
+        "published": {
+            "date": "lørdag 17. juni",
+            "datetime": "2023-06-17 15:18:10",
+            "niceformat": "17.06.2023, 15:18",
+            "timestamp": "2023-06-17T13:18:10.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/371bd15b-a1a6-45de-bb35-fb55748fa4a3?fit=crop&format=auto&h=267&w=400&s=103cb463bf5a07abd2d34d5c937d46d4825cfb36",
+            "width": 400
+        },
+        "title": "Slik så det ut for fem år siden: – Ekstrem forvandling",
+        "url": "https://www.vg.no/sport/fotball/i/158J8M/utsolgt-paa-ullevaal-til-landskampen-mot-kypros-haaland-og-oedegaard-pekes-paa-som-aarsaken"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "abkrb7",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/abkrb7",
+        "preamble": "Svein Maalen (45) skal lede Rosenborg ut sesongen. Nå vil han ta Trønder-stoltheten tilbake til røttene og «Eggen-fotball». ",
+        "published": {
+            "date": "lørdag 17. juni",
+            "datetime": "2023-06-17 13:41:01",
+            "niceformat": "17.06.2023, 13:41",
+            "timestamp": "2023-06-17T11:41:01.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/23e18a41-50d3-4699-92ad-60ca925cf427?fit=crop&format=auto&h=267&w=400&s=b22e9fc45c4681191e0b9d062178029e720fc04b",
+            "width": 400
+        },
+        "title": "Maalen trener RBK ut sesongen – varsler endringer",
+        "url": "https://www.vg.no/sport/fotball/i/abkrb7/maalen-trener-rbk-ut-sesongen-varsler-endringer"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAk62L",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAk62L",
+        "preamble": "Martin Tyler (77) gir seg i Sky Sports etter å ha vært kanalens spydspiss i Premier League-dekningen i 33 år.",
+        "published": {
+            "date": "lørdag 17. juni",
+            "datetime": "2023-06-17 13:37:59",
+            "niceformat": "17.06.2023, 13:37",
+            "timestamp": "2023-06-17T11:37:59.000Z"
+        },
+        "thumbnail": {
+            "height": 341,
+            "url": "https://akamai.vgc.no/v2/images/aeae80f6-c5a1-4112-baed-91eaaff3762f?fit=crop&format=auto&h=341&w=400&s=3c60eb07da5d10b12421e0eef840ff454f20a737",
+            "width": 400
+        },
+        "title": "Legendarisk fotballkommentator gir seg etter 33 år",
+        "url": "https://www.vg.no/sport/fotball/i/wAk62L/premier-league-martin-tyler-gir-seg-som-kommentator-i-sky-sports"
+    },
+    {
+        "authors": [
+            {
+                "email": "svea@vg.no",
+                "id": "f852e5e5-5ba9-48c7-96da-9455a160031f",
+                "name": "Knut Espen Svegaarden"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEeW2O",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEeW2O",
+        "preamble": "ULLEVAAL STADION (VG) Det er skremmende mye likt med Norge og Skottland, både fotballmessig og ellers. Selv folketallet er likt. Ståle Solbakken trenger alle de marginene han kan finne for å vippe landskampen lørdag i Norges favør.",
+        "published": {
+            "date": "lørdag 17. juni",
+            "datetime": "2023-06-17 12:03:49",
+            "niceformat": "17.06.2023, 12:03",
+            "timestamp": "2023-06-17T10:03:49.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/be366ea1-0063-488f-bb5a-8446c41e2d29?fit=crop&format=auto&h=267&w=400&s=2067fda6e2bc6b456114a760a48937cf90be4615",
+            "width": 400
+        },
+        "title": "Dette er en kamp der marginene virkelig vil være avgjørende",
+        "url": "https://www.vg.no/sport/fotball/i/zEeW2O/dette-er-en-kamp-der-marginene-virkelig-vil-vaere-avgjoerende"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "MoXwJK",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/MoXwJK",
+        "preamble": "En skade i foten gjør at USAs lagkaptein Becky Sauerbrunn (38) ikke kan være med i VM-sluttspillet i fotball i New Zealand og Australia i sommer.",
+        "published": {
+            "date": "lørdag 17. juni",
+            "datetime": "2023-06-17 11:10:09",
+            "niceformat": "17.06.2023, 11:10",
+            "timestamp": "2023-06-17T09:10:09.000Z"
+        },
+        "thumbnail": {
+            "height": 282,
+            "url": "https://akamai.vgc.no/v2/images/3bd2bf9c-bb40-45cf-a097-25a4330459fe?fit=crop&format=auto&h=282&w=400&s=25f02faf9a24b58094bf324e1cd1cecaaaaf3f72",
+            "width": 400
+        },
+        "title": "Hardt slag for USA – mister kapteinen til fotball-VM",
+        "url": "https://www.vg.no/sport/fotball/i/MoXwJK/fotball-vm-2023-becky-sauerbrunn-ikke-med-til-vm"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3L7vM",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3L7vM",
+        "preamble": "ULLEVAAL STADION (VG) Daily Mail-journalist Craig Hope forteller at det er Haaland-hysteri i Skottland før lørdagens potensielle skjebnekamp mot Norge.",
+        "published": {
+            "date": "lørdag 17. juni",
+            "datetime": "2023-06-17 09:56:11",
+            "niceformat": "17.06.2023, 09:56",
+            "timestamp": "2023-06-17T07:56:11.000Z"
+        },
+        "thumbnail": {
+            "height": 265,
+            "url": "https://akamai.vgc.no/v2/images/1a0f58fe-9af5-49ec-966c-8931409aaf8d?fit=crop&format=auto&h=265&w=400&s=a84b543efff913d71ebd2f61cf13042bd5941ad5",
+            "width": 400
+        },
+        "title": "Hysteri i Storbritannia: Engelsk journalist fikk uventet Haaland-møte ",
+        "url": "https://www.vg.no/sport/fotball/i/l3L7vM/hysteri-i-storbritannia-engelsk-journalist-fikk-uventet-haaland-moete"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4oGlVq",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4oGlVq",
+        "preamble": "Det norske landslaget fikk en skuffende start på EM-kvalifiseringen, og ferden mot første mesterskapssluttspill siden 2000 har fått en betydelig ripe i lakken. Norsk Regnesentral har undersøkt tallene på Norges sjanse for direkte kvalik.",
+        "published": {
+            "date": "lørdag 17. juni",
+            "datetime": "2023-06-17 08:14:11",
+            "niceformat": "17.06.2023, 08:14",
+            "timestamp": "2023-06-17T06:14:11.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/3e594085-33cb-4b35-9452-464a3da1c167?fit=crop&format=auto&h=267&w=400&s=5a831a999afbd157862023b0b3bc558c3ad73c9e",
+            "width": 400
+        },
+        "title": "Dette er sannsynligheten for at Norge går til EM: – Har ikke råd til noe bananskall",
+        "url": "https://www.vg.no/sport/fotball/i/4oGlVq/fotball-sannsynligheten-for-at-norge-kvalifiserer-seg-til-em"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WRWEJd",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WRWEJd",
+        "preamble": "ULLEVAAL STADION (VG) Landslagskaptein Martin Ødegaard hentet inn en NRK-legende for å underholde lagkompisene noen dager før møtet med Skottland. ",
+        "published": {
+            "date": "lørdag 17. juni",
+            "datetime": "2023-06-17 00:50:54",
+            "niceformat": "17.06.2023, 00:50",
+            "timestamp": "2023-06-16T22:50:54.000Z"
+        },
+        "thumbnail": {
+            "height": 327,
+            "url": "https://akamai.vgc.no/v2/images/a492ffe4-36a3-4c00-8161-796e49595ba0?fit=crop&format=auto&h=327&w=400&s=84e82027494f7f1be6cff6555de991357b6a60f0",
+            "width": 400
+        },
+        "title": "Ødegaard-grep: Hentet inn Dan Børge Akerø til landslagssamling ",
+        "url": "https://www.vg.no/sport/fotball/i/WRWEJd/oedegaard-grep-hentet-inn-dan-boerge-akeroe-til-landslagssamling"
+    }
+]

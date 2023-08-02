@@ -1,0 +1,379 @@
+[
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Xbp8kE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Xbp8kE",
+        "preamble": "NM-kampene i 2. runde for kvinner i fotball er offentliggjort. Det blir årets første cupkamp for Toppserielagene. ",
+        "published": {
+            "date": "fredag 5. mai",
+            "datetime": "2023-05-05 10:41:26",
+            "niceformat": "05.05.2023, 10:41",
+            "timestamp": "2023-05-05T08:41:26.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0332b5a7-806b-4048-8d6a-a79aae9e5355?fit=crop&format=auto&h=267&w=400&s=02e899f2bddc5ac4f4bac9db8fbc822561b75f9c",
+            "width": 400
+        },
+        "title": "Slik spilles 2. runde i fotball-NM for kvinner",
+        "url": "https://www.vg.no/sport/fotball/i/Xbp8kE/slik-spilles-2-runde-i-fotball-nm-for-kvinner"
+    },
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            },
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76QKMw",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76QKMw",
+        "preamble": "I sin første oppgave som Leeds-manager, skal Sam Allardyce (68) stoppe Erling Braut Haaland (19). Den rutinerte engelskmannen har planen klar.",
+        "published": {
+            "date": "fredag 5. mai",
+            "datetime": "2023-05-05 10:21:44",
+            "niceformat": "05.05.2023, 10:21",
+            "timestamp": "2023-05-05T08:21:44.000Z"
+        },
+        "thumbnail": {
+            "height": 279,
+            "url": "https://akamai.vgc.no/v2/images/f8c4f8d3-10e1-48d9-900a-4a83c91ee984?fit=crop&format=auto&h=279&w=400&s=4684f622460473529c386eb9e3ba2dfcbea94030",
+            "width": 400
+        },
+        "title": "Leeds-manageren lo av Haaland-spørsmål: – Må holde et øye med ham hele tiden",
+        "url": "https://www.vg.no/sport/fotball/i/76QKMw/manchester-city-mot-leeds-slik-skal-sam-allardyce-stoppe-erling-braut-haaland"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPpqQV",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPpqQV",
+        "preamble": "City Football Group (CFG) har kjøpt seg inn i den brasilianske klubben Bahia. De håper å kunne hjelpe brasiliansk fotball til å vokse finansielt. ",
+        "published": {
+            "date": "fredag 5. mai",
+            "datetime": "2023-05-05 08:52:12",
+            "niceformat": "05.05.2023, 08:52",
+            "timestamp": "2023-05-05T06:52:12.000Z"
+        },
+        "thumbnail": {
+            "height": 244,
+            "url": "https://akamai.vgc.no/v2/images/b37f5bdf-03ea-486a-b6c5-9dc91651446f?fit=crop&format=auto&h=244&w=400&s=9483d2540e0dd51bc7a76c9e1877a4b6e7d0ca06",
+            "width": 400
+        },
+        "title": "Manchester City-eierne kjøper brasiliansk klubb",
+        "url": "https://www.vg.no/sport/fotball/i/VPpqQV/manchester-city-eierne-kjoeper-brasiliansk-klubb"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            },
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76Q0LW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76Q0LW",
+        "preamble": "En person er død etter feiringen av Napolis ligagull i Italia. ",
+        "published": {
+            "date": "fredag 5. mai",
+            "datetime": "2023-05-05 00:01:25",
+            "niceformat": "05.05.2023, 00:01",
+            "timestamp": "2023-05-04T22:01:25.000Z"
+        },
+        "thumbnail": {
+            "height": 279,
+            "url": "https://akamai.vgc.no/v2/images/22e7bf6f-ee3c-437d-a242-e81f827ccaf9?fit=crop&format=auto&h=279&w=400&s=d21324aa1e86269f7c05fa66ac512a0cab45c947",
+            "width": 400
+        },
+        "title": "En død etter feiring av Napoli-gull ",
+        "url": "https://www.vg.no/sport/fotball/i/76Q0LW/kaotiske-scener-etter-napoli-gullet"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76Q04w",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76Q04w",
+        "preamble": "(Brighton – Manchester United 1–0) Etter en VAR-sjekk avgjorde Alexis Mac Allister kampen fra krittmerket i kampens 99. minutt. Dermed er det fremdeles et ørlite håp om Champions League-spill for lagene bak Manchester United.",
+        "published": {
+            "date": "torsdag 4. mai",
+            "datetime": "2023-05-04 23:00:52",
+            "niceformat": "04.05.2023, 23:00",
+            "timestamp": "2023-05-04T21:00:52.000Z"
+        },
+        "thumbnail": {
+            "height": 307,
+            "url": "https://akamai.vgc.no/v2/images/a73c810a-66da-461f-a4ce-f352e85fd58e?fit=crop&format=auto&h=307&w=400&s=f7a8fe33e9c51ba45e93d027806da9064115d7b5",
+            "width": 400
+        },
+        "title": "Brighton-håndsrekning til Liverpool – slo Manchester United etter VAR-drama på overtid",
+        "url": "https://www.vg.no/sport/fotball/i/76Q04w/brighton-med-haand-til-liverpool-slo-manchester-united-etter-var-straffespark-paa-overtid"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMqGa9",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMqGa9",
+        "preamble": "(Udinese – Napoli 1–1) Victor Osimhen smalt ballen i mål. Feiringen har startet i Napoli. Det første seriegullet på 33 år i boks for den fotballgale byen.",
+        "published": {
+            "date": "torsdag 4. mai",
+            "datetime": "2023-05-04 22:37:20",
+            "niceformat": "04.05.2023, 22:37",
+            "timestamp": "2023-05-04T20:37:20.000Z"
+        },
+        "thumbnail": {
+            "height": 272,
+            "url": "https://akamai.vgc.no/v2/images/f7d3c83d-0dcc-4833-af89-64d357137aae?fit=crop&format=auto&h=272&w=400&s=54927e1a83633f1a03da2ae18ca37354a11f42f9",
+            "width": 400
+        },
+        "title": "Osimhen sendte Napoli til himmels: Ellevill jubel for seriegull",
+        "url": "https://www.vg.no/sport/fotball/i/GMqGa9/osimhen-sendte-napoli-til-himmels-ellevill-jubel-for-seriegull"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WRewLQ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WRewLQ",
+        "preamble": "LONDON (VG) Liverpool-helt og TV-ekspert Jamie Carragher skapte overskrifter verden over da han antydet at Erling Braut Haaland (22) og Manchester City var en dårlig match. I dette VG-intervjuet oppklarer Carragher hva han mente.",
+        "published": {
+            "date": "torsdag 4. mai",
+            "datetime": "2023-05-04 22:16:23",
+            "niceformat": "04.05.2023, 22:16",
+            "timestamp": "2023-05-04T20:16:23.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0d010455-cb26-4ec5-9667-89697ec438a3?fit=crop&format=auto&h=267&w=400&s=5fa0bf05fcb10fd2e10e33e1c9d26082c5eb3e71",
+            "width": 400
+        },
+        "title": "Liverpool-helt Carragher skapte Haaland-overskrifter – svarer om utskjelt påstand",
+        "url": "https://www.vg.no/sport/fotball/i/WRewLQ/liverpool-helt-carragher-skapte-haaland-overskrifter-svarer-om-utskjelt-paastand"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPplEl",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPplEl",
+        "preamble": "LERKENDAL (VG) Rosenborg-spiss Kristall Máni Ingason (21) ble kalt inn på trener Kjetil Rekdals kontor etter at han innrømmet filming.",
+        "published": {
+            "date": "torsdag 4. mai",
+            "datetime": "2023-05-04 13:47:55",
+            "niceformat": "04.05.2023, 13:47",
+            "timestamp": "2023-05-04T11:47:55.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/e6b02d8b-171e-47dc-85ed-d12b6ae50554?fit=crop&format=auto&h=267&w=400&s=ab433b41a5c90087199133aed3bc7a9860024a63",
+            "width": 400
+        },
+        "title": "Ung spiss ble kalt inn på sjefens kontor: – Angrer på noe",
+        "url": "https://www.vg.no/sport/fotball/i/VPplEl/ung-spiss-ble-kalt-inn-paa-sjefens-kontor-angrer-paa-noe"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3bgPo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3bgPo",
+        "preamble": "Olli Harder og Brann er enige om å avslutte samarbeidet.",
+        "published": {
+            "date": "torsdag 4. mai",
+            "datetime": "2023-05-04 13:32:35",
+            "niceformat": "04.05.2023, 13:32",
+            "timestamp": "2023-05-04T11:32:35.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/7eb8880f-64b3-40e5-9b4c-20573f444245?fit=crop&format=auto&h=266&w=400&s=4b3840e3064b6d10067d0a366c34993c83d86788",
+            "width": 400
+        },
+        "title": "Olli Harder ferdig som trener for Brann",
+        "url": "https://www.vg.no/sport/fotball/i/l3bgPo/olli-harder-ferdig-som-trener-for-brann"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "email": "per.opsahl@vg.no",
+                "id": "a8b54406-d047-4b1c-90e2-f9f77a0e7317",
+                "name": "Per Opsahl"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMnoaJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMnoaJ",
+        "preamble": "Det stormer rundt Lionel Messi (35) i PSG. Han får både støtte og ramsalt kritikk. ",
+        "published": {
+            "date": "torsdag 4. mai",
+            "datetime": "2023-05-04 11:54:17",
+            "niceformat": "04.05.2023, 11:54",
+            "timestamp": "2023-05-04T09:54:17.000Z"
+        },
+        "thumbnail": {
+            "height": 257,
+            "url": "https://akamai.vgc.no/v2/images/041b9881-a152-4325-8854-77872da41c12?fit=crop&format=auto&h=257&w=400&s=0ffff4c187c5314d9c1026413999a2b585e00063",
+            "width": 400
+        },
+        "title": "Raser mot Messi-straff: – Tsunami i et vannglass",
+        "url": "https://www.vg.no/sport/fotball/i/GMnoaJ/argentinsk-presse-stiller-seg-uforstaaende-til-suspensjonen-av-lionel-messi"
+    }
+]

@@ -1,0 +1,375 @@
+[
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEQWM0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEQWM0",
+        "preamble": "Den tyske seriemesteren Bayern München skal være verbalt enig med Kyle Walker (33) om en overgang.",
+        "published": {
+            "date": "fredag 14. juli",
+            "datetime": "2023-07-14 14:09:28",
+            "niceformat": "14.07.2023, 14:09",
+            "timestamp": "2023-07-14T12:09:28.000Z"
+        },
+        "thumbnail": {
+            "height": 272,
+            "url": "https://akamai.vgc.no/v2/images/60b33fa1-08ca-49c9-a7fb-d7770d4e8ee5?fit=crop&format=auto&h=272&w=400&s=57cdeb7a1fb7fc81cf62441806fddf26959c923a",
+            "width": 400
+        },
+        "title": "Sky Sports: Walker takker ja til Bayern",
+        "url": "https://www.vg.no/sport/fotball/i/gEQWM0/sky-sports-walker-takker-ja-til-bayern"
+    },
+    {
+        "authors": [
+            {
+                "email": "leif.welhaven@vg.no",
+                "id": "e46ed1bb-8354-4bd4-97d3-09ac43c5dc8f",
+                "name": "Leif Welhaven"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "nQPaz5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/nQPaz5",
+        "preamble": "Selvsagt ble det bråk da Geir Bakke gikk fra Lillestrøm til Vålerenga. Men det må faktisk være lov til å forholde seg til kontrakten han hadde på Romerike.",
+        "published": {
+            "date": "fredag 14. juli",
+            "datetime": "2023-07-14 12:19:13",
+            "niceformat": "14.07.2023, 12:19",
+            "timestamp": "2023-07-14T10:19:13.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0b8ceddf-6e61-4746-b2f9-67ee482d056a?fit=crop&format=auto&h=267&w=400&s=fbccadc7eb7d6d45487019ab58baff5b38d1898e",
+            "width": 400
+        },
+        "title": "Ingen skam for Bakke",
+        "url": "https://www.vg.no/sport/fotball/i/nQPaz5/ingen-skam-for-bakke"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dw0ljj",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dw0ljj",
+        "preamble": "Henrik Meister (19) har skrevet under på en 3,5-årskontrakt med eliteserieklubben Sarpsborg.",
+        "published": {
+            "date": "fredag 14. juli",
+            "datetime": "2023-07-14 12:15:19",
+            "niceformat": "14.07.2023, 12:15",
+            "timestamp": "2023-07-14T10:15:19.000Z"
+        },
+        "thumbnail": {
+            "height": 225,
+            "url": "https://akamai.vgc.no/v2/images/19cbecf0-4080-4a0c-b646-c97efd461b1e?fit=crop&format=auto&h=225&w=400&s=adfbd98c320fa4cc2b4579e377122bd2eb5ea9bf",
+            "width": 400
+        },
+        "title": "Sarpsborg henter dansk spiss",
+        "url": "https://www.vg.no/sport/fotball/i/dw0ljj/sarpsborg-henter-dansk-spiss"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VP2qxd",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VP2qxd",
+        "preamble": "Den amerikanske spissen Alyssa Walker (25) skal tilbringe sommeren på lån i Portland Thorns i hjemlandet.",
+        "published": {
+            "date": "fredag 14. juli",
+            "datetime": "2023-07-14 11:14:01",
+            "niceformat": "14.07.2023, 11:14",
+            "timestamp": "2023-07-14T09:14:01.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/2682faa2-681f-48c4-a9ed-577f3d372eb0?fit=crop&format=auto&h=267&w=400&s=91debbade09a8852b6ca840d215627942eb6c110",
+            "width": 400
+        },
+        "title": "Brann-spiss Alyssa Walker lånes ut til USA",
+        "url": "https://www.vg.no/sport/fotball/i/VP2qxd/brann-spiss-alyssa-walker-laanes-ut-til-usa"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QJKQG",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QJKQG",
+        "preamble": "Mathias Jonsrud Emilsen (20) er igjen en del av Vålerenga-stallen. Klubben avbryter ungguttens låneopphold i Sandnes Ulf.",
+        "published": {
+            "date": "fredag 14. juli",
+            "datetime": "2023-07-14 10:58:10",
+            "niceformat": "14.07.2023, 10:58",
+            "timestamp": "2023-07-14T08:58:10.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/e5a74375-b91c-4908-b2ad-39624d554963?fit=crop&format=auto&h=267&w=400&s=cf8ebfc1cb7d7c52e0eb1fc414ea720d05fadff0",
+            "width": 400
+        },
+        "title": "Vålerenga henter tilbake midtbanetalent",
+        "url": "https://www.vg.no/sport/fotball/i/0QJKQG/vaalerenga-henter-tilbake-midtbanetalent"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "2B0Gxq",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/2B0Gxq",
+        "preamble": "Manchester United skal ha tilbudt Atalanta en byttehandel for å skaffe seg Rasmus Højlund (20). Budet skal ha blitt avvist av italienerne.",
+        "published": {
+            "date": "fredag 14. juli",
+            "datetime": "2023-07-14 08:56:52",
+            "niceformat": "14.07.2023, 08:56",
+            "timestamp": "2023-07-14T06:56:52.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/85fb054c-6bd1-4a71-9d6d-8c72ca870437?fit=crop&format=auto&h=300&w=400&s=78b0c0c5db5c236e0ebd83ffd88e5d66df840c25",
+            "width": 400
+        },
+        "title": "The Athletic: Manchester United fikk Højlund-bud avvist",
+        "url": "https://www.vg.no/sport/fotball/i/2B0Gxq/the-athletic-manchester-united-fikk-hoejlund-bud-avvist"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.hellenes@schibsted.com",
+                "id": "424642b6-03fe-42cd-abe2-5f7517e8a8e1",
+                "name": "Andreas Hellenes"
+            },
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            },
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "15zP0G",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/15zP0G",
+        "preamble": "En avtalt utkjøpspris på tre millioner gjorde at Geir Bakke (53) kunne forlate Lillestrøm til fordel for erkerival Vålerenga på dagen. På Åråsen mener de lite kunne vært gjort annerledes for å forhindre sjokkovergangen. ",
+        "published": {
+            "date": "fredag 14. juli",
+            "datetime": "2023-07-14 08:48:32",
+            "niceformat": "14.07.2023, 08:48",
+            "timestamp": "2023-07-14T06:48:32.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/d2744965-7daf-43a1-8ae7-2e9b87ecc968?fit=crop&format=auto&h=267&w=400&s=393c34da540ad9e674200817af8abf3999936f3d",
+            "width": 400
+        },
+        "title": "LSK-sjefen forklarer rivalens Bakke-kupp: – Hadde aldri signert for Lillestrøm",
+        "url": "https://www.vg.no/sport/fotball/i/15zP0G/lsk-sjefen-forklarer-rivalens-bakke-kupp-hadde-aldri-signert-for-lillestroem"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            },
+            {
+                "id": "d27d8a2b-cf3c-4743-a55c-8c46458fde28",
+                "name": "Geir Juva"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3Ewj5v",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3Ewj5v",
+        "preamble": "(HamKam – Bodø/Glimt 0–2, Kjelsås – Raufoss 2–1) Etter en sluttdramatikk uten sidestykke, gikk askeladden Kjelsås fra nivå tre i norsk fotball til en sensasjonell cupsemifinale. ",
+        "published": {
+            "date": "torsdag 13. juli",
+            "datetime": "2023-07-13 19:55:21",
+            "niceformat": "13.07.2023, 19:55",
+            "timestamp": "2023-07-13T17:55:21.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/97386185-3111-484c-a255-70ebed4e16ae?fit=crop&format=auto&h=267&w=400&s=90d4724822689316235232e57de863f83dc1517f",
+            "width": 400
+        },
+        "title": "Nivå tre-laget Kjelsås til sensasjonell semifinale i cupen – første siden 1976",
+        "url": "https://www.vg.no/sport/fotball/i/3Ewj5v/nivaa-tre-laget-kjelsaas-til-sensasjonell-semifinale-i-cupen-bodoe-glimt-slo-hamkam-paa-briskeby"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "pQE6Q6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/pQE6Q6",
+        "preamble": "(Portugal – Norge 5–0) Keeper Magnus Rugland Ree blemmet seg ut etter fire minutter spilt. Det endte i en blytung EM-exit for Norges G19-landslag. ",
+        "published": {
+            "date": "torsdag 13. juli",
+            "datetime": "2023-07-13 19:50:15",
+            "niceformat": "13.07.2023, 19:50",
+            "timestamp": "2023-07-13T17:50:15.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/Rw_7pj1hfVKe.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Marerittstart kostet Norge finalebillett: – Rystet ",
+        "url": "https://www.vg.no/sport/fotball/i/pQE6Q6/norges-g19-landslag-ute-av-em"
+    },
+    {
+        "authors": [
+            {
+                "email": "magnus.helle@schibsted.com",
+                "id": "465b91ad-0c13-4b04-8be8-4dbb0cc0080a",
+                "name": "Magnus Helle"
+            },
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "AP92rE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/AP92rE",
+        "preamble": "AMSTERDAM (VG) Når EA Sports for første gang skal gi ut et fotballspill etter FIFA-samarbeidet, er det med Erling Braut Haaland (22) som posterboy.",
+        "published": {
+            "date": "torsdag 13. juli",
+            "datetime": "2023-07-13 19:04:47",
+            "niceformat": "13.07.2023, 19:04",
+            "timestamp": "2023-07-13T17:04:47.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/75d2726c-047d-4aa2-9162-2f7b6712944a?fit=crop&format=auto&h=300&w=400&s=cfed7f7d45bade92d3d19e0b7f8510e46caa7e65",
+            "width": 400
+        },
+        "title": "Erling Braut Haaland bekreftet som frontfigur for første utgave av FIFA-spillets arvtaker EA Sports FC 24",
+        "url": "https://www.vg.no/sport/fotball/i/AP92rE/erling-braut-haaland-bekreftet-som-frontfigur-for-foerste-utgave-av-fifa-spillets-arvtaker-ea-sports-fc-24"
+    }
+]

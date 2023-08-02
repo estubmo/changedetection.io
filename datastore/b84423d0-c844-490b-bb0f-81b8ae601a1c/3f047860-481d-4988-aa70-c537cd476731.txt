@@ -1,0 +1,373 @@
+[
+    {
+        "authors": [
+            {
+                "email": "kristine.bechmann.holter@schibsted.no",
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            },
+            {
+                "id": "d27d8a2b-cf3c-4743-a55c-8c46458fde28",
+                "name": "Geir Juva"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "XbOoox",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/XbOoox",
+        "preamble": "13 kamper er spilt og Rosenborg har ikke sett dårligere ut siden forrige gang laget rykket ned. Kan historien gjenta seg? ",
+        "published": {
+            "date": "lørdag 8. juli",
+            "datetime": "2023-07-08 03:32:44",
+            "niceformat": "08.07.2023, 03:32",
+            "timestamp": "2023-07-08T01:32:44.000Z"
+        },
+        "thumbnail": {
+            "height": 261,
+            "url": "https://akamai.vgc.no/v2/images/1613b0f7-6352-485d-89b2-9d87c5d856e5?fit=crop&format=auto&h=261&w=400&s=f43c779fa39f497f32ed0f4b284f01586b63de1c",
+            "width": 400
+        },
+        "title": "Marerittstarten verst på 46 år: – Som gammel spiller smerter det ",
+        "url": "https://www.vg.no/sport/fotball/i/XbOoox/eliteserien-den-grusomme-rbk-starten-som-gammel-spiller-smerter-det"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "761Awo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/761Awo",
+        "preamble": "(Island – Norge 1–1) En omdiskutert straffe så ut til å sende Norge til semifinalen i U 19-EM, men en sen islandsk scoring hindret norsk avansement.",
+        "published": {
+            "date": "fredag 7. juli",
+            "datetime": "2023-07-07 22:52:03",
+            "niceformat": "07.07.2023, 22:52",
+            "timestamp": "2023-07-07T20:52:03.000Z"
+        },
+        "thumbnail": {
+            "height": 225,
+            "url": "https://akamai.vgc.no/v2/images/76eb43eb-e7e0-4df3-8bbd-e80c1ab80a45?fit=crop&format=auto&h=225&w=400&s=2001f51bd84a70f2330cfb94ae0b92a8be8017e0",
+            "width": 400
+        },
+        "title": "Norge rotet bort semifinaleplass – nå blir det drama mot Spania",
+        "url": "https://www.vg.no/sport/fotball/i/761Awo/norge-skuffet-mot-island-etter-billig-straffe"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "761A44",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/761A44",
+        "preamble": "(HamKam – Aalesund 2–1) HamKam tok tre meget viktige poeng i bunnkampen mot Aalesund. Det kan de takke Sten Grytebust (33) for.",
+        "published": {
+            "date": "fredag 7. juli",
+            "datetime": "2023-07-07 20:52:47",
+            "niceformat": "07.07.2023, 20:52",
+            "timestamp": "2023-07-07T18:52:47.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/791729af-6e01-493f-9090-2e3bb349631f?fit=crop&format=auto&h=267&w=400&s=aaa0a4eca3494708ac1691897f318543ffd0ed76",
+            "width": 400
+        },
+        "title": "HamKam slo Aalesund i bunnkampen – kjempebrøler av Grytebust",
+        "url": "https://www.vg.no/sport/fotball/i/761A44/hamkam-slo-aalesund-i-bunnkampen-kjempebroeler-av-grytebust"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "nora.savosnick@schibsted.com",
+                "id": "443fa560-7a70-450c-962e-fa5bbd488aeb",
+                "name": "Nora Savosnick (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O810Wb",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O810Wb",
+        "preamble": "BJØRVIKA (VG) En sen høstkveld i Oslo: Christopher Hall (36) dømmer straffe. Det ene laget mister det og angriper ham. Det er begynnelsen på slutten for Christophers dommerdrøm. ",
+        "published": {
+            "date": "fredag 7. juli",
+            "datetime": "2023-07-07 20:05:44",
+            "niceformat": "07.07.2023, 20:05",
+            "timestamp": "2023-07-07T18:05:44.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/666981dd-0d65-4358-bfac-8b91b1f4e139?fit=crop&format=auto&h=267&w=400&s=a4e770f3a49a7ccacc7a7f4f2872a273f27ec7c6",
+            "width": 400
+        },
+        "title": "Christopher sluttet som dommer etter skandalekamp – slakter NFFs håndtering",
+        "url": "https://www.vg.no/sport/fotball/i/O810Wb/fotballdommer-la-opp-etter-kamp-med-politi-involvert-slakter-norges-fotballforbund"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "RGndO8",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/RGndO8",
+        "preamble": "Brann avslår budet fra Elfsborg på kaptein Sivert Heltne Nilsen.",
+        "published": {
+            "date": "fredag 7. juli",
+            "datetime": "2023-07-07 19:40:04",
+            "niceformat": "07.07.2023, 19:40",
+            "timestamp": "2023-07-07T17:40:04.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/4db917c6-d3b0-4290-a8a4-4ac36fadb5cb?fit=crop&format=auto&h=267&w=400&s=a9e699b78756e692d153c15d789a291a2f30ede8",
+            "width": 400
+        },
+        "title": "Brann avslår budet på kapteinen",
+        "url": "https://www.vg.no/sport/fotball/i/RGndO8/brann-avslaar-budet-paa-kapteinen"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JLkVd",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JLkVd",
+        "preamble": "Den defensive midtbanespilleren Manuel Ugarte er Paris Saint-Germains nyeste signering. 22-åringen har signert en kontrakt som strekker seg til sommeren 2028.",
+        "published": {
+            "date": "fredag 7. juli",
+            "datetime": "2023-07-07 14:11:35",
+            "niceformat": "07.07.2023, 14:11",
+            "timestamp": "2023-07-07T12:11:35.000Z"
+        },
+        "thumbnail": {
+            "height": 274,
+            "url": "https://akamai.vgc.no/v2/images/31ac0eb6-50e8-4d33-af80-dba77af7b7f2?fit=crop&format=auto&h=274&w=400&s=506c1d465fc9157c7e7c45440dbd1172da3c8a82",
+            "width": 400
+        },
+        "title": "Uruguayansk midtbanespiller klar for PSG",
+        "url": "https://www.vg.no/sport/fotball/i/8JLkVd/ligue-1-manuel-ugarte-har-signert-for-psg"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJvo0K",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJvo0K",
+        "preamble": "Italienske Cristiano Giuntoli (51) har blitt ansatt som sportsdirektør i Juventus. Han kommer fra samme stilling hos rivalen Napoli. ",
+        "published": {
+            "date": "fredag 7. juli",
+            "datetime": "2023-07-07 13:57:51",
+            "niceformat": "07.07.2023, 13:57",
+            "timestamp": "2023-07-07T11:57:51.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/c84871b9-8420-4d5c-a806-5f6e5e5e5756?fit=crop&format=auto&h=267&w=400&s=a324ea89751755e3b8d3e381eac051e31f2ab5e1",
+            "width": 400
+        },
+        "title": "Juventus hentet sportsdirektør fra rivalen",
+        "url": "https://www.vg.no/sport/fotball/i/eJvo0K/juventus-hentet-sportsdirektoer-fra-rivalen"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WRyAjQ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WRyAjQ",
+        "preamble": "Eirik Hestad (28) returnerer til Molde. Romsdalingene bekrefter overgangen fredag ettermiddag.",
+        "published": {
+            "date": "fredag 7. juli",
+            "datetime": "2023-07-07 12:09:06",
+            "niceformat": "07.07.2023, 12:09",
+            "timestamp": "2023-07-07T10:09:06.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/aecc1761-ce99-40c3-946d-f3844786e87d?fit=crop&format=auto&h=267&w=400&s=85b87527870225d2111ffc23eeac0b8d1af25630",
+            "width": 400
+        },
+        "title": "Bekreftet: Eirik Hestad gjør comeback for Molde",
+        "url": "https://www.vg.no/sport/fotball/i/WRyAjQ/opplysninger-til-vg-eirik-hestad-signerer-for-molde"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQkaaA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQkaaA",
+        "preamble": "BODØ (VG) Omar Elabdellaoui (31) har fått en utfordrende start på Bodø/Glimt-karrieren, uten familien og med mange skader. På trening denne uken fikk han et hyggelig besøk.",
+        "published": {
+            "date": "fredag 7. juli",
+            "datetime": "2023-07-07 11:44:44",
+            "niceformat": "07.07.2023, 11:44",
+            "timestamp": "2023-07-07T09:44:44.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/38b8ade2-a1bc-44ac-bcd2-ad63de91ec9a?fit=crop&format=auto&h=300&w=400&s=61894654ef814130df0271bfe3f487cd27871706",
+            "width": 400
+        },
+        "title": "Elabdellaoui åpner opp om tøff Glimt-start: – Har vært mye forskjellig",
+        "url": "https://www.vg.no/sport/fotball/i/EQkaaA/eliteserien-omar-elabdellaoui-har-hatt-en-toeff-start-for-bodoe-glimt-uten-familien"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4LzQR",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4LzQR",
+        "preamble": "Cupfinalen i fotball for menn flyttes til 9. desember for å unngå kollisjon med utdelingen av Nobels fredspris søndag 10. desember.",
+        "published": {
+            "date": "fredag 7. juli",
+            "datetime": "2023-07-07 10:21:02",
+            "niceformat": "07.07.2023, 10:21",
+            "timestamp": "2023-07-07T08:21:02.000Z"
+        },
+        "thumbnail": {
+            "height": 253,
+            "url": "https://akamai.vgc.no/v2/images/716b4268-2330-45a4-ae57-71dfabdccfa5?fit=crop&format=auto&h=253&w=400&s=105ffcf5cca1b198b8e9db64e7698dd7192a155a",
+            "width": 400
+        },
+        "title": "Cupfinalen for menn flyttes til 9. desember",
+        "url": "https://www.vg.no/sport/fotball/i/P4LzQR/cupfinalen-for-menn-flyttes-til-9-desember"
+    }
+]

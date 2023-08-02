@@ -1,0 +1,375 @@
+[
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQqAvm",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQqAvm",
+        "preamble": "Det anerkjente nettstedet melder at Mauricio Pochettino blir Chelseas nye manager.",
+        "published": {
+            "date": "lørdag 13. mai",
+            "datetime": "2023-05-13 21:20:00",
+            "niceformat": "13.05.2023, 21:20",
+            "timestamp": "2023-05-13T19:20:00.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/5ebe72b4-4512-4b17-a382-dcd1569ee242?fit=crop&format=auto&h=267&w=400&s=092a7bdc92aa6338fe3c9afa04c797867dfa00c2",
+            "width": 400
+        },
+        "title": "The Athletic: Pochettino enig med Chelsea",
+        "url": "https://www.vg.no/sport/fotball/i/JQqAvm/the-athletic-pochettino-enig-med-chelsea"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "2BJA8y",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/2BJA8y",
+        "preamble": "(Haugesund - Vålerenga 1–1) Magnus Bech Riisnæs (18) startet sin første seriekamp for Vålerenga og takket for tilliten med scoring. Men lagkamerat Henrik Bjørdal (26) misbrukte muligheten på straffespark.",
+        "published": {
+            "date": "lørdag 13. mai",
+            "datetime": "2023-05-13 21:10:59",
+            "niceformat": "13.05.2023, 21:10",
+            "timestamp": "2023-05-13T19:10:59.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6a1924f0-238f-423d-8e90-b4de1e3c80f8?fit=crop&format=auto&h=267&w=400&s=15b386eb002a7d9f2a454ce8715073fcb2bb8a05",
+            "width": 400
+        },
+        "title": "18-åring reddet poeng for Vålerenga – Bjørdal bommet på straffe",
+        "url": "https://www.vg.no/sport/fotball/i/2BJA8y/18-aaring-reddet-poeng-for-vaalerenga-bjoerdal-bommet-paa-straffe"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            },
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O8q7pb",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O8q7pb",
+        "preamble": "(HamKam – Tromsø 1–2) HamKam-keeper Marcus Sandberg ble sendt i dusjen ni minutter på overtid etter et slag mot Tromsø-spiller Jostein Gundersen. Tromsø scoret på straffen og vant 2–1.",
+        "published": {
+            "date": "lørdag 13. mai",
+            "datetime": "2023-05-13 18:59:42",
+            "niceformat": "13.05.2023, 18:59",
+            "timestamp": "2023-05-13T16:59:42.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/c9de1378-47c6-45c8-afc7-6a56542c67a7?fit=crop&format=auto&h=267&w=400&s=003d654cd3a45876394374a242340fa295fba179",
+            "width": 400
+        },
+        "title": "Superdrama på overtid: Tromsø vant etter straffe og utvisning",
+        "url": "https://www.vg.no/sport/fotball/i/O8q7pb/superdrama-paa-overtid-tromsoe-vant-etter-straffe-og-utvisning-paa-overtid"
+    },
+    {
+        "authors": [
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            },
+            {
+                "email": "skandsen@vg.no",
+                "id": "f435294c-56cc-4c38-a714-d1f3f4e7a881",
+                "name": "Sondre Skandsen"
+            },
+            {
+                "id": "d27d8a2b-cf3c-4743-a55c-8c46458fde28",
+                "name": "Geir Juva"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "vebK2j",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/vebK2j",
+        "preamble": "BODØ (VG) (Bodø/Glimt – RBK 3–2) Amahl Pellegrino (32) kom med en tirade mot Rosenborg etter et herlig fotballdrama på Aspmyra. Selv blir Bodø/Glimt-stjernen stemplet som «sutrete». ",
+        "published": {
+            "date": "lørdag 13. mai",
+            "datetime": "2023-05-13 18:59:08",
+            "niceformat": "13.05.2023, 18:59",
+            "timestamp": "2023-05-13T16:59:08.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/b297978e-c869-4b89-8249-9cf9a4f027fa?fit=crop&format=auto&h=267&w=400&s=337ef3d6a156f4b70e431daf3eb01d58c1f7ba84",
+            "width": 400
+        },
+        "title": "Rosenborg-krisen ble forverret i Bodø - Pellegrino fyrte løs etter kamp",
+        "url": "https://www.vg.no/sport/fotball/i/vebK2j/skjelbred-utvist-da-rosenborg-krisen-ble-forverret-i-bodoe"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Qkx2g",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Qkx2g",
+        "preamble": "(Sarpsborg 08 - Brann 2–1) Sarpsborg 08 bydde på glimrende angrepsfotball før pause. Da holdt ikke Bård Finnes (28) drømmescoring til poeng for Brann.",
+        "published": {
+            "date": "lørdag 13. mai",
+            "datetime": "2023-05-13 18:55:48",
+            "niceformat": "13.05.2023, 18:55",
+            "timestamp": "2023-05-13T16:55:48.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/71b02da9-a5a1-413f-a1ba-4a34bed3d492?fit=crop&format=auto&h=267&w=400&s=1b069de1f4a568e5bdb3593fb7e816382d31a9a5",
+            "width": 400
+        },
+        "title": "Sambafotball senket Brann: − «Sarpelona»",
+        "url": "https://www.vg.no/sport/fotball/i/0Qkx2g/sambafotball-senket-brann-sarpelona"
+    },
+    {
+        "authors": [
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4qGre",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4qGre",
+        "preamble": "(Molde–Strømsgodset 3–2) Molde tok sin tredje strake seier, etter tre mål på tre langskudd.   ",
+        "published": {
+            "date": "lørdag 13. mai",
+            "datetime": "2023-05-13 18:55:27",
+            "niceformat": "13.05.2023, 18:55",
+            "timestamp": "2023-05-13T16:55:27.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/e988bd7f-22d4-4b3c-8a1c-736ba17d624a?fit=crop&format=auto&h=267&w=400&s=504a4e5ffbe13715f40eea2937b92c229bf03d34",
+            "width": 400
+        },
+        "title": "Molde slår tilbake etter svak sesongstart: Linnes med drømmetreff ",
+        "url": "https://www.vg.no/sport/fotball/i/P4qGre/molde-slo-stroemsgodset-martin-linnes-med-droemmescoring"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPp37r",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPp37r",
+        "preamble": "(Manchester United – Wolverhampton 2–0) Lørdag var Ole Gunnar Solskjær tilbake på Old Trafford for først gang siden han fikk sparken i november 2021. Fra tribunen så han Manchester United vinne 2–0.",
+        "published": {
+            "date": "lørdag 13. mai",
+            "datetime": "2023-05-13 17:56:07",
+            "niceformat": "13.05.2023, 17:56",
+            "timestamp": "2023-05-13T15:56:07.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/TYse2SMktQji.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Manchester United vant med Solskjær på tribunen",
+        "url": "https://www.vg.no/sport/fotball/i/VPp37r/manchester-united-vant-med-solskjaer-paa-tribunen"
+    },
+    {
+        "authors": [
+            {
+                "email": "skandsen@vg.no",
+                "id": "f435294c-56cc-4c38-a714-d1f3f4e7a881",
+                "name": "Sondre Skandsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BWq1ow",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BWq1ow",
+        "preamble": "Southampton tapte 0-2 hjemme for Fulham lørdag og rykker dermed ned fra Premier League etter elleve strake sesonger på øverste nivå.",
+        "published": {
+            "date": "lørdag 13. mai",
+            "datetime": "2023-05-13 17:55:11",
+            "niceformat": "13.05.2023, 17:55",
+            "timestamp": "2023-05-13T15:55:11.000Z"
+        },
+        "thumbnail": {
+            "height": 278,
+            "url": "https://akamai.vgc.no/v2/images/470198a6-61a7-40d5-aa5d-359505926081?fit=crop&format=auto&h=278&w=400&s=75b959b086469b316c5b7ab81a95c6ce0d8b8608",
+            "width": 400
+        },
+        "title": "«Moi» og Southampton rykket ned fra Premier League",
+        "url": "https://www.vg.no/sport/fotball/i/BWq1ow/moi-og-southampton-rykket-ned-fra-premier-league"
+    },
+    {
+        "authors": [
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76QGWV",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76QGWV",
+        "preamble": "(Lyon–PSG 2–1) Ada Hegerberg ble den store helten i den franske cupfinalen, med to scoringer på ni minutter. ",
+        "published": {
+            "date": "lørdag 13. mai",
+            "datetime": "2023-05-13 17:53:58",
+            "niceformat": "13.05.2023, 17:53",
+            "timestamp": "2023-05-13T15:53:58.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/r7xWF-tSSLbT.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Ada Hegerberg scoret to: Avgjorde cupfinalen ",
+        "url": "https://www.vg.no/sport/fotball/i/76QGWV/ada-hegerberg-scoret-to-avgjorde-cupfinalen"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5Bw47z",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5Bw47z",
+        "preamble": "Fredrikstad forlenget sin ubeseirede rekke med 1-1 borte mot nynedrykkede Jerv i 1. divisjon lørdag. Sogndal slo Åsane 3-2 og topper tabellen etter sju kamper.",
+        "published": {
+            "date": "lørdag 13. mai",
+            "datetime": "2023-05-13 16:57:44",
+            "niceformat": "13.05.2023, 16:57",
+            "timestamp": "2023-05-13T14:57:44.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/666f9399-55dc-420e-92ad-6535730ff42f?fit=crop&format=auto&h=267&w=400&s=6023a1010c00d4ae136b0b378834d0948fb37b78",
+            "width": 400
+        },
+        "title": "Fredrikstad tok poeng borte mot Jerv – Sogndal opp på tabelltopp ",
+        "url": "https://www.vg.no/sport/fotball/i/5Bw47z/fredrikstad-tok-poeng-borte-mot-jerv-sogndal-opp-paa-tabelltopp"
+    }
+]

@@ -1,0 +1,366 @@
+[
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gE12MJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gE12MJ",
+        "preamble": "Vålerenga har kommet til enighet med KIF Örebro om en overgang for den amerikanske forsvarsspilleren Michaela Kovacs. ",
+        "published": {
+            "date": "mandag 10. juli",
+            "datetime": "2023-07-10 14:19:02",
+            "niceformat": "10.07.2023, 14:19",
+            "timestamp": "2023-07-10T12:19:02.000Z"
+        },
+        "thumbnail": {
+            "height": 274,
+            "url": "https://akamai.vgc.no/v2/images/c719de00-2d90-4765-a301-13bc5e49c6f9?fit=crop&format=auto&h=274&w=400&s=a66ef0c978335939577a2d1647dd0cb21b6a8402",
+            "width": 400
+        },
+        "title": "Vålerenga forsterket seg med midtstopper",
+        "url": "https://www.vg.no/sport/fotball/i/gE12MJ/toppserien-vaalerenga-henter-midtstopper"
+    },
+    {
+        "authors": [
+            {
+                "id": "823a353f-90ae-4986-a5b3-883af5ac5840",
+                "name": "VG / NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jln5bo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jln5bo",
+        "preamble": "Den danske fotballspeideren og -treneren Tommy Møller Nielsen er død, 61 år gammel.",
+        "published": {
+            "date": "mandag 10. juli",
+            "datetime": "2023-07-10 12:48:00",
+            "niceformat": "10.07.2023, 12:48",
+            "timestamp": "2023-07-10T10:48:00.000Z"
+        },
+        "thumbnail": {
+            "height": 297,
+            "url": "https://akamai.vgc.no/v2/images/3c54282d-d210-4b88-a8e0-d855070fb545?fit=crop&format=auto&h=297&w=400&s=b5006881da50f332844bc0c0bda6551f06a8d78a",
+            "width": 400
+        },
+        "title": "Manchester United-speideren Tommy Møller Nielsen (61) er død",
+        "url": "https://www.vg.no/sport/fotball/i/jln5bo/dansk-manchester-united-speider-gikk-bort"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WRyPgj",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WRyPgj",
+        "preamble": "Den tidligere Paris Saint-Germain-sportsdirektøren Leonardo (53) ber gamleklubben om å kvitte seg med Kylian Mbappé (24).",
+        "published": {
+            "date": "mandag 10. juli",
+            "datetime": "2023-07-10 12:41:59",
+            "niceformat": "10.07.2023, 12:41",
+            "timestamp": "2023-07-10T10:41:59.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/b09ef141-4492-46a1-91ed-201d975367fb?fit=crop&format=auto&h=267&w=400&s=cf60e223346c388dbe7cd00c464d93e213955e40",
+            "width": 400
+        },
+        "title": "Mbappé kritiseres av tidligere PSG-sjef: – Ikke kapabel til å være en leder",
+        "url": "https://www.vg.no/sport/fotball/i/WRyPgj/ligue-1-kylian-mbappe-kritiseres-av-tidligere-psg-sjef-leonardo-ikke-kapabel-til-aa-vaere-en-leder"
+    },
+    {
+        "authors": [
+            {
+                "id": "823a353f-90ae-4986-a5b3-883af5ac5840",
+                "name": "VG / NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Qz6mE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Qz6mE",
+        "preamble": "New Zealand vant 2-0 over Vietnam i en treningskamp mandag. Norge møter New Zealand i fotball-VMs første kamp i neste uke.",
+        "published": {
+            "date": "mandag 10. juli",
+            "datetime": "2023-07-10 09:42:21",
+            "niceformat": "10.07.2023, 09:42",
+            "timestamp": "2023-07-10T07:42:21.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/78a8fe0a-efe7-4370-8cf1-5e8f9bcbd5d9?fit=crop&format=auto&h=267&w=400&s=7f24559ac294eb1721ab595fbff086810e37d8d4",
+            "width": 400
+        },
+        "title": "Norges VM-motstander med seier i oppkjøringskamp",
+        "url": "https://www.vg.no/sport/fotball/i/0Qz6mE/fotball-vm-for-kvinner-2023-new-zealand-med-seier-i-oppkjoeringskamp-moeter-norge-i-vm"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WRyzEL",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WRyzEL",
+        "preamble": "Brann sa nei til svenske Elfsborgs bud på Sivert Heltne Nilsen (31). Midtbanesjefens agent slår knallhardt mot klubbledelsen. BA-ekspert Jonas Grønner sier til VG at det begynner å bli «betent».",
+        "published": {
+            "date": "søndag 9. juli",
+            "datetime": "2023-07-09 22:34:30",
+            "niceformat": "09.07.2023, 22:34",
+            "timestamp": "2023-07-09T20:34:30.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0009a5b0-3f56-4f32-a10d-4a3b38d2e846?fit=crop&format=auto&h=267&w=400&s=2bc8818bab6440247fb82117010b22539e222a6e",
+            "width": 400
+        },
+        "title": "Sivert Heltne Nilsen snakker for første gang om Brann-dramaet",
+        "url": "https://www.vg.no/sport/fotball/i/WRyzEL/sivert-heltne-nilsen-snakker-for-foerste-gang-om-brann-dramaet"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "vedJ0l",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/vedJ0l",
+        "preamble": "(Molde-Brann 2–0) Molde bommet på det meste  - men Kristian Eriksen (27) hælflikket inn 1–0. Tidligere Brann-spiller Veton Berisha (29) fikk sin første Molde-scoring på overtid til 2–0. Brann-assistent Erik Huseklepp er kritisk etter tapet.",
+        "published": {
+            "date": "søndag 9. juli",
+            "datetime": "2023-07-09 21:08:51",
+            "niceformat": "09.07.2023, 21:08",
+            "timestamp": "2023-07-09T19:08:51.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/JhrcrUnflcXu.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Huseklepp etter tapet: – Vi er ikke helt påskrudd der",
+        "url": "https://www.vg.no/sport/fotball/i/vedJ0l/veton-berisha-scoret-endelig-for-molde"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "ab0nmd",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/ab0nmd",
+        "preamble": "Stabæk fikk bare med seg ett poeng hjem da de spilte 0-0 borte mot Sandefjord i Eliteserien søndag kveld.",
+        "published": {
+            "date": "søndag 9. juli",
+            "datetime": "2023-07-09 18:57:56",
+            "niceformat": "09.07.2023, 18:57",
+            "timestamp": "2023-07-09T16:57:56.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/19G-8lukCdfc.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Stabæk med straffebom og annullering: – Hvorfor er ikke det der scoring?",
+        "url": "https://www.vg.no/sport/fotball/i/ab0nmd/eliteserien-mushaga-bakenga-bommet-paa-straffe-mot-sandefjord-det-endte-00"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "nQr675",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/nQr675",
+        "preamble": "(Rosenborg – Lillestrøm 1–2) Ole Sæters (27) perlescoring så ut til å sikre Svein Maalens (45) første seier som Rosenborg-trener. Så dukket Akor Adams (23) opp.",
+        "published": {
+            "date": "søndag 9. juli",
+            "datetime": "2023-07-09 18:57:07",
+            "niceformat": "09.07.2023, 18:57",
+            "timestamp": "2023-07-09T16:57:07.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/S2Tsmg2Pf2kZ.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Rosenborg-kollaps: Akor Adams og Lillestrøm snudde til seier i sluttminuttene",
+        "url": "https://www.vg.no/sport/fotball/i/nQr675/eliteserien"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "email": "kristine.bechmann.holter@schibsted.no",
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3EKGvX",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3EKGvX",
+        "preamble": "(Strømsgodset - Sarpsborg 08 5–2) Formlagene Strømsgodset og Sarpsborg vartet opp med underholdning og sju mål i søndagens eliteseriekamp. Hjemmelaget vant 5-2.",
+        "published": {
+            "date": "søndag 9. juli",
+            "datetime": "2023-07-09 18:56:17",
+            "niceformat": "09.07.2023, 18:56",
+            "timestamp": "2023-07-09T16:56:17.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/b4VBZs-YP7dM.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Strømsgodset knuste Sarpsborg i ellevill målfest",
+        "url": "https://www.vg.no/sport/fotball/i/3EKGvX/eliteserien-stroemsgodset-slo-sarpsborg-i-ellevill-maalfest"
+    },
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "KnKg4y",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/KnKg4y",
+        "preamble": "(Odd - Bodø/Glimt 0–2) Seierstoget til Glimt dundrer videre med sesongens 11. seier - og på topp jakter Amahl Pellegrino på en rekord-sesong. ",
+        "published": {
+            "date": "søndag 9. juli",
+            "datetime": "2023-07-09 18:54:22",
+            "niceformat": "09.07.2023, 18:54",
+            "timestamp": "2023-07-09T16:54:22.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/FgUKsuAo5I2S.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Glimt senket Odd - Toppscorer Pellegrino med sitt 13. mål",
+        "url": "https://www.vg.no/sport/fotball/i/KnKg4y/eliteserien-glimt-senket-odd-toppscorer-amahl-pellegrino-med-sitt-13-maal"
+    }
+]

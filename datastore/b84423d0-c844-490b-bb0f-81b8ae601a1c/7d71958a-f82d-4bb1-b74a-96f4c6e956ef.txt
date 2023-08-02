@@ -1,0 +1,384 @@
+[
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "mattis.sandblad@vg.no",
+                "id": "79683f94-a05d-4191-9208-ec33ca98d72a",
+                "name": "Mattis Sandblad (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMXQKm",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMXQKm",
+        "preamble": "Emilie Nautnes sto på reservelisten da VM-troppen til Hege Riise ble presentert. Det var bare ett problem. ",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 10:21:36",
+            "niceformat": "19.06.2023, 10:21",
+            "timestamp": "2023-06-19T08:21:36.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/CfsIIGEzXiS4.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "NFF tabbet seg ut under VM-uttaket – tok ut feil spiller",
+        "url": "https://www.vg.no/sport/fotball/i/GMXQKm/nff-tabbet-seg-ut-under-vm-uttaket-tok-ut-feil-spiller"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Xb36Em",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Xb36Em",
+        "preamble": "Fotballspilleren Quincy Promes (31) er dømt til fengsel i halvannet år for grov vold etter å ha brukt kniv i en krangel i en bursdagsfest i 2020, melder NOS.",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 10:14:52",
+            "niceformat": "19.06.2023, 10:14",
+            "timestamp": "2023-06-19T08:14:52.000Z"
+        },
+        "title": "Nederlandsk fotballstjerne dømt til fengselsstraff for å ha knivstukket fetteren sin",
+        "url": "https://www.vg.no/sport/fotball/i/Xb36Em/den-nederlandske-fotballstjernen-quincy-promes-doemt-til-fengsel"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JVBRW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JVBRW",
+        "preamble": "Manchester United-back Luke Shaw jobber for å få Harry Kane og Declan Rice til «De røde djevlene».",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 09:56:03",
+            "niceformat": "19.06.2023, 09:56",
+            "timestamp": "2023-06-19T07:56:03.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ba470727-ce24-443a-9aa8-19275932b341?fit=crop&format=auto&h=267&w=400&s=83b16374af086fc4eafebaf8a440706414c707f4",
+            "width": 400
+        },
+        "title": "Vil lokke stjerner til United: – Ville signert dem med en gang",
+        "url": "https://www.vg.no/sport/fotball/i/8JVBRW/premier-league-luke-shaw-vil-lokke-tottenhams-harry-kane-og-west-hams-declan-rice-til-manchester-united"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgd43G",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgd43G",
+        "preamble": "ULLEVAAL STADION (VG) Hege Riise har tatt ut troppen til VM i Australia og New Zealand. Keeperplassen var det største usikkerhetsmomentet.",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 09:35:51",
+            "niceformat": "19.06.2023, 09:35",
+            "timestamp": "2023-06-19T07:35:51.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/80a2ddcd-5b5b-4268-80ca-e9fb30848a77?fit=crop&format=auto&h=267&w=400&s=8314145198c8205d08d601caf95477e723511025",
+            "width": 400
+        },
+        "title": "Fiskerstrand tilbake på landslaget: – Det er helt fantastisk",
+        "url": "https://www.vg.no/sport/fotball/i/xgd43G/dette-er-norges-tropp-til-vm-i-fotball-i-australia-og-new-zealand"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB-AFP"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9zeOgr",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9zeOgr",
+        "preamble": "Det amerikanske fotballandslaget sikret seg sin andre strake nasjonsligatittel da de vant 2-0 over Canada i finalen natt til mandag norsk tid.",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 07:36:26",
+            "niceformat": "19.06.2023, 07:36",
+            "timestamp": "2023-06-19T05:36:26.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0d7de9a5-ed7c-4858-81fd-c5dcf8c8675b?fit=crop&format=auto&h=267&w=400&s=5560ad822f5857e285cd880c046dfa509945c539",
+            "width": 400
+        },
+        "title": "USA vant den amerikanske nasjonsligafinalen",
+        "url": "https://www.vg.no/sport/fotball/i/9zeOgr/usa-vant-den-amerikanske-nasjonsligafinalen"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QqnMo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QqnMo",
+        "preamble": "Den norske ledelsen ble forvandlet til et mareritt i sluttminuttene mot Skottland lørdag. I de siste ti minuttene er Norge nå dårligst av alle 53 lag i EM-kvalifiseringen.",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 00:32:42",
+            "niceformat": "19.06.2023, 00:32",
+            "timestamp": "2023-06-18T22:32:42.000Z"
+        },
+        "thumbnail": {
+            "height": 268,
+            "url": "https://akamai.vgc.no/v2/images/8bd14373-edd6-48a8-a90a-32bacd46b480?fit=crop&format=auto&h=268&w=400&s=6ddfec5c2432e4641fd25b75851ffe5be605643f",
+            "width": 400
+        },
+        "title": "Norge avslutter verst i Europa: – Jeg har ikke noe klart svar",
+        "url": "https://www.vg.no/sport/fotball/i/0QqnMo/norge-verst-i-europa-ingen-slipper-inn-flere-maal-i-sluttminuttene"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEzgb5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEzgb5",
+        "preamble": "(Kroatia – Spania 0–0, 4–5 etter straffer) Unai Simon ble helten da Spania vant Nations League. ",
+        "published": {
+            "date": "søndag 18. juni",
+            "datetime": "2023-06-18 23:29:51",
+            "niceformat": "18.06.2023, 23:29",
+            "timestamp": "2023-06-18T21:29:51.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/c0017d85-8260-47bb-9a6b-b0debe109bdb?fit=crop&format=auto&h=267&w=400&s=6c900764a88743b917da0c044ea3f5834c10a4da",
+            "width": 400
+        },
+        "title": "Spanias første trofé på elleve år – Simon ble helten i straffedrama",
+        "url": "https://www.vg.no/sport/fotball/i/zEzgb5/nations-league"
+    },
+    {
+        "authors": [
+            {
+                "email": "svea@vg.no",
+                "id": "f852e5e5-5ba9-48c7-96da-9455a160031f",
+                "name": "Knut Espen Svegaarden"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAkPB5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAkPB5",
+        "preamble": "ULLEVAAL STADION (VG) Det var noe spesielt med seansen under landslagets trening søndag – lagets to største stjerner sto der foran mikrofonene: Erling Braut Haaland og Martin Ødegaard prøvde å lette noe av trykket mot landslagssjef Ståle Solbakken.",
+        "published": {
+            "date": "søndag 18. juni",
+            "datetime": "2023-06-18 19:40:59",
+            "niceformat": "18.06.2023, 19:40",
+            "timestamp": "2023-06-18T17:40:59.000Z"
+        },
+        "thumbnail": {
+            "height": 292,
+            "url": "https://akamai.vgc.no/v2/images/f58840c2-55ba-4fe2-a2a3-218d9e4a6287?fit=crop&format=auto&h=292&w=400&s=d450f003b0007f8ea6ccdfb702c94b119c4d6dca",
+            "width": 400
+        },
+        "title": "Det er nå Solbakken trenger støtte",
+        "url": "https://www.vg.no/sport/fotball/i/wAkPB5/det-er-naa-solbakken-trenger-stoette"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "APBdo5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/APBdo5",
+        "preamble": "Tårene trillet da Truls (5) ikke fikk et bilde og autograf med Erling Braut Haaland før søndagens trening. Da kom NFFs sikkerhetssjef Geir Ellefsen til unnsetning.",
+        "published": {
+            "date": "søndag 18. juni",
+            "datetime": "2023-06-18 18:38:43",
+            "niceformat": "18.06.2023, 18:38",
+            "timestamp": "2023-06-18T16:38:43.000Z"
+        },
+        "thumbnail": {
+            "height": 679,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/ZPqPmpd9auEv.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Fikk drømmemøte med Haaland: – Viser bare hvor fin fyr han er",
+        "url": "https://www.vg.no/sport/fotball/i/APBdo5/truls-5-fikk-et-droemmemoete-med-erling-braut-haaland"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76o08w",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76o08w",
+        "preamble": "ULLEVAAL STADION (VG) Fotballpresident Lise Klaveness gir full støtte til Ståle Solbakken. Selv ønsker ikke landslagssjefen å vurdere jobben han har gjort. ",
+        "published": {
+            "date": "søndag 18. juni",
+            "datetime": "2023-06-18 17:44:16",
+            "niceformat": "18.06.2023, 17:44",
+            "timestamp": "2023-06-18T15:44:16.000Z"
+        },
+        "thumbnail": {
+            "height": 264,
+            "url": "https://akamai.vgc.no/v2/images/b555b742-a051-43b6-89ad-8fabfcad5400?fit=crop&format=auto&h=264&w=400&s=ff5109799d54fceff02e447774b27bcd668d36af",
+            "width": 400
+        },
+        "title": "Klaveness med full støtte til Solbakken: – Overhodet ikke i tvil ",
+        "url": "https://www.vg.no/sport/fotball/i/76o08w/klaveness-med-full-stoette-til-solbakken-overhodet-ikke-i-tvil"
+    }
+]

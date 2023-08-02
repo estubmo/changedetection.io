@@ -1,0 +1,188 @@
+[
+    {
+        "slug": "regjeringen-om-gummigranulat-uro-ikke-behov-for-nasjonal-strategi-naa",
+        "url": "/nyheter/innenriks/i/RG885W/regjeringen-om-gummigranulat-uro-ikke-behov-for-nasjonal-strategi-naa",
+        "title": {
+            "value": "Regjeringen om gummigranulat-uro: – Ikke behov for nasjonal strategi nå"
+        },
+        "description": "Kulturminister Anette Trettebergstuen (Ap) ser ingen grunn til å utarbeide en nasjonal strategi for utbytting av landets kunstgressbaner.",
+        "imageUrl": "95d9dca7-ba67-4951-bf1e-4caed09d552c",
+        "publishedAt": "2023-05-26T04:45:33Z",
+        "lastModifiedAt": "2023-05-26T04:45:33Z",
+        "premium": false,
+        "authors": [
+            "NTB-Stian Grythaugen og Lars Eide"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "kostbar-deila-flytting-faar-kritikk-for-pokerfjes-uttalelser",
+        "url": "/nyheter/innenriks/i/wAXX34/kostbar-deila-flytting-faar-kritikk-for-pokerfjes-uttalelser",
+        "title": {
+            "value": "Kostbar Deila-flytting – får kritikk for «pokerfjes»-uttalelser"
+        },
+        "description": "Club Brugge skal ha betalt 25 millioner kroner til Standard Liège for å hente Ronny Deila som trener. Det skriver flere belgiske aviser.",
+        "imageUrl": "1299a8e8-2f92-4552-9d5e-82be3b47335c",
+        "publishedAt": "2023-05-26T04:35:53Z",
+        "lastModifiedAt": "2023-05-26T04:36:22Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "rosenborg-vaaknet-opp-til-dette",
+        "url": "/sport/fotball/i/nQXboQ/rosenborg-vaaknet-opp-til-dette",
+        "title": {
+            "value": "Rosenborg våknet opp til dette på Lerkendal"
+        },
+        "description": "Natt til fredag har noen hengt opp disse bannerne på Brakka.",
+        "imageUrl": "8f06c093-d784-4a68-889d-c7e6d00507eb",
+        "publishedAt": "2023-05-26T04:27:17Z",
+        "lastModifiedAt": "2023-05-26T05:37:02Z",
+        "premium": true,
+        "authors": [
+            "Yngve Bergli",
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "kjetil-rekdal",
+            "markus-henriksen"
+        ]
+    },
+    {
+        "slug": "eid-senket-sokna",
+        "url": "/lokalfotballen/i/0Q0kRB/eid-senket-sokna",
+        "title": {
+            "value": "Sokna senket av Eid"
+        },
+        "description": "Mats Even Eid sikret tre poeng for Leik da Sokna ble slått 3-2 i 6. divisjon, Trøndelag - Avdeling 6 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T21:16:11Z",
+        "lastModifiedAt": "2023-05-25T21:31:36Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-gauldalsposten",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "gjerdevik-scoret-hattrick-for-nidelv",
+        "url": "/lokalfotballen/i/eJmXrK/gjerdevik-scoret-hattrick-for-nidelv",
+        "title": {
+            "value": "Hattrick-show fra Nidelv"
+        },
+        "description": "Nidelv tok sine første poeng på tre kamper med 3-1 over Selbu i 4. divisjon, Trøndelag - Avdeling 2 i fotball for kvinner torsdag. Lina Gjerdevik slo til med hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T20:44:05Z",
+        "lastModifiedAt": "2023-05-25T21:02:46Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "trond-2-slo-charlottenlund-2-i-maalfest",
+        "url": "/lokalfotballen/i/xgXb0R/trond-2-slo-charlottenlund-2-i-maalfest",
+        "title": {
+            "value": "Trond 2 seiret i målfest"
+        },
+        "description": "Trond 2 slo Charlottenlund 2 8-5 hjemme i G19 2. divisjon, Avdeling 4 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T20:44:05Z",
+        "lastModifiedAt": "2023-05-25T21:03:49Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "vestbyen-2-slo-melhus-2-gimse-2-gauldal-2-i-maalfest",
+        "url": "/lokalfotballen/i/nQXb2d/vestbyen-2-slo-melhus-2-gimse-2-gauldal-2-i-maalfest",
+        "title": {
+            "value": "Vestbyen 2 slo Melhus 2/Gimse 2/Gauldal 2 i målfest"
+        },
+        "description": "Vestbyen 2 slo Melhus 2/Gimse 2/Gauldal 2 4-3 borte i 4. divisjon, Trøndelag - Avdeling 3 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T20:43:04Z",
+        "lastModifiedAt": "2023-05-25T21:31:37Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "langlo-med-maalshow",
+        "url": "/lokalfotballen/i/2BKJzq/langlo-med-maalshow",
+        "title": {
+            "value": "Ranheim 3 ydmyket Flatås"
+        },
+        "description": "Ranheim 3 knuste Flatås 11-0 i 4. divisjon, Trøndelag - Avdeling 3 i fotball. Det var Flatåss første tap i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T20:36:29Z",
+        "lastModifiedAt": "2023-05-25T21:31:35Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "uavgjort-mellom-egge-og-varden-meraaker-i-maalfest",
+        "url": "/lokalfotballen/i/wAXbGG/uavgjort-mellom-egge-og-varden-meraaker-i-maalfest",
+        "title": {
+            "value": "Uavgjort for Egge og Varden Meråker i målfest"
+        },
+        "description": "Egge var på vei mot seier, men måtte nøye seg med 3-3 mot Varden Meråker i 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T20:29:24Z",
+        "lastModifiedAt": "2023-05-25T20:59:28Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "dobbel-fra-olsen-for-nessegutten",
+        "url": "/lokalfotballen/i/zEXbJ1/dobbel-fra-olsen-for-nessegutten",
+        "title": {
+            "value": "Dobbel fra Olsen for Nessegutten"
+        },
+        "description": "Runar Storsve Olsen scoret to ganger da Nessegutten vant 4-3 over Åfjord i 5. divisjon, Trøndelag - Avdeling 1 i fotball torsdag. Åfjord har tapt de siste tre kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T20:29:23Z",
+        "lastModifiedAt": "2023-05-25T20:29:23Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred",
+            "lokalfotballen-fosnafolket"
+        ]
+    }
+]

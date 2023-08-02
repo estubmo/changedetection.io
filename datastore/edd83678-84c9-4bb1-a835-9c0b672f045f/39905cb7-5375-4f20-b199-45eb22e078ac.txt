@@ -1,0 +1,195 @@
+[
+    {
+        "slug": "slaar-tilbake-etter-glimt-profilens-stikk-tydeligvis-har-de-blitt-hoeye-og-moerke-her-oppe",
+        "url": "/sport/fotball/i/mQpjPL/slaar-tilbake-etter-glimt-profilens-stikk-tydeligvis-har-de-blitt-hoeye-og-moerke-her-oppe",
+        "title": {
+            "value": "Slår tilbake etter Glimt-profilens stikk: - Tydeligvis har de blitt høye og mørke her oppe"
+        },
+        "description": "RBK-leiren er uenige i Pellegrinos melding, og slår samtidig tilbake mot Bodø/Glimt.",
+        "imageUrl": "6372cb0f-8a57-47b2-99c0-be1eeadb6ba2",
+        "publishedAt": "2023-05-13T17:55:06Z",
+        "lastModifiedAt": "2023-05-13T18:04:18Z",
+        "premium": true,
+        "authors": [
+            "Even Berthelsen",
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "bodoe-glimt",
+            "fotball",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "glem-tapet-rosenborg-har-funnet-gull",
+        "url": "/sport/i/P4qA1z/glem-tapet-rosenborg-har-funnet-gull",
+        "title": {
+            "value": "Glem tapet, Rosenborg har funnet gull"
+        },
+        "description": "KOMMENTAR: En 16-åring skal ikke redde Rosenborg, men Sverre Nypan var akkurat det trøndersk fotball trengte nå.",
+        "imageUrl": "696ad89c-9091-43ed-b586-cb3b4f0b37b2",
+        "publishedAt": "2023-05-13T17:09:10Z",
+        "lastModifiedAt": "2023-05-13T17:11:44Z",
+        "premium": true,
+        "authors": [
+            "Birger Løfaldli"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "andre-hansen",
+            "markus-henriksen",
+            "edvard-tagseth",
+            "birger-loefaldli",
+            "per-ciljan-skjelbred",
+            "kjetil-knutsen",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "tagseth-ble-dagens-ivers-etter-dobbel-assist",
+        "url": "/sport/i/Moq26m/tagseth-ble-dagens-ivers-etter-dobbel-assist",
+        "title": {
+            "value": "Tagseth ble dagens Ivers etter dobbel assist"
+        },
+        "description": "En høydramatisk kamp i Bodø endte til slutt med nok et RBK-tap.",
+        "imageUrl": "50e47555-7ecf-4415-b776-7630948def78",
+        "publishedAt": "2023-05-13T17:04:45Z",
+        "lastModifiedAt": "2023-05-13T17:16:28Z",
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "fotball",
+            "rosenborg-bk",
+            "sverre-nypan"
+        ]
+    },
+    {
+        "slug": "tapte-i-bodoe-16-aaring-ble-tidenes-yngste-rbk-maalscorer",
+        "url": "/sport/fotball/i/WR3AVk/tapte-i-bodoe-16-aaring-ble-tidenes-yngste-rbk-maalscorer",
+        "title": {
+            "value": "Glimt-stjernens stikk mot RBK: – Kommer ikke langt med de greiene der"
+        },
+        "description": "Sverre Nypan imponerte, RBK scoret to, men da Per Ciljan Skjelbred fikk det røde kortet ble det vanskelig for RBK i Bodø. Nå står Kjetil Rekdals gutter uten seier på de siste seks.",
+        "imageUrl": "cbfb09a0-d26e-44d4-8b31-8734fd4d663b",
+        "publishedAt": "2023-05-13T16:59:13Z",
+        "lastModifiedAt": "2023-05-13T17:54:27Z",
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "ny-seier-for-vuku",
+        "url": "/lokalfotballen/i/4o086a/ny-seier-for-vuku",
+        "title": {
+            "value": "Tredje seier på rad for Vuku"
+        },
+        "description": "Petter Sagvold sto fram med to scoringer da Vuku seiret 4-2 over Heimdal i 4. divisjon, Trøndelag - Avdeling 1 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-13T16:05:22Z",
+        "lastModifiedAt": "2023-05-13T16:21:51Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "ett-poeng-og-ingen-maal-for-ranheim",
+        "url": "/sport/i/4o085G/ett-poeng-og-ingen-maal-for-ranheim",
+        "title": {
+            "value": "Ett poeng og ingen mål for Ranheim"
+        },
+        "description": "Ranheim fant ikke veien til nettmaskene borte mot Raufoss lørdag. 0-0 og ett poeng holdt likevel til å forbli i føringen i førstedivisjon.",
+        "imageUrl": "450d6c63-99b7-4fac-9023-7905caf4a176",
+        "publishedAt": "2023-05-13T16:02:18Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "dolmoey-seiret-borte-mot-selbu",
+        "url": "/lokalfotballen/i/vebKMX/dolmoey-seiret-borte-mot-selbu",
+        "title": {
+            "value": "Dolmøy med borteseier over Selbu"
+        },
+        "description": "Dolmøy slo Selbu 2-0 på Selbu kunstgress i 5. divisjon, Trøndelag - Avdeling 2 i fotball lørdag. Selbu har tapt sine tre siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-13T15:29:32Z",
+        "lastModifiedAt": "2023-05-13T17:20:54Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya"
+        ]
+    },
+    {
+        "slug": "uavgjort-i-maalfest-paa-byaasen-arena",
+        "url": "/lokalfotballen/i/76QGa9/uavgjort-i-maalfest-paa-byaasen-arena",
+        "title": {
+            "value": "Uavgjort i målfest på Byåsen Arena"
+        },
+        "description": "Brian Hustad berget uavgjort for Steinkjer med en sen utligning i 3-3-kampen mot Byåsen i 3. divisjon, Avdeling 5 i fotball. Steinkjer har ikke vunnet på fire kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-13T15:00:22Z",
+        "lastModifiedAt": "2023-05-13T15:23:09Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "raade-senket-verdal",
+        "url": "/lokalfotballen/i/WR3AGL/raade-senket-verdal",
+        "title": {
+            "value": "Verdal senket av Råde"
+        },
+        "description": "Kim André Kristiansen Råde scoret kampens eneste mål da Rana slo Verdal 1-0 i 3. divisjon, Avdeling 5 i fotball for menn lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-13T14:51:01Z",
+        "lastModifiedAt": "2023-05-13T15:50:53Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "ny-seier-for-kvam",
+        "url": "/lokalfotballen/i/8Jvk8x/ny-seier-for-kvam",
+        "title": {
+            "value": "Kvam tok sin tredje seier på rad"
+        },
+        "description": "Frode Guin sikret tre poeng for Kvam da Nærøy ble slått 1-0 i 6. divisjon, Trøndelag - Avdeling 1 i fotball lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-13T14:17:02Z",
+        "lastModifiedAt": "2023-05-13T14:23:35Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    }
+]

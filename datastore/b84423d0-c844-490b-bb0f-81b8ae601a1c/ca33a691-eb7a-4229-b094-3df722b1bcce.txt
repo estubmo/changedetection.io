@@ -1,0 +1,426 @@
+[
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "vegard.aulstad@vg.no",
+                "id": "32320ac9-8b78-4d86-b923-ee64dc408816",
+                "name": "Vegard Aulstad"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "veyR5l",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/veyR5l",
+        "preamble": "ULLEVAAL STADION (VG) To poeng skilte de seks lagene som kjempet om å unngå én nedrykksplass i siste serierunde i Spania. Da Celta Vigo slo seriemester Barcelona i siste runde, tok det fullstendig av i byen.",
+        "published": {
+            "date": "torsdag 15. juni",
+            "datetime": "2023-06-15 13:37:19",
+            "niceformat": "15.06.2023, 13:37",
+            "timestamp": "2023-06-15T11:37:19.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/47a24559-9546-4b2d-9d32-585a1af598c8?fit=crop&format=auto&h=267&w=400&s=d9a469c0ca8db31726c4aca4c3076472b95b38dd",
+            "width": 400
+        },
+        "title": "Strand Larsen avslører vill fest etter nedrykksdrama: – «Crazy» fra start til slutt",
+        "url": "https://www.vg.no/sport/fotball/i/veyR5l/strand-larsen-avsloerer-vill-fest-etter-nedrykksdrama-crazy-fra-start-til-slutt"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Knk0Be",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Knk0Be",
+        "preamble": "Vålerengas midtstopper Aaron Kiil Olsen må belage seg på minst seks uker på sidelinjen etter at han pådro seg en beinbruddskade i en kamp for Vålerengas 2.-lag.",
+        "published": {
+            "date": "torsdag 15. juni",
+            "datetime": "2023-06-15 12:03:31",
+            "niceformat": "15.06.2023, 12:03",
+            "timestamp": "2023-06-15T10:03:31.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/55e1bdb0-d00d-4d28-965e-34ce5d3d4dbb?fit=crop&format=auto&h=267&w=400&s=a7205680d25f5743a4ef971ea46f6deb39bd26fd",
+            "width": 400
+        },
+        "title": "Stopperkrise i Vålerenga: Kiil Olsen ute med beinbrudd i minst seks uker",
+        "url": "https://www.vg.no/sport/fotball/i/Knk0Be/stopperkrise-i-vaalerenga-kiil-olsen-ute-med-beinbrudd-i-minst-seks-uker"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "vegard.aulstad@vg.no",
+                "id": "32320ac9-8b78-4d86-b923-ee64dc408816",
+                "name": "Vegard Aulstad"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEK8R1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEK8R1",
+        "preamble": "ULLEVAAL STADION (VG) Martin Ødegaard (24) og Helene Spilling (27) har allerede offentliggjort forholdet sitt. Utover det ønsker ikke Arsenal-stjernen å utdype stort mer. Han reagerer imidlertid på én ting. ",
+        "published": {
+            "date": "torsdag 15. juni",
+            "datetime": "2023-06-15 11:11:18",
+            "niceformat": "15.06.2023, 11:11",
+            "timestamp": "2023-06-15T09:11:18.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/254f7da2-57e5-4bc1-b580-220e757747f6?fit=crop&format=auto&h=266&w=400&s=beaf6c5f2f9a2812c78ada8f8424efd792d5de7e",
+            "width": 400
+        },
+        "title": "Martin Ødegaard om paparazzi-bilder: – Det er irriterende",
+        "url": "https://www.vg.no/sport/fotball/i/gEK8R1/martin-oedegaard-om-paparazzi-bilder-det-er-irriterende"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            },
+            {
+                "email": "hallgeir.vagenes@vg.no",
+                "id": "899d85f2-c015-4407-a01c-f6ab8cf83f13",
+                "name": "Hallgeir Vågenes (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQG01b",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQG01b",
+        "preamble": "Fotballpresident Lise Klaveness går til topps for å få viljen sin. NFF vil fortsette å bruke gummigranulat på kunstgressbaner – og vil ha penger til en grønn omstilling. ",
+        "published": {
+            "date": "torsdag 15. juni",
+            "datetime": "2023-06-15 10:08:32",
+            "niceformat": "15.06.2023, 10:08",
+            "timestamp": "2023-06-15T08:08:32.000Z"
+        },
+        "thumbnail": {
+            "height": 309,
+            "url": "https://akamai.vgc.no/v2/images/eb5dcaeb-a432-42b1-9ed9-bcf169b99749?fit=crop&format=auto&h=309&w=400&s=c725475e415668387ac0cb056aee0b201d3c5164",
+            "width": 400
+        },
+        "title": "Klaveness møter tre statsråder på én uke: – Vi er dypt bekymret",
+        "url": "https://www.vg.no/sport/fotball/i/JQG01b/klaveness-moeter-tre-statsraader-paa-en-uke-vi-er-dypt-bekymret"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "vegard.aulstad@vg.no",
+                "id": "32320ac9-8b78-4d86-b923-ee64dc408816",
+                "name": "Vegard Aulstad"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5BkaqO",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5BkaqO",
+        "preamble": "ULLEVAAL STADION (VG) Det er over en måned siden Premier League-klare Sander Berge (24) og Sheffield United avsluttet opprykkssesongen. Samme uke som Manchester City vant FA-cupen, tok Erling Braut Haaland (22) noen fridager med kompisen i Marbella.",
+        "published": {
+            "date": "torsdag 15. juni",
+            "datetime": "2023-06-15 08:17:59",
+            "niceformat": "15.06.2023, 08:17",
+            "timestamp": "2023-06-15T06:17:59.000Z"
+        },
+        "thumbnail": {
+            "height": 281,
+            "url": "https://akamai.vgc.no/v2/images/521d4dd0-0a02-43f1-af9d-9e141f68ea80?fit=crop&format=auto&h=281&w=400&s=85ece9c7829ac82332285078bc28c85e58d7cf90",
+            "width": 400
+        },
+        "title": "Berge på Spania-ferie med Haaland før finalene: – Den samme gode gutten",
+        "url": "https://www.vg.no/sport/fotball/i/5BkaqO/berge-paa-spania-ferie-med-haaland-foer-finalene-den-samme-gode-gutten"
+    },
+    {
+        "authors": [
+            {
+                "email": "svea@vg.no",
+                "id": "f852e5e5-5ba9-48c7-96da-9455a160031f",
+                "name": "Knut Espen Svegaarden"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jlM54w",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jlM54w",
+        "preamble": "ULLEVAAL STADION (VG) Da nødvarsel-testen også høylytt runget over Ullevaal stadion, mens det fortsatt manglet én spiller på gressmatta, ropte TV2s Marius Skjelbæk: «Nå kommer Haaland!»",
+        "published": {
+            "date": "torsdag 15. juni",
+            "datetime": "2023-06-15 05:26:06",
+            "niceformat": "15.06.2023, 05:26",
+            "timestamp": "2023-06-15T03:26:06.000Z"
+        },
+        "thumbnail": {
+            "height": 289,
+            "url": "https://akamai.vgc.no/v2/images/6749774d-af1f-4db9-9baf-cacf54584d6e?fit=crop&format=auto&h=289&w=400&s=27208b3652acddb287f882cfdb9f0838dc4a077b",
+            "width": 400
+        },
+        "title": "Må vi ha stjernene minutt for minutt?  Og hva kostet den vesken egentlig?",
+        "url": "https://www.vg.no/sport/fotball/i/jlM54w/maa-vi-ha-stjernene-minutt-for-minutt-og-hva-kostet-den-vesken-egentlig"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            },
+            {
+                "email": "janne.moller-hansen@vg.no",
+                "id": "c15293f1-3f13-4d47-9234-1cae0482f62d",
+                "name": "Janne Møller-Hansen (foto) "
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "KneK86",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/KneK86",
+        "preamble": "NÆRBØ (VG) Jærbuen Kirsten Risa punget på impuls ut 250.000 kroner for det tre meter høye og 700 kg tunge kunstverket av Erling Braut Haaland.",
+        "published": {
+            "date": "torsdag 15. juni",
+            "datetime": "2023-06-15 00:14:27",
+            "niceformat": "15.06.2023, 00:14",
+            "timestamp": "2023-06-14T22:14:27.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/59d26d23-3eab-4aaa-a529-47bff6cdf3e4?fit=crop&format=auto&h=267&w=400&s=6ecf9352e715549053814f3aa1ed977a251471da",
+            "width": 400
+        },
+        "title": "Omdiskutert utgave av Haaland hjelper barn i Tanzania: – Den er kul",
+        "url": "https://www.vg.no/sport/fotball/i/KneK86/kirsten-risa-kjoepte-kjetil-barane-sin-statue-av-erling-braut-haaland-for-250-000-kroner"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "KnkVa4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/KnkVa4",
+        "preamble": "(Nederland-Kroatia 2–4 e.e.o.) Hjemmebane hjalp ikke Nederland. Kroatia er klare for Nations League-finalen. En storspillende Luka Modric avgjorde i Rotterdam.",
+        "published": {
+            "date": "onsdag 14. juni",
+            "datetime": "2023-06-14 23:23:04",
+            "niceformat": "14.06.2023, 23:23",
+            "timestamp": "2023-06-14T21:23:04.000Z"
+        },
+        "thumbnail": {
+            "height": 277,
+            "url": "https://akamai.vgc.no/v2/images/a364ecde-863f-425c-aa89-69e197701250?fit=crop&format=auto&h=277&w=400&s=b29dcf8d0f7f7021c00269a9ce3f1709204e0ea5",
+            "width": 400
+        },
+        "title": "Fantastisk Modric: Kroatia til Nations League-finalen etter drama",
+        "url": "https://www.vg.no/sport/fotball/i/KnkVa4/fantastisk-modric-kroatia-til-nations-league-finalen-etter-drama"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "mQWmmO",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/mQWmmO",
+        "preamble": "Ifølge den engelske avisen vil det koste altfor mye å kjøpe Harry Kane (29) fri fra Tottenham.",
+        "published": {
+            "date": "onsdag 14. juni",
+            "datetime": "2023-06-14 19:10:48",
+            "niceformat": "14.06.2023, 19:10",
+            "timestamp": "2023-06-14T17:10:48.000Z"
+        },
+        "thumbnail": {
+            "height": 269,
+            "url": "https://akamai.vgc.no/v2/images/6d6723af-ccce-40b8-84a1-319dc41b2bcd?fit=crop&format=auto&h=269&w=400&s=080be6f7fd044f949c6c6853ef982348053b3bdc",
+            "width": 400
+        },
+        "title": "The Guardian: Manchester United gir opp Kane",
+        "url": "https://www.vg.no/sport/fotball/i/mQWmmO/the-guardian-manchester-united-gir-opp-kane"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "vegard.aulstad@vg.no",
+                "id": "32320ac9-8b78-4d86-b923-ee64dc408816",
+                "name": "Vegard Aulstad"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "y6yoqA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/y6yoqA",
+        "preamble": "ULLEVAAL STADION (VG) Med tolv seriemål bidro toppscorer Alexander Sørloth (27) sterkt til at Real Sociedad klarte det store målet om Champions League. I tillegg har han blitt en kamerat rikere.",
+        "published": {
+            "date": "onsdag 14. juni",
+            "datetime": "2023-06-14 18:04:31",
+            "niceformat": "14.06.2023, 18:04",
+            "timestamp": "2023-06-14T16:04:31.000Z"
+        },
+        "thumbnail": {
+            "height": 349,
+            "url": "https://akamai.vgc.no/v2/images/6708b55d-7d8f-4cf8-a153-b295923f7770?fit=crop&format=auto&h=349&w=400&s=2c96a69cda748924d55abfd50fa375400b2370c2",
+            "width": 400
+        },
+        "title": "Brennhet Sørloth ble «vennespleiset» med Klæbo: – Fant tonen og ble gode kompiser",
+        "url": "https://www.vg.no/sport/fotball/i/y6yoqA/brennhet-soerloth-ble-vennespleiset-med-klaebo-fant-tonen-og-ble-gode-kompiser"
+    }
+]

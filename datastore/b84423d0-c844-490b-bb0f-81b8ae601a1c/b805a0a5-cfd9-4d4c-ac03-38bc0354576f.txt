@@ -1,0 +1,361 @@
+[
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "pQmgWR",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/pQmgWR",
+        "preamble": "Den tyrkiske storklubben Galatasaray må betale Omar Elabdellaoui rundt 33 millioner norske kroner, mener FIFA.",
+        "published": {
+            "date": "fredag 2. juni",
+            "datetime": "2023-06-02 21:30:32",
+            "niceformat": "02.06.2023, 21:30",
+            "timestamp": "2023-06-02T19:30:32.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/1101006e-fad1-44cc-9997-8b195a4c43d5?fit=crop&format=auto&h=267&w=400&s=934c2b97a3aadc600c4997ff6f1c19189c3e59fc",
+            "width": 400
+        },
+        "title": "FIFA: Galatasaray må betale gigantbeløp til Elabdellaoui",
+        "url": "https://www.vg.no/sport/fotball/i/pQmgWR/fifa-galatasaray-maa-betale-gigantbeloep-til-elabdellaoui"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAXy11",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAXy11",
+        "preamble": "Bodø/Glimt-angriper Amahl Pellegrino (32) er tatt ut på Tanzanias landslag for første gang.",
+        "published": {
+            "date": "fredag 2. juni",
+            "datetime": "2023-06-02 19:41:43",
+            "niceformat": "02.06.2023, 19:41",
+            "timestamp": "2023-06-02T17:41:43.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/66862e24-07a6-4a82-a29a-eecc13701593?fit=crop&format=auto&h=267&w=400&s=218fa354a9ee5a88f1c0d990bf72edd6911c6c26",
+            "width": 400
+        },
+        "title": "Amahl Pellegrino tatt ut på landslaget til Tanzania",
+        "url": "https://www.vg.no/sport/fotball/i/wAXy11/pellegrino-tatt-ut-paa-landslaget-til-tanzania"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "MoWMK0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/MoWMK0",
+        "preamble": "TRONDHEIM (VG) RBKs Edvard Tagseth mener det blir for enkelt å skylde på kun trenerne for den svake sesongstarten til trønderne. ",
+        "published": {
+            "date": "fredag 2. juni",
+            "datetime": "2023-06-02 19:11:33",
+            "niceformat": "02.06.2023, 19:11",
+            "timestamp": "2023-06-02T17:11:33.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/cec9c9dc-8af6-4957-b4dc-190c11eabf0b?fit=crop&format=auto&h=267&w=400&s=8c8c6133712fb790d6029d41b9028fb6e90d9477",
+            "width": 400
+        },
+        "title": "Rosenborg-profilene slår ring om presset trenerteam: – Jeg digger Rekdal og Frigård",
+        "url": "https://www.vg.no/sport/fotball/i/MoWMK0/eliteserien-rosenborg-profilene-slaar-ring-om-kjetil-rekdal"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76L9oK",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76L9oK",
+        "preamble": "Manchester City-manager Pep Guardiola kunne avsløre at både Kevin De Bruyne og Jack Grealish er klar for Manchester Citys FA-cupfinale mot Manchester United på lørdag.",
+        "published": {
+            "date": "fredag 2. juni",
+            "datetime": "2023-06-02 16:50:24",
+            "niceformat": "02.06.2023, 16:50",
+            "timestamp": "2023-06-02T14:50:24.000Z"
+        },
+        "thumbnail": {
+            "height": 304,
+            "url": "https://akamai.vgc.no/v2/images/4ff120ab-cc21-4d81-bcce-3742922d4420?fit=crop&format=auto&h=304&w=400&s=21d75b9bba81ccdf887cd773c17875d892350467",
+            "width": 400
+        },
+        "title": "De Bruyne og Grealish friskmeldt til FA-cupfinalen",
+        "url": "https://www.vg.no/sport/fotball/i/76L9oK/de-bruyne-og-grealish-friskmeldt-til-fa-cupfinalen"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WRd4xr",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WRd4xr",
+        "preamble": "Den portugisiske fotballstjernen Rafael Leão (23) har skrevet under på en ny kontrakt med AC Milan som binder han til klubben fram til sommeren 2028.",
+        "published": {
+            "date": "fredag 2. juni",
+            "datetime": "2023-06-02 16:23:09",
+            "niceformat": "02.06.2023, 16:23",
+            "timestamp": "2023-06-02T14:23:09.000Z"
+        },
+        "thumbnail": {
+            "height": 257,
+            "url": "https://akamai.vgc.no/v2/images/ffd0e976-0800-4436-ba8d-7c34ae02c739?fit=crop&format=auto&h=257&w=400&s=790a50ad0e281ca1dc79ea0d17e88b108935eca8",
+            "width": 400
+        },
+        "title": "Leão skrev ny femårskontrakt med Milan",
+        "url": "https://www.vg.no/sport/fotball/i/WRd4xr/leao-skrev-ny-femaarskontrakt-med-milan"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q1XKkw",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q1XKkw",
+        "preamble": "Synne Skinnes Hansen (27) bytter ut Rosenborg med tyske Bayer Leverkusen til sommeren. ",
+        "published": {
+            "date": "fredag 2. juni",
+            "datetime": "2023-06-02 15:40:18",
+            "niceformat": "02.06.2023, 15:40",
+            "timestamp": "2023-06-02T13:40:18.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/32295ba7-a926-4f32-9c3e-3b7f51ed4aad?fit=crop&format=auto&h=267&w=400&s=bc55eef26a4adf41abc1a3be66f4bbf42d7dd982",
+            "width": 400
+        },
+        "title": "Skinnes Hansen klar for Bayer Leverkusen",
+        "url": "https://www.vg.no/sport/fotball/i/q1XKkw/skinnes-hansen-klar-for-bayer-leverkusen"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3EQl80",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3EQl80",
+        "preamble": "EINDHOVEN (VG) Caroline Graham Hansen (28) synes lite om at FA-cupfinalen og kvinnenes Champions League-finale spilles på samme tid. ",
+        "published": {
+            "date": "fredag 2. juni",
+            "datetime": "2023-06-02 15:21:43",
+            "niceformat": "02.06.2023, 15:21",
+            "timestamp": "2023-06-02T13:21:43.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/3ddf2786-b176-4561-a1ec-ffd8c86db678?fit=crop&format=auto&h=300&w=400&s=a52c3db05d51d918f51c5647c995a56a7e67abbf",
+            "width": 400
+        },
+        "title": "Reagerer på finale-krasj med Haaland: – Respektløst",
+        "url": "https://www.vg.no/sport/fotball/i/3EQl80/reagerer-paa-finale-krasj-med-haaland-respektloest"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Q0ey2",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Q0ey2",
+        "preamble": "Uefa bekrefter at polske Szymon Marciniak skal dømme mesterligafinalen til tross for at han talte på et arrangement ledet av en høyreekstrem politiker.",
+        "published": {
+            "date": "fredag 2. juni",
+            "datetime": "2023-06-02 13:10:19",
+            "niceformat": "02.06.2023, 13:10",
+            "timestamp": "2023-06-02T11:10:19.000Z"
+        },
+        "thumbnail": {
+            "height": 270,
+            "url": "https://akamai.vgc.no/v2/images/6930afc8-7ef0-4cf0-850f-6bb0f642614f?fit=crop&format=auto&h=270&w=400&s=5decd806670024fd773b87c5bbd5f8190c955318",
+            "width": 400
+        },
+        "title": "Marciniak beklaget til Uefa – får dømme mesterligafinalen",
+        "url": "https://www.vg.no/sport/fotball/i/0Q0ey2/marciniak-beklaget-til-uefa-faar-doemme-mesterligafinalen"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "APkWV5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/APkWV5",
+        "preamble": "Oslo sier nei til gummigranulat. Men fotballpresident Lise Klaveness jobber nå aktivt mot Oslo-forbudet. ",
+        "published": {
+            "date": "fredag 2. juni",
+            "datetime": "2023-06-02 10:37:36",
+            "niceformat": "02.06.2023, 10:37",
+            "timestamp": "2023-06-02T08:37:36.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/79847f5c-bbde-499c-88df-3c47e962f900?fit=crop&format=auto&h=267&w=400&s=d5c466b083e68dd72ea2e1f780623da1449f255d",
+            "width": 400
+        },
+        "title": "Fotballpresident Lise Klaveness jobber mot Oslos «forbud» mot gummigranulat",
+        "url": "https://www.vg.no/sport/fotball/i/APkWV5/klaveness-vil-oppheve-oslos-forbud-mot-gummigranulat"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "y6Xkog",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/y6Xkog",
+        "preamble": "Erling Braut Haaland og Manchester City er to kamper unna en bragd bare erkerival Manchester United har klart før dem i England.",
+        "published": {
+            "date": "fredag 2. juni",
+            "datetime": "2023-06-02 09:33:51",
+            "niceformat": "02.06.2023, 09:33",
+            "timestamp": "2023-06-02T07:33:51.000Z"
+        },
+        "thumbnail": {
+            "height": 282,
+            "url": "https://akamai.vgc.no/v2/images/a7db1018-339a-4ae6-b997-907f7e156882?fit=crop&format=auto&h=282&w=400&s=04761134db08888eeab16177b59b96c93533d930",
+            "width": 400
+        },
+        "title": "Haaland kan skrive historie: – Vil være uvirkelig",
+        "url": "https://www.vg.no/sport/fotball/i/y6Xkog/haaland-kan-skrive-historie-vil-vaere-uvirkelig"
+    }
+]

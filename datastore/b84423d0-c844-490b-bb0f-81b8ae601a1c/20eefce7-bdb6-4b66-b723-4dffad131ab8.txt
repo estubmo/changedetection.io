@@ -1,0 +1,372 @@
+[
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9zeXWq",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9zeXWq",
+        "preamble": "Landslagssjefens sønn, Sondre Solbakken, venter barn.",
+        "published": {
+            "date": "fredag 23. juni",
+            "datetime": "2023-06-23 09:32:52",
+            "niceformat": "23.06.2023, 09:32",
+            "timestamp": "2023-06-23T07:32:52.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/58103e6a-d9b2-466d-b580-3798e7135316?fit=crop&format=auto&h=267&w=400&s=f63619eafaa3562a4434896efeb3ba7fce843fa5",
+            "width": 400
+        },
+        "title": "Ståle Solbakken skal bli bestefar",
+        "url": "https://www.vg.no/sport/fotball/i/9zeXWq/staale-solbakken-skal-bli-bestefar"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "APBXG3",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/APBXG3",
+        "preamble": "Liverpool-stjernen er sterkt ønsket i Midtøsten.",
+        "published": {
+            "date": "fredag 23. juni",
+            "datetime": "2023-06-23 08:48:55",
+            "niceformat": "23.06.2023, 08:48",
+            "timestamp": "2023-06-23T06:48:55.000Z"
+        },
+        "thumbnail": {
+            "height": 272,
+            "url": "https://akamai.vgc.no/v2/images/039aed57-bde7-4e2a-8b4d-0eff90b37169?fit=crop&format=auto&h=272&w=400&s=6103d2c508ff44fb418835c5c25c3e3d95982231",
+            "width": 400
+        },
+        "title": "Fotballmagasin: Saudi-Arabia jakter Salah",
+        "url": "https://www.vg.no/sport/fotball/i/APBXG3/fotballmagasin-saudi-arabia-jakter-salah"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB-Reuters"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "KnXlGo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/KnXlGo",
+        "preamble": "Spissveteranen Edin Dzeko (37) forlater den italienske toppklubben Inter til fordel for tyrkiske Fenerbahce.",
+        "published": {
+            "date": "fredag 23. juni",
+            "datetime": "2023-06-23 08:40:09",
+            "niceformat": "23.06.2023, 08:40",
+            "timestamp": "2023-06-23T06:40:09.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/04c92e16-cbad-434f-bc29-330ef6f5a48d?fit=crop&format=auto&h=267&w=400&s=952b27dacf3b0ccb722890b8b9dd8a666841a69a",
+            "width": 400
+        },
+        "title": "Dzeko forlater Inter – klar for Fenerbahce",
+        "url": "https://www.vg.no/sport/fotball/i/KnXlGo/dzeko-forlater-inter-klar-for-fenerbache"
+    },
+    {
+        "authors": [
+            {
+                "email": "svea@vg.no",
+                "id": "f852e5e5-5ba9-48c7-96da-9455a160031f",
+                "name": "Knut Espen Svegaarden"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3aOdk",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3aOdk",
+        "preamble": "MAJORSTUA (VG) Dag-Eilev Fagermo (56) sier det er «et personlig nederlag» at han ikke klarte å løfte Vålerenga forbi det middelmådige i norsk fotball. Han tar selvkritikk på flere områder og er samtidig tilbakeholden med kritikk av lederne sine i klubben.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 22:45:18",
+            "niceformat": "22.06.2023, 22:45",
+            "timestamp": "2023-06-22T20:45:18.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/681f2286-d403-4cdc-921f-de1c5dde02f5?fit=crop&format=auto&h=267&w=400&s=fb638889f60188836473847d71f2b474e81c95f7",
+            "width": 400
+        },
+        "title": "«I Vålerenga blir du spist»",
+        "url": "https://www.vg.no/sport/fotball/i/l3aOdk/dag-eilev-fagermo-snakker-ut-etter-sparkingen-i-vaalerenga-blir-du-spist"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "abeaxM",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/abeaxM",
+        "preamble": "Roma-trener José Mourinho er ikke lenger en del av Uefas fotballstyre. Portugiseren gir seg med en gang.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 22:29:36",
+            "niceformat": "22.06.2023, 22:29",
+            "timestamp": "2023-06-22T20:29:36.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a73b09b0-73f7-4ba0-be7c-4ff1fb476e51?fit=crop&format=auto&h=267&w=400&s=33377ce6ff6f4cbf6feb3e510a21b3b43f07c9ec",
+            "width": 400
+        },
+        "title": "Mourinho:  Trekker seg med umiddelbar virkning",
+        "url": "https://www.vg.no/sport/fotball/i/abeaxM/mourinho-trekker-seg-med-umiddelbar-virkning"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEzVy5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEzVy5",
+        "preamble": "Flere medier skriver at Saudi-Arabia gir opp planene om å arrangere fotball-VM i 2030 sammen med Hellas og Egypt.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 22:21:32",
+            "niceformat": "22.06.2023, 22:21",
+            "timestamp": "2023-06-22T20:21:32.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/cea21022-2a96-4758-bb05-d713303a6561?fit=crop&format=auto&h=267&w=400&s=769541a1f05178492c95d6c2447691957183e1fd",
+            "width": 400
+        },
+        "title": "Medier: Saudi-Arabia gir opp drømmen om å arrangere fotball-VM",
+        "url": "https://www.vg.no/sport/fotball/i/zEzVy5/medier-saudi-arabia-gir-opp-droemmen-om-aa-arrangere-fotball-vm"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "MoXj90",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/MoXj90",
+        "preamble": "CLUJ, ROMANIA (VG) Sivert Mannsverk (21) ble byttet ut i pausen mot Sveits. Fra sidelinjen så Molde-bautaen laget tape 1–2 i EM-åpningen.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 22:06:50",
+            "niceformat": "22.06.2023, 22:06",
+            "timestamp": "2023-06-22T20:06:50.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/OWJSARcQvfwY.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "U21-profil forbannet etter sjefens valg: – Jeg forstår ingenting",
+        "url": "https://www.vg.no/sport/fotball/i/MoXj90/u21-profil-forbannet-etter-sjefens-valg-jeg-forstaar-ingenting"
+    },
+    {
+        "authors": [
+            {
+                "email": "svea@vg.no",
+                "id": "f852e5e5-5ba9-48c7-96da-9455a160031f",
+                "name": "Knut Espen Svegaarden"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEzVlq",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEzVlq",
+        "preamble": "(Norge-Sveits 1–2) Internasjonal fotball er nådeløs, det er marginer hele veien, også på U21-nivå. Landslagssjef Leif Gunnar Smerud valgte Mads Hedenstad Christiansen foran Kristoffer Klaesson i mål - og må leve med det.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 20:28:11",
+            "niceformat": "22.06.2023, 20:28",
+            "timestamp": "2023-06-22T18:28:11.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/2c69e349-ac7a-487a-9d89-b6cd25c16599?fit=crop&format=auto&h=267&w=400&s=81f3c718caac0c37b1299b6192b0e3b6a2e4b661",
+            "width": 400
+        },
+        "title": "Ikke godt nok på dette nivået",
+        "url": "https://www.vg.no/sport/fotball/i/zEzVlq/ikke-godt-nok-paa-dette-nivaaet"
+    },
+    {
+        "authors": [
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            },
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            },
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgd91n",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgd91n",
+        "preamble": "CLUJ, ROMANIA (VG) (Norge U21 – Sveits U21 1–2) Mads Hedenstad Christiansen (22) fikk hovedskylden for Norges krisestart i EM. Etter kampen uttalte landslagssjef Leif Gunnar Smerud (46) at Kristoffer Klaesson (22) står i mål mot Frankrike og at det var avtalt i forkant, noe Christiansen reagerer på.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 19:52:58",
+            "niceformat": "22.06.2023, 19:52",
+            "timestamp": "2023-06-22T17:52:58.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/316f1817-29b1-4ef6-ba6a-d0af876924d5?fit=crop&format=auto&h=267&w=400&s=c57a70b59fe0de04f67d6270e41e47b6dcae64e9",
+            "width": 400
+        },
+        "title": "Keeper Christiansen med tabbe i EM-nedtur - ble overrasket over beskjed om benking",
+        "url": "https://www.vg.no/sport/fotball/i/xgd91n/u21-em-norge-tapte-foerste-gruppekampen-mot-sveits"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPXa64",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPXa64",
+        "preamble": "De amerikanske eierne av Premier League-klubben Chelsea har inngått en avtale om å kjøpe opp den franske Ligue 1-klubben Strasbourg.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 19:46:10",
+            "niceformat": "22.06.2023, 19:46",
+            "timestamp": "2023-06-22T17:46:10.000Z"
+        },
+        "thumbnail": {
+            "height": 265,
+            "url": "https://akamai.vgc.no/v2/images/fe64a6e8-d966-4a86-ab92-3061dc40e709?fit=crop&format=auto&h=265&w=400&s=ea9f59895f8ea7e50871081cce69145952a32435",
+            "width": 400
+        },
+        "title": "Chelsea-eierne har kjøpt Ligue 1-klubben Strasbourg",
+        "url": "https://www.vg.no/sport/fotball/i/VPXa64/chelsea-eierne-har-kjoept-ligue-1-klubben-strasbourg"
+    }
+]

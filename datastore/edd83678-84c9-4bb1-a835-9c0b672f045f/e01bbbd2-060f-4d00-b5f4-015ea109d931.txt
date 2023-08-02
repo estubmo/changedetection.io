@@ -1,0 +1,203 @@
+[
+    {
+        "slug": "direkte-fra-lerkendal-rbk-svarer-om-rekdals-exit",
+        "url": "/sport/fotball/i/5BkAwz/direkte-fra-lerkendal-rbk-svarer-om-rekdals-exit",
+        "title": {
+            "value": "– Jeg fikk spørsmålet om å ta over i dag"
+        },
+        "description": "Det blir pressekonferanse fra Lerkendal klokken 15.15.",
+        "imageUrl": "2154676a-0330-45b0-ab15-71daac472ee7",
+        "publishedAt": "2023-06-16T13:04:07Z",
+        "lastModifiedAt": "2023-06-16T13:43:07Z",
+        "premium": true,
+        "authors": [
+            "Christian Stendal"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "rosenborg-bk",
+            "cecilie-gotaas-johnsen"
+        ]
+    },
+    {
+        "slug": "bekreftet-rekdal-ferdig-i-rbk",
+        "url": "/sport/fotball/i/eJ02EO/bekreftet-rekdal-ferdig-i-rbk",
+        "title": {
+            "value": " - Skuffende å ikke få fullført oppdraget"
+        },
+        "description": "Det melder klubben i en pressemelding.",
+        "imageUrl": "a6f74a9f-d1e2-44b1-9176-6d95326c446b",
+        "publishedAt": "2023-06-16T12:52:13Z",
+        "lastModifiedAt": "2023-06-16T13:12:20Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "kjetil-rekdal",
+            "svein-maalen"
+        ]
+    },
+    {
+        "slug": "se-direkte-fra-lerkendal",
+        "url": "/sport/fotball/i/3E7lEA/se-direkte-fra-lerkendal",
+        "title": {
+            "value": "Se sendingen fra Lerkendal: - Har vært et voldsomt press"
+        },
+        "description": "Følg Adresseavisens sending fra dramaet på Lerkendal.",
+        "imageUrl": "79b0575a-92fd-4adb-bac0-2de9d8c9b429",
+        "publishedAt": "2023-06-16T11:45:14Z",
+        "lastModifiedAt": "2023-06-16T12:17:49Z",
+        "premium": true,
+        "authors": [],
+        "tags": [
+            "fotball",
+            "kjetil-rekdal",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "rekdal-sparkingen-uunngaaelig",
+        "url": "/sport/fotball/i/BWnA5Q/rekdal-sparkingen-uunngaaelig",
+        "title": {
+            "value": " - En spillemessig katastrofe"
+        },
+        "description": "Adressa-kommentator Birger Løfaldli mener Rosenborg ikke hadde noe valg. Mens Jesper Mathisen er klar på at det både spille- og resultatmessig har vært levert altfor dårlig på Lerkendal.",
+        "imageUrl": "12297801-f4f0-46af-b0dd-46e9a527217d",
+        "publishedAt": "2023-06-16T11:14:56Z",
+        "lastModifiedAt": "2023-06-16T12:23:16Z",
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal",
+            "Johannes Strand"
+        ],
+        "tags": [
+            "markus-henriksen",
+            "fotball",
+            "kjetil-rekdal",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "rekdal-skal-ha-faatt-sparken",
+        "url": "/sport/fotball/i/wA57on/rekdal-skal-ha-faatt-sparken",
+        "title": {
+            "value": "Rekdal ferdig - erstatteren ut året er klar"
+        },
+        "description": "Både Kjetil Rekdal og assistent Geir Frigård skal ha fått beskjeden torsdag.",
+        "imageUrl": "3740e599-e7d2-486e-8f70-1ca52dd9e2e9",
+        "publishedAt": "2023-06-16T10:23:20Z",
+        "lastModifiedAt": "2023-06-16T12:23:47Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand",
+            "Ole K. Sagbakken",
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "kjetil-rekdal"
+        ]
+    },
+    {
+        "slug": "ranheim-henter-eliteserie-spiller",
+        "url": "/sport/fotball/i/O80Gy3/ranheim-henter-eliteserie-spiller",
+        "title": {
+            "value": "Ranheim henter eliteserie-spiller"
+        },
+        "description": "Skadesituasjonen tvinger Ranheim til å hente inn en forsterkning. Løsningen ble funnet i Haugesund.",
+        "imageUrl": "db74ffb4-b1af-434f-9e6f-ff39bf35effa",
+        "publishedAt": "2023-06-16T09:33:03Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "fotball",
+            "bodoe-glimt",
+            "fk-haugesund",
+            "ranheim-tf",
+            "obos-ligaen",
+            "eliteserien"
+        ]
+    },
+    {
+        "slug": "alander-boettet-inn-maal-mot-budal",
+        "url": "/lokalfotballen/i/dwzxwo/alander-boettet-inn-maal-mot-budal",
+        "title": {
+            "value": "Alander bøttet inn mål mot Budal"
+        },
+        "description": "Oline Alander sto fram med fire mål da Vestbyen 2 vant 16-1 over Budal i 4. divisjon, Trøndelag - Avdeling 3 i fotball. Budal har gått poengløse av banen i alle kampene sine hittil i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-16T07:31:06Z",
+        "lastModifiedAt": "2023-06-16T07:31:06Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-gauldalsposten",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "dropper-legebesoek-etter-gjentatte-brudd-gidder-ikke-bruke-tid-paa-det",
+        "url": "/sport/fotball/i/wA5GyP/dropper-legebesoek-etter-gjentatte-brudd-gidder-ikke-bruke-tid-paa-det",
+        "title": {
+            "value": "Dropper legebesøk etter gjentatte brudd: – Gidder ikke bruke tid på det"
+        },
+        "description": "Etter seks nesebrudd har Hitra-helten Sindre Kvakland lært seg å ta saken i egne hender.",
+        "imageUrl": "1017a222-bbf9-4c73-a57e-a1a019373ff1",
+        "publishedAt": "2023-06-16T06:43:58Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "hitra",
+            "breddefotbaill",
+            "lokalfotballen"
+        ]
+    },
+    {
+        "slug": "foreslaar-endringer-til-trondheim-vm-dabbet-av-og-blitt-kjedelig-aa-se-paa",
+        "url": "/sport/langrenn/i/O80MJb/foreslaar-endringer-til-trondheim-vm-dabbet-av-og-blitt-kjedelig-aa-se-paa",
+        "title": {
+            "value": "NRK varsler grep til Trondheim-VM"
+        },
+        "description": "Fem NTNU-studenter mener langrenn henger etter som TV-sport. Nå varsler NRK grep til 2025.",
+        "imageUrl": "0e85fe21-807a-43f5-b842-231cc6c09679",
+        "publishedAt": "2023-06-16T06:43:53Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "ski-vm-2025",
+            "langrenn",
+            "kristin-murer-stemland",
+            "nrk"
+        ]
+    },
+    {
+        "slug": "klaveness-advarer-kommunene-i-granulatsaken-de-neste-maanedene-er-avgjoerende",
+        "url": "/nyheter/innenriks/i/158mJJ/klaveness-advarer-kommunene-i-granulatsaken-de-neste-maanedene-er-avgjoerende",
+        "title": {
+            "value": "Klaveness advarer kommunene i granulatsaken: – De neste månedene er avgjørende"
+        },
+        "description": "Fotballpresident Lise Klaveness sier at resten av året er viktig i kampen for å sikre kunstgressbaner og veien videre før granulatforbudet slår inn.",
+        "imageUrl": "2dec4fcb-6059-4fea-aec8-bc199c956c48",
+        "publishedAt": "2023-06-16T05:16:04Z",
+        "lastModifiedAt": "2023-06-16T05:16:04Z",
+        "premium": false,
+        "authors": [
+            "NTB-Lars Eide"
+        ],
+        "tags": []
+    }
+]

@@ -1,0 +1,355 @@
+[
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "nQJ9Ro",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/nQJ9Ro",
+        "preamble": "Evig unge Gianluigi Buffon (45) bekrefter at karrieren er slutt, 28 år etter at den var startet.",
+        "published": {
+            "date": "onsdag 2. august",
+            "datetime": "2023-08-02 15:26:03",
+            "niceformat": "02.08.2023, 15:26",
+            "timestamp": "2023-08-02T13:26:03.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/8d190685-1bf7-474a-9553-cdf5cf0e2a85?fit=crop&format=auto&h=267&w=400&s=31b37219622d65bca844c4e9a682d9cd96ea59c7",
+            "width": 400
+        },
+        "title": "Keeperlegende Buffon bekrefter at han legger opp",
+        "url": "https://www.vg.no/sport/fotball/i/nQJ9Ro/buffon-bekrefter-at-han-legger-opp"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wALrpA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wALrpA",
+        "preamble": "Brasil måtte slå Jamaica for å ta seg videre i VM. Det klarte de ikke. Dermed er enda en overraskelse et faktum.",
+        "published": {
+            "date": "onsdag 2. august",
+            "datetime": "2023-08-02 13:53:21",
+            "niceformat": "02.08.2023, 13:53",
+            "timestamp": "2023-08-02T11:53:21.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/d43ea3e8-56d7-4d99-b03a-52c701b76c94?fit=crop&format=auto&h=267&w=400&s=5ee2a712f10159c84efb1f869d6896fc1c93b79e",
+            "width": 400
+        },
+        "title": "VM-fiasko for Brasil – utslått i gruppespillet",
+        "url": "https://www.vg.no/sport/fotball/i/wALrpA/fotball-vm-brasil-er-ute-av-vm"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "abBJnE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/abBJnE",
+        "preamble": "Lillestrøm og Petter Myhre avslutter arbeidsforholdet.",
+        "published": {
+            "date": "onsdag 2. august",
+            "datetime": "2023-08-02 13:46:13",
+            "niceformat": "02.08.2023, 13:46",
+            "timestamp": "2023-08-02T11:46:13.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/c5608a35-7d59-4ab9-ab05-1805f6c58a85?fit=crop&format=auto&h=267&w=400&s=689dff57bbe787cf867db6c1007f828f03e8fe4a",
+            "width": 400
+        },
+        "title": "Petter Myhre er ferdig i LSK",
+        "url": "https://www.vg.no/sport/fotball/i/abBJnE/myhre-er-ferdig-i-lsk"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69gq5e",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69gq5e",
+        "preamble": "Videodømmingen i norsk fotball sliter med å overbevise klubbtilhengerne. Norsk Supporterallianse vil ha protester på alle tribuner i Eliteserien.",
+        "published": {
+            "date": "onsdag 2. august",
+            "datetime": "2023-08-02 12:06:15",
+            "niceformat": "02.08.2023, 12:06",
+            "timestamp": "2023-08-02T10:06:15.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/121f8908-b2bc-4018-84bd-cf4701e198f7?fit=crop&format=auto&h=267&w=400&s=f442e5edf2d2c8733747c029f55bef386cf48136",
+            "width": 400
+        },
+        "title": "Supportermiljøet varsler VAR-motstand på alle Eliteseriens arenaer – stilleaksjon i 15 minutter",
+        "url": "https://www.vg.no/sport/fotball/i/69gq5e/supportermiljoeet-varsler-var-motstand-paa-alle-eliteseriens-arenaer-stilleaksjon-i-15-minutter"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jl700q",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jl700q",
+        "preamble": "To minutter på overtid sendte kaptein Thembi Kgatlana Italia hjem og Sør-Afrika videre til åttendedelsfinale.",
+        "published": {
+            "date": "onsdag 2. august",
+            "datetime": "2023-08-02 11:19:56",
+            "niceformat": "02.08.2023, 11:19",
+            "timestamp": "2023-08-02T09:19:56.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/9534eb40-f6cf-4ab1-bd5a-ffc6dea09015?fit=crop&format=auto&h=267&w=400&s=7b24d6d802256f0312b3c218a363e7ca47be860d",
+            "width": 400
+        },
+        "title": "Sjokkexit i VM – Utrolig selvmål ble avgjørende da Italia røk ut",
+        "url": "https://www.vg.no/sport/fotball/i/jl700q/sjokkexit-i-vm-soer-afrika-slo-ut-italia-mens-sverige-tok-seg-av-argentina"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8Joqgx",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8Joqgx",
+        "preamble": "Marcelo forlot banen i tårer da han med et uhell tråkket det venstre kneet til en motstander ut av ledd.",
+        "published": {
+            "date": "onsdag 2. august",
+            "datetime": "2023-08-02 10:11:55",
+            "niceformat": "02.08.2023, 10:11",
+            "timestamp": "2023-08-02T08:11:55.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/88b0b2e4-a12c-4939-8266-66cbf2aa5d48?fit=crop&format=auto&h=267&w=400&s=5d1a62602f0e5348c80d37a2756d2f249afe26c6",
+            "width": 400
+        },
+        "title": "Real Madrid-legende av banen i tårer etter skrekkskade",
+        "url": "https://www.vg.no/sport/fotball/i/8Joqgx/real-madrid-legende-av-banen-i-taarer-etter-skrekkskade"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WRB05K",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WRB05K",
+        "preamble": "Robert Taylor (28) la bak seg over 100 seriekamper i Norge. De siste ukene har finnen vært tett på Lionel Messi-hysteriet i USA.",
+        "published": {
+            "date": "onsdag 2. august",
+            "datetime": "2023-08-02 08:58:53",
+            "niceformat": "02.08.2023, 08:58",
+            "timestamp": "2023-08-02T06:58:53.000Z"
+        },
+        "thumbnail": {
+            "height": 401,
+            "url": "https://akamai.vgc.no/v2/images/b678c33c-5959-48c0-bf28-58d5d6cf04a8?fit=crop&format=auto&h=401&w=400&s=d2a31822d46dedfa62e1f0198f9e8fd67cc2e97b",
+            "width": 400
+        },
+        "title": "Tidligere eliteseriespiller om å bli Messi-kamerat: – Galskap",
+        "url": "https://www.vg.no/sport/fotball/i/WRB05K/tidligere-eliteseriespiller-om-aa-bli-messi-kamerat-galskap"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB-AFP"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "mQdP4p",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/mQdP4p",
+        "preamble": "Barcelona-trener Xavi Hernandez bekreftet onsdag at Ousmane Dembélé ønsker å forlate klubben til fordel for franske Paris Saint-Germain.",
+        "published": {
+            "date": "onsdag 2. august",
+            "datetime": "2023-08-02 08:43:01",
+            "niceformat": "02.08.2023, 08:43",
+            "timestamp": "2023-08-02T06:43:01.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/e7a5c48d-430f-494b-bbe9-9bf748614a20?fit=crop&format=auto&h=267&w=400&s=a2e04e8fc404b11f7a48a6ba5a7df05781f49a50",
+            "width": 400
+        },
+        "title": "Xavi bekrefter PSG-interesse for Dembélé: – Han har bestemt seg for å dra",
+        "url": "https://www.vg.no/sport/fotball/i/mQdP4p/xavi-bekrefter-psg-interesse-for-dembele-han-har-bestemt-seg-for-aa-dra"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q1wPAz",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q1wPAz",
+        "preamble": "AUCKLAND (VG) New Zealand-vinter har bydd på regn, sol, vind og kalde temperaturer. Onsdag meldte to elementer til sin ankomst: Hagl og snø. Det skapte utfordringer. ",
+        "published": {
+            "date": "onsdag 2. august",
+            "datetime": "2023-08-02 05:03:57",
+            "niceformat": "02.08.2023, 05:03",
+            "timestamp": "2023-08-02T03:03:57.000Z"
+        },
+        "thumbnail": {
+            "height": 284,
+            "url": "https://akamai.vgc.no/v2/images/a0e6d50a-2508-4f21-83d4-34bb8f81b3f9?fit=crop&format=auto&h=284&w=400&s=0cff6230f5028a9f67cd71c25841ad345b91881c",
+            "width": 400
+        },
+        "title": "Rammet av «ekstremvær»: – Ille ",
+        "url": "https://www.vg.no/sport/fotball/i/q1wPAz/rammet-av-ekstremvaer-ille"
+    },
+    {
+        "authors": [
+            {
+                "email": "lisa.amdam.tetlie@schibsted.com",
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "KnRn75",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/KnRn75",
+        "preamble": "Etter 28 år i toppfotballen, skal Gianluigi Buffon (45) være klar for å legge keeperhanskene på hylla.",
+        "published": {
+            "date": "tirsdag 1. august",
+            "datetime": "2023-08-01 23:58:10",
+            "niceformat": "01.08.2023, 23:58",
+            "timestamp": "2023-08-01T21:58:10.000Z"
+        },
+        "thumbnail": {
+            "height": 260,
+            "url": "https://akamai.vgc.no/v2/images/2dbe738f-5912-4c11-91a1-8795e19783d3?fit=crop&format=auto&h=260&w=400&s=7684280cb069e1ef499d415120faab484a1315a7",
+            "width": 400
+        },
+        "title": "Medier: Keeperlegende Buffon legger opp",
+        "url": "https://www.vg.no/sport/fotball/i/KnRn75/flere-medier-gianluigi-buffon-legger-opp"
+    }
+]

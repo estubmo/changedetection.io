@@ -1,0 +1,204 @@
+[
+    {
+        "slug": "signe-nergaard-i-scoringshumoer",
+        "url": "/lokalfotballen/i/l3Le4e/signe-nergaard-i-scoringshumoer",
+        "title": {
+            "value": "Dobbel lykke da Freidig 2 9er vant"
+        },
+        "description": "Med 4-2-seier i dagens kamp har Freidig 2 9er tatt poeng i fem kamper på rad i J15 2. divisjon, Avdeling 4 - Vår torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-08T19:36:20Z",
+        "lastModifiedAt": "2023-06-08T20:02:39Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "storseier-for-kolstad-2",
+        "url": "/lokalfotballen/i/eJ0eaO/storseier-for-kolstad-2",
+        "title": {
+            "value": "Knusende seier for Kolstad 2"
+        },
+        "description": "Inge Marius Fossdal førte an med tre av målene i 6-0-seieren over Bjørgan/Åfjord 2 i 6. divisjon, Trøndelag - Avdeling 3 torsdag. Kolstad 2 har fem seirer på sine seks siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-08T19:36:20Z",
+        "lastModifiedAt": "2023-06-08T20:01:38Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-fosnafolket",
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "storseier-for-soerlia-2-7er",
+        "url": "/lokalfotballen/i/MoJm5R/storseier-for-soerlia-2-7er",
+        "title": {
+            "value": "Tredje seier på rad for Sørlia 2 7er"
+        },
+        "description": "Sørlia 2 7er knuste Malm/Follafoss 7er 6-2 i 7er, Trøndelag i fotball for menn. Malm/Follafoss 7er har gått poengløse av banen i alle kampene sine så langt i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-08T19:24:23Z",
+        "lastModifiedAt": "2023-06-08T19:29:49Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "snaasa-tok-sin-aattende-seier-paa-rad",
+        "url": "/lokalfotballen/i/pQmlpj/snaasa-tok-sin-aattende-seier-paa-rad",
+        "title": {
+            "value": "Åttende seier på rad for Snåsa"
+        },
+        "description": "Snåsa slo Hegra 4-0 og tok dermed tre poeng i J14 2. divisjon, Avdeling 2 - Vår. Snåsa står med full pott så langt i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-08T18:33:37Z",
+        "lastModifiedAt": "2023-06-08T19:29:49Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "rbk-profilen-kroppen-sa-i-fra",
+        "url": "/sport/fotball/i/nQnMKx/rbk-profilen-kroppen-sa-i-fra",
+        "title": {
+            "value": "- Kroppen sa i fra"
+        },
+        "description": "Emilie Joramo fikk merke det tette kampprogrammet på kroppen.",
+        "imageUrl": "bc215101-21d9-4bbe-83c4-33c0e8ab452a",
+        "publishedAt": "2023-06-08T17:44:30Z",
+        "lastModifiedAt": "2023-06-08T17:44:30Z",
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "fotball",
+            "emilie-joramo",
+            "emilie-nautnes",
+            "toppserien"
+        ]
+    },
+    {
+        "slug": "rbk-profilen-om-smellen-som-aa-bli-slaatt-ut-av-mike-tyson",
+        "url": "/sport/fotball/i/Q7K81Q/rbk-profilen-om-smellen-som-aa-bli-slaatt-ut-av-mike-tyson",
+        "title": {
+            "value": "- Elsker RBK mer enn noe annet"
+        },
+        "description": "RBKs tomålsscorer Olaus Jair Skarsem og Blinks cuphelt Rasmus Sandberg gjester Rasmus&Saga.",
+        "imageUrl": "14869bb8-3f09-4bd5-aaac-ae46606923b2",
+        "publishedAt": "2023-06-08T15:04:09Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rasmus-saga"
+        ]
+    },
+    {
+        "slug": "var-truet-av-konkurs-og-mistet-17-spillere-de-sykeste-ukene-jeg-har-hatt",
+        "url": "/sport/fotball/i/zEXR8q/var-truet-av-konkurs-og-mistet-17-spillere-de-sykeste-ukene-jeg-har-hatt",
+        "title": {
+            "value": "– Dette er det drøyeste. Guttene er amatører"
+        },
+        "description": "Kevin Ingebrigtsen hadde aldri sett for seg å oppleve de to ukene han nettopp har vært gjennom.",
+        "imageUrl": "44048ae9-59c0-4bd1-a84c-68f51fa1bb0a",
+        "publishedAt": "2023-06-08T11:52:19Z",
+        "lastModifiedAt": "2023-06-08T16:46:34Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold",
+            "Christian Stendal"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "stjoerdals-blink",
+            "rosenborg-bk",
+            "nm-cup-menn",
+            "norsk-fotball",
+            "fotball"
+        ]
+    },
+    {
+        "slug": "naa-drar-han-fra-trondheim-en-perfekt-avslutning",
+        "url": "/sport/i/dwzqXw/naa-drar-han-fra-trondheim-en-perfekt-avslutning",
+        "title": {
+            "value": "Nå drar han fra Trondheim: - En perfekt avslutning "
+        },
+        "description": "Først blir det litt feiring. Så blir det ferie med familien. Deretter venter et nytt håndball-liv på Eskil Dahl Reitan.",
+        "imageUrl": "7c998260-6afd-4a8e-b199-2b9cb6f65468",
+        "publishedAt": "2023-06-08T11:27:36Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "eskil-dahl-reitan",
+            "haandball",
+            "kolstad-haandball"
+        ]
+    },
+    {
+        "slug": "umusikalsk-uklokt-og-pinlig",
+        "url": "/sport/i/jlMkyb/umusikalsk-uklokt-og-pinlig",
+        "title": {
+            "value": "Det var voldsomme ord, langt over streken"
+        },
+        "description": "KOMMENTAR: Mens Fotball-Norge retter et viktig fokus mot dommerhets og rekrutteringssvikt, fortsetter Ranheim-sjefen sitt angrep mot kampledere. Forstå det den som kan.",
+        "imageUrl": "87835cef-d301-4833-b3e2-5039731b5433",
+        "publishedAt": "2023-06-08T09:11:43Z",
+        "lastModifiedAt": "2023-06-08T09:11:43Z",
+        "premium": true,
+        "authors": [
+            "Birger Løfaldli"
+        ],
+        "tags": [
+            "frank-lidahl",
+            "rohit-saggi",
+            "lise-klaveness",
+            "ranheim-tf"
+        ]
+    },
+    {
+        "slug": "slik-er-de-ulike-rbk-supporterne-klubben-er-noedt-til-aa-forholde-seg-til-dem",
+        "url": "/sport/fotball/i/Knk8d7/slik-er-de-ulike-rbk-supporterne-klubben-er-noedt-til-aa-forholde-seg-til-dem",
+        "title": {
+            "value": "– Dette er de mest dedikerte og utagerende"
+        },
+        "description": "De protesterer, ber om treneravgang og gir RBK-styret det glatte lag. På Øvre Øst er røsten som krever å bli hørt.",
+        "imageUrl": "1d7a3043-c983-47c9-8686-12af9f7c2c71",
+        "publishedAt": "2023-06-08T08:15:44Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "kjernen",
+            "arve-hjelseth",
+            "bjoern-skar"
+        ]
+    }
+]

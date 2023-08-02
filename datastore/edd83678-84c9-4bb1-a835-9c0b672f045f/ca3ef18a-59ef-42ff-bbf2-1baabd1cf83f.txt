@@ -1,0 +1,194 @@
+[
+    {
+        "slug": "her-er-han-tilbake-paa-rbk-trening-oensker-snarlig-avklaring",
+        "url": "/sport/i/JQGBbb/her-er-han-tilbake-paa-rbk-trening-oensker-snarlig-avklaring",
+        "title": {
+            "value": "Her er han tilbake på trening"
+        },
+        "description": "Noah Holm er tilbake i Trondheim etter det han beskriver som en skuffende avslutning på sesongen i Frankrike.",
+        "imageUrl": "a91618ff-8332-4089-b99f-b27900dbdaf4",
+        "publishedAt": "2023-06-07T11:41:05Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Yngve Bergli",
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg",
+            "noah-holm"
+        ]
+    },
+    {
+        "slug": "flere-klubber-reagerer-paa-kretsens-avgjoerelse-taapelig",
+        "url": "/sport/fotball/i/eJ0z7Q/flere-klubber-reagerer-paa-kretsens-avgjoerelse-taapelig",
+        "title": {
+            "value": "Betalte ikke gebyr på 500 kr - det kan ødelegge drømmen"
+        },
+        "description": "Styrelederen betegner fotballkretsens håndtering som «håpløs». Samtidig får han støtte fra flere konkurrenter.",
+        "imageUrl": "103483d4-4aed-4896-b09f-b5719dddfa31",
+        "publishedAt": "2023-06-07T11:23:49Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "4-divisjon",
+            "breddefotbaill",
+            "lokalfotballen"
+        ]
+    },
+    {
+        "slug": "han-er-ny-sportslig-leder-i-rosenborg",
+        "url": "/sport/fotball/i/zEe4Vr/han-er-ny-sportslig-leder-i-rosenborg",
+        "title": {
+            "value": "Ny RBK-jobb: – Veldig spennende"
+        },
+        "description": "Mads Pettersen blir ny sportslig leder i Rosenborg Kvinner. Han går inn i stillingen etter å ha vært toppspillerutvikler i klubben.",
+        "imageUrl": "e6eb4472-64ba-423c-9489-6242e147523b",
+        "publishedAt": "2023-06-07T09:40:55Z",
+        "lastModifiedAt": "2023-06-07T09:45:33Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/158qpX/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag. 7. juni.",
+        "imageUrl": "9309c9c4-55cd-42df-a20a-d67349ed2c25",
+        "publishedAt": "2023-06-07T04:01:53Z",
+        "lastModifiedAt": "2023-06-07T04:01:53Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "dobbel-lykke-da-ranheim-tf-2-vant",
+        "url": "/lokalfotballen/i/onPkKB/dobbel-lykke-da-ranheim-tf-2-vant",
+        "title": {
+            "value": "To fulltreffere fra Fillip Dahl Heireth"
+        },
+        "description": "Ranheim TF 2 har tatt poeng i fem strake kamper etter dagens 5-1-seier i G19 2. divisjon, Avdeling 4 - Vår tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-06T20:39:35Z",
+        "lastModifiedAt": "2023-06-06T20:59:26Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "tvete-var-giftig-foran-maal-scoret-hattrick",
+        "url": "/lokalfotballen/i/wA5Rr1/tvete-var-giftig-foran-maal-scoret-hattrick",
+        "title": {
+            "value": "Tvete var giftig foran mål - scoret hattrick"
+        },
+        "description": "Ekne ledet 5-3, men Helgådal kom tilbake og sørget for 5-5 i 6. divisjon, Trøndelag - Avdeling 2 i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-06T20:32:06Z",
+        "lastModifiedAt": "2023-06-06T20:32:06Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "knusende-seier-for-kvam-7er",
+        "url": "/lokalfotballen/i/wA5R8n/knusende-seier-for-kvam-7er",
+        "title": {
+            "value": "Brakseier for Kvam 7er"
+        },
+        "description": "Hanne Lundås Bueng viste scoringsform da Kvam 7er seiret 8-0 over Vuku 2 7er i 7er, Trøndelag - Avdeling 1 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-06T19:50:43Z",
+        "lastModifiedAt": "2023-06-06T19:59:21Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "maal-lykke-for-engan",
+        "url": "/lokalfotballen/i/kE18JA/maal-lykke-for-engan",
+        "title": {
+            "value": "Engan bøttet inn mål for Ålen 7er"
+        },
+        "description": "Ålen 7er slo Buvik 7er 7-3 i dagens kamp. Buvik 7er har gått poengløse av banen i alle kampene sine hittil i år i 7er, Trøndelag - Avdeling 3 i fotball for kvinner. Malin Engan scoret fire mål.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-06T19:34:05Z",
+        "lastModifiedAt": "2023-06-07T07:54:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "mikkel-volden-tiller-scoret-hattrick-for-astor-3",
+        "url": "/lokalfotballen/i/eJ0a8y/mikkel-volden-tiller-scoret-hattrick-for-astor-3",
+        "title": {
+            "value": "Hattrick-show fra Astor 3"
+        },
+        "description": "Mikkel Volden Tiller scoret tre mål og hjalp Astor 3 til 9-2-seier over Kolstad/Flatås i G16 3. divisjon, Avdeling 2 - Vår tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-06T19:28:33Z",
+        "lastModifiedAt": "2023-06-07T05:55:04Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "boersen-stjernevingene-glitret-da-rbk-knappet-inn-paa-tabelltoppen",
+        "url": "/sport/fotball/i/kE1Mbj/boersen-stjernevingene-glitret-da-rbk-knappet-inn-paa-tabelltoppen",
+        "title": {
+            "value": "Stjernevingene glitret da RBK knappet inn på tabelltoppen"
+        },
+        "description": "Synne Skinnes Hansen leverte scoringer av høy klasse, mens Anna Jøsendal serverte som en hovmester ved slottet.",
+        "imageUrl": "371aff95-1a76-4ce6-81d6-c5b1c84ab9c7",
+        "publishedAt": "2023-06-06T19:23:22Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "synne-skinnes-hansen",
+            "anna-joesendal",
+            "dagens-ivers",
+            "toppserien"
+        ]
+    }
+]

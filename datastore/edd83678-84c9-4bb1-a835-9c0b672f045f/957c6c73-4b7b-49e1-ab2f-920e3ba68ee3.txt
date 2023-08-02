@@ -1,0 +1,197 @@
+[
+    {
+        "slug": "hedda-saeboe-berget-poeng-for-utleira",
+        "url": "/lokalfotballen/i/q1XbbL/hedda-saeboe-berget-poeng-for-utleira",
+        "title": {
+            "value": "Hedda Sæbø berget poeng for Utleira"
+        },
+        "description": "Utleira lå under 0-2, men klarte 2-2 mot Malvik 2/Hommelvik 2",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T19:20:26Z",
+        "lastModifiedAt": "2023-05-25T19:20:26Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "knusende-seier-for-kaarvaag-havoern",
+        "url": "/lokalfotballen/i/pQXb4w/knusende-seier-for-kaarvaag-havoern",
+        "title": {
+            "value": "Knusende seier for Kårvåg/Havørn"
+        },
+        "description": "Valsøyfjord gikk på sitt fjerde tap på rad da klubben tapte 0-10 for Kårvåg/Havørn i 6. divisjon, Nordmøre og Romsdal - Avdeling 1 i fotball torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T19:18:21Z",
+        "lastModifiedAt": "2023-05-25T19:18:21Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "bruttern-forlenger-med-ranheim-jeg-tenker-svaert-lite-om-det-som-skjer-paa-lerkendal",
+        "url": "/sport/fotball/i/XbJe9W/bruttern-forlenger-med-ranheim-jeg-tenker-svaert-lite-om-det-som-skjer-paa-lerkendal",
+        "title": {
+            "value": "Bruttern forlenger med Ranheim: - Jeg tenker svært lite om det som skjer på Lerkendal"
+        },
+        "description": "Kåre Ingebrigtsen har funnet igjen gleden som fotball-trener i fjæra på Ranheim.",
+        "imageUrl": "1bf75180-443d-4325-819d-0119bdd706de",
+        "publishedAt": "2023-05-25T19:09:57Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "kaare-ingebrigtsen",
+            "kolbjoern-selmer",
+            "obos-ligaen",
+            "ranheim-tf"
+        ]
+    },
+    {
+        "slug": "tyra-boekestad-breiseth-avgjorde-for-neset-aasguten",
+        "url": "/lokalfotballen/i/y6Xb9R/tyra-boekestad-breiseth-avgjorde-for-neset-aasguten",
+        "title": {
+            "value": "Tyra Bøkestad-Breiseth sikret seieren for Neset/Aasguten"
+        },
+        "description": "Tyra Bøkestad-Breiseth ble matchvinner med sin 1-0-scoring da Neset/Aasguten slo Følling/Kvam 9er i J14 2. divisjon, Avdeling 2 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T18:49:02Z",
+        "lastModifiedAt": "2023-05-25T19:02:36Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "brakseier-for-froeya-il",
+        "url": "/lokalfotballen/i/rlXbda/brakseier-for-froeya-il",
+        "title": {
+            "value": "Storseier for Frøya IL"
+        },
+        "description": "Frøya IL slo Hitra 9er 6-0 på bortebane i J15 2. divisjon, Avdeling 3 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T18:25:47Z",
+        "lastModifiedAt": "2023-05-25T18:32:10Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    },
+    {
+        "slug": "tomaalslykke-da-tiller-2-vant",
+        "url": "/lokalfotballen/i/Kn1qPX/tomaalslykke-da-tiller-2-vant",
+        "title": {
+            "value": "Tomålshelten sikret seier for Tiller 2"
+        },
+        "description": "Adrian Båtstrand førte an med to av målene i 3-2-seieren over Ranheim 2 i G13 2. divisjon, Avdeling 4 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T18:13:24Z",
+        "lastModifiedAt": "2023-05-25T18:32:10Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "froeya-il-2-9er-sikret-seriegull",
+        "url": "/lokalfotballen/i/RG8q1d/froeya-il-2-9er-sikret-seriegull",
+        "title": {
+            "value": "Frøya IL 2 9er dro i land seriemesterskapet"
+        },
+        "description": "Frøya IL 2 9er vant 3-1 over Svorkmo/Meldal 9er på hjemmebane i G14 9er, Avdeling 3 - Vår torsdag. Frøya IL 2 9er har tatt poeng i sine seks siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T17:58:41Z",
+        "lastModifiedAt": "2023-05-25T18:00:00Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "trodde-ikke-jeg-skulle-ta-til-taarene-dette-var-stort",
+        "url": "/sport/fotball/i/WRdxRg/trodde-ikke-jeg-skulle-ta-til-taarene-dette-var-stort",
+        "title": {
+            "value": "- Trodde ikke jeg skulle ta til tårene. Dette var stort"
+        },
+        "description": "Under TV-intervjuet tok følelsene til toppscoreren overhånd.",
+        "imageUrl": "48f44152-6c9d-4140-8ab4-130c4e1bcf8f",
+        "publishedAt": "2023-05-25T17:46:22Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Karoline Ulvnes"
+        ],
+        "tags": [
+            "breddefotbaill",
+            "cupen"
+        ]
+    },
+    {
+        "slug": "lytter-de-til-ham-lenger",
+        "url": "/sport/i/9znGMM/lytter-de-til-ham-lenger",
+        "title": {
+            "value": "Dette er oppsiktsvekkende"
+        },
+        "description": "KOMMENTAR: Kjetil Rekdal har i flere måneder gått rundt og fortalt at verden har for høye forventninger til RBK. Nå er han sjokkert over at det presteres svakt.",
+        "imageUrl": "d05446af-88e4-41cc-be59-2f95700b1534",
+        "publishedAt": "2023-05-25T16:38:07Z",
+        "lastModifiedAt": "2023-05-25T16:41:01Z",
+        "premium": true,
+        "authors": [
+            "Birger Løfaldli"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "markus-henriksen",
+            "rosenborg-bk",
+            "birger-loefaldli"
+        ]
+    },
+    {
+        "slug": "kapteinen-tror-han-vet-hva-som-er-rbks-hovedproblem",
+        "url": "/sport/fotball/i/dwPbGz/kapteinen-tror-han-vet-hva-som-er-rbks-hovedproblem",
+        "title": {
+            "value": "Kapteinen tror han vet hva som er RBKs hovedproblem"
+        },
+        "description": "Markus Henriksen ønsker seg mer fokus på eget spill og har gitt Kjetil Rekdal beskjed.",
+        "imageUrl": "67b265f4-0ea2-4cb0-b66f-b822350db5dd",
+        "publishedAt": "2023-05-25T14:52:56Z",
+        "lastModifiedAt": "2023-05-25T14:57:57Z",
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "kjetil-rekdal"
+        ]
+    }
+]

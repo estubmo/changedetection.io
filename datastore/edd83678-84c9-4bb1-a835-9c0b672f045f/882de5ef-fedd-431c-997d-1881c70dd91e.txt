@@ -1,0 +1,196 @@
+[
+    {
+        "slug": "knusende-seier-for-orkanger",
+        "url": "/lokalfotballen/i/3Ez1EA/knusende-seier-for-orkanger",
+        "title": {
+            "value": "Knusende seier for Orkanger"
+        },
+        "description": "KIL/Hemne 2 gikk på sitt tredje tap på rad da laget tapte 0-8 for Orkanger i 5. divisjon, Trøndelag - Avdeling 2 i fotball søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-07T14:12:59Z",
+        "lastModifiedAt": "2023-05-07T14:18:13Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "storseier-for-kil-hemne-2",
+        "url": "/lokalfotballen/i/WR3gRa/storseier-for-kil-hemne-2",
+        "title": {
+            "value": "Storseier for KIL/Hemne 2"
+        },
+        "description": "KIL/Hemne 2 banket Trond 7-1 i 4. divisjon, Trøndelag - Avdeling 2 søndag. Trond har gått poengløse av banen i fire strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-07T14:07:57Z",
+        "lastModifiedAt": "2023-05-07T14:19:23Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "nettsus-for-sagvold",
+        "url": "/lokalfotballen/i/GMqrMQ/nettsus-for-sagvold",
+        "title": {
+            "value": "Dobbel fra Sagvold for Vuku"
+        },
+        "description": "Petter Sagvold førte an med to mål i 6-1-seieren over Levanger 2 i 4. divisjon, Trøndelag - Avdeling 1 i fotball søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-07T14:05:56Z",
+        "lastModifiedAt": "2023-05-07T14:17:12Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "ranheim-2-vant-i-maalfest",
+        "url": "/lokalfotballen/i/4o0Ooq/ranheim-2-vant-i-maalfest",
+        "title": {
+            "value": "Scoringslykke for Olsen"
+        },
+        "description": "Fridtjof Killi Olsen viste scoringsform da Ranheim 2 vant 4-2 over Trygg/Lade i 4. divisjon, Trøndelag - Avdeling 1 søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-07T14:05:56Z",
+        "lastModifiedAt": "2023-05-07T14:17:12Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "storseier-for-selbu",
+        "url": "/lokalfotballen/i/q1byWz/storseier-for-selbu",
+        "title": {
+            "value": "Selbu vant i målfest"
+        },
+        "description": "Selbu knuste Fosen 6-0 i 4. divisjon, Trøndelag - Avdeling 2 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-07T14:02:55Z",
+        "lastModifiedAt": "2023-05-07T14:19:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "maal-lykke-for-tunc",
+        "url": "/lokalfotballen/i/l3bKEe/maal-lykke-for-tunc",
+        "title": {
+            "value": "Tunc med målshow"
+        },
+        "description": "Kolstad 7er kunne juble for årets første seier etter dagens 8-1-seier mot Frøya IL 7er. Aleyna Tunc gjorde hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-07T13:22:59Z",
+        "lastModifiedAt": "2023-05-07T13:48:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    },
+    {
+        "slug": "naalsund-ble-helten-for-arendal",
+        "url": "/lokalfotballen/i/wAb3EG/naalsund-ble-helten-for-arendal",
+        "title": {
+            "value": "Tiller senket av Naalsund"
+        },
+        "description": "Maja Tveit Naalsund scoret det eneste målet da Arendal slo Tiller 1-0 i 2. divisjon, Avdeling 1 i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-07T13:01:47Z",
+        "lastModifiedAt": "2023-05-07T13:16:53Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-fvn",
+            "lokalfotballen-agderposten",
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "rekdal-dagen-etter-tapet-ikke-dette-jeg-forventet-da-jeg-kom-hit",
+        "url": "/sport/fotball/i/l3bn69/rekdal-dagen-etter-tapet-ikke-dette-jeg-forventet-da-jeg-kom-hit",
+        "title": {
+            "value": "Kjetil Rekdal dagen etter tapet: - Ikke dette jeg forventet da jeg kom hit"
+        },
+        "description": "RBK-treneren ønsker ikke å snakke om det han kaller for «fantasier og drømmer».",
+        "imageUrl": "34952c33-4faf-4a1d-b221-4abc0d6b9310",
+        "publishedAt": "2023-05-07T12:48:58Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "fotball",
+            "sport",
+            "rosenborg-bk",
+            "kjetil-rekdal"
+        ]
+    },
+    {
+        "slug": "klarer-rbk-aa-slaa-serielederen",
+        "url": "/sport/fotball/i/xgbrGX/klarer-rbk-aa-slaa-serielederen",
+        "title": {
+            "value": "- Største RBK-mulighet så langt i kampen"
+        },
+        "description": "Ubeseirede Vålerenga er dagens motstander for Rosenborg på Koteng Arena. Kampstart er klokka 1500.",
+        "imageUrl": "b29b5b83-601f-4f69-b0bd-ba78fe273e36",
+        "publishedAt": "2023-05-07T12:25:54Z",
+        "lastModifiedAt": "2023-05-07T13:35:02Z",
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "vaalerenga"
+        ]
+    },
+    {
+        "slug": "matilde-bentzen-hammer-dobbel-sikret-seier",
+        "url": "/lokalfotballen/i/WR3vQk/matilde-bentzen-hammer-dobbel-sikret-seier",
+        "title": {
+            "value": "Ranheim 2 fortsatte seiersrekken"
+        },
+        "description": "Ranheim 2 slo Lånke/Tangmoen 4-0 og tok sin tredje seier på rad i J14 2. divisjon, Avdeling 2 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-07T12:13:08Z",
+        "lastModifiedAt": "2023-05-07T12:17:20Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    }
+]

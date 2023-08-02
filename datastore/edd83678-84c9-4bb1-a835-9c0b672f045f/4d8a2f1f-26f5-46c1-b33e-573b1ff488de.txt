@@ -1,0 +1,200 @@
+[
+    {
+        "slug": "bekrefter-kommer-tilbake-til-rosenborg",
+        "url": "/sport/fotball/i/76ooX4/bekrefter-kommer-tilbake-til-rosenborg",
+        "title": {
+            "value": "Bekrefter: Kommer tilbake til RBK"
+        },
+        "description": "RBK-trener Svein Maalen bekrefter at Reims ikke benytter seg på opsjonen de har Noah Holm.",
+        "imageUrl": "33d4f83d-7a36-4444-a367-cbbaec83a686",
+        "publishedAt": "2023-06-25T17:45:54Z",
+        "lastModifiedAt": "2023-06-25T17:54:44Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg",
+            "noah-holm",
+            "svein-maalen"
+        ]
+    },
+    {
+        "slug": "blytung-boers-da-rbk-gikk-paa-trynet",
+        "url": "/sport/fotball/i/bg66b5/blytung-boers-da-rbk-gikk-paa-trynet",
+        "title": {
+            "value": "Blytung børs da RBK gikk på trynet"
+        },
+        "description": "Det ble rett og slett vrient å kåre Dagens Ivers etter fiaskoen i Svein Maalens debut.",
+        "imageUrl": "05bfecb2-6a39-451e-9207-36c6058e069f",
+        "publishedAt": "2023-06-25T16:58:24Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "fotball",
+            "dagens-ivers",
+            "rosenborg-bk",
+            "norsk-fotball",
+            "eliteserien"
+        ]
+    },
+    {
+        "slug": "marerittdebut-for-maalen-ble-knust-paa-lerkendal",
+        "url": "/sport/fotball/i/veGGjm/marerittdebut-for-maalen-ble-knust-paa-lerkendal",
+        "title": {
+            "value": "Marerittdebut for Maalen: - Da ser det veldig dumt ut"
+        },
+        "description": "Svein Maalens første kamp som RBK-trener endte med et knusende nederlag og pipekonsert på Lerkendal.",
+        "imageUrl": "4847a296-5c69-47a4-9494-58f06722083b",
+        "publishedAt": "2023-06-25T16:54:52Z",
+        "lastModifiedAt": "2023-06-25T17:44:06Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand",
+            "Christian Skare Stendal",
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "sarpsborg-08",
+            "eliteserien"
+        ]
+    },
+    {
+        "slug": "rosenborg-2-senket-av-storbraaten",
+        "url": "/lokalfotballen/i/APBByn/rosenborg-2-senket-av-storbraaten",
+        "title": {
+            "value": "Storbråten ble helten for Frigg"
+        },
+        "description": "Innbytter Tonje Storbråten avgjorde med sin 3-2-scoring da Frigg slo Rosenborg 2 i 2. divisjon, Avdeling 1 i fotball for kvinner søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-25T15:06:06Z",
+        "lastModifiedAt": "2023-06-25T15:07:11Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "militaerbloggere-minst-13-russiske-soldater-drept-i-opproeret",
+        "url": "/nyheter/utenriks/i/dwaaew/militaerbloggere-minst-13-russiske-soldater-drept-i-opproeret",
+        "title": {
+            "value": "Militærbloggere: Minst 13 russiske soldater drept i opprøret"
+        },
+        "description": "Minst 13 russiske soldater, blant dem flere flygere, ble drept i opprøret fra Wagner-gruppa lørdag, hevder russiske militærbloggere.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-25T15:01:33Z",
+        "lastModifiedAt": "2023-06-25T15:01:33Z",
+        "premium": false,
+        "authors": [
+            "NTB-DPA"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "ranheim-2-seiret-i-maalfest",
+        "url": "/lokalfotballen/i/veGG1B/ranheim-2-seiret-i-maalfest",
+        "title": {
+            "value": "Olsen i scoringshumør mot Vuku"
+        },
+        "description": "Fridtjof Killi Olsen viste scoringsform da Ranheim 2 seiret 4-3 over Vuku i 4. divisjon, Trøndelag - Avdeling 1 i fotball for menn. Ranheim 2 har vunnet seks av sine sju siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-25T14:04:30Z",
+        "lastModifiedAt": "2023-06-25T18:05:48Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "rbk-helten-er-med-i-studio-foelg-maalens-debut-her",
+        "url": "/sport/fotball/i/Xb33n7/rbk-helten-er-med-i-studio-foelg-maalens-debut-her",
+        "title": {
+            "value": "Maalen: - Jeg tar en stor del av ansvaret"
+        },
+        "description": "Rosenborg tapte 0–3. Se opptak av livesendinga fra mixed zone etter kampen.",
+        "imageUrl": "76cfe896-c54d-4865-b14d-02f09d3ee27f",
+        "publishedAt": "2023-06-25T13:05:42Z",
+        "lastModifiedAt": "2023-06-25T17:43:01Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "eliteserien"
+        ]
+    },
+    {
+        "slug": "kil-hemne-slo-grand-bodoe-paa-hjemmebane",
+        "url": "/lokalfotballen/i/onxxPg/kil-hemne-slo-grand-bodoe-paa-hjemmebane",
+        "title": {
+            "value": "KIL / Hemne seiret over Grand Bodø"
+        },
+        "description": "KIL/Hemne banket Grand Bodø 3-0 i 1. divisjon, grunnserie i fotball for kvinner søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-25T13:00:53Z",
+        "lastModifiedAt": "2023-06-25T13:35:11Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "skrev-ut-boeter-under-fotballcup-det-er-den-store-utfordringen",
+        "url": "/nyheter/trondheim/i/KnXXbG/skrev-ut-boeter-under-fotballcup-det-er-den-store-utfordringen",
+        "title": {
+            "value": "– Over helga vil det nok komme noen reaksjoner"
+        },
+        "description": "Trondheim parkering har skrevet ut titalls bøter for feilparkering under Skandia Cup på Lade.",
+        "imageUrl": "c5611799-20e3-4444-a17a-8d38da8ca415",
+        "publishedAt": "2023-06-25T12:33:28Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ståle Langørgen"
+        ],
+        "tags": [
+            "fotball",
+            "skandia-cup",
+            "trondheim-parkering",
+            "parkering",
+            "idrettsanlegg",
+            "lade"
+        ]
+    },
+    {
+        "slug": "josephine-om-det-foerste-moetet-jeg-er-ikke-vant-til-dette",
+        "url": "/sport/i/pQxKXW/josephine-om-det-foerste-moetet-jeg-er-ikke-vant-til-dette",
+        "title": {
+            "value": "Josephine om det første møtet: - Jeg er ikke vant til dette  "
+        },
+        "description": "– Hun så litt forvirret ut, sier Kari Aalvik Grimsbø.",
+        "imageUrl": "1fe65484-d408-42b9-9bf3-66970cd4e4dd",
+        "publishedAt": "2023-06-25T12:17:13Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "kari-aalvik-grimsboe",
+            "byaasen-haandball-elite"
+        ]
+    }
+]

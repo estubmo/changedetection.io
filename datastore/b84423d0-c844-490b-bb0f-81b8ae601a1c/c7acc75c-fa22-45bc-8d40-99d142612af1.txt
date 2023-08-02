@@ -1,0 +1,372 @@
+[
+    {
+        "authors": [
+            {
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            },
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kEP396",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kEP396",
+        "preamble": "VM-uttatte Guro Pettersen fikk seg en skikkelig smell i hodet mot LSK Kvinner fredag og forlot banen i tårer. Nå kan landslagslege Magnus Myntevik bekrefte at landslagskeeperen reiser til VM. ",
+        "published": {
+            "date": "mandag 3. juli",
+            "datetime": "2023-07-03 15:08:43",
+            "niceformat": "03.07.2023, 15:08",
+            "timestamp": "2023-07-03T13:08:43.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://akamai.vgc.no/v2/images/3c4be1af-35b9-4f02-a454-c33382f6bc86?fit=crop&format=auto&h=213&w=400&s=1ac7501ac3505486f3fee3c9431b8a8453117c1c",
+            "width": 400
+        },
+        "title": "Guro Pettersen friskmeldt etter hodesmell – klar for VM",
+        "url": "https://www.vg.no/sport/fotball/i/kEP396/vm-fotball-kvinner-gladnyhet-for-guro-pettersen"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMJQJB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMJQJB",
+        "preamble": "Roy Hodgson (75) har forlenget kontrakten sin med Crystal Palace og fortsetter i managerjobben i ett år til. ",
+        "published": {
+            "date": "mandag 3. juli",
+            "datetime": "2023-07-03 13:38:03",
+            "niceformat": "03.07.2023, 13:38",
+            "timestamp": "2023-07-03T11:38:03.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/495cb2eb-f00a-4e5c-964d-21cc292737f0?fit=crop&format=auto&h=267&w=400&s=c2cd4d0ab3e191bf69f4bb532065551b8a7a5ae6",
+            "width": 400
+        },
+        "title": "Trenerveteranen Hodgson fortsetter som Crystal Palace-manager",
+        "url": "https://www.vg.no/sport/fotball/i/GMJQJB/trenerveteranen-hodgson-fortsetter-som-crystal-palace-manager"
+    },
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "1507yJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/1507yJ",
+        "preamble": "Sandro Tonali (23) forlater AC Milan til fordel for Newcastle.",
+        "published": {
+            "date": "mandag 3. juli",
+            "datetime": "2023-07-03 13:03:46",
+            "niceformat": "03.07.2023, 13:03",
+            "timestamp": "2023-07-03T11:03:46.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/d86b973d-bf96-4063-a8e8-6f1d17f5f72a?fit=crop&format=auto&h=267&w=400&s=f02cdd90b75ec4d02ee4417d6d113f51ef54880f",
+            "width": 400
+        },
+        "title": "Newcastle bekrefter storsignering: – Et eksepsjonelt talent",
+        "url": "https://www.vg.no/sport/fotball/i/1507yJ/newcastle-bekrefter-storsignering"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            },
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QzKXg",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QzKXg",
+        "preamble": "Den kroatiske midtstopperen Joško Gvardiol (21) ønsker å forlate RB Leipzig til fordel for Manchester City, og klubbene er i samtaler, bekrefter Max Eberl.",
+        "published": {
+            "date": "mandag 3. juli",
+            "datetime": "2023-07-03 10:14:37",
+            "niceformat": "03.07.2023, 10:14",
+            "timestamp": "2023-07-03T08:14:37.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6f18d462-5879-46e0-8772-d00571d21dd0?fit=crop&format=auto&h=267&w=400&s=0b43911d98b285ba55dc2bd18bc498e13480c3f8",
+            "width": 400
+        },
+        "title": "Leipzig-direktør bekrefter City-samtaler om Gvardiol",
+        "url": "https://www.vg.no/sport/fotball/i/0QzKXg/leipzig-direktoer-bekrefter-city-samtaler-om-gvardiol"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WRylGa",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WRylGa",
+        "preamble": "Patrick Vieira (47) fortsetter trenerlivet i hjemlandet etter å ha skrevet under en treårskontrakt med Strasbourg i franske Ligue 1.",
+        "published": {
+            "date": "mandag 3. juli",
+            "datetime": "2023-07-03 07:18:09",
+            "niceformat": "03.07.2023, 07:18",
+            "timestamp": "2023-07-03T05:18:09.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/629bd0bc-54c1-416f-a946-bd5e5c083b01?fit=crop&format=auto&h=267&w=400&s=c674d3641bdfb8966ff6298ca77dee397af43dcb",
+            "width": 400
+        },
+        "title": "Vieira fikk ny jobb – hentet til Strasbourg",
+        "url": "https://www.vg.no/sport/fotball/i/WRylGa/ligue-1-patrick-vieria-ny-manager-for-strasbourg"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kEPWQj",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kEPWQj",
+        "preamble": "BODØ (VG) Etter en suveren start på sesongen har Bodø/Glimt tapt poeng i to strake eliteseriekamper. Både Kjetil Knutsen og Ulrik Saltnes erkjenner at alt ikke er som det skal være.",
+        "published": {
+            "date": "mandag 3. juli",
+            "datetime": "2023-07-03 06:59:51",
+            "niceformat": "03.07.2023, 06:59",
+            "timestamp": "2023-07-03T04:59:51.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ab98153d-c44b-4210-b57c-5f5d98a9ed67?fit=crop&format=auto&h=267&w=400&s=b6acd950cb04cba2c1ee2cc15a078ebcd517198e",
+            "width": 400
+        },
+        "title": "Saltnes om Bodø/Glimts angrepsspill: – Rådville, statiske eller illojale",
+        "url": "https://www.vg.no/sport/fotball/i/kEPWQj/eliteserien-ulrik-saltnes-og-kjetil-knutsen-er-naadeloese-om-lagets-prestasjoner-i-de-siste-kampene"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "bgwM4v",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/bgwM4v",
+        "preamble": "The Athletic-journalist David Ornstein melder søndag kveld at Chelsea har mottatt et bud på Christian Pulisic fra Lyon.",
+        "published": {
+            "date": "søndag 2. juli",
+            "datetime": "2023-07-02 23:47:20",
+            "niceformat": "02.07.2023, 23:47",
+            "timestamp": "2023-07-02T21:47:20.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/73938976-4485-4c9d-b443-d4d474717bd4?fit=crop&format=auto&h=267&w=400&s=d9efc26db22246a7849421688132169a213c2c43",
+            "width": 400
+        },
+        "title": "The Athletic: Lyon med bud på Pulisic",
+        "url": "https://www.vg.no/sport/fotball/i/bgwM4v/silly-season-lyon-med-bud-paa-christian-pulisic"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3mggG",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3mggG",
+        "preamble": "BODØ (VG) (Bodø/Glimt – Molde 2–2) Ulrik Saltnes (30) reddet Bodø/Glimt på overtid igjen. Molde-trener Erling Moe (52) forsto lite da keeper Jacob Karlstrøm (26) ble utvist tidlig i toppkampen.",
+        "published": {
+            "date": "søndag 2. juli",
+            "datetime": "2023-07-02 21:16:16",
+            "niceformat": "02.07.2023, 21:16",
+            "timestamp": "2023-07-02T19:16:16.000Z"
+        },
+        "thumbnail": {
+            "height": 679,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/cpK1rU4cJHBq.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Moe raste mot VAR da Saltnes reddet Bodø/Glimt igjen: – Jeg er drittlei",
+        "url": "https://www.vg.no/sport/fotball/i/l3mggG/eliteserien-ola-brynhildsen-herjet-for-molde-da-molde-slo-bodoe-glimt"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "MoXxeo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/MoXxeo",
+        "preamble": "(Aalesund - Rosenborg 1–0) Rosenborg-krisen vil ingen ende ta. André Hansens (33) kjempetabbe ble avgjørende da Christian Johnsen (46) fikk en perfekt trenerdebut i Aalesund. ",
+        "published": {
+            "date": "søndag 2. juli",
+            "datetime": "2023-07-02 18:53:55",
+            "niceformat": "02.07.2023, 18:53",
+            "timestamp": "2023-07-02T16:53:55.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/HgOeSt2FRxiL.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Supportere entret banen i frustrasjon etter ny Rosenborg-flause: – Pinlig",
+        "url": "https://www.vg.no/sport/fotball/i/MoXxeo/andre-hansen-med-kjempetabbe-i-ny-rosenborg-flause-droemmedebut-for-christian-johnsen"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMXvpq",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMXvpq",
+        "preamble": "(Brann – HamKam 2–1) Jonas Torsvik (18) fra Loddefjord gjorde noe han «aldri hadde gjort før» da han scoret i sin første eliteseriekamp fra start.",
+        "published": {
+            "date": "søndag 2. juli",
+            "datetime": "2023-07-02 18:53:43",
+            "niceformat": "02.07.2023, 18:53",
+            "timestamp": "2023-07-02T16:53:43.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/-Ko6xdP6rnO4.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Brann reiste seg etter tapet mot Viking – 18 år gamle Torsvik med kanonscoring",
+        "url": "https://www.vg.no/sport/fotball/i/GMXvpq/eliteserien-jonas-torsvik-18-scoret-sitt-foerste-ligamaal-for-brann"
+    }
+]

@@ -1,0 +1,362 @@
+[
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q1rr00",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q1rr00",
+        "preamble": "Alex Telles (30) skifter beite fra Manchester United og blir lagkamerat med Cristiano Ronaldo i Al-Nassr.",
+        "published": {
+            "date": "søndag 23. juli",
+            "datetime": "2023-07-23 12:28:53",
+            "niceformat": "23.07.2023, 12:28",
+            "timestamp": "2023-07-23T10:28:53.000Z"
+        },
+        "thumbnail": {
+            "height": 278,
+            "url": "https://akamai.vgc.no/v2/images/35b09312-b324-43e9-8ffe-68ea1e6978a3?fit=crop&format=auto&h=278&w=400&s=e35f71cd65a91a7a0e91e7f530cb65623a951f96",
+            "width": 400
+        },
+        "title": "United-forsvarer klar for Ronaldos Saudi-klubb",
+        "url": "https://www.vg.no/sport/fotball/i/q1rr00/united-forsvarer-klar-for-ronaldos-saudi-klubb"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kELLgX",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kELLgX",
+        "preamble": "TOKYO (VG) (Yokohama F. Marinos – Manchester City 3–5) Tusenvis av japanere sto klare for å se Erling Braut Haaland (23) og Manchester City. Nordmannen viste seg frem allerede etter seks minutter og 51 sekunder.",
+        "published": {
+            "date": "søndag 23. juli",
+            "datetime": "2023-07-23 11:08:28",
+            "niceformat": "23.07.2023, 11:08",
+            "timestamp": "2023-07-23T09:08:28.000Z"
+        },
+        "thumbnail": {
+            "height": 679,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/Pj6C4pOvV9Oc.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Haaland-feber i Tokyo: Scoret to mål i sesongens første treningskamp",
+        "url": "https://www.vg.no/sport/fotball/i/kELLgX/haaland-feber-i-tokyo-kommer-til-aa-score-50-maal"
+    },
+    {
+        "authors": [
+            {
+                "email": "per.opsahl@vg.no",
+                "id": "a8b54406-d047-4b1c-90e2-f9f77a0e7317",
+                "name": "Per Opsahl"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q72qwR",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q72qwR",
+        "preamble": "Strømsgodset-kaptein Gustav Valsvik (30) er i knallform – og gleder seg litt ekstra til kveldens møte med klubben som vraket ham for to år siden. ",
+        "published": {
+            "date": "søndag 23. juli",
+            "datetime": "2023-07-23 10:09:07",
+            "niceformat": "23.07.2023, 10:09",
+            "timestamp": "2023-07-23T08:09:07.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6cf50c8f-88b7-4f48-bf76-a22a9626f063?fit=crop&format=auto&h=267&w=400&s=7f570163ef0d3f053db66fb7683076a86a3749e9",
+            "width": 400
+        },
+        "title": "Godset-Valsvik før møtet med gamleklubben RBK: – Et sårbart lag",
+        "url": "https://www.vg.no/sport/fotball/i/Q72qwR/gustav-valsvik-foer-moetet-med-gamleklubben-rosenborg-et-saarbart-lag"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8J11Ww",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8J11Ww",
+        "preamble": "(Sverige - Sør-Afrika 2–1) Sverige fikk det vanskelig mot Sør-Afrika i sin åpningskamp av VM, men en sen scoring reddet tre poeng for de gule og blå.",
+        "published": {
+            "date": "søndag 23. juli",
+            "datetime": "2023-07-23 08:58:00",
+            "niceformat": "23.07.2023, 08:58",
+            "timestamp": "2023-07-23T06:58:00.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/IiW39YbPRwrE.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Overtidsscoring sikret svensk seier – fikk motstand av Sør-Afrika",
+        "url": "https://www.vg.no/sport/fotball/i/8J11Ww/overtidsscoring-sikret-svensk-trepoenger-fikk-motstand-av-soer-afrika"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3WWM9",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3WWM9",
+        "preamble": "AUCKLAND (VG) Caroline Graham Hansen var ikke med på trening med VM-troppen søndag, dagen etter at hun ble isolert på rommet med sår hals. ",
+        "published": {
+            "date": "søndag 23. juli",
+            "datetime": "2023-07-23 05:48:59",
+            "niceformat": "23.07.2023, 05:48",
+            "timestamp": "2023-07-23T03:48:59.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/4483412b-038f-4d2d-b8ac-59f725064029?fit=crop&format=auto&h=267&w=400&s=524162f920d03b356c8ec35cb5738cf34f1d369b",
+            "width": 400
+        },
+        "title": "Holdt seg borte fra trening med laget: – Kan ikke bruke energi på det",
+        "url": "https://www.vg.no/sport/fotball/i/l3WWM9/holdt-seg-borte-fra-trening-med-laget-kan-ikke-bruke-energi-paa-det"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgpzxn",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgpzxn",
+        "preamble": "Faith Kipyegon (29) har blitt olympisk mester og knust rekorder etter å ha blitt mamma. Nå hylles hun av sin norske konkurrent.",
+        "published": {
+            "date": "søndag 23. juli",
+            "datetime": "2023-07-23 04:33:10",
+            "niceformat": "23.07.2023, 04:33",
+            "timestamp": "2023-07-23T02:33:10.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/032201c4-988f-442f-b924-efa973c71df5?fit=crop&format=auto&h=267&w=400&s=c2acd8678ea0a842fd309306d56ea5a37099a6f2",
+            "width": 400
+        },
+        "title": " Fra fødsel til verdensrekorder: – Et stort forbilde for mange",
+        "url": "https://www.vg.no/sport/fotball/i/xgpzxn/fra-foedsel-til-verdensrekorder-et-stort-forbilde-for-mange"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O822kl",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O822kl",
+        "preamble": "(Arsenal – Manchester United 0–2) Ødegaards Arsenal klarte aldri å skape de store mulighetene, og Manchester United tok en komfortabel seier i treningskampen mellom de to storklubbene.",
+        "published": {
+            "date": "søndag 23. juli",
+            "datetime": "2023-07-23 01:23:29",
+            "niceformat": "23.07.2023, 01:23",
+            "timestamp": "2023-07-22T23:23:29.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/3b209e35-a0a9-4981-9223-a083e1439b81?fit=crop&format=auto&h=267&w=400&s=508b661e61a1f57664811bb9ad6998f002dece31",
+            "width": 400
+        },
+        "title": "Manchester United slo Arsenal i New Jersey",
+        "url": "https://www.vg.no/sport/fotball/i/O822kl/manchester-united-slo-arsenal-i-new-jersey"
+    },
+    {
+        "authors": [
+            {
+                "email": "kristine.bechmann.holter@schibsted.no",
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8J11m2",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8J11m2",
+        "preamble": "Liverpool-kaptein Jordan Henderson (33) skal ha bestått den medisinske testen for Al Ettifaq. ",
+        "published": {
+            "date": "lørdag 22. juli",
+            "datetime": "2023-07-22 22:35:26",
+            "niceformat": "22.07.2023, 22:35",
+            "timestamp": "2023-07-22T20:35:26.000Z"
+        },
+        "thumbnail": {
+            "height": 268,
+            "url": "https://akamai.vgc.no/v2/images/0f24d6f3-a260-478c-b210-16091c95b144?fit=crop&format=auto&h=268&w=400&s=d35a9874410ceefeb61c512078820229e7d94463",
+            "width": 400
+        },
+        "title": "The Athletic: Henderson har bestått den medisinske testen i Al Ettifaq",
+        "url": "https://www.vg.no/sport/fotball/i/8J11m2/the-athletic-jordan-henderson-har-bestaatt-den-medisinske-testen-i-al-ettifaq"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4oKlEq",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4oKlEq",
+        "preamble": "I den første superduellen på 400 meter hekk for sesongen var Karsten Warholm utilnærmelig. Nå gir han sine argeste konkurrenter noe av æren for at han løper så fort. ",
+        "published": {
+            "date": "lørdag 22. juli",
+            "datetime": "2023-07-22 22:04:32",
+            "niceformat": "22.07.2023, 22:04",
+            "timestamp": "2023-07-22T20:04:32.000Z"
+        },
+        "thumbnail": {
+            "height": 274,
+            "url": "https://akamai.vgc.no/v2/images/0c8b65ce-e385-4d56-9a3f-9842b1701020?fit=crop&format=auto&h=274&w=400&s=976535eeef0bb3a2601be657a7ee7899160349f9",
+            "width": 400
+        },
+        "title": "Warholm-stikk til konkurrentene: – Gir bensin på bålet ",
+        "url": "https://www.vg.no/sport/fotball/i/4oKlEq/warholm-stikk-til-konkurrentene-gir-bensin-paa-baalet"
+    },
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P422r6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P422r6",
+        "preamble": "Moussa Diaby (24) skal ha vraket saudiarabisk fotball for Premier League og Aston Villa.",
+        "published": {
+            "date": "lørdag 22. juli",
+            "datetime": "2023-07-22 21:44:24",
+            "niceformat": "22.07.2023, 21:44",
+            "timestamp": "2023-07-22T19:44:24.000Z"
+        },
+        "thumbnail": {
+            "height": 269,
+            "url": "https://akamai.vgc.no/v2/images/ab1d60a3-28a1-4bc1-b605-359449513e83?fit=crop&format=auto&h=269&w=400&s=1dedac81daa6ee8369070d5f077e19eeb93e9e6e",
+            "width": 400
+        },
+        "title": "Diaby bekreftet til Aston Villa",
+        "url": "https://www.vg.no/sport/fotball/i/P422r6/diaby-bekreftet-til-aston-villa"
+    }
+]

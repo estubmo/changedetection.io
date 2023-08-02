@@ -1,0 +1,203 @@
+[
+    {
+        "slug": "vestbyen-maatte-dele-poengene",
+        "url": "/lokalfotballen/i/RGqGOd/vestbyen-maatte-dele-poengene",
+        "title": {
+            "value": "Vestbyen måtte dele poengene"
+        },
+        "description": "Det endte uavgjort mellom NTNUI 2 og Vestbyen på Lade 4 kunstgress i 5. divisjon, Trøndelag - Avdeling 2 i fotball. Det satte en stopper for Vestbyens seiersrekke på tre kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-06T05:46:06Z",
+        "lastModifiedAt": "2023-05-06T05:46:06Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ap-sliter-med-fiendebildet",
+        "url": "/meninger/i/q1bA2e/ap-sliter-med-fiendebildet",
+        "title": {
+            "value": "Raaen sliter med fiendebildet "
+        },
+        "description": "Kent Ranum er en luring. Han vet hvordan han skal gjøre valgkampen vanskelig for Emil Raaen og Ap.",
+        "imageUrl": "048aa220-b448-40ce-ab3a-3521b4224069",
+        "publishedAt": "2023-05-06T05:40:03Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Siv Sandvik"
+        ],
+        "tags": [
+            "kommentarer",
+            "raymond-johansen",
+            "politikk",
+            "kent-ranum",
+            "siv-sandvik",
+            "sivert-bjoernstad",
+            "eiendomsskatt",
+            "ordfoererkandidater",
+            "arbeiderpartiet",
+            "arbeiderpartiets-landsmoete",
+            "emil-raaen",
+            "privatisering",
+            "valg-2023"
+        ]
+    },
+    {
+        "slug": "han-var-den-foerste-bruttern-ringte-som-ranheim-trener",
+        "url": "/sport/fotball/i/l3bz07/han-var-den-foerste-bruttern-ringte-som-ranheim-trener",
+        "title": {
+            "value": "Han var den første Bruttern ringte som Ranheim-trener"
+        },
+        "description": "Sivert Solli sto øverst på lista til Kåre Ingebrigtsen. Kantspilleren har kvittert med tre scoringer så langt denne sesongen.",
+        "imageUrl": "3f9ac604-1920-4bf4-8b11-635eb45f5dcb",
+        "publishedAt": "2023-05-06T05:15:08Z",
+        "lastModifiedAt": "2023-05-06T05:16:05Z",
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "kaare-ingebrigtsen",
+            "fotballtroeyefredag",
+            "frank-lidahl",
+            "sivert-solli",
+            "ranheim-tf",
+            "obos-ligaen"
+        ]
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/8JvJGW/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag, lørdag 6. mai.",
+        "imageUrl": "0af2a6d7-270f-4015-a57b-22770116606d",
+        "publishedAt": "2023-05-06T04:00:59Z",
+        "lastModifiedAt": "2023-05-06T04:00:59Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "video-av-mann-som-kveles-paa-t-banen-i-new-york-opproerer-usikkert-om-det-kan-straffes",
+        "url": "/nyheter/utenriks/i/69K9nW/video-av-mann-som-kveles-paa-t-banen-i-new-york-opproerer-usikkert-om-det-kan-straffes",
+        "title": {
+            "value": "Video av mann som kveles på T-banen i New York opprører – usikkert om det kan straffes"
+        },
+        "description": "Videoen av en svart mann som kveles til døde på T-banen i New York vekker sterke følelser. Men det er usikkert om noen kan straffes.",
+        "imageUrl": "3d109d67-ebdf-4abf-8bf2-109366c84b3d",
+        "publishedAt": "2023-05-05T23:56:27Z",
+        "lastModifiedAt": "2023-05-06T00:47:10Z",
+        "premium": false,
+        "authors": [
+            "NTB-Reuters"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "ranheim-3-seiret-i-maalfest",
+        "url": "/lokalfotballen/i/WR3jnd/ranheim-3-seiret-i-maalfest",
+        "title": {
+            "value": "Ranheim 3 vant i målfest"
+        },
+        "description": "Med dagens 2-4-tap har Buvik ikke tatt et eneste poeng på de første to kampene i år.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-05T21:28:43Z",
+        "lastModifiedAt": "2023-05-05T22:16:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "gross-benberg-ble-helten-for-utleira-2",
+        "url": "/lokalfotballen/i/8JvQn2/gross-benberg-ble-helten-for-utleira-2",
+        "title": {
+            "value": "Gross-Benberg ble helten for Utleira 2"
+        },
+        "description": "Utleira 2 lå under med to mål, men snudde kampen og vant 3-2 i 4. divisjon, Trøndelag - Avdeling 3 torsdag. Helene Gross-Benberg scoret to ganger. Leinstrand/Byneset har ikke tatt ett eneste poeng i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-05T21:24:29Z",
+        "lastModifiedAt": "2023-05-05T21:24:29Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "to-fulltreffere-fra-gaasoe",
+        "url": "/lokalfotballen/i/dwpnXo/to-fulltreffere-fra-gaasoe",
+        "title": {
+            "value": "To fulltreffere fra Gaasø"
+        },
+        "description": "Kristoffer Gaasø førte an med to mål i 4-3-seieren over Trygg/Lade 2 i 5. divisjon, Trøndelag - Avdeling 2 i fotball for menn. Det var sesongens første seier for Dolmøy.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-05T21:17:20Z",
+        "lastModifiedAt": "2023-05-05T21:17:20Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya"
+        ]
+    },
+    {
+        "slug": "aksnes-avgjorde-for-leksdal-paa-overtid",
+        "url": "/lokalfotballen/i/nQbWq5/aksnes-avgjorde-for-leksdal-paa-overtid",
+        "title": {
+            "value": "Aksnes avgjorde for Leksdal på overtid"
+        },
+        "description": "Før dagens 1-2-tap mot Leksdal hadde Fram tatt poeng i alle seriekampene denne sesongen. I 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-05T20:46:44Z",
+        "lastModifiedAt": "2023-05-05T20:46:44Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "dobbel-fra-bjoernsvik-for-levangerstudentene",
+        "url": "/lokalfotballen/i/mQprbl/dobbel-fra-bjoernsvik-for-levangerstudentene",
+        "title": {
+            "value": "Bjørnsvik i scoringshumør"
+        },
+        "description": "Levangerstudentene slo Innherred 5-0 og tok sin første seier i årets sesong. I 5. divisjon, Trøndelag - Avdeling 1 i fotball. Håvard Damhaug Bjørnsvik scoret to av målene.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-05T20:16:46Z",
+        "lastModifiedAt": "2023-05-05T22:46:32Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred",
+            "lokalfotballen-steinkjer-2"
+        ]
+    }
+]

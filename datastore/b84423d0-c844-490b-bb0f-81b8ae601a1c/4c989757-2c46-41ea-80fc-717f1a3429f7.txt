@@ -1,0 +1,379 @@
+[
+    {
+        "authors": [
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "mQWQQv",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/mQWQQv",
+        "preamble": "Overgangsjournalisten Fabrizio Romano melder at Alexis Mac Allister blir Liverpool-spiller.",
+        "published": {
+            "date": "mandag 5. juni",
+            "datetime": "2023-06-05 12:05:54",
+            "niceformat": "05.06.2023, 12:05",
+            "timestamp": "2023-06-05T10:05:54.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/c6b77d1a-c3cd-46fc-8562-bc128d36150f?fit=crop&format=auto&h=266&w=400&s=b88730d17667a0a89f9f19c592be164f88ffabdb",
+            "width": 400
+        },
+        "title": "Fabrizio Romano: Alexis Mac Allister enig med Liverpool",
+        "url": "https://www.vg.no/sport/fotball/i/mQWQQv/romano-mac-allister-enig-med-liverpool"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "158kKK",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/158kKK",
+        "preamble": "EINDHOVEN (VG) Caroline Graham Hansen (28) startet opphentingen som sikret Barcelona Champions League-tittelen. Fotballekspert mener det er på tide at Hansen får betalt for leveransen.",
+        "published": {
+            "date": "mandag 5. juni",
+            "datetime": "2023-06-05 10:30:13",
+            "niceformat": "05.06.2023, 10:30",
+            "timestamp": "2023-06-05T08:30:13.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/5fb3f973-c721-48f0-a4d2-34c6e016733a?fit=crop&format=auto&h=267&w=400&s=37298a4c283aba837aa23aef47b1e8718abc8ccb",
+            "width": 400
+        },
+        "title": "Lanserer Graham Hansen som åpenbar vinner av prestisjepris: – Om ikke, er det urettferdig",
+        "url": "https://www.vg.no/sport/fotball/i/158kKK/lanserer-graham-hansen-som-aapenbar-vinner-av-prestisjepris-om-ikke-er-det-urettferdig"
+    },
+    {
+        "authors": [
+            {
+                "id": "3100f6b8-79ee-4e8e-84b3-e9463bf7d83f",
+                "name": "VG-sporten"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q7OpBW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q7OpBW",
+        "preamble": "For første gang på ti år deltar Norge i U21-EM i fotball for herrer. VG og NRK skal sammen vise alle de norske kampene fra både U21- og det påfølgende U19-EM, mens øvrige kamper i mesterskapet vises eksklusivt på VG+ Sport.",
+        "published": {
+            "date": "mandag 5. juni",
+            "datetime": "2023-06-05 10:03:29",
+            "niceformat": "05.06.2023, 10:03",
+            "timestamp": "2023-06-05T08:03:29.000Z"
+        },
+        "thumbnail": {
+            "height": 263,
+            "url": "https://akamai.vgc.no/v2/images/00a7e1ed-c23e-45ed-8dba-fba360285bfb?fit=crop&format=auto&h=263&w=400&s=e050ff9beac3fd551ee3933e45e1c18caee91f36",
+            "width": 400
+        },
+        "title": "VG inngår samarbeid med NRK – se Norge og alle andre kamper i U21- og U19-EM",
+        "url": "https://www.vg.no/sport/fotball/i/Q7OpBW/se-u21-em-og-u19-em-paa-tv"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kE13K9",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kE13K9",
+        "preamble": "LERKENDAL (VG) (RBK-HamKam 4–0) I månedsvis har Olaus Skarsem (24) sett lagkameratene spille fotball, mens han selv har vært gjennom et skademareritt. Søndag fikk RBK-profilen det han hele veien har drømt om. ",
+        "published": {
+            "date": "mandag 5. juni",
+            "datetime": "2023-06-05 09:51:18",
+            "niceformat": "05.06.2023, 09:51",
+            "timestamp": "2023-06-05T07:51:18.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/4fedd22a-d4e0-416f-ab77-160bd558c530?fit=crop&format=auto&h=267&w=400&s=b033c41ec8e663a0cc07bb3b5be31bb36f08d47a",
+            "width": 400
+        },
+        "title": "RBK-heltens tøffe tid: – Rosenborg betyr så utrolig mye for meg",
+        "url": "https://www.vg.no/sport/fotball/i/kE13K9/rbk-heltens-toeffe-tid-rosenborg-betyr-saa-utrolig-mye-for-meg"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            },
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Lld1bJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Lld1bJ",
+        "preamble": "– Farvel til fotballen, sier den svenske superhelten i takketalen foran et fullsatt San Siro. ",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 23:26:59",
+            "niceformat": "04.06.2023, 23:26",
+            "timestamp": "2023-06-04T21:26:59.000Z"
+        },
+        "thumbnail": {
+            "height": 286,
+            "url": "https://akamai.vgc.no/v2/images/d217fc56-4b1b-43fd-945d-796df652017d?fit=crop&format=auto&h=286&w=400&s=62f8a64d28bb9a1ebd57bcffa33d6565e42f0e48",
+            "width": 400
+        },
+        "title": "Zlatan Ibrahimović legger opp - tårene rant ",
+        "url": "https://www.vg.no/sport/fotball/i/Lld1bJ/medier-zlatan-ibrahimovic-legger-opp"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4wyxJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4wyxJ",
+        "preamble": "(Celta Vigo – Barcelona 2–1) Fra benken så landslagsspiller Jørgen Strand Larsen (23) at lagkameratene sikret spill på Spanias øverste nivå neste sesong.",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 23:00:00",
+            "niceformat": "04.06.2023, 23:00",
+            "timestamp": "2023-06-04T21:00:00.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/9ab5028a-4ba2-4e0a-8589-696ba7414d8c?fit=crop&format=auto&h=267&w=400&s=4fd244d8d3f8157c08389b88d2b8d5395206b535",
+            "width": 400
+        },
+        "title": "Strand Larsen og Celta Vigo berget plassen i La Liga – slo Barcelona i serieavslutningen",
+        "url": "https://www.vg.no/sport/fotball/i/P4wyxJ/strand-larsen-og-celta-vigo-berget-plassen-i-la-liga-slo-barcelona-i-serieavslutningen"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "15870l",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/15870l",
+        "preamble": "På vei hjem fra 1–1-oppgjøret i Raufoss ble Fredrikstads supporterbuss plutselig angrepet i Oslo, ifølge Fredrikstad-supportere.",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 21:44:48",
+            "niceformat": "04.06.2023, 21:44",
+            "timestamp": "2023-06-04T19:44:48.000Z"
+        },
+        "thumbnail": {
+            "height": 449,
+            "url": "https://akamai.vgc.no/v2/images/03eb82ea-0ad4-4550-9bc8-d5c4692da59c?fit=crop&format=auto&h=449&w=400&s=6a82e07d001a2a91125bc22515bb66205ac153f3",
+            "width": 400
+        },
+        "title": "Fredrikstads supporterbuss angrepet i Oslo",
+        "url": "https://www.vg.no/sport/fotball/i/15870l/fredrikstads-supporterbuss-angrepet-i-oslo"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76J5B4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76J5B4",
+        "preamble": "(Viking – Molde 3–4) Tilbake i Stavanger for første gang siden overgangen til Molde fikk Veton Berisha hard medfart av siddisene. Etter syv mål og rødt kort blir alle tre poeng med hjem til «Rosenes by».",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 21:10:46",
+            "niceformat": "04.06.2023, 21:10",
+            "timestamp": "2023-06-04T19:10:46.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/17a675c3-f03d-4505-991c-1458843685cc?fit=crop&format=auto&h=267&w=400&s=a96d10c915569fe73831da1673aaef61dd3a31a1",
+            "width": 400
+        },
+        "title": "Berisha hetset av banen i målfest – Molde snudde til seier",
+        "url": "https://www.vg.no/sport/fotball/i/76J5B4/berisha-hetset-av-banen-i-maalfest-molde-snudde-til-seier"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "onP6VB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/onP6VB",
+        "preamble": "(Real Madrid – Athletic Bilbao 1–1) Klubblegende Karim Benzema (35) scoret i avskjeden foran egne supportere. Like etter fikk han en varm klem av trener Carlo Ancelotti.",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 20:26:36",
+            "niceformat": "04.06.2023, 20:26",
+            "timestamp": "2023-06-04T18:26:36.000Z"
+        },
+        "thumbnail": {
+            "height": 277,
+            "url": "https://akamai.vgc.no/v2/images/39412721-e9c6-4ca6-b526-4fc5c772f0c8?fit=crop&format=auto&h=277&w=400&s=840541176a23b9dbaf680f6c087862558580d255",
+            "width": 400
+        },
+        "title": "Benzema ble hyllet av hjemmepublikumet i avskjeden",
+        "url": "https://www.vg.no/sport/fotball/i/onP6VB/benzema-ble-hyllet-av-hjemmepublikumet-i-avskjeden"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Lld1ap",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Lld1ap",
+        "preamble": "(Strømsgodset – Haugesund 1–2) Peter Therkildsen og Sory Diarra scoret da Haugesund vant borte mot Strømsgodset i Eliteserien søndag. Det var bare deres andre seier så langt i sesongen.",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 20:10:17",
+            "niceformat": "04.06.2023, 20:10",
+            "timestamp": "2023-06-04T18:10:17.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/8edd94c8-236e-4891-9c03-9d72bf1c4488?fit=crop&format=auto&h=267&w=400&s=560a38e5493f2b71a6b1b208d902032adac6338a",
+            "width": 400
+        },
+        "title": "Diarra ordnet etterlengtet Haugesund-seier: – Veldig viktig",
+        "url": "https://www.vg.no/sport/fotball/i/Lld1ap/diarra-ordnet-etterlengtet-haugesund-seier-veldig-viktig"
+    }
+]

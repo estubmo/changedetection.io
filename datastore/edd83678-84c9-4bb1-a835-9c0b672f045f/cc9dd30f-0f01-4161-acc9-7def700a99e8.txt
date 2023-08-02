@@ -1,0 +1,202 @@
+[
+    {
+        "slug": "loekken-9er-tapte-paa-hjemmebane",
+        "url": "/lokalfotballen/i/eJynGO/loekken-9er-tapte-paa-hjemmebane",
+        "title": {
+            "value": "Svorkmo/Meldal 9er-seier over Løkken 9er"
+        },
+        "description": "Løkken 9er måtte seg seg slått 1-6 da Oskar Holstad førte an med tre mål for Svorkmo/Meldal 9er i G14 9er, Avdeling 3 - Vår søndag. Svorkmo/Meldal 9er tok sin første seier denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-30T18:14:19Z",
+        "lastModifiedAt": "2023-04-30T18:19:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "stjoerna-tapte-igjen",
+        "url": "/lokalfotballen/i/bga1g5/stjoerna-tapte-igjen",
+        "title": {
+            "value": "Stjørna tapte igjen"
+        },
+        "description": "Trond knuste Stjørna 3-0 i 6. divisjon, Trøndelag - Avdeling 3 i fotball for menn torsdag. Stjørna har tapt alle kampene sine så langt i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-30T17:49:01Z",
+        "lastModifiedAt": "2023-04-30T17:49:01Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "haugesund-tapte-hjemme",
+        "url": "/lokalfotballen/i/vezB5B/haugesund-tapte-hjemme",
+        "title": {
+            "value": "Fjerde seier på rad for Rosenborg"
+        },
+        "description": "Haugesund gav bort alle poengene da de ble slått 3-1 av Rosenborg i Nasjonal G17 1. divisjon. Rosenborg har vunnet alle kampene denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-30T17:47:55Z",
+        "lastModifiedAt": "2023-04-30T18:18:21Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "det-finnes-ikke-en-app-som-faar-gutta-til-aa-lese",
+        "url": "/meninger/i/VPepXV/det-finnes-ikke-en-app-som-faar-gutta-til-aa-lese",
+        "title": {
+            "value": "Forbered ungene på ubehag og motstand"
+        },
+        "description": "Barn og unge leser mindre enn før. Skal vi gi barna våre leselyst, må vi lære dem å velge motstand.",
+        "imageUrl": "d79dea5c-baf4-4df8-af2a-fb91c29e3476",
+        "publishedAt": "2023-04-30T16:52:47Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Michael Stilson"
+        ],
+        "tags": [
+            "kronikk",
+            "lesing",
+            "barn",
+            "skjerm",
+            "den-kulturelle-skolesekken",
+            "tiktok",
+            "skjermer"
+        ]
+    },
+    {
+        "slug": "uavgjort-paa-roervik-kunstgress",
+        "url": "/lokalfotballen/i/3EXGLX/uavgjort-paa-roervik-kunstgress",
+        "title": {
+            "value": "Uavgjort for Rørvik og Flatanger"
+        },
+        "description": "Rørvik lå under 1-2, men klarte 2-2 mot Flatanger etter en sen utligning i 4. divisjon, Trøndelag - Avdeling 1 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-30T16:16:25Z",
+        "lastModifiedAt": "2023-04-30T16:18:34Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "maalloest-paa-astor-fotballpark",
+        "url": "/lokalfotballen/i/pQ48JW/maalloest-paa-astor-fotballpark",
+        "title": {
+            "value": "Målløst på Astor Fotballpark"
+        },
+        "description": "Verken Astor eller Frøya IL fant nettmaskene da lagene møttes i 6. divisjon, Trøndelag - Avdeling 4 i fotball for menn. Astor og Frøya IL står begge fortsatt uten seier denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-30T16:01:13Z",
+        "lastModifiedAt": "2023-04-30T16:19:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    },
+    {
+        "slug": "dette-er-rekdals-utvalgte-foelg-kampen-i-ivers-studio",
+        "url": "/sport/fotball/i/jlpe4o/dette-er-rekdals-utvalgte-foelg-kampen-i-ivers-studio",
+        "title": {
+            "value": "- Er det mulig?"
+        },
+        "description": "RBK møter Odd på bortebane.",
+        "imageUrl": "d5c5458d-f9d1-4986-bd5f-dee2dafeebd7",
+        "publishedAt": "2023-04-30T16:00:27Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen",
+            "Johannes Strand",
+            "Christian Stendal"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "eliteserien"
+        ]
+    },
+    {
+        "slug": "bortetap-for-steinkjer-mot-ranheim",
+        "url": "/lokalfotballen/i/dwbE6z/bortetap-for-steinkjer-mot-ranheim",
+        "title": {
+            "value": "Storseier for Ranheim"
+        },
+        "description": "Ranheim slo Steinkjer 7-0 og tok dermed alle poengene i G16 Elite, Vår søndag. Ranheim har seiret i fire kamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-30T15:49:00Z",
+        "lastModifiedAt": "2023-04-30T16:49:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "politiet-rykket-ut-til-loepsk-hest-i-trondheim",
+        "url": "/nyheter/innenriks/i/8J70gQ/politiet-rykket-ut-til-loepsk-hest-i-trondheim",
+        "title": {
+            "value": "Politiet har kontroll på løpsk hest i Trondheim"
+        },
+        "description": "En hest med sulky ble observert på Ranheim utenfor Trondheim sentrum søndag ettermiddag. Kusken er sendt til St. Olavs hospital.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-30T15:14:59Z",
+        "lastModifiedAt": "2023-04-30T16:09:14Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "kusk-falt-av-loepsk-hest",
+        "url": "/nyheter/trondheim/i/764z8w/kusk-falt-av-loepsk-hest",
+        "title": {
+            "value": "Plutselig havnet hesten i hekken hans: - Jeg ble veldig satt ut"
+        },
+        "description": "Politiet rykket ut til melding om en løpsk hest på Ranheim. I hagen til Jan Erik ble det drama.",
+        "imageUrl": "b006e8e6-144d-41c5-b4e3-255137828502",
+        "publishedAt": "2023-04-30T14:58:22Z",
+        "lastModifiedAt": "2023-04-30T16:58:00Z",
+        "premium": true,
+        "authors": [
+            "Vegard Eggen",
+            "Norunn Bergesen"
+        ],
+        "tags": [
+            "ranheim",
+            "hest",
+            "twitter",
+            "politi-2",
+            "trav",
+            "dyr",
+            "veterinaer"
+        ]
+    }
+]

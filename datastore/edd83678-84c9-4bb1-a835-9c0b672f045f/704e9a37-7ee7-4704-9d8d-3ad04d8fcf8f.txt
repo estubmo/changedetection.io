@@ -1,0 +1,208 @@
+[
+    {
+        "slug": "han-var-best-da-stabaek-rystet-rbk-med-sjokkaapning",
+        "url": "/sport/fotball/i/JQGwP7/han-var-best-da-stabaek-rystet-rbk-med-sjokkaapning",
+        "title": {
+            "value": "Han var best da Stabæk rystet RBK med sjokkåpning  "
+        },
+        "description": "Kjetil Rekdal ga fornyet tillit til laget som slo HamKam. Men det ble bare nesten for Rekdals utvalgte etter en skrekkåpning mot Stabæk. Best var målscorer Jayden Nelson.",
+        "imageUrl": "add8e902-3cff-4423-97d2-7b8282674c5a",
+        "publishedAt": "2023-06-11T17:05:40Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "dagens-ivers"
+        ]
+    },
+    {
+        "slug": "hoeytflyvende-holse-reddet-rosenborg",
+        "url": "/sport/fotball/i/O802kE/hoeytflyvende-holse-reddet-rosenborg",
+        "title": {
+            "value": "Høytflyvende Holse reddet Rosenborg"
+        },
+        "description": "RBK fant aldri løsningen på å bryte ned Stabæk. Før Carlo Holse fløy inn utligningen på tampen.",
+        "imageUrl": "26b0b4aa-7300-487f-bdf8-ce8efa3ba11e",
+        "publishedAt": "2023-06-11T17:01:46Z",
+        "lastModifiedAt": "2023-06-11T17:02:25Z",
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "sport",
+            "fotball",
+            "eliteserien",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "ingen-klarte-aa-avgjoere-toppoppgjoeret",
+        "url": "/lokalfotballen/i/P4w2nX/ingen-klarte-aa-avgjoere-toppoppgjoeret",
+        "title": {
+            "value": "Byåsen og Ranheim måtte dele poengene i toppoppgjøret"
+        },
+        "description": "Det endte uavgjort mellom Byåsen og Ranheim på Byåsen Arena i G16 Elite, Vår søndag. Det brøt seiersrekken til Byåsen, som ikke hadde gitt fra seg poeng på åtte kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-11T16:10:51Z",
+        "lastModifiedAt": "2023-06-11T16:29:04Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "guven-scoret-hattrick-for-kolstad-7er",
+        "url": "/lokalfotballen/i/WRW27g/guven-scoret-hattrick-for-kolstad-7er",
+        "title": {
+            "value": "Güven scoret hattrick mot Frøya IL 7er"
+        },
+        "description": "Kolstad 7er slo Frøya IL 7er 5-1 i dagens kamp. Frøya IL 7er har gått poengløse av banen i alle kampene sine så langt denne sesongen i 7er, Trøndelag - Avdeling 2 i fotball for kvinner søndag. Derya Güven gjorde hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-11T15:43:58Z",
+        "lastModifiedAt": "2023-06-11T16:01:34Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    },
+    {
+        "slug": "kristian-melby-birkelund-ble-tomaalshelt",
+        "url": "/lokalfotballen/i/RGQ268/kristian-melby-birkelund-ble-tomaalshelt",
+        "title": {
+            "value": "Tomålshelten sikret seier for Bodø / Glimt"
+        },
+        "description": "Med dagens 3-1-seier over Rosenborg tok Bodø/Glimt sin første trepoenger denne sesongen i Nasjonal G17 1. divisjon.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-11T15:34:47Z",
+        "lastModifiedAt": "2023-06-11T16:28:03Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "lund-ble-tomaalshelt",
+        "url": "/lokalfotballen/i/Q7K25x/lund-ble-tomaalshelt",
+        "title": {
+            "value": "Ny seier for Strindheim"
+        },
+        "description": "Fredrik Lund viste scoringsform da Strindheim vant 3-0 over Bodø/Glimt 2 i 3. divisjon, Avdeling 5 i fotball. Strindheim har sju seirer på sine åtte siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-11T15:29:24Z",
+        "lastModifiedAt": "2023-06-11T15:58:19Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "bye-brente-straffe-da-ranheim-tapte-for-serielederen",
+        "url": "/sport/fotball/i/MoJ2oB/bye-brente-straffe-da-ranheim-tapte-for-serielederen",
+        "title": {
+            "value": "Bye brente straffe da Ranheim tapte for serielederen"
+        },
+        "description": "Ranheim hadde alle tiders mulighet å ta ledelsen borte mot Kongsvinger, men Bendik Bye mislyktes fra elleve meter i kampen som endte med 0-3-tap.",
+        "imageUrl": "74e33092-f6bd-4e71-91e1-9744218b9fcf",
+        "publishedAt": "2023-06-11T15:28:52Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "kongsvinger",
+            "fotball",
+            "ranheim",
+            "mjoendalen",
+            "vegard-hansen"
+        ]
+    },
+    {
+        "slug": "dommerbraaket-faar-ikke-etterspill-i-ranheim",
+        "url": "/sport/fotball/i/rl3b9e/dommerbraaket-faar-ikke-etterspill-i-ranheim",
+        "title": {
+            "value": "Dommerbråket får ikke etterspill i Ranheim"
+        },
+        "description": "Ranheims styreleder ser ingen grunn til å gå videre med saken etter dommer-rapporten mot Frank Lidahl.",
+        "imageUrl": "1754d762-44d2-4de8-8a4a-09c014602700",
+        "publishedAt": "2023-06-11T14:27:56Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "kolbjoern-selmer",
+            "frank-lidahl",
+            "obos-ligaen",
+            "ranheim-tf"
+        ]
+    },
+    {
+        "slug": "tiller-2-snudde-til-seier-paa-tampen",
+        "url": "/lokalfotballen/i/y6ypRg/tiller-2-snudde-til-seier-paa-tampen",
+        "title": {
+            "value": "Tiller 2 snudde til seier i sluttminuttene"
+        },
+        "description": "Med 4-3-seier i dagens kamp har Tiller 2 tatt poeng i fem kamper på rad i 5. divisjon, Trøndelag - Avdeling 2 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-11T14:18:32Z",
+        "lastModifiedAt": "2023-06-11T16:57:54Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "hva-skjedde",
+        "url": "/magasin/i/XbJ41m/hva-skjedde",
+        "title": {
+            "value": "Hit kom 21-åringen Aslaug som Norges første kvinnelige sivilingeniørstudent. Kort tid etter reiste hun hjem"
+        },
+        "description": "September 1910 presser en ung kvinne seg mot veggen i festsalen på Gløshaugen. Hun er tydelig ukomfortabel med å være der og forsøker å gjøre seg usynlig.",
+        "imageUrl": "85734c11-9371-4efd-953b-475edfb82d4c",
+        "publishedAt": "2023-06-11T14:17:29Z",
+        "lastModifiedAt": "2023-06-11T14:17:29Z",
+        "premium": true,
+        "authors": [
+            "Frode Singsaas"
+        ],
+        "tags": [
+            "rjukan",
+            "handelsbanken",
+            "trondheim",
+            "troendelag",
+            "gloeshaugen",
+            "trondheim-katedralskole",
+            "ntnu",
+            "byantikvaren",
+            "grong",
+            "berlin",
+            "gatelys",
+            "middelalderen",
+            "mette-bye"
+        ]
+    }
+]

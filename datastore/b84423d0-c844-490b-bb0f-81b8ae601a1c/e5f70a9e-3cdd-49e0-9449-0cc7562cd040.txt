@@ -1,0 +1,372 @@
+[
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "KnKwJ5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/KnKwJ5",
+        "preamble": "Israelske Manor Solomon (23) har skrevet kontrakt med Premier League-klubben Tottenham til 2028.",
+        "published": {
+            "date": "tirsdag 11. juli",
+            "datetime": "2023-07-11 13:53:41",
+            "niceformat": "11.07.2023, 13:53",
+            "timestamp": "2023-07-11T11:53:41.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/006b818e-9e58-4d2d-a0f7-709f2f96d4be?fit=crop&format=auto&h=267&w=400&s=4747d4b2e93707c2f9a75d65f6fb47650407a65c",
+            "width": 400
+        },
+        "title": "Solomon klar for Tottenham",
+        "url": "https://www.vg.no/sport/fotball/i/KnKwJ5/premier-league-manor-solomon-klar-for-tottenham"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Qz20G",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Qz20G",
+        "preamble": "Arne Sandstø forlater posisjonen som hovedtrener i Jerv med umiddelbar virkning. Neste stoppested i karrieren blir danske Midtjylland.",
+        "published": {
+            "date": "tirsdag 11. juli",
+            "datetime": "2023-07-11 12:22:52",
+            "niceformat": "11.07.2023, 12:22",
+            "timestamp": "2023-07-11T10:22:52.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6d7b15c1-a8b0-484e-830c-1b424c3bcd38?fit=crop&format=auto&h=267&w=400&s=68383fc69a6d7f98db338011b5e2bf561dd0051c",
+            "width": 400
+        },
+        "title": "Sandstø er ferdig i Jerv – blir førstelagstrener i Midtjylland",
+        "url": "https://www.vg.no/sport/fotball/i/0Qz20G/sandstoe-er-ferdig-i-jerv-blir-foerstelagstrener-i-midtjylland"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            },
+            {
+                "email": "mattis.holt@vg.no",
+                "id": "783ec02a-650f-49b8-8655-cd3e1ad5f4fa",
+                "name": "Mattis Holt"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "vedLQm",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/vedLQm",
+        "preamble": "Den tidligere Molde-spissen David Datro Fofana (20) skal tilbringe den neste sesongen sammen med Morten Thorsby (27) på lån hos tyske Union Berlin.",
+        "published": {
+            "date": "tirsdag 11. juli",
+            "datetime": "2023-07-11 10:53:45",
+            "niceformat": "11.07.2023, 10:53",
+            "timestamp": "2023-07-11T08:53:45.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/aba9d07e-a6cd-4c49-a61c-e7f011fa95f9?fit=crop&format=auto&h=267&w=400&s=394d8d141a6c95c5729f7a1475c9c1bcb54a81e2",
+            "width": 400
+        },
+        "title": "Bekreftet: Fofana lånes ut til Union Berlin",
+        "url": "https://www.vg.no/sport/fotball/i/vedLQm/bekreftet-fofana-laanes-ut-til-union-berlin"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3EK24A",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3EK24A",
+        "preamble": "Fifa offentliggjorde tirsdag troppene til fotball-VM. I Norges lag er to ferske Champions League-mestere oppført med feil klubb.",
+        "published": {
+            "date": "tirsdag 11. juli",
+            "datetime": "2023-07-11 10:47:42",
+            "niceformat": "11.07.2023, 10:47",
+            "timestamp": "2023-07-11T08:47:42.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/22cff5dc-91bc-464c-8d7d-45ec2f43c566?fit=crop&format=auto&h=267&w=400&s=2f3ba03159e9312eddce521ea84f812f9821ffc8",
+            "width": 400
+        },
+        "title": "Fifa oppgir feil klubber på Norges Barcelona-duo",
+        "url": "https://www.vg.no/sport/fotball/i/3EK24A/fifa-oppgir-feil-klubber-paa-norges-barcelona-duo"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "RGnVPW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/RGnVPW",
+        "preamble": "Ifølge Stavanger Aftenblad fikk Viking inn et bud på David Brekalo (24) mandag ettermiddag. Det ble avvist av Stavanger-klubben.",
+        "published": {
+            "date": "tirsdag 11. juli",
+            "datetime": "2023-07-11 10:05:03",
+            "niceformat": "11.07.2023, 10:05",
+            "timestamp": "2023-07-11T08:05:03.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/3b420fce-b952-467f-9bbb-5407e2946e5e?fit=crop&format=auto&h=267&w=400&s=530930e786f62bc31a898cda265a526b3747f5e5",
+            "width": 400
+        },
+        "title": "Aftenbladet: Viking avslo bud på Brekalo",
+        "url": "https://www.vg.no/sport/fotball/i/RGnVPW/aftenbladet-viking-avslo-bud-paa-brekalo"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQkVno",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQkVno",
+        "preamble": "Den tidligere Raufoss-spilleren Lasse Berg Johnsen (23) er i ferd med å bli Allsvenskan-klubben Malmös neste storkjøp, ifølge Aftonbladet.",
+        "published": {
+            "date": "tirsdag 11. juli",
+            "datetime": "2023-07-11 08:27:47",
+            "niceformat": "11.07.2023, 08:27",
+            "timestamp": "2023-07-11T06:27:47.000Z"
+        },
+        "thumbnail": {
+            "height": 288,
+            "url": "https://akamai.vgc.no/v2/images/d8eddc85-7ec5-4c9e-939f-30ed50c606d4?fit=crop&format=auto&h=288&w=400&s=222293c622c14a720978b4650609f18a6b834a93",
+            "width": 400
+        },
+        "title": "Aftonbladet: Nordmann selges til Malmö for 15 millioner kroner",
+        "url": "https://www.vg.no/sport/fotball/i/EQkVno/aftonbladet-nordmann-selges-til-malmo-for-15-millioner"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Qz6wJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Qz6wJ",
+        "preamble": "Etter tre kamper under Svein Maalens ledelse begynner det å utkrystallisere seg en trend: Rosenborg var bedre de siste kampene under Kjetil Rekdal enn de har vært under Maalen på flere viktige områder.",
+        "published": {
+            "date": "tirsdag 11. juli",
+            "datetime": "2023-07-11 07:12:18",
+            "niceformat": "11.07.2023, 07:12",
+            "timestamp": "2023-07-11T05:12:18.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/f60a7c36-cb31-4d64-ba91-687054bfdab5?fit=crop&format=auto&h=267&w=400&s=c78a1f8036e05a70593a1b415194ded01004e0e9",
+            "width": 400
+        },
+        "title": "Tallenes tale om Svein Maalens marerittstart: – Starten har vært tung",
+        "url": "https://www.vg.no/sport/fotball/i/0Qz6wJ/eliteserien-her-er-tallene-som-viser-at-rosenborg-har-blitt-daarligere-under-svein-maalen-enn-de-var-under-kjetil-rekdal"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "vedRBl",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/vedRBl",
+        "preamble": "(Spania-Norge 0–0) Det norske G19-landslaget klarte uavgjort mot Spania og er i celebert selskap i semifinalene i EM.",
+        "published": {
+            "date": "mandag 10. juli",
+            "datetime": "2023-07-10 22:54:21",
+            "niceformat": "10.07.2023, 22:54",
+            "timestamp": "2023-07-10T20:54:21.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/AhtXxXIDLFzk.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Norge til semifinale i U19-EM",
+        "url": "https://www.vg.no/sport/fotball/i/vedRBl/norge-til-semifinale-i-u19-em"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            },
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            },
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQk87P",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQk87P",
+        "preamble": "Brann-kaptein Sivert Heltne Nilsen (31) får krass kritikk for sin oppførsel i overgangsdramaet som preger fotballbyen Bergen. Agent Geir Morten Nilsen har respekt for reaksjonene som kommer.",
+        "published": {
+            "date": "mandag 10. juli",
+            "datetime": "2023-07-10 20:12:46",
+            "niceformat": "10.07.2023, 20:12",
+            "timestamp": "2023-07-10T18:12:46.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/e95e888f-91f3-4904-bad2-aa27974ae0f3?fit=crop&format=auto&h=267&w=400&s=5db799e54111bec643bb2783c1ad00521f1d6c11",
+            "width": 400
+        },
+        "title": "Heltne Nilsen får hard medfart i Brann-sagaen: – Pinlig å være vitne til",
+        "url": "https://www.vg.no/sport/fotball/i/EQk87P/heltne-nilsen-faar-hardt-medfart-i-brann-sagaen-pinlig-aa-vaere-vitne-til"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQwmyX",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQwmyX",
+        "preamble": "Amor Layounis tid i Vålerenga har fått en endelig slutt – han er klar for Häcken på en treårsavtale.",
+        "published": {
+            "date": "mandag 10. juli",
+            "datetime": "2023-07-10 20:05:47",
+            "niceformat": "10.07.2023, 20:05",
+            "timestamp": "2023-07-10T18:05:47.000Z"
+        },
+        "thumbnail": {
+            "height": 259,
+            "url": "https://akamai.vgc.no/v2/images/cb077f5a-9937-471e-a5a1-52bb0ea174be?fit=crop&format=auto&h=259&w=400&s=f2ca8653facbfa44237a1302855b55eb72313249",
+            "width": 400
+        },
+        "title": "Amor Layouni forlater Vålerenga igjen – klar for Häcken",
+        "url": "https://www.vg.no/sport/fotball/i/JQwmyX/amor-layouni-forlater-vaalerenga-igjen-klar-for-hacken"
+    }
+]

@@ -1,0 +1,193 @@
+[
+    {
+        "slug": "rbk-kjempen-er-straks-gratis-jeg-har-mine-tanker",
+        "url": "/sport/fotball/i/wAkXGn/rbk-kjempen-er-straks-gratis-jeg-har-mine-tanker",
+        "title": {
+            "value": "RBK-kjempen: - Det kan jo være få dager igjen"
+        },
+        "description": "Om seks dager kan André Hansen forhandle med hvem han vil om en kontrakt fra nyttår. 33-åringen er sin egen agent.",
+        "imageUrl": "aead23e1-cfda-4913-8fec-d8064afb5253",
+        "publishedAt": "2023-06-25T09:02:08Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg",
+            "andre-hansen"
+        ]
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/l3aLoo/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene søndag 25. juni.",
+        "imageUrl": "54b2333d-340c-409c-b48b-eb354aba2cc5",
+        "publishedAt": "2023-06-25T04:01:10Z",
+        "lastModifiedAt": "2023-06-25T04:01:10Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "nilsen-ble-tomaalshelt",
+        "url": "/lokalfotballen/i/MoXJa5/nilsen-ble-tomaalshelt",
+        "title": {
+            "value": "Nilsen i scoringshumør mot Tolga-Vingelen"
+        },
+        "description": "Tolga-Vingelen gikk på sitt niende strake tap da klubben tapte 0-3 for Ranheim 3 i 5. divisjon, Trøndelag - Avdeling 3 i fotball for menn lørdag. Erlend Noah Blomsø Nilsen scoret to av målene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-24T18:54:20Z",
+        "lastModifiedAt": "2023-06-24T19:04:29Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ingen-slaar-dette-laget-helt-ekstremt",
+        "url": "/sport/fotball/i/76oJ6W/ingen-slaar-dette-laget-helt-ekstremt",
+        "title": {
+            "value": "Ingen slår dette laget: – Helt ekstremt"
+        },
+        "description": "Levanger FK har vunnet alle sine seriekamper så langt i år.",
+        "imageUrl": "29ffbd72-4c82-4c69-9c4e-935105f3451f",
+        "publishedAt": "2023-06-24T17:08:56Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "levanger-fk"
+        ]
+    },
+    {
+        "slug": "hun-ble-dagens-ivers-direkte-avgjoerende",
+        "url": "/sport/fotball/i/bg6W1k/hun-ble-dagens-ivers-direkte-avgjoerende",
+        "title": {
+            "value": "Hun ble Dagens Ivers: Direkte avgjørende"
+        },
+        "description": "Elin Sørum drev RBKs høyreside fremover. Og ble belønnet med både mål og målgivende.",
+        "imageUrl": "97f05cb0-0183-4e3a-a73a-55f1c789eb72",
+        "publishedAt": "2023-06-24T17:07:06Z",
+        "lastModifiedAt": "2023-06-24T17:07:08Z",
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "fotball",
+            "rosenborg-bk",
+            "norsk-fotball"
+        ]
+    },
+    {
+        "slug": "rynning-malvik-avgjorde-for-dolmoey",
+        "url": "/lokalfotballen/i/xgdymV/rynning-malvik-avgjorde-for-dolmoey",
+        "title": {
+            "value": "Rynning Malvik ble helten for Dolmøy"
+        },
+        "description": "Isak Rynning Malvik ble matchvinner med sin 2-1-scoring da Dolmøy slo Malvik/Hommelvik i 5. divisjon, Trøndelag - Avdeling 2 i fotball lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-24T16:29:43Z",
+        "lastModifiedAt": "2023-06-25T07:34:27Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "kaare-kritisk-vi-er-saa-feige",
+        "url": "/sport/fotball/i/veGyAp/kaare-kritisk-vi-er-saa-feige",
+        "title": {
+            "value": "Kåre stempler laget som feigt"
+        },
+        "description": "Ranheim-trener Kåre Ingebrigtsen var svært skuffet over det laget leverte i annenomgangen.",
+        "imageUrl": "495e8999-a916-401a-a024-bd3c0f598898",
+        "publishedAt": "2023-06-24T16:28:29Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "ranheim-tf",
+            "mjoendalen-if",
+            "obos-ligaen",
+            "kaare-ingebrigtsen",
+            "sebastian-tounekti",
+            "ruben-kristensen-alte"
+        ]
+    },
+    {
+        "slug": "kleppo-vangen-boettet-inn-maal-for-tynset",
+        "url": "/lokalfotballen/i/xgdyg8/kleppo-vangen-boettet-inn-maal-for-tynset",
+        "title": {
+            "value": "Kleppo Vangen bøttet inn mål for Tynset"
+        },
+        "description": "Knut Kleppo Vangen viste scoringsform da Tynset vant 6-1 over KIL/Hemne i 4. divisjon, Trøndelag - Avdeling 2 i fotball for menn lørdag. Tynset har seiret i tre strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-24T16:16:39Z",
+        "lastModifiedAt": "2023-06-24T18:04:46Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "hoestland-ble-tomaalshelt",
+        "url": "/lokalfotballen/i/76oJdw/hoestland-ble-tomaalshelt",
+        "title": {
+            "value": "Nettsus for Høstland"
+        },
+        "description": "Flatanger snudde 0-1 til 3-1-seier mot Heimdal i 4. divisjon, Trøndelag - Avdeling 1 i fotball for menn lørdag. Ola Kristian Dahle Høstland scoret to mål. Det stanset Flatangers tapsrekke på tre kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-24T16:10:34Z",
+        "lastModifiedAt": "2023-06-24T16:34:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "hjemmeseier-for-namsos-over-laanke",
+        "url": "/lokalfotballen/i/0QqO46/hjemmeseier-for-namsos-over-laanke",
+        "title": {
+            "value": "Namsos seiret hjemme mot Lånke"
+        },
+        "description": "Namsos tok sine første poeng på seks kamper da Lånke ble slått 3-0 i 4. divisjon, Trøndelag - Avdeling 1 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-24T15:59:22Z",
+        "lastModifiedAt": "2023-06-24T16:34:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    }
+]

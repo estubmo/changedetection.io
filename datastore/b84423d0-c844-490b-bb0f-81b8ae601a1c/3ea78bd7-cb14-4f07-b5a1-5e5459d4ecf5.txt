@@ -1,0 +1,399 @@
+[
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            },
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEQqWq",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEQqWq",
+        "preamble": "Carlo Holse er uaktuell for Rosenborgs neste kamper etter at han måtte opereres natt til tirsdag.",
+        "published": {
+            "date": "tirsdag 2. mai",
+            "datetime": "2023-05-02 12:06:52",
+            "niceformat": "02.05.2023, 12:06",
+            "timestamp": "2023-05-02T10:06:52.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/d233ede0-e2b9-4f92-b1c3-e7eac012357f?fit=crop&format=auto&h=267&w=400&s=a4aa5c1bff46f3a534fdbf98292c7af8a1b77f78",
+            "width": 400
+        },
+        "title": "Rosenborg-profil Carlo Holse ute i fire uker etter blindtarmoperasjon",
+        "url": "https://www.vg.no/sport/fotball/i/zEQqWq/rosenborg-profil-carlo-holse-ute-i-fire-uker-etter-blindtarmoperasjon"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwbVnw",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwbVnw",
+        "preamble": "En av Englands mest fremtredende kommentatorer synes svært lite om oppførselen til Liverpool-manager Jürgen Klopp (55).",
+        "published": {
+            "date": "tirsdag 2. mai",
+            "datetime": "2023-05-02 11:23:07",
+            "niceformat": "02.05.2023, 11:23",
+            "timestamp": "2023-05-02T09:23:07.000Z"
+        },
+        "thumbnail": {
+            "height": 336,
+            "url": "https://akamai.vgc.no/v2/images/fe8ed6ed-89f5-4e1e-9db3-f3ccea40dfbe?fit=crop&format=auto&h=336&w=400&s=adfe0e17f53b2b27a91b55a09760eb1053ea1ea5",
+            "width": 400
+        },
+        "title": "Kommentator om Klopps oppførsel mot dommerteamet: – Han må bruke hodet",
+        "url": "https://www.vg.no/sport/fotball/i/dwbVnw/the-times-kommentator-ut-mot-jurgen-klopps-oppfoersel-i-kampen-mot-tottenham"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WReVAa",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WReVAa",
+        "preamble": "Viking-spiller Sondre Auklend (19) slutter seg til 1.-divisjonsklubben Jerv denne uken, melder Stavanger Aftenblad.",
+        "published": {
+            "date": "tirsdag 2. mai",
+            "datetime": "2023-05-02 10:47:21",
+            "niceformat": "02.05.2023, 10:47",
+            "timestamp": "2023-05-02T08:47:21.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/4cb6e9f4-a081-4282-a354-14cd05f8472d?fit=crop&format=auto&h=267&w=400&s=1b3989e1aff178501ba8d87e1460620859e189a8",
+            "width": 400
+        },
+        "title": "Viking-talent lånes ut til Jerv",
+        "url": "https://www.vg.no/sport/fotball/i/WReVAa/sondre-auklend-laanes-ut-til-jerv"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQRaQR",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQRaQR",
+        "preamble": "Gianni Infantino, president i Det internasjonale fotballforbundet (FIFA), er ikke fornøyd med rettighetsbudene på fotball-VM for kvinner i sommer.",
+        "published": {
+            "date": "tirsdag 2. mai",
+            "datetime": "2023-05-02 08:28:40",
+            "niceformat": "02.05.2023, 08:28",
+            "timestamp": "2023-05-02T06:28:40.000Z"
+        },
+        "thumbnail": {
+            "height": 268,
+            "url": "https://akamai.vgc.no/v2/images/18f4ece1-c8a5-49f0-8dbc-c97194aac7ed?fit=crop&format=auto&h=268&w=400&s=047399d17b92cb898dce255b82648a215d59eb08",
+            "width": 400
+        },
+        "title": "Infantino truer med svarte TV-skjermer under fotball-VM for kvinner",
+        "url": "https://www.vg.no/sport/fotball/i/JQRaQR/infantino-truer-med-svarte-tv-skjermer-under-fotball-vm-for-kvinner"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            },
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEQK85",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEQK85",
+        "preamble": "BODØ/SKIEN (VG) Foran onsdagens tradisjonsrike oppgjør mellom Rosenborg og Brann, omtales bergenserne som et tetlag.",
+        "published": {
+            "date": "tirsdag 2. mai",
+            "datetime": "2023-05-02 07:51:31",
+            "niceformat": "02.05.2023, 07:51",
+            "timestamp": "2023-05-02T05:51:31.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/3d7bf6c4-e0e6-40b0-970e-b761eae46b09?fit=crop&format=auto&h=267&w=400&s=53635f3b037d58e44e4e0deb7e3a00740a3f3146",
+            "width": 400
+        },
+        "title": "Glimt-leiren utroper Brann til tittelkandidat: – Kommer til å være helt der oppe",
+        "url": "https://www.vg.no/sport/fotball/i/zEQK85/eliteserien-bodoe-glimt-utroper-brann-til-tittelkandidat"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "mQymv4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/mQymv4",
+        "preamble": "(Leicester – Everton 2–2) For syv år siden vant Leicester Premier League. Nå risikerer Jamie Vardy og «The Foxes» nedrykk.",
+        "published": {
+            "date": "mandag 1. mai",
+            "datetime": "2023-05-01 22:58:53",
+            "niceformat": "01.05.2023, 22:58",
+            "timestamp": "2023-05-01T20:58:53.000Z"
+        },
+        "thumbnail": {
+            "height": 278,
+            "url": "https://akamai.vgc.no/v2/images/03158aed-25df-4fc1-8d77-047c265cb502?fit=crop&format=auto&h=278&w=400&s=4dfb84c5ea81b3a1178ddd2e30b1ffd1e1b7c237",
+            "width": 400
+        },
+        "title": "Flere storklubber kan gå ned: Nedrykksdrama",
+        "url": "https://www.vg.no/sport/fotball/i/mQymv4/ny-skrekkskade-for-everton-kapteinen-det-er-mer-en-nok"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "7648BV",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/7648BV",
+        "preamble": "VALLE (VG) (Vålerenga – Lillestrøm 3–4) Med to avgjørende mål og fire mål på fire kamper er få spillere hetere enn Akor Adams (23). Allerede i fjor fulgte klubbene nøye med LSK-spissen – til og med da han var ute med skade.",
+        "published": {
+            "date": "mandag 1. mai",
+            "datetime": "2023-05-01 22:48:38",
+            "niceformat": "01.05.2023, 22:48",
+            "timestamp": "2023-05-01T20:48:38.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/8064dd76-7601-43a7-9013-5a1abdc5ecbd?fit=crop&format=auto&h=267&w=400&s=5738f11d44bce89a109123d4627f5bcd1fc23d8c",
+            "width": 400
+        },
+        "title": "Overtidshelten Adams kan forsvinne i sommer: – Et fantastisk råmateriale",
+        "url": "https://www.vg.no/sport/fotball/i/7648BV/overtidshelten-akor-adams-kan-forsvinne-i-sommer-et-fantastisk-raamateriale"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q17o2z",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q17o2z",
+        "preamble": "(Arsenal – Wolfsburg 2–3, sammenlagt 4–5 e.e.o.) Frida Maanum leverte en stor kamp. Men Wolfsburg sikret seg finaleplassen i Champions League.",
+        "published": {
+            "date": "mandag 1. mai",
+            "datetime": "2023-05-01 21:27:23",
+            "niceformat": "01.05.2023, 21:27",
+            "timestamp": "2023-05-01T19:27:23.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6e76d3c3-e5f9-4c8b-aeab-e9ba3152dc70?fit=crop&format=auto&h=267&w=400&s=256596c994efe1a127d7c90f04946e4c8cec77e0",
+            "width": 400
+        },
+        "title": "Maanum og Arsenal: Tapte CL-semifinalen etter drama",
+        "url": "https://www.vg.no/sport/fotball/i/q17o2z/strakk-ikke-til-arsenal-og-maanum-tapte-cl-semifinalen"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEQpLK",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEQpLK",
+        "preamble": "VALLE (VG) (Vålerenga – Lillestrøm 3–4) Etter to tap på rad var Vålerenga-trener Dag-Eilev Fagermo (56) & Co. på vei mot en sårt tiltrengt opptur, men med én mann mer på banen gjorde Lillestrøm det utrolige.",
+        "published": {
+            "date": "mandag 1. mai",
+            "datetime": "2023-05-01 19:56:45",
+            "niceformat": "01.05.2023, 19:56",
+            "timestamp": "2023-05-01T17:56:45.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/5a55e097-6116-45d8-852f-d308ce7f2d14?fit=crop&format=auto&h=267&w=400&s=b698b7a74486526b6157e3f27ebc80ecb2aa91f4",
+            "width": 400
+        },
+        "title": "Lillestrøm med ellevill snuoperasjon og seiersmål seks minutter på overtid i derbyet: – Denne gjengen gir aldri opp",
+        "url": "https://www.vg.no/sport/fotball/i/zEQpLK/lillestroem-med-ellevill-snuoperasjon-etter-var-utvisning-i-hoeydramatisk-derby"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Mop0xB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Mop0xB",
+        "preamble": "VALLE (VG) (Vålerenga – Lillestrøm 3–4) Diskusjonene hagler etter at Vålerenga-backen Simen Juklerød (28) ble utvist på ledelsen 3–1 til Vålerenga. Fotballekspert Henning Berg er blant dem som reagerer på det røde kortet som trolig ble helt avgjørende.",
+        "published": {
+            "date": "mandag 1. mai",
+            "datetime": "2023-05-01 19:13:46",
+            "niceformat": "01.05.2023, 19:13",
+            "timestamp": "2023-05-01T17:13:46.000Z"
+        },
+        "thumbnail": {
+            "height": 287,
+            "url": "https://akamai.vgc.no/v2/images/60b18746-94e9-4d9f-973a-7e9373016f35?fit=crop&format=auto&h=287&w=400&s=e9aaac82502243ca38e04ac9040aa29a0ec7da84",
+            "width": 400
+        },
+        "title": "Uenige om Juklerøds VAR-utvisning: – Spørsmålet om det er riktig vei å gå",
+        "url": "https://www.vg.no/sport/fotball/i/Mop0xB/uenige-om-jukleroeds-var-utvisning-spoersmaalet-om-det-er-riktig-vei-aa-gaa"
+    }
+]

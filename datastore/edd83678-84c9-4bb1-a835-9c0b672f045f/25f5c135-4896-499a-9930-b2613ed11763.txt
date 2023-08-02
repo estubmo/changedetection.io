@@ -1,0 +1,193 @@
+[
+    {
+        "slug": "oppdal-slo-melhus-gimse-gauldal-i-maalfest",
+        "url": "/lokalfotballen/i/l3L96y/oppdal-slo-melhus-gimse-gauldal-i-maalfest",
+        "title": {
+            "value": "Oppdal slo Melhus / Gimse / Gauldal i målfest"
+        },
+        "description": "Oppdal lå under 0-1, men snudde til 8-1-seier mot Melhus/Gimse/Gauldal i J15 2. divisjon, Avdeling 4 - Vår onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-07T20:33:24Z",
+        "lastModifiedAt": "2023-06-07T20:33:24Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-opp",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "charlottenlund-ordnet-poeng",
+        "url": "/lokalfotballen/i/gEKpbA/charlottenlund-ordnet-poeng",
+        "title": {
+            "value": "Charlottenlund ordnet poeng"
+        },
+        "description": "Charlottenlund og Vestbyen/Nationalkameratene/Sverresborg spilte 1-1 på CSK Varmbo Arena i G19 Elite, Vår onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-07T20:33:22Z",
+        "lastModifiedAt": "2023-06-07T20:33:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "astor-seiret-hjemme-mot-lensvik",
+        "url": "/lokalfotballen/i/rl3mo3/astor-seiret-hjemme-mot-lensvik",
+        "title": {
+            "value": "Astor seiret hjemme mot Lensvik"
+        },
+        "description": "Astor fikk med seg alle poengene da Lensvik ble slått 3-2 i 6. divisjon, Trøndelag - Avdeling 4 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-07T20:31:57Z",
+        "lastModifiedAt": "2023-06-07T20:31:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "poengdeling-mellom-kvik-og-ntnui",
+        "url": "/lokalfotballen/i/rl3mw3/poengdeling-mellom-kvik-og-ntnui",
+        "title": {
+            "value": "NTNUI spilte uavgjort"
+        },
+        "description": "David Melkvik og Magnus Austbø Seth scoret hvert sitt mål da Kvik og NTNUI delte poengene på Rosenborgbanen i 4. divisjon, Trøndelag - Avdeling 2 i fotball onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-07T20:23:10Z",
+        "lastModifiedAt": "2023-06-07T20:25:19Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "maalshow-fra-granhus",
+        "url": "/lokalfotballen/i/69dlE8/maalshow-fra-granhus",
+        "title": {
+            "value": "Granhus var giftig foran mål - scoret hattrick"
+        },
+        "description": "Silje Granhus ble med sine tre scoringer den store helten for Steinkjer 2 i 3-1-seieren over Rørvik i 4. divisjon, Trøndelag - Avdeling 1 i fotball. Rørvik har ikke tatt poeng på de siste seks kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-07T20:08:53Z",
+        "lastModifiedAt": "2023-06-07T20:31:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "tollhaug-avgjorde-for-ntnui-2",
+        "url": "/lokalfotballen/i/RGQoVa/tollhaug-avgjorde-for-ntnui-2",
+        "title": {
+            "value": "Tollhaug sikret tre poeng for NTNUI 2"
+        },
+        "description": "Nidelv gikk på sitt tredje strake tap da klubben røk 2-3 for NTNUI 2 i 4. divisjon, Trøndelag - Avdeling 2 i fotball for kvinner onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-07T20:08:53Z",
+        "lastModifiedAt": "2023-06-07T20:31:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "poengdeling-for-fosen-og-heimdal",
+        "url": "/lokalfotballen/i/dwzqKB/poengdeling-for-fosen-og-heimdal",
+        "title": {
+            "value": "Uavgjort mellom Fosen og Heimdal"
+        },
+        "description": "Det endte uavgjort mellom Fosen og Heimdal på Oksvoll gras i 4. divisjon, Trøndelag - Avdeling 2 i fotball onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-07T20:05:42Z",
+        "lastModifiedAt": "2023-06-07T20:31:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-fosnafolket",
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "mohammad-dib-hlou-ajouri-ble-tomaalshelt-mot-rennebu",
+        "url": "/lokalfotballen/i/MoJE00/mohammad-dib-hlou-ajouri-ble-tomaalshelt-mot-rennebu",
+        "title": {
+            "value": "Dobbel lykke da Melhus 3 / Gimse 3 vant"
+        },
+        "description": "Mohammad Dib Hlou Ajouri sto for den avgjørende scoringen da Melhus 3/Gimse 3 slo Rennebu 4-3 i G16 3. divisjon, Avdeling 3 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-07T20:00:13Z",
+        "lastModifiedAt": "2023-06-07T20:33:23Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-opp",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "brage-lauten-tveit-scoret-hattrick-for-ranheim-3",
+        "url": "/lokalfotballen/i/8JzRdW/brage-lauten-tveit-scoret-hattrick-for-ranheim-3",
+        "title": {
+            "value": "Fjerde strake seier for Ranheim 3"
+        },
+        "description": "Brage Lauten Tveit viste scoringsform da Ranheim 3 seiret 6-1 over Leik/Trønder-Lyn i G16 3. divisjon, Avdeling 3 - Vår onsdag. Det var Ranheim 3s fjerde strake trepoenger.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-07T19:51:49Z",
+        "lastModifiedAt": "2023-06-07T20:00:12Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "ranheim-2-ble-seriemester",
+        "url": "/lokalfotballen/i/xgye0B/ranheim-2-ble-seriemester",
+        "title": {
+            "value": "Ranheim 2 tok førsteplassen"
+        },
+        "description": "Tuva Elise Langlo scoret to ganger og hjalp Ranheim 2 til 5-1-seier over Fram/Remyra i J17 2. divisjon, Avdeling 1 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-07T19:43:36Z",
+        "lastModifiedAt": "2023-06-07T20:00:15Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    }
+]

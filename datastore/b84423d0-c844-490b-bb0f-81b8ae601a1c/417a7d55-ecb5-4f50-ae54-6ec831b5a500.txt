@@ -1,0 +1,371 @@
+[
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "ve1mpV",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/ve1mpV",
+        "preamble": "– Bodø/Glimt har en nærmest sykelig besettelse for å hente TIL-spillere, skriver kommentator Rune Robertsen. I Bodø fnyser de av påstanden. ",
+        "published": {
+            "date": "mandag 31. juli",
+            "datetime": "2023-07-31 13:22:39",
+            "niceformat": "31.07.2023, 13:22",
+            "timestamp": "2023-07-31T11:22:39.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/f81d8405-97cd-4c65-87e6-76a0de0fefa2?fit=crop&format=auto&h=267&w=400&s=83888b1949eb032203efe048503845e24aeb4960",
+            "width": 400
+        },
+        "title": "Kommentator ut mot Glimt: – En sykelig besettelse ",
+        "url": "https://www.vg.no/sport/fotball/i/ve1mpV/kommentator-ut-mot-glimt-en-sykelig-besettelse"
+    },
+    {
+        "authors": [
+            {
+                "email": "kristine.bechmann.holter@schibsted.no",
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4B3JR",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4B3JR",
+        "preamble": "(Japan–Spania 4–0) Spania fikk juling av et uhyre effektivt Japan, som sørget for gruppeseier og dermed møter Norge i åttedelsfinalen i VM.",
+        "published": {
+            "date": "mandag 31. juli",
+            "datetime": "2023-07-31 10:54:53",
+            "niceformat": "31.07.2023, 10:54",
+            "timestamp": "2023-07-31T08:54:53.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/8FphPWZJYGwq.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Japan møter Norge i VM etter overkjøring: – Pinlig for Spania",
+        "url": "https://www.vg.no/sport/fotball/i/P4B3JR/japan-sjokkerte-spania-disse-moeter-norge-i-aattendedelsfinalen"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "ve1mBl",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/ve1mBl",
+        "preamble": "Erik ten Hag var nådeløs i vurderingen av sine egne stjernespillere i 3–2-tapet mot Dortmund i natt.",
+        "published": {
+            "date": "mandag 31. juli",
+            "datetime": "2023-07-31 10:45:53",
+            "niceformat": "31.07.2023, 10:45",
+            "timestamp": "2023-07-31T08:45:53.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/7fc7f0ca-f92c-4557-bcae-89cf3841d45b?fit=crop&format=auto&h=267&w=400&s=2544d6cd9a7f4790150067bd71ac638cdda64259",
+            "width": 400
+        },
+        "title": "Ten Hag slakter egne stjerner: – Overhodet ikke bra",
+        "url": "https://www.vg.no/sport/fotball/i/ve1mBl/ten-hag-slakter-egne-stjerner-overhodet-ikke-bra"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kEGava",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kEGava",
+        "preamble": "AUCKLAND (VG) Fotballpresident Lise Klaveness forteller at hun reagerte med sjokk og vantro på ordene avisredaktør Trygve Hegnar valgte å publisere i timene før skjebnekampen mot Filippinene. ",
+        "published": {
+            "date": "mandag 31. juli",
+            "datetime": "2023-07-31 10:36:14",
+            "niceformat": "31.07.2023, 10:36",
+            "timestamp": "2023-07-31T08:36:14.000Z"
+        },
+        "thumbnail": {
+            "height": 263,
+            "url": "https://akamai.vgc.no/v2/images/3db3b8e4-9f22-4dab-b655-0b71a2b14db9?fit=crop&format=auto&h=263&w=400&s=5b3820800f85f59ff050a6ea7a2cbb738880b329",
+            "width": 400
+        },
+        "title": "Fotballpresidenten hardt ut mot Hegnar: – Kvinneforakt ",
+        "url": "https://www.vg.no/sport/fotball/i/kEGava/lise-klaveness-hardt-ut-mot-trygve-hegnar"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kEGW6Q",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kEGW6Q",
+        "preamble": "AUCKLAND (VG) Spillerne kjenner seg ikke igjen i NRK-saken om misnøye i den norske leiren. Nå mener landslagssjef Hege Riise at lekkasjene må ordnes opp i. ",
+        "published": {
+            "date": "mandag 31. juli",
+            "datetime": "2023-07-31 08:39:50",
+            "niceformat": "31.07.2023, 08:39",
+            "timestamp": "2023-07-31T06:39:50.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/e71d3b1f-9987-4279-bf3c-fc9ed35f373f?fit=crop&format=auto&h=267&w=400&s=3f5edff1cc4024e1dfd7faff1ff1cdccc6edef54",
+            "width": 400
+        },
+        "title": "Riise varsler oppvask etter lekkasjen: – Ikke slik det skal være",
+        "url": "https://www.vg.no/sport/fotball/i/kEGW6Q/riise-varsler-oppvask-etter-lekkasjen-ikke-slik-det-skal-vaere"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQg116",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQg116",
+        "preamble": "(Bodø/Glimt – Tromsø 0–2) Patrick Berg (25) etterlyser en diskusjon på kammerset etter nedturen i «slaget om Nord-Norge». Kjetil Knutsen (54) innrømmer at kapteinen har et poeng.",
+        "published": {
+            "date": "mandag 31. juli",
+            "datetime": "2023-07-31 07:09:48",
+            "niceformat": "31.07.2023, 07:09",
+            "timestamp": "2023-07-31T05:09:48.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/3630fea5-af7c-41aa-b4dd-c9adab949b5c?fit=crop&format=auto&h=267&w=400&s=71877a0db1610a6b17fe74e91098b1309349f59d",
+            "width": 400
+        },
+        "title": "Knutsen varsler knallhard evaluering etter smell: – Må snu alle arkene",
+        "url": "https://www.vg.no/sport/fotball/i/JQg116/patrick-berg-etterlyser-evaluering-kjetil-knutsen-innroemmer-mulig-treningsbom"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "abdra4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/abdra4",
+        "preamble": "VALLE (VG) Etter helgens tap ligger Vålerenga på direkte nedrykksplass. Nå får lagkaptein Stefan Strandberg (33) det glatte lag av supporterne. ",
+        "published": {
+            "date": "mandag 31. juli",
+            "datetime": "2023-07-31 04:20:18",
+            "niceformat": "31.07.2023, 04:20",
+            "timestamp": "2023-07-31T02:20:18.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/1185eb98-2f34-4212-9e75-d56bbdbabdc3?fit=crop&format=auto&h=267&w=400&s=6c5e1da8b15f4755b8bbaf539018361e19878116",
+            "width": 400
+        },
+        "title": "Forsvarer Strandberg mot frustrerte supportere: – Info som ikke alle vet",
+        "url": "https://www.vg.no/sport/fotball/i/abdra4/forsvarer-stefan-strandberg-mot-frustrerte-supportere"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgWAK8",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgWAK8",
+        "preamble": "(Bodø/Glimt – Tromsø 0–2) En svært sjelden Glimt-smell gjør at det virkelig tetter seg til i toppen av Eliteserien. Nå er Tromsø for alvor et lag å regne med.",
+        "published": {
+            "date": "søndag 30. juli",
+            "datetime": "2023-07-30 21:07:03",
+            "niceformat": "30.07.2023, 21:07",
+            "timestamp": "2023-07-30T19:07:03.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/yh_EeGFfwsf0.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "TIL rystet Bodø/Glimt og blåser liv i gullstriden: – Ikke et blaff",
+        "url": "https://www.vg.no/sport/fotball/i/xgWAK8/til-rystet-bodoe-glimt-og-blaaser-liv-i-gullstriden"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJBWml",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJBWml",
+        "preamble": "(Brann – Viking 0–2) Branns fantastiske hjemmerekke tok slutt i vestlandsderbyet mot Viking etter en «genistrek» av Zlatko Tripic (30).",
+        "published": {
+            "date": "søndag 30. juli",
+            "datetime": "2023-07-30 18:59:00",
+            "niceformat": "30.07.2023, 18:59",
+            "timestamp": "2023-07-30T16:59:00.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/UVMIt8C540cr.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Brann med første hjemmetap på 609 dager – Viking med syv strake seire",
+        "url": "https://www.vg.no/sport/fotball/i/eJBWml/brann-med-foerste-hjemmetap-paa-609-dager-viking-med-syv-strake-seire"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4ogjle",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4ogjle",
+        "preamble": "(Rosenborg – Odd 3–2) Rosenborg vartet opp med en ellevill snuoperasjon mot Odd. På veien fikk de god hjelp av Solomon Owusu, som ble utvist etter kvelertak.",
+        "published": {
+            "date": "søndag 30. juli",
+            "datetime": "2023-07-30 18:54:03",
+            "niceformat": "30.07.2023, 18:54",
+            "timestamp": "2023-07-30T16:54:03.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/B2I3OtdfYN-B.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Rosenborg snudde kampen etter katastrofestart",
+        "url": "https://www.vg.no/sport/fotball/i/4ogjle/rosenborg-snudde-kampen-mot-odd-etter-marerittstart"
+    }
+]

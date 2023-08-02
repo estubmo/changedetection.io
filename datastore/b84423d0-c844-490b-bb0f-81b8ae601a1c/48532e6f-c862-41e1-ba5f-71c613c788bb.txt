@@ -1,0 +1,380 @@
+[
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "APW245",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/APW245",
+        "preamble": "Alfie Haaland høster kritikk etter å ha meldt flytting til Sveits, men får tydelig støtte fra Finansavisens redaktør Trygve Hegnar.",
+        "published": {
+            "date": "tirsdag 6. juni",
+            "datetime": "2023-06-06 18:28:06",
+            "niceformat": "06.06.2023, 18:28",
+            "timestamp": "2023-06-06T16:28:06.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/216b9956-44e4-4f45-b241-326289f47a16?fit=crop&format=auto&h=267&w=400&s=0c08bfeb7b31b14c2e1270ab77914c9c71e1fdb0",
+            "width": 400
+        },
+        "title": "Alfie Haaland kritiseres etter Sveits-flytting – Trygve Hegnar kaller kritikken «kvalmende»",
+        "url": "https://www.vg.no/sport/fotball/i/APW245/alfie-haaland-kritiseres-etter-sveits-flytting-trygve-hegnar-kaller-kritikken-kvalmende"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "MoJ5vm",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/MoJ5vm",
+        "preamble": "Paolo Maldini er ferdig som teknisk direktør i Milan. Ifølge italienske medier skjer det som følge av uenighet med klubbeier Gerry Cardinale.",
+        "published": {
+            "date": "tirsdag 6. juni",
+            "datetime": "2023-06-06 18:08:56",
+            "niceformat": "06.06.2023, 18:08",
+            "timestamp": "2023-06-06T16:08:56.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/411867e7-b7a1-4d91-9e0e-10c07eaa33bc?fit=crop&format=auto&h=267&w=400&s=c536e6721984348ab1cd38f8b4a2cfd61d928bc6",
+            "width": 400
+        },
+        "title": "Paolo Maldini ferdig i Milan",
+        "url": "https://www.vg.no/sport/fotball/i/MoJ5vm/serie-a-paolo-maldini-ferdig-i-milan"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Kn1Ql6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Kn1Ql6",
+        "preamble": "ULLEVAAL STADION (VG) Norge tar inn på strøkne hoteller og dobler antall medlemmer i støtteapparatet med blant annet sikkerhetssjef og kokk foran U21-EM denne måneden.",
+        "published": {
+            "date": "tirsdag 6. juni",
+            "datetime": "2023-06-06 15:49:20",
+            "niceformat": "06.06.2023, 15:49",
+            "timestamp": "2023-06-06T13:49:20.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/e6df2211-a2fc-463e-b37f-befd9cdcbf8e?fit=crop&format=auto&h=267&w=400&s=b92396c39b5a065758bc1923a685179e781489b0",
+            "width": 400
+        },
+        "title": "U21-landslaget med omfattende EM-plan: «Viktig» besøk hos Bayern München",
+        "url": "https://www.vg.no/sport/fotball/i/Kn1Ql6/u21-landslaget-med-omfattende-em-plan-viktig-besoek-hos-bayern-munchen"
+    },
+    {
+        "authors": [
+            {
+                "email": "svea@vg.no",
+                "id": "f852e5e5-5ba9-48c7-96da-9455a160031f",
+                "name": "Knut Espen Svegaarden"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Knkr4E",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Knkr4E",
+        "preamble": "ULLEVAAL STADION (VG) Et ineffektivt norsk herrelandslag, også med Erling Braut Haaland på plass - det er landslagssjef Ståle Solbakkens mareritt før det som fort kan bli et skjebnemøte med Skottland om en EM-plass.",
+        "published": {
+            "date": "tirsdag 6. juni",
+            "datetime": "2023-06-06 15:13:22",
+            "niceformat": "06.06.2023, 15:13",
+            "timestamp": "2023-06-06T13:13:22.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a33475d7-b144-40c1-b981-11c9b90a1173?fit=crop&format=auto&h=267&w=400&s=461b4bb85f89e239617815abf2e0d3c499f58a65",
+            "width": 400
+        },
+        "title": "Solbakkens hodepine",
+        "url": "https://www.vg.no/sport/fotball/i/Knkr4E/solbakkens-hodepine"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "KnkrQG",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/KnkrQG",
+        "preamble": "Christophe Galtier (56) er ferdig som hovedtrener i Paris Saint-Germain, melder flere franske medier. ",
+        "published": {
+            "date": "tirsdag 6. juni",
+            "datetime": "2023-06-06 14:35:03",
+            "niceformat": "06.06.2023, 14:35",
+            "timestamp": "2023-06-06T12:35:03.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/613f1a97-e839-4f7d-94f6-a0dfec8b654b?fit=crop&format=auto&h=267&w=400&s=a79affcd682e08a882deeb709853dd292f425230",
+            "width": 400
+        },
+        "title": "Franske medier: Christophe Galtier ferdig i PSG",
+        "url": "https://www.vg.no/sport/fotball/i/KnkrQG/franske-medier-christophe-galtier-ferdig-i-psg"
+    },
+    {
+        "authors": [
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "158oXJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/158oXJ",
+        "preamble": "ULLEVAAL STADION (VG) Landslagssjef Ståle Solbakken sier det «ville vært idiotisk» å tvinge Erling Braut Haaland tidlig hjem fra Manchester Citys potensielle «The Treble»-feiring. Men et sted går grensen.",
+        "published": {
+            "date": "tirsdag 6. juni",
+            "datetime": "2023-06-06 12:20:39",
+            "niceformat": "06.06.2023, 12:20",
+            "timestamp": "2023-06-06T10:20:39.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/05cdd0e2-43ae-400e-aa39-d6718b92cab4?fit=crop&format=auto&h=267&w=400&s=6106cdb90cca0aea0406b5cc2496b221d8874787",
+            "width": 400
+        },
+        "title": "Solbakken med Haaland-frist: – Da må jeg nesten sette ned foten",
+        "url": "https://www.vg.no/sport/fotball/i/158oXJ/staale-solbakken-vet-ikke-naar-erling-braut-haaland-kommer-til-landslagssamlingen"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQGOkX",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQGOkX",
+        "preamble": "ULLEVAAL STADION (VG) Branns formspiller Bård Finne belønnes med en plass i troppen til Norges kamper mot Skottland og Kypros i juni. ",
+        "published": {
+            "date": "tirsdag 6. juni",
+            "datetime": "2023-06-06 12:02:35",
+            "niceformat": "06.06.2023, 12:02",
+            "timestamp": "2023-06-06T10:02:35.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/501c26b1-acb3-43ae-a917-7a048f6b8fc5?fit=crop&format=auto&h=267&w=400&s=eff548bfbf6caebc0a33274f4c26cd89f9086018",
+            "width": 400
+        },
+        "title": "Bård Finne med i landslagstroppen – Amahl Pellegrino utelatt",
+        "url": "https://www.vg.no/sport/fotball/i/JQGOkX/staale-solbakken-tar-ut-landslagstroppen-til-kampene-mot-skottland-og-kypros"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            },
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "APWbbn",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/APWbbn",
+        "preamble": "Arvtageren etter Antonio Conte er klar. Ange Postecoglou (57) er Tottenhams nye manager.",
+        "published": {
+            "date": "tirsdag 6. juni",
+            "datetime": "2023-06-06 11:35:56",
+            "niceformat": "06.06.2023, 11:35",
+            "timestamp": "2023-06-06T09:35:56.000Z"
+        },
+        "thumbnail": {
+            "height": 283,
+            "url": "https://akamai.vgc.no/v2/images/21704f97-a556-4dff-a722-78a8ac58ea1b?fit=crop&format=auto&h=283&w=400&s=4ee668768fbc66c411efcf77295de7c5399ddb8c",
+            "width": 400
+        },
+        "title": "Ange Postecoglou presentert som ny Tottenham-manager",
+        "url": "https://www.vg.no/sport/fotball/i/APWbbn/ange-postecoglou-presentert-som-ny-tottenham-manager"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            },
+            {
+                "email": "fredrik.solstad@vg.no",
+                "id": "42fbf715-1f5e-45d0-bd94-7e7ff1675788",
+                "name": "Fredrik Solstad (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "nQXnmm",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/nQXnmm",
+        "preamble": "JELØYA (VG) Sprint-Jeløy brukte godt over én million for å hindre at gummigranulat havnet i naturen. Men klubbens frivillige fikk likevel nye klager i fanget.  ",
+        "published": {
+            "date": "tirsdag 6. juni",
+            "datetime": "2023-06-06 10:17:22",
+            "niceformat": "06.06.2023, 10:17",
+            "timestamp": "2023-06-06T08:17:22.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ff4f405a-40d7-4ddb-a446-5fc0ea746d03?fit=crop&format=auto&h=267&w=400&s=c039652a58e7feb43f8461a972256eb95aa433c3",
+            "width": 400
+        },
+        "title": "Breddeklubb tømte sparegrisen – slites ut av nye naboklager",
+        "url": "https://www.vg.no/sport/fotball/i/nQXnmm/breddeklubb-toemte-sparegrisen-slites-ut-av-nye-naboklager"
+    },
+    {
+        "authors": [
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "XbnMxE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/XbnMxE",
+        "preamble": "Analysebyrået CIES Football Observatory mener Erling Braut Haaland (22) er verdens mest verdifulle fotballspiller.",
+        "published": {
+            "date": "tirsdag 6. juni",
+            "datetime": "2023-06-06 09:58:39",
+            "niceformat": "06.06.2023, 09:58",
+            "timestamp": "2023-06-06T07:58:39.000Z"
+        },
+        "thumbnail": {
+            "height": 290,
+            "url": "https://akamai.vgc.no/v2/images/c5ce2ed6-7198-417b-9294-f26bce0b1ae6?fit=crop&format=auto&h=290&w=400&s=6da40f7cb001fe53dc867406c9858e4e37a11bf5",
+            "width": 400
+        },
+        "title": "Mener Haaland er verdt 2,9 milliarder kroner",
+        "url": "https://www.vg.no/sport/fotball/i/XbnMxE/mener-haaland-er-verdt-2-9-milliarder-kroner"
+    }
+]

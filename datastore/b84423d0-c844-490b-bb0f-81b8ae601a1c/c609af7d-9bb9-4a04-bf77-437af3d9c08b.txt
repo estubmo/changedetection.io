@@ -1,0 +1,387 @@
+[
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VP2M9d",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VP2M9d",
+        "preamble": "HAMILTON (VG) Even Pellerud er krystallklar på at Sveits ikke er gode nok til å slå Norge. Men da må én ting fjernes fra åpningskampen mot New Zealand. ",
+        "published": {
+            "date": "tirsdag 25. juli",
+            "datetime": "2023-07-25 08:09:13",
+            "niceformat": "25.07.2023, 08:09",
+            "timestamp": "2023-07-25T06:09:13.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/3cf8b74e-9b16-4bdf-baee-bd6975cb5982?fit=crop&format=auto&h=267&w=400&s=0e1940130aa57944e35daea2edc5b33e85822b2c",
+            "width": 400
+        },
+        "title": "Tidligere landslagssjef mener Norge led av angst: – Blir forstyrrelser i hodet ",
+        "url": "https://www.vg.no/sport/fotball/i/VP2M9d/even-pellerud-mener-norges-kvinnelandslag-slet-med-angst-i-aapningskampen-i-vm"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GM2ARq",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GM2ARq",
+        "preamble": "HAMILTON (VG) Caroline Graham Hansen, Ingrid Syrstad Engen og Julie Blakstad er vraket til skjebnekampen mot Sveits. Det vekker oppsikt internasjonalt. ",
+        "published": {
+            "date": "tirsdag 25. juli",
+            "datetime": "2023-07-25 05:32:29",
+            "niceformat": "25.07.2023, 05:32",
+            "timestamp": "2023-07-25T03:32:29.000Z"
+        },
+        "thumbnail": {
+            "height": 268,
+            "url": "https://akamai.vgc.no/v2/images/d5e7f0f5-9fb4-4eb6-b5c4-84870c8e359e?fit=crop&format=auto&h=268&w=400&s=58c3e383f2bba1e6c0ee04bf457d8f023b3243b9",
+            "width": 400
+        },
+        "title": "Rystet etter vraking av stjernespiller: – At de våger ",
+        "url": "https://www.vg.no/sport/fotball/i/GM2ARq/rystet-etter-meldinger-om-vraking-i-det-norske-laget-at-de-vaager"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJwwza",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJwwza",
+        "preamble": "AUCKLAND (VG) Sveitsiske Alisha Lehmann (24) har blitt et fenomen. Eksperter er uenige om markedsføringen hennes er riktig vei å gå. ",
+        "published": {
+            "date": "mandag 24. juli",
+            "datetime": "2023-07-24 22:48:52",
+            "niceformat": "24.07.2023, 22:48",
+            "timestamp": "2023-07-24T20:48:52.000Z"
+        },
+        "thumbnail": {
+            "height": 258,
+            "url": "https://akamai.vgc.no/v2/images/934355d9-0232-43cd-a616-18d973504bfc?fit=crop&format=auto&h=258&w=400&s=f49c295e444f1f12bb0b0cff54c97ad97cc001d4",
+            "width": 400
+        },
+        "title": "Sveits-stjerne er størst i VM – sammenlignes med Beckham",
+        "url": "https://www.vg.no/sport/fotball/i/eJwwza/alisha-lehmann-mest-populaere-spiller-i-vm-paa-instagram"
+    },
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3Wjzo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3Wjzo",
+        "preamble": "(Viking – Aalesund 3–1) Seierstoget Viking dundrer videre i Eliteserien - men etter kampen mener Aalesund-trener Christian Johnsen at de mørkeblå fikk god hjelp av dommeren. ",
+        "published": {
+            "date": "mandag 24. juli",
+            "datetime": "2023-07-24 20:53:46",
+            "niceformat": "24.07.2023, 20:53",
+            "timestamp": "2023-07-24T18:53:46.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/ig7b38q9C4ZW.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Viking tok sin sjette seier – tilbake på annenplass i Eliteserien",
+        "url": "https://www.vg.no/sport/fotball/i/l3Wjzo/viking-tok-sin-sjette-seier-tilbake-paa-annenplass-i-eliteserien"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            },
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            },
+            {
+                "email": "andreas.hellenes@schibsted.com",
+                "id": "424642b6-03fe-42cd-abe2-5f7517e8a8e1",
+                "name": "Andreas Hellenes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJworQ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJworQ",
+        "preamble": "Eksperter reagerer med sjokk og undring på meldingene om at Caroline Graham Hansen (28) vrakes til tirsdagens skjebnekamp mot Sveits. ",
+        "published": {
+            "date": "mandag 24. juli",
+            "datetime": "2023-07-24 19:03:39",
+            "niceformat": "24.07.2023, 19:03",
+            "timestamp": "2023-07-24T17:03:39.000Z"
+        },
+        "thumbnail": {
+            "height": 268,
+            "url": "https://akamai.vgc.no/v2/images/04737537-eb67-430a-b09a-de7730b12647?fit=crop&format=auto&h=268&w=400&s=b5558989bb573100051de643390f882c8d2322e0",
+            "width": 400
+        },
+        "title": "Kraftige reaksjoner på meldinger om at Graham Hansen vrakes: – Vanskelig å forstå ",
+        "url": "https://www.vg.no/sport/fotball/i/eJworQ/kraftige-reaksjoner-paa-meldinger-om-at-graham-hansen-vrakes-vanskelig-aa-forstaa"
+    },
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9zLdj9",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9zLdj9",
+        "preamble": "Sky Sports melder at Paris Saint-Germain skal ha akseptert et bud på 300 millioner euro fra saudiarabiske Al-Hilal på Kylian Mbappé (24). ",
+        "published": {
+            "date": "mandag 24. juli",
+            "datetime": "2023-07-24 17:44:12",
+            "niceformat": "24.07.2023, 17:44",
+            "timestamp": "2023-07-24T15:44:12.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/1bcf9f3f-6668-4d90-9851-9fe8541fecb2?fit=crop&format=auto&h=267&w=400&s=f628e86a12074b44788f9678879bae5940f2954b",
+            "width": 400
+        },
+        "title": "Sky Sports: PSG har akseptert bud på Mbappé",
+        "url": "https://www.vg.no/sport/fotball/i/9zLdj9/sky-psg-har-aksptert-bud-paa-mbappe"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            },
+            {
+                "email": "andreas.hellenes@schibsted.com",
+                "id": "424642b6-03fe-42cd-abe2-5f7517e8a8e1",
+                "name": "Andreas Hellenes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4oK8JV",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4oK8JV",
+        "preamble": "Den engelske landslagshelten Trevor Francis (69) er død. Francis er kjent for å være den første britiske spilleren som ble kjøpt for over én million pund.",
+        "published": {
+            "date": "mandag 24. juli",
+            "datetime": "2023-07-24 15:39:33",
+            "niceformat": "24.07.2023, 15:39",
+            "timestamp": "2023-07-24T13:39:33.000Z"
+        },
+        "thumbnail": {
+            "height": 255,
+            "url": "https://akamai.vgc.no/v2/images/d05b3373-ae6a-434e-aaee-19e54c024f9d?fit=crop&format=auto&h=255&w=400&s=b89c4fd91e632ab7517e13a04398eb1d2c207b0c",
+            "width": 400
+        },
+        "title": "England-helt Trevor Francis (69) er død",
+        "url": "https://www.vg.no/sport/fotball/i/4oK8JV/england-helten-trevor-francis-69-er-doed"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VP232l",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VP232l",
+        "preamble": "Midtstopperen Sondre Langås (22) har skrevet under for Viking.",
+        "published": {
+            "date": "mandag 24. juli",
+            "datetime": "2023-07-24 15:04:48",
+            "niceformat": "24.07.2023, 15:04",
+            "timestamp": "2023-07-24T13:04:48.000Z"
+        },
+        "thumbnail": {
+            "height": 225,
+            "url": "https://akamai.vgc.no/v2/images/6abaf149-74b7-4f45-986e-868deab6e92a?fit=crop&format=auto&h=225&w=400&s=b1cb1c33b7374b7afc204e2978f73feb977d722f",
+            "width": 400
+        },
+        "title": "Viking bekrefter: Henter midtstopper fra Ranheim",
+        "url": "https://www.vg.no/sport/fotball/i/VP232l/viking-bekrefter-henter-midtstopper-fra-ranheim"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQ2nwa",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQ2nwa",
+        "preamble": "Den tidligere Sandefjord-stopperen Martin Kreuzriegler (29) har signert en kontrakt ut 2024 med Vålerenga.",
+        "published": {
+            "date": "mandag 24. juli",
+            "datetime": "2023-07-24 12:34:01",
+            "niceformat": "24.07.2023, 12:34",
+            "timestamp": "2023-07-24T10:34:01.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/7fada323-49ed-433a-a898-21984c847907?fit=crop&format=auto&h=267&w=400&s=75e64163fce5822d3cb40fffe451d00d2743e6e8",
+            "width": 400
+        },
+        "title": "Dette er Geir Bakkes første signering som Vålerenga-trener",
+        "url": "https://www.vg.no/sport/fotball/i/EQ2nwa/bekreftet-dette-er-geir-bakkes-foerste-signering-som-vaalerenga-trener"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q1rdpL",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q1rdpL",
+        "preamble": "Dersom Molde slår HJK Helsinki over to oppgjør, møter de enten Klaksvik eller Häcken i den tredje kvalifiseringsrunden i Champions League. Trekningen er også klar for Brann, Rosenborg og Bodø/Glimt.",
+        "published": {
+            "date": "mandag 24. juli",
+            "datetime": "2023-07-24 12:12:01",
+            "niceformat": "24.07.2023, 12:12",
+            "timestamp": "2023-07-24T10:12:01.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/7b24de67-aa56-4aba-aaf9-ad94bf5b8ef0?fit=crop&format=auto&h=267&w=400&s=a99a45e59d334474a8eb25db41a5e3b459df52b0",
+            "width": 400
+        },
+        "title": "Trekningen klar: Molde kan møte Hoseth eller Høgmo",
+        "url": "https://www.vg.no/sport/fotball/i/q1rdpL/trekningen-klar-molde-moeter-hoseth-eller-hoegmo"
+    }
+]

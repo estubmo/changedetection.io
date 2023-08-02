@@ -1,0 +1,360 @@
+[
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76gKGK",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76gKGK",
+        "preamble": "Overgangssagaen rundt danske Rasmus Højlund (20) ser ut til å nærme seg slutten.",
+        "published": {
+            "date": "tirsdag 1. august",
+            "datetime": "2023-08-01 00:10:53",
+            "niceformat": "01.08.2023, 00:10",
+            "timestamp": "2023-07-31T22:10:53.000Z"
+        },
+        "thumbnail": {
+            "height": 265,
+            "url": "https://akamai.vgc.no/v2/images/79952ca6-5c8b-4a10-b606-424ca2df4367?fit=crop&format=auto&h=265&w=400&s=9a6af7b6f56c0f6cb7514ef63f657d2fad2feb70",
+            "width": 400
+        },
+        "title": "The Athletic: Højlund reiser til Manchester tirsdag",
+        "url": "https://www.vg.no/sport/fotball/i/76gKGK/the-athletic-hoeijlund-reiser-til-manchester-tirsdag"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "LlgnLQ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/LlgnLQ",
+        "preamble": "Fabinho (29) forlater Liverpool etter fem år. Nå blir han lagkamerat med blant andre Karim Benzema i Al-Ittihad.",
+        "published": {
+            "date": "mandag 31. juli",
+            "datetime": "2023-07-31 21:52:03",
+            "niceformat": "31.07.2023, 21:52",
+            "timestamp": "2023-07-31T19:52:03.000Z"
+        },
+        "thumbnail": {
+            "height": 276,
+            "url": "https://akamai.vgc.no/v2/images/a298c3a3-d9d6-46e3-91a7-2859fa69d10b?fit=crop&format=auto&h=276&w=400&s=0dc508f1db8d5781f913bb0bbb1508367d17a331",
+            "width": 400
+        },
+        "title": "Bekreftet: Fabinho klar for Al-Ittihad",
+        "url": "https://www.vg.no/sport/fotball/i/LlgnLQ/bekreftet-fabinho-klar-for-saudi-arabia"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9zVOxp",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9zVOxp",
+        "preamble": "(IK Sirius – AIK 0–1) En suser fra distanse minuttet før full tid gjorde at Henning Berg og AIK klatret opp til trygg plass i Allsvenskan.",
+        "published": {
+            "date": "mandag 31. juli",
+            "datetime": "2023-07-31 20:51:51",
+            "niceformat": "31.07.2023, 20:51",
+            "timestamp": "2023-07-31T18:51:51.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/3f60efe9-bcf3-4da3-a4d6-cfd7c3e28d5d?fit=crop&format=auto&h=267&w=400&s=eba7f4b4051487133735e854fcaf41193fce4b50",
+            "width": 400
+        },
+        "title": "Henning Bergs AIK gikk seirende ut av dramatisk bunnkamp",
+        "url": "https://www.vg.no/sport/fotball/i/9zVOxp/henning-bergs-aik-gikk-seirende-ut-av-bunnkampen"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "rlKgMA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/rlKgMA",
+        "preamble": "Virgil van Dijk (32) overtar rollen Jordan Henderson har hatt de siste åtte sesongene.",
+        "published": {
+            "date": "mandag 31. juli",
+            "datetime": "2023-07-31 19:04:56",
+            "niceformat": "31.07.2023, 19:04",
+            "timestamp": "2023-07-31T17:04:56.000Z"
+        },
+        "thumbnail": {
+            "height": 307,
+            "url": "https://akamai.vgc.no/v2/images/ad49c657-0ff6-4871-9f0a-8aa503621026?fit=crop&format=auto&h=307&w=400&s=f20249fee6a2b1e0a85d6a80ff71f2286c372e90",
+            "width": 400
+        },
+        "title": "Van Dijk er ny Liverpool-kaptein: – Gjør meg veldig stolt",
+        "url": "https://www.vg.no/sport/fotball/i/rlKgMA/van-dijk-ny-liverpool-kaptein"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQgWe2",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQgWe2",
+        "preamble": "Midtbanespilleren Elias Hagen (23) vender tilbake til norsk fotball etter syv måneder i Sverige. Han skal spille for Vålerenga de neste sesongene.",
+        "published": {
+            "date": "mandag 31. juli",
+            "datetime": "2023-07-31 19:00:38",
+            "niceformat": "31.07.2023, 19:00",
+            "timestamp": "2023-07-31T17:00:38.000Z"
+        },
+        "thumbnail": {
+            "height": 225,
+            "url": "https://akamai.vgc.no/v2/images/493f8cf1-d905-497e-83a3-fc80ccc634f6?fit=crop&format=auto&h=225&w=400&s=17a7b0875828846cc0278b1fd3c612506709a1ff",
+            "width": 400
+        },
+        "title": "Tidligere Bodø/Glimt-spiller Elias Hagen klar for Vålerenga",
+        "url": "https://www.vg.no/sport/fotball/i/EQgWe2/tidligere-bodoe-glimt-spiller-elias-hagen-klar-for-vaalerenga"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5Bl02z",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5Bl02z",
+        "preamble": "André Onana forklarer hvorfor han ikke var nådig med lagkamerat Harry Maguire etter en feil mot Borussia Dortmund.",
+        "published": {
+            "date": "mandag 31. juli",
+            "datetime": "2023-07-31 18:40:00",
+            "niceformat": "31.07.2023, 18:40",
+            "timestamp": "2023-07-31T16:40:00.000Z"
+        },
+        "thumbnail": {
+            "height": 679,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/eb3dq4CBIjiC.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Onana raste mot United-forsvaret: – Må være kritiske",
+        "url": "https://www.vg.no/sport/fotball/i/5Bl02z/manchester-united-keeper-andre-onana-raste-mot-harry-maguire-maa-vaere-kritiske"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "LlgAwP",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/LlgAwP",
+        "preamble": "Midtbanespiller Felix Horn Myhre (27) har skrevet under en ny langtidskontrakt med Brann.",
+        "published": {
+            "date": "mandag 31. juli",
+            "datetime": "2023-07-31 16:10:48",
+            "niceformat": "31.07.2023, 16:10",
+            "timestamp": "2023-07-31T14:10:48.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6074c109-d724-486e-b648-a2b23180bb02?fit=crop&format=auto&h=267&w=400&s=40adcb7354fddf8cee4ef34dbfe21216e372c3ab",
+            "width": 400
+        },
+        "title": "Horn Myhre forlenget kontrakten med Brann",
+        "url": "https://www.vg.no/sport/fotball/i/LlgAwP/horn-myhre-forlenget-kontrakten-med-brann"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            },
+            {
+                "email": "kristine.bechmann.holter@schibsted.no",
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "XbBg2g",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/XbBg2g",
+        "preamble": "(Canada – Australia 0–4) Australia hadde kniven på strupen før den siste gruppekampen mot Canada, men innfridde så til de grader. Med det er OL-mester Canada ute av mesterskapet. ",
+        "published": {
+            "date": "mandag 31. juli",
+            "datetime": "2023-07-31 14:08:30",
+            "niceformat": "31.07.2023, 14:08",
+            "timestamp": "2023-07-31T12:08:30.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/64bfd570-525d-4013-ad57-ae6d061bdc0f?fit=crop&format=auto&h=267&w=400&s=bccf553ec82dfb4cefae77158a34867113882b24",
+            "width": 400
+        },
+        "title": "Australia videre i fotball-VM etter storseier mot Canada",
+        "url": "https://www.vg.no/sport/fotball/i/XbBg2g/australia-videre-i-fotball-vm-etter-storseier"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "APgdBn",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/APgdBn",
+        "preamble": "Twente vil ikke ha med seg supportere til Sverige når det nederlandske laget spiller returkamp mot Hammarby i torsdagens conferenceligakvalifisering.",
+        "published": {
+            "date": "mandag 31. juli",
+            "datetime": "2023-07-31 14:00:39",
+            "niceformat": "31.07.2023, 14:00",
+            "timestamp": "2023-07-31T12:00:39.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/680b9f8d-c94c-4c55-8b8c-a91b66fe5f2f?fit=crop&format=auto&h=267&w=400&s=178f3a52d3e52dc4033fea9710d718ba6106d2c5",
+            "width": 400
+        },
+        "title": "Frykter hevnaksjoner i Stockholm – annullerer billetter ",
+        "url": "https://www.vg.no/sport/fotball/i/APgdBn/frykter-hevnaksjoner-i-stockholm-annullerer-billetter"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3EgJ7A",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3EgJ7A",
+        "preamble": "Premier League går sammen med andre engelske fotballinstanser for å fremme god oppførsel på og utenfor banen. Et strikt regelverk er på plass før sesongstarten.",
+        "published": {
+            "date": "mandag 31. juli",
+            "datetime": "2023-07-31 13:55:55",
+            "niceformat": "31.07.2023, 13:55",
+            "timestamp": "2023-07-31T11:55:55.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/fa11ad76-ec16-4911-b73d-c5e478b3c857?fit=crop&format=auto&h=267&w=400&s=2010f6eb13b8be58fa0ee7f01399fbf3908b17f5",
+            "width": 400
+        },
+        "title": "Nye regler i engelsk fotball – skal slå hardere ned på kranglefanter",
+        "url": "https://www.vg.no/sport/fotball/i/3EgJ7A/nye-regler-i-engelsk-fotball-skal-slaa-hardere-ned-paa-kranglefanter"
+    }
+]

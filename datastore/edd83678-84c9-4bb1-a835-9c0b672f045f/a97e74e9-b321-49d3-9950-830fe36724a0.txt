@@ -1,0 +1,189 @@
+[
+    {
+        "slug": "hun-var-helt-sjef-da-sjansene-endelig-satt",
+        "url": "/sport/fotball/i/wAbL9P/hun-var-helt-sjef-da-sjansene-endelig-satt",
+        "title": {
+            "value": "Hun var helt sjef da sjansene endelig satt"
+        },
+        "description": "Anna Jøsendal fikk beskjed om å slippe seg løs og ikke tenke for mye. Det funket, for playmakeren var strålende da RBK knuste Brann.",
+        "imageUrl": "a14006dd-479c-4748-9be8-d7a1b87fe17b",
+        "publishedAt": "2023-05-14T17:09:01Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "to-fulltreffere-fra-valli",
+        "url": "/lokalfotballen/i/eJXgEQ/to-fulltreffere-fra-valli",
+        "title": {
+            "value": "Valli ble tomålshelt mot Ålen 7er"
+        },
+        "description": "Selbu 2 7er snudde Ålen 7ers 2-0-ledelse og vant 5-2 i 7er, Trøndelag - Avdeling 3 i fotball. Oda Marlene Valli scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-14T17:00:50Z",
+        "lastModifiedAt": "2023-05-14T17:23:54Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "aga-scoret-to-for-rosenborg-2",
+        "url": "/lokalfotballen/i/Knq4ze/aga-scoret-to-for-rosenborg-2",
+        "title": {
+            "value": "Brakseier for Rosenborg 2"
+        },
+        "description": "Orkla gikk på sitt tredje strake tap da klubben tapte 0-5 for Rosenborg 2 i 3. divisjon, Avdeling 5 i fotball for menn søndag. Oscar Aga scoret to av målene.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-14T16:57:45Z",
+        "lastModifiedAt": "2023-05-14T17:21:04Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "rbk-utklasset-brann",
+        "url": "/sport/fotball/i/MoqrGE/rbk-utklasset-brann",
+        "title": {
+            "value": "- Jeg synes vi kjører over dem"
+        },
+        "description": "Med to mål på ni minutter drepte Rosenborg tidlig spenningen i Bergen.",
+        "imageUrl": "5208925d-9df8-409b-824d-fa6dfab308f3",
+        "publishedAt": "2023-05-14T16:36:37Z",
+        "lastModifiedAt": "2023-05-14T17:21:18Z",
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "toppserien",
+            "anna-joesendal",
+            "synne-skinnes-hansen",
+            "emilie-joramo",
+            "emilie-nautnes",
+            "steinar-lein"
+        ]
+    },
+    {
+        "slug": "overhalla-maatte-dele-poengene",
+        "url": "/lokalfotballen/i/abp92d/overhalla-maatte-dele-poengene",
+        "title": {
+            "value": "Overhalla måtte dele poengene"
+        },
+        "description": "Tuva Søraunet reddet poeng for Fram/Remyra med en sen utligning i 1-1-kampen mot Overhalla i 4. divisjon, Trøndelag - Avdeling 1 i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-14T16:22:45Z",
+        "lastModifiedAt": "2023-05-14T16:22:45Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "ishockey-manglerud-star-mistet-lisensen",
+        "url": "/nyheter/innenriks/i/onlbJK/ishockey-manglerud-star-mistet-lisensen",
+        "title": {
+            "value": "Ishockey: Manglerud Star mistet lisensen – får ikke spille i eliteserien"
+        },
+        "description": "Styret i Norges Ishockeyforbund har bestemt atå ikke gi Manglerud Star ny lisens for neste sesong på grunn av økonomisk rot.",
+        "imageUrl": "841a4790-e8ad-4746-bc9d-0a9cbd87ae00",
+        "publishedAt": "2023-05-14T16:06:33Z",
+        "lastModifiedAt": "2023-05-14T16:47:58Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "knusende-seier-for-tiller",
+        "url": "/lokalfotballen/i/rlbR0w/knusende-seier-for-tiller",
+        "title": {
+            "value": "Brakseier for Tiller"
+        },
+        "description": "Tiller banket Kristiansund 2 5-1 i 3. divisjon, Avdeling 5 i fotball for menn. Kristiansund 2 har tapt to kamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-14T16:02:13Z",
+        "lastModifiedAt": "2023-05-14T16:21:32Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "poengdeling-mellom-troender-lyn-og-bodoe-glimt-2",
+        "url": "/lokalfotballen/i/GMqLzx/poengdeling-mellom-troender-lyn-og-bodoe-glimt-2",
+        "title": {
+            "value": "Uavgjort mellom Trønder-Lyn og Bodø/Glimt 2"
+        },
+        "description": "Trønder-Lyn og Bodø/Glimt 2 måtte nøye seg med uavgjort på Sørøya kunstgress i 3. divisjon, Avdeling 5 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-14T15:57:07Z",
+        "lastModifiedAt": "2023-05-14T16:21:32Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "tomaalshelten-sikret-seier-for-trond",
+        "url": "/lokalfotballen/i/bgovyv/tomaalshelten-sikret-seier-for-trond",
+        "title": {
+            "value": "Dobbel fra Luka Fossen Pavlovic for Trond"
+        },
+        "description": "Trond tok sin tredje seier på rad da Ørland ble slått 6-2 i G16 1. divisjon, Avdeling 1 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-14T15:52:54Z",
+        "lastModifiedAt": "2023-05-14T16:22:44Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "mikael-floenes-spjoetvold-i-scoringshumoer",
+        "url": "/lokalfotballen/i/mQp9XE/mikael-floenes-spjoetvold-i-scoringshumoer",
+        "title": {
+            "value": "Dobbel lykke da Charlottenlund vant"
+        },
+        "description": "Mikael Flønes Spjøtvold ledet an med to av målene i 4-0-seieren over Freidig i G16 Elite, Vår søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-14T15:51:54Z",
+        "lastModifiedAt": "2023-05-14T16:51:27Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

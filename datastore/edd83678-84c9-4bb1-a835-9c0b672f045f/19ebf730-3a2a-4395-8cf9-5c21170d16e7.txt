@@ -1,0 +1,191 @@
+[
+    {
+        "slug": "gloetheim-avgjorde-for-roeros-os-nansen",
+        "url": "/lokalfotballen/i/xgy7Wl/gloetheim-avgjorde-for-roeros-os-nansen",
+        "title": {
+            "value": "Gløtheim avgjorde for Røros / Os / Nansen"
+        },
+        "description": "Ådne Gløtheim scoret det avgjørende målet da Røros/Os/Nansen slo Brekken 3-2 i 6. divisjon, Trøndelag - Avdeling 6 i fotball for menn. Brekken har tapt de siste to kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-08T22:56:24Z",
+        "lastModifiedAt": "2023-06-08T22:56:24Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "knusende-seier-for-leinstrand-byneset",
+        "url": "/lokalfotballen/i/VPLoLl/knusende-seier-for-leinstrand-byneset",
+        "title": {
+            "value": "Knusende seier for Leinstrand / Byneset"
+        },
+        "description": "Leinstrand/Byneset banket Budal 9-1 i 4. divisjon, Trøndelag - Avdeling 3 i fotball torsdag. Leinstrand/Byneset tok sin første borteseier denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-08T21:03:23Z",
+        "lastModifiedAt": "2023-06-08T21:56:53Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-gauldalsposten",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "knusende-seier-for-tiller-3",
+        "url": "/lokalfotballen/i/jlMgbA/knusende-seier-for-tiller-3",
+        "title": {
+            "value": "Nettsus for Karlsen"
+        },
+        "description": "Kevin Karlsen viste scoringsform da Tiller 3 seiret 6-1 over Flatås i 6. divisjon, Trøndelag - Avdeling 5 i fotball for menn. Tiller 3 har vunnet fem av sine seks siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-08T20:50:25Z",
+        "lastModifiedAt": "2023-06-08T21:02:20Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "national-vant-igjen",
+        "url": "/lokalfotballen/i/RGQEq8/national-vant-igjen",
+        "title": {
+            "value": "National tok sin sjette seier på rad"
+        },
+        "description": "Gauldal gikk på sitt sjette strake tap da klubben røk 0-3 for National i 5. divisjon, Trøndelag - Avdeling 3 i fotball for menn torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-08T20:47:16Z",
+        "lastModifiedAt": "2023-06-08T20:56:38Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "hattrick-show-fra-ranheim-3",
+        "url": "/lokalfotballen/i/y6yGKx/hattrick-show-fra-ranheim-3",
+        "title": {
+            "value": "Målshow fra Ranheim 3"
+        },
+        "description": "Ranheim 3 banket Utleira 2 8-2 i 4. divisjon, Trøndelag - Avdeling 3 torsdag. Tuva Elise Langlo scoret tre mål. Utleira 2 har tapt sine to siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-08T20:37:37Z",
+        "lastModifiedAt": "2023-06-08T21:03:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "leik-slo-buvik-2-i-maalfest",
+        "url": "/lokalfotballen/i/abkqaL/leik-slo-buvik-2-i-maalfest",
+        "title": {
+            "value": "Leik knuste Buvik 2"
+        },
+        "description": "Leik banket Buvik 2 19-0 i 6. divisjon, Trøndelag - Avdeling 6 i fotball. Frank Olav Gaustad scoret fem mål.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-08T20:23:15Z",
+        "lastModifiedAt": "2023-06-08T21:56:54Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "bangsund-med-hjemmeseier-over-fram",
+        "url": "/lokalfotballen/i/y6yGVR/bangsund-med-hjemmeseier-over-fram",
+        "title": {
+            "value": "Bangsund-seier over Fram"
+        },
+        "description": "Fram gikk på sitt fjerde tap på rad da laget tapte 2-3 for Bangsund i 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-08T20:21:02Z",
+        "lastModifiedAt": "2023-06-08T22:55:25Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "nettsus-for-kammen",
+        "url": "/lokalfotballen/i/jlMgwz/nettsus-for-kammen",
+        "title": {
+            "value": "Kammen-dobbel for Kolstad 7er"
+        },
+        "description": "Trygg/Lade 7er ble slått 2-1 av Kolstad 7er og tapte dermed sin første kamp i årets sesong Tonje Kammen scoret begge målene for Kolstad 7er.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-08T20:12:32Z",
+        "lastModifiedAt": "2023-06-08T20:37:35Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "brakseier-for-lade",
+        "url": "/lokalfotballen/i/gEKR45/brakseier-for-lade",
+        "title": {
+            "value": "Storseier for Lade"
+        },
+        "description": "Lade banket Rissa 5-1 i 6. divisjon, Trøndelag - Avdeling 3 i fotball for menn. Lade har fem seirer på sine seks siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-08T20:11:27Z",
+        "lastModifiedAt": "2023-06-08T22:56:25Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "troender-lyn-2-slo-gimse-i-maalfest",
+        "url": "/lokalfotballen/i/8JzjRE/troender-lyn-2-slo-gimse-i-maalfest",
+        "title": {
+            "value": "Trønder-Lyn 2 vant i målfest"
+        },
+        "description": "Trønder-Lyn 2 lå under med to mål, men snudde kampen og vant 5-2 i 6. divisjon, Trøndelag - Avdeling 6 i fotball. Jacob Berntzen scoret fire ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-08T20:01:37Z",
+        "lastModifiedAt": "2023-06-08T21:02:20Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    }
+]

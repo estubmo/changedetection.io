@@ -1,0 +1,205 @@
+[
+    {
+        "slug": "den-foelsomme-kameraten",
+        "url": "/magasin/i/764LbB/den-foelsomme-kameraten",
+        "title": {
+            "value": "LO-leder møtte veggen: - Jeg kunne bruke dagen på å glane inn i et tomt word-dokument"
+        },
+        "description": "Byens LO-leder tar gjerne noen spontane dansetrinn på sin vei gjennom byen. Han føler seg mer enn ung nok til slike påfunn.",
+        "imageUrl": "129afe29-10d7-4f22-ab75-759ecf801f84",
+        "publishedAt": "2023-04-29T09:48:12Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Åge Winge",
+            "Richard Sagen (foto)"
+        ],
+        "tags": [
+            "ada-hegerberg",
+            "motorpsycho",
+            "trondheim",
+            "john-peder-denstad",
+            "aage-winge",
+            "1-mai",
+            "folkets-hus",
+            "politikk",
+            "fagforening",
+            "streik",
+            "broennoeysund",
+            "ukeadressa",
+            "fotball",
+            "hockeysveis"
+        ]
+    },
+    {
+        "slug": "rbk-profilens-nye-liv-det-er-mange-som-kommenterer-haaret-mitt",
+        "url": "/sport/fotball/i/wA0Q01/rbk-profilens-nye-liv-det-er-mange-som-kommenterer-haaret-mitt",
+        "title": {
+            "value": "RBK-profilens nye liv: – Det er mange som kommenterer håret mitt "
+        },
+        "description": "Jayden Nelson flyttet rett fra gutterommet til en alenetilværelse i Trondheim. Nå forteller han om savnet av kjæresten, kravene fra fansen - og sitt eget hår.",
+        "imageUrl": "c318da36-6a27-45f8-aa20-1bd84f97b5a7",
+        "publishedAt": "2023-04-29T09:43:11Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen",
+            "Christine Schefte (foto)"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/GMnLPl/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag, lørdag 28. april.",
+        "imageUrl": "d39ac4a9-b137-4e4f-8ecb-0c6e762cb76e",
+        "publishedAt": "2023-04-29T07:48:10Z",
+        "lastModifiedAt": "2023-04-29T07:48:10Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "maatte-stanse-folk-i-doeren-naa-tar-rbk-grep",
+        "url": "/sport/fotball/i/kEyOMj/maatte-stanse-folk-i-doeren-naa-tar-rbk-grep",
+        "title": {
+            "value": "– Det at vi nå må si «beklager, det er utsolgt» er faktisk ganske kult"
+        },
+        "description": "Publikumsøkningen på Koteng Arena får konsekvenser.",
+        "imageUrl": "c07cf877-f242-47c2-b175-6a0262683e0e",
+        "publishedAt": "2023-04-29T05:51:39Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "fotball",
+            "toppserien",
+            "tore-bjoerseth-berdal"
+        ]
+    },
+    {
+        "slug": "uavgjort-i-maalfest-mellom-kattem-og-charlottenlund-2",
+        "url": "/lokalfotballen/i/WReKVa/uavgjort-i-maalfest-mellom-kattem-og-charlottenlund-2",
+        "title": {
+            "value": "Uavgjort i målfest mellom Kattem og Charlottenlund 2"
+        },
+        "description": "Charlottenlund 2 var på vei mot seier, men måtte nøye seg med 6-6 mot Kattem i 6. divisjon, Trøndelag - Avdeling 3 i fotball fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T00:17:22Z",
+        "lastModifiedAt": "2023-04-29T00:47:30Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "flataas-med-hjemmeseier-over-klaebu",
+        "url": "/lokalfotballen/i/O8e7BA/flataas-med-hjemmeseier-over-klaebu",
+        "title": {
+            "value": "Klæbu tapte borte"
+        },
+        "description": "Klæbu gav bort alle poengene da de ble slått 2-0 av Flatås i 6. divisjon, Trøndelag - Avdeling 5 i fotball for menn fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-28T20:30:11Z",
+        "lastModifiedAt": "2023-04-28T20:49:41Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-klabuposten"
+        ]
+    },
+    {
+        "slug": "nardo-2-seier-over-oerland",
+        "url": "/lokalfotballen/i/on8amB/nardo-2-seier-over-oerland",
+        "title": {
+            "value": "Bortetap for Ørland"
+        },
+        "description": "Nardo 2 seiret 2-1 over Ørland i 4. divisjon, Trøndelag - Avdeling 2 i fotball fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-28T20:14:31Z",
+        "lastModifiedAt": "2023-04-28T20:17:33Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "olsen-senket-aafjord",
+        "url": "/lokalfotballen/i/dwb9zJ/olsen-senket-aafjord",
+        "title": {
+            "value": "Åfjord tapte borte mot Fram"
+        },
+        "description": "Åfjord tapte 0-2 mot Fram på Framnes stadion i 5. divisjon, Trøndelag - Avdeling 1 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-28T19:44:50Z",
+        "lastModifiedAt": "2023-04-28T22:17:48Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "vinne-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/on8a8a/vinne-fortsatte-seiersrekken",
+        "title": {
+            "value": "Hjemmetap for Nessegutten mot Vinne"
+        },
+        "description": "Nessegutten tapte 0-1 mot Vinne da Morten Granaune Olsen scoret kampen eneste mål i 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-28T19:02:53Z",
+        "lastModifiedAt": "2023-04-28T20:17:33Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "maal-lykke-for-maren-pelabon",
+        "url": "/lokalfotballen/i/l3ljeL/maal-lykke-for-maren-pelabon",
+        "title": {
+            "value": "Orkla tapte i målfest"
+        },
+        "description": "Orkla ble slått 0-12 av Ranheim på Extra Arena i J17 1. divisjon, Avdeling 2 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-28T18:50:35Z",
+        "lastModifiedAt": "2023-04-29T09:47:36Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    }
+]

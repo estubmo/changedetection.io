@@ -1,0 +1,379 @@
+[
+    {
+        "authors": [
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            },
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQMAb7",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQMAb7",
+        "preamble": "BERGEN (VG) (Brann-Rosenborg 3–1) Branns Bård Finne herjet og forverret Rosenborg-krisen. Nå må trener Kjetil Rekdal forklare seg overfor styret.",
+        "published": {
+            "date": "mandag 29. mai",
+            "datetime": "2023-05-29 18:54:10",
+            "niceformat": "29.05.2023, 18:54",
+            "timestamp": "2023-05-29T16:54:10.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/32537936-85ca-481b-a27a-40068581c5e6?fit=crop&format=auto&h=267&w=400&s=21498646d463132bd76554e3ec4add3f44628356",
+            "width": 400
+        },
+        "title": "Rekdal må forklare seg for styret etter Rosenborg-tap",
+        "url": "https://www.vg.no/sport/fotball/i/JQMAb7/finne-herjet-med-rbk-brann-spillerne-raste-etter-omdiskutert-situasjon"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "y6XMqA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/y6XMqA",
+        "preamble": "Det har ligget i kortene lenge, men mandag kom bekreftelsen: Argentinske Mauricio Pochettino (51) leder Chelsea fra og med neste sesong.",
+        "published": {
+            "date": "mandag 29. mai",
+            "datetime": "2023-05-29 14:00:10",
+            "niceformat": "29.05.2023, 14:00",
+            "timestamp": "2023-05-29T12:00:10.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/340694c6-8d4a-44d4-a4cd-574971553c96?fit=crop&format=auto&h=267&w=400&s=35ad5ecef50eeaf72bf9e88b895ea26e49148e1e",
+            "width": 400
+        },
+        "title": "Bekreftet: Pochettino er ny Chelsea-trener",
+        "url": "https://www.vg.no/sport/fotball/i/y6XMqA/mauricio-pochettino-er-chelsea-sin-nye-trener"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.magnussen@vg.no",
+                "id": "c2719103-4ea1-4707-a00b-f29f023b60e1",
+                "name": "Jostein Magnussen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMKeGm",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMKeGm",
+        "preamble": "Han ble «drittlei»  i Rosenborg og dro. Så tok han over et Brann i krise og rykket ned. Nå ruller ballen Eirik Hornelands vei – og mandag møter han gamleklubben til storkamp.",
+        "published": {
+            "date": "mandag 29. mai",
+            "datetime": "2023-05-29 13:32:11",
+            "niceformat": "29.05.2023, 13:32",
+            "timestamp": "2023-05-29T11:32:11.000Z"
+        },
+        "thumbnail": {
+            "height": 268,
+            "url": "https://akamai.vgc.no/v2/images/1316aed6-ca49-45a9-9a9f-fa84338b0408?fit=crop&format=auto&h=268&w=400&s=76646882958adb64e1ef4a504a5db66045f3486e",
+            "width": 400
+        },
+        "title": "Åpenhjertig Horneland: – Når vi ikke er på vårt beste, ser det tynt ut",
+        "url": "https://www.vg.no/sport/fotball/i/GMKeGm/brann-trener-eirik-horneland-nedturen-i-rosenborg-skandalen-i-brann-og-stoetten-fra-kona-tine"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "15wGjX",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/15wGjX",
+        "preamble": "(Atletico Madrid – Real Sociedad 2–1) Alexander Sørloth scoret da Real Sociedad tapte 1-2 for Atletico Madrid søndag. Klubben er sikret fjerdeplass i La Liga og Champions League neste sesong.",
+        "published": {
+            "date": "søndag 28. mai",
+            "datetime": "2023-05-28 20:57:45",
+            "niceformat": "28.05.2023, 20:57",
+            "timestamp": "2023-05-28T18:57:45.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/335686ee-4b49-47b0-9a00-89431f68edff?fit=crop&format=auto&h=267&w=400&s=ba9bbe81f62563e9d52b0f3161a3678e57ee206e",
+            "width": 400
+        },
+        "title": "Sørloth scoret da Real Sociedad sikret Champions League-spill",
+        "url": "https://www.vg.no/sport/fotball/i/15wGjX/soerloth-scoret-da-real-sociedad-sikret-champions-league-spill"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WRd1ba",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WRd1ba",
+        "preamble": "(Brentford – Manchester City 1–0) Erling Braut Haaland (22) har scoret 36 mål i Premier League denne sesongen. Det resulterte i en gullstøvel etter serieavslutningen.",
+        "published": {
+            "date": "søndag 28. mai",
+            "datetime": "2023-05-28 19:36:47",
+            "niceformat": "28.05.2023, 19:36",
+            "timestamp": "2023-05-28T17:36:47.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/c7818a4c-1d12-4d0f-afd1-96e1e520eb03?fit=crop&format=auto&h=300&w=400&s=d85968a085bbd932b1d38ca334530b6d82983c84",
+            "width": 400
+        },
+        "title": "Haaland satt på benken i Manchester City-tap – fikk gullstøvelen etter kamp",
+        "url": "https://www.vg.no/sport/fotball/i/WRd1ba/ellevill-maalfest-mellom-liverpool-og-southampton-brentford-rystet-man-city"
+    },
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jlXJ9n",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jlXJ9n",
+        "preamble": "(Everton – Bournemouth 1–0) Med 45 minutter igjen av sesongen lå Everton under streken. Så dukket Abdoulaye Doucouré opp, reddet klubben og sørget for banestorming.",
+        "published": {
+            "date": "søndag 28. mai",
+            "datetime": "2023-05-28 19:31:26",
+            "niceformat": "28.05.2023, 19:31",
+            "timestamp": "2023-05-28T17:31:26.000Z"
+        },
+        "thumbnail": {
+            "height": 268,
+            "url": "https://akamai.vgc.no/v2/images/c2cb06bc-de3b-4ed3-8380-878463b645ea?fit=crop&format=auto&h=268&w=400&s=bd2030bf36c613033d58d78784eabf5b3a5e089b",
+            "width": 400
+        },
+        "title": "Elleville jubelscener da Everton berget plassen: – En magisk dag",
+        "url": "https://www.vg.no/sport/fotball/i/jlXJ9n/elleville-jubelscener-da-everton-berget-plassen"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEjO81",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEjO81",
+        "preamble": "(Djurgården - AIK 1–0) Derbyet mellom Djurgården og AIK ble stoppet da bluss ble kastet ut på banen og det oppsto brann på tribunen. Politiet måtte storme banen.",
+        "published": {
+            "date": "søndag 28. mai",
+            "datetime": "2023-05-28 17:08:20",
+            "niceformat": "28.05.2023, 17:08",
+            "timestamp": "2023-05-28T15:08:20.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/54b76475-e7dd-46dc-9caa-ac9be50ccd06?fit=crop&format=auto&h=266&w=400&s=59a7fdd934c43b0eea2c20e8de4601d3a1e937c9",
+            "width": 400
+        },
+        "title": "Fullt kaos i svensk derby: – En fullstendig jævla katastrofe",
+        "url": "https://www.vg.no/sport/fotball/i/gEjO81/fullstendig-kaos-og-skandalescener-i-sverige"
+    },
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            },
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BWdB19",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BWdB19",
+        "preamble": "(Leeds – Tottenham 1–4, Leicester – West Ham 2–1) Everton reddet plassen, mens Leeds og Leicester må ta den tunge turen ned i Championship.",
+        "published": {
+            "date": "søndag 28. mai",
+            "datetime": "2023-05-28 16:26:16",
+            "niceformat": "28.05.2023, 16:26",
+            "timestamp": "2023-05-28T14:26:16.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/fd5092ac-2c14-4d7e-8a79-6fc66bfc198e?fit=crop&format=auto&h=267&w=400&s=835eec5a30bcfa8b202a6052988940f34ec14c32",
+            "width": 400
+        },
+        "title": "Leeds og Leicester rykket ned fra Premier League: – Mangel på tro og selvtillit",
+        "url": "https://www.vg.no/sport/fotball/i/BWdB19/foelg-nedrykksdramaet-i-premier-league"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3EQgbv",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3EQgbv",
+        "preamble": "(Bayern München – Turbine Potsdam 11–1) Bayern München – med den norske trioen Alexander Straus, Tuva Hansen og Emilie Bragstad – sikret seriegullet i kvinnenes Bundesliga.",
+        "published": {
+            "date": "søndag 28. mai",
+            "datetime": "2023-05-28 15:51:06",
+            "niceformat": "28.05.2023, 15:51",
+            "timestamp": "2023-05-28T13:51:06.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/ouwt3k1pysdb.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Alexander Straus tok Bayern München til Bundesliga-tittelen i debutsesongen – vant siste kamp 11–1",
+        "url": "https://www.vg.no/sport/fotball/i/3EQgbv/alexander-straus-tok-bayern-munchen-til-bundesliga-tittelen-i-debutsesongen-vant-siste-kamp-11-1"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "691gK8",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/691gK8",
+        "preamble": "Den spanske målvakten Sergio Rico González (29) er alvorlig skadet etter å ha falt av en hest.",
+        "published": {
+            "date": "søndag 28. mai",
+            "datetime": "2023-05-28 13:18:45",
+            "niceformat": "28.05.2023, 13:18",
+            "timestamp": "2023-05-28T11:18:45.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/d38d8542-97db-452c-b9b5-f33ea8e744b2?fit=crop&format=auto&h=267&w=400&s=fc211dac9628dbe1581d6271c5e1ecb7052377f0",
+            "width": 400
+        },
+        "title": "PSG-keeper Sergio Rico alvorlig skadet i ulykke",
+        "url": "https://www.vg.no/sport/fotball/i/691gK8/medier-psg-keeper-alvorlig-skadd-i-ulykke"
+    }
+]

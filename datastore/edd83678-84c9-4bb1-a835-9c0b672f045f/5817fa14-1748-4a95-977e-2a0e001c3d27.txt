@@ -1,0 +1,185 @@
+[
+    {
+        "slug": "rbk-talent-laanes-ut-til-obosligaen",
+        "url": "/sport/fotball/i/rlbJm0/rbk-talent-laanes-ut-til-obosligaen",
+        "title": {
+            "value": "RBK-talent lånes ut til Obosligaen"
+        },
+        "description": "Marius Broholm er på vei til Kristiansund.",
+        "imageUrl": "fb994b5c-ccc2-425f-9815-1abe8d436120",
+        "publishedAt": "2023-05-13T11:00:11Z",
+        "lastModifiedAt": "2023-05-13T11:00:11Z",
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen",
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "han-vokste-opp-i-trondheim-at-dette-skulle-skje-hadde-han-aldri-sett-for-seg",
+        "url": "/sport/fotball/i/8JvRnE/han-vokste-opp-i-trondheim-at-dette-skulle-skje-hadde-han-aldri-sett-for-seg",
+        "title": {
+            "value": "– Jeg tror det kommer til å snu på et eller annet tidspunkt"
+        },
+        "description": "I 2018 var Glimt nær å rykke ned, mens RBK sparket Kåre Ingebrigtsen. Fem år senere er Glimt suveren serieleder, mens RBK sliter med å skape sjanser.",
+        "imageUrl": "5e1609e9-c376-42a5-bab1-0e4db10588c5",
+        "publishedAt": "2023-05-13T08:52:12Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen",
+            "David Engmo (foto)"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "2500-tilskuere-maatte-dra-hjem-det-er-flaut-naar-man-skal-debutere",
+        "url": "/mn24/i/bgobl5/2500-tilskuere-maatte-dra-hjem-det-er-flaut-naar-man-skal-debutere",
+        "title": {
+            "value": "– 2500 tilskuere måtte dra hjem. Det er flaut når man skal debutere"
+        },
+        "description": "Frank Lidahl har brent for fotballen i 25 år, men har sagt at han skal bli gartner den dagen han gir seg.",
+        "imageUrl": "1b4a75e9-0ec2-4a69-a721-2aa79b7a94eb",
+        "publishedAt": "2023-05-13T04:00:11Z",
+        "lastModifiedAt": "2023-05-13T04:00:11Z",
+        "premium": true,
+        "authors": [
+            "Synne Mauseth, MN24"
+        ],
+        "tags": [
+            "fotball",
+            "frank-lidahl"
+        ]
+    },
+    {
+        "slug": "joergenvaag-ble-helten-for-kvik-2",
+        "url": "/lokalfotballen/i/3Ezdx9/joergenvaag-ble-helten-for-kvik-2",
+        "title": {
+            "value": "Jørgenvåg avgjorde for Kvik 2"
+        },
+        "description": "Med dagens 2-1-seier over Tolga-Vingelen tok Kvik 2 sin første trepoenger i årets sesong. I 5. divisjon, Trøndelag - Avdeling 3 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-12T20:20:40Z",
+        "lastModifiedAt": "2023-05-12T20:49:59Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "nettsus-for-johnsen",
+        "url": "/lokalfotballen/i/5Bwzrb/nettsus-for-johnsen",
+        "title": {
+            "value": "Dobbel fra Johnsen for Bangsund"
+        },
+        "description": "Lasse Johnsen ble med sine to scoringer den store helten for Bangsund i 2-1-seieren over Leksdal i 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-12T20:12:31Z",
+        "lastModifiedAt": "2023-05-12T23:19:45Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "bolme-senket-utleira",
+        "url": "/lokalfotballen/i/q1bM3O/bolme-senket-utleira",
+        "title": {
+            "value": "Bolme ble helten for Rindal"
+        },
+        "description": "Sondre Næss Bolme sikret tre poeng for Rindal da Utleira ble slått 1-0 i 5. divisjon, Trøndelag - Avdeling 2 i fotball for menn fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-12T20:12:31Z",
+        "lastModifiedAt": "2023-05-12T21:19:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/2BJkvq/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag, lørdag 13. mai,",
+        "imageUrl": "0fb52ef5-9432-47f3-95f7-9f66c4514177",
+        "publishedAt": "2023-05-12T19:07:35Z",
+        "lastModifiedAt": "2023-05-12T19:07:35Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "rbk-legenden-om-bildet-jeg-haaper-dette-er-fra-80-tallet",
+        "url": "/sport/fotball/i/xgbWaV/rbk-legenden-om-bildet-jeg-haaper-dette-er-fra-80-tallet",
+        "title": {
+            "value": "RBK-legenden om bildet: – Jeg håper dette er fra 80-tallet! "
+        },
+        "description": "Ørjan Berg om tiden i Rosenborg, sønnens oppvekst i Trondheim og forskjellen mellom lagene.",
+        "imageUrl": "c009f6cc-e87c-4334-9540-1c7cbd89e2d1",
+        "publishedAt": "2023-05-12T18:44:58Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "kolstad-flataas-seiret-over-leinstrand-byneset",
+        "url": "/lokalfotballen/i/bgobGd/kolstad-flataas-seiret-over-leinstrand-byneset",
+        "title": {
+            "value": "Kolstad/Flatås seiret over Leinstrand/Byneset"
+        },
+        "description": "Kolstad/Flatås slo Leinstrand/Byneset 6-1 og tok sin første seier denne sesongen. I G16 3. divisjon, Avdeling 2 - Vår fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-12T18:23:02Z",
+        "lastModifiedAt": "2023-05-12T18:23:02Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "askil-maeland-i-scoringshumoer-mot-nidelv",
+        "url": "/lokalfotballen/i/O8qJnA/askil-maeland-i-scoringshumoer-mot-nidelv",
+        "title": {
+            "value": "To fulltreffere fra Askil Mæland"
+        },
+        "description": "Ranheim 2 tok sin tredje seier på rad med 5-0 over Nidelv i G16 1. divisjon, Avdeling 1 - Vår fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-12T17:45:08Z",
+        "lastModifiedAt": "2023-05-12T17:51:38Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

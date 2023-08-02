@@ -1,0 +1,403 @@
+[
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEQRqB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEQRqB",
+        "preamble": "Angrepsspiller Tobias Gulliksen (20) er på medisinsk test hos Bodø/Glimt torsdag.",
+        "published": {
+            "date": "torsdag 20. juli",
+            "datetime": "2023-07-20 13:14:56",
+            "niceformat": "20.07.2023, 13:14",
+            "timestamp": "2023-07-20T11:14:56.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/497ef491-5022-4419-aa06-79036663b5a4?fit=crop&format=auto&h=267&w=400&s=dca4fb6a99a85f6203c2f1718f34f519471affbc",
+            "width": 400
+        },
+        "title": "Gulliksen er på medisinsk test i Bodø",
+        "url": "https://www.vg.no/sport/fotball/i/gEQRqB/gulliksen-er-paa-medisinsk-test-i-bodoe"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            },
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "4aa5b8a3-977b-45c3-b688-268d0aa381c4",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QJgeg",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QJgeg",
+        "preamble": "AUCKLAND (VG) (New Zealand – Norge 1–0) Dette var en svak, svak fotballkamp der underdog New Zealand var nærmere 2–0 enn Norge var 1–1.",
+        "published": {
+            "date": "torsdag 20. juli",
+            "datetime": "2023-07-20 10:59:50",
+            "niceformat": "20.07.2023, 10:59",
+            "timestamp": "2023-07-20T08:59:50.000Z"
+        },
+        "thumbnail": {
+            "height": 255,
+            "url": "https://akamai.vgc.no/v2/images/101996d6-6a28-472e-852a-699148e9a684?fit=crop&format=auto&h=255&w=400&s=6d6f34da35954d3d5ac4ef6e04e430bf8ea0d4c8",
+            "width": 400
+        },
+        "title": "VG-børsen: Krisestart av de norske kvinnene – kun én får femmer",
+        "url": "https://www.vg.no/sport/fotball/i/0QJgeg/vg-boersen-krisestart-av-de-norske-kvinnene-kun-en-faar-femmer"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            },
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "AP9Jgz",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/AP9Jgz",
+        "preamble": "EDEN PARK (VG) (New Zealand – Norge 1–0) Dritt, skuffende og skremmende elendig: Det norske landslaget får gjennomgå av både seg selv og eksperter etter det sjokkerende tapet for New Zealand i første VM-kamp.",
+        "published": {
+            "date": "torsdag 20. juli",
+            "datetime": "2023-07-20 10:59:28",
+            "niceformat": "20.07.2023, 10:59",
+            "timestamp": "2023-07-20T08:59:28.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/5dd0ac8d-6525-4a0d-83cb-5ae44d7c63f5?fit=crop&format=auto&h=267&w=400&s=66cd6aebc1e873bfa19f6d9276b3135e6692fcf1",
+            "width": 400
+        },
+        "title": "New Zealand rystet Norge i åpningskampen i VM: – For noe forbanna dritt",
+        "url": "https://www.vg.no/sport/fotball/i/AP9Jgz/new-zealand-rystet-norge-i-aapningskampen-i-vm-surr-og-rot"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "onmk4W",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/onmk4W",
+        "preamble": "AUCKLAND (VG) Særlig én ting mener fotballekspert Carl-Erik Torp gjør at Norge blir «fullstendig» avkledd. Det problemet skal ha blitt tatt tak i, skal vi tro Tuva Hansen. ",
+        "published": {
+            "date": "torsdag 20. juli",
+            "datetime": "2023-07-20 04:20:26",
+            "niceformat": "20.07.2023, 04:20",
+            "timestamp": "2023-07-20T02:20:26.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/54b48bb7-9c6e-48b9-b63f-9fa2d6103d84?fit=crop&format=auto&h=267&w=400&s=1857704282d4529cb3d28e4161e0924bf1790750",
+            "width": 400
+        },
+        "title": "Ekspertens hodebry: Nå forsikrer spilleren at problemet er tatt tak i",
+        "url": "https://www.vg.no/sport/fotball/i/onmk4W/ekspertens-hodebry-naa-forsikrer-spilleren-at-problemet-er-tatt-tak-i"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WR2aLK",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WR2aLK",
+        "preamble": "Molde møter HJK Helsinki i andre runde av Champions League-kvalifiseringen etter at finnene slo ut nordirske Larne 3–2 sammenlagt onsdag kveld.",
+        "published": {
+            "date": "onsdag 19. juli",
+            "datetime": "2023-07-19 23:09:54",
+            "niceformat": "19.07.2023, 23:09",
+            "timestamp": "2023-07-19T21:09:54.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/90aac363-98fb-41c8-8e88-cef5be8046e0?fit=crop&format=auto&h=267&w=400&s=6e949b13f26f59f47e5ffd0861fdc08b7b5da8df",
+            "width": 400
+        },
+        "title": "Molde får finsk motstand i Champions League-kvalifisering",
+        "url": "https://www.vg.no/sport/fotball/i/WR2aLK/molde-faar-finsk-motstand-i-champions-league-kvalifisering"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            },
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q7296W",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q7296W",
+        "preamble": "AUCKLAND (VG) Den internasjonale pressen stusser over at stjernegalleriet Norge ikke har prestert siden EM i 2013. Nå svarer Graham Hansen på forvirringen. ",
+        "published": {
+            "date": "onsdag 19. juli",
+            "datetime": "2023-07-19 20:54:39",
+            "niceformat": "19.07.2023, 20:54",
+            "timestamp": "2023-07-19T18:54:39.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/12c0e502-bf65-4fd6-89df-c75340a2209a?fit=crop&format=auto&h=267&w=400&s=0218e1541000e3b2ac7cb1795b0b2d5edea7ebc5",
+            "width": 400
+        },
+        "title": "Graham Hansen om stjernegalleriet: – Synd vi ikke har fått mer ut av det ",
+        "url": "https://www.vg.no/sport/fotball/i/Q7296W/caroline-graham-hansen-om-norges-lag-i-vm"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "15zrAq",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/15zrAq",
+        "preamble": "(Karlsruher – Liverpool 2–4) Diogo Jota scoret to mål på overtid da Liverpools stjernegalleri slo tyske Karlsruher i sin første treningskamp denne sommeren.",
+        "published": {
+            "date": "onsdag 19. juli",
+            "datetime": "2023-07-19 20:34:46",
+            "niceformat": "19.07.2023, 20:34",
+            "timestamp": "2023-07-19T18:34:46.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/fcYm_72PrUaJ.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Jota-dobbel på overtid fikset Liverpool-seier",
+        "url": "https://www.vg.no/sport/fotball/i/15zrAq/jota-dobbel-paa-overtid-fikset-liverpool-seier"
+    },
+    {
+        "authors": [
+            {
+                "email": "kristine.bechmann.holter@schibsted.no",
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJwk0M",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJwk0M",
+        "preamble": "(Ferencvarosi TC – KÍ Klaksvík 0–3, 0–3 sammenlagt) Magne Hoseths  Klaksvík tok seg videre til andre runde av Champions League-kvaliken etter å ha knust det ungarske storlaget Ferencvaros.",
+        "published": {
+            "date": "onsdag 19. juli",
+            "datetime": "2023-07-19 19:59:23",
+            "niceformat": "19.07.2023, 19:59",
+            "timestamp": "2023-07-19T17:59:23.000Z"
+        },
+        "thumbnail": {
+            "height": 425,
+            "url": "https://akamai.vgc.no/v2/images/2763d05a-bef9-4e68-bcbb-7265dcee74ef?fit=crop&format=auto&h=425&w=400&s=1c1021bfda26f28bf8208ded0a8d1e249c34555a",
+            "width": 400
+        },
+        "title": "«Norske» Klaksvík videre i CL-kvaliken etter kjempeprestasjon",
+        "url": "https://www.vg.no/sport/fotball/i/eJwk0M/norske-klaksvik-videre-i-cl-kvaliken-etter-kjempeprestasjon"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAp90d",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAp90d",
+        "preamble": "LILLESTRØM (VG) (Lillestrøm-Aalesund 5–1) Aalesund scoret først, men et rødt kort etter et «karatespark» ble starten på en målfest av de sjeldne på Åråsen. ",
+        "published": {
+            "date": "onsdag 19. juli",
+            "datetime": "2023-07-19 19:53:37",
+            "niceformat": "19.07.2023, 19:53",
+            "timestamp": "2023-07-19T17:53:37.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/63262423-7302-4c46-ab74-920e82c361fe?fit=crop&format=auto&h=267&w=400&s=52f3b6e14d3ab049d2abc2632ef64f4a62d0bce9",
+            "width": 400
+        },
+        "title": "Akor Adams befestet sin posisjon som toppscorer: – Det finnes ingen grense",
+        "url": "https://www.vg.no/sport/fotball/i/wAp90d/lillestroem-scoret-fem-da-aalesund-ble-knust-paa-aaraasen"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Xb2zLr",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Xb2zLr",
+        "preamble": "Keeperkjempen André Hansen (33) gir seg i Rosenborg etter sesongen. Det bekrefter keeperen selv til Adresseavisen.",
+        "published": {
+            "date": "onsdag 19. juli",
+            "datetime": "2023-07-19 19:43:53",
+            "niceformat": "19.07.2023, 19:43",
+            "timestamp": "2023-07-19T17:43:53.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/4f9af7ee-31ae-40e4-a6d8-ed1b49a6bdaf?fit=crop&format=auto&h=267&w=400&s=a2bda8b4264b8f93c1adba52f02c973421a90653",
+            "width": 400
+        },
+        "title": "Adressa: Gir seg i RBK etter sesongen",
+        "url": "https://www.vg.no/sport/fotball/i/Xb2zLr/adressa-gir-seg-i-rbk-etter-sesongen"
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "slug": "kjendisopproer-paa-bakklandet-vi-maa-ta-vare-paa-bydelen",
+        "url": "/nyheter/trondheim/i/4o0P7e/kjendisopproer-paa-bakklandet-vi-maa-ta-vare-paa-bydelen",
+        "title": {
+            "value": "Kjendisopprør: - Å utsette folk for kamikazesyklister er skummelt"
+        },
+        "description": "Øystein Dolmen, Alexander Sørloth og Ivar Koteng står på samme liste: De vil beholde brosteinen på Bakklandet.",
+        "imageUrl": "169c550b-31c5-4535-9dbb-2dafb4d6ade2",
+        "publishedAt": "2023-05-20T15:54:34Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Aagot Opheim"
+        ],
+        "tags": [
+            "oeystein-dolmen",
+            "goeran-soerloth",
+            "alexander-soerloth",
+            "bakklandet",
+            "formannskapet-i-trondheim",
+            "trondheim-kommune"
+        ]
+    },
+    {
+        "slug": "vuku-slo-roervik-i-maalfest",
+        "url": "/lokalfotballen/i/15wBgX/vuku-slo-roervik-i-maalfest",
+        "title": {
+            "value": "Vuku slo Rørvik i målfest"
+        },
+        "description": "Vuku tok sin fjerde strake seier med 6-2 over Rørvik i 4. divisjon, Trøndelag - Avdeling 1 i fotball for kvinner. Fredrikke Baglo Bjørkeng scoret tre av målene.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-20T15:40:36Z",
+        "lastModifiedAt": "2023-05-20T15:40:36Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "vaalerenga-seier-over-rosenborg",
+        "url": "/lokalfotballen/i/pQXAoE/vaalerenga-seier-over-rosenborg",
+        "title": {
+            "value": "Vålerenga slo Rosenborg på hjemmebane"
+        },
+        "description": "Vålerenga seiret 2-1 over Rosenborg i Nasjonal G17 1. divisjon lørdag. Dette var sesongens første tap for Rosenborg.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-20T15:28:11Z",
+        "lastModifiedAt": "2023-05-20T15:34:28Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "fosen-knuste-stjoerna",
+        "url": "/lokalfotballen/i/O8PQ4V/fosen-knuste-stjoerna",
+        "title": {
+            "value": "Fosen knuste Stjørna"
+        },
+        "description": "Espen Sandness scoret tre ganger da Fosen vant 9-0 over Stjørna i 6. divisjon, Trøndelag - Avdeling 3 i fotball for menn lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-20T15:03:54Z",
+        "lastModifiedAt": "2023-05-20T15:03:54Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "trygg-lade-knuste-vuku",
+        "url": "/lokalfotballen/i/xgX36n/trygg-lade-knuste-vuku",
+        "title": {
+            "value": "Knusende seier for Trygg/Lade"
+        },
+        "description": "Trygg/Lade banket Vuku 8-0 i 4. divisjon, Trøndelag - Avdeling 1 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-20T14:02:39Z",
+        "lastModifiedAt": "2023-05-20T14:04:46Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "remyra-fram-snudde-til-seier-i-sluttminuttene-mot-tiller",
+        "url": "/lokalfotballen/i/wAXel5/remyra-fram-snudde-til-seier-i-sluttminuttene-mot-tiller",
+        "title": {
+            "value": "Remyra/Fram snudde til seier i sluttminuttene over Tiller"
+        },
+        "description": "Remyra/Fram tok sine første poeng på fire kamper da Tiller ble slått 4-3",
+        "imageUrl": null,
+        "publishedAt": "2023-05-20T13:58:22Z",
+        "lastModifiedAt": "2023-05-20T14:04:47Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "gullvikmoen-slo-ranheim-2-i-toppkampen",
+        "url": "/lokalfotballen/i/76LK8K/gullvikmoen-slo-ranheim-2-i-toppkampen",
+        "title": {
+            "value": "Milan Nikolai Elverum Furre-dobbel for Gullvikmoen"
+        },
+        "description": "Milan Nikolai Elverum Furre ledet an med to mål i 4-2-seieren over Ranheim 2 i G16 1. divisjon, Avdeling 1 - Vår. Ranheim 2 gikk på sitt første nederlag på tre kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-20T13:51:18Z",
+        "lastModifiedAt": "2023-05-20T14:04:46Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ausland-dobbel-sikret-seier",
+        "url": "/lokalfotballen/i/76LKGV/ausland-dobbel-sikret-seier",
+        "title": {
+            "value": "Ausland-dobbel for Arendal"
+        },
+        "description": "Med dagens 0-3-tap mot Arendal gikk Rosenborg 2 på sesongens første nederlag. Rebekka Ausland scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-20T11:55:18Z",
+        "lastModifiedAt": "2023-05-20T12:02:28Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-fvn",
+            "lokalfotballen-agderposten",
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "tv-2-fotballforbundet-gaar-for-al-samarai-som-idrettspresident",
+        "url": "/nyheter/innenriks/i/Kn1ylG/tv-2-fotballforbundet-gaar-for-al-samarai-som-idrettspresident",
+        "title": {
+            "value": "Fotballforbundet har bestemt seg"
+        },
+        "description": "Norges Fotballforbund velger å gi sin støtte til Zaineb Al-Samarai i kampen om å bli ny idrettspresident.",
+        "imageUrl": "4a7882ff-823b-44dc-9ee6-eccd83d3fa9f",
+        "publishedAt": "2023-05-20T08:55:12Z",
+        "lastModifiedAt": "2023-05-20T09:04:36Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "i-doedens-dal-er-harry-potter-boekene-blitt-virkelighet",
+        "url": "/sport/i/q1Vr7L/i-doedens-dal-er-harry-potter-boekene-blitt-virkelighet",
+        "title": {
+            "value": "– Det er mye som skjer, så man må være litt på"
+        },
+        "description": "De fleste som har hørt om rumpeldunk kjenner sporten fra Harry Potter-universet. At annerledes-idretten bedrives midt i Trondheim er det færre som vet.",
+        "imageUrl": "b9e83e17-0e5c-4b08-af5b-62de05ef9392",
+        "publishedAt": "2023-05-20T08:14:00Z",
+        "lastModifiedAt": "2023-05-20T08:27:47Z",
+        "premium": true,
+        "authors": [
+            "Aksel Joramo Lysne"
+        ],
+        "tags": [
+            "ntnui"
+        ]
+    }
+]

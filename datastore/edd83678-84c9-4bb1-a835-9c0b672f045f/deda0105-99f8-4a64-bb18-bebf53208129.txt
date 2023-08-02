@@ -1,0 +1,204 @@
+[
+    {
+        "slug": "se-kamper-direkte-fra-skandia-cup",
+        "url": "/sport/fotball/i/l3amqe/se-kamper-direkte-fra-skandia-cup",
+        "title": {
+            "value": "Se kamper fra Skandia cup her"
+        },
+        "description": "Adresseavisen viser kamper fra Skandia cup gjennom hele uka.",
+        "imageUrl": "52759ee5-7987-44b3-b1a3-6d4c4d47f0dc",
+        "publishedAt": "2023-06-26T06:38:16Z",
+        "lastModifiedAt": "2023-06-27T04:41:05Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "skandia-cup",
+            "breddefotbaill",
+            "lokalfotballen"
+        ]
+    },
+    {
+        "slug": "holse-har-et-oenske-kan-ikke-bare-skifte-til-4-3-3-og-saa-kommer-nils-arne-tilbake",
+        "url": "/sport/fotball/i/dwa09J/holse-har-et-oenske-kan-ikke-bare-skifte-til-4-3-3-og-saa-kommer-nils-arne-tilbake",
+        "title": {
+            "value": "Holse: - Trondheim er ikke den mest tålmodige byen"
+        },
+        "description": "Carlo Holse er klar på at Rosenborg trenger tid.",
+        "imageUrl": "4facc45d-b56a-4087-93b4-a67e54dae952",
+        "publishedAt": "2023-06-27T05:28:13Z",
+        "lastModifiedAt": "2023-06-27T05:29:51Z",
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "fotball",
+            "rosenborg-bk",
+            "norsk-fotball",
+            "svein-maalen",
+            "kjetil-rekdal"
+        ]
+    },
+    {
+        "slug": "scoringslykke-for-homstad",
+        "url": "/lokalfotballen/i/JQX4LX/scoringslykke-for-homstad",
+        "title": {
+            "value": "Kolstad 2 knuste Charlottenlund 2"
+        },
+        "description": "Lars Petter Homstad førte an med to mål i 5-0-seieren over Charlottenlund 2 i 6. divisjon, Trøndelag - Avdeling 3 i fotball for menn mandag. Dermed har Kolstad 2 vunnet tre kamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-26T20:52:32Z",
+        "lastModifiedAt": "2023-06-26T22:06:27Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "to-fulltreffere-fra-sadiku",
+        "url": "/lokalfotballen/i/KnX73E/to-fulltreffere-fra-sadiku",
+        "title": {
+            "value": "Sadiku ble tomålshelt"
+        },
+        "description": "Agon Sadiku sto fram med to scoringer da Rosenborg 2 vant 3-0 over Kolstad i 3. divisjon, Avdeling 5 mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-26T17:57:45Z",
+        "lastModifiedAt": "2023-06-26T23:05:47Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "i-fjor-gikk-overgangen-i-vasken-naa-er-hun-klar-for-rbk",
+        "url": "/sport/fotball/i/JQX2y6/i-fjor-gikk-overgangen-i-vasken-naa-er-hun-klar-for-rbk",
+        "title": {
+            "value": "I fjor gikk overgangen i vasken - nå er hun klar for RBK"
+        },
+        "description": "Ett år på overtid kan endelig Camilla Linberg kalle seg for Rosenborg-spiller. Hun måtte bare et år innom Serie A først.",
+        "imageUrl": "ae456e7d-e3df-49f1-986d-5fc31c816a3c",
+        "publishedAt": "2023-06-26T15:03:50Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ine Skjellum",
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "sport",
+            "fotball",
+            "rosenborg-kvinner",
+            "steinar-lein",
+            "overgang-bekreftet"
+        ]
+    },
+    {
+        "slug": "30-grader-i-troendelag",
+        "url": "/nyheter/i/P4X2yb/30-grader-i-troendelag",
+        "title": {
+            "value": "Hit strømmet trønderne da tempen bikket 30 grader"
+        },
+        "description": "Mandag var det meldt opp mot 30 grader i Trondheim. Mange tok turen til Korsvika i Trondheim for å nyte finværet.",
+        "imageUrl": "7083f665-3c3c-4300-ba55-14a23abda3aa",
+        "publishedAt": "2023-06-26T14:13:20Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Lea Lauvland Longva",
+            "John Birger Morud"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "jeg-trodde-vi-valgte-et-rbk-styre-med-ryggrad",
+        "url": "/meninger/i/9zeGeM/jeg-trodde-vi-valgte-et-rbk-styre-med-ryggrad",
+        "title": {
+            "value": "Jeg trodde vi valgte et RBK-styre med ryggrad"
+        },
+        "description": null,
+        "imageUrl": "37c22462-404e-43e6-9d09-f2752ce0ca1a",
+        "publishedAt": "2023-06-26T13:18:44Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Eirik Oterholm"
+        ],
+        "tags": [
+            "debatt",
+            "rosenborg",
+            "fotball",
+            "aarsmoete"
+        ]
+    },
+    {
+        "slug": "ivar-15-skal-til-ol-i-matte-har-vaert-som-fritimer-for-meg",
+        "url": "/nyheter/trondheim/i/4ol7dR/ivar-15-skal-til-ol-i-matte-har-vaert-som-fritimer-for-meg",
+        "title": {
+            "value": "Ivar (15) har kommet gjennom flere trange nåløyer: - Var best i klassen"
+        },
+        "description": "– Disiplin og fiolin, svarer Ivar (15) på spørsmålet om hva det er som har gjort ham så god i matematikk.",
+        "imageUrl": "acd02b18-ea0e-4655-b4de-279e838aea82",
+        "publishedAt": "2023-06-26T13:04:07Z",
+        "lastModifiedAt": "2023-06-26T13:07:58Z",
+        "premium": true,
+        "authors": [
+            "Norunn Bergesen"
+        ],
+        "tags": [
+            "matte",
+            "matematikk",
+            "ol",
+            "skole-2",
+            "musikk",
+            "konkurranse",
+            "ntnu"
+        ]
+    },
+    {
+        "slug": "minneord-robert-saetervik",
+        "url": "/folk/i/76ogdW/minneord-robert-saetervik",
+        "title": {
+            "value": "Minneord Robert Sætervik"
+        },
+        "description": null,
+        "imageUrl": "6d08f337-9dbc-4bc3-83a8-e698ef9ec82a",
+        "publishedAt": "2023-06-26T13:00:29Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Minneord"
+        ],
+        "tags": [
+            "minneord"
+        ]
+    },
+    {
+        "slug": "gaar-glipp-av-rbk-kamper",
+        "url": "/sport/fotball/i/zEz37w/gaar-glipp-av-rbk-kamper",
+        "title": {
+            "value": "Går glipp av RBK-kamper"
+        },
+        "description": "Jayden Nelson drar til USA for å spille Gold Cup.",
+        "imageUrl": "d91c684e-be27-48cf-a8e5-fbdd7a90ebcd",
+        "publishedAt": "2023-06-26T08:06:01Z",
+        "lastModifiedAt": "2023-06-26T08:13:23Z",
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "norsk-fotball",
+            "fotball",
+            "eliteserien"
+        ]
+    }
+]

@@ -1,0 +1,371 @@
+[
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "rlOv7A",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/rlOv7A",
+        "preamble": "Denne sesongen har Brann-spiss Bård Finne (28) levert scoringer i et sånt tempo at selv landslagskollega Erling Braut Haaland (22) sliter med å følge det.",
+        "published": {
+            "date": "mandag 3. juli",
+            "datetime": "2023-07-03 23:46:40",
+            "niceformat": "03.07.2023, 23:46",
+            "timestamp": "2023-07-03T21:46:40.000Z"
+        },
+        "thumbnail": {
+            "height": 268,
+            "url": "https://akamai.vgc.no/v2/images/1c2ebbaf-acc7-4523-8fcf-614d27659665?fit=crop&format=auto&h=268&w=400&s=6866bb43ce753bb4ad35b9104e914bb7512c8fe5",
+            "width": 400
+        },
+        "title": "Bård Finne matcher tallene til Haaland: – Det tar jeg med knusende ro",
+        "url": "https://www.vg.no/sport/fotball/i/rlOv7A/eliteserien-baard-finne-scorer-likt-som-erling-braut-haaland"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.hellenes@schibsted.com",
+                "id": "424642b6-03fe-42cd-abe2-5f7517e8a8e1",
+                "name": "Andreas Hellenes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "KnKz9M",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/KnKz9M",
+        "preamble": "Mads Hedenstad Christiansen (22) er svært skuffet over behandlingen han mener han fikk av landslagstrener Leif Gunnar Smerud underveis i U21-EM. Nå antyder keeperen at han aldri vil spille for Smerud igjen.",
+        "published": {
+            "date": "mandag 3. juli",
+            "datetime": "2023-07-03 21:55:35",
+            "niceformat": "03.07.2023, 21:55",
+            "timestamp": "2023-07-03T19:55:35.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/1c31f1a5-d16b-4860-8ca9-aab879652c6a?fit=crop&format=auto&h=267&w=400&s=314766927ea4ad55d073980c69bd588cffe8fc1c",
+            "width": 400
+        },
+        "title": "Hedenstad Christiansen fyrer løs mot Smerud: – Driter seg ut gang på gang",
+        "url": "https://www.vg.no/sport/fotball/i/KnKz9M/hedenstad-christiansen-fyrer-loes-mot-smerud-driter-seg-ut-gang-paa-gang"
+    },
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMJ3LB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMJ3LB",
+        "preamble": "(Stabæk – Strømsgodset 0–1) En tidlig scoring fra midtstopper Ari Leifsson ble utslagsgivende da Godset vant sin tredje strake kamp og klatret forbi Stabæk på tabellen.",
+        "published": {
+            "date": "mandag 3. juli",
+            "datetime": "2023-07-03 20:58:11",
+            "niceformat": "03.07.2023, 20:58",
+            "timestamp": "2023-07-03T18:58:11.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/56537d46-53f9-404e-8843-ce7697cbb34d?fit=crop&format=auto&h=267&w=400&s=d33cd4954e76b6f1762d07dd5090bff7805de569",
+            "width": 400
+        },
+        "title": "Strømsgodset holdt unna med ti mann: – Kunne ikke vært bedre",
+        "url": "https://www.vg.no/sport/fotball/i/GMJ3LB/stroemsgodset-holdt-unna-med-10-mann-slo-stabaek"
+    },
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q7Wy2Q",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q7Wy2Q",
+        "preamble": "Nok en stjernespiller ser ut til å være klar for spill i Saudi Pro League. ",
+        "published": {
+            "date": "mandag 3. juli",
+            "datetime": "2023-07-03 20:25:36",
+            "niceformat": "03.07.2023, 20:25",
+            "timestamp": "2023-07-03T18:25:36.000Z"
+        },
+        "thumbnail": {
+            "height": 273,
+            "url": "https://akamai.vgc.no/v2/images/fb6263a2-14f7-4142-a372-49855d91aaf4?fit=crop&format=auto&h=273&w=400&s=89e22d2db62b0e881081a8533a6c3bb927ec6bc9",
+            "width": 400
+        },
+        "title": "Romano: Firmino nærmer seg saudiarabisk klubb",
+        "url": "https://www.vg.no/sport/fotball/i/Q7Wy2Q/fabrizio-romano-roberto-firmino-naermer-seg-saudi-arabisk-klubb"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3EK4P9",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3EK4P9",
+        "preamble": "Liverpool-legenden Steven Gerrard ble mandag presentert som saudiarabiske Al-Ettifaqs nye hovedtrener.",
+        "published": {
+            "date": "mandag 3. juli",
+            "datetime": "2023-07-03 17:56:32",
+            "niceformat": "03.07.2023, 17:56",
+            "timestamp": "2023-07-03T15:56:32.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/7b528b94-302e-49d2-9764-00654f36e52e?fit=crop&format=auto&h=267&w=400&s=b85ab0316d9a2a345bef45c6dd9ffed84fe8ecae",
+            "width": 400
+        },
+        "title": "Gerrard blir trener i Saudi-Arabia",
+        "url": "https://www.vg.no/sport/fotball/i/3EK4P9/gerrard-blir-trener-i-saudi-arabia"
+    },
+    {
+        "authors": [
+            {
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            },
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kEP396",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kEP396",
+        "preamble": "VM-uttatte Guro Pettersen (31) fikk seg en skikkelig smell i hodet mot LSK Kvinner fredag og forlot banen i tårer. Nå kan landslagslege Magnus Myntevik bekrefte at landslagskeeperen reiser til VM. ",
+        "published": {
+            "date": "mandag 3. juli",
+            "datetime": "2023-07-03 15:08:43",
+            "niceformat": "03.07.2023, 15:08",
+            "timestamp": "2023-07-03T13:08:43.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://akamai.vgc.no/v2/images/3c4be1af-35b9-4f02-a454-c33382f6bc86?fit=crop&format=auto&h=213&w=400&s=1ac7501ac3505486f3fee3c9431b8a8453117c1c",
+            "width": 400
+        },
+        "title": "Guro Pettersen friskmeldt etter hodesmell – klar for VM",
+        "url": "https://www.vg.no/sport/fotball/i/kEP396/vm-fotball-kvinner-gladnyhet-for-guro-pettersen"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMJQJB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMJQJB",
+        "preamble": "Roy Hodgson (75) har forlenget kontrakten sin med Crystal Palace og fortsetter i managerjobben i ett år til. ",
+        "published": {
+            "date": "mandag 3. juli",
+            "datetime": "2023-07-03 13:38:03",
+            "niceformat": "03.07.2023, 13:38",
+            "timestamp": "2023-07-03T11:38:03.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/495cb2eb-f00a-4e5c-964d-21cc292737f0?fit=crop&format=auto&h=267&w=400&s=c2cd4d0ab3e191bf69f4bb532065551b8a7a5ae6",
+            "width": 400
+        },
+        "title": "Trenerveteranen Hodgson fortsetter som Crystal Palace-manager",
+        "url": "https://www.vg.no/sport/fotball/i/GMJQJB/trenerveteranen-hodgson-fortsetter-som-crystal-palace-manager"
+    },
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "1507yJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/1507yJ",
+        "preamble": "Sandro Tonali (23) forlater AC Milan til fordel for Newcastle.",
+        "published": {
+            "date": "mandag 3. juli",
+            "datetime": "2023-07-03 13:03:46",
+            "niceformat": "03.07.2023, 13:03",
+            "timestamp": "2023-07-03T11:03:46.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/d86b973d-bf96-4063-a8e8-6f1d17f5f72a?fit=crop&format=auto&h=267&w=400&s=f02cdd90b75ec4d02ee4417d6d113f51ef54880f",
+            "width": 400
+        },
+        "title": "Newcastle bekrefter storsignering: – Et eksepsjonelt talent",
+        "url": "https://www.vg.no/sport/fotball/i/1507yJ/newcastle-bekrefter-storsignering"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            },
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QzKXg",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QzKXg",
+        "preamble": "Den kroatiske midtstopperen Joško Gvardiol (21) ønsker å forlate RB Leipzig til fordel for Manchester City, og klubbene er i samtaler, bekrefter Max Eberl.",
+        "published": {
+            "date": "mandag 3. juli",
+            "datetime": "2023-07-03 10:14:37",
+            "niceformat": "03.07.2023, 10:14",
+            "timestamp": "2023-07-03T08:14:37.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6f18d462-5879-46e0-8772-d00571d21dd0?fit=crop&format=auto&h=267&w=400&s=0b43911d98b285ba55dc2bd18bc498e13480c3f8",
+            "width": 400
+        },
+        "title": "Leipzig-direktør bekrefter City-samtaler om Gvardiol",
+        "url": "https://www.vg.no/sport/fotball/i/0QzKXg/leipzig-direktoer-bekrefter-city-samtaler-om-gvardiol"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WRylGa",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WRylGa",
+        "preamble": "Patrick Vieira (47) fortsetter trenerlivet i hjemlandet etter å ha skrevet under en treårskontrakt med Strasbourg i franske Ligue 1.",
+        "published": {
+            "date": "mandag 3. juli",
+            "datetime": "2023-07-03 07:18:09",
+            "niceformat": "03.07.2023, 07:18",
+            "timestamp": "2023-07-03T05:18:09.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/629bd0bc-54c1-416f-a946-bd5e5c083b01?fit=crop&format=auto&h=267&w=400&s=c674d3641bdfb8966ff6298ca77dee397af43dcb",
+            "width": 400
+        },
+        "title": "Vieira fikk ny jobb – hentet til Strasbourg",
+        "url": "https://www.vg.no/sport/fotball/i/WRylGa/ligue-1-patrick-vieria-ny-manager-for-strasbourg"
+    }
+]

@@ -1,0 +1,194 @@
+[
+    {
+        "slug": "foersteplassen-gikk-til-ranheim",
+        "url": "/lokalfotballen/i/9zeO05/foersteplassen-gikk-til-ranheim",
+        "title": {
+            "value": "Førsteplassen gikk til Ranheim"
+        },
+        "description": "Ranheim slo Melhus/Gimse 11-1 og har dermed tatt poeng i fem kamper på rad",
+        "imageUrl": null,
+        "publishedAt": "2023-06-18T20:34:17Z",
+        "lastModifiedAt": "2023-06-18T20:34:17Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "nettsus-for-sydskjoer",
+        "url": "/lokalfotballen/i/veGAXV/nettsus-for-sydskjoer",
+        "title": {
+            "value": "Sydskjør ble tomålshelt"
+        },
+        "description": "Charlottenlund knuste Levanger 3-0 i 3. divisjon, Trøndelag i fotball for kvinner. Lone Hagen Sydskjør scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-18T20:03:15Z",
+        "lastModifiedAt": "2023-06-18T20:34:15Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "maalshow-fra-national",
+        "url": "/lokalfotballen/i/KnXyey/maalshow-fra-national",
+        "title": {
+            "value": "Kitonyi scoret hattrick mot Freidig"
+        },
+        "description": "Med 6-1-seier i dagens kamp har National tatt poeng i ni strake kamper i 5. divisjon, Trøndelag - Avdeling 3 i fotball for menn. Junior Mutua Kitonyi scoret tre ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-18T19:32:31Z",
+        "lastModifiedAt": "2023-06-18T20:32:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ranheim-2-med-hjemmeseier-over-byneset-leinstrand",
+        "url": "/lokalfotballen/i/WRXOJQ/ranheim-2-med-hjemmeseier-over-byneset-leinstrand",
+        "title": {
+            "value": "Ranheim 2 slo Byneset / Leinstrand på hjemmebane"
+        },
+        "description": "Ranheim 2 vant 3-2 mot Byneset/Leinstrand og innkasserte dermed sin første hjemmeseier denne sesongen i G13 2. divisjon, Avdeling 4 - Vår søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-18T18:58:25Z",
+        "lastModifiedAt": "2023-06-18T19:05:54Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "oeyeblikket-gir-henne-fortsatt-gaasehud-min-stoerste-droem",
+        "url": "/sport/fotball/i/wA571L/oeyeblikket-gir-henne-fortsatt-gaasehud-min-stoerste-droem",
+        "title": {
+            "value": "Ble historisk: - Når jeg kommer hjem til Trøndelag går det opp for meg"
+        },
+        "description": "Ingrid Syrstad Engen får gåsehud bare av å snakke om kvelden da drømmen gikk i oppfyllelse.",
+        "imageUrl": "18f7f504-d3ba-4227-8385-0aabfed3bbd8",
+        "publishedAt": "2023-06-18T18:55:43Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Aksel Murvold",
+            "David Engmo"
+        ],
+        "tags": [
+            "ingrid-syrstad-engen",
+            "melhus",
+            "fc-barcelona"
+        ]
+    },
+    {
+        "slug": "bare-en-faar-godkjent-sjekk-boersen-etter-rbk-tapet",
+        "url": "/sport/fotball/i/Q7XmjW/bare-en-faar-godkjent-sjekk-boersen-etter-rbk-tapet",
+        "title": {
+            "value": "Bare én får godkjent "
+        },
+        "description": "Et avskrudd Rosenborg gikk på et pinlig bortetap mot bunnlaget Lyn i Oslo.",
+        "imageUrl": "070d3531-fda9-4438-a117-1f81ce7ff4b6",
+        "publishedAt": "2023-06-18T18:37:58Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "fotball",
+            "sport",
+            "toppserien",
+            "rosenborg-kvinner"
+        ]
+    },
+    {
+        "slug": "ny-seier-for-byaasen-2",
+        "url": "/lokalfotballen/i/APBl7n/ny-seier-for-byaasen-2",
+        "title": {
+            "value": "Byåsen 2 seiret i målfest"
+        },
+        "description": "Byåsen 2 banket Tolga-Vingelen 9-0 i 5. divisjon, Trøndelag - Avdeling 3 i fotball for menn søndag. Tolga-Vingelen har gått poengløse av banen åtte kamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-18T18:01:37Z",
+        "lastModifiedAt": "2023-06-18T19:02:40Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "hagenes-ble-tremaalshelt",
+        "url": "/lokalfotballen/i/O8XQyO/hagenes-ble-tremaalshelt",
+        "title": {
+            "value": "Hattrick-show fra Bodø / Glimt 2"
+        },
+        "description": "Truls Bjørgvik Hagenes sto fram med tre mål da Bodø/Glimt 2 seiret 9-0 over Orkla i 3. divisjon, Avdeling 5 i fotball. Det var Orklas andre nederlag på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-18T17:49:25Z",
+        "lastModifiedAt": "2023-06-18T18:02:46Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "sjokktap-for-rosenborg-damene",
+        "url": "/sport/fotball/i/gEx78B/sjokktap-for-rosenborg-damene",
+        "title": {
+            "value": "Sjokktap: - Kan være seriegullet røk i dag"
+        },
+        "description": "Rosenborg hadde tatt en tidlig sommerferie og gikk på et flaut tap mot bunnlaget.",
+        "imageUrl": "cd0c60cd-9d62-41f0-920f-4b184a6b0da7",
+        "publishedAt": "2023-06-18T16:36:33Z",
+        "lastModifiedAt": "2023-06-18T17:44:10Z",
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "sport",
+            "fotball",
+            "rosenborg-kvinner",
+            "toppserien"
+        ]
+    },
+    {
+        "slug": "knusende-seier-for-molde",
+        "url": "/lokalfotballen/i/pQxA6V/knusende-seier-for-molde",
+        "title": {
+            "value": "Molde knuste Rosenborg 2"
+        },
+        "description": "Molde banket Rosenborg 2 4-0 i 2. divisjon, Avdeling 1 i fotball. Rosenborg 2 har tapt de siste fem kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-18T16:07:25Z",
+        "lastModifiedAt": "2023-06-18T16:32:02Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

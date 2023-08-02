@@ -1,0 +1,188 @@
+[
+    {
+        "slug": "blikra-senket-ntnui-2",
+        "url": "/lokalfotballen/i/0QO4GB/blikra-senket-ntnui-2",
+        "title": {
+            "value": "Blikra senket NTNUI 2"
+        },
+        "description": "Sander Blikra ble med sine to scoringer den store helten for Utleira i 2-1-seieren over NTNUI 2 i 5. divisjon, Trøndelag - Avdeling 2 i fotball søndag. Utleira har vunnet sine siste tre bortekamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T16:23:26Z",
+        "lastModifiedAt": "2023-06-04T16:23:26Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "femte-seier-paa-rad-for-kolvereid-7er",
+        "url": "/lokalfotballen/i/15877W/femte-seier-paa-rad-for-kolvereid-7er",
+        "title": {
+            "value": "Flatanger 7er senket av Lande"
+        },
+        "description": "Flatanger 7er gikk på sitt tredje tap på rad da laget røk 0-1 for Kolvereid 7er i 7er, Trøndelag - Avdeling 1 i fotball for kvinner søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T16:14:09Z",
+        "lastModifiedAt": "2023-06-04T16:25:37Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "loeseth-dobbel-for-kil-hemne-3",
+        "url": "/lokalfotballen/i/nQnwAB/loeseth-dobbel-for-kil-hemne-3",
+        "title": {
+            "value": "KIL / Hemne 3 slo Nationalkameratene 2 i målfest"
+        },
+        "description": "Hallvard Kjønsvik Løseth scoret to av målene da KIL/Hemne 3 vant 4-3 over Nationalkameratene 2 i 6. divisjon, Trøndelag - Avdeling 4 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T16:01:01Z",
+        "lastModifiedAt": "2023-06-04T16:25:35Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "hildre-dobbel-for-rana",
+        "url": "/lokalfotballen/i/zEergO/hildre-dobbel-for-rana",
+        "title": {
+            "value": "Scoringslykke for Hildre"
+        },
+        "description": "Per Kristian Helle Hildre scoret to av målene da Rana vant 3-0 over Byåsen i 3. divisjon, Avdeling 5 i fotball for menn søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T15:58:59Z",
+        "lastModifiedAt": "2023-06-04T16:24:26Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "oerland-snudde-til-seier-paa-tampen-over-vuku",
+        "url": "/lokalfotballen/i/JQGEJb/oerland-snudde-til-seier-paa-tampen-over-vuku",
+        "title": {
+            "value": "Ørland snudde til seier på tampen over Vuku"
+        },
+        "description": "Ørland snudde til seier i sluttminuttene mot Vuku i G16 1. divisjon, Avdeling 1 - Vår. Før kampen mot Ørland hadde Vuku tatt poeng i alle seriekampene denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T15:58:59Z",
+        "lastModifiedAt": "2023-06-04T16:25:36Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "froeya-il-slo-leinstrand-byneset-paa-hjemmebane",
+        "url": "/lokalfotballen/i/dwzmlw/froeya-il-slo-leinstrand-byneset-paa-hjemmebane",
+        "title": {
+            "value": "Hjemmeseier for Frøya IL over Leinstrand / Byneset"
+        },
+        "description": "Frøya IL tok tre poeng da Leinstrand/Byneset ble slått 2-0 i G16 3. divisjon, Avdeling 2 - Vår søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T15:58:58Z",
+        "lastModifiedAt": "2023-06-04T16:26:42Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    },
+    {
+        "slug": "aattende-strake-seier-for-byaasen",
+        "url": "/lokalfotballen/i/4oGz1q/aattende-strake-seier-for-byaasen",
+        "title": {
+            "value": "Byåsen vant igjen"
+        },
+        "description": "Byåsen seiret 2-1 over Charlottenlund borte i G16 Elite, Vår. Byåsen har tatt poeng i ni strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T15:58:57Z",
+        "lastModifiedAt": "2023-06-04T16:24:25Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ranheim-berget-uavgjort",
+        "url": "/lokalfotballen/i/dwzmdX/ranheim-berget-uavgjort",
+        "title": {
+            "value": "Magnus Qvigstad berget poeng for Ranheim"
+        },
+        "description": "Orkanger og Ranheim spilte 1-1 på Orkla Kunstgress i G16 Elite, Vår søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T15:45:42Z",
+        "lastModifiedAt": "2023-06-04T16:24:25Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "dobbel-fra-kviteng-for-strindheim-3",
+        "url": "/lokalfotballen/i/3E76kq/dobbel-fra-kviteng-for-strindheim-3",
+        "title": {
+            "value": "Dobbel fra Kviteng for Strindheim 3"
+        },
+        "description": "Sondre Kviteng scoret to ganger og hjalp Strindheim 3 til 3-2-seier over Kvik 2 i 5. divisjon, Trøndelag - Avdeling 3 i fotball for menn. Kvik 2 har tapt to strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T15:30:22Z",
+        "lastModifiedAt": "2023-06-04T15:52:50Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "stuedahl-karlsen-i-scoringshumoer-mot-tynset",
+        "url": "/lokalfotballen/i/rl3gkR/stuedahl-karlsen-i-scoringshumoer-mot-tynset",
+        "title": {
+            "value": "Nettsus for Stuedahl-Karlsen"
+        },
+        "description": "Hedda Stuedahl-Karlsen førte an med to av målene i 6-0-seieren over Tynset i 2. divisjon, Avdeling 1 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T14:59:07Z",
+        "lastModifiedAt": "2023-06-04T15:22:42Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

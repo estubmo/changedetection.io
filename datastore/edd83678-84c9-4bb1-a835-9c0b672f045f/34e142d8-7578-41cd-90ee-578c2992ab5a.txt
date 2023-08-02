@@ -1,0 +1,190 @@
+[
+    {
+        "slug": "rbks-supertalent-spoer-du-mamma-blir-jeg-en-god-stund-til",
+        "url": "/sport/fotball/i/XbpkQW/rbks-supertalent-spoer-du-mamma-blir-jeg-en-god-stund-til",
+        "title": {
+            "value": "RBKs supertalent: - Spør du mamma, blir jeg en god stund til"
+        },
+        "description": "Mens RBK-stjernene cruiser til Lerkendal i bilene sine, kommer supertalentet Sverre Halseth Nypan til 16.mai-festen på el-sparkesykkel - fra gutterommet sitt på Nardo.",
+        "imageUrl": "04429800-d486-4476-a940-779012c905ee",
+        "publishedAt": "2023-05-16T06:55:36Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken",
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "nicklas-bendtner",
+            "alexander-soederlund",
+            "paal-andre-helland",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "adrian-loekken-i-scoringshumoer",
+        "url": "/lokalfotballen/i/q1b98m/adrian-loekken-i-scoringshumoer",
+        "title": {
+            "value": "Adrian Løkken i scoringshumør"
+        },
+        "description": "Adrian Løkken scoret to ganger og hjalp Sokna 7er til 4-2-seier over Trygg/Lade 2 i G19 2. divisjon, Avdeling 4 - Vår mandag. Dermed har Sokna 7er vunnet tre kamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-16T04:51:27Z",
+        "lastModifiedAt": "2023-05-16T04:51:27Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-gauldalsposten",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/RGqgl8/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag, tirsdag 16. mai.",
+        "imageUrl": "4e451bce-de18-425d-bf6d-588ed491da98",
+        "publishedAt": "2023-05-16T04:00:55Z",
+        "lastModifiedAt": "2023-05-16T04:00:55Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "spillum-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/O8qx8k/spillum-fortsatte-seiersrekken",
+        "title": {
+            "value": "Spillum fortsatte seiersrekken"
+        },
+        "description": "Marius Eggen Persgård ledet an med to av målene i 5-2-seieren over Inderøy i 6. divisjon, Trøndelag - Avdeling 1 i fotball. Det var Spillums tredje strake seier.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T21:54:13Z",
+        "lastModifiedAt": "2023-05-15T21:54:13Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "ranheim-2-vant-i-maalfest",
+        "url": "/lokalfotballen/i/rlbxER/ranheim-2-vant-i-maalfest",
+        "title": {
+            "value": "Storseier for Ranheim 2"
+        },
+        "description": "Ranheim 2 slo Fosen 7-1 og har dermed tatt poeng i seks strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T21:40:50Z",
+        "lastModifiedAt": "2023-05-15T21:54:14Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-fosnafolket",
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "sverre-snudde-til-seier-paa-tampen-over-vikvarvet",
+        "url": "/lokalfotballen/i/APqK3j/sverre-snudde-til-seier-paa-tampen-over-vikvarvet",
+        "title": {
+            "value": "Sverre snudde til seier på tampen"
+        },
+        "description": "Vikvarvet gikk på sitt tredje strake tap da klubben røk 2-3 for Sverre i 6. divisjon, Trøndelag - Avdeling 2 i fotball mandag. Stian Venseth scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T21:25:26Z",
+        "lastModifiedAt": "2023-05-15T22:51:55Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "to-fulltreffere-fra-fossdal",
+        "url": "/lokalfotballen/i/eJXQPQ/to-fulltreffere-fra-fossdal",
+        "title": {
+            "value": "To fulltreffere fra Fossdal"
+        },
+        "description": "Inge Marius Fossdal viste scoringsform da Kolstad 2 seiret 4-1 over Kattem i 6. divisjon, Trøndelag - Avdeling 3 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T21:25:24Z",
+        "lastModifiedAt": "2023-05-15T21:25:24Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "strindheim-vant-igjen",
+        "url": "/lokalfotballen/i/bgo0zl/strindheim-vant-igjen",
+        "title": {
+            "value": "Strindheim tok sin tredje strake seier"
+        },
+        "description": "Johanne Skarvøy Strand scoret kampens eneste mål da Strindheim slo Charlottenlund 1-0 i 3. divisjon, Trøndelag i fotball for kvinner. Charlottenlund har gått poengløse av banen i fire strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T21:25:23Z",
+        "lastModifiedAt": "2023-05-15T21:54:15Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "maalshow-fra-homstad",
+        "url": "/lokalfotballen/i/9zM7Ew/maalshow-fra-homstad",
+        "title": {
+            "value": "Målshow fra Homstad"
+        },
+        "description": "Lars Petter Homstad sto fram med tre scoringer da Kolstad 2 seiret 9-4 over Trond i 6. divisjon, Trøndelag - Avdeling 3 i fotball for menn. Trond gikk på sitt første tap i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T21:25:22Z",
+        "lastModifiedAt": "2023-05-15T21:25:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "kolvereid-7er-med-borteseier-over-namdalseid-7er",
+        "url": "/lokalfotballen/i/y6bA72/kolvereid-7er-med-borteseier-over-namdalseid-7er",
+        "title": {
+            "value": "Kolvereid 7er med borteseier over Namdalseid 7er"
+        },
+        "description": "Kolvereid 7er fikk med seg alle poengene da Namdalseid 7er ble slått 3-2 i 7er, Trøndelag - Avdeling 1 i fotball. Namdalseid 7er har tapt sine tre siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T21:25:22Z",
+        "lastModifiedAt": "2023-05-15T21:25:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    }
+]

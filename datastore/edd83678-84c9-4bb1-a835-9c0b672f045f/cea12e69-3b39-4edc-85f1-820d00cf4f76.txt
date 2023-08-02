@@ -1,0 +1,197 @@
+[
+    {
+        "slug": "ranheim-berget-uavgjort",
+        "url": "/lokalfotballen/i/dwzmdX/ranheim-berget-uavgjort",
+        "title": {
+            "value": "Magnus Qvigstad sikret poeng for Ranheim"
+        },
+        "description": "Det ble poengdeling mellom Orkanger og Ranheim på Orkla Kunstgress",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T15:45:42Z",
+        "lastModifiedAt": "2023-06-04T15:53:50Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "dobbel-fra-kviteng-for-strindheim-3",
+        "url": "/lokalfotballen/i/3E76kq/dobbel-fra-kviteng-for-strindheim-3",
+        "title": {
+            "value": "Dobbel fra Kviteng for Strindheim 3"
+        },
+        "description": "Sondre Kviteng scoret to ganger og hjalp Strindheim 3 til 3-2-seier over Kvik 2 i 5. divisjon, Trøndelag - Avdeling 3 i fotball for menn. Kvik 2 har tapt to strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T15:30:22Z",
+        "lastModifiedAt": "2023-06-04T15:52:50Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "stuedahl-karlsen-i-scoringshumoer-mot-tynset",
+        "url": "/lokalfotballen/i/rl3gkR/stuedahl-karlsen-i-scoringshumoer-mot-tynset",
+        "title": {
+            "value": "Nettsus for Stuedahl-Karlsen"
+        },
+        "description": "Hedda Stuedahl-Karlsen førte an med to av målene i 6-0-seieren over Tynset i 2. divisjon, Avdeling 1 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T14:59:07Z",
+        "lastModifiedAt": "2023-06-04T15:22:42Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "gamsten-scoring-og-strafferedning-i-ranheim-seier",
+        "url": "/sport/fotball/i/gEKWeB/gamsten-scoring-og-strafferedning-i-ranheim-seier",
+        "title": {
+            "value": "Ble helt med strafferedning på overtid: - Hvor han skulle skyte sto i gårsdagens Adressa"
+        },
+        "description": "Og en gammel magiker viste at han fremdeles vet hvor målet står.",
+        "imageUrl": "6086baa2-a7f3-4388-ad15-752457c6873c",
+        "publishedAt": "2023-06-04T14:57:41Z",
+        "lastModifiedAt": "2023-06-04T15:40:06Z",
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "fotball",
+            "sport",
+            "ranheim-tf",
+            "nicklas-frenderup",
+            "morten-gamst-pedersen"
+        ]
+    },
+    {
+        "slug": "storseier-for-ntnui",
+        "url": "/lokalfotballen/i/zEegqq/storseier-for-ntnui",
+        "title": {
+            "value": "Storseier for NTNUI"
+        },
+        "description": "Magnus Austbø Seth scoret to ganger da NTNUI vant 4-0 over Alvdal i 4. divisjon, Trøndelag - Avdeling 2 i fotball. NTNUI har tatt poeng i sine ni siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T14:29:12Z",
+        "lastModifiedAt": "2023-06-04T14:53:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "amazon-grimstad-knuste-rosenborg-2",
+        "url": "/lokalfotballen/i/mQWBq1/amazon-grimstad-knuste-rosenborg-2",
+        "title": {
+            "value": "Storseier for Amazon Grimstad"
+        },
+        "description": "Amazon Grimstad knuste Rosenborg 2 4-0 i 2. divisjon, Avdeling 1 i fotball søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T14:22:57Z",
+        "lastModifiedAt": "2023-06-04T14:52:36Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-fvn",
+            "lokalfotballen-gat",
+            "lokalfotballen-agderposten",
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "knusende-seier-for-melhus",
+        "url": "/lokalfotballen/i/Q7KmvA/knusende-seier-for-melhus",
+        "title": {
+            "value": "Melhus slo Tynset i målfest"
+        },
+        "description": "Melhus banket Tynset 6-1 i 4. divisjon, Trøndelag - Avdeling 2 i fotball for menn søndag. Det var Tynsets første tap i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T14:01:36Z",
+        "lastModifiedAt": "2023-06-04T14:24:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "to-fulltreffere-fra-kvakland",
+        "url": "/lokalfotballen/i/8Jz6ax/to-fulltreffere-fra-kvakland",
+        "title": {
+            "value": "Kvakland scoret to for Hitra"
+        },
+        "description": "Sindre Sætherbø Kvakland viste scoringsform da Hitra seiret 4-1 over Nardo 2 i 4. divisjon, Trøndelag - Avdeling 2 i fotball søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T13:58:26Z",
+        "lastModifiedAt": "2023-06-04T14:22:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya"
+        ]
+    },
+    {
+        "slug": "linea-solli-espnes-sikret-tre-poeng-for-froeya-il",
+        "url": "/lokalfotballen/i/eJ0Knl/linea-solli-espnes-sikret-tre-poeng-for-froeya-il",
+        "title": {
+            "value": "Linea Solli Espnes ble helten for Frøya IL"
+        },
+        "description": "Frøya IL snudde 0-1 til 2-1 mot Valsøyfjord/Halsa 9er i J15 2. divisjon, Avdeling 3 - Vår søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T13:54:16Z",
+        "lastModifiedAt": "2023-06-04T13:55:20Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    },
+    {
+        "slug": "se-vaar-ivers-sending-fra-lerkendal-direkte",
+        "url": "/sport/fotball/i/Lldnlq/se-vaar-ivers-sending-fra-lerkendal-direkte",
+        "title": {
+            "value": "- Begge lag har hatt gode målsjanser i første omgang"
+        },
+        "description": "RBK-trener Kjetil Rekdal stempler kampen som «ekstremt viktig». Klokka 16.30 starter vår Ivers-sending fra indre bane på Lerkendal.",
+        "imageUrl": "e1f54c13-2300-40bc-b606-02068db568ca",
+        "publishedAt": "2023-06-04T12:54:20Z",
+        "lastModifiedAt": "2023-06-04T14:54:16Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "eliteserien"
+        ]
+    }
+]

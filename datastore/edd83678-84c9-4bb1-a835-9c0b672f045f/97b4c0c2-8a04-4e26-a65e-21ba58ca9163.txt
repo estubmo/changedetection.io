@@ -1,0 +1,194 @@
+[
+    {
+        "slug": "dobbel-lykke-da-trond-vant",
+        "url": "/lokalfotballen/i/5BwwJb/dobbel-lykke-da-trond-vant",
+        "title": {
+            "value": "Nettsus for Thomas Slørdal"
+        },
+        "description": "Thomas Slørdal sto fram med to mål da Trond seiret 3-1 over Vestbyen/Nationalkameratene/Sverresborg i G19 Elite, Vår onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-10T20:13:44Z",
+        "lastModifiedAt": "2023-05-10T20:32:46Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "eilertsen-sikret-seieren-for-ntnui-2",
+        "url": "/lokalfotballen/i/eJXy29/eilertsen-sikret-seieren-for-ntnui-2",
+        "title": {
+            "value": "Eilertsen ble helten for NTNUI 2"
+        },
+        "description": "Anja Kjærnes Eilertsen ble matchvinner for NTNUI 2 i 1-0-seieren over Fosen på Oksvoll gras i 4. divisjon, Trøndelag - Avdeling 2 i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-10T20:01:44Z",
+        "lastModifiedAt": "2023-05-10T20:32:48Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-fosnafolket",
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "fjerde-strake-seier-for-ranheim",
+        "url": "/lokalfotballen/i/8Jv7rw/fjerde-strake-seier-for-ranheim",
+        "title": {
+            "value": "Ranheim slo Byåsen i målfest"
+        },
+        "description": "Ranheim fikk med seg alle poengene da Byåsen ble slått 12-0 i J17 1. divisjon, Avdeling 2 - Vår. Ranheim har vunnet alle sine kamper hittil i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-10T19:46:03Z",
+        "lastModifiedAt": "2023-05-10T20:01:45Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "scoringslykke-for-mikkel-rambraut-alvik",
+        "url": "/lokalfotballen/i/wAb0WM/scoringslykke-for-mikkel-rambraut-alvik",
+        "title": {
+            "value": "Mikkel Rambraut Alvik-dobbel for Astor 3"
+        },
+        "description": "Mikkel Rambraut Alvik viste scoringsform da Astor 3 seiret 4-3 over Orkla 2 i G16 3. divisjon, Avdeling 2 - Vår onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-10T19:14:08Z",
+        "lastModifiedAt": "2023-05-10T19:32:29Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "orkla-trakk-det-lengste-straaet-i-dagens-toppoppgjoer",
+        "url": "/lokalfotballen/i/jlbpqL/orkla-trakk-det-lengste-straaet-i-dagens-toppoppgjoer",
+        "title": {
+            "value": "Elise Kastås-Asbøll ble helten for Orkla"
+        },
+        "description": "Elise Kastås-Asbøll scoret det avgjørende målet da Orkla slo Frøya IL 1-0 i J15 2. divisjon, Avdeling 3 - Vår onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-10T18:56:01Z",
+        "lastModifiedAt": "2023-05-10T19:01:40Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    },
+    {
+        "slug": "oliver-flo-moerkved-boettet-inn-maal-for-ranheim-3",
+        "url": "/lokalfotballen/i/JQqRm4/oliver-flo-moerkved-boettet-inn-maal-for-ranheim-3",
+        "title": {
+            "value": "Oliver Flo Mørkved med målshow"
+        },
+        "description": "Oliver Flo Mørkved sto fram med fire mål da Ranheim 3 seiret 7-0 over Ålen i G16 3. divisjon, Avdeling 3 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-10T18:50:50Z",
+        "lastModifiedAt": "2023-05-10T19:32:29Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "dobbel-fra-tyra-boekestad-breiseth-for-neset-aasguten",
+        "url": "/lokalfotballen/i/wAb0l4/dobbel-fra-tyra-boekestad-breiseth-for-neset-aasguten",
+        "title": {
+            "value": "Tomålshelten sikret seier for Neset/Aasguten"
+        },
+        "description": "Tyra Bøkestad-Breiseth førte an med to av målene i 3-0-seieren over Hegra i J14 2. divisjon, Avdeling 2 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-10T18:47:42Z",
+        "lastModifiedAt": "2023-05-10T19:32:29Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "gauldal-seier-over-ranheim-2",
+        "url": "/lokalfotballen/i/xgbwoB/gauldal-seier-over-ranheim-2",
+        "title": {
+            "value": "Gauldal med hjemmeseier over Ranheim 2"
+        },
+        "description": "Gauldal vant 3-0 over Ranheim 2 i G14 2. divisjon, Avdeling 3 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-10T18:38:29Z",
+        "lastModifiedAt": "2023-05-10T19:00:37Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "borteseier-for-trygg-lade-over-gimse-2-melhus-2",
+        "url": "/lokalfotballen/i/4o0Xw6/borteseier-for-trygg-lade-over-gimse-2-melhus-2",
+        "title": {
+            "value": "Borteseier for Trygg/Lade over Gimse 2/Melhus 2"
+        },
+        "description": "Trygg/Lade fikk med seg tre poeng da Gimse 2/Melhus 2 ble slått 3-0 i G14 2. divisjon, Avdeling 3 - Vår onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-10T18:18:45Z",
+        "lastModifiedAt": "2023-05-10T20:01:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "froeya-il-2-9er-kunne-juble-etter-toppkampen",
+        "url": "/lokalfotballen/i/abpyEd/froeya-il-2-9er-kunne-juble-etter-toppkampen",
+        "title": {
+            "value": "Frøya IL 2 9er kunne juble etter toppkampen"
+        },
+        "description": "Oliver Grøttan scoret det avgjørende målet for Frøya IL 2 9er i 2-1-seieren over Orkla 2 9er på Orkla Kunstgress i G14 9er, Avdeling 3 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-10T17:59:09Z",
+        "lastModifiedAt": "2023-05-10T18:32:55Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    }
+]

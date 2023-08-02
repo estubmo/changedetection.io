@@ -1,0 +1,204 @@
+[
+    {
+        "slug": "byneset-vant-over-meldal",
+        "url": "/lokalfotballen/i/onlrLB/byneset-vant-over-meldal",
+        "title": {
+            "value": "Byneset med hjemmeseier over Meldal"
+        },
+        "description": "Byneset banket Meldal 3-0 i 6. divisjon, Trøndelag - Avdeling 5 mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T20:40:58Z",
+        "lastModifiedAt": "2023-05-15T20:59:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "pelabon-scoret-hattrick-mot-gimse-melhus-gauldal",
+        "url": "/lokalfotballen/i/xgb6Al/pelabon-scoret-hattrick-mot-gimse-melhus-gauldal",
+        "title": {
+            "value": "Pelabon var giftig foran mål - scoret hattrick"
+        },
+        "description": "Med 5-1-seier over Gimse/Melhus/Gauldal tok Ranheim sin femte seier på rad Maren Pelabon gjorde hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T20:38:54Z",
+        "lastModifiedAt": "2023-05-15T20:57:52Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "tangmoen-knuste-fram",
+        "url": "/lokalfotballen/i/15daQQ/tangmoen-knuste-fram",
+        "title": {
+            "value": "Knusende seier for Tangmoen"
+        },
+        "description": "Tangmoen banket Fram 4-0 i 5. divisjon, Trøndelag - Avdeling 1 i fotball. Jonas Røkke Bender scoret to av målene. Tangmoen har vunnet fire av sine fem siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T20:37:49Z",
+        "lastModifiedAt": "2023-05-15T20:53:13Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "winje-boettet-inn-maal-for-nessegutten-7er",
+        "url": "/lokalfotballen/i/zEboRq/winje-boettet-inn-maal-for-nessegutten-7er",
+        "title": {
+            "value": "Målshow fra Winje"
+        },
+        "description": "Før dagens 1-5-tap mot Nessegutten 7er hadde Kvam 7er tatt poeng i alle seriekampene denne sesongen. Marte Stormo Winje scoret fire ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T20:36:44Z",
+        "lastModifiedAt": "2023-05-15T20:59:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "jakobsen-med-maalshow",
+        "url": "/lokalfotballen/i/8JvabA/jakobsen-med-maalshow",
+        "title": {
+            "value": "Jakobsen bøttet inn mål for Flatanger 7er"
+        },
+        "description": "Signe Kristine Jakobsen scoret alle målene for Flatanger 7er og ble den store helten i 4-1-seieren over Sørlia 7er i 7er, Trøndelag - Avdeling 1 i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T20:36:42Z",
+        "lastModifiedAt": "2023-05-15T20:59:03Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "brakseier-for-beitstad-7er",
+        "url": "/lokalfotballen/i/onloJK/brakseier-for-beitstad-7er",
+        "title": {
+            "value": "Brakseier for Beitstad 7er"
+        },
+        "description": "Beitstad 7er knuste Aasguten 7er 9-1 i 7er, Trøndelag - Avdeling 1 i fotball mandag. Christina Brekken scoret seks av målene. Aasguten 7er har ikke tatt poeng på sine fem første kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T20:30:19Z",
+        "lastModifiedAt": "2023-05-15T20:30:19Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "leinstrand-avgjorde-paa-overtid",
+        "url": "/lokalfotballen/i/pQba0W/leinstrand-avgjorde-paa-overtid",
+        "title": {
+            "value": "Indergård sikret seieren på overtid"
+        },
+        "description": "Leinstrand snudde til seier på overtid mot Rindal 2 i 6. divisjon, Trøndelag - Avdeling 5 i fotball mandag. Kristoffer Belsaas Pedersen scoret to ganger. Rindal 2 har gått poengløse av banen i to strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T20:30:18Z",
+        "lastModifiedAt": "2023-05-15T20:59:06Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "rekdal-blir-med-som-kommentator-i-6-divisjon",
+        "url": "/sport/fotball/i/rlb7rl/rekdal-blir-med-som-kommentator-i-6-divisjon",
+        "title": {
+            "value": "Rekdal blir med som kommentator i 6. divisjon"
+        },
+        "description": "Fredag 19. mai skal Adresseavisen bidra til å lage fest i et hett 6. divisjonsoppgjør. Der blir RBK-trener Kjetil Rekdal med som ekspert.",
+        "imageUrl": "53eac0f9-7666-42d7-89ab-29dec2117550",
+        "publishedAt": "2023-05-15T20:15:38Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "helgaadal",
+            "markabygda",
+            "breddefotbaill",
+            "breddefotball",
+            "lokalfotballen"
+        ]
+    },
+    {
+        "slug": "maal-lykke-for-saastad",
+        "url": "/lokalfotballen/i/gEB259/maal-lykke-for-saastad",
+        "title": {
+            "value": "Saastad bøttet inn mål for Malvik"
+        },
+        "description": "Selma Saastad sto fram med fire mål da Malvik vant 7-2 over Vestbyen i 3. divisjon, Trøndelag i fotball. Vestbyen har tapt tre strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T20:15:09Z",
+        "lastModifiedAt": "2023-05-15T20:27:59Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "bygg-brakker-til-rosenborg-skole-naa",
+        "url": "/meninger/i/y6bmbr/bygg-brakker-til-rosenborg-skole-naa",
+        "title": {
+            "value": "Bygg brakker til Rosenborg skole, nå!"
+        },
+        "description": null,
+        "imageUrl": "897673fc-55f8-448c-8aa8-c3ea4cd564a4",
+        "publishedAt": "2023-05-15T20:12:26Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "FAU v/Singsaker skole"
+        ],
+        "tags": [
+            "debatt",
+            "skole-og-utdanning",
+            "trondheim",
+            "skole-2",
+            "skolestart",
+            "ungdomsskolen",
+            "boligbygging",
+            "elev"
+        ]
+    }
+]

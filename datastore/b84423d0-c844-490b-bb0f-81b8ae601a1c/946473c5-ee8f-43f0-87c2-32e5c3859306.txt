@@ -1,0 +1,385 @@
+[
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "RG2z7W",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/RG2z7W",
+        "preamble": "(Brann – Strømsgodset 1–0) Supporterfavoritten «Kniklas» Jensen Wassberg (19) ble helten for Brann mot Strømsgodset.",
+        "published": {
+            "date": "søndag 16. juli",
+            "datetime": "2023-07-16 21:09:01",
+            "niceformat": "16.07.2023, 21:09",
+            "timestamp": "2023-07-16T19:09:01.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/f88481ac-46c3-47ba-b805-d07bc3761030?fit=crop&format=auto&h=267&w=400&s=a4e803c7f1ff1808c0daacbb641d9ebf7ca30c21",
+            "width": 400
+        },
+        "title": "«Kniklas» reddet Brann i regnværet: – Helt kaos",
+        "url": "https://www.vg.no/sport/fotball/i/RG2z7W/kniklas-reddet-brann-i-regnvaeret-helt-kaos"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wApgoG",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wApgoG",
+        "preamble": "(Sarpsborg 08 – HamKam 2–3) HamKam vant sin andre strake kamp i Eliteserien ved å slå Sarpsborg. Dermed ligger laget på trygg grunn.",
+        "published": {
+            "date": "søndag 16. juli",
+            "datetime": "2023-07-16 21:05:00",
+            "niceformat": "16.07.2023, 21:05",
+            "timestamp": "2023-07-16T19:05:00.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6ea3bc34-bdc5-453b-831a-02d11ef437ec?fit=crop&format=auto&h=267&w=400&s=9c5c8d6c28ac4f55c5075c85d5f83e86e6faadee",
+            "width": 400
+        },
+        "title": "HamKam over nedrykksstreken etter snuoperasjon: – Etterlengtet",
+        "url": "https://www.vg.no/sport/fotball/i/wApgoG/eliteserien-hamkam-over-nedrykksstreken-etter-snuoperasjon-mot-sarpsborg-08"
+    },
+    {
+        "authors": [
+            {
+                "email": "kristine.bechmann.holter@schibsted.no",
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jl1Qpw",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jl1Qpw",
+        "preamble": "(Bodø/Glimt - FK Haugesund 2 - 1) Seiersrekken til Glimt fortsetter etter seier på hjemmebane mot FK Haugesund. Men de måtte jobbe for seieren.",
+        "published": {
+            "date": "søndag 16. juli",
+            "datetime": "2023-07-16 18:55:56",
+            "niceformat": "16.07.2023, 18:55",
+            "timestamp": "2023-07-16T16:55:56.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/ee5690a8-770d-4743-bd3d-bbb971b5d746?fit=crop&format=auto&h=266&w=400&s=27e424dec91d129aa32c099f51d00a4ef0c21ee2",
+            "width": 400
+        },
+        "title": "Glimt fortsetter seierstoget - snudde mot Haugesund etter pause",
+        "url": "https://www.vg.no/sport/fotball/i/jl1Qpw/glimt-fortsetter-seierstoget-snudde-mot-haugesund-etter-pause"
+    },
+    {
+        "authors": [
+            {
+                "email": "vegard.aulstad@vg.no",
+                "id": "32320ac9-8b78-4d86-b923-ee64dc408816",
+                "name": "Vegard Aulstad"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJwMk9",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJwMk9",
+        "preamble": "TRONDHEIM (VG) (Rosenborg BK - Tromsø IL 2–1) Etter tre strake tap som RBK-trener fikk Svein Maalen en etterlengtet seier. Rosenborg-spiss Ole Sæter mener de var heldige.",
+        "published": {
+            "date": "søndag 16. juli",
+            "datetime": "2023-07-16 18:52:33",
+            "niceformat": "16.07.2023, 18:52",
+            "timestamp": "2023-07-16T16:52:33.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/aad1c305-0701-4227-b1cc-2474e7f19b71?fit=crop&format=auto&h=267&w=400&s=b2e08640b847b106e9661c269e49879767fc3bf2",
+            "width": 400
+        },
+        "title": "«Heldig» overtidsscoring sikret Svein Maalens første seier som RBK-sjef",
+        "url": "https://www.vg.no/sport/fotball/i/eJwMk9/overtidsscoring-sikret-svein-maalens-foerste-seier-som-rbk-sjef"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.hellenes@schibsted.com",
+                "id": "424642b6-03fe-42cd-abe2-5f7517e8a8e1",
+                "name": "Andreas Hellenes"
+            },
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zE3AkK",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zE3AkK",
+        "preamble": "LILLESTRØM (VG) (Lillestrøm – Sandefjord 4–2) Stopperkjempen Ruben Gabrielsen (32) forklarer hva forhenværende LSK-trener Geir Bakke snakker om når han snakker om slitasje.",
+        "published": {
+            "date": "søndag 16. juli",
+            "datetime": "2023-07-16 18:52:11",
+            "niceformat": "16.07.2023, 18:52",
+            "timestamp": "2023-07-16T16:52:11.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/3ad1de63-c144-437a-92c6-6133292486e0?fit=crop&format=auto&h=267&w=400&s=ff2e2e7b9cc5256a19ce38675907f39ceae6800a",
+            "width": 400
+        },
+        "title": "LSK-profilen Gabrielsen spøker om Bakke-exiten: – Han var luta lei av oss!",
+        "url": "https://www.vg.no/sport/fotball/i/zE3AkK/eliteserien-lillestroem-slo-sandefjord-etter-geir-bakke-exiten-adams-og-lehne-olsen-herjet"
+    },
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQ2bqP",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQ2bqP",
+        "preamble": "En skuffet Harry Maguire (30) bekrefter at han ikke er klubbens kaptein kommende sesong. ",
+        "published": {
+            "date": "søndag 16. juli",
+            "datetime": "2023-07-16 17:32:30",
+            "niceformat": "16.07.2023, 17:32",
+            "timestamp": "2023-07-16T15:32:30.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/877c6445-c182-4c4c-9b82-c542b91ed2cb?fit=crop&format=auto&h=267&w=400&s=0e2aa2adb1503d10c1daded9d66df686f69ed3ee",
+            "width": 400
+        },
+        "title": "Maguire fratatt kapteinsbindet i Manchester United: – Ekstremt skuffet",
+        "url": "https://www.vg.no/sport/fotball/i/JQ2bqP/harry-maguire-fratatt-kapteinsbindet-i-manchester-united"
+    },
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            },
+            {
+                "email": "helene.husvik@schibsted.com",
+                "id": "d5e4c057-99d9-4cb9-9788-ce1d992fe6be",
+                "name": "Helene Husvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Xb2jeW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Xb2jeW",
+        "preamble": "(Stabæk - Viking 0–1) «Stabæk Support» forlot Nadderud i protest mot videodømming i Eliteserien. Så fikk Stabæk annullert en scoring av VAR, før Viking sikret seieren på tampen. ",
+        "published": {
+            "date": "søndag 16. juli",
+            "datetime": "2023-07-16 17:13:57",
+            "niceformat": "16.07.2023, 17:13",
+            "timestamp": "2023-07-16T15:13:57.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/ZRcWFw6RJmld.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Stabæk-fansen forlot stadion i VAR-protest - Viking med ny seier",
+        "url": "https://www.vg.no/sport/fotball/i/Xb2jeW/stabaek-fansen-med-var-protest-forlot-stadion"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8J1Jbx",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8J1Jbx",
+        "preamble": "Xavi Simons (20) forlater PSVs treningsleir for å fullføre returovergangen til Paris Saint-Germain.",
+        "published": {
+            "date": "søndag 16. juli",
+            "datetime": "2023-07-16 11:14:46",
+            "niceformat": "16.07.2023, 11:14",
+            "timestamp": "2023-07-16T09:14:46.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6926b0dd-51fe-4f84-9556-3b20df5ab79f?fit=crop&format=auto&h=267&w=400&s=b1dd6561263e4c47921efdaf5b53c4c0e14d404f",
+            "width": 400
+        },
+        "title": "Simons returnerer til PSG",
+        "url": "https://www.vg.no/sport/fotball/i/8J1Jbx/simons-returnerer-til-psg"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            },
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "15z5aG",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/15z5aG",
+        "preamble": "(Norge – Portugal 2–1) Norge møtte Portugal i en kamp bak lukkede dører. Det endte med 2–1-seier til Hege Riises kvinner.",
+        "published": {
+            "date": "søndag 16. juli",
+            "datetime": "2023-07-16 09:10:49",
+            "niceformat": "16.07.2023, 09:10",
+            "timestamp": "2023-07-16T07:10:49.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/d5577e56-3324-4bfe-bef1-edbc3c9808d8?fit=crop&format=auto&h=267&w=400&s=6595851bb66fe89b134dc0e30a0805ed14e28047",
+            "width": 400
+        },
+        "title": "Norge vant i generalprøven før VM",
+        "url": "https://www.vg.no/sport/fotball/i/15z5aG/norge-vant-i-generalproeven-foer-vm"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JL4Qx",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JL4Qx",
+        "preamble": "Hun var et av Norges største fotballtalenter. Er det noe Jenny Norem (24) skulle ønske at hun visste, er det hvorfor hun røk korsbåndet tre ganger.",
+        "published": {
+            "date": "søndag 16. juli",
+            "datetime": "2023-07-16 07:42:23",
+            "niceformat": "16.07.2023, 07:42",
+            "timestamp": "2023-07-16T05:42:23.000Z"
+        },
+        "thumbnail": {
+            "height": 268,
+            "url": "https://akamai.vgc.no/v2/images/8e23da58-b996-4608-ab35-2edb8a064bd7?fit=crop&format=auto&h=268&w=400&s=450a83984e8d47d24365105066cb042c25d1f753",
+            "width": 400
+        },
+        "title": "Knærne knuste Jennys drøm: – Gjør meg bitter og tom ",
+        "url": "https://www.vg.no/sport/fotball/i/8JL4Qx/korsbaandskader-i-fotball-jenny-norem-ferdig-som-fotballspiller"
+    }
+]

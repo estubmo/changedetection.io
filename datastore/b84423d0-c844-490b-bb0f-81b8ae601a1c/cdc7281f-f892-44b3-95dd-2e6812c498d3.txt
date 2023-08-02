@@ -1,0 +1,406 @@
+[
+    {
+        "authors": [
+            {
+                "email": "svea@vg.no",
+                "id": "f852e5e5-5ba9-48c7-96da-9455a160031f",
+                "name": "Knut Espen Svegaarden"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4olEO9",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4olEO9",
+        "preamble": "ULLEVAAL STADION (VG) (Norge-Kypros 3–1) Så lenge Norge har en spiss som scorer mål i hver kamp, så vil det alltid være muligheter. Men vi får se til hva høsten bringer. Det er mange spørsmål som må besvares i løpet av det neste halve året.",
+        "published": {
+            "date": "tirsdag 20. juni",
+            "datetime": "2023-06-20 23:03:39",
+            "niceformat": "20.06.2023, 23:03",
+            "timestamp": "2023-06-20T21:03:39.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ddb76ca0-438a-4c3b-ae96-b09aed2dbe6f?fit=crop&format=auto&h=267&w=400&s=b03133e9a508a637079f0cffb591a9ec2c693875",
+            "width": 400
+        },
+        "title": "Solbakken skal være glad han har Haaland",
+        "url": "https://www.vg.no/sport/fotball/i/4olEO9/solbakken-skal-vaere-glad-han-har-haaland"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "svea@vg.no",
+                "id": "f852e5e5-5ba9-48c7-96da-9455a160031f",
+                "name": "Knut Espen Svegaarden"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "onxMA0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/onxMA0",
+        "preamble": "ULLEVAAL STADION (VG) (Norge – Kypros 3–1) Martin Ødegaard (24) skapte sjanse på sjanse da Norge herjet med Kypros, mens Erling Braut Haaland (22) forbedret målstatistikken sin.",
+        "published": {
+            "date": "tirsdag 20. juni",
+            "datetime": "2023-06-20 22:37:04",
+            "niceformat": "20.06.2023, 22:37",
+            "timestamp": "2023-06-20T20:37:04.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/1fafc521-8701-40d3-a4ad-ce53baece35f?fit=crop&format=auto&h=267&w=400&s=f0e54ddbdfeee187df06c1ccc9c38b29cd01cb88",
+            "width": 400
+        },
+        "title": "VG-børsen: Ødegaard og Haaland dominerte stort mot enkel motstander",
+        "url": "https://www.vg.no/sport/fotball/i/onxMA0/vg-boersen-oedegaard-og-haaland-dominerte-stort-mot-enkel-motstander"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            },
+            {
+                "email": "andreas.hellenes@schibsted.com",
+                "id": "424642b6-03fe-42cd-abe2-5f7517e8a8e1",
+                "name": "Andreas Hellenes"
+            },
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jlx3zq",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jlx3zq",
+        "preamble": "ULLEVAAL STADION (VG) (Norge-Kypros 3–1) To scoringer mot Kypros gjør at Erling Braut Haaland (22) har passert Tore André Flo og Ole Gunnar Solskjær i antall landslagsmål.",
+        "published": {
+            "date": "tirsdag 20. juni",
+            "datetime": "2023-06-20 22:19:58",
+            "niceformat": "20.06.2023, 22:19",
+            "timestamp": "2023-06-20T20:19:58.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/c3a33924-613d-45ee-a6b6-cf5ca8758737?fit=crop&format=auto&h=267&w=400&s=00e1f0528b9709ab0ff44b2b7e70ec652c87ac35",
+            "width": 400
+        },
+        "title": "Haaland-dobbel mot Kypros: Nå har han passert legendene ",
+        "url": "https://www.vg.no/sport/fotball/i/jlx3zq/haaland-dobbel-mot-kypros-naa-har-han-passert-legendene"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            },
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QqvGB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QqvGB",
+        "preamble": "(Skottland - Georgia 1–0, kampen pågår) EM-kvalifiseringskampen mellom Skottland og Georgia ble stoppet etter kun ti minutters spill. Etter en halvannen time opphold, startet kampen igjen. ",
+        "published": {
+            "date": "tirsdag 20. juni",
+            "datetime": "2023-06-20 20:58:23",
+            "niceformat": "20.06.2023, 20:58",
+            "timestamp": "2023-06-20T18:58:23.000Z"
+        },
+        "thumbnail": {
+            "height": 270,
+            "url": "https://akamai.vgc.no/v2/images/fc4795c6-075b-4ea8-9325-adb00f11d446?fit=crop&format=auto&h=270&w=400&s=5a9c8a7bb5f1de01f6099aa7f2a6af65276a5095",
+            "width": 400
+        },
+        "title": "Kvalikkampen mellom Skottland Georgia stoppet etter ti minutter: – En parodi ",
+        "url": "https://www.vg.no/sport/fotball/i/0QqvGB/skottland-georgia-stoppet-etter-ti-minutter-en-parodi"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "2Bgv3r",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/2Bgv3r",
+        "preamble": "(Island - Portugal 0–1) Cristiano Ronaldo (38) er blitt den første spilleren til å nå 200 landskamper. Det ble hyllet med blomster før kampstart mot Åge Hareides Island, og scoring og seier ved kampslutt. ",
+        "published": {
+            "date": "tirsdag 20. juni",
+            "datetime": "2023-06-20 20:54:39",
+            "niceformat": "20.06.2023, 20:54",
+            "timestamp": "2023-06-20T18:54:39.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/e73066c9-ce8c-4671-9df6-74c61da84b9a?fit=crop&format=auto&h=267&w=400&s=7379e382ecf7bd6dfe53d97d532c49898b566456",
+            "width": 400
+        },
+        "title": "Ronaldo med milepæl: – Jeg følger ikke rekordene, de følger meg ",
+        "url": "https://www.vg.no/sport/fotball/i/2Bgv3r/ronaldo-med-milepael-jeg-foelger-ikke-rekordene-de-foelger-meg"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5Be8AE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5Be8AE",
+        "preamble": "Erling Braut Haaland kommer likevel inn i gullklokkeklubben. Norges Fotballforbund endrer tilbake til tradisjonen med å belønne spillere etter 25 landskamper. ",
+        "published": {
+            "date": "tirsdag 20. juni",
+            "datetime": "2023-06-20 19:41:23",
+            "niceformat": "20.06.2023, 19:41",
+            "timestamp": "2023-06-20T17:41:23.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/17f4f00d-ff35-4ad0-be64-b05ed526e6bb?fit=crop&format=auto&h=267&w=400&s=c25ec9469e708b92fba8aa19deba4b871d7dffe5",
+            "width": 400
+        },
+        "title": "NFF snur og gir Haaland gullklokke",
+        "url": "https://www.vg.no/sport/fotball/i/5Be8AE/nff-snur-og-gir-haaland-gullklokke"
+    },
+    {
+        "authors": [
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "abewxa",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/abewxa",
+        "preamble": "ULLEVAAL STADION (VG) EM-kvalifiseringen virker sluttkjørt for Norge. Ujevnheten, bruken av benkede spillere og forsvaret blir pekt på som årsaken.",
+        "published": {
+            "date": "tirsdag 20. juni",
+            "datetime": "2023-06-20 18:52:15",
+            "niceformat": "20.06.2023, 18:52",
+            "timestamp": "2023-06-20T16:52:15.000Z"
+        },
+        "thumbnail": {
+            "height": 265,
+            "url": "https://akamai.vgc.no/v2/images/1ee71d7a-8777-45b7-b57c-711129dabc7c?fit=crop&format=auto&h=265&w=400&s=6f2d2e9c20966e384e677f3c270cdd2593bf1fee",
+            "width": 400
+        },
+        "title": "Ekspertene peker på Norges trøbbel etter krisestarten: – Bakre fireren ikke god nok",
+        "url": "https://www.vg.no/sport/fotball/i/abewxa/norge-skepsis-etter-skuffelsen-defensivt-er-det-vanskelig"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69e4Oz",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69e4Oz",
+        "preamble": "Standard Lièges nye trenerstab etter Ronny Deilas avgang er komplett med signeringen av Yaya Touré. Den tidligere midtbanestjernen kommer inn som assistent.",
+        "published": {
+            "date": "tirsdag 20. juni",
+            "datetime": "2023-06-20 18:23:59",
+            "niceformat": "20.06.2023, 18:23",
+            "timestamp": "2023-06-20T16:23:59.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ee8b89b9-a7e9-4e11-a756-a6758abc4842?fit=crop&format=auto&h=267&w=400&s=7c0c3c35a9f3b2485364325d0a9ee0ffe9d8973b",
+            "width": 400
+        },
+        "title": "Deilas gamleklubb henter Yaya Touré",
+        "url": "https://www.vg.no/sport/fotball/i/69e4Oz/deilas-gamleklubb-henter-yaya-toure"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "KnXrK6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/KnXrK6",
+        "preamble": "Norge har med tre spillere blant de 100 som er nominert til årets Golden Boy-kåring. Rankingen toppes av Tysklands stortalent Jamal Musiala.",
+        "published": {
+            "date": "tirsdag 20. juni",
+            "datetime": "2023-06-20 16:38:06",
+            "niceformat": "20.06.2023, 16:38",
+            "timestamp": "2023-06-20T14:38:06.000Z"
+        },
+        "thumbnail": {
+            "height": 278,
+            "url": "https://akamai.vgc.no/v2/images/614f08f2-0e44-4779-9d43-bef6b5c19bf4?fit=crop&format=auto&h=278&w=400&s=884ce80fbd41fde71d7a6729509a843731a2b4d6",
+            "width": 400
+        },
+        "title": "Tre nordmenn på Golden Boy-liste",
+        "url": "https://www.vg.no/sport/fotball/i/KnXrK6/tre-nordmenn-paa-golden-boy-liste"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69d0ee",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69d0ee",
+        "preamble": "ULLEVAAL STADION (VG) Et stort spørsmål gjentas gang på gang: Hvordan skal Norge utnytte Erling Braut Haaland (22) og Martin Ødegaard (24) best mulig? ",
+        "published": {
+            "date": "tirsdag 20. juni",
+            "datetime": "2023-06-20 14:51:46",
+            "niceformat": "20.06.2023, 14:51",
+            "timestamp": "2023-06-20T12:51:46.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/9e3584df-ad2f-41db-bf89-c22270c31895?fit=crop&format=auto&h=267&w=400&s=a0ae8b30111012a1c0eac47af29cb6d80187aa79",
+            "width": 400
+        },
+        "title": "Solbakken forklarer Haaland-grep og mener mange tar feil om Ødegaard",
+        "url": "https://www.vg.no/sport/fotball/i/69d0ee/staale-solbakkens-plan-slik-skal-norge-faa-mest-ut-av-martin-oedegaard-og-erling-braut-haaland"
+    }
+]

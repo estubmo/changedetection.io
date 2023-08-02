@@ -1,0 +1,202 @@
+[
+    {
+        "slug": "dette-er-norges-nye-idrettspresident",
+        "url": "/sport/i/bgdnLk/dette-er-norges-nye-idrettspresident",
+        "title": {
+            "value": "Dette er Norges nye idrettspresident"
+        },
+        "description": "Zaineb Al-Samarai tar over som norsk idretts øverste sjef. Hun tok sittende president Berit Kjøll i tingvoteringen i Bergen.",
+        "imageUrl": "34aae7e3-2199-417c-a245-212385b7f0f5",
+        "publishedAt": "2023-06-04T09:39:27Z",
+        "lastModifiedAt": "2023-06-04T09:40:13Z",
+        "premium": true,
+        "authors": [
+            "Carl Alfred Dahl",
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "suksessen-gir-laget-ett-problem-er-blitt-enda-vanskeligere",
+        "url": "/sport/langrenn/i/EQ5dW2/suksessen-gir-laget-ett-problem-er-blitt-enda-vanskeligere",
+        "title": {
+            "value": "Suksessen gir laget ett problem: – Er blitt enda vanskeligere"
+        },
+        "description": "Trenerduoen Magnus Stensås og Mats Iversen erkjenner at det har vært flere dilemma og konflikter i årets laguttak.",
+        "imageUrl": "b89bc534-eb42-4993-8333-323c681f1c76",
+        "publishedAt": "2023-06-04T08:24:41Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "team-midt-norge",
+            "magnus-stensaas",
+            "langrenn"
+        ]
+    },
+    {
+        "slug": "sliter-med-nytt-system-fra-kommunen-soeppelet-havner-hos-naboen",
+        "url": "/nyheter/trondheim/i/691EGr/sliter-med-nytt-system-fra-kommunen-soeppelet-havner-hos-naboen",
+        "title": {
+            "value": "– Søppelet havner hos naboen"
+        },
+        "description": "Trondheim Renholdsverk har blitt kontaktet av flere som har trøbbel med det nye søppelsorteringssystemet.",
+        "imageUrl": "7e418ebd-c4ba-46a4-b006-640cf3a5d9ba",
+        "publishedAt": "2023-06-04T06:27:56Z",
+        "lastModifiedAt": "2023-06-04T07:32:02Z",
+        "premium": true,
+        "authors": [
+            "Emelie Kjærnli Kristiansen"
+        ],
+        "tags": [
+            "trondheim",
+            "soeppel",
+            "avfall",
+            "trondheim-renholdsverk",
+            "plastavfall",
+            "matavfall",
+            "kildesortering",
+            "forsoepling"
+        ]
+    },
+    {
+        "slug": "rbk-profilen-maatte-ta-et-vanskelig-valg-naa-eller-aldri",
+        "url": "/sport/fotball/i/kE1aL9/rbk-profilen-maatte-ta-et-vanskelig-valg-naa-eller-aldri",
+        "title": {
+            "value": "RBK-profilen måtte ta et vanskelig valg: – Nå eller aldri"
+        },
+        "description": "Synne Skinnes Hansen stortrives i Trondheim. Om fire uker velger hun likevel å forlate trønderhovedstaden.",
+        "imageUrl": "859f4426-ecd6-427f-a749-5a46368540da",
+        "publishedAt": "2023-06-03T19:36:44Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "synne-skinnes-hansen",
+            "steinar-lein",
+            "emilie-joramo"
+        ]
+    },
+    {
+        "slug": "roervik-tok-sin-femte-seier-paa-rad",
+        "url": "/lokalfotballen/i/158noe/roervik-tok-sin-femte-seier-paa-rad",
+        "title": {
+            "value": "Rørvik tok sin femte seier på rad"
+        },
+        "description": "Rørvik tok alle poengene da Heimdal ble slått 2-1 borte i 4. divisjon, Trøndelag - Avdeling 1 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T19:22:07Z",
+        "lastModifiedAt": "2023-06-03T19:22:07Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "det-blir-som-spoersmaalet-om-rbk-trener",
+        "url": "/sport/i/jlMP2L/det-blir-som-spoersmaalet-om-rbk-trener",
+        "title": {
+            "value": "Det blir som spørsmålet om Rosenborg-trener"
+        },
+        "description": "KOMMENTAR: Det snakkes om at presidenten har mistet garderoben. Men finnes det et bedre alternativ?",
+        "imageUrl": "96e080af-9d92-4be6-aa5e-2acdbd0f239a",
+        "publishedAt": "2023-06-03T18:30:09Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Birger Løfaldli"
+        ],
+        "tags": [
+            "sven-mollekleiv",
+            "tom-tvedt",
+            "birger-loefaldli",
+            "zaineb-al-samarai",
+            "staale-vaag",
+            "berit-kjoell"
+        ]
+    },
+    {
+        "slug": "sebastian-juliussen-sikret-tre-poeng-for-rosenborg",
+        "url": "/lokalfotballen/i/5Bk006/sebastian-juliussen-sikret-tre-poeng-for-rosenborg",
+        "title": {
+            "value": "Sebastian Juliussen ble matchvinner for Rosenborg"
+        },
+        "description": "Sebastian Juliussen sto for den avgjørende scoringen for Rosenborg i 4-3-seieren over Lillestrøm på SalMar-banen i Nasjonal G15, Gruppe C.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T17:34:12Z",
+        "lastModifiedAt": "2023-06-03T17:52:30Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "elias-molund-sikret-poeng-for-tromsoe",
+        "url": "/lokalfotballen/i/abkww2/elias-molund-sikret-poeng-for-tromsoe",
+        "title": {
+            "value": "Tromsø sikret uavgjort"
+        },
+        "description": "Tromsø lå under 0-1, men klarte 1-1 mot Rosenborg etter en sen utligning i Nasjonal G17 1. divisjon.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T17:33:12Z",
+        "lastModifiedAt": "2023-06-03T17:52:30Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-itromso",
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "scoringslykke-for-bue",
+        "url": "/lokalfotballen/i/q1Enzo/scoringslykke-for-bue",
+        "title": {
+            "value": "Dobbel fra Bue for Tangmoen"
+        },
+        "description": "Erika Bue scoret to mål og hjalp Tangmoen til 3-1-seier over Overhalla i 4. divisjon, Trøndelag - Avdeling 1 i fotball for kvinner lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T16:51:36Z",
+        "lastModifiedAt": "2023-06-03T17:24:00Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "fosen-vant-over-strindheim-2",
+        "url": "/lokalfotballen/i/XbnwPW/fosen-vant-over-strindheim-2",
+        "title": {
+            "value": "Fosen slo Strindheim 2 på bortebane"
+        },
+        "description": "Fosen knuste Strindheim 2 3-0 i 4. divisjon, Trøndelag - Avdeling 2 i fotball for kvinner lørdag. Det var Fosens første trepoenger på hjemmebane i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T16:11:09Z",
+        "lastModifiedAt": "2023-06-03T16:24:21Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    }
+]

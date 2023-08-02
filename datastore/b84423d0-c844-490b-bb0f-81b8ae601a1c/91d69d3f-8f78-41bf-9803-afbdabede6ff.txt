@@ -1,0 +1,362 @@
+[
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69dmGe",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69dmGe",
+        "preamble": "Både Kjetil Rekdal og Geir Frigård skal være ferdige som trenere i Rosenborg, det melder Trondheimsavisa Nidaros.",
+        "published": {
+            "date": "fredag 16. juni",
+            "datetime": "2023-06-16 12:11:17",
+            "niceformat": "16.06.2023, 12:11",
+            "timestamp": "2023-06-16T10:11:17.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/3d7e06ac-d7ea-4329-824f-4a7fc02069ff?fit=crop&format=auto&h=267&w=400&s=346d3bf1ca0a3303e997dd35b3cf05558430c1c0",
+            "width": 400
+        },
+        "title": "Nidaros: Rekdal skal ha fått sparken",
+        "url": "https://www.vg.no/sport/fotball/i/69dmGe/nidaros-rekdal-har-faatt-sparken"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QOM9J",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QOM9J",
+        "preamble": "Declan Rice er en attraktiv mann på overgangsmarkedet, og flere klubber har kastet seg inn i kampen om West Ham-spilleren. ",
+        "published": {
+            "date": "fredag 16. juni",
+            "datetime": "2023-06-16 11:02:38",
+            "niceformat": "16.06.2023, 11:02",
+            "timestamp": "2023-06-16T09:02:38.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/5bdb52a3-6932-432a-b326-f262c97b3cc7?fit=crop&format=auto&h=267&w=400&s=fc06f92d2fbfd2ba29c40621c629d6f6dca41e3b",
+            "width": 400
+        },
+        "title": "Arsenal forbereder nytt Rice-bud",
+        "url": "https://www.vg.no/sport/fotball/i/0QOM9J/arsenal-forbereder-nytt-rice-bud"
+    },
+    {
+        "authors": [
+            {
+                "email": "svea@vg.no",
+                "id": "f852e5e5-5ba9-48c7-96da-9455a160031f",
+                "name": "Knut Espen Svegaarden"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BWnOeQ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BWnOeQ",
+        "preamble": "ULLEVAAL STADION (VG) Kapteinen har vist at han har det som skal til – utenfor banen. Men vi bør, kan og må forlange enda mer fra Martin Ødegaard (24) på banen. Det er faktisk helt nødvendig.",
+        "published": {
+            "date": "fredag 16. juni",
+            "datetime": "2023-06-16 08:56:58",
+            "niceformat": "16.06.2023, 08:56",
+            "timestamp": "2023-06-16T06:56:58.000Z"
+        },
+        "thumbnail": {
+            "height": 274,
+            "url": "https://akamai.vgc.no/v2/images/c854a420-cadb-4182-8b5f-d718de97cddd?fit=crop&format=auto&h=274&w=400&s=e7d14caf460d779f17280016f6ba37719480e662",
+            "width": 400
+        },
+        "title": "Vi bør forlange mer av Ødegaard",
+        "url": "https://www.vg.no/sport/fotball/i/BWnOeQ/vi-boer-forlange-mer-av-oedegaard"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgyKol",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgyKol",
+        "preamble": "Videoene av en feirende Jack Grealish gikk sin seiersgang på sosiale medier etter en historisk «Treble». Nå avslører pappa Grealish regningen på deler av feiringene. ",
+        "published": {
+            "date": "fredag 16. juni",
+            "datetime": "2023-06-16 08:48:43",
+            "niceformat": "16.06.2023, 08:48",
+            "timestamp": "2023-06-16T06:48:43.000Z"
+        },
+        "thumbnail": {
+            "height": 283,
+            "url": "https://akamai.vgc.no/v2/images/8690c527-af01-40df-a279-10817813967a?fit=crop&format=auto&h=283&w=400&s=58c8e86351d03e0e030dc5cb45a209b352f3d739",
+            "width": 400
+        },
+        "title": "Jack Grealish går viralt - nå avslører faren festregningen",
+        "url": "https://www.vg.no/sport/fotball/i/xgyKol/avsloerer-skyhoey-festregning-drikkeregning-paa-630-000"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEK5kL",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEK5kL",
+        "preamble": "Sørlendingen Sondre Tronstad (27) har skrevet under på en treårskontrakt med Championship-klubben Blackburn.",
+        "published": {
+            "date": "torsdag 15. juni",
+            "datetime": "2023-06-15 23:28:25",
+            "niceformat": "15.06.2023, 23:28",
+            "timestamp": "2023-06-15T21:28:25.000Z"
+        },
+        "thumbnail": {
+            "height": 225,
+            "url": "https://akamai.vgc.no/v2/images/01e3a4b8-0c7e-4b3f-be75-cea7b427bd11?fit=crop&format=auto&h=225&w=400&s=fe45a45db415552a325586fbafb84254c3de39bf",
+            "width": 400
+        },
+        "title": "Tronstad klar for Blackburn",
+        "url": "https://www.vg.no/sport/fotball/i/gEK5kL/tronstad-klar-for-blackburn"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5Bk1aO",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5Bk1aO",
+        "preamble": "(Spania-Italia 2–1) Innbytter Joselu (33) hadde nettopp kommet på banen da han kunne pirke ballen i mål og sende Norges EM-kvalik-motstander Spania til Nations League-finalen mot Kroatia.",
+        "published": {
+            "date": "torsdag 15. juni",
+            "datetime": "2023-06-15 22:38:26",
+            "niceformat": "15.06.2023, 22:38",
+            "timestamp": "2023-06-15T20:38:26.000Z"
+        },
+        "thumbnail": {
+            "height": 233,
+            "url": "https://akamai.vgc.no/v2/images/5f8eeb46-eaa1-431b-93fb-5b1941579fd8?fit=crop&format=auto&h=233&w=400&s=55e0f718a80c51d0343e9c043d508a622bb295e7",
+            "width": 400
+        },
+        "title": "Spansk innbytter avgjorde i semifinalen mot Italia",
+        "url": "https://www.vg.no/sport/fotball/i/5Bk1aO/spansk-innbytter-avgjorde-i-semifinalen-mot-italia"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "abkmVE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/abkmVE",
+        "preamble": "Serie A-mester Napoli og Leo Østigård (23) har fått ny sjef. Franske Rudi García (59) tar over for Luciano Spalletti (64).",
+        "published": {
+            "date": "torsdag 15. juni",
+            "datetime": "2023-06-15 21:07:56",
+            "niceformat": "15.06.2023, 21:07",
+            "timestamp": "2023-06-15T19:07:56.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/c0cacf58-d86d-4e37-9c7d-c5440aeae52c?fit=crop&format=auto&h=267&w=400&s=b09494fb5f1a18dfcf4b716444b226b4142212a1",
+            "width": 400
+        },
+        "title": "Rudi García ansatt som Østigårds nye Napoli-trener",
+        "url": "https://www.vg.no/sport/fotball/i/abkmVE/rudi-garcia-ansatt-som-oestigaards-nye-napoli-trener"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76JWyw",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76JWyw",
+        "preamble": "Kylian Mbappé sier på en pressekonferanse at han ønsker å bli i PSG, selv om han ikke vil signere en ny kontrakt.",
+        "published": {
+            "date": "torsdag 15. juni",
+            "datetime": "2023-06-15 18:39:06",
+            "niceformat": "15.06.2023, 18:39",
+            "timestamp": "2023-06-15T16:39:06.000Z"
+        },
+        "thumbnail": {
+            "height": 248,
+            "url": "https://akamai.vgc.no/v2/images/e3925318-d64e-4e2b-90ab-2ee0730cd352?fit=crop&format=auto&h=248&w=400&s=897304e8272e05437c7b2a50e87bf057283c6357",
+            "width": 400
+        },
+        "title": "Mbappe om fremtiden: – PSG er min eneste mulighet",
+        "url": "https://www.vg.no/sport/fotball/i/76JWyw/mbappe-om-fremtiden-psg-er-min-eneste-mulighet"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "abkmOa",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/abkmOa",
+        "preamble": "Manchester United-legende og Qatar-ambassadør Rio Ferdinand (44) påstår at den engelske storklubben straks har nye eiere.",
+        "published": {
+            "date": "torsdag 15. juni",
+            "datetime": "2023-06-15 17:58:08",
+            "niceformat": "15.06.2023, 17:58",
+            "timestamp": "2023-06-15T15:58:08.000Z"
+        },
+        "thumbnail": {
+            "height": 308,
+            "url": "https://akamai.vgc.no/v2/images/24075282-333d-4082-aaf6-c4548009398a?fit=crop&format=auto&h=308&w=400&s=903a3d639cf741fba9757929aa79abab9db23bfa",
+            "width": 400
+        },
+        "title": "Ferdinand hevder Qatar-oppkjøp av United aksepteres: – Hallelujah!",
+        "url": "https://www.vg.no/sport/fotball/i/abkmOa/ferdinand-hevder-qatar-oppkjoep-av-united-aksepteres-hallelujah"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "y6yq7r",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/y6yq7r",
+        "preamble": "Det norske U21-landslaget møter et fransk lag uten tre store stopperprofiler under EM i Romania neste uke.",
+        "published": {
+            "date": "torsdag 15. juni",
+            "datetime": "2023-06-15 15:33:27",
+            "niceformat": "15.06.2023, 15:33",
+            "timestamp": "2023-06-15T13:33:27.000Z"
+        },
+        "thumbnail": {
+            "height": 299,
+            "url": "https://akamai.vgc.no/v2/images/3ecbfb9f-5607-4b54-832c-66ff616b04b5?fit=crop&format=auto&h=299&w=400&s=6eb67eace4fdf0d43456231b85e6031e465ef86e",
+            "width": 400
+        },
+        "title": "Stjernefall for Norges EM-motstander",
+        "url": "https://www.vg.no/sport/fotball/i/y6yq7r/stjernefall-for-norges-em-motstander"
+    }
+]

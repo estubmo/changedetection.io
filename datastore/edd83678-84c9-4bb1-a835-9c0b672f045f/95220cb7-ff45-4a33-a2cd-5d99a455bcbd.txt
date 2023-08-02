@@ -1,0 +1,189 @@
+[
+    {
+        "slug": "brekken-ubeseiret-paa-fem-kamper",
+        "url": "/lokalfotballen/i/APqMVA/brekken-ubeseiret-paa-fem-kamper",
+        "title": {
+            "value": "Brekken ubeseiret på fem kamper"
+        },
+        "description": "Alen Hurtic berget poeng for Brekken med en sen utligning i 2-2-kampen mot Leik i 6. divisjon, Trøndelag - Avdeling 6 i fotball for menn lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-13T14:07:57Z",
+        "lastModifiedAt": "2023-05-13T14:07:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "glorud-i-scoringshumoer-mot-tynset",
+        "url": "/lokalfotballen/i/LlqxOq/glorud-i-scoringshumoer-mot-tynset",
+        "title": {
+            "value": "Glorud i scoringshumør mot Tynset"
+        },
+        "description": "Dorthea Glorud viste scoringsform da Frigg seiret 6-1 over Tynset i 2. divisjon, Avdeling 1 i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-13T14:01:50Z",
+        "lastModifiedAt": "2023-05-13T14:01:50Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "patrik-toerset-johnsen-sikret-tre-poeng-for-rosenborg",
+        "url": "/lokalfotballen/i/Q7qAk8/patrik-toerset-johnsen-sikret-tre-poeng-for-rosenborg",
+        "title": {
+            "value": "Patrik Tørset Johnsen sikret tre poeng for Rosenborg"
+        },
+        "description": "Rosenborg snudde 0-1 til 2-1-seier over HamKam i Nasjonal G15, Gruppe C.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-13T14:00:47Z",
+        "lastModifiedAt": "2023-05-13T14:00:47Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "her-er-rekdals-utvalgte-foelg-kampen-direkte-med-ivers",
+        "url": "/sport/fotball/i/vebKzw/her-er-rekdals-utvalgte-foelg-kampen-direkte-med-ivers",
+        "title": {
+            "value": "Rekdal overrasker - Følg kampen direkte med Ivers "
+        },
+        "description": "RBK møter Bodø/Glimt på bortebane.",
+        "imageUrl": "96d56b06-a33a-4961-b58a-da273764f07b",
+        "publishedAt": "2023-05-13T13:48:24Z",
+        "lastModifiedAt": "2023-05-13T13:59:47Z",
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "eliteserien"
+        ]
+    },
+    {
+        "slug": "storseier-for-ranheim",
+        "url": "/lokalfotballen/i/onlGQa/storseier-for-ranheim",
+        "title": {
+            "value": "Ranheim vant i målfest"
+        },
+        "description": "Ranheim lå under 0-1, men snudde til 7-1-seier over Verdal i J14 1. divisjon, Avdeling 1 - Vår lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-13T13:41:04Z",
+        "lastModifiedAt": "2023-05-13T13:51:40Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "ny-seier-for-byaasen",
+        "url": "/lokalfotballen/i/P4qAqe/ny-seier-for-byaasen",
+        "title": {
+            "value": "Theodor Andreassen ble tomålshelt"
+        },
+        "description": "Theodor Andreassen viste scoringsform da Byåsen vant 3-0 over Tynset i G14 1. divisjon, Avdeling 2 - Vår lørdag. Byåsen har tatt poeng i fem strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-13T11:57:44Z",
+        "lastModifiedAt": "2023-05-13T12:20:56Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "tomaalshelten-sikret-seier-for-charlottenlund",
+        "url": "/lokalfotballen/i/MoqbpE/tomaalshelten-sikret-seier-for-charlottenlund",
+        "title": {
+            "value": "Nettsus for Enoch Twimukye"
+        },
+        "description": "Ranheim gikk på sitt første nederlag i årets sesong etter dagens 1-2-tap mot Charlottenlund.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-13T11:36:02Z",
+        "lastModifiedAt": "2023-05-13T11:50:17Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "rbk-talent-laanes-ut-til-obosligaen",
+        "url": "/sport/fotball/i/rlbJm0/rbk-talent-laanes-ut-til-obosligaen",
+        "title": {
+            "value": "RBK-talent lånes ut"
+        },
+        "description": "Marius Broholm er på vei til Kristiansund.",
+        "imageUrl": "fb994b5c-ccc2-425f-9815-1abe8d436120",
+        "publishedAt": "2023-05-13T11:00:11Z",
+        "lastModifiedAt": "2023-05-13T11:45:24Z",
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen",
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "han-vokste-opp-i-trondheim-at-dette-skulle-skje-hadde-han-aldri-sett-for-seg",
+        "url": "/sport/fotball/i/8JvRnE/han-vokste-opp-i-trondheim-at-dette-skulle-skje-hadde-han-aldri-sett-for-seg",
+        "title": {
+            "value": "– Jeg tror det kommer til å snu på et eller annet tidspunkt"
+        },
+        "description": "I 2018 var Glimt nær å rykke ned, mens RBK sparket Kåre Ingebrigtsen. Fem år senere er Glimt suveren serieleder, mens RBK sliter med å skape sjanser.",
+        "imageUrl": "5e1609e9-c376-42a5-bab1-0e4db10588c5",
+        "publishedAt": "2023-05-13T08:52:12Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen",
+            "David Engmo (foto)"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "2500-tilskuere-maatte-dra-hjem-det-er-flaut-naar-man-skal-debutere",
+        "url": "/mn24/i/bgobl5/2500-tilskuere-maatte-dra-hjem-det-er-flaut-naar-man-skal-debutere",
+        "title": {
+            "value": "– 2500 tilskuere måtte dra hjem. Det er flaut når man skal debutere"
+        },
+        "description": "Frank Lidahl har brent for fotballen i 25 år, men har sagt at han skal bli gartner den dagen han gir seg.",
+        "imageUrl": "1b4a75e9-0ec2-4a69-a721-2aa79b7a94eb",
+        "publishedAt": "2023-05-13T04:00:11Z",
+        "lastModifiedAt": "2023-05-13T04:00:11Z",
+        "premium": true,
+        "authors": [
+            "Synne Mauseth, MN24"
+        ],
+        "tags": [
+            "fotball",
+            "frank-lidahl"
+        ]
+    }
+]

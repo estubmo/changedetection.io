@@ -1,0 +1,199 @@
+[
+    {
+        "slug": "ingen-maal-paa-heggoeya-kunstgras",
+        "url": "/lokalfotballen/i/jlxl60/ingen-maal-paa-heggoeya-kunstgras",
+        "title": {
+            "value": "Ingen mål på Heggøya kunstgras"
+        },
+        "description": "Verken Meldal eller Flatås fikk nettkjenning da lagene møttes i 6. divisjon, Trøndelag - Avdeling 5 i fotball for menn mandag. Det stanset tapsrekken til Flatås, som var poengløse på de siste fem kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T20:38:14Z",
+        "lastModifiedAt": "2023-06-19T20:38:14Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "dobbel-fra-stavrum-for-sverre",
+        "url": "/lokalfotballen/i/Xb3bvb/dobbel-fra-stavrum-for-sverre",
+        "title": {
+            "value": "Stavrum-dobbel for Sverre"
+        },
+        "description": "Erik Stavrum førte an med to mål i 4-0-seieren over Malvik 2/Hommelvik 2 i 6. divisjon, Trøndelag - Avdeling 2 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T20:38:13Z",
+        "lastModifiedAt": "2023-06-19T20:41:21Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "joergenvaag-scoret-to-for-soerlia-innherred-2",
+        "url": "/lokalfotballen/i/eJRJAl/joergenvaag-scoret-to-for-soerlia-innherred-2",
+        "title": {
+            "value": "Jørgenvåg scoret to for Sørlia / Innherred 2"
+        },
+        "description": "Isak Jørgenvåg sto fram med to mål da Sørlia/Innherred 2 vant 4-1 over Snåsa i 6. divisjon, Trøndelag - Avdeling 1 i fotball for menn mandag. Det var Snåsas andre nederlag på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T20:37:09Z",
+        "lastModifiedAt": "2023-06-19T20:37:09Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "wilhelmsen-senket-verdal",
+        "url": "/lokalfotballen/i/kExE2v/wilhelmsen-senket-verdal",
+        "title": {
+            "value": "Wilhelmsen avgjorde for Gimse / Melhus / Gauldal"
+        },
+        "description": "Cecilie Theodora Wilhelmsen scoret kampens eneste mål da Gimse/Melhus/Gauldal slo Verdal 1-0 i 3. divisjon, Trøndelag i fotball mandag. Gimse/Melhus/Gauldal tok sin første borteseier i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T20:22:42Z",
+        "lastModifiedAt": "2023-06-19T20:37:11Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "wenneberg-boettet-inn-maal-mot-flatanger",
+        "url": "/lokalfotballen/i/8JVJeQ/wenneberg-boettet-inn-maal-mot-flatanger",
+        "title": {
+            "value": "Wenneberg med målshow"
+        },
+        "description": "Levanger 2 tok sine første poeng på fire kamper med 9-0 over Flatanger i 4. divisjon, Trøndelag - Avdeling 1 i fotball mandag. Marcus Wenneberg scoret fire mål.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T20:20:39Z",
+        "lastModifiedAt": "2023-06-19T20:32:50Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "nettsus-for-reitan",
+        "url": "/lokalfotballen/i/rlOloK/nettsus-for-reitan",
+        "title": {
+            "value": "Steinkjer seiret i målfest"
+        },
+        "description": "Steinkjer knuste Vestbyen 5-2 i 3. divisjon, Trøndelag mandag. Vilde Reitan scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T20:18:35Z",
+        "lastModifiedAt": "2023-06-19T20:37:10Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "tilseth-ble-helten-for-stoeren",
+        "url": "/lokalfotballen/i/pQxQzw/tilseth-ble-helten-for-stoeren",
+        "title": {
+            "value": "Ny seier for Støren"
+        },
+        "description": "Magnus Tilseth avgjorde med sin 3-2-scoring for Støren mot Trønder-Lyn 2 på Støren kunstgress i 6. divisjon, Trøndelag - Avdeling 6 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T20:10:16Z",
+        "lastModifiedAt": "2023-06-19T20:38:13Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-gauldalsposten",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "stoerdal-senket-tangmoen-2",
+        "url": "/lokalfotballen/i/gExEo9/stoerdal-senket-tangmoen-2",
+        "title": {
+            "value": "Størdal avgjorde for Neset"
+        },
+        "description": "Thomas Størdal sikret seieren med sin 3-2-scoring for Neset mot Tangmoen 2 på Frostagrønt Arena i 6. divisjon, Trøndelag - Avdeling 2 i fotball. Neset har tatt poeng i sine ti siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T20:10:15Z",
+        "lastModifiedAt": "2023-06-19T20:38:12Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "melhus-2-vant-igjen",
+        "url": "/lokalfotballen/i/8JVJ22/melhus-2-vant-igjen",
+        "title": {
+            "value": "Melhus 2 vant igjen"
+        },
+        "description": "Med 4-1-seier i dagens kamp har Melhus 2 tatt poeng i fem strake kamper i 6. divisjon, Trøndelag - Avdeling 4 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T19:58:23Z",
+        "lastModifiedAt": "2023-06-19T20:06:54Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "furberg-boettet-inn-maal-mot-lensvik",
+        "url": "/lokalfotballen/i/kExEnj/furberg-boettet-inn-maal-mot-lensvik",
+        "title": {
+            "value": "Furberg bøttet inn mål for Frøya"
+        },
+        "description": "Nataniel Sandvik Furberg sto fram med fem scoringer da Frøya vant 11-0 over Lensvik i 6. divisjon, Trøndelag - Avdeling 4 i fotball. Lensvik har tapt de siste fire kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T19:36:39Z",
+        "lastModifiedAt": "2023-06-19T20:06:56Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya",
+            "lokalfotballen-avisast"
+        ]
+    }
+]

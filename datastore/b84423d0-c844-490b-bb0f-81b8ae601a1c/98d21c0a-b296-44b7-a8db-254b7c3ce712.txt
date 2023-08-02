@@ -1,0 +1,382 @@
+[
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4oX9Xg",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4oX9Xg",
+        "preamble": "MANCHESTER/MADRID (VG) Nå som Manchester City virkelig har integrert sin store og sterke spydspiss Erling Braut Haaland (22), gir det dem et angrepsvåpen de ikke før har hatt. Real Madrid-sjef Carlo Ancelotti er forberedt.",
+        "published": {
+            "date": "mandag 8. mai",
+            "datetime": "2023-05-08 17:36:28",
+            "niceformat": "08.05.2023, 17:36",
+            "timestamp": "2023-05-08T15:36:28.000Z"
+        },
+        "thumbnail": {
+            "height": 305,
+            "url": "https://akamai.vgc.no/v2/images/82c39d36-74e0-4351-b550-23bb3a64c3fe?fit=crop&format=auto&h=305&w=400&s=f25e4b36c7778b1ae5eaf98f4dfcf460832f24ff",
+            "width": 400
+        },
+        "title": "Slik har Haaland forvandlet Manchester Citys angrepsspill",
+        "url": "https://www.vg.no/sport/fotball/i/4oX9Xg/slik-har-haaland-forvandlet-manchester-citys-angrepsspill"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQqrKX",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQqrKX",
+        "preamble": "LILLESTRØM (VG) Med to mål og matchvinner-status mot Lillestrøm falt det også noen kilo av skuldrene til Faris Pemi (22). Samtidig kommer toppscorer Amahl Pellegrino (32) med et stikk til pressen.",
+        "published": {
+            "date": "mandag 8. mai",
+            "datetime": "2023-05-08 14:19:09",
+            "niceformat": "08.05.2023, 14:19",
+            "timestamp": "2023-05-08T12:19:09.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a6c199f7-bacc-46c6-b228-bc945844c8ec?fit=crop&format=auto&h=267&w=400&s=b26ad1cdd6a85587674325c052fca1b422d4874b",
+            "width": 400
+        },
+        "title": "Pemi avslører at han kjente på presset etter «måltørken»: – Du mister selvtillit",
+        "url": "https://www.vg.no/sport/fotball/i/JQqrKX/bodoe-glimt-spissen-faris-pemi-avsloerer-at-han-kjente-paa-presset-amahl-pellegrino-slaar-tilbake-mot-pressen"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "rlbzKK",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/rlbzKK",
+        "preamble": "Rosenborgs kvinnelag i fotball er blitt ilagt et trekk på ett poeng i Toppserien. Den økonomiske situasjonen er årsaken.",
+        "published": {
+            "date": "mandag 8. mai",
+            "datetime": "2023-05-08 13:32:50",
+            "niceformat": "08.05.2023, 13:32",
+            "timestamp": "2023-05-08T11:32:50.000Z"
+        },
+        "thumbnail": {
+            "height": 246,
+            "url": "https://akamai.vgc.no/v2/images/cca12f14-49aa-4a47-8305-3df32f70fd00?fit=crop&format=auto&h=246&w=400&s=b2e8d22580bd620175006bfbfa381a2ce8595194",
+            "width": 400
+        },
+        "title": "Poengtrekk for Rosenborg Kvinner",
+        "url": "https://www.vg.no/sport/fotball/i/rlbzKK/poengtrekk-for-rosenborg-kvinner"
+    },
+    {
+        "authors": [
+            {
+                "email": "eivind.haugen@vg.no",
+                "id": "1fb0c054-425a-4339-8b15-ef16b1d45bfd",
+                "name": "Eivind Haugen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69Kol3",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69Kol3",
+        "preamble": "Mandag ble billettene til cupfinalen lagt ut for åpent salg. Interessen var såpass stor at nettsidene til Norges Fotballforbund gikk ned for telling.",
+        "published": {
+            "date": "mandag 8. mai",
+            "datetime": "2023-05-08 12:18:27",
+            "niceformat": "08.05.2023, 12:18",
+            "timestamp": "2023-05-08T10:18:27.000Z"
+        },
+        "thumbnail": {
+            "height": 122,
+            "url": "https://akamai.vgc.no/v2/images/d1456923-be65-491f-809b-09c0a52aac22?fit=crop&format=auto&h=122&w=400&s=9b4ea831a5ebe6b4af6330c26c998c6d7457014a",
+            "width": 400
+        },
+        "title": "Billettkaos før cupfinalen - utsetter salget",
+        "url": "https://www.vg.no/sport/fotball/i/69Kol3/nffs-nettsider-krasjet-da-cupfinalebilletter-ble-lagt-ut-for-salg"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3bK5e",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3bK5e",
+        "preamble": "Fredrikstad-folk drømmer om fotball på øverste nivå - men nå har aristokratene spilt 0–0 i tre kamper på rad. Det liker ikke supporterne.",
+        "published": {
+            "date": "mandag 8. mai",
+            "datetime": "2023-05-08 10:30:09",
+            "niceformat": "08.05.2023, 10:30",
+            "timestamp": "2023-05-08T08:30:09.000Z"
+        },
+        "thumbnail": {
+            "height": 252,
+            "url": "https://akamai.vgc.no/v2/images/20eaba14-93ce-4dac-b6b5-ff00b8b30495?fit=crop&format=auto&h=252&w=400&s=988d2abfac72532a754714e021a759ea1b4a8f5d",
+            "width": 400
+        },
+        "title": "Tre ganger 0–0 for FFK: – Det må skje noe",
+        "url": "https://www.vg.no/sport/fotball/i/l3bK5e/tre-ganger-00-for-ffk-det-maa-skje-noe"
+    },
+    {
+        "authors": [
+            {
+                "email": "vegard.aulstad@vg.no",
+                "id": "32320ac9-8b78-4d86-b923-ee64dc408816",
+                "name": "Vegard Aulstad"
+            },
+            {
+                "email": "andreas.hellenes@schibsted.com",
+                "id": "424642b6-03fe-42cd-abe2-5f7517e8a8e1",
+                "name": "Andreas Hellenes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "KneOnE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/KneOnE",
+        "preamble": "MANCHESTER (VG) Hit kommer Erling Braut Haaland (22) for føde én gang i uken. Italieneren Beppe Fransesco Piccoli har fått et sjeldent nært forhold til Manchester Citys storscorer. ",
+        "published": {
+            "date": "mandag 8. mai",
+            "datetime": "2023-05-08 10:27:13",
+            "niceformat": "08.05.2023, 10:27",
+            "timestamp": "2023-05-08T08:27:13.000Z"
+        },
+        "thumbnail": {
+            "height": 225,
+            "url": "https://akamai.vgc.no/v2/images/f60155df-4043-4af5-b5b6-379cab905bd1?fit=crop&format=auto&h=225&w=400&s=c073df9e2e279c28c0e754540106eda99560d30c",
+            "width": 400
+        },
+        "title": "Denne mannen serverer Haaland «hemmelig» pasta: – Han er fantastisk",
+        "url": "https://www.vg.no/sport/fotball/i/KneOnE/denne-mannen-serverer-erling-braut-haaland-hemmelig-pasta-han-er-fantastisk"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5Bw8QE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5Bw8QE",
+        "preamble": "HAMAR (VG) (HamKam-Molde 0–4) Han herjet etter å ha vært ute to kamper med karantene. Magnus Wolff Eikrem (32) kom tilbake og viste høy klasse.",
+        "published": {
+            "date": "mandag 8. mai",
+            "datetime": "2023-05-08 07:11:19",
+            "niceformat": "08.05.2023, 07:11",
+            "timestamp": "2023-05-08T05:11:19.000Z"
+        },
+        "thumbnail": {
+            "height": 259,
+            "url": "https://akamai.vgc.no/v2/images/6c89a770-2ca0-4bd5-97be-3052e119607d?fit=crop&format=auto&h=259&w=400&s=4e1b760776b911d315ba151f9ab4f5bb2beb837b",
+            "width": 400
+        },
+        "title": "Moe om Wolff Eikrem: – Norges smarteste fotballspiller",
+        "url": "https://www.vg.no/sport/fotball/i/5Bw8QE/erling-moe-om-magnus-wolff-eikrem-norges-smarteste-fotballspiller"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "MoqnBo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/MoqnBo",
+        "preamble": "MANCHESTER (VG) Erling Braut Haaland (22) har gått fra å bli byttet ut til å spille nittiminuttere i fleng – kanskje på grunn av hans «magiske brygg»?",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 23:32:33",
+            "niceformat": "07.05.2023, 23:32",
+            "timestamp": "2023-05-07T21:32:33.000Z"
+        },
+        "thumbnail": {
+            "height": 574,
+            "url": "https://akamai.vgc.no/v2/images/03f8161a-d182-4bd2-8cbd-99d47206952b?fit=crop&format=auto&h=574&w=400&s=02d38c1de48da0d7fcf6e361f9a3ea67306d67a4",
+            "width": 400
+        },
+        "title": "Nå spiller Haaland alt – Guardiola spøkte om «magisk brygg»",
+        "url": "https://www.vg.no/sport/fotball/i/MoqnBo/naa-spiller-erling-braut-haaland-alt-av-kamper-pep-guardiola-spoekte-om-magisk-eliksir"
+    },
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "bgo8vB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/bgo8vB",
+        "preamble": "(West Ham – Manchester United 1–0) Manchester United hadde muligheten til å klatre til tredjeplass – men istedenfor står døren nå på gløtt for erkerival Liverpool. ",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 21:57:33",
+            "niceformat": "07.05.2023, 21:57",
+            "timestamp": "2023-05-07T19:57:33.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/Y4SshdeYnoel.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "United og De Gea med gavepakke til Liverpool: – En blaut klut i målet",
+        "url": "https://www.vg.no/sport/fotball/i/bgo8vB/united-og-de-gea-med-gavepakke-til-liverpool"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJXGL4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJXGL4",
+        "preamble": "LILLESTRØM (VG) (Lillestrøm – Bodø/Glimt 1–2) Med to scoringer sørget Faris Pemi (22) for smil og glede i Bodø/Glimt-leiren. Men i et par sekunder kokte det over for Glimt-trener Kjetil Knutsen (54).",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 21:12:54",
+            "niceformat": "07.05.2023, 21:12",
+            "timestamp": "2023-05-07T19:12:54.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/48c41289-b344-45b0-810f-bd9be4726c7c?fit=crop&format=auto&h=267&w=400&s=2987bb813ef857ef25bfaf14408f128e336541dc",
+            "width": 400
+        },
+        "title": "Knutsen raste etter baklengsmålet – Glimt fikk revansje mot LSK",
+        "url": "https://www.vg.no/sport/fotball/i/eJXGL4/bodoe-glimt-fikk-revansje-etter-cupsmellen-slo-lillestroem-21-paa-aaraasen"
+    }
+]

@@ -1,0 +1,374 @@
+[
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WR2aLK",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WR2aLK",
+        "preamble": "Molde møter HJK Helsinki i andre runde av Champions League-kvalifiseringen etter at finnene slo ut nordirske Larne 3–2 sammenlagt onsdag kveld.",
+        "published": {
+            "date": "onsdag 19. juli",
+            "datetime": "2023-07-19 23:09:54",
+            "niceformat": "19.07.2023, 23:09",
+            "timestamp": "2023-07-19T21:09:54.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/90aac363-98fb-41c8-8e88-cef5be8046e0?fit=crop&format=auto&h=267&w=400&s=6e949b13f26f59f47e5ffd0861fdc08b7b5da8df",
+            "width": 400
+        },
+        "title": "Molde får finsk motstand i Champions League-kvalifisering",
+        "url": "https://www.vg.no/sport/fotball/i/WR2aLK/molde-faar-finsk-motstand-i-champions-league-kvalifisering"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            },
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q7296W",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q7296W",
+        "preamble": "AUCKLAND (VG) Den internasjonale pressen stusser over at stjernegalleriet Norge ikke har prestert siden EM i 2013. Nå svarer Graham Hansen på forvirringen. ",
+        "published": {
+            "date": "onsdag 19. juli",
+            "datetime": "2023-07-19 20:54:39",
+            "niceformat": "19.07.2023, 20:54",
+            "timestamp": "2023-07-19T18:54:39.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/12c0e502-bf65-4fd6-89df-c75340a2209a?fit=crop&format=auto&h=267&w=400&s=0218e1541000e3b2ac7cb1795b0b2d5edea7ebc5",
+            "width": 400
+        },
+        "title": "Graham Hansen om stjernegalleriet: – Synd vi ikke har fått mer ut av det ",
+        "url": "https://www.vg.no/sport/fotball/i/Q7296W/caroline-graham-hansen-om-norges-lag-i-vm"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "15zrAq",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/15zrAq",
+        "preamble": "(Karlsruher – Liverpool 2–4) Diogo Jota scoret to mål på overtid da Liverpools stjernegalleri slo tyske Karlsruher i sin første treningskamp denne sommeren.",
+        "published": {
+            "date": "onsdag 19. juli",
+            "datetime": "2023-07-19 20:34:46",
+            "niceformat": "19.07.2023, 20:34",
+            "timestamp": "2023-07-19T18:34:46.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/fcYm_72PrUaJ.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Jota-dobbel på overtid fikset Liverpool-seier",
+        "url": "https://www.vg.no/sport/fotball/i/15zrAq/jota-dobbel-paa-overtid-fikset-liverpool-seier"
+    },
+    {
+        "authors": [
+            {
+                "email": "kristine.bechmann.holter@schibsted.no",
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJwk0M",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJwk0M",
+        "preamble": "(Ferencvarosi TC – KÍ Klaksvík 0–3, 0–3 sammenlagt) Magne Hoseths Klasvik tok seg videre til andre runde av Champions League-kvaliken etter å ha knust det ungarske storlaget Ferencvaros.",
+        "published": {
+            "date": "onsdag 19. juli",
+            "datetime": "2023-07-19 19:59:23",
+            "niceformat": "19.07.2023, 19:59",
+            "timestamp": "2023-07-19T17:59:23.000Z"
+        },
+        "thumbnail": {
+            "height": 425,
+            "url": "https://akamai.vgc.no/v2/images/2763d05a-bef9-4e68-bcbb-7265dcee74ef?fit=crop&format=auto&h=425&w=400&s=1c1021bfda26f28bf8208ded0a8d1e249c34555a",
+            "width": 400
+        },
+        "title": "«Norske» Klaksvík videre i CL-kvaliken etter kjempeprestasjon",
+        "url": "https://www.vg.no/sport/fotball/i/eJwk0M/norske-klaksvik-videre-i-cl-kvaliken-etter-kjempeprestasjon"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAp90d",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAp90d",
+        "preamble": "LILLESTRØM (VG) (Lillestrøm-Aalesund 5–1) Aalesund scoret først, men et rødt kort etter et «karatespark» ble starten på en målfest av de sjeldne på Åråsen. ",
+        "published": {
+            "date": "onsdag 19. juli",
+            "datetime": "2023-07-19 19:53:37",
+            "niceformat": "19.07.2023, 19:53",
+            "timestamp": "2023-07-19T17:53:37.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/63262423-7302-4c46-ab74-920e82c361fe?fit=crop&format=auto&h=267&w=400&s=52f3b6e14d3ab049d2abc2632ef64f4a62d0bce9",
+            "width": 400
+        },
+        "title": "Akor Adams befestet sin posisjon som toppscorer: – Det finnes ingen grense",
+        "url": "https://www.vg.no/sport/fotball/i/wAp90d/lillestroem-scoret-fem-da-aalesund-ble-knust-paa-aaraasen"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Xb2zLr",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Xb2zLr",
+        "preamble": "Keeperkjempen André Hansen (33) gir seg i Rosenborg etter sesongen. Det bekrefter keeperen selv til Adresseavisen.",
+        "published": {
+            "date": "onsdag 19. juli",
+            "datetime": "2023-07-19 19:43:53",
+            "niceformat": "19.07.2023, 19:43",
+            "timestamp": "2023-07-19T17:43:53.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/4f9af7ee-31ae-40e4-a6d8-ed1b49a6bdaf?fit=crop&format=auto&h=267&w=400&s=a2bda8b4264b8f93c1adba52f02c973421a90653",
+            "width": 400
+        },
+        "title": "Adressa: Gir seg i RBK etter sesongen",
+        "url": "https://www.vg.no/sport/fotball/i/Xb2zLr/adressa-gir-seg-i-rbk-etter-sesongen"
+    },
+    {
+        "authors": [
+            {
+                "email": "kristine.bechmann.holter@schibsted.no",
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAp95o",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAp95o",
+        "preamble": "Flere medier skriver onsdag at Liverpool og Al Ettifaq er enig om en overgangssum for Jordan Henderson. Der gjenforenes han med sin tidligere kaptein Steven Gerrard.",
+        "published": {
+            "date": "onsdag 19. juli",
+            "datetime": "2023-07-19 19:16:01",
+            "niceformat": "19.07.2023, 19:16",
+            "timestamp": "2023-07-19T17:16:01.000Z"
+        },
+        "thumbnail": {
+            "height": 285,
+            "url": "https://akamai.vgc.no/v2/images/47903b32-8e9e-4ba8-a2a8-80cd8d632a90?fit=crop&format=auto&h=285&w=400&s=9c45e2885777818862fda1f3d5c0b3dc50febe01",
+            "width": 400
+        },
+        "title": "Medier: Liverpool enig med saudiarabisk klubb om Jordan Henderson",
+        "url": "https://www.vg.no/sport/fotball/i/wAp95o/medier-liverpool-er-enig-med-den-saudiarabisk-klubben-al-ettifaq-om-overgangssummen-for-jordan-henderson"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q728EP",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q728EP",
+        "preamble": "Ifølge det anerkjente nettstedet er Manchester City og saudiarabiske Al Ahli enige om overgangssum for Riyad Mahrez.",
+        "published": {
+            "date": "onsdag 19. juli",
+            "datetime": "2023-07-19 18:27:26",
+            "niceformat": "19.07.2023, 18:27",
+            "timestamp": "2023-07-19T16:27:26.000Z"
+        },
+        "thumbnail": {
+            "height": 285,
+            "url": "https://akamai.vgc.no/v2/images/eb86e4a6-814d-4d18-becd-07222e18e0a2?fit=crop&format=auto&h=285&w=400&s=67bd9fc89d829c2388f3f70c3c6c9e648b37a56f",
+            "width": 400
+        },
+        "title": "The Athletic: Mahrez nærmer seg Saudi-Arabia",
+        "url": "https://www.vg.no/sport/fotball/i/Q728EP/the-athletic-riyad-mahrez-naermer-seg-saudi-arabia"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "AP9xXn",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/AP9xXn",
+        "preamble": "Emil Frederiksen hentes fra SønderjyskE, samtidig som Kristall Mani Ingason forlater Rosenborg og går motsatt vei.",
+        "published": {
+            "date": "onsdag 19. juli",
+            "datetime": "2023-07-19 18:08:40",
+            "niceformat": "19.07.2023, 18:08",
+            "timestamp": "2023-07-19T16:08:40.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/5ba71211-0796-4e57-ac08-e9d4d3f6d345?fit=crop&format=auto&h=267&w=400&s=3d5938961245a13bbb4f663869593241ce3870eb",
+            "width": 400
+        },
+        "title": "Rosenborg bekrefter signering – Ingason sendes motsatt vei",
+        "url": "https://www.vg.no/sport/fotball/i/AP9xXn/rosenborg-bekrefter-signering"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQ27PP",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQ27PP",
+        "preamble": "Smerten av å tape serietittelen sitter fortsatt i for Arsenal-kaptein Martin Ødegaard (24). Nordmannen tror imidlertid skuffelsen kommer til å gjøre London-klubben sterkere.",
+        "published": {
+            "date": "onsdag 19. juli",
+            "datetime": "2023-07-19 16:12:14",
+            "niceformat": "19.07.2023, 16:12",
+            "timestamp": "2023-07-19T14:12:14.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/1a5e6757-c7a5-4eac-8c7a-441f5829cad7?fit=crop&format=auto&h=267&w=400&s=5022dc343be2b13579dbd261d3c425bc4b6a30b8",
+            "width": 400
+        },
+        "title": "Ødegaard tar lærdom av skuffelsen: – Det gjør fortsatt vondt",
+        "url": "https://www.vg.no/sport/fotball/i/JQ27PP/oedegaard-tar-laerdom-av-skuffelsen-det-gjoer-fortsatt-vondt"
+    }
+]

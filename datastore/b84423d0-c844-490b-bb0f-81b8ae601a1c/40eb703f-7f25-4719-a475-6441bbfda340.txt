@@ -1,0 +1,402 @@
+[
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            },
+            {
+                "email": "andreas.hellenes@schibsted.com",
+                "id": "424642b6-03fe-42cd-abe2-5f7517e8a8e1",
+                "name": "Andreas Hellenes"
+            },
+            {
+                "email": "kristine.bechmann.holter@schibsted.no",
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O81wrV",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O81wrV",
+        "preamble": "Geir Bakkes (53) overgang fra Lillestrøm til Vålerenga tok «alle» på sengen. Lillestrøms trenerlegende Ivar Hoff (75) sier han er lamslått.",
+        "published": {
+            "date": "onsdag 12. juli",
+            "datetime": "2023-07-12 10:08:01",
+            "niceformat": "12.07.2023, 10:08",
+            "timestamp": "2023-07-12T08:08:01.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/3a1ca401-ded2-45e1-b98b-5a4e6b35c95e?fit=crop&format=auto&h=267&w=400&s=37ad0ed32deb047f2484d6bc2ec4a571077615a6",
+            "width": 400
+        },
+        "title": "Slik reagerer Fotball-Norge på sjokkovergangen til Geir Bakke: – Man blir lamslått",
+        "url": "https://www.vg.no/sport/fotball/i/O81wrV/eliteserien-slik-reagerer-fotball-norge-paa-sjokkovergangen-til-geir-bakke"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            },
+            {
+                "email": "kristine.bechmann.holter@schibsted.no",
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            },
+            {
+                "email": "oyvind.herrebroden@vg.no",
+                "id": "7b5d0009-0f34-41e3-b5af-dcf22addbd42",
+                "name": "Øyvind Herrebrøden"
+            },
+            {
+                "email": "mattis.holt@vg.no",
+                "id": "783ec02a-650f-49b8-8655-cd3e1ad5f4fa",
+                "name": "Mattis Holt"
+            },
+            {
+                "email": "andreas.hellenes@schibsted.com",
+                "id": "424642b6-03fe-42cd-abe2-5f7517e8a8e1",
+                "name": "Andreas Hellenes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69MLx8",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69MLx8",
+        "preamble": "Vålerenga har funnet sin nye trener i erkerival Lillestrøms Geir Bakke (53) – og betaler flere millioner for å løse ut LSK-treneren. Styreleder Morten Kokkim uttaler at de er skuffet.",
+        "published": {
+            "date": "onsdag 12. juli",
+            "datetime": "2023-07-12 08:50:45",
+            "niceformat": "12.07.2023, 08:50",
+            "timestamp": "2023-07-12T06:50:45.000Z"
+        },
+        "thumbnail": {
+            "height": 297,
+            "url": "https://akamai.vgc.no/v2/images/23ad900b-e341-43b0-b763-507709575676?fit=crop&format=auto&h=297&w=400&s=d9f551582cb0232b339f46da02b88e15f33fa184",
+            "width": 400
+        },
+        "title": "Geir Bakke ferdig i Lillestrøm – klar for Vålerenga",
+        "url": "https://www.vg.no/sport/fotball/i/69MLx8/geir-bakke-ferdig-i-lillestroem-klar-for-vaalerenga"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB-Ritzau"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Qz51A",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Qz51A",
+        "preamble": "Lionel Messi (36) har ankommet USA for å fullføre overgangen til MLS-klubben Inter Miami. Han er ventet å gjøre unna debuten 21. juli.",
+        "published": {
+            "date": "onsdag 12. juli",
+            "datetime": "2023-07-12 08:17:35",
+            "niceformat": "12.07.2023, 08:17",
+            "timestamp": "2023-07-12T06:17:35.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/b643a293-27ee-4823-a302-14d83e70049d?fit=crop&format=auto&h=267&w=400&s=d1ca0aece7e83d1223da7c31f0b1a719a242f4a0",
+            "width": 400
+        },
+        "title": "Messi på plass i Florida: – Vil levere på øverste hylle",
+        "url": "https://www.vg.no/sport/fotball/i/0Qz51A/messi-paa-plass-i-florida-vil-levere-paa-oeverste-hylle"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgzL0R",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgzL0R",
+        "preamble": "Rune Jarstein er ferdig i Hertha Berlin, men striden fortsetter likevel. I august møtes partene i retten.",
+        "published": {
+            "date": "tirsdag 11. juli",
+            "datetime": "2023-07-11 20:20:55",
+            "niceformat": "11.07.2023, 20:20",
+            "timestamp": "2023-07-11T18:20:55.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/caf22733-07c3-4529-9b8b-348bef11dde7?fit=crop&format=auto&h=267&w=400&s=da929c80cad3438c777d3f087ad81fc06c05ac30",
+            "width": 400
+        },
+        "title": "Rettsmøtet mellom Rune Jarstein og Hertha Berlin utsettes til august",
+        "url": "https://www.vg.no/sport/fotball/i/xgzL0R/rettsmoetet-mellom-rune-jarstein-og-hertha-berlin-utsettes-til-august"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JLgqd",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JLgqd",
+        "preamble": "Det svenske fotballandslaget fikk en turbulent reise til New Zealand. Savnede bagasjer, tollavgifter og mistet fly sto på tapetet. ",
+        "published": {
+            "date": "tirsdag 11. juli",
+            "datetime": "2023-07-11 19:11:26",
+            "niceformat": "11.07.2023, 19:11",
+            "timestamp": "2023-07-11T17:11:26.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/5035e5de-15ac-4305-b681-110ea4329fdb?fit=crop&format=auto&h=267&w=400&s=311611cc6688e43ebf0eafd94267c396c545744e",
+            "width": 400
+        },
+        "title": "Snuskaos for svenskene – måtte betale 4000 kroner ",
+        "url": "https://www.vg.no/sport/fotball/i/8JLgqd/svenske-fotballandslaget-i-new-zealand-snus-og-mistet-bagasje"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            },
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "y60WXa",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/y60WXa",
+        "preamble": "Eirik Horneland bekrefter at Sivert Heltne Nilsen (31) blir med videre i Brann. Brann-spilleren fortsetter med den avtalen han har. ",
+        "published": {
+            "date": "tirsdag 11. juli",
+            "datetime": "2023-07-11 18:13:32",
+            "niceformat": "11.07.2023, 18:13",
+            "timestamp": "2023-07-11T16:13:32.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/bce3bc5a-c398-481c-bdfd-71078f9974ee?fit=crop&format=auto&h=267&w=400&s=fe86f504d5211b3ea70d3dd96d6316a73aab6f82",
+            "width": 400
+        },
+        "title": "Sivert Heltne Nilsen og Brann avslutter konflikten: Spilleren blir i klubben",
+        "url": "https://www.vg.no/sport/fotball/i/y60WXa/bt-sivert-heltne-nilsen-i-moete-med-brann-ledelsen"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "AP5oGz",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/AP5oGz",
+        "preamble": "Kjetil Rekdal (54) ber Rosenborg-supportere slutte å true og trakassere ham. ",
+        "published": {
+            "date": "tirsdag 11. juli",
+            "datetime": "2023-07-11 17:19:20",
+            "niceformat": "11.07.2023, 17:19",
+            "timestamp": "2023-07-11T15:19:20.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/9be567c2-d36d-45f7-ba67-16c9a8104cd9?fit=crop&format=auto&h=267&w=400&s=511813628c336a09570014cddc05a2f5b3534a50",
+            "width": 400
+        },
+        "title": "Rekdal tar oppgjør med hets og trusler: – Jeg håper det tar slutt nå",
+        "url": "https://www.vg.no/sport/fotball/i/AP5oGz/rekdal-ber-om-slutt-paa-trusler-fra-rosenborg-supportere"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "KnKwJ5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/KnKwJ5",
+        "preamble": "Israelske Manor Solomon (23) har skrevet kontrakt med Premier League-klubben Tottenham til 2028.",
+        "published": {
+            "date": "tirsdag 11. juli",
+            "datetime": "2023-07-11 13:53:41",
+            "niceformat": "11.07.2023, 13:53",
+            "timestamp": "2023-07-11T11:53:41.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/006b818e-9e58-4d2d-a0f7-709f2f96d4be?fit=crop&format=auto&h=267&w=400&s=4747d4b2e93707c2f9a75d65f6fb47650407a65c",
+            "width": 400
+        },
+        "title": "Solomon klar for Tottenham",
+        "url": "https://www.vg.no/sport/fotball/i/KnKwJ5/premier-league-manor-solomon-klar-for-tottenham"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Qz20G",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Qz20G",
+        "preamble": "Arne Sandstø forlater posisjonen som hovedtrener i Jerv med umiddelbar virkning. Neste stoppested i karrieren blir danske Midtjylland.",
+        "published": {
+            "date": "tirsdag 11. juli",
+            "datetime": "2023-07-11 12:22:52",
+            "niceformat": "11.07.2023, 12:22",
+            "timestamp": "2023-07-11T10:22:52.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6d7b15c1-a8b0-484e-830c-1b424c3bcd38?fit=crop&format=auto&h=267&w=400&s=68383fc69a6d7f98db338011b5e2bf561dd0051c",
+            "width": 400
+        },
+        "title": "Sandstø er ferdig i Jerv – blir førstelagstrener i Midtjylland",
+        "url": "https://www.vg.no/sport/fotball/i/0Qz20G/sandstoe-er-ferdig-i-jerv-blir-foerstelagstrener-i-midtjylland"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            },
+            {
+                "email": "mattis.holt@vg.no",
+                "id": "783ec02a-650f-49b8-8655-cd3e1ad5f4fa",
+                "name": "Mattis Holt"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "vedLQm",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/vedLQm",
+        "preamble": "Den tidligere Molde-spissen David Datro Fofana (20) skal tilbringe den neste sesongen sammen med Morten Thorsby (27) på lån hos tyske Union Berlin.",
+        "published": {
+            "date": "tirsdag 11. juli",
+            "datetime": "2023-07-11 10:53:45",
+            "niceformat": "11.07.2023, 10:53",
+            "timestamp": "2023-07-11T08:53:45.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/aba9d07e-a6cd-4c49-a61c-e7f011fa95f9?fit=crop&format=auto&h=267&w=400&s=394d8d141a6c95c5729f7a1475c9c1bcb54a81e2",
+            "width": 400
+        },
+        "title": "Bekreftet: Fofana lånes ut til Union Berlin",
+        "url": "https://www.vg.no/sport/fotball/i/vedLQm/bekreftet-fofana-laanes-ut-til-union-berlin"
+    }
+]

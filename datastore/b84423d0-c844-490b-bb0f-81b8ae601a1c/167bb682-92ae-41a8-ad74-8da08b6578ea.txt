@@ -1,0 +1,384 @@
+[
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76L3mW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76L3mW",
+        "preamble": "Lillestrøms Ruben Gabrielsen (31) var i utdrikningslag torsdag. Lørdag spilte han cupfinale mot Brann.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 12:04:42",
+            "niceformat": "22.05.2023, 12:04",
+            "timestamp": "2023-05-22T10:04:42.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/15087407-53ed-4868-b8f0-8f301c26c5ff?fit=crop&format=auto&h=267&w=400&s=59b9c8a1f6fb99f72ae1204a24cd131e93fe52cf",
+            "width": 400
+        },
+        "title": "Ruben Gabrielsen i utdrikningslag to dager før cupfinalen: – Påvirket meg ikke i det hele tatt",
+        "url": "https://www.vg.no/sport/fotball/i/76L3mW/lillestroem-spiller-ruben-gabrielsen-i-utdrikningslag-to-dager-foer-cupfinalen-paavirket-meg-ikke-i-det-hele-tatt"
+    },
+    {
+        "authors": [
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BWd0Pg",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BWd0Pg",
+        "preamble": "Fotballklubben Alta er enig med den tyske Bundesliga-klubben Leipzig om en overgang for Jonathan Vonheim Norbye.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 11:29:43",
+            "niceformat": "22.05.2023, 11:29",
+            "timestamp": "2023-05-22T09:29:43.000Z"
+        },
+        "thumbnail": {
+            "height": 280,
+            "url": "https://akamai.vgc.no/v2/images/bb1adeac-0694-4954-94f7-3db29dea21ac?fit=crop&format=auto&h=280&w=400&s=b67b65a06114ea3926cf270ad3f1413dd36debdf",
+            "width": 400
+        },
+        "title": "Altas supertalent (16) klar for tysk storklubb: Blir lagkamerat med Forsberg",
+        "url": "https://www.vg.no/sport/fotball/i/BWd0Pg/jonathan-vonheim-nordbye-klar-for-tyske-rb-leipzig"
+    },
+    {
+        "authors": [
+            {
+                "email": "leif.welhaven@vg.no",
+                "id": "e46ed1bb-8354-4bd4-97d3-09ac43c5dc8f",
+                "name": "Leif Welhaven"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwPR0q",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwPR0q",
+        "preamble": "Fotballen er historisk vakker. Samtidig er klubben anklaget for mer enn 100 regelbrudd. Det blir stadig vanskeligere å velge hvordan man skal forholde seg til Manchester City.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 11:20:26",
+            "niceformat": "22.05.2023, 11:20",
+            "timestamp": "2023-05-22T09:20:26.000Z"
+        },
+        "thumbnail": {
+            "height": 272,
+            "url": "https://akamai.vgc.no/v2/images/4941bbf9-fac1-46ea-b60a-4df4fa4fda17?fit=crop&format=auto&h=272&w=400&s=c08452db058eb8a0c690ec36573ff56b750946c6",
+            "width": 400
+        },
+        "title": "Alt er ekstremt med denne klubben",
+        "url": "https://www.vg.no/sport/fotball/i/dwPR0q/alt-er-ekstremt-med-denne-klubben"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q7OM04",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q7OM04",
+        "preamble": "Synne Skinnes Hansen (27) gir seg i toppserieklubben Rosenborg når kontrakten hennes utløper til sommeren.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 11:04:18",
+            "niceformat": "22.05.2023, 11:04",
+            "timestamp": "2023-05-22T09:04:18.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/78637f33-7352-4f2c-9d95-8423600fe209?fit=crop&format=auto&h=267&w=400&s=39eeaa310385c21b32fcf741fb2e013ec02382f0",
+            "width": 400
+        },
+        "title": "Forlater Rosenborg: Klar for nye eventyr i utlandet",
+        "url": "https://www.vg.no/sport/fotball/i/Q7OM04/rosenborg-spiller-synne-skinnes-hansen-drar-til-utlandet"
+    },
+    {
+        "authors": [
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            },
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "y6XEzA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/y6XEzA",
+        "preamble": "Erling Braut Haaland (22) ankom Manchester City-stjernenes gullfeiring i pysjamas.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 09:28:06",
+            "niceformat": "22.05.2023, 09:28",
+            "timestamp": "2023-05-22T07:28:06.000Z"
+        },
+        "thumbnail": {
+            "height": 452,
+            "url": "https://akamai.vgc.no/v2/images/19508bba-df5d-4bc5-87a2-4b0e56b94b9a?fit=crop&format=auto&h=452&w=400&s=07f96bdb25ca7b1b9ad0c06dc0a615ca43b0e562",
+            "width": 400
+        },
+        "title": "Haaland feiret ligagullet på utested i pysjamas",
+        "url": "https://www.vg.no/sport/fotball/i/y6XEzA/haaland-feiret-ligagullet-paa-utested-i-pysjamas"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            },
+            {
+                "email": "andreas.hellenes@schibsted.com",
+                "id": "424642b6-03fe-42cd-abe2-5f7517e8a8e1",
+                "name": "Andreas Hellenes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "APqnw3",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/APqnw3",
+        "preamble": "Erling Braut Haalands andel i Manchester Citys tittel i Premier League er gedigen. Alle hans 36 scoringer har ført til poeng – 19 seire og to uavgjorte. Haaland-målene har bidratt til 59 av ligamesterens 88 poeng. Og ennå er det to seriekamper igjen: Brighton (onsdag) og Brentford (søndag). ",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 02:40:48",
+            "niceformat": "22.05.2023, 02:40",
+            "timestamp": "2023-05-22T00:40:48.000Z"
+        },
+        "thumbnail": {
+            "height": 274,
+            "url": "https://akamai.vgc.no/v2/images/838e9e81-4d66-4907-ab45-d0a020c2c362?fit=crop&format=auto&h=274&w=400&s=9bd6d9a1073d86c33be2edaa2b2f549707fdf6f2",
+            "width": 400
+        },
+        "title": "Premier League-eventyret Erling Braut Haaland",
+        "url": "https://www.vg.no/sport/fotball/i/APqnw3/premier-league-eventyret-erling-braut-haaland"
+    },
+    {
+        "authors": [
+            {
+                "email": "leif.welhaven@vg.no",
+                "id": "e46ed1bb-8354-4bd4-97d3-09ac43c5dc8f",
+                "name": "Leif Welhaven"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "veX57V",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/veX57V",
+        "preamble": "Det er langt flere plusser enn minuser for norsk fotball i at bergensere tidvis blir i overkant høye på seg selv.",
+        "published": {
+            "date": "søndag 21. mai",
+            "datetime": "2023-05-21 22:55:01",
+            "niceformat": "21.05.2023, 22:55",
+            "timestamp": "2023-05-21T20:55:01.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/e0801e37-46f9-4da0-b244-bfc1d8b3bca9?fit=crop&format=auto&h=267&w=400&s=bb91b428e98238600ddac5be268b79d982fd6d1a",
+            "width": 400
+        },
+        "title": "Dette får vi tåle!",
+        "url": "https://www.vg.no/sport/fotball/i/veX57V/dette-faar-vi-taale"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q7O7wQ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q7O7wQ",
+        "preamble": "Chelsea var fire minutter unna nok et seriemesterskap, men Manchester United vant 2-1 på overtid mot byrival Manchester City og ga en ny runde med spenning.",
+        "published": {
+            "date": "søndag 21. mai",
+            "datetime": "2023-05-21 21:48:53",
+            "niceformat": "21.05.2023, 21:48",
+            "timestamp": "2023-05-21T19:48:53.000Z"
+        },
+        "thumbnail": {
+            "height": 285,
+            "url": "https://akamai.vgc.no/v2/images/36db42f4-fc07-49e7-9a81-9f257920d8e2?fit=crop&format=auto&h=285&w=400&s=ae33239e5f5b7f1923b3da79ffab91d7456d5440",
+            "width": 400
+        },
+        "title": "Overtidsdrama da Bøe Risas United holdt liv i gulldrømmen",
+        "url": "https://www.vg.no/sport/fotball/i/Q7O7wQ/overtidsdrama-da-boee-risas-united-holdt-liv-i-gulldroemmen"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            },
+            {
+                "email": "magnus.helle@schibsted.com",
+                "id": "465b91ad-0c13-4b04-8be8-4dbb0cc0080a",
+                "name": "Magnus Helle"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Q0QpE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Q0QpE",
+        "preamble": "MANCHESTER (VG) Erling Braut Haaland (22) tok med familien og poserte med Premier League-pokalen etter at Manchester City tok sin tredje strake ligatittel.",
+        "published": {
+            "date": "søndag 21. mai",
+            "datetime": "2023-05-21 20:23:40",
+            "niceformat": "21.05.2023, 20:23",
+            "timestamp": "2023-05-21T18:23:40.000Z"
+        },
+        "thumbnail": {
+            "height": 269,
+            "url": "https://akamai.vgc.no/v2/images/d239a709-8703-436c-be1e-9df8b5d00f2b?fit=crop&format=auto&h=269&w=400&s=0c6c00642bc97a309dca2fb07c85234d55af6398",
+            "width": 400
+        },
+        "title": " ",
+        "url": "https://www.vg.no/sport/fotball/i/0Q0QpE/haaland-feiret-med-og-hyllet-familien-hadde-det-vaert-umulig-aa-prestere-uten"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kEXEWk",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kEXEWk",
+        "preamble": "(Augsburg - Borussia Dortmund 0–3) Erling Braut Haalands erstatter Sébastien Haller (28) sørget for at Julian Ryerson og Dortmund nå har alt i egne hender foran siste serierunde – og kan overta tronen i Bundesliga.",
+        "published": {
+            "date": "søndag 21. mai",
+            "datetime": "2023-05-21 19:25:29",
+            "niceformat": "21.05.2023, 19:25",
+            "timestamp": "2023-05-21T17:25:29.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/1FCDR9f3qTIp.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Dortmund mot tronskifte i Tyskland – kan ta første seriegull på elleve år",
+        "url": "https://www.vg.no/sport/fotball/i/kEXEWk/dortmund-mot-tronskifte-i-tyskland-kan-ta-foerste-seriegull-paa-elleve-aar"
+    }
+]

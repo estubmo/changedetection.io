@@ -1,0 +1,202 @@
+[
+    {
+        "slug": "storseier-for-malvik-hommelvik",
+        "url": "/lokalfotballen/i/xgXEQG/storseier-for-malvik-hommelvik",
+        "title": {
+            "value": "Storseier for Malvik/Hommelvik"
+        },
+        "description": "KIL/Hemne 2 gikk på sitt sjette tap på rad da klubben røk 1-5 for Malvik/Hommelvik",
+        "imageUrl": null,
+        "publishedAt": "2023-05-28T19:13:46Z",
+        "lastModifiedAt": "2023-05-28T19:29:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "reitan-dobbel-sikret-seier",
+        "url": "/lokalfotballen/i/dwP8LJ/reitan-dobbel-sikret-seier",
+        "title": {
+            "value": "Steinkjer knuste Utleira"
+        },
+        "description": "Med dagens 2-8-tap mot Steinkjer gikk Utleira på årets første nederlag Vilde Reitan scoret to av målene.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-28T18:55:29Z",
+        "lastModifiedAt": "2023-05-28T19:29:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "kolvereid-7er-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/nQXKRQ/kolvereid-7er-fortsatte-seiersrekken",
+        "title": {
+            "value": "Kolvereid 7er fortsatte seiersrekken"
+        },
+        "description": "Kolvereid 7er tok sin fjerde seier på rad da Kvam 7er ble slått 5-3 i 7er, Trøndelag - Avdeling 1 i fotball søndag. Amalie Moen scoret tre ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-28T16:30:07Z",
+        "lastModifiedAt": "2023-05-28T16:30:07Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "de-er-uenige-om-det-meste-men-satser-sparepengene-paa-samme-aksje",
+        "url": "/politikk/i/q1bl71/de-er-uenige-om-det-meste-men-satser-sparepengene-paa-samme-aksje",
+        "title": {
+            "value": "Disse trønderske politikerne har satset penger på samme aksje"
+        },
+        "description": "Politikere fra SV på venstresiden til Frp på høyresiden er enige om én ting: Dette selskapet er det verdt å satse egne sparepenger på.",
+        "imageUrl": "3e2df7a7-07ca-47e6-be59-99d022cce71d",
+        "publishedAt": "2023-05-28T15:16:54Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Carl Alfred Dahl"
+        ],
+        "tags": [
+            "sivert-bjoernstad",
+            "ola-borten-moe",
+            "folkefinansiering",
+            "elin-marie-andreassen",
+            "ottar-michelsen",
+            "emil-raaen",
+            "erik-haugane",
+            "rune-olsoe",
+            "eli-arnstad",
+            "per-olav-skurdal-hopsoe"
+        ]
+    },
+    {
+        "slug": "borteseier-for-ranheim-3-over-kvik-2",
+        "url": "/lokalfotballen/i/wAXLq1/borteseier-for-ranheim-3-over-kvik-2",
+        "title": {
+            "value": "Borteseier for Ranheim 3 over Kvik 2"
+        },
+        "description": "Ranheim 3 fikk med seg alle poengene da Kvik 2 ble slått 2-1 i 5. divisjon, Trøndelag - Avdeling 3 i fotball for menn søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-28T14:59:58Z",
+        "lastModifiedAt": "2023-05-28T18:30:11Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "derfor-stengte-rbk-treningene-foer-brann-mener-vi-gjoer-det-for-sjelden",
+        "url": "/sport/fotball/i/wAXLjP/derfor-stengte-rbk-treningene-foer-brann-mener-vi-gjoer-det-for-sjelden",
+        "title": {
+            "value": "Rekdal vil holde på hemmelighetene før Brann-kampen"
+        },
+        "description": "Kjetil Rekdal ønsker å dra til Bergen med noen hemmeligheter i bagasjen. Klubbens keeper-veteran hyller avgjørelsen.",
+        "imageUrl": "68d3401e-2532-4489-9f8f-173a4a6ba883",
+        "publishedAt": "2023-05-28T14:53:27Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "andre-hansen",
+            "markus-henriksen",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "pedersen-dobbel-for-haugesund",
+        "url": "/lokalfotballen/i/jlX7nz/pedersen-dobbel-for-haugesund",
+        "title": {
+            "value": "Nettsus for Pedersen"
+        },
+        "description": "Simone Pedersen scoret to av målene da Haugesund vant 3-2 over Rosenborg 2 i 2. divisjon, Avdeling 1 søndag. Rosenborg 2 har ikke tatt poeng på de siste to kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-28T12:05:32Z",
+        "lastModifiedAt": "2023-05-28T17:00:25Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ranheim-2-seiret-hjemme-mot-strindheim-4",
+        "url": "/lokalfotballen/i/JQMgXb/ranheim-2-seiret-hjemme-mot-strindheim-4",
+        "title": {
+            "value": "Ranheim 2 seiret hjemme mot Strindheim 4"
+        },
+        "description": "Ranheim 2 slo Strindheim 4 3-1 på Ranheim Arena 2 i G14 2. divisjon, Avdeling 3 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-28T11:59:30Z",
+        "lastModifiedAt": "2023-05-28T12:00:31Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "loeftet-hele-rbk-laget-da-hun-kom-inn",
+        "url": "/sport/fotball/i/nQXr7J/loeftet-hele-rbk-laget-da-hun-kom-inn",
+        "title": {
+            "value": "Børsen: Løftet hele RBK-laget da hun kom inn"
+        },
+        "description": "Rosenborg leverte en svak første time mot Vålerenga. Da Mathilde Rogde kom inn, bidro hun til å endre kampbildet.",
+        "imageUrl": "3807dd70-af66-4a4d-8899-ebeb496fe244",
+        "publishedAt": "2023-05-27T17:38:15Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "matilde-rogde",
+            "toppserien",
+            "emilie-nautnes"
+        ]
+    },
+    {
+        "slug": "seriegullet-glapp-ut-av-rbks-egne-hender",
+        "url": "/sport/fotball/i/MoW2gr/seriegullet-glapp-ut-av-rbks-egne-hender",
+        "title": {
+            "value": "Seriegullet glapp ut av RBKs hender"
+        },
+        "description": "RBKs tap for Enga sender hovedstadslaget ni poeng foran Rosenborg i kampen om seriemesterskapet.",
+        "imageUrl": "280689e9-c550-490f-8644-66011a53604b",
+        "publishedAt": "2023-05-27T16:44:56Z",
+        "lastModifiedAt": "2023-05-27T19:42:03Z",
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "toppserien"
+        ]
+    }
+]

@@ -1,0 +1,378 @@
+[
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "onBgpB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/onBgpB",
+        "preamble": "Fredrik Midtsjø og Galatasaray kunne tirsdag juble for ligatittelen i tyrkisk fotball etter 4-1 over Ankaragücü.",
+        "published": {
+            "date": "tirsdag 30. mai",
+            "datetime": "2023-05-30 21:08:02",
+            "niceformat": "30.05.2023, 21:08",
+            "timestamp": "2023-05-30T19:08:02.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/308b1e52-ea16-4e3c-8f0a-9e2ffac9508e?fit=crop&format=auto&h=267&w=400&s=592728540bdf98916ba50d921977b2042251c1a5",
+            "width": 400
+        },
+        "title": "Midtsjø ble seriemester med Galatasaray",
+        "url": "https://www.vg.no/sport/fotball/i/onBgpB/fredrik-midtsjoe-ble-seriemester-med-galatasaray-i-tyrkiske-super-lig"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "mattis.sandblad@vg.no",
+                "id": "79683f94-a05d-4191-9208-ec33ca98d72a",
+                "name": "Mattis Sandblad (foto)"
+            },
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "veXJGl",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/veXJGl",
+        "preamble": "ULLEVAAL STADION (VG) Lise Klaveness er tydelig på hva hun synes om volden mot dommer Rohit Saggi, og slår samtidig alarm om en økende tendens i fotballen. ",
+        "published": {
+            "date": "tirsdag 30. mai",
+            "datetime": "2023-05-30 18:12:40",
+            "niceformat": "30.05.2023, 18:12",
+            "timestamp": "2023-05-30T16:12:40.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/af765bfe-7051-4d09-9433-8e3e4c532704?fit=crop&format=auto&h=267&w=400&s=129900229a2f2aff82caaafaf0f6977fe56f9202",
+            "width": 400
+        },
+        "title": "Klaveness frykter mer hets: – Man må være bevisst",
+        "url": "https://www.vg.no/sport/fotball/i/veXJGl/klaveness-om-flaskekastingen-oedelegger-fotballen"
+    },
+    {
+        "authors": [
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAXzVn",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAXzVn",
+        "preamble": "Kjetil Rekdal vil ikke justere klubbens ambisjon om å bli nummer to i årets serie. RBK-styreleder Cecilie Gotaas Johnsen erkjenner at det går an å stille spørsmål ved klubbens mål om plassering.",
+        "published": {
+            "date": "tirsdag 30. mai",
+            "datetime": "2023-05-30 17:24:37",
+            "niceformat": "30.05.2023, 17:24",
+            "timestamp": "2023-05-30T15:24:37.000Z"
+        },
+        "thumbnail": {
+            "height": 225,
+            "url": "https://akamai.vgc.no/v2/images/a2641daf-ea4d-4148-81e8-f45457937563?fit=crop&format=auto&h=225&w=400&s=0a34dbdcd9c1cc1f0683225e1ff39cb9286d8b06",
+            "width": 400
+        },
+        "title": "Rosenborgs styreleder: – På et tidspunkt må vi se hvor vi står",
+        "url": "https://www.vg.no/sport/fotball/i/wAXzVn/rosenborgs-styreleder-cecilie-gotaas-johnsen-erkjenner-at-det-gaar-an-aa-stille-spoersmaal-ved-klubbens-maalsetting"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB-Ritzau"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "RG87xW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/RG87xW",
+        "preamble": "Juventus har blitt enig med det italienske fotballforbundet å betale en bot på 8,5 millioner kroner i en sak om tvilsom regnskapsføring og spillerlønninger.",
+        "published": {
+            "date": "tirsdag 30. mai",
+            "datetime": "2023-05-30 14:56:21",
+            "niceformat": "30.05.2023, 14:56",
+            "timestamp": "2023-05-30T12:56:21.000Z"
+        },
+        "thumbnail": {
+            "height": 311,
+            "url": "https://akamai.vgc.no/v2/images/e18a6a6b-eb05-4f7c-85fe-710ce40fc3ac?fit=crop&format=auto&h=311&w=400&s=1fc7cc19706156676f220213e32fa1128748ccaf",
+            "width": 400
+        },
+        "title": "Juventus inngikk forlik – må betale millionbot",
+        "url": "https://www.vg.no/sport/fotball/i/RG87xW/serie-a-juventus-inngikk-forlik-maa-betale-millionbot"
+    },
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEjlba",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEjlba",
+        "preamble": "Molde ble klaget inn til Idrettens voldgiftsrett (CAS) for måten de hentet David Datro Fofana på. Høringen blir 15. juni. ",
+        "published": {
+            "date": "tirsdag 30. mai",
+            "datetime": "2023-05-30 13:54:24",
+            "niceformat": "30.05.2023, 13:54",
+            "timestamp": "2023-05-30T11:54:24.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/45fc4ee7-d76b-48a9-bffc-eec13acdef40?fit=crop&format=auto&h=267&w=400&s=85fdd5254c7dc8fd85f4891b4e4ee72cfcad5805",
+            "width": 400
+        },
+        "title": "Moldes CAS-høring har fått dato",
+        "url": "https://www.vg.no/sport/fotball/i/gEjlba/moldes-cas-hoering-har-faatt-dato"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJmBdR",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJmBdR",
+        "preamble": "Det var Erling Braut Haaland (22) som til slutt klarte å ta rekorden til Andy Cole (51). Det bryr Manchester United-helten seg fint lite om, hevder han selv.",
+        "published": {
+            "date": "tirsdag 30. mai",
+            "datetime": "2023-05-30 13:45:02",
+            "niceformat": "30.05.2023, 13:45",
+            "timestamp": "2023-05-30T11:45:02.000Z"
+        },
+        "thumbnail": {
+            "height": 240,
+            "url": "https://akamai.vgc.no/v2/images/d395ebc4-818e-4e64-82ec-58fcf44e1ae1?fit=crop&format=auto&h=240&w=400&s=03172649608ff28967bffa15938fb0ce86bd7d2c",
+            "width": 400
+        },
+        "title": "Legendens Haaland-beskjed: – Jeg bryr meg ikke",
+        "url": "https://www.vg.no/sport/fotball/i/eJmBdR/premier-league-andy-cole-om-erling-braut-haaland-rekordjag-jeg-gir-faen"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Q0dOA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Q0dOA",
+        "preamble": "Roma-angriper Paulo Dybala roser trener José Mourinho foran Europa League-finalen mot Sevilla på onsdag.",
+        "published": {
+            "date": "tirsdag 30. mai",
+            "datetime": "2023-05-30 12:27:25",
+            "niceformat": "30.05.2023, 12:27",
+            "timestamp": "2023-05-30T10:27:25.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/437034eb-7fd9-49ed-b6e2-9c320396f51f?fit=crop&format=auto&h=267&w=400&s=ec9d189e4ef73005710b63c73312ba4c00d021d6",
+            "width": 400
+        },
+        "title": "Dybala hyller Mourinho før Europa League-finalen: – Nok å se på suksessen hans",
+        "url": "https://www.vg.no/sport/fotball/i/0Q0dOA/dybala-hyller-mourinho-foer-europa-league-finalen-nok-aa-se-paa-suksessen-hans"
+    },
+    {
+        "authors": [
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jlXEGe",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jlXEGe",
+        "preamble": "BERGEN (VG) Eirik Horneland (48) kan glise etter at Brann har rullet over Rosenborg for andre gang denne sesongen. Men han føler med Kjetil Rekdal og den stormen kollegaen står i.",
+        "published": {
+            "date": "tirsdag 30. mai",
+            "datetime": "2023-05-30 11:55:12",
+            "niceformat": "30.05.2023, 11:55",
+            "timestamp": "2023-05-30T09:55:12.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/590a0afe-d2ee-4ba9-904b-ffa707d7f9ac?fit=crop&format=auto&h=267&w=400&s=5c4dca4db6a1a9da31b97d65097e398a1adf2ae5",
+            "width": 400
+        },
+        "title": "Horneland ber Rosenborg ha is i magen: – Det er drit hele veien",
+        "url": "https://www.vg.no/sport/fotball/i/jlXEGe/eliteserien-2023-horneland-ber-rosenborg-ha-is-i-magen-med-rekdal-det-er-drit-hele-veien"
+    },
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "MoWG7o",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/MoWG7o",
+        "preamble": "Tyskeren Jörg Schmadtke er Liverpools nye sportsdirektør.",
+        "published": {
+            "date": "tirsdag 30. mai",
+            "datetime": "2023-05-30 11:09:55",
+            "niceformat": "30.05.2023, 11:09",
+            "timestamp": "2023-05-30T09:09:55.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/8fb5564a-d915-4cea-8dad-d0416c2aa8ef?fit=crop&format=auto&h=266&w=400&s=fb14539aa563dd34716d1743d89b3835f27d2951",
+            "width": 400
+        },
+        "title": "Ny sportsdirektør klar for Liverpool",
+        "url": "https://www.vg.no/sport/fotball/i/MoWG7o/ny-sportsdirektoer-klar-for-liverpool"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "RG80yJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/RG80yJ",
+        "preamble": "Rohit Saggi (31) ble truffet av en flaske i tinningen etter kampen mellom Stabæk og Vålerenga. Tirsdag var dommeren hos legen i Oslo.",
+        "published": {
+            "date": "tirsdag 30. mai",
+            "datetime": "2023-05-30 10:51:24",
+            "niceformat": "30.05.2023, 10:51",
+            "timestamp": "2023-05-30T08:51:24.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/0dd3bdb0-6a9d-49bf-af66-b5beba4cb473?fit=crop&format=auto&h=300&w=400&s=4b2159f5bf9aa2d7e94007068097db4495969c1a",
+            "width": 400
+        },
+        "title": "Saggi fikk hjernerystelse etter supporterskandale",
+        "url": "https://www.vg.no/sport/fotball/i/RG80yJ/saggi-fikk-hjernerystelse-etter-supporterskandale"
+    }
+]

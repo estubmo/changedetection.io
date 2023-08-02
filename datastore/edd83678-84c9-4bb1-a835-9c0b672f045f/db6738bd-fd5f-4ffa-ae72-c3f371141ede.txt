@@ -1,0 +1,204 @@
+[
+    {
+        "slug": "amazon-grimstad-knuste-rosenborg-2",
+        "url": "/lokalfotballen/i/mQWBq1/amazon-grimstad-knuste-rosenborg-2",
+        "title": {
+            "value": "Storseier for Amazon Grimstad"
+        },
+        "description": "Rosenborg 2 gikk på sitt tredje strake tap da klubben røk 0-4 for Amazon Grimstad i 2. divisjon, Avdeling 1 søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T14:22:57Z",
+        "lastModifiedAt": "2023-06-04T14:25:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-fvn",
+            "lokalfotballen-gat",
+            "lokalfotballen-agderposten",
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "knusende-seier-for-melhus",
+        "url": "/lokalfotballen/i/Q7KmvA/knusende-seier-for-melhus",
+        "title": {
+            "value": "Melhus slo Tynset i målfest"
+        },
+        "description": "Melhus banket Tynset 6-1 i 4. divisjon, Trøndelag - Avdeling 2 i fotball for menn søndag. Det var Tynsets første tap i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T14:01:36Z",
+        "lastModifiedAt": "2023-06-04T14:24:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "to-fulltreffere-fra-kvakland",
+        "url": "/lokalfotballen/i/8Jz6ax/to-fulltreffere-fra-kvakland",
+        "title": {
+            "value": "Kvakland scoret to for Hitra"
+        },
+        "description": "Sindre Sætherbø Kvakland viste scoringsform da Hitra seiret 4-1 over Nardo 2 i 4. divisjon, Trøndelag - Avdeling 2 i fotball søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T13:58:26Z",
+        "lastModifiedAt": "2023-06-04T14:22:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya"
+        ]
+    },
+    {
+        "slug": "linea-solli-espnes-sikret-tre-poeng-for-froeya-il",
+        "url": "/lokalfotballen/i/eJ0Knl/linea-solli-espnes-sikret-tre-poeng-for-froeya-il",
+        "title": {
+            "value": "Linea Solli Espnes ble helten for Frøya IL"
+        },
+        "description": "Frøya IL snudde 0-1 til 2-1 mot Valsøyfjord/Halsa 9er i J15 2. divisjon, Avdeling 3 - Vår søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T13:54:16Z",
+        "lastModifiedAt": "2023-06-04T13:55:20Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    },
+    {
+        "slug": "se-vaar-ivers-sending-fra-lerkendal-direkte",
+        "url": "/sport/fotball/i/Lldnlq/se-vaar-ivers-sending-fra-lerkendal-direkte",
+        "title": {
+            "value": "Dorsin: - For tidlig å bedømme de nye spillerne"
+        },
+        "description": "RBK-trener Kjetil Rekdal stempler kampen som «ekstremt viktig». Klokka 16.30 starter vår Ivers-sending fra indre bane på Lerkendal.",
+        "imageUrl": "6061616b-3c8e-4939-b848-6aac874038c0",
+        "publishedAt": "2023-06-04T12:54:20Z",
+        "lastModifiedAt": "2023-06-04T12:54:20Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "eliteserien"
+        ]
+    },
+    {
+        "slug": "matilde-bentzen-hammer-med-maalshow",
+        "url": "/lokalfotballen/i/LldnX9/matilde-bentzen-hammer-med-maalshow",
+        "title": {
+            "value": "Matilde Bentzen Hammer scoret hattrick mot Følling / Kvam 9er"
+        },
+        "description": "Ranheim 2 slo Følling/Kvam 9er 6-0 og har dermed tatt poeng i sju strake kamper Matilde Bentzen Hammer slo til med hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T11:47:10Z",
+        "lastModifiedAt": "2023-06-04T11:53:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "dette-er-norges-nye-idrettspresident",
+        "url": "/sport/i/bgdnLk/dette-er-norges-nye-idrettspresident",
+        "title": {
+            "value": "Vant med 138 mot 29 stemmer"
+        },
+        "description": "Zaineb Al-Samarai tar over som norsk idretts øverste sjef. Hun slo suverent sittende president Berit Kjøll i tingvoteringen i Bergen.",
+        "imageUrl": "6d44b2ba-d526-47af-af1e-7540079559f6",
+        "publishedAt": "2023-06-04T09:39:27Z",
+        "lastModifiedAt": "2023-06-04T10:26:27Z",
+        "premium": true,
+        "authors": [
+            "Carl Alfred Dahl",
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "suksessen-gir-laget-ett-problem-er-blitt-enda-vanskeligere",
+        "url": "/sport/langrenn/i/EQ5dW2/suksessen-gir-laget-ett-problem-er-blitt-enda-vanskeligere",
+        "title": {
+            "value": "Suksessen gir laget ett problem: – Er blitt enda vanskeligere"
+        },
+        "description": "Trenerduoen Magnus Stensås og Mats Iversen erkjenner at det har vært flere dilemma og konflikter i årets laguttak.",
+        "imageUrl": "b89bc534-eb42-4993-8333-323c681f1c76",
+        "publishedAt": "2023-06-04T08:24:41Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "team-midt-norge",
+            "magnus-stensaas",
+            "langrenn"
+        ]
+    },
+    {
+        "slug": "sliter-med-nytt-system-fra-kommunen-soeppelet-havner-hos-naboen",
+        "url": "/nyheter/trondheim/i/691EGr/sliter-med-nytt-system-fra-kommunen-soeppelet-havner-hos-naboen",
+        "title": {
+            "value": "– Søppelet havner hos naboen"
+        },
+        "description": "Trondheim Renholdsverk har blitt kontaktet av flere som har trøbbel med det nye søppelsorteringssystemet.",
+        "imageUrl": "7e418ebd-c4ba-46a4-b006-640cf3a5d9ba",
+        "publishedAt": "2023-06-04T06:27:56Z",
+        "lastModifiedAt": "2023-06-04T07:32:02Z",
+        "premium": true,
+        "authors": [
+            "Emelie Kjærnli Kristiansen"
+        ],
+        "tags": [
+            "trondheim",
+            "soeppel",
+            "avfall",
+            "trondheim-renholdsverk",
+            "plastavfall",
+            "matavfall",
+            "kildesortering",
+            "forsoepling"
+        ]
+    },
+    {
+        "slug": "rbk-profilen-maatte-ta-et-vanskelig-valg-naa-eller-aldri",
+        "url": "/sport/fotball/i/kE1aL9/rbk-profilen-maatte-ta-et-vanskelig-valg-naa-eller-aldri",
+        "title": {
+            "value": "RBK-profilen måtte ta et vanskelig valg: – Nå eller aldri"
+        },
+        "description": "Synne Skinnes Hansen stortrives i Trondheim. Om fire uker velger hun likevel å forlate trønderhovedstaden.",
+        "imageUrl": "859f4426-ecd6-427f-a749-5a46368540da",
+        "publishedAt": "2023-06-03T19:36:44Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "synne-skinnes-hansen",
+            "steinar-lein",
+            "emilie-joramo"
+        ]
+    }
+]

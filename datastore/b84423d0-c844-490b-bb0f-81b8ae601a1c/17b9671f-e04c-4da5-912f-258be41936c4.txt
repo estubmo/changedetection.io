@@ -1,0 +1,369 @@
+[
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WRd1ba",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WRd1ba",
+        "preamble": "(Brentford – Manchester City 1–0) Erling Braut Haaland (22) har scoret 36 mål i Premier League denne sesongen. Det resulterte i en gullstøvel etter serieavslutningen.",
+        "published": {
+            "date": "søndag 28. mai",
+            "datetime": "2023-05-28 19:36:47",
+            "niceformat": "28.05.2023, 19:36",
+            "timestamp": "2023-05-28T17:36:47.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/56996437-aa88-4b01-8f3f-ae92c0304d15?fit=crop&format=auto&h=300&w=400&s=5718e5cb997bea6286e21264bbfbddc24a8bc1e1",
+            "width": 400
+        },
+        "title": "Erling Braut Haaland fikk gullstøvelen",
+        "url": "https://www.vg.no/sport/fotball/i/WRd1ba/ellevill-maalfest-mellom-liverpool-og-southampton-brentford-rystet-man-city"
+    },
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jlXJ9n",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jlXJ9n",
+        "preamble": "(Everton – Bournemouth 1–0) Med én omgang igjen av sesongen lå Everton under streken. Da dukket Abdoulaye Doucoure opp, reddet klubben fra katastrofe og sørget for banestorming.",
+        "published": {
+            "date": "søndag 28. mai",
+            "datetime": "2023-05-28 19:31:26",
+            "niceformat": "28.05.2023, 19:31",
+            "timestamp": "2023-05-28T17:31:26.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/E7YpBmapAb2w.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Elleville jubelscener da Everton berget plassen",
+        "url": "https://www.vg.no/sport/fotball/i/jlXJ9n/elleville-jubelscener-da-everton-berget-plassen"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEjO81",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEjO81",
+        "preamble": "(Djurgården - AIK 1–0) Derbyet mellom Djurgården og AIK er stoppet. Bluss ble kastet ut på banen og det oppsto brann på tribunen. Også politiet har stormet banen.",
+        "published": {
+            "date": "søndag 28. mai",
+            "datetime": "2023-05-28 17:08:20",
+            "niceformat": "28.05.2023, 17:08",
+            "timestamp": "2023-05-28T15:08:20.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/54b76475-e7dd-46dc-9caa-ac9be50ccd06?fit=crop&format=auto&h=266&w=400&s=59a7fdd934c43b0eea2c20e8de4601d3a1e937c9",
+            "width": 400
+        },
+        "title": "Fullstendig kaos i svensk derby: – En fullstendig jævla katastrofe",
+        "url": "https://www.vg.no/sport/fotball/i/gEjO81/fullstendig-kaos-og-skandalescener-i-sverige"
+    },
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            },
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BWdB19",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BWdB19",
+        "preamble": "(Leeds – Tottenham 1–4, Leicester – West Ham 2–1) Everton reddet plassen, mens Leeds og Leicester må ta den tunge turen ned i Championship.",
+        "published": {
+            "date": "søndag 28. mai",
+            "datetime": "2023-05-28 16:26:16",
+            "niceformat": "28.05.2023, 16:26",
+            "timestamp": "2023-05-28T14:26:16.000Z"
+        },
+        "thumbnail": {
+            "height": 282,
+            "url": "https://akamai.vgc.no/v2/images/4eb21dc3-289b-4b40-ac90-59bf39f14876?fit=crop&format=auto&h=282&w=400&s=6b7f678ffdd58a2f46da41af4db6db77f19cc775",
+            "width": 400
+        },
+        "title": "Leeds og Leicester rykket ned fra Premier League",
+        "url": "https://www.vg.no/sport/fotball/i/BWdB19/foelg-nedrykksdramaet-i-premier-league"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3EQgbv",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3EQgbv",
+        "preamble": "(Bayern München – Turbine Potsdam 11–1) Bayern München – med den norske trioen Alexander Straus, Tuva Hansen og Emilie Bragstad – sikret seriegullet i kvinnenes Bundesliga.",
+        "published": {
+            "date": "søndag 28. mai",
+            "datetime": "2023-05-28 15:51:06",
+            "niceformat": "28.05.2023, 15:51",
+            "timestamp": "2023-05-28T13:51:06.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/ouwt3k1pysdb.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Alexander Straus tok Bayern München til Bundesliga-tittelen i debutsesongen – vant siste kamp 11–1",
+        "url": "https://www.vg.no/sport/fotball/i/3EQgbv/alexander-straus-tok-bayern-munchen-til-bundesliga-tittelen-i-debutsesongen-vant-siste-kamp-11-1"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "691gK8",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/691gK8",
+        "preamble": "Den spanske målvakten Sergio Rico González (29) er alvorlig skadet etter å ha falt av en hest.",
+        "published": {
+            "date": "søndag 28. mai",
+            "datetime": "2023-05-28 13:18:45",
+            "niceformat": "28.05.2023, 13:18",
+            "timestamp": "2023-05-28T11:18:45.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/d38d8542-97db-452c-b9b5-f33ea8e744b2?fit=crop&format=auto&h=267&w=400&s=fc211dac9628dbe1581d6271c5e1ecb7052377f0",
+            "width": 400
+        },
+        "title": "PSG-keeper Sergio Rico alvorlig skadet i ulykke",
+        "url": "https://www.vg.no/sport/fotball/i/691gK8/medier-psg-keeper-alvorlig-skadd-i-ulykke"
+    },
+    {
+        "authors": [],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5BweQ6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5BweQ6",
+        "preamble": "I Premier League denne sesongen er det blitt delt ut 28 gule kort og syv røde til managere. Det er rekordhøyt, nesten en dobling fra forrige sesong.",
+        "published": {
+            "date": "søndag 28. mai",
+            "datetime": "2023-05-28 12:27:31",
+            "niceformat": "28.05.2023, 12:27",
+            "timestamp": "2023-05-28T10:27:31.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/047b321e-b718-418f-8928-83613b6a5db6?fit=crop&format=auto&h=267&w=400&s=2e7aaa69fdf4ba02b61d319fb4586368301371ee",
+            "width": 400
+        },
+        "title": "Slår alarm om Premier League-managernes oppførsel",
+        "url": "https://www.vg.no/sport/fotball/i/5BweQ6/slaar-alarm-om-premier-league-managernes-oppfoersel"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPkBqJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPkBqJ",
+        "preamble": "Dette er veien inn til Premier Leagues nye klubb. Luton Town ser frem til å ta imot Manchester Citys målkonge.",
+        "published": {
+            "date": "søndag 28. mai",
+            "datetime": "2023-05-28 10:26:45",
+            "niceformat": "28.05.2023, 10:26",
+            "timestamp": "2023-05-28T08:26:45.000Z"
+        },
+        "thumbnail": {
+            "height": 279,
+            "url": "https://akamai.vgc.no/v2/images/e34a0cf5-3e97-43a6-ac72-881d8e76150e?fit=crop&format=auto&h=279&w=400&s=952325b12d9a9b92e1adae9a25418b2d348a5509",
+            "width": 400
+        },
+        "title": "Slik ønsker Luton Erling Braut Haaland velkommen",
+        "url": "https://www.vg.no/sport/fotball/i/VPkBqJ/slik-oensker-luton-erling-braut-haaland-velkommen"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwPQpz",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwPQpz",
+        "preamble": "En dårlig Rosenborg-vår ble ikke bedre av en svak cupkamp mot Trygg/Lade. Det er høy temperatur rundt trener Kjetil Rekdal og klubben før mandagens møte med Brann.",
+        "published": {
+            "date": "søndag 28. mai",
+            "datetime": "2023-05-28 09:26:46",
+            "niceformat": "28.05.2023, 09:26",
+            "timestamp": "2023-05-28T07:26:46.000Z"
+        },
+        "thumbnail": {
+            "height": 245,
+            "url": "https://akamai.vgc.no/v2/images/5a796070-be37-4446-a01a-359e4c2e6478?fit=crop&format=auto&h=245&w=400&s=c5e412522d9bec94d848bae246db7004e3ad0c6f",
+            "width": 400
+        },
+        "title": "Rosenborg-koket: – Sirkuset rundt oss får gå sin gang",
+        "url": "https://www.vg.no/sport/fotball/i/dwPQpz/rosenborg-koket-sirkuset-rundt-oss-faar-gaa-sin-gang"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "bgW6w5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/bgW6w5",
+        "preamble": "MANCHESTER/OSLO (VG) Pep Guardiola (52) mener at Erling Braut Haaland (22) er en type som aldri mister selvtilliten. Og sammenligner nordmannen med et amerikansk basketballag.",
+        "published": {
+            "date": "lørdag 27. mai",
+            "datetime": "2023-05-27 23:33:04",
+            "niceformat": "27.05.2023, 23:33",
+            "timestamp": "2023-05-27T21:33:04.000Z"
+        },
+        "thumbnail": {
+            "height": 240,
+            "url": "https://akamai.vgc.no/v2/images/0a58d83f-67a2-495f-9175-aad432ec6cd7?fit=crop&format=auto&h=240&w=400&s=40dd20088e340d7d9698e0a93b5daa47661effee",
+            "width": 400
+        },
+        "title": "Guardiola om Haalands selvtillit: – Den største verdien du kan ha",
+        "url": "https://www.vg.no/sport/fotball/i/bgW6w5/guardiola-om-haalands-selvtillit-den-stoerste-verdien-du-kan-ha"
+    }
+]

@@ -1,0 +1,398 @@
+[
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JzpeA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JzpeA",
+        "preamble": "ULLEVAAL STADION (VG) I flere posisjoner på banen har det norske laget aldri hatt svakere alternativ, mener tidligere Josimar-redaktør Frode Lia. Ståle Solbakken skulle gjerne sett flere spillere i de beste ligaene. ",
+        "published": {
+            "date": "onsdag 14. juni",
+            "datetime": "2023-06-14 11:16:03",
+            "niceformat": "14.06.2023, 11:16",
+            "timestamp": "2023-06-14T09:16:03.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/90581f9b-5920-4c31-bfdf-c60473acf236?fit=crop&format=auto&h=267&w=400&s=0e5c9ea593028fc574aeb7535dde0170ff1abdff",
+            "width": 400
+        },
+        "title": "Tidligere fotballredaktør:– Landslaget har ikke hatt dårligere utvalg spillere på 30 år ",
+        "url": "https://www.vg.no/sport/fotball/i/8JzpeA/tidligere-fotballredaktoer-landslaget-har-ikke-hatt-daarligere-utvalg-spillere-paa-30-aar"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wA52B4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wA52B4",
+        "preamble": "Fotballsupporteren som ble nakenvisitert på Fredrikstad stadion har nå anmeldt to tjenestefolk etter hendelsen.",
+        "published": {
+            "date": "onsdag 14. juni",
+            "datetime": "2023-06-14 10:52:01",
+            "niceformat": "14.06.2023, 10:52",
+            "timestamp": "2023-06-14T08:52:01.000Z"
+        },
+        "title": "Anmelder flere i politiet etter nakenvisitering",
+        "url": "https://www.vg.no/sport/fotball/i/wA52B4/anmelder-flere-i-politiet-etter-nakenvisitering"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WRWGKK",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WRWGKK",
+        "preamble": "Hugo Vetlesen (23) og Jørgen Strand Larsen (23) blir ikke med i Norges tropp til U21-EM.",
+        "published": {
+            "date": "onsdag 14. juni",
+            "datetime": "2023-06-14 09:07:31",
+            "niceformat": "14.06.2023, 09:07",
+            "timestamp": "2023-06-14T07:07:31.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/b18b8010-8346-4805-866f-c45392f324e0?fit=crop&format=auto&h=267&w=400&s=283da6ffd8ad5dc69f12d4edbd25f6c7b179a42b",
+            "width": 400
+        },
+        "title": "To endringer i U21-troppen – Vetlesen og Strand Larsen ikke med",
+        "url": "https://www.vg.no/sport/fotball/i/WRWGKK/endringer-i-u21-troppen"
+    },
+    {
+        "authors": [
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9z016q",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9z016q",
+        "preamble": "ULLEVAAL STADION (VG) Siden Erling Braut Haaland (22) vant «The Treble» sent lørdag kveld, har han festet på Ibiza, i Manchesters gater og ved et av fotballbyens serveringssteder i gullpysjamas. Hvordan påvirkes Norges superstjerne av det?",
+        "published": {
+            "date": "tirsdag 13. juni",
+            "datetime": "2023-06-13 23:08:12",
+            "niceformat": "13.06.2023, 23:08",
+            "timestamp": "2023-06-13T21:08:12.000Z"
+        },
+        "thumbnail": {
+            "height": 311,
+            "url": "https://akamai.vgc.no/v2/images/17edf834-a48b-4f00-a194-60a4ddcdb732?fit=crop&format=auto&h=311&w=400&s=19dc33986ffc1c5a0bc53080e2f62ac5f15b18a1",
+            "width": 400
+        },
+        "title": "Eksperter om Haalands lange festdager: – Vil forsinke kroppens innhenting ganske drastisk",
+        "url": "https://www.vg.no/sport/fotball/i/9z016q/eksperter-om-haalands-lange-festdager-vil-forsinke-kroppens-innhenting-ganske-drastisk"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPLJ4V",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPLJ4V",
+        "preamble": "Han regnes som en klubblegende i Aalesund. Amund Skiri (45) trekker seg med øyeblikkelig virkning etter at AaFK tirsdag ansatte Christian Johnsen som ny hovedtrener i klubben.",
+        "published": {
+            "date": "tirsdag 13. juni",
+            "datetime": "2023-06-13 20:33:18",
+            "niceformat": "13.06.2023, 20:33",
+            "timestamp": "2023-06-13T18:33:18.000Z"
+        },
+        "thumbnail": {
+            "height": 270,
+            "url": "https://akamai.vgc.no/v2/images/29c87d32-e2cb-40b1-b7ab-e315e8f4fa7a?fit=crop&format=auto&h=270&w=400&s=0b435adce48d50200a9df4b7f82fa6c446e552bc",
+            "width": 400
+        },
+        "title": "Etter AaFK-ansettelsen: Amund Skiri går på dagen",
+        "url": "https://www.vg.no/sport/fotball/i/VPLJ4V/etter-aafk-ansettelsen-amund-skiri-gaar-paa-dagen"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "bgdx3A",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/bgdx3A",
+        "preamble": "Manchester United skal ikke tillate at Isak Hansen-Aarøen (18) spiller for Norge i U19-EM neste måned.",
+        "published": {
+            "date": "tirsdag 13. juni",
+            "datetime": "2023-06-13 20:07:09",
+            "niceformat": "13.06.2023, 20:07",
+            "timestamp": "2023-06-13T18:07:09.000Z"
+        },
+        "thumbnail": {
+            "height": 289,
+            "url": "https://akamai.vgc.no/v2/images/98be9a1f-fa1b-4eb5-8352-aa249e4eb247?fit=crop&format=auto&h=289&w=400&s=2702db675da3ced09d260e51d352e910fd6c32e6",
+            "width": 400
+        },
+        "title": "United.no: Norges U19-kaptein nektes EM-deltagelse",
+        "url": "https://www.vg.no/sport/fotball/i/bgdx3A/united-no-norges-u19-kaptein-nektes-em-deltagelse"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "mQWlQE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/mQWlQE",
+        "preamble": "Fem uker før kvinnenes fotball-VM er BBC fremdeles uten en avtale med FIFA om å sende kamper fra sluttspillet. Partene synes å stå langt fra hverandre.",
+        "published": {
+            "date": "tirsdag 13. juni",
+            "datetime": "2023-06-13 18:42:23",
+            "niceformat": "13.06.2023, 18:42",
+            "timestamp": "2023-06-13T16:42:23.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6d15220c-68ed-4308-a087-cd3e31a06a4d?fit=crop&format=auto&h=267&w=400&s=1b5a55f57c606002aeac9fe397bf65ab0281c612",
+            "width": 400
+        },
+        "title": "BBC fortsatt i tøffe VM-forhandlinger: – Ser etter en rettferdig pris",
+        "url": "https://www.vg.no/sport/fotball/i/mQWlQE/bbc-fortsatt-i-toeffe-vm-forhandlinger-ser-etter-en-rettferdig-pris"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "vegard.aulstad@vg.no",
+                "id": "32320ac9-8b78-4d86-b923-ee64dc408816",
+                "name": "Vegard Aulstad"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPLvpp",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPLvpp",
+        "preamble": "ULLEVAAL STADION (VG) En sønderknust Julian Ryerson (25) vekslet ikke ett eneste ord med sin norske landslagskamerat da Dortmund-gullet glapp på målstreken mot Andreas Hanche-Olsen (26) og Mainz.",
+        "published": {
+            "date": "tirsdag 13. juni",
+            "datetime": "2023-06-13 18:19:08",
+            "niceformat": "13.06.2023, 18:19",
+            "timestamp": "2023-06-13T16:19:08.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ff937d63-3e00-4abc-a6cf-6c00eb6b468a?fit=crop&format=auto&h=267&w=400&s=dae62d06dffabaa9fb0e072dc0b40e8f05687ad6",
+            "width": 400
+        },
+        "title": "Ryerson og Hanche-Olsen har skværet opp etter Tyskland-drama: – Turte ikke gå bort",
+        "url": "https://www.vg.no/sport/fotball/i/VPLvpp/landslagsspillerne-julian-ryerson-og-andreas-hanche-olsen-har-skvaeret-opp-etter-bundesliga-drama"
+    },
+    {
+        "authors": [
+            {
+                "email": "leif.welhaven@vg.no",
+                "id": "e46ed1bb-8354-4bd4-97d3-09ac43c5dc8f",
+                "name": "Leif Welhaven"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPLvLJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPLvLJ",
+        "preamble": "Hvor mye bør mannen som styrer pengesekken blande seg inn i Vålerengas sportslige valg og supporternes reaksjoner på avgjørelsene?",
+        "published": {
+            "date": "tirsdag 13. juni",
+            "datetime": "2023-06-13 17:16:59",
+            "niceformat": "13.06.2023, 17:16",
+            "timestamp": "2023-06-13T15:16:59.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/c55c8b10-75f4-4745-a187-77a7c038f001?fit=crop&format=auto&h=266&w=400&s=84176b5599af1e4ef8245740109cadf277871b82",
+            "width": 400
+        },
+        "title": "Trøim på stram line",
+        "url": "https://www.vg.no/sport/fotball/i/VPLvLJ/troeim-paa-stram-line"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "pQm22j",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/pQm22j",
+        "preamble": "GARDERMOEN (VG) «The Treble»-vinneren Erling Braut Haaland har landet på norsk jord før landskampene mot Skottland og Kypros.",
+        "published": {
+            "date": "tirsdag 13. juni",
+            "datetime": "2023-06-13 15:51:49",
+            "niceformat": "13.06.2023, 15:51",
+            "timestamp": "2023-06-13T13:51:49.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/3f8071c7-fd90-4a1a-b444-946afd0bd337?fit=crop&format=auto&h=300&w=400&s=602c81e9c398ec4dd1a68791d5403a024ae250e2",
+            "width": 400
+        },
+        "title": "Erling Braut Haaland har landet i Norge",
+        "url": "https://www.vg.no/sport/fotball/i/pQm22j/erling-braut-haaland-har-landet-i-norge"
+    }
+]

@@ -1,0 +1,190 @@
+[
+    {
+        "slug": "troender-lyn-2-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/EQEVzA/troender-lyn-2-fortsatte-seiersrekken",
+        "title": {
+            "value": "Trønder-Lyn 2 fortsatte seiersrekken"
+        },
+        "description": "Trønder-Lyn 2 banket Sokna 4-1 i 6. divisjon, Trøndelag - Avdeling 6 i fotball onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-14T20:10:01Z",
+        "lastModifiedAt": "2023-06-14T20:10:01Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet",
+            "lokalfotballen-gauldalsposten"
+        ]
+    },
+    {
+        "slug": "vant-serien",
+        "url": "/lokalfotballen/i/nQnqQo/vant-serien",
+        "title": {
+            "value": "Oppdal avgjorde seriespillet"
+        },
+        "description": "Med 4-3-seier over Ranheim tok Oppdal sin tredje seier på rad",
+        "imageUrl": null,
+        "publishedAt": "2023-06-14T18:55:19Z",
+        "lastModifiedAt": "2023-06-14T19:02:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-opp"
+        ]
+    },
+    {
+        "slug": "maal-lykke-for-vegar-paulsby",
+        "url": "/lokalfotballen/i/KnkVpG/maal-lykke-for-vegar-paulsby",
+        "title": {
+            "value": "Vegar Paulsby bøttet inn mål mot Ranheim 2"
+        },
+        "description": "Utleira 2 tok sine første poeng på fire kamper med 10-2 over Ranheim 2",
+        "imageUrl": null,
+        "publishedAt": "2023-06-14T18:38:57Z",
+        "lastModifiedAt": "2023-06-14T19:02:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "tre-strake-uten-tap-for-verdal",
+        "url": "/lokalfotballen/i/8Jzy62/tre-strake-uten-tap-for-verdal",
+        "title": {
+            "value": "Ranheim spilte uavgjort"
+        },
+        "description": "Det endte uavgjort mellom Ranheim og Verdal på Ranheim Arena 2 i J14 1. divisjon, Avdeling 1 - Vår onsdag. Ranheim har tatt poeng i de siste fem hjemmekampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-14T18:35:50Z",
+        "lastModifiedAt": "2023-06-14T19:02:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "thea-skaugen-rygg-ble-helten-for-orkla",
+        "url": "/lokalfotballen/i/MoJVwK/thea-skaugen-rygg-ble-helten-for-orkla",
+        "title": {
+            "value": "Orkla slo Frøya IL i toppoppgjøret"
+        },
+        "description": "Thea Skaugen Rygg avgjorde med sin 1-0-scoring for Orkla mot Frøya IL på Frøya storhall i J15 2. divisjon, Avdeling 3 - Vår onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-14T18:15:08Z",
+        "lastModifiedAt": "2023-06-14T18:33:38Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "charlottenlund-ordnet-poeng",
+        "url": "/lokalfotballen/i/O80xRE/charlottenlund-ordnet-poeng",
+        "title": {
+            "value": "Charlottenlund reddet poeng"
+        },
+        "description": "Charlottenlund og Hegra delte poengene på Hegra Sparebank stadion i J14 2. divisjon, Avdeling 2 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-14T18:09:57Z",
+        "lastModifiedAt": "2023-06-14T18:33:39Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "sjetne-sikret-uavgjort",
+        "url": "/lokalfotballen/i/2B46Er/sjetne-sikret-uavgjort",
+        "title": {
+            "value": "Sjetne ordnet uavgjort"
+        },
+        "description": "Sjetne lå under 1-3, men klarte 3-3 mot Ranheim etter en sen utligning Det satte en stopper for Ranheims seiersrekke på fire kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-14T17:57:37Z",
+        "lastModifiedAt": "2023-06-14T18:00:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "italia-tar-farvel-med-silvio-berlusconi",
+        "url": "/nyheter/utenriks/i/Q7KvKQ/italia-tar-farvel-med-silvio-berlusconi",
+        "title": {
+            "value": "Italia tok farvel med Silvio Berlusconi"
+        },
+        "description": "Titusenvis av mennesker hadde tatt oppstilling utenfor katedralen i Milano der Silvio Berlusconi ble bisatt onsdag.",
+        "imageUrl": "16bd409c-ed37-4248-b11c-b50232e6d8e2",
+        "publishedAt": "2023-06-14T10:42:25Z",
+        "lastModifiedAt": "2023-06-14T14:43:23Z",
+        "premium": false,
+        "authors": [
+            "NTB-AFP-Reuters"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "rbk-sjefen-varsler-full-evaluering-i-juni",
+        "url": "/sport/fotball/i/APW1gq/rbk-sjefen-varsler-full-evaluering-i-juni",
+        "title": {
+            "value": "RBK-sjefen varsler full evaluering i juni"
+        },
+        "description": "RBKs styreleder Cecilie Gotaas Johnsen gjester Rasmus&Saga.",
+        "imageUrl": "67bfc7b5-4db9-4ccd-bd20-692a1042ffc1",
+        "publishedAt": "2023-06-14T10:17:24Z",
+        "lastModifiedAt": "2023-06-14T10:17:24Z",
+        "premium": false,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rasmus-saga"
+        ]
+    },
+    {
+        "slug": "opphetet-diskusjon-et-scenario-jeg-vil-advare-sterkt-imot",
+        "url": "/nyheter/i/Xbn7om/opphetet-diskusjon-et-scenario-jeg-vil-advare-sterkt-imot",
+        "title": {
+            "value": "Kom med klar advarsel: - Dette lover veldig dårlig"
+        },
+        "description": "Det ble temperatur og til dels steile fronter mellom Høyre og Arbeiderpartiet da en av Trondheims viktigste saker ble diskutert tirsdag.",
+        "imageUrl": "751816d8-c03d-4f3e-940b-a124ce02d5da",
+        "publishedAt": "2023-06-14T06:56:37Z",
+        "lastModifiedAt": "2023-06-14T07:31:13Z",
+        "premium": true,
+        "authors": [
+            "Alexander Killingberg"
+        ],
+        "tags": [
+            "byutvikling",
+            "byutvikling-i-trondheim"
+        ]
+    }
+]

@@ -1,0 +1,384 @@
+[
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            },
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQEnK3",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQEnK3",
+        "preamble": "Manchester City er tilbake i hjembyen. I åpen buss hylles Erling Braut Haaland og resten av heltene i klubbens beste sesong siden City ble grunnlagt i 1880.",
+        "published": {
+            "date": "mandag 12. juni",
+            "datetime": "2023-06-12 20:20:18",
+            "niceformat": "12.06.2023, 20:20",
+            "timestamp": "2023-06-12T18:20:18.000Z"
+        },
+        "thumbnail": {
+            "height": 248,
+            "url": "https://akamai.vgc.no/v2/images/ce64413e-f525-478d-9298-45f118451155?fit=crop&format=auto&h=248&w=400&s=65a08d88bbf5a977a89262172cf72c90f09c4b77",
+            "width": 400
+        },
+        "title": "Hyllesten av Haaland og Manchester City er i gang",
+        "url": "https://www.vg.no/sport/fotball/i/EQEnK3/hyllesten-av-haaland-og-manchester-city-er-i-gang"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "magnus.helle@schibsted.com",
+                "id": "465b91ad-0c13-4b04-8be8-4dbb0cc0080a",
+                "name": "Magnus Helle"
+            },
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3L5be",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3L5be",
+        "preamble": "VALLE (VG) Vålerenga-eier Tor Olav Trøim går hardt ut mot egne supportere etter sparkingen av trener Dag-Eilev Fagermo (56).",
+        "published": {
+            "date": "mandag 12. juni",
+            "datetime": "2023-06-12 18:09:05",
+            "niceformat": "12.06.2023, 18:09",
+            "timestamp": "2023-06-12T16:09:05.000Z"
+        },
+        "thumbnail": {
+            "height": 257,
+            "url": "https://akamai.vgc.no/v2/images/41929239-7a94-4ca2-a338-6f3704186cbb?fit=crop&format=auto&h=257&w=400&s=99e2bcffe679730d1cf500d22e7f52ab2363cb9c",
+            "width": 400
+        },
+        "title": "Fagermo har fått sparken i Vålerenga – VIF-eieren ut mot supporterne",
+        "url": "https://www.vg.no/sport/fotball/i/l3L5be/dag-eilev-fagermo-er-ferdig-i-vaalerenga"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76JGxo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76JGxo",
+        "preamble": "Real Madrid-manager Carlo Ancelotti (64) saksøker sin tidligere arbeidsgiver Everton.",
+        "published": {
+            "date": "mandag 12. juni",
+            "datetime": "2023-06-12 16:48:39",
+            "niceformat": "12.06.2023, 16:48",
+            "timestamp": "2023-06-12T14:48:39.000Z"
+        },
+        "thumbnail": {
+            "height": 270,
+            "url": "https://akamai.vgc.no/v2/images/09506d90-420e-40eb-94e8-5c51c17d632c?fit=crop&format=auto&h=270&w=400&s=d32214dbb621ef0e86e8cd85db5a05211f9db200",
+            "width": 400
+        },
+        "title": "The Guardian: Ancelotti saksøker Everton",
+        "url": "https://www.vg.no/sport/fotball/i/76JGxo/the-guardian-ancelotti-saksoeker-everton"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JzkxW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JzkxW",
+        "preamble": "Angriperen Kevin Schade er klar for Brentford. Han blir Premier League-klubbens dyreste kjøp noen gang.",
+        "published": {
+            "date": "mandag 12. juni",
+            "datetime": "2023-06-12 16:28:46",
+            "niceformat": "12.06.2023, 16:28",
+            "timestamp": "2023-06-12T14:28:46.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/f175a4bd-5d11-49cf-a53d-0e3fe823bd10?fit=crop&format=auto&h=267&w=400&s=cdc326476c73fbb19a61b61aed1452de86c1320e",
+            "width": 400
+        },
+        "title": "Brentford signerte tysk spiss – satte overgangsrekord",
+        "url": "https://www.vg.no/sport/fotball/i/8JzkxW/brentford-signerte-tysk-spiss-satte-overgangsrekord"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEKJkB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEKJkB",
+        "preamble": "BERGEN (VG) Fotballpresident Lise Klaveness (42) advarer mot å sette bredde og topp opp mot hverandre i barne- og ungdomsidretten.",
+        "published": {
+            "date": "mandag 12. juni",
+            "datetime": "2023-06-12 16:07:25",
+            "niceformat": "12.06.2023, 16:07",
+            "timestamp": "2023-06-12T14:07:25.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/35705687-1cfc-4b42-8015-dd343ccf2d48?fit=crop&format=auto&h=267&w=400&s=851fc40b1935accd9a79a5a7a20049f4d32d0060",
+            "width": 400
+        },
+        "title": "Lise Klaveness med brannfakkel om topp og bredde: – Ber om samme omsorg for dem som vil bli gode",
+        "url": "https://www.vg.no/sport/fotball/i/gEKJkB/lise-klaveness-med-brannfakkel-om-topp-og-bredde-ber-om-samme-omsorg-for-dem-som-vil-bli-gode"
+    },
+    {
+        "authors": [
+            {
+                "email": "svea@vg.no",
+                "id": "f852e5e5-5ba9-48c7-96da-9455a160031f",
+                "name": "Knut Espen Svegaarden"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQG4d7",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQG4d7",
+        "preamble": "ULLEVAAL STADION (VG) «Han har disse 10 prosentene med galskap i seg». Sitatet kom fra en danske som Ståle Solbakken hadde jobbet med i sin tid i FC København. Dansken mente det var det som skilte Solbakken fra mange andre flinke fotballtrenere, i det å få med seg spillerne.",
+        "published": {
+            "date": "mandag 12. juni",
+            "datetime": "2023-06-12 14:24:35",
+            "niceformat": "12.06.2023, 14:24",
+            "timestamp": "2023-06-12T12:24:35.000Z"
+        },
+        "thumbnail": {
+            "height": 309,
+            "url": "https://akamai.vgc.no/v2/images/2d7550cf-c19f-4ce3-815c-02d259296fbc?fit=crop&format=auto&h=309&w=400&s=970df754461cc3bdecc96bb5b66f5196f4613c97",
+            "width": 400
+        },
+        "title": "Nå får Solbakken bruk for galskapen sin",
+        "url": "https://www.vg.no/sport/fotball/i/JQG4d7/naa-faar-solbakken-bruk-for-galskapen-sin"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEe3yv",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEe3yv",
+        "preamble": "BEKKESTUA (VG) Den danske angrepsstjernen Carlo Holse (24) skal ha avslått et tilbud om kontraktsforlengelse med Rosenborg. ",
+        "published": {
+            "date": "mandag 12. juni",
+            "datetime": "2023-06-12 13:37:38",
+            "niceformat": "12.06.2023, 13:37",
+            "timestamp": "2023-06-12T11:37:38.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/b2f24857-4835-4f12-a211-878dd0ce5993?fit=crop&format=auto&h=266&w=400&s=a37c13c9d4171b622e2ef14c441c6cf511a1ed58",
+            "width": 400
+        },
+        "title": "Opplysninger til VG: Holse takket nei til ny RBK-kontrakt",
+        "url": "https://www.vg.no/sport/fotball/i/zEe3yv/opplysninger-til-vg-holse-takket-nei-til-ny-rbk-kontrakt"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q1EMVz",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q1EMVz",
+        "preamble": "AIK forsøker å hente Ole Selnæs, ifølge Aftonbladet. ",
+        "published": {
+            "date": "mandag 12. juni",
+            "datetime": "2023-06-12 12:21:47",
+            "niceformat": "12.06.2023, 12:21",
+            "timestamp": "2023-06-12T10:21:47.000Z"
+        },
+        "title": "Hevder AIK vil hente Selnæs",
+        "url": "https://www.vg.no/sport/fotball/i/q1EMVz/hevder-aik-vil-hente-selnaes"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wA5mnM",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wA5mnM",
+        "preamble": "Ifølge The Guardian planlegger Pep Guardiola å gi seg som Manchester City-manager når hans nåværende kontrakt går ut.",
+        "published": {
+            "date": "mandag 12. juni",
+            "datetime": "2023-06-12 11:59:36",
+            "niceformat": "12.06.2023, 11:59",
+            "timestamp": "2023-06-12T09:59:36.000Z"
+        },
+        "thumbnail": {
+            "height": 304,
+            "url": "https://akamai.vgc.no/v2/images/a47dd3e5-380f-40e5-84b4-eee149b26563?fit=crop&format=auto&h=304&w=400&s=1f4e1fe10fcb6e80f896322e88c9969b76c3ee91",
+            "width": 400
+        },
+        "title": "The Guardian: Guardiola forlater City om to år",
+        "url": "https://www.vg.no/sport/fotball/i/wA5mnM/the-guardian-guardiola-forlater-city-om-to-aar"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "bgdbGk",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/bgdbGk",
+        "preamble": "ULLEVAAL (VG) Ståle Solbakken mener det er helt innafor at Erling Braut Haaland får feste etter Champions League-triumfen – kort tid før to viktige landskamper.",
+        "published": {
+            "date": "mandag 12. juni",
+            "datetime": "2023-06-12 11:41:37",
+            "niceformat": "12.06.2023, 11:41",
+            "timestamp": "2023-06-12T09:41:37.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a4b15c2b-cc8d-4485-8925-ba2dd4ba144a?fit=crop&format=auto&h=267&w=400&s=461bd7faa7c775d29ed3050bc6c24bd7977e3a68",
+            "width": 400
+        },
+        "title": "Solbakken godtar Haaland-festing: – Bør ha tatt sin siste cocktail i kveld",
+        "url": "https://www.vg.no/sport/fotball/i/bgdbGk/solbakken-godtar-haaland-festing-foer-landskampene-boer-ha-tatt-sin-siste-cocktail-i-kveld"
+    }
+]

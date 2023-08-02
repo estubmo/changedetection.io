@@ -1,0 +1,188 @@
+[
+    {
+        "slug": "tv-2-fotballforbundet-gaar-for-al-samarai-som-idrettspresident",
+        "url": "/nyheter/innenriks/i/Kn1ylG/tv-2-fotballforbundet-gaar-for-al-samarai-som-idrettspresident",
+        "title": {
+            "value": "Fotballforbundet har bestemt seg"
+        },
+        "description": "Norges Fotballforbund velger å gi sin støtte til Zaineb Al-Samarai i kampen om å bli ny idrettspresident.",
+        "imageUrl": "4a7882ff-823b-44dc-9ee6-eccd83d3fa9f",
+        "publishedAt": "2023-05-20T08:55:12Z",
+        "lastModifiedAt": "2023-05-20T09:04:36Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "i-doedens-dal-er-harry-potter-boekene-blitt-virkelighet",
+        "url": "/sport/i/q1Vr7L/i-doedens-dal-er-harry-potter-boekene-blitt-virkelighet",
+        "title": {
+            "value": "Denne gjengen er slett ikke som andre idrettsutøvere"
+        },
+        "description": "De fleste som har hørt om rumpeldunk kjenner sporten fra Harry Potter-universet. At annerledes-idretten bedrives midt i Trondheim er det færre som vet.",
+        "imageUrl": "e6aafc39-dd8d-4dcf-af37-7c8c1f67888e",
+        "publishedAt": "2023-05-20T08:14:00Z",
+        "lastModifiedAt": "2023-05-20T08:27:47Z",
+        "premium": true,
+        "authors": [
+            "Aksel Joramo Lysne"
+        ],
+        "tags": [
+            "ntnui"
+        ]
+    },
+    {
+        "slug": "ntnui-knuste-fram-remyra",
+        "url": "/lokalfotballen/i/76L0vw/ntnui-knuste-fram-remyra",
+        "title": {
+            "value": "NTNUI rundspilte Fram/Remyra"
+        },
+        "description": "NTNUI knuste Fram/Remyra 6-0 i 4. divisjon, Trøndelag - Avdeling 1 i fotball fredag. Siri Lund Davanger scoret to av målene.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-19T20:48:16Z",
+        "lastModifiedAt": "2023-05-19T21:03:29Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "den-store-bussefeiringen",
+        "url": "/magasin/i/kEbnk6/den-store-bussefeiringen",
+        "title": {
+            "value": "Bussforskeren har gitt opp de fleste menn over 50"
+        },
+        "description": "Sjåføren vinker henrykt når han får øyekontakt med Ida Marie Henriksen, en bussglad NTNU-forsker med tro på den kollektive fremtiden",
+        "imageUrl": "2746caa7-e585-460e-9c51-a2344d359984",
+        "publishedAt": "2023-05-19T19:56:27Z",
+        "lastModifiedAt": "2023-05-20T06:27:03Z",
+        "premium": true,
+        "authors": [
+            "Geir Svardal",
+            "Espen Bakken (foto)"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "plutselig-sto-hun-paa-en-buss-midt-i-folkehavet-er-det-oss-de-feirer-naa",
+        "url": "/sport/fotball/i/Q7Ol9q/plutselig-sto-hun-paa-en-buss-midt-i-folkehavet-er-det-oss-de-feirer-naa",
+        "title": {
+            "value": "70 000 tok til gatene: «Er det oss de feirer nå?» "
+        },
+        "description": "Ingrid Syrstad Engen og Barcelona-kvinnene har vært suverene i år. Da også herrelaget sikret ligagullet, ble det en opplevelse hun aldri kommer til å glemme.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-19T19:18:31Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "ingrid-syrstad-engen",
+            "fotball",
+            "fc-barcelona"
+        ]
+    },
+    {
+        "slug": "alander-scoret-hattrick-mot-ranheim-3",
+        "url": "/lokalfotballen/i/pQXLXo/alander-scoret-hattrick-mot-ranheim-3",
+        "title": {
+            "value": "Mål-lykke for Alander"
+        },
+        "description": "Oline Alander scoret tre ganger og hjalp Vestbyen 2 til 6-5-seier over Ranheim 3 i 4. divisjon, Trøndelag - Avdeling 3 i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-19T18:40:16Z",
+        "lastModifiedAt": "2023-05-19T19:03:39Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "froeya-il-2-9er-soerget-for-maalfest",
+        "url": "/lokalfotballen/i/mQaRyv/froeya-il-2-9er-soerget-for-maalfest",
+        "title": {
+            "value": "Frøya IL 2 9er vant igjen"
+        },
+        "description": "Liam Johansen Inderø viste scoringsform da Frøya IL 2 9er vant 6-0 over Hitra 9er i G14 9er, Avdeling 3 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-19T18:02:52Z",
+        "lastModifiedAt": "2023-05-19T18:33:10Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    },
+    {
+        "slug": "mister-cupkampen-fikk-seg-en-smell",
+        "url": "/sport/fotball/i/4ovj5q/mister-cupkampen-fikk-seg-en-smell",
+        "title": {
+            "value": " - Ikke aktuell til cupkampen"
+        },
+        "description": "RBK må klare seg uten Santeri Väänänen mot Trygg/Lade.",
+        "imageUrl": "39782e16-f1c2-4a23-b6b1-7988a4728a9a",
+        "publishedAt": "2023-05-19T14:17:20Z",
+        "lastModifiedAt": "2023-05-19T14:17:20Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball"
+        ]
+    },
+    {
+        "slug": "se-helgaadal-markabygda-med-kjetil-rekdal-som-ekspert",
+        "url": "/sport/fotball/i/wAbMbA/se-helgaadal-markabygda-med-kjetil-rekdal-som-ekspert",
+        "title": {
+            "value": "Bygda samlet seg til fotballfest"
+        },
+        "description": "Helgådal håper på årets første poeng når de endelig spiller på den sagnomsuste hjemmebanen. Oppgjøret ser du på adressa.no klokken 19.40!",
+        "imageUrl": "c5f0bf04-49ad-482e-a6bc-b187231e5fad",
+        "publishedAt": "2023-05-19T09:49:52Z",
+        "lastModifiedAt": "2023-05-19T20:12:36Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "helgaadal",
+            "markabygda"
+        ]
+    },
+    {
+        "slug": "svendsen-dobbel-for-varden-meraaker",
+        "url": "/lokalfotballen/i/wAbyLA/svendsen-dobbel-for-varden-meraaker",
+        "title": {
+            "value": "Dobbel fra Svendsen for Varden Meråker"
+        },
+        "description": "Varden Meråker slo NTNUI 3 3-2 og tok sin første seier i årets sesong. I 4. divisjon, Trøndelag - Avdeling 3 i fotball for kvinner torsdag. Thea Elise Svendsen scoret to av målene.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-18T20:34:08Z",
+        "lastModifiedAt": "2023-05-18T21:32:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    }
+]

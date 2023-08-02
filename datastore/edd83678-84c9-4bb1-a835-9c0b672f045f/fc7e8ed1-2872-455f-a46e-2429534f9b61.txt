@@ -1,0 +1,191 @@
+[
+    {
+        "slug": "malvik-2-vant-igjen",
+        "url": "/lokalfotballen/i/WRdnEg/malvik-2-vant-igjen",
+        "title": {
+            "value": "Malvik 2 vant igjen"
+        },
+        "description": "Malvik 2 tok tre poeng da Egge ble slått 3-2 i 4. divisjon, Trøndelag - Avdeling 1 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-01T20:41:17Z",
+        "lastModifiedAt": "2023-06-01T20:41:17Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "ranheim-tf-2-seier-over-trond-2",
+        "url": "/lokalfotballen/i/4ovy29/ranheim-tf-2-seier-over-trond-2",
+        "title": {
+            "value": "Ranheim TF 2-seier over Trond 2"
+        },
+        "description": "Ranheim TF 2 slo Trond 2 4-0 på Extra Arena i G19 2. divisjon, Avdeling 4 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-01T20:38:11Z",
+        "lastModifiedAt": "2023-06-01T20:38:11Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "hamzeh-ahmed-hello-ajjouri-berget-poeng-for-gimse-2-melhus-2-gauldal-2",
+        "url": "/lokalfotballen/i/l3XBdL/hamzeh-ahmed-hello-ajjouri-berget-poeng-for-gimse-2-melhus-2-gauldal-2",
+        "title": {
+            "value": "Hamzeh Ahmed Hello Ajjouri berget poeng for Gimse 2 / Melhus 2 / Gauldal 2"
+        },
+        "description": "Gimse 2/Melhus 2/Gauldal 2 gikk fra 0-2 til 2-2 og sikret poeng mot Charlottenlund 2",
+        "imageUrl": null,
+        "publishedAt": "2023-06-01T20:35:05Z",
+        "lastModifiedAt": "2023-06-01T20:35:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "maalshow-fra-homstad",
+        "url": "/lokalfotballen/i/bgWR0g/maalshow-fra-homstad",
+        "title": {
+            "value": "Homstad scoret hattrick mot Rissa"
+        },
+        "description": "Kolstad 2 knuste Rissa 9-1 i 6. divisjon, Trøndelag - Avdeling 3 i fotball. Lars Petter Homstad slo til med hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-01T20:12:44Z",
+        "lastModifiedAt": "2023-06-01T20:28:40Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "sverresborg-slo-ranheim-3-paa-hjemmebane",
+        "url": "/lokalfotballen/i/Q7OQvV/sverresborg-slo-ranheim-3-paa-hjemmebane",
+        "title": {
+            "value": "Sverresborg slo Ranheim 3 på hjemmebane"
+        },
+        "description": "Sverresborg fikk med seg alle poengene da Ranheim 3 ble slått 3-2 i 4. divisjon, Trøndelag - Avdeling 3 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-01T20:10:41Z",
+        "lastModifiedAt": "2023-06-01T20:29:47Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "kaare-fikk-oensket-sitt-oppfylt-moeter-glimt-i-cupen",
+        "url": "/sport/fotball/i/BWdonQ/kaare-fikk-oensket-sitt-oppfylt-moeter-glimt-i-cupen",
+        "title": {
+            "value": " Sjekk hvilket lag RBKs overmenn møter i cupen"
+        },
+        "description": "Cupens tredje runde ble trukket sent torsdag kveld.",
+        "imageUrl": "08163c2c-3116-47a3-a748-46e2705f0a4a",
+        "publishedAt": "2023-06-01T20:08:37Z",
+        "lastModifiedAt": "2023-06-01T20:14:04Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "fotball",
+            "ranheim-tf"
+        ]
+    },
+    {
+        "slug": "freidig-slo-gauldal-i-maalfest",
+        "url": "/lokalfotballen/i/mQaObl/freidig-slo-gauldal-i-maalfest",
+        "title": {
+            "value": "Freidig slo Gauldal i målfest"
+        },
+        "description": "Freidig hentet opp Gauldals 2-0-ledelse og vant 4-2 i 5. divisjon, Trøndelag - Avdeling 3 i fotball for menn torsdag. Gauldal har gått poengløse av banen i fem strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-01T20:05:23Z",
+        "lastModifiedAt": "2023-06-01T20:22:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "svinsaas-avgjorde-for-fram-remyra",
+        "url": "/lokalfotballen/i/JQMk9R/svinsaas-avgjorde-for-fram-remyra",
+        "title": {
+            "value": "Svinsås senket Namsos"
+        },
+        "description": "Astri Myhre Svinsås sikret seieren med sin 3-2-scoring da Fram/Remyra slo Namsos i 4. divisjon, Trøndelag - Avdeling 1 i fotball. Fram/Remyra har tatt poeng i fem hjemmekamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-01T20:04:14Z",
+        "lastModifiedAt": "2023-06-01T20:29:46Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "knusende-seier-for-nardo-2",
+        "url": "/lokalfotballen/i/kEX29B/knusende-seier-for-nardo-2",
+        "title": {
+            "value": "Dobbel fra Nes for Nardo 2"
+        },
+        "description": "Med dagens 0-6-tap har Trond ikke tatt et eneste poeng på de første åtte kampene i år i 4. divisjon, Trøndelag - Avdeling 2 i fotball for kvinner. Marte Nes scoret to mål.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-01T20:04:14Z",
+        "lastModifiedAt": "2023-06-01T20:29:46Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ntnui-vant-igjen",
+        "url": "/lokalfotballen/i/q1XGgz/ntnui-vant-igjen",
+        "title": {
+            "value": "Tredje strake seier for NTNUI"
+        },
+        "description": "NTNUI slo Steinkjer 2 2-0 på hjemmebane i 4. divisjon, Trøndelag - Avdeling 1 i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-01T19:45:54Z",
+        "lastModifiedAt": "2023-06-01T19:57:40Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    }
+]

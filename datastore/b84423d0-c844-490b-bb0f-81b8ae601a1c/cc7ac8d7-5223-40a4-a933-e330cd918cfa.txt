@@ -1,0 +1,390 @@
+[
+    {
+        "authors": [
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            },
+            {
+                "email": "sondre.skandsen@vg.no",
+                "id": "50cf6822-74f7-42bd-bcb7-8fc2fbce3050",
+                "name": "Sondre Skandsen"
+            },
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJXOBg",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJXOBg",
+        "preamble": "MADRID (VG) (Real Madrid - Manchester City 1–1) Erling Braut Haaland (22) fikk knalltøffe arbeidsforhold mot en av verdens beste midtstoppere. I Spanias største avis var de ikke imponert over nordmannen.",
+        "published": {
+            "date": "tirsdag 9. mai",
+            "datetime": "2023-05-09 23:26:39",
+            "niceformat": "09.05.2023, 23:26",
+            "timestamp": "2023-05-09T21:26:39.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/073d7475-7b03-46c2-bd34-0ab940248482?fit=crop&format=auto&h=267&w=400&s=c8a7ab799dcbc60ae980b40c8957cf08ca6e4b4a",
+            "width": 400
+        },
+        "title": "Spanske aviser med tøff dom: «Rüdiger spiste Haaland»",
+        "url": "https://www.vg.no/sport/fotball/i/eJXOBg/spanske-aviser-med-toeff-dom-rudiger-spiste-haaland"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            },
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4qOpX",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4qOpX",
+        "preamble": "MADRID (VG) (Real Madrid – Manchester City 1–1) Real Madrid nøytraliserte Erling Braut Haaland (22) – men ikke Kevin De Bruyne (31).",
+        "published": {
+            "date": "tirsdag 9. mai",
+            "datetime": "2023-05-09 22:53:19",
+            "niceformat": "09.05.2023, 22:53",
+            "timestamp": "2023-05-09T20:53:19.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/63c598a9-37de-47b5-9b09-503a3ed107e1?fit=crop&format=auto&h=266&w=400&s=676540015ee1e9b37f2dc86c399a2798bf2db484",
+            "width": 400
+        },
+        "title": "Kevin De Bruyne sikret godt City-utgangspunkt da Real Madrid nøytraliserte Haaland",
+        "url": "https://www.vg.no/sport/fotball/i/P4qOpX/kevin-de-bruyne-sikret-godt-city-utgangspunkt-da-real-madrid-noeytraliserte-haaland"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q1bpK0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q1bpK0",
+        "preamble": "Jamie Carragher og Ståle Solbakken er enige om hvem de tror vinner Ballon d’Or – og det er ikke Erling Braut Haaland.",
+        "published": {
+            "date": "tirsdag 9. mai",
+            "datetime": "2023-05-09 19:03:38",
+            "niceformat": "09.05.2023, 19:03",
+            "timestamp": "2023-05-09T17:03:38.000Z"
+        },
+        "thumbnail": {
+            "height": 275,
+            "url": "https://akamai.vgc.no/v2/images/d0e15d01-f0cb-4219-b5ef-f2bb3eef794c?fit=crop&format=auto&h=275&w=400&s=c09e005005c437d6762a5189606a1cd02afe7eaf",
+            "width": 400
+        },
+        "title": "Tror ikke Haaland vinner Gullballen: – Vanskelig å stoppe ham ",
+        "url": "https://www.vg.no/sport/fotball/i/q1bpK0/kan-erling-braut-haaland-vinne-gullballen-ekspertene-tror-en-mann-kan-staa-i-veien"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "RGqo2O",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/RGqo2O",
+        "preamble": "MADRID (VG) Tidligere Real Madrid-president Ramón Calderón tror den spanske gigantklubben ser på «grenseløse» Erling Braut Haaland (22) som et naturlig overgangsmål – og at spanjolene har et ess i ermet.",
+        "published": {
+            "date": "tirsdag 9. mai",
+            "datetime": "2023-05-09 13:49:25",
+            "niceformat": "09.05.2023, 13:49",
+            "timestamp": "2023-05-09T11:49:25.000Z"
+        },
+        "thumbnail": {
+            "height": 240,
+            "url": "https://akamai.vgc.no/v2/images/5985a633-6873-4523-80dc-b434e7571024?fit=crop&format=auto&h=240&w=400&s=ae32f83984d4ead42b235af52dca656a1575227d",
+            "width": 400
+        },
+        "title": "Tidligere Real Madrid-president: – Hvem er ikke interessert i Haaland?",
+        "url": "https://www.vg.no/sport/fotball/i/RGqo2O/tidligere-real-madrid-president-ramon-calderon-hvem-er-ikke-interessert-i-haaland"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwpqaz",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwpqaz",
+        "preamble": "Nyhetsbyrået AFP hevdet tidligere tirsdag at Lionel Messis (35) overgang til saudiarabisk fotball var i boks. Ifølge Messis far er dette ikke sant. ",
+        "published": {
+            "date": "tirsdag 9. mai",
+            "datetime": "2023-05-09 11:29:18",
+            "niceformat": "09.05.2023, 11:29",
+            "timestamp": "2023-05-09T09:29:18.000Z"
+        },
+        "thumbnail": {
+            "height": 310,
+            "url": "https://akamai.vgc.no/v2/images/bb268f13-9ff2-43b5-979b-3bc04c538d01?fit=crop&format=auto&h=310&w=400&s=d864a77c8ade9f0ed732a3b6f9843d96e50f6d67",
+            "width": 400
+        },
+        "title": "Faren til Messi avviser Saudi-Arabia-ryktene",
+        "url": "https://www.vg.no/sport/fotball/i/dwpqaz/faren-til-messi-avviser-saudi-arabia-ryktene"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q17G2w",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q17G2w",
+        "preamble": "Mjøndalen og Kongsvinger spiller toppfotball på kunstgressbaner som er nesten fritt for gummifyll. Banene får masse ros. ",
+        "published": {
+            "date": "tirsdag 9. mai",
+            "datetime": "2023-05-09 07:44:49",
+            "niceformat": "09.05.2023, 07:44",
+            "timestamp": "2023-05-09T05:44:49.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6d8818cd-8cc8-460d-9ff1-35b262f63089?fit=crop&format=auto&h=267&w=400&s=8a21775b5878ca4b590a24abf74047446d83af74",
+            "width": 400
+        },
+        "title": "Her spilles toppfotball på 99,2 prosent sand: – Helt nydelig",
+        "url": "https://www.vg.no/sport/fotball/i/q17G2w/her-spilles-toppfotball-paa-99-2-prosent-sand-helt-nydelig"
+    },
+    {
+        "authors": [
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3Ez5d9",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3Ez5d9",
+        "preamble": "(Brann – Sandefjord 0–0) Brann-profil Ole Didrik Blomberg (22) vridde seg i smerter etter et spark mot hans edlere deler. Etter kampen rettet han knallhard skyts mot mannen som forårsaket hendelsen. ",
+        "published": {
+            "date": "mandag 8. mai",
+            "datetime": "2023-05-08 20:53:29",
+            "niceformat": "08.05.2023, 20:53",
+            "timestamp": "2023-05-08T18:53:29.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/b64cfe9a-cc9f-4657-ba5d-7400a0e44dc7?fit=crop&format=auto&h=267&w=400&s=083cd65490cf9c8182fcb062446cb6a577dc68f8",
+            "width": 400
+        },
+        "title": "Brann-profil freste mot Sandefjord-spiller: – Forbanna unødvendig",
+        "url": "https://www.vg.no/sport/fotball/i/3Ez5d9/sandefjord-kjempet-heroisk-og-frustrerte-brann-sikret-raasterkt-poeng-i-bergen"
+    },
+    {
+        "authors": [
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "bgoLOv",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/bgoLOv",
+        "preamble": "(Nottingham Forest–Southampton 4–3, Brighton–Everton 1–5, Fulham–Leicester 5–3) Etter 11 strake sesonger i Premier League er det mindre enn et halmstrå av et håp for Mohamed Elyounoussis Southampton å overleve i Premier League, etter en helt spinnvill målkveld i bunnen av ligaen.",
+        "published": {
+            "date": "mandag 8. mai",
+            "datetime": "2023-05-08 17:55:23",
+            "niceformat": "08.05.2023, 17:55",
+            "timestamp": "2023-05-08T15:55:23.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/PgJ29Nz4QXU5.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Skjebnekveld og målfest i bunnen av Premier League: Bare et mirakel kan redde Moi og Southampton ",
+        "url": "https://www.vg.no/sport/fotball/i/bgoLOv/skjebnekveld-i-bunnen-av-premier-league-leicester-tapte-etter-maalkalas"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4oX9Xg",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4oX9Xg",
+        "preamble": "MANCHESTER/MADRID (VG) Nå som Manchester City virkelig har integrert sin store og sterke spydspiss Erling Braut Haaland (22), gir det dem et angrepsvåpen de ikke før har hatt. Real Madrid-sjef Carlo Ancelotti er forberedt før semifinalen tirsdag.",
+        "published": {
+            "date": "mandag 8. mai",
+            "datetime": "2023-05-08 17:36:28",
+            "niceformat": "08.05.2023, 17:36",
+            "timestamp": "2023-05-08T15:36:28.000Z"
+        },
+        "thumbnail": {
+            "height": 305,
+            "url": "https://akamai.vgc.no/v2/images/82c39d36-74e0-4351-b550-23bb3a64c3fe?fit=crop&format=auto&h=305&w=400&s=f25e4b36c7778b1ae5eaf98f4dfcf460832f24ff",
+            "width": 400
+        },
+        "title": "Slik har Haaland forvandlet Manchester Citys angrepsspill",
+        "url": "https://www.vg.no/sport/fotball/i/4oX9Xg/slik-har-haaland-forvandlet-manchester-citys-angrepsspill"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQqrKX",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQqrKX",
+        "preamble": "LILLESTRØM (VG) Med to mål og matchvinner-status mot Lillestrøm falt det også noen kilo av skuldrene til Faris Pemi (22). Samtidig kommer toppscorer Amahl Pellegrino (32) med et stikk til pressen.",
+        "published": {
+            "date": "mandag 8. mai",
+            "datetime": "2023-05-08 14:19:09",
+            "niceformat": "08.05.2023, 14:19",
+            "timestamp": "2023-05-08T12:19:09.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a6c199f7-bacc-46c6-b228-bc945844c8ec?fit=crop&format=auto&h=267&w=400&s=b26ad1cdd6a85587674325c052fca1b422d4874b",
+            "width": 400
+        },
+        "title": "Pemi avslører at han kjente på presset etter «måltørken»: – Du mister selvtillit",
+        "url": "https://www.vg.no/sport/fotball/i/JQqrKX/bodoe-glimt-spissen-faris-pemi-avsloerer-at-han-kjente-paa-presset-amahl-pellegrino-slaar-tilbake-mot-pressen"
+    }
+]

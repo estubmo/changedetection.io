@@ -1,0 +1,367 @@
+[
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jlXvPA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jlXvPA",
+        "preamble": "David Møller Wolfe (21) er solgt til nederlandske AZ Alkmaar fra Brann. Han har signert en kontrakt som gjelder frem til sommeren 2028.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 17:16:45",
+            "niceformat": "22.05.2023, 17:16",
+            "timestamp": "2023-05-22T15:16:45.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/d9b7f45f-e176-4096-a71d-dba5f4b99aaa?fit=crop&format=auto&h=267&w=400&s=c15d5e480af07ff6a81513004ac509c0a83db4d0",
+            "width": 400
+        },
+        "title": "Brann bekrefter: Wolfe solgt til AZ Alkmaar",
+        "url": "https://www.vg.no/sport/fotball/i/jlXvPA/brann-bekrefter-wolfe-solgt-til-nederland"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3Xnde",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3Xnde",
+        "preamble": "Polske Szymon Marciniak skal dømme mesterligafinalen i fotball mellom Manchester City og Inter Milan 10. juni. Anthony Taylor dømmer europaligafinalen.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 16:03:19",
+            "niceformat": "22.05.2023, 16:03",
+            "timestamp": "2023-05-22T14:03:19.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/f8db5d11-116d-4b82-b0e1-9765b0627565?fit=crop&format=auto&h=266&w=400&s=ccbdc2453c692cd37260a70660e5ea3569d1c78b",
+            "width": 400
+        },
+        "title": "Marciniak dømmer mesterligafinalen i fotball – Taylor dømmer finalen i europaligaen",
+        "url": "https://www.vg.no/sport/fotball/i/l3Xnde/marciniak-doemmer-mesterligafinalen-i-fotball-taylor-doemmer-finalen-i-europaligaen"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgXm5V",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgXm5V",
+        "preamble": "Premier League-tittelen endte i en stor familiefest for Erling Braut Haaland. Isabel Haugseng Johansen (18) var med på feiringen.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 13:40:00",
+            "niceformat": "22.05.2023, 13:40",
+            "timestamp": "2023-05-22T11:40:00.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/303ffce2-964f-4992-b4c0-a707bf7e029d?fit=crop&format=auto&h=267&w=400&s=7b8f64058ebd8d98ad2b770d6137795c77c8b76c",
+            "width": 400
+        },
+        "title": "Haaland tok med Isabel (18) på scenen",
+        "url": "https://www.vg.no/sport/fotball/i/xgXm5V/erling-braut-haaland-tok-med-isabel-haugseng-johansen-18-paa-scenen"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Kn18G6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Kn18G6",
+        "preamble": "Hodeskaden til Rosenborg-spiss Isak Snær Thorvaldsson holder islendingen borte fra fotballen en god stund til.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 13:39:05",
+            "niceformat": "22.05.2023, 13:39",
+            "timestamp": "2023-05-22T11:39:05.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/634c04cc-f01b-4e7c-b33d-fe5568751ae4?fit=crop&format=auto&h=267&w=400&s=2b9113f2747893364a60a59433a0304b9f6711be",
+            "width": 400
+        },
+        "title": "Rosenborg-spiss mister flere kamper",
+        "url": "https://www.vg.no/sport/fotball/i/Kn18G6/rosenborg-spiss-mister-flere-kamper"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "15w65e",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/15w65e",
+        "preamble": "Cupfinalen i fotball for menn ga så vidt over 200.000 seere på NRK, melder Kampanje.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 12:59:39",
+            "niceformat": "22.05.2023, 12:59",
+            "timestamp": "2023-05-22T10:59:39.000Z"
+        },
+        "thumbnail": {
+            "height": 246,
+            "url": "https://akamai.vgc.no/v2/images/216378bc-e1b3-4763-a104-a79e19cbba4a?fit=crop&format=auto&h=246&w=400&s=33b329a3c5e9c8a9e39e3c841c2c5cabbfe522b9",
+            "width": 400
+        },
+        "title": "Stort seerfall på cupfinalen",
+        "url": "https://www.vg.no/sport/fotball/i/15w65e/stort-seerfall-paa-cupfinalen"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76L3mW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76L3mW",
+        "preamble": "Lillestrøms Ruben Gabrielsen (31) var i utdrikningslag torsdag - uten å drikke alkohol, ifølge ham selv. Lørdag spilte han cupfinale mot Brann.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 12:04:42",
+            "niceformat": "22.05.2023, 12:04",
+            "timestamp": "2023-05-22T10:04:42.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/2cc559f8-5af4-427a-b54f-31b0687b03b9?fit=crop&format=auto&h=267&w=400&s=2c77f43d61534ccd90d4182023721dfacfc048e3",
+            "width": 400
+        },
+        "title": "Ruben Gabrielsen i utdrikningslag to dager før cupfinalen: – Påvirket meg ikke i det hele tatt",
+        "url": "https://www.vg.no/sport/fotball/i/76L3mW/lillestroem-spiller-ruben-gabrielsen-i-utdrikningslag-to-dager-foer-cupfinalen-paavirket-meg-ikke-i-det-hele-tatt"
+    },
+    {
+        "authors": [
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BWd0Pg",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BWd0Pg",
+        "preamble": "Fotballklubben Alta er enig med den tyske Bundesliga-klubben Leipzig om en overgang for Jonathan Vonheim Norbye.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 11:29:43",
+            "niceformat": "22.05.2023, 11:29",
+            "timestamp": "2023-05-22T09:29:43.000Z"
+        },
+        "thumbnail": {
+            "height": 280,
+            "url": "https://akamai.vgc.no/v2/images/bb1adeac-0694-4954-94f7-3db29dea21ac?fit=crop&format=auto&h=280&w=400&s=b67b65a06114ea3926cf270ad3f1413dd36debdf",
+            "width": 400
+        },
+        "title": "Altas supertalent (16) klar for tysk storklubb: Blir lagkamerat med Forsberg",
+        "url": "https://www.vg.no/sport/fotball/i/BWd0Pg/jonathan-vonheim-nordbye-klar-for-tyske-rb-leipzig"
+    },
+    {
+        "authors": [
+            {
+                "email": "leif.welhaven@vg.no",
+                "id": "e46ed1bb-8354-4bd4-97d3-09ac43c5dc8f",
+                "name": "Leif Welhaven"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwPR0q",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwPR0q",
+        "preamble": "Fotballen er historisk vakker. Samtidig er klubben anklaget for mer enn 100 regelbrudd. Det blir stadig vanskeligere å velge hvordan man skal forholde seg til Manchester City.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 11:20:26",
+            "niceformat": "22.05.2023, 11:20",
+            "timestamp": "2023-05-22T09:20:26.000Z"
+        },
+        "thumbnail": {
+            "height": 272,
+            "url": "https://akamai.vgc.no/v2/images/4941bbf9-fac1-46ea-b60a-4df4fa4fda17?fit=crop&format=auto&h=272&w=400&s=c08452db058eb8a0c690ec36573ff56b750946c6",
+            "width": 400
+        },
+        "title": "Alt er ekstremt med denne klubben",
+        "url": "https://www.vg.no/sport/fotball/i/dwPR0q/alt-er-ekstremt-med-denne-klubben"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q7OM04",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q7OM04",
+        "preamble": "Synne Skinnes Hansen (27) gir seg i toppserieklubben Rosenborg når kontrakten hennes utløper til sommeren.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 11:04:18",
+            "niceformat": "22.05.2023, 11:04",
+            "timestamp": "2023-05-22T09:04:18.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/78637f33-7352-4f2c-9d95-8423600fe209?fit=crop&format=auto&h=267&w=400&s=39eeaa310385c21b32fcf741fb2e013ec02382f0",
+            "width": 400
+        },
+        "title": "Forlater Rosenborg: Klar for nye eventyr i utlandet",
+        "url": "https://www.vg.no/sport/fotball/i/Q7OM04/rosenborg-spiller-synne-skinnes-hansen-drar-til-utlandet"
+    },
+    {
+        "authors": [
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            },
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "y6XEzA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/y6XEzA",
+        "preamble": "Erling Braut Haaland (22) ankom Manchester City-stjernenes gullfeiring i pysjamas.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 09:28:06",
+            "niceformat": "22.05.2023, 09:28",
+            "timestamp": "2023-05-22T07:28:06.000Z"
+        },
+        "thumbnail": {
+            "height": 452,
+            "url": "https://akamai.vgc.no/v2/images/19508bba-df5d-4bc5-87a2-4b0e56b94b9a?fit=crop&format=auto&h=452&w=400&s=07f96bdb25ca7b1b9ad0c06dc0a615ca43b0e562",
+            "width": 400
+        },
+        "title": "Haaland feiret ligagullet på utested i pysjamas",
+        "url": "https://www.vg.no/sport/fotball/i/y6XEzA/haaland-feiret-ligagullet-paa-utested-i-pysjamas"
+    }
+]

@@ -1,0 +1,360 @@
+[
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "abeM3E",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/abeM3E",
+        "preamble": "(Bodø/Glimt - Tromsø 3–2) Ulrik Saltnes hadde ikke spilt en offisiell kamp siden november. Så sendte han Glimt videre i cupen i sine første minutter tilbake på gresset. I kvartfinalen møter de HamKam på bortebane.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 21:04:23",
+            "niceformat": "28.06.2023, 21:04",
+            "timestamp": "2023-06-28T19:04:23.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/41cbf01a-0449-4934-bf62-e8bf3745923e?fit=crop&format=auto&h=267&w=400&s=7d3d4976646d7ac48afacca6c86b8e29f09d427e",
+            "width": 400
+        },
+        "title": "Sendte Glimt videre i skadereturen: – Fortjener all hyllest",
+        "url": "https://www.vg.no/sport/fotball/i/abeM3E/saltnes-sendte-glimt-videre-etter-skadereturen"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3aRJM",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3aRJM",
+        "preamble": "Kai Havertz erstatter blått med rødt. Chelsea-spissen blir lagkamerat med Martin Ødegaard i Arsenal.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 21:02:38",
+            "niceformat": "28.06.2023, 21:02",
+            "timestamp": "2023-06-28T19:02:38.000Z"
+        },
+        "thumbnail": {
+            "height": 309,
+            "url": "https://akamai.vgc.no/v2/images/9c8dcb36-3d93-4502-8140-f2bc89ee033a?fit=crop&format=auto&h=309&w=400&s=2ab25f8ab849a350aed3a798ebcf810747b5859d",
+            "width": 400
+        },
+        "title": "Havertz bytter farge i London – klar for Arsenal",
+        "url": "https://www.vg.no/sport/fotball/i/l3aRJM/havertz-bytter-farge-i-london-klar-for-arsenal"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJRnmM",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJRnmM",
+        "preamble": "(Raufoss - Viking 4–4, 4–1 på straffer) Obosligalaget Raufoss svarte på hver Viking-scoring, og slo eliteserielaget ut av cupen på straffer.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 20:46:04",
+            "niceformat": "28.06.2023, 20:46",
+            "timestamp": "2023-06-28T18:46:04.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/d4566afe-e7cd-4511-8b36-28c763d20572?fit=crop&format=auto&h=267&w=400&s=454cd803dfa2f21670d7f7f947099b8022fa5851",
+            "width": 400
+        },
+        "title": "Raufoss slo Viking ut av cupen etter straffedrama: – Helt rått ",
+        "url": "https://www.vg.no/sport/fotball/i/eJRnmM/raufoss-slo-viking-ut-av-cupen-etter-straffedrama"
+    },
+    {
+        "authors": [
+            {
+                "email": "oyvind.herrebroden@vg.no",
+                "id": "7b5d0009-0f34-41e3-b5af-dcf22addbd42",
+                "name": "Øyvind Herrebrøden"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Qq606",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Qq606",
+        "preamble": "Declan Rice blir lagkamerat med Martin Ødegaard i Arsenal, ifølge The Athletic. Magasinet skriver at Arsenal har fått godtatt budet på 1,3 milliarder kroner.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 20:39:11",
+            "niceformat": "28.06.2023, 20:39",
+            "timestamp": "2023-06-28T18:39:11.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/7486b9a3-bf54-4efe-a7e9-39503e7d68ba?fit=crop&format=auto&h=267&w=400&s=0ad3121e8e52975064bc4918dbdbd5864a39acfa",
+            "width": 400
+        },
+        "title": "The Athletic: Arsenal enige med West Ham om milliardovergang for Rice",
+        "url": "https://www.vg.no/sport/fotball/i/0Qq606/the-athletic-arsenal-enige-med-west-ham-om-milliardovergang-for-rice"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAkBKM",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAkBKM",
+        "preamble": "(Kjelsås – KFUM Oslo 2–0, Brattvåg – Brann 1-7) Bård Finne er i fyr og flamme og sendte Brann enkelt videre til kvartfinale i cupen. Dit skal også annendivisjonslaget Kjelsås.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 19:49:09",
+            "niceformat": "28.06.2023, 19:49",
+            "timestamp": "2023-06-28T17:49:09.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0e2b6a39-db26-476d-b9df-731ac722b7ef?fit=crop&format=auto&h=267&w=400&s=36bcecafa21ab7ac71fc2b22eb0d9f54f10205dc",
+            "width": 400
+        },
+        "title": "Andredivisjonslag skrev historie – Kjelsås til klubbens første kvartfinale i cupen",
+        "url": "https://www.vg.no/sport/fotball/i/wAkBKM/cupen"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Qq69A",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Qq69A",
+        "preamble": "VG følger cupens  4. runde her.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 18:30:37",
+            "niceformat": "28.06.2023, 18:30",
+            "timestamp": "2023-06-28T16:30:37.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/c3162154-66f4-4f44-8d78-13f2b7a6d110?fit=crop&format=auto&h=267&w=400&s=24155b1bbc5cdec4c63b9ec211a8c0d8db132014",
+            "width": 400
+        },
+        "title": "Følg 4. runde i cupen her",
+        "url": "https://www.vg.no/sport/fotball/i/0Qq69A/foelg-4-runde-i-cupen-her"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Qq6Bg",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Qq6Bg",
+        "preamble": "Chelsea-keeper Edouard Mendy bytter ut London med Saudi-Arabia.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 18:12:04",
+            "niceformat": "28.06.2023, 18:12",
+            "timestamp": "2023-06-28T16:12:04.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/3eebd9d9-6933-4d3c-9ee0-281b93596aa0?fit=crop&format=auto&h=267&w=400&s=eb93e078094666fc4d6b34da5e31fbf3178fad06",
+            "width": 400
+        },
+        "title": "Ny Chelsea-spiller til Saudi-Arabia – Mendy klar for Al Ahly",
+        "url": "https://www.vg.no/sport/fotball/i/0Qq6Bg/mendy-klar-for-al-ahly"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAkBPn",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAkBPn",
+        "preamble": "Mesterligafinalen for kvinner i 2025 spilles på Estádio José Alvalade i Portugal. Det er hjemmearenaen til Sporting Lisboa.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 17:04:24",
+            "niceformat": "28.06.2023, 17:04",
+            "timestamp": "2023-06-28T15:04:24.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/7771a783-209c-4969-8bde-8171fb7c30ef?fit=crop&format=auto&h=267&w=400&s=1f90897bfd3648ae085e61e094df1ddf290764da",
+            "width": 400
+        },
+        "title": "Lisboa tildelt kvinnenes Champions League-finale i 2025",
+        "url": "https://www.vg.no/sport/fotball/i/wAkBPn/lisboa-tildelt-kvinnenes-champions-league-finale-i-2025"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5Be43K",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5Be43K",
+        "preamble": "Opprett egen liga og mål krefter mot venner, familie og kolleger i VM-profeten under sommerens fotball-VM for kvinner i Australia og New Zealand.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 16:54:35",
+            "niceformat": "28.06.2023, 16:54",
+            "timestamp": "2023-06-28T14:54:35.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/4bb1af44-c220-49c3-ae20-0703b407fbea?fit=crop&format=auto&h=267&w=400&s=83184e4f6a884c9b94ced2820cfa9ee52087c073",
+            "width": 400
+        },
+        "title": "Fotball-VM 2023: Bli med på VM-profeten",
+        "url": "https://www.vg.no/sport/fotball/i/5Be43K/fotball-vm-for-kvinner-2023-tipp-resultatene-i-vm-profeten"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Qq82B",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Qq82B",
+        "preamble": "Erling Moe (52) fortsetter som Molde-trener ut 2024.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 16:03:41",
+            "niceformat": "28.06.2023, 16:03",
+            "timestamp": "2023-06-28T14:03:41.000Z"
+        },
+        "thumbnail": {
+            "height": 272,
+            "url": "https://akamai.vgc.no/v2/images/868c6d3d-9f76-421b-8aab-4a9c97618d18?fit=crop&format=auto&h=272&w=400&s=af7cb55b175bd5f7bfbe44f3d6bf580cce484cb5",
+            "width": 400
+        },
+        "title": "Erling Moe forlenger med Molde",
+        "url": "https://www.vg.no/sport/fotball/i/0Qq82B/erling-moe-forlenger-med-molde"
+    }
+]

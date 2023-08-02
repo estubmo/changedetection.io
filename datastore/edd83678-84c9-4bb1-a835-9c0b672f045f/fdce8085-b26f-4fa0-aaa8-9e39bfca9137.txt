@@ -1,0 +1,194 @@
+[
+    {
+        "slug": "sokna-slo-utleira-2-i-maalfest",
+        "url": "/lokalfotballen/i/5BM51X/sokna-slo-utleira-2-i-maalfest",
+        "title": {
+            "value": "Sokna slo Utleira 2 i målfest"
+        },
+        "description": "Elise Sommervold Fagerbæk viste scoringsform da Sokna seiret 5-3 over Utleira 2 i 4. divisjon, Trøndelag - Avdeling 3 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-31T20:17:08Z",
+        "lastModifiedAt": "2023-05-31T20:17:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-gauldalsposten",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "maalene-rant-inn-for-johannes-steigedal",
+        "url": "/lokalfotballen/i/76Lr2W/maalene-rant-inn-for-johannes-steigedal",
+        "title": {
+            "value": "Johannes Steigedal scoret hattrick mot Charlottenlund"
+        },
+        "description": "Strindheim slo Charlottenlund 7-1 og har dermed tatt poeng i åtte strake kamper i G19 Elite, Vår onsdag. Johannes Steigedal slo til med hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-31T20:03:17Z",
+        "lastModifiedAt": "2023-05-31T20:33:38Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "skaun-2-seiret-over-orkla-2",
+        "url": "/lokalfotballen/i/onBqqV/skaun-2-seiret-over-orkla-2",
+        "title": {
+            "value": "Skaun 2 slo Orkla 2 på hjemmebane"
+        },
+        "description": "Skaun 2 slo Orkla 2 3-0 og fikk dermed med seg tre poeng i G16 3. divisjon, Avdeling 2 - Vår onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-31T19:45:47Z",
+        "lastModifiedAt": "2023-05-31T20:05:25Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "nordahl-dobbel-for-ntnui-2",
+        "url": "/lokalfotballen/i/mQaqqg/nordahl-dobbel-for-ntnui-2",
+        "title": {
+            "value": "Dobbel fra Nordahl for NTNUI 2"
+        },
+        "description": "Jonas Nordahl scoret to av målene da NTNUI 2 vant 3-2 over Dolmøy i 5. divisjon, Trøndelag - Avdeling 2 i fotball onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-31T19:41:33Z",
+        "lastModifiedAt": "2023-05-31T20:02:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya"
+        ]
+    },
+    {
+        "slug": "utleira-seier-over-vestbyen-nationalkameratene-sverresborg",
+        "url": "/lokalfotballen/i/0Q018B/utleira-seier-over-vestbyen-nationalkameratene-sverresborg",
+        "title": {
+            "value": "Utleira vant over Vestbyen/Nationalkameratene/Sverresborg"
+        },
+        "description": "Utleira slo Vestbyen/Nationalkameratene/Sverresborg 2-1 på Hallset kunstgress i J15 2. divisjon, Avdeling 4 - Vår onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-31T19:06:17Z",
+        "lastModifiedAt": "2023-05-31T19:34:11Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "khaled-mohamed-ahmed-mahmoud-i-scoringshumoer-mot-froeya-il-2-9er",
+        "url": "/lokalfotballen/i/wAXqp4/khaled-mohamed-ahmed-mahmoud-i-scoringshumoer-mot-froeya-il-2-9er",
+        "title": {
+            "value": "Nettsus for Khaled Mohamed Ahmed Mahmoud"
+        },
+        "description": "Khaled Mohamed Ahmed Mahmoud viste scoringsform da KIL/Hemne 9er seiret 3-2 over Frøya IL 2 9er i G14 9er, Avdeling 3 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-31T18:23:59Z",
+        "lastModifiedAt": "2023-05-31T18:36:38Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    },
+    {
+        "slug": "rbk-styrets-beskjed-til-rekdal-der-maa-vi-se-forbedring",
+        "url": "/sport/fotball/i/eJmVXa/rbk-styrets-beskjed-til-rekdal-der-maa-vi-se-forbedring",
+        "title": {
+            "value": "Klar beskjed til Rekdal: - Der må vi se forbedring"
+        },
+        "description": "Først la Kjetil Rekdal fram en presentasjon for styret. Etterpå fikk han spørsmål om særlig to ting.",
+        "imageUrl": "0bdbc452-25ba-467c-a465-e22f5c176e4e",
+        "publishedAt": "2023-05-31T18:09:50Z",
+        "lastModifiedAt": "2023-05-31T19:07:32Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "cecilie-gotaas-johnsen",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "videre-i-cupen-etter-knepen-seier-mot-bydelslag",
+        "url": "/sport/fotball/i/2BKWXv/videre-i-cupen-etter-knepen-seier-mot-bydelslag",
+        "title": {
+            "value": "– Hadde nesten vært bedre å tape mer"
+        },
+        "description": "Kun ett mål skilte lagene da Tiller inviterte til cupfest.",
+        "imageUrl": "ec1d8545-19a9-4efa-8add-1603a7176237",
+        "publishedAt": "2023-05-31T17:50:37Z",
+        "lastModifiedAt": "2023-05-31T18:43:38Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "tiller",
+            "rosenborg-kvinner"
+        ]
+    },
+    {
+        "slug": "byaasen-viste-muskler-i-dagens-toppkamp",
+        "url": "/lokalfotballen/i/bgWVok/byaasen-viste-muskler-i-dagens-toppkamp",
+        "title": {
+            "value": "Byåsen kunne juble etter toppkampen"
+        },
+        "description": "Byåsen sikret alle poengene da Strindheim 2 ble slått 3-0 i G14 1. divisjon, Avdeling 2 - Vår. Byåsen har seks seirer på sine sju siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-31T17:44:41Z",
+        "lastModifiedAt": "2023-05-31T18:04:15Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "rekdal-fortsetter-som-rbk-trener",
+        "url": "/sport/fotball/i/0Q014M/rekdal-fortsetter-som-rbk-trener",
+        "title": {
+            "value": "- Det har ikke gått så bra som vi trodde"
+        },
+        "description": "Kjetil Rekdal fortsetter som RBK-trener. Styret har ikke gitt ham resultatkrav, men treneren erkjenner at trenden må snu.",
+        "imageUrl": "f9fc9bf1-6a7e-4dc8-8770-19997624c25f",
+        "publishedAt": "2023-05-31T17:21:36Z",
+        "lastModifiedAt": "2023-05-31T18:21:30Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "rosenborg-bk",
+            "cecilie-gotaas-johnsen"
+        ]
+    }
+]

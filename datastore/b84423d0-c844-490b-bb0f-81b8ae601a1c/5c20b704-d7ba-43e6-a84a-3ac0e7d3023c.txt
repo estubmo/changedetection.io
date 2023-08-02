@@ -1,0 +1,374 @@
+[
+    {
+        "authors": [
+            {
+                "email": "leif.welhaven@vg.no",
+                "id": "e46ed1bb-8354-4bd4-97d3-09ac43c5dc8f",
+                "name": "Leif Welhaven"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BWqo49",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BWqo49",
+        "preamble": "Denne feiringen må ha gitt Brann-spillerne langt mer energi enn de brukte på å rusle litt i komfortabelt fottøy.",
+        "published": {
+            "date": "onsdag 17. mai",
+            "datetime": "2023-05-17 17:49:51",
+            "niceformat": "17.05.2023, 17:49",
+            "timestamp": "2023-05-17T15:49:51.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/7ca0753a-8617-47c7-897d-eee68771d4a7?fit=crop&format=auto&h=267&w=400&s=2c2d7af4c89c54499c16d33bc1b8679cf023ece7",
+            "width": 400
+        },
+        "title": "Årets teiteste debatt",
+        "url": "https://www.vg.no/sport/fotball/i/BWqo49/aarets-teiteste-debatt"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "LlqEw4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/LlqEw4",
+        "preamble": "MANCHESTER (VG) Manchester City-sjef Pep Guardiola insisterer på at ettermælet hans allerede er fantastisk. Men han vet at han alltid vil bli minnet på trofeet som mangler.",
+        "published": {
+            "date": "onsdag 17. mai",
+            "datetime": "2023-05-17 16:15:12",
+            "niceformat": "17.05.2023, 16:15",
+            "timestamp": "2023-05-17T14:15:12.000Z"
+        },
+        "thumbnail": {
+            "height": 301,
+            "url": "https://akamai.vgc.no/v2/images/409dc2d8-115a-4416-9858-6aa3a1483fb8?fit=crop&format=auto&h=301&w=400&s=82c9a60614ead13e16fc113fd98ccd6621f087f6",
+            "width": 400
+        },
+        "title": "Grealish-bildet avslørte Manchester Citys store drøm",
+        "url": "https://www.vg.no/sport/fotball/i/LlqEw4/jack-grealish-bildet-avsloerer-manchester-citys-store-droem"
+    },
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            },
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "bgoEpA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/bgoEpA",
+        "preamble": "Brann-spillernes deltakelse i 17. mai-toget har skapt debatt. Onsdag var David Møller Wolfe og lagkameratene ute i gatene for å møte folket på nasjonaldagen.",
+        "published": {
+            "date": "onsdag 17. mai",
+            "datetime": "2023-05-17 12:23:28",
+            "niceformat": "17.05.2023, 12:23",
+            "timestamp": "2023-05-17T10:23:28.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/d8e0dd71-95a5-4a60-923f-8a390c7309dd?fit=crop&format=auto&h=267&w=400&s=e807eb5b1e4aa81c0e139858f99e9587a3689460",
+            "width": 400
+        },
+        "title": "Brann-spillerne i 17. mai-toget etter kritikken: – Det har vi kontroll på",
+        "url": "https://www.vg.no/sport/fotball/i/bgoEpA/brann-spillerne-fulgte-ekspertens-raad-det-har-vi-kontroll-paa"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BWqOk7",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BWqOk7",
+        "preamble": "ÅRÅSEN (VG) Thomas Lehne Olsen (31) var ikke i LSKs startoppstilling mot Sarpsborg 08. Fra sidelinjen så storscoreren laget havne under med to mål.",
+        "published": {
+            "date": "onsdag 17. mai",
+            "datetime": "2023-05-17 11:09:19",
+            "niceformat": "17.05.2023, 11:09",
+            "timestamp": "2023-05-17T09:09:19.000Z"
+        },
+        "thumbnail": {
+            "height": 264,
+            "url": "https://akamai.vgc.no/v2/images/91dea807-ec53-44e6-bad9-0935c70f907c?fit=crop&format=auto&h=264&w=400&s=f13164d22274d57190f6a243d568360703b5c4c2",
+            "width": 400
+        },
+        "title": "Lehne Olsen benket mot sin vilje i LSK-tap",
+        "url": "https://www.vg.no/sport/fotball/i/BWqOk7/thomas-lehne-olsen-benket-mot-sin-vilje-saa-lsk-rakne-mot-sarpsborg-08"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJX3oO",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJX3oO",
+        "preamble": "TRONDHEIM (VG) Kjetil Rekdal (54) har kalt det  «naivt å forvente at gutter på 20 år skal briljere på Lerkendal». Sverre Nypan (16) virker imidlertid å være et unntak.",
+        "published": {
+            "date": "onsdag 17. mai",
+            "datetime": "2023-05-17 08:25:54",
+            "niceformat": "17.05.2023, 08:25",
+            "timestamp": "2023-05-17T06:25:54.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/d44e2925-d3ce-4426-a265-d03ac449193a?fit=crop&format=auto&h=267&w=400&s=8399c69d97232221b326d8e0c28cd1332dae42b8",
+            "width": 400
+        },
+        "title": "Rekdal trekker frem 16-åring som mulig nøkkelmann: – Har kommet for å bli",
+        "url": "https://www.vg.no/sport/fotball/i/eJX3oO/rekdal-trekker-frem-16-aaring-som-mulig-noekkelmann-har-kommet-for-aa-bli"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAb1J4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAb1J4",
+        "preamble": "TRONDHEIM (VG) Kjetil Rekdal (54) har brukt en ung tropp som en del av forklaringen på RBKs trøbbel. Men VGs utregning viser at trønderne har vært «det eldste laget» i halvparten av kampene.",
+        "published": {
+            "date": "onsdag 17. mai",
+            "datetime": "2023-05-17 07:10:59",
+            "niceformat": "17.05.2023, 07:10",
+            "timestamp": "2023-05-17T05:10:59.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/289a0be1-d70a-4532-ba5f-d59699d46d74?fit=crop&format=auto&h=267&w=400&s=2740fd847457b016599d3696a1b926912785d89e",
+            "width": 400
+        },
+        "title": "VG-tall utfordrer Rekdals «ung-påstand» – slik forklarer han statistikken",
+        "url": "https://www.vg.no/sport/fotball/i/wAb1J4/vg-tall-utfordrer-rekdals-ung-paastand-slik-forklarer-han-statistikken"
+    },
+    {
+        "authors": [
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "y6bqlK",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/y6bqlK",
+        "preamble": "Duellen mellom Manchester City-spiss Erling Braut Haaland (22) og Real Madrid-stopper Antonio Rüdiger (30) preger de spanske avisene før onsdagens semifinale. ",
+        "published": {
+            "date": "onsdag 17. mai",
+            "datetime": "2023-05-17 04:22:58",
+            "niceformat": "17.05.2023, 04:22",
+            "timestamp": "2023-05-17T02:22:58.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/4700a4bc-8c8f-48b6-9760-fefb79bf9a1a?fit=crop&format=auto&h=267&w=400&s=9e6bf804c1a68974ecc3b511cfa95ce4e6cf651b",
+            "width": 400
+        },
+        "title": "Skarpt Haaland-fokus i Spania: – Han så til tider urolig ut",
+        "url": "https://www.vg.no/sport/fotball/i/y6bqlK/skarpt-haaland-fokus-i-spania-han-saa-til-tider-urolig-ut"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB-AFP"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JvgMw",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JvgMw",
+        "preamble": "Qatar-sjeiken Jassim Bin Hamad Al-Thani har levert et nytt og forbedret bud på Manchester United, sier en kilde nær budgiveren til nyhetsbyrået AFP.",
+        "published": {
+            "date": "onsdag 17. mai",
+            "datetime": "2023-05-17 00:22:46",
+            "niceformat": "17.05.2023, 00:22",
+            "timestamp": "2023-05-16T22:22:46.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/b6ef9902-ab6e-40d7-834a-e04bf6e575a3?fit=crop&format=auto&h=267&w=400&s=a32f14f4e3482f983260a9b83dc8c71a725fb7e0",
+            "width": 400
+        },
+        "title": "Medier: Sjeik Jassim har økt budet på Manchester United",
+        "url": "https://www.vg.no/sport/fotball/i/8JvgMw/qatar-sjeik-skal-ha-oekt-budet-paa-manchester-united"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            },
+            {
+                "email": "oyvind.herrebroden@vg.no",
+                "id": "7b5d0009-0f34-41e3-b5af-dcf22addbd42",
+                "name": "Øyvind Herrebrøden"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPpmkV",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPpmkV",
+        "preamble": "(Viking-Odd 3-2) – Den er langt på utsiden! fastslo en bombastisk Morten Langli i TV 2s fotballstudio. Men i VAR-rommet fant man ingen bilder som kunne bevise akkurat det.",
+        "published": {
+            "date": "tirsdag 16. mai",
+            "datetime": "2023-05-16 23:26:54",
+            "niceformat": "16.05.2023, 23:26",
+            "timestamp": "2023-05-16T21:26:54.000Z"
+        },
+        "thumbnail": {
+            "height": 227,
+            "url": "https://akamai.vgc.no/v2/images/133199d4-5633-49c3-8529-25d5f021580a?fit=crop&format=auto&h=227&w=400&s=5642c8b7cf9a76b71541727034e79854d5a4197a",
+            "width": 400
+        },
+        "title": "TV 2s eksperter ropte om feil  – men VAR-rommet hadde ikke gode bilder",
+        "url": "https://www.vg.no/sport/fotball/i/VPpmkV/tv-2s-eksperter-ropte-om-feil-men-var-rommet-hadde-ikke-gode-bilder"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "APqokM",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/APqokM",
+        "preamble": "(Inter – Milan 1–0, 3–0 sammenlagt) Inter sikret seg et godt utgangspunkt med 2–0-seier i den første av to semifinaler mot Milan. Det klarte aldri byrivalen å hente inn.",
+        "published": {
+            "date": "tirsdag 16. mai",
+            "datetime": "2023-05-16 22:52:10",
+            "niceformat": "16.05.2023, 22:52",
+            "timestamp": "2023-05-16T20:52:10.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/fddf4b8c-7481-4b2f-850b-636772b7bf1f?fit=crop&format=auto&h=267&w=400&s=52217959c15480582b8de98822f381f76967cc3b",
+            "width": 400
+        },
+        "title": "«Milan-dödaren» sendte Inter til Champions League-finale",
+        "url": "https://www.vg.no/sport/fotball/i/APqokM/inter-til-champions-league-finale"
+    }
+]

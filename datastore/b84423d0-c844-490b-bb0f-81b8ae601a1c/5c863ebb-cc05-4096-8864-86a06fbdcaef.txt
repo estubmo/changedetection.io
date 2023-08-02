@@ -1,0 +1,361 @@
+[
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAXE9G",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAXE9G",
+        "preamble": "Manchester United kan måtte klare seg uten Marcus Rashford også i lørdagens viktige bortekamp mot Bournemouth.",
+        "published": {
+            "date": "fredag 19. mai",
+            "datetime": "2023-05-19 13:25:38",
+            "niceformat": "19.05.2023, 13:25",
+            "timestamp": "2023-05-19T11:25:38.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/48f9290c-a0f1-4451-85e8-67a10a3c7f11?fit=crop&format=auto&h=267&w=400&s=5e8d8fb249936e4c801ef6097b221148638a2dd3",
+            "width": 400
+        },
+        "title": "Syk Rashford kan miste ny United-kamp",
+        "url": "https://www.vg.no/sport/fotball/i/wAXE9G/syk-rashford-kan-miste-ny-united-kamp"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JWw5r",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JWw5r",
+        "preamble": "Brentford-trener Thomas Frank har kommet med en støtteerklæring til Ivan Toney etter spissen ble utestengt i åtte måneder for brudd på gamblingreglene.",
+        "published": {
+            "date": "fredag 19. mai",
+            "datetime": "2023-05-19 12:52:28",
+            "niceformat": "19.05.2023, 12:52",
+            "timestamp": "2023-05-19T10:52:28.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/fa103404-974e-4e77-904e-60e943214709?fit=crop&format=auto&h=267&w=400&s=0f75acaf3c274495fcf2e472eff60025ae314a10",
+            "width": 400
+        },
+        "title": "Brentford-sjefen støtter utestengt stjerne: – Han er også et menneske",
+        "url": "https://www.vg.no/sport/fotball/i/8JWw5r/brentford-sjefen-med-stoette-til-utestengt-stjerne-han-er-ogsaa-et-menneske"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76Ll33",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76Ll33",
+        "preamble": "Kong Harald uteblir fra årets cupfinale mellom Brann og Lillestrøm lørdag.",
+        "published": {
+            "date": "fredag 19. mai",
+            "datetime": "2023-05-19 12:21:19",
+            "niceformat": "19.05.2023, 12:21",
+            "timestamp": "2023-05-19T10:21:19.000Z"
+        },
+        "thumbnail": {
+            "height": 278,
+            "url": "https://akamai.vgc.no/v2/images/7b3a44b1-ce56-4c46-9f4e-151405e82b69?fit=crop&format=auto&h=278&w=400&s=446c1d48556d2fd4f244063c367f11c7bdd12071",
+            "width": 400
+        },
+        "title": "Kongen kommer ikke på cupfinalen",
+        "url": "https://www.vg.no/sport/fotball/i/76Ll33/kongen-kommer-ikke-paa-cupfinalen"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76Ll63",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76Ll63",
+        "preamble": "Chelsea-stjernen Guro Reiten og Arsenal-profil Frida Maanum er blant de åtte spillerne som er nominert til prisen som årets spiller i den engelske superligaen.",
+        "published": {
+            "date": "fredag 19. mai",
+            "datetime": "2023-05-19 12:16:45",
+            "niceformat": "19.05.2023, 12:16",
+            "timestamp": "2023-05-19T10:16:45.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a554d5cc-a2a6-448e-84f7-50ae02b07153?fit=crop&format=auto&h=267&w=400&s=9114ce8051fd5f6ae9af056f1eebfa7564029224",
+            "width": 400
+        },
+        "title": "Reiten og Maanum kan bli årets spiller i den engelske superligaen",
+        "url": "https://www.vg.no/sport/fotball/i/76Ll63/reiten-og-maanum-kan-bli-aarets-spiller-i-den-engelske-superligaen"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O8Pnb1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O8Pnb1",
+        "preamble": "Arsenal-trener Mikel Arteta bekrefter at både Gabriel Martinelli og Oleksandr Zintsjenko vil være ute av spill resten av sesongen.",
+        "published": {
+            "date": "fredag 19. mai",
+            "datetime": "2023-05-19 11:37:58",
+            "niceformat": "19.05.2023, 11:37",
+            "timestamp": "2023-05-19T09:37:58.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/48ee2a6c-84ea-41ba-b354-f3be6fa0f6e2?fit=crop&format=auto&h=267&w=400&s=614cbb8b7ef8eea56fb8b6627b8a798c538bf2c3",
+            "width": 400
+        },
+        "title": "Arsenal-stjerner mister resten av sesongen: – Ganske stygg skade",
+        "url": "https://www.vg.no/sport/fotball/i/O8Pnb1/arsenal-stjerner-mister-resten-av-sesongen-ganske-stygg-skade"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76LnXB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76LnXB",
+        "preamble": "Aune Heggebø sliter med en leggskade og blir ikke spilleklar til Branns cupfinale mot Lillestrøm på Ullevaal stadion lørdag, melder BA.",
+        "published": {
+            "date": "fredag 19. mai",
+            "datetime": "2023-05-19 11:23:08",
+            "niceformat": "19.05.2023, 11:23",
+            "timestamp": "2023-05-19T09:23:08.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/dce7ca60-f437-4ce9-b455-6b082430130c?fit=crop&format=auto&h=267&w=400&s=97409cf946104ed42bf860a6d40d3aac420a8dc7",
+            "width": 400
+        },
+        "title": "Branns Heggebø mister cupfinalen med skade",
+        "url": "https://www.vg.no/sport/fotball/i/76LnXB/branns-heggeboe-mister-cupfinalen-med-skade"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwP5yX",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwP5yX",
+        "preamble": "12 år etter overgangen fra Blackburn er Phil Jones (31) ferdig i Manchester United.",
+        "published": {
+            "date": "fredag 19. mai",
+            "datetime": "2023-05-19 11:07:42",
+            "niceformat": "19.05.2023, 11:07",
+            "timestamp": "2023-05-19T09:07:42.000Z"
+        },
+        "thumbnail": {
+            "height": 259,
+            "url": "https://akamai.vgc.no/v2/images/46cf25b4-84c7-403b-937e-b8752cea1480?fit=crop&format=auto&h=259&w=400&s=9e42f4cf768a829e3944bb0be04bb226819f891a",
+            "width": 400
+        },
+        "title": "Phil Jones ferdig i Manchester United: – Det har vært veldig vanskelig",
+        "url": "https://www.vg.no/sport/fotball/i/dwP5yX/phil-jones-ferdig-i-manchester-united"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQ547l",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQ547l",
+        "preamble": "Gresset på Ullevaal stadion er i bedring, men det er fortsatt ikke optimalt foran lørdagens cupfinale mellom Lillestrøm og Brann.",
+        "published": {
+            "date": "fredag 19. mai",
+            "datetime": "2023-05-19 11:02:18",
+            "niceformat": "19.05.2023, 11:02",
+            "timestamp": "2023-05-19T09:02:18.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0239dbdc-8aaf-46a6-ac4c-06b1c3b3ab63?fit=crop&format=auto&h=267&w=400&s=e66c8e3c941835884dff6648f031250e36f026a3",
+            "width": 400
+        },
+        "title": "Stri jobb med Ullevaal-gresset før cupfinalen: – Det visuelle inntrykket er ikke optimalt",
+        "url": "https://www.vg.no/sport/fotball/i/EQ547l/stri-jobb-med-ullevaal-gresset-foer-cupfinalen-det-visuelle-inntrykket-er-ikke-optimalt"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "trond.johannessen@vg.no",
+                "id": "13d85b67-6e63-41d4-a85c-65a952496c1d",
+                "name": "Trond Johannessen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwP5bj",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwP5bj",
+        "preamble": "ALS-rammede Egil «Snapper’n» Johansen (61) ble hyllet på Vålerengas hjemmebane 16.mai. Han kaller opplevelsen «uforglemmelig».",
+        "published": {
+            "date": "fredag 19. mai",
+            "datetime": "2023-05-19 10:22:42",
+            "niceformat": "19.05.2023, 10:22",
+            "timestamp": "2023-05-19T08:22:42.000Z"
+        },
+        "thumbnail": {
+            "height": 306,
+            "url": "https://akamai.vgc.no/v2/images/15118058-1789-400b-ad77-ec3e8509d59c?fit=crop&format=auto&h=306&w=400&s=4159058c846bbe0446a151cbfa2a09285055c866",
+            "width": 400
+        },
+        "title": "«Snapper’n» ble hyllet på fotballens nasjonaldag: – En uforglemmelig opplevelse",
+        "url": "https://www.vg.no/sport/fotball/i/dwP5bj/egil-snappern-johansen-ble-hyllet-paa-fotballens-nasjonaldag-en-uforglemmelig-opplevelse"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "bgo3gA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/bgo3gA",
+        "preamble": "MANCHESTER (VG) Dette bildet av en tilsynelatende hoverende Pep Guardiola og hans indre krets vekker nå oppsikt i Spania.",
+        "published": {
+            "date": "fredag 19. mai",
+            "datetime": "2023-05-19 07:05:09",
+            "niceformat": "19.05.2023, 07:05",
+            "timestamp": "2023-05-19T05:05:09.000Z"
+        },
+        "thumbnail": {
+            "height": 293,
+            "url": "https://akamai.vgc.no/v2/images/fc3378c1-df91-4c9b-b6cd-de7f53d70921?fit=crop&format=auto&h=293&w=400&s=3b83a0ea922ac66c4e3b6103209c96539e734e01",
+            "width": 400
+        },
+        "title": "Fire fingre fra Guardiola – dette bildet får oppmerksomhet i Spania ",
+        "url": "https://www.vg.no/sport/fotball/i/bgo3gA/fire-fingre-fra-guardiola-dette-bildet-faar-oppmerksomhet-i-spania"
+    }
+]

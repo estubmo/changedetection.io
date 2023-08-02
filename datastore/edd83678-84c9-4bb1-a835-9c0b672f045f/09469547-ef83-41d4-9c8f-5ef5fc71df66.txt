@@ -1,0 +1,204 @@
+[
+    {
+        "slug": "junkeren-tok-ledelsen-men-maatte-se-seg-slaatt-til-slutt",
+        "url": "/lokalfotballen/i/rlGR2l/junkeren-tok-ledelsen-men-maatte-se-seg-slaatt-til-slutt",
+        "title": {
+            "value": "Junkeren tok ledelsen, men måtte se seg slått til slutt"
+        },
+        "description": "Junkeren ble knust 4-1 av Levanger i 2. divisjon, Avdeling 2 i fotball lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T12:57:02Z",
+        "lastModifiedAt": "2023-04-29T12:57:02Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "ranheim-kan-ta-fire-paa-rad-foelg-kampen-direkte",
+        "url": "/sport/fotball/i/dwb11z/ranheim-kan-ta-fire-paa-rad-foelg-kampen-direkte",
+        "title": {
+            "value": "Ranheim kan ta fire på rad: Følg kampen her"
+        },
+        "description": "Ranheim møter Skeid på hjemmebane. Følg kampen direkte her.",
+        "imageUrl": "c6b0318d-1dd9-4ea6-b04e-90378f74cbef",
+        "publishedAt": "2023-04-29T12:56:39Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "ranheim-tf"
+        ]
+    },
+    {
+        "slug": "nardo-tap-mot-tiller",
+        "url": "/lokalfotballen/i/vez7PV/nardo-tap-mot-tiller",
+        "title": {
+            "value": "Borteseier for Tiller over Nardo"
+        },
+        "description": "Nardo ble slått 1-2 av Tiller på Nissekollen i G14 1. divisjon, Avdeling 2 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T12:07:35Z",
+        "lastModifiedAt": "2023-04-29T12:17:42Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "bortetap-for-tiller-mot-utleira",
+        "url": "/lokalfotballen/i/wA0Gmn/bortetap-for-tiller-mot-utleira",
+        "title": {
+            "value": "Bortetap for Tiller mot Utleira"
+        },
+        "description": "Utleira fikk med seg alle poengene da Tiller ble slått 2-0 i J14 1. divisjon, Avdeling 1 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T12:05:34Z",
+        "lastModifiedAt": "2023-04-29T12:17:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "gi-meg-et-kopplam",
+        "url": "/magasin/i/69yrvL/gi-meg-et-kopplam",
+        "title": {
+            "value": "Å kalle det vakkert når vi går inn og ut av streik er vel å sminke grisen?"
+        },
+        "description": null,
+        "imageUrl": "d1a59692-d2f0-44be-bb25-c9bda31a15b2",
+        "publishedAt": "2023-04-29T11:38:53Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Norunn Bergesen"
+        ],
+        "tags": [
+            "tankestreif",
+            "vaar",
+            "streik",
+            "loennsoppgjoer",
+            "sau",
+            "lam"
+        ]
+    },
+    {
+        "slug": "den-foelsomme-kameraten",
+        "url": "/magasin/i/764LbB/den-foelsomme-kameraten",
+        "title": {
+            "value": "- Jeg kunne bruke dagen på å glane inn i et tomt Word-dokument"
+        },
+        "description": "Byens LO-leder tar gjerne noen spontane dansetrinn på sin vei gjennom byen. Han føler seg mer enn ung nok til slike påfunn.",
+        "imageUrl": "129afe29-10d7-4f22-ab75-759ecf801f84",
+        "publishedAt": "2023-04-29T09:48:12Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Åge Winge",
+            "Richard Sagen (foto)"
+        ],
+        "tags": [
+            "ada-hegerberg",
+            "motorpsycho",
+            "trondheim",
+            "john-peder-denstad",
+            "aage-winge",
+            "1-mai",
+            "folkets-hus",
+            "politikk",
+            "fagforening",
+            "streik",
+            "broennoeysund",
+            "ukeadressa",
+            "fotball",
+            "hockeysveis"
+        ]
+    },
+    {
+        "slug": "rbk-profilens-nye-liv-det-er-mange-som-kommenterer-haaret-mitt",
+        "url": "/sport/fotball/i/wA0Q01/rbk-profilens-nye-liv-det-er-mange-som-kommenterer-haaret-mitt",
+        "title": {
+            "value": "RBK-profilen flyttet fra mamma og alene til Trondheim: - Enklere for meg "
+        },
+        "description": "Jayden Nelson flyttet rett fra gutterommet til en alenetilværelse i Trondheim. Nå forteller han om savnet av kjæresten, kravene fra fansen - og sitt eget hår.",
+        "imageUrl": "c318da36-6a27-45f8-aa20-1bd84f97b5a7",
+        "publishedAt": "2023-04-29T09:43:11Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen",
+            "Christine Schefte (foto)"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/GMnLPl/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag, lørdag 28. april.",
+        "imageUrl": "d39ac4a9-b137-4e4f-8ecb-0c6e762cb76e",
+        "publishedAt": "2023-04-29T07:48:10Z",
+        "lastModifiedAt": "2023-04-29T07:48:10Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "maatte-stanse-folk-i-doeren-naa-tar-rbk-grep",
+        "url": "/sport/fotball/i/kEyOMj/maatte-stanse-folk-i-doeren-naa-tar-rbk-grep",
+        "title": {
+            "value": "Måtte stanse folk i døren: Nå tar RBK grep"
+        },
+        "description": "Publikumsøkningen på Koteng Arena får konsekvenser.",
+        "imageUrl": "c07cf877-f242-47c2-b175-6a0262683e0e",
+        "publishedAt": "2023-04-29T05:51:39Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "fotball",
+            "toppserien",
+            "tore-bjoerseth-berdal"
+        ]
+    },
+    {
+        "slug": "uavgjort-i-maalfest-mellom-kattem-og-charlottenlund-2",
+        "url": "/lokalfotballen/i/WReKVa/uavgjort-i-maalfest-mellom-kattem-og-charlottenlund-2",
+        "title": {
+            "value": "Uavgjort i målfest mellom Kattem og Charlottenlund 2"
+        },
+        "description": "Charlottenlund 2 var på vei mot seier, men måtte nøye seg med 6-6 mot Kattem i 6. divisjon, Trøndelag - Avdeling 3 i fotball fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T00:17:22Z",
+        "lastModifiedAt": "2023-04-29T00:47:30Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

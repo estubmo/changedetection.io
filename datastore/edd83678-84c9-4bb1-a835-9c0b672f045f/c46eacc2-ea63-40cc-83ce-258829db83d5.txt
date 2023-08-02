@@ -1,0 +1,190 @@
+[
+    {
+        "slug": "strindheim-2-slo-malvik-2-hommelvik-2-paa-hjemmebane",
+        "url": "/lokalfotballen/i/onlyLV/strindheim-2-slo-malvik-2-hommelvik-2-paa-hjemmebane",
+        "title": {
+            "value": "Strindheim 2 slo Malvik 2/Hommelvik 2 på hjemmebane"
+        },
+        "description": "Strindheim 2 slo Malvik 2/Hommelvik 2 6-1 og sikret dermed alle poengene i J17 2. divisjon, Avdeling 1 - Vår torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T21:03:54Z",
+        "lastModifiedAt": "2023-05-11T21:03:54Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "overhalla-senket-av-rosoe",
+        "url": "/lokalfotballen/i/zEbzRb/overhalla-senket-av-rosoe",
+        "title": {
+            "value": "Overhalla senket av Rosø"
+        },
+        "description": "Vuku snudde 0-1 til 2-1-seier over Overhalla i 4. divisjon, Trøndelag - Avdeling 1 i fotball torsdag. Overhalla har gått poengløse av banen i to strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T21:01:16Z",
+        "lastModifiedAt": "2023-05-11T21:39:25Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "bromet-scoret-to-for-charlottenlund-2",
+        "url": "/lokalfotballen/i/8JvVbE/bromet-scoret-to-for-charlottenlund-2",
+        "title": {
+            "value": "Bromet ble tomålshelt"
+        },
+        "description": "Leah Åmotsbakken Bromet scoret to mål og hjalp Charlottenlund 2 til 6-2-seier over Nidelv i 4. divisjon, Trøndelag - Avdeling 2 torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T21:01:14Z",
+        "lastModifiedAt": "2023-05-11T21:39:25Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "selbu-vant-igjen",
+        "url": "/lokalfotballen/i/onlxJW/selbu-vant-igjen",
+        "title": {
+            "value": "Selbu seiret i målfest"
+        },
+        "description": "Oda Marlene Valli viste scoringsform da Selbu vant 6-0 over Trond i 4. divisjon, Trøndelag - Avdeling 2 i fotball. Trond har tapt alle kampene sine hittil denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T21:01:13Z",
+        "lastModifiedAt": "2023-05-11T21:39:27Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "maalshow-fra-langlo",
+        "url": "/lokalfotballen/i/Xbp3Gg/maalshow-fra-langlo",
+        "title": {
+            "value": "Langlo bøttet inn mål for Ranheim 3"
+        },
+        "description": "Leinstrand/Byneset gikk på sitt femte tap på rad da klubben røk 1-11 for Ranheim 3 i 4. divisjon, Trøndelag - Avdeling 3 i fotball for kvinner torsdag. Tuva Elise Langlo scoret fire ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T21:01:12Z",
+        "lastModifiedAt": "2023-05-11T21:39:32Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "haugen-boettet-inn-maal-mot-kil-hemne-2",
+        "url": "/lokalfotballen/i/APqB8z/haugen-boettet-inn-maal-mot-kil-hemne-2",
+        "title": {
+            "value": "Haugen med målshow"
+        },
+        "description": "Ingrid Jenssen Haugen ledet an med fire mål i 11-1-seieren over KIL/Hemne 2 i 4. divisjon, Trøndelag - Avdeling 2 i fotball torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T21:01:11Z",
+        "lastModifiedAt": "2023-05-11T21:39:24Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "utleira-2-tok-sin-femte-strake-seier",
+        "url": "/lokalfotballen/i/RGqXPJ/utleira-2-tok-sin-femte-strake-seier",
+        "title": {
+            "value": "Utleira 2 fortsatte seiersrekken"
+        },
+        "description": "Utleira 2 seiret 3-1 over Vestbyen 2 på hjemmebane i 4. divisjon, Trøndelag - Avdeling 3 torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T21:01:11Z",
+        "lastModifiedAt": "2023-05-11T21:39:25Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "moellevik-avgjorde-for-melhus-3",
+        "url": "/lokalfotballen/i/15degG/moellevik-avgjorde-for-melhus-3",
+        "title": {
+            "value": "Møllevik senket Trønder-Lyn 2"
+        },
+        "description": "Tor-Ove Myhre Møllevik scoret det avgjørende målet da Melhus 3 slo Trønder-Lyn 2 1-0 i 6. divisjon, Trøndelag - Avdeling 6 torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T20:59:40Z",
+        "lastModifiedAt": "2023-05-11T21:38:10Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "namdalseid-med-borteseier-over-soerlia-innherred-2",
+        "url": "/lokalfotballen/i/Q7qXnW/namdalseid-med-borteseier-over-soerlia-innherred-2",
+        "title": {
+            "value": "Namdalseid slo Sørlia/Innherred 2 på bortebane"
+        },
+        "description": "Namdalseid banket Sørlia/Innherred 2 3-0 i 6. divisjon, Trøndelag - Avdeling 1 i fotball torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T20:59:40Z",
+        "lastModifiedAt": "2023-05-11T21:38:12Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "hattrick-show-fra-steinkjer-2",
+        "url": "/lokalfotballen/i/dwpaoj/hattrick-show-fra-steinkjer-2",
+        "title": {
+            "value": "Røstad scoret hattrick mot Hegra/Skjelstadmark"
+        },
+        "description": "Steinkjer 2 knuste Hegra/Skjelstadmark 14-0 i 4. divisjon, Trøndelag - Avdeling 1 torsdag. Hegra/Skjelstadmark har ikke tatt ett eneste poeng i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T20:59:39Z",
+        "lastModifiedAt": "2023-05-11T21:39:24Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    }
+]

@@ -1,0 +1,199 @@
+[
+    {
+        "slug": "kompisen-hans-trener-sjuaaringer-og-er-stjerne-paa-rbk",
+        "url": "/sport/fotball/i/jlpJEw/kompisen-hans-trener-sjuaaringer-og-er-stjerne-paa-rbk",
+        "title": {
+            "value": "Kompisen hans trener sjuåringer og er stjerne på RBK"
+        },
+        "description": "– Jeg så ikke helt for meg ham som hovedtrener. Men han en veldig godt likt type, og måten han har bygget seg opp er imponerende.",
+        "imageUrl": "61004d09-7e5e-43f0-8626-3331b863080c",
+        "publishedAt": "2023-04-30T09:32:02Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "premier-league",
+            "markus-henriksen",
+            "manchester-united",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/BWv98e/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag.",
+        "imageUrl": "8187b61e-f4d9-4ebd-a946-24763362288f",
+        "publishedAt": "2023-04-30T04:00:53Z",
+        "lastModifiedAt": "2023-04-30T04:00:53Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "maalshow-fra-andreas-nikolaisen-nygaard",
+        "url": "/lokalfotballen/i/3EX0VL/maalshow-fra-andreas-nikolaisen-nygaard",
+        "title": {
+            "value": "Andreas Nikolaisen Nygård bøttet inn mål mot Levanger 2"
+        },
+        "description": "Levanger 2 tapte 0-9 da Andreas Nikolaisen Nygård scoret fem av målene for Ranheim 2 i G16 1. divisjon, Avdeling 1 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T18:48:03Z",
+        "lastModifiedAt": "2023-04-29T19:18:23Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "hun-ble-dagens-ivers-gjoer-nesten-ingen-feil",
+        "url": "/sport/fotball/i/4oXe9G/hun-ble-dagens-ivers-gjoer-nesten-ingen-feil",
+        "title": {
+            "value": "Hun ble dagens Ivers: «Gjør nesten ingen feil»"
+        },
+        "description": "I en trygg 3–0-seier var Emilie Joramo banens beste.",
+        "imageUrl": "f2eb8162-6bcf-4e91-925c-3a819c2f40b9",
+        "publishedAt": "2023-04-29T18:15:26Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "fotball",
+            "rosenborg-bk",
+            "toppserien",
+            "rosenborg-kvinner"
+        ]
+    },
+    {
+        "slug": "slo-tilbake-etter-smellen",
+        "url": "/sport/fotball/i/eJyLAO/slo-tilbake-etter-smellen",
+        "title": {
+            "value": "Tangerte «personlig rekord»: - Hun bekrefter hvilken spiller hun er"
+        },
+        "description": "Emilie Joramo scoret sitt andre mål for sesongen. Det er ikke tilfeldig.",
+        "imageUrl": "65572999-9b01-4ea8-b643-de7c46bc3d46",
+        "publishedAt": "2023-04-29T16:33:52Z",
+        "lastModifiedAt": "2023-04-29T17:50:10Z",
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "rosenborg-kvinner",
+            "norsk-fotball",
+            "toppserien",
+            "emilie-joramo",
+            "elin-soerum",
+            "anna-joesendal"
+        ]
+    },
+    {
+        "slug": "laanke-gikk-paa-sitt-tredje-nederlag-paa-rad",
+        "url": "/lokalfotballen/i/pQ42WE/laanke-gikk-paa-sitt-tredje-nederlag-paa-rad",
+        "title": {
+            "value": "Stygt tap for Lånke"
+        },
+        "description": "Lånke tapte 0-5 da Petter Sagvold scoret tre av målene for Vuku i 4. divisjon, Trøndelag - Avdeling 1 i fotball for menn lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T16:04:47Z",
+        "lastModifiedAt": "2023-04-29T18:17:46Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "nytt-tap-for-namsos",
+        "url": "/lokalfotballen/i/l3l2VL/nytt-tap-for-namsos",
+        "title": {
+            "value": "Tredje strake nederlag for Namsos"
+        },
+        "description": "Trygg/Lade knuste Namsos 5-1 i 4. divisjon, Trøndelag - Avdeling 1 lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T16:04:46Z",
+        "lastModifiedAt": "2023-04-29T16:17:51Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "alvheim-avgjorde-for-kristiansund-2",
+        "url": "/lokalfotballen/i/bgaxGe/alvheim-avgjorde-for-kristiansund-2",
+        "title": {
+            "value": "Steinkjer ble slått av Kristiansund 2"
+        },
+        "description": "Leander Alvheim ble matchvinner med sin 2-1-scoring da Kristiansund 2 slo Steinkjer i 3. divisjon, Avdeling 5 i fotball for menn. Det var Steinkjers andre tap på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T16:03:43Z",
+        "lastModifiedAt": "2023-04-29T19:18:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "to-fulltreffere-fra-bakken",
+        "url": "/lokalfotballen/i/MopGLo/to-fulltreffere-fra-bakken",
+        "title": {
+            "value": "Malvik 2 tapte mot Namsos"
+        },
+        "description": "Emilie Sørensen Bakken scoret begge målene for Namsos og ble den store helten i 2-0-seieren over Malvik 2 i 4. divisjon, Trøndelag - Avdeling 1 i fotball for kvinner lørdag. Malvik 2 har gått poengløse av banen i to strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T16:00:42Z",
+        "lastModifiedAt": "2023-04-29T16:20:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "storseier-for-kvik",
+        "url": "/lokalfotballen/i/Q73zyx/storseier-for-kvik",
+        "title": {
+            "value": "Tungt nederlag for Strindheim 2"
+        },
+        "description": "David Melkvik scoret to mål da Kvik vant 4-0 over Strindheim 2 i 4. divisjon, Trøndelag - Avdeling 2 i fotball for menn lørdag. Strindheim 2 har ikke tatt poeng på de siste to kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T15:59:42Z",
+        "lastModifiedAt": "2023-04-29T16:17:51Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

@@ -1,0 +1,389 @@
+[
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "abdra4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/abdra4",
+        "preamble": "VALLE (VG) Etter helgens tap ligger Vålerenga på direkte nedrykksplass. Nå får lagkaptein Stefan Strandberg (33) det glatte lag av supporterne. ",
+        "published": {
+            "date": "mandag 31. juli",
+            "datetime": "2023-07-31 04:20:18",
+            "niceformat": "31.07.2023, 04:20",
+            "timestamp": "2023-07-31T02:20:18.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/1185eb98-2f34-4212-9e75-d56bbdbabdc3?fit=crop&format=auto&h=267&w=400&s=6c5e1da8b15f4755b8bbaf539018361e19878116",
+            "width": 400
+        },
+        "title": "Forsvarer Strandberg mot frustrerte supportere: – Info som ikke alle vet",
+        "url": "https://www.vg.no/sport/fotball/i/abdra4/forsvarer-stefan-strandberg-mot-frustrerte-supportere"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgWAK8",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgWAK8",
+        "preamble": "(Bodø/Glimt – Tromsø 0–2) En svært sjelden Glimt-smell gjør at det virkelig tetter seg til i toppen av Eliteserien. Nå er Tromsø for alvor et lag å regne med.",
+        "published": {
+            "date": "søndag 30. juli",
+            "datetime": "2023-07-30 21:07:03",
+            "niceformat": "30.07.2023, 21:07",
+            "timestamp": "2023-07-30T19:07:03.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/yh_EeGFfwsf0.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "TIL rystet Bodø/Glimt og blåser liv i gullstriden: – Ikke et blaff",
+        "url": "https://www.vg.no/sport/fotball/i/xgWAK8/til-rystet-bodoe-glimt-og-blaaser-liv-i-gullstriden"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJBWml",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJBWml",
+        "preamble": "(Brann – Viking 0–2) Branns fantastiske hjemmerekke tok slutt i vestlandsderbyet mot Viking etter en «genistrek» av Zlatko Tripic (30).",
+        "published": {
+            "date": "søndag 30. juli",
+            "datetime": "2023-07-30 18:59:00",
+            "niceformat": "30.07.2023, 18:59",
+            "timestamp": "2023-07-30T16:59:00.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/UVMIt8C540cr.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Brann med første hjemmetap på 609 dager – Viking med syv strake seire",
+        "url": "https://www.vg.no/sport/fotball/i/eJBWml/brann-med-foerste-hjemmetap-paa-609-dager-viking-med-syv-strake-seire"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4ogjle",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4ogjle",
+        "preamble": "(Rosenborg – Odd 3–2) Rosenborg vartet opp med en ellevill snuoperasjon mot Odd. På veien fikk de god hjelp av Solomon Owusu, som ble utvist etter kvelertak.",
+        "published": {
+            "date": "søndag 30. juli",
+            "datetime": "2023-07-30 18:54:03",
+            "niceformat": "30.07.2023, 18:54",
+            "timestamp": "2023-07-30T16:54:03.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/B2I3OtdfYN-B.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Rosenborg snudde kampen etter katastrofestart",
+        "url": "https://www.vg.no/sport/fotball/i/4ogjle/rosenborg-snudde-kampen-mot-odd-etter-marerittstart"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgWAvB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgWAvB",
+        "preamble": "(Lillestrøm – HamKam 3–1) Akor Adams (23) blir tidenes dyreste Lillestrøm-salg. Mandag reiser han til Frankrike for å fullføre overgangen til Montpellier.",
+        "published": {
+            "date": "søndag 30. juli",
+            "datetime": "2023-07-30 18:16:53",
+            "niceformat": "30.07.2023, 18:16",
+            "timestamp": "2023-07-30T16:16:53.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/lpQ7L3fJ2oDu.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Opplysninger til VG: Akor Adams reiser til Frankrike mandag",
+        "url": "https://www.vg.no/sport/fotball/i/xgWAvB/opplysninger-til-vg-akor-adams-reiser-til-frankrike-mandag"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "2Blnka",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/2Blnka",
+        "preamble": "Newcastle er blitt enige med saudiarabiske Al-Ahli om en overgang for vingen Allan Saint-Maximin (26).",
+        "published": {
+            "date": "søndag 30. juli",
+            "datetime": "2023-07-30 17:51:33",
+            "niceformat": "30.07.2023, 17:51",
+            "timestamp": "2023-07-30T15:51:33.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/fcc9adba-75d1-44fe-b68c-e6fd719d0b9e?fit=crop&format=auto&h=267&w=400&s=cb58f43d8af936e9c1e01fc474d61220141d4474",
+            "width": 400
+        },
+        "title": "Newcastle-stjerne klar for saudiarabisk klubb",
+        "url": "https://www.vg.no/sport/fotball/i/2Blnka/allan-saint-maximin-solgt-til-saudi-arabia"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "ve1WV5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/ve1WV5",
+        "preamble": "(Manchester City - Atletico Madrid 1–2) Manchester City og Erling Braut Haaland (23) fikk til lite mot Atletico Madrid i sommerens siste treningskamp. Om en uke begynner alvoret.",
+        "published": {
+            "date": "søndag 30. juli",
+            "datetime": "2023-07-30 15:35:03",
+            "niceformat": "30.07.2023, 15:35",
+            "timestamp": "2023-07-30T13:35:03.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/zKEffc9ognx1.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Manchester City skuffet i generalprøven",
+        "url": "https://www.vg.no/sport/fotball/i/ve1WV5/manchester-city-skuffet-i-generalproeven"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQgWnb",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQgWnb",
+        "preamble": "(Tyskland – Colombia 1–2) Den unge juvelen Linda Caicedo (18) ble igjen toneangivende med et drømmetreff da Colombia slo Tyskland i en dramatisk kamp i fotball-VM søndag.",
+        "published": {
+            "date": "søndag 30. juli",
+            "datetime": "2023-07-30 13:43:38",
+            "niceformat": "30.07.2023, 13:43",
+            "timestamp": "2023-07-30T11:43:38.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/-JC5FNfrchX1.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Colombia sjokkerte Tyskland – vant etter overtidsscoring",
+        "url": "https://www.vg.no/sport/fotball/i/JQgWnb/fotball-vm-colombia-sjokkerte-tyskland-vant-etter-overtidsscoring"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            },
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwB5OO",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwB5OO",
+        "preamble": "AUCKLAND (VG) (Norge – Filippinene 6–0) Sophie Román Haug (24) leverte i Ada Hegerbergs skadefravær. Nå mener fotballekspert Carl-Erik Torp at Roma-spissen bør starte foran Hegerberg i åttedelsfinalen i VM.",
+        "published": {
+            "date": "søndag 30. juli",
+            "datetime": "2023-07-30 12:30:58",
+            "niceformat": "30.07.2023, 12:30",
+            "timestamp": "2023-07-30T10:30:58.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/4df4b8f9-d408-4b10-8da8-7ed00c741ad9?fit=crop&format=auto&h=267&w=400&s=78fcd17e30deebb1e709b9fd7d3c346815d315b2",
+            "width": 400
+        },
+        "title": "Román Haug takker Hegerberg etter hat tricket: – Veldig stort",
+        "url": "https://www.vg.no/sport/fotball/i/dwB5OO/roman-haug-takker-hegerberg-etter-hat-tricket"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            },
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "magnus.helle@schibsted.com",
+                "id": "465b91ad-0c13-4b04-8be8-4dbb0cc0080a",
+                "name": "Magnus Helle"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5BQmae",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5BQmae",
+        "preamble": "AUCKLAND / OSLO (VG) (Norge – Filippinene 6–0) En heltent Caroline Graham Hansen (28) herjet på høyrekanten, mens Sophie Román Haug (24) viste at hun kanskje burde starte, selv når Ada Hegerberg er tilbake fra skade.",
+        "published": {
+            "date": "søndag 30. juli",
+            "datetime": "2023-07-30 11:01:39",
+            "niceformat": "30.07.2023, 11:01",
+            "timestamp": "2023-07-30T09:01:39.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/d96b0e66-0fa2-493d-86f5-f797b6ee3285?fit=crop&format=auto&h=267&w=400&s=43a76875450d19bfaf6194b85633d7ded8041750",
+            "width": 400
+        },
+        "title": "VG-børsen: For en revansj, Graham Hansen!",
+        "url": "https://www.vg.no/sport/fotball/i/5BQmae/vg-boersen-for-en-revansj-graham-hansen"
+    }
+]

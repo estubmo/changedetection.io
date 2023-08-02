@@ -1,0 +1,195 @@
+[
+    {
+        "slug": "eskil-22-bestemte-seg-for-aa-flytte-fra-trondheim-da-skjedde-det-noe-med-spillet-hans",
+        "url": "/sport/i/y6bgrr/eskil-22-bestemte-seg-for-aa-flytte-fra-trondheim-da-skjedde-det-noe-med-spillet-hans",
+        "title": {
+            "value": "Bestemte seg for å flytte fra Trondheim. Da skjedde det noe med spillet hans "
+        },
+        "description": "– Nå syns jeg det er kjempeartig. Jeg bare går ut på banen og koser meg, sier Eskil Dahl Reitan.",
+        "imageUrl": "087f3439-4ee9-4711-a8da-1f2b36885bfa",
+        "publishedAt": "2023-05-09T07:36:24Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "eskil-dahl-reitan",
+            "haandball",
+            "janus-smarason",
+            "torbjoern-bergerud",
+            "magnus-gullerud"
+        ]
+    },
+    {
+        "slug": "namdalseid-senket-av-borgan",
+        "url": "/lokalfotballen/i/mQp8Pl/namdalseid-senket-av-borgan",
+        "title": {
+            "value": "Namdalseid senket av Borgan"
+        },
+        "description": "Etter dagens 2-1-seier står Kvam med full pott så langt denne sesongen. I 6. divisjon, Trøndelag - Avdeling 1 i fotball for menn mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-08T21:50:10Z",
+        "lastModifiedAt": "2023-05-08T21:50:10Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "fjerde-strake-seier-for-tiller-2",
+        "url": "/lokalfotballen/i/APqpLn/fjerde-strake-seier-for-tiller-2",
+        "title": {
+            "value": "Fjerde seier på rad for Tiller 2"
+        },
+        "description": "Charlottenlund gikk på sitt tredje tap på rad da laget røk 0-3 for Tiller 2 i 3. divisjon, Trøndelag i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-08T21:10:57Z",
+        "lastModifiedAt": "2023-05-08T22:18:41Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ntnui-knuste-tangmoen",
+        "url": "/lokalfotballen/i/8JvEQw/ntnui-knuste-tangmoen",
+        "title": {
+            "value": "Knusende seier for NTNUI"
+        },
+        "description": "Med 5-0-seier over Tangmoen tok NTNUI sin femte strake seier i 4. divisjon, Trøndelag - Avdeling 1 i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-08T21:02:53Z",
+        "lastModifiedAt": "2023-05-08T21:21:27Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "scoringslykke-for-tangstad",
+        "url": "/lokalfotballen/i/2BJmGl/scoringslykke-for-tangstad",
+        "title": {
+            "value": "Beitstad fortsatte seiersrekken"
+        },
+        "description": "Med 4-2-seier over Snåsa tok Beitstad sin femte strake seier i 6. divisjon, Trøndelag - Avdeling 1 i fotball for menn. Joakim Lind Tangstad scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-08T20:35:49Z",
+        "lastModifiedAt": "2023-05-08T20:53:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "forseth-ble-helten-for-gimse-melhus-gauldal",
+        "url": "/lokalfotballen/i/4o0mda/forseth-ble-helten-for-gimse-melhus-gauldal",
+        "title": {
+            "value": "Forseth sikret seieren for Gimse/Melhus/Gauldal"
+        },
+        "description": "Gimse/Melhus/Gauldal tok sine første poeng på tre kamper da Steinkjer ble slått 2-1 i 3. divisjon, Trøndelag i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-08T20:22:49Z",
+        "lastModifiedAt": "2023-05-08T20:52:20Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "roeros-os-nansen-slo-tylldal-paa-hjemmebane",
+        "url": "/lokalfotballen/i/jlbK9L/roeros-os-nansen-slo-tylldal-paa-hjemmebane",
+        "title": {
+            "value": "Røros/Os/Nansen slo Tylldal på hjemmebane"
+        },
+        "description": "Røros/Os/Nansen fikk med seg alle poengene da Tylldal ble slått 2-0 i 6. divisjon, Trøndelag - Avdeling 6 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-08T20:12:13Z",
+        "lastModifiedAt": "2023-05-08T21:21:27Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "storseier-for-ranheim",
+        "url": "/lokalfotballen/i/RGqmPW/storseier-for-ranheim",
+        "title": {
+            "value": "Storseier for Ranheim"
+        },
+        "description": "Erika Sandsør viste scoringsform da Ranheim vant 8-3 over Levanger i 3. divisjon, Trøndelag mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-08T19:58:57Z",
+        "lastModifiedAt": "2023-05-08T21:20:26Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "nationalkameratene-2-ydmyket-orkanger-2",
+        "url": "/lokalfotballen/i/mQpLG4/nationalkameratene-2-ydmyket-orkanger-2",
+        "title": {
+            "value": "Nationalkameratene 2 knuste Orkanger 2"
+        },
+        "description": "Nationalkameratene 2 knuste Orkanger 2 8-0 i 6. divisjon, Trøndelag - Avdeling 4 i fotball. Orkanger 2 har tapt de siste to kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-08T19:57:55Z",
+        "lastModifiedAt": "2023-05-08T21:50:11Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "dobbel-fra-brekken-for-beitstad-7er",
+        "url": "/lokalfotballen/i/onlvdR/dobbel-fra-brekken-for-beitstad-7er",
+        "title": {
+            "value": "Brekken ble tremålshelt"
+        },
+        "description": "Christina Brekken ledet an med tre av målene i 5-3-seieren over Namdalseid 7er i 7er, Trøndelag - Avdeling 1 i fotball mandag. Namdalseid 7er har tapt to strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-08T19:52:21Z",
+        "lastModifiedAt": "2023-05-08T20:24:00Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    }
+]

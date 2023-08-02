@@ -1,0 +1,195 @@
+[
+    {
+        "slug": "stuedahl-karlsen-i-scoringshumoer-mot-tynset",
+        "url": "/lokalfotballen/i/rl3gkR/stuedahl-karlsen-i-scoringshumoer-mot-tynset",
+        "title": {
+            "value": "Stuedahl-Karlsen i scoringshumør mot Tynset"
+        },
+        "description": "Hedda Stuedahl-Karlsen scoret to ganger da Tiller vant 6-0 over Tynset i 2. divisjon, Avdeling 1 i fotball søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T14:59:07Z",
+        "lastModifiedAt": "2023-06-04T14:59:07Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "gamsten-scoring-og-strafferedning-i-ranheim-seier",
+        "url": "/sport/fotball/i/gEKWeB/gamsten-scoring-og-strafferedning-i-ranheim-seier",
+        "title": {
+            "value": "Gamsten-scoring og strafferedning i Ranheim-seier"
+        },
+        "description": "Morten Gamst Pedersen viste glimt av gammel storhet da han sikret seieren for Ranheim.",
+        "imageUrl": "0b82b7a8-ca9a-426e-9878-e37b64d0014c",
+        "publishedAt": "2023-06-04T14:57:41Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "fotball",
+            "sport",
+            "ranheim-tf"
+        ]
+    },
+    {
+        "slug": "dobbel-fra-lund-for-strindheim",
+        "url": "/lokalfotballen/i/dwzlyO/dobbel-fra-lund-for-strindheim",
+        "title": {
+            "value": "Nettsus for Lund"
+        },
+        "description": "Kolstad gikk på sitt tredje strake tap da klubben røk 1-5 for Strindheim i 3. divisjon, Avdeling 5 i fotball for menn søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T14:51:32Z",
+        "lastModifiedAt": "2023-06-04T14:53:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "storseier-for-ntnui",
+        "url": "/lokalfotballen/i/zEegqq/storseier-for-ntnui",
+        "title": {
+            "value": "Storseier for NTNUI"
+        },
+        "description": "Magnus Austbø Seth scoret to ganger da NTNUI vant 4-0 over Alvdal i 4. divisjon, Trøndelag - Avdeling 2 i fotball. NTNUI har tatt poeng i sine ni siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T14:29:12Z",
+        "lastModifiedAt": "2023-06-04T14:53:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "amazon-grimstad-knuste-rosenborg-2",
+        "url": "/lokalfotballen/i/mQWBq1/amazon-grimstad-knuste-rosenborg-2",
+        "title": {
+            "value": "Storseier for Amazon Grimstad"
+        },
+        "description": "Amazon Grimstad knuste Rosenborg 2 4-0 i 2. divisjon, Avdeling 1 i fotball søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T14:22:57Z",
+        "lastModifiedAt": "2023-06-04T14:52:36Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-fvn",
+            "lokalfotballen-gat",
+            "lokalfotballen-agderposten",
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "knusende-seier-for-melhus",
+        "url": "/lokalfotballen/i/Q7KmvA/knusende-seier-for-melhus",
+        "title": {
+            "value": "Melhus slo Tynset i målfest"
+        },
+        "description": "Melhus banket Tynset 6-1 i 4. divisjon, Trøndelag - Avdeling 2 i fotball for menn søndag. Det var Tynsets første tap i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T14:01:36Z",
+        "lastModifiedAt": "2023-06-04T14:24:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "to-fulltreffere-fra-kvakland",
+        "url": "/lokalfotballen/i/8Jz6ax/to-fulltreffere-fra-kvakland",
+        "title": {
+            "value": "Kvakland scoret to for Hitra"
+        },
+        "description": "Sindre Sætherbø Kvakland viste scoringsform da Hitra seiret 4-1 over Nardo 2 i 4. divisjon, Trøndelag - Avdeling 2 i fotball søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T13:58:26Z",
+        "lastModifiedAt": "2023-06-04T14:22:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya"
+        ]
+    },
+    {
+        "slug": "linea-solli-espnes-sikret-tre-poeng-for-froeya-il",
+        "url": "/lokalfotballen/i/eJ0Knl/linea-solli-espnes-sikret-tre-poeng-for-froeya-il",
+        "title": {
+            "value": "Linea Solli Espnes ble helten for Frøya IL"
+        },
+        "description": "Frøya IL snudde 0-1 til 2-1 mot Valsøyfjord/Halsa 9er i J15 2. divisjon, Avdeling 3 - Vår søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T13:54:16Z",
+        "lastModifiedAt": "2023-06-04T13:55:20Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    },
+    {
+        "slug": "se-vaar-ivers-sending-fra-lerkendal-direkte",
+        "url": "/sport/fotball/i/Lldnlq/se-vaar-ivers-sending-fra-lerkendal-direkte",
+        "title": {
+            "value": "Sortkledde supportere med stille protest"
+        },
+        "description": "RBK-trener Kjetil Rekdal stempler kampen som «ekstremt viktig». Klokka 16.30 starter vår Ivers-sending fra indre bane på Lerkendal.",
+        "imageUrl": "92dc22b7-f1e3-405b-b68c-02bdd13edb32",
+        "publishedAt": "2023-06-04T12:54:20Z",
+        "lastModifiedAt": "2023-06-04T14:54:16Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "eliteserien"
+        ]
+    },
+    {
+        "slug": "matilde-bentzen-hammer-med-maalshow",
+        "url": "/lokalfotballen/i/LldnX9/matilde-bentzen-hammer-med-maalshow",
+        "title": {
+            "value": "Matilde Bentzen Hammer scoret hattrick mot Følling / Kvam 9er"
+        },
+        "description": "Ranheim 2 slo Følling/Kvam 9er 6-0 og har dermed tatt poeng i sju strake kamper Matilde Bentzen Hammer slo til med hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T11:47:10Z",
+        "lastModifiedAt": "2023-06-04T11:53:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    }
+]

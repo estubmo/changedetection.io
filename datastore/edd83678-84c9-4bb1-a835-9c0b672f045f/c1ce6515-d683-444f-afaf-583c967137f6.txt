@@ -1,0 +1,193 @@
+[
+    {
+        "slug": "maalshow-fra-homstad",
+        "url": "/lokalfotballen/i/bgWR0g/maalshow-fra-homstad",
+        "title": {
+            "value": "Målshow fra Homstad"
+        },
+        "description": "Lars Petter Homstad scoret tre ganger da Kolstad 2 vant 9-1 over Rissa i 6. divisjon, Trøndelag - Avdeling 3 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-01T20:12:44Z",
+        "lastModifiedAt": "2023-06-01T20:12:44Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "sverresborg-slo-ranheim-3-paa-hjemmebane",
+        "url": "/lokalfotballen/i/Q7OQvV/sverresborg-slo-ranheim-3-paa-hjemmebane",
+        "title": {
+            "value": "Sverresborg slo Ranheim 3 på hjemmebane"
+        },
+        "description": "Sverresborg slo Ranheim 3 3-2 på Havstein kunstgress i 4. divisjon, Trøndelag - Avdeling 3 i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-01T20:10:41Z",
+        "lastModifiedAt": "2023-06-01T20:10:41Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "fjerde-seier-paa-rad-for-roeros-os-nansen",
+        "url": "/lokalfotballen/i/O8PwK1/fjerde-seier-paa-rad-for-roeros-os-nansen",
+        "title": {
+            "value": "Fjerde seier på rad for Røros / Os / Nansen"
+        },
+        "description": "Røros/Os/Nansen slo Trønder-Lyn 2 hjemme 3-1 og tok dermed alle poengene i 6. divisjon, Trøndelag - Avdeling 6 i fotball for menn. Røros/Os/Nansen har vunnet fem av sine seks siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-01T20:09:40Z",
+        "lastModifiedAt": "2023-06-01T20:09:40Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "kaare-fikk-oensket-sitt-oppfylt-moeter-glimt-i-cupen",
+        "url": "/sport/fotball/i/BWdonQ/kaare-fikk-oensket-sitt-oppfylt-moeter-glimt-i-cupen",
+        "title": {
+            "value": " Sjekk hvilket lag RBKs overmenn møter i cupen"
+        },
+        "description": "Cupens tredje runde ble trukket sent torsdag kveld.",
+        "imageUrl": "08163c2c-3116-47a3-a748-46e2705f0a4a",
+        "publishedAt": "2023-06-01T20:08:37Z",
+        "lastModifiedAt": "2023-06-01T20:14:04Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "fotball",
+            "ranheim-tf"
+        ]
+    },
+    {
+        "slug": "orkla-knuste-nidelv",
+        "url": "/lokalfotballen/i/wAXwB5/orkla-knuste-nidelv",
+        "title": {
+            "value": "Orkla knuste Nidelv"
+        },
+        "description": "Orkla knuste Nidelv 12-1 i 4. divisjon, Trøndelag - Avdeling 2 i fotball for kvinner torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-01T20:04:14Z",
+        "lastModifiedAt": "2023-06-01T20:04:14Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "svinsaas-avgjorde-for-fram-remyra",
+        "url": "/lokalfotballen/i/JQMk9R/svinsaas-avgjorde-for-fram-remyra",
+        "title": {
+            "value": "Svinsås avgjorde for Fram / Remyra"
+        },
+        "description": "Astri Myhre Svinsås sikret tre poeng for Fram/Remyra da Namsos ble slått 3-2 i 4. divisjon, Trøndelag - Avdeling 1 i fotball for kvinner torsdag. Fram/Remyra har tatt poeng i sine fem siste hjemmekamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-01T20:04:14Z",
+        "lastModifiedAt": "2023-06-01T20:04:14Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "ntnui-vant-igjen",
+        "url": "/lokalfotballen/i/q1XGgz/ntnui-vant-igjen",
+        "title": {
+            "value": "Tredje strake seier for NTNUI"
+        },
+        "description": "NTNUI slo Steinkjer 2 2-0 på hjemmebane i 4. divisjon, Trøndelag - Avdeling 1 i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-01T19:45:54Z",
+        "lastModifiedAt": "2023-06-01T19:57:40Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "nettsus-for-norah-holm-kibsgaard",
+        "url": "/lokalfotballen/i/jlXoEq/nettsus-for-norah-holm-kibsgaard",
+        "title": {
+            "value": "Utleira tok sin fjerde seier på rad"
+        },
+        "description": "Utleira har tatt poeng i åtte kamper på rad etter dagens 5-0-seier",
+        "imageUrl": null,
+        "publishedAt": "2023-06-01T19:44:50Z",
+        "lastModifiedAt": "2023-06-01T19:57:39Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "full-eufori-etter-cupbomben-har-ikke-opplevd-noe-bedre",
+        "url": "/sport/fotball/i/bgWE3l/full-eufori-etter-cupbomben-har-ikke-opplevd-noe-bedre",
+        "title": {
+            "value": " - Jeg går på vannet i morgen"
+        },
+        "description": "Mens fortvilelsen var stor i Rosenborg-leiren, var gleden minst like stor for 2. divisjonslaget som tente cupbomben.",
+        "imageUrl": "7b52ea7c-f46c-4112-8ac0-9f895b0d2fbd",
+        "publishedAt": "2023-06-01T19:17:43Z",
+        "lastModifiedAt": "2023-06-01T19:30:11Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "stjoerdals-blink-fotball",
+            "kjetil-rekdal",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "rbk-kapteinen-er-klokkeklar-paa-spoersmaal-om-tillit-til-rekdal",
+        "url": "/sport/fotball/i/O8Pw0w/rbk-kapteinen-er-klokkeklar-paa-spoersmaal-om-tillit-til-rekdal",
+        "title": {
+            "value": "RBK-kapteinen er klokkeklar på spørsmål om tillit til Rekdal"
+        },
+        "description": "Markus Henriksen var tydelig da spørsmålet om Kjetil Rekdals framtid kom på banen.",
+        "imageUrl": "ddca3ab3-6903-4e01-8ce3-0899e5efafdc",
+        "publishedAt": "2023-06-01T19:12:04Z",
+        "lastModifiedAt": "2023-06-01T19:34:28Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold",
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "kjetil-rekdal"
+        ]
+    }
+]

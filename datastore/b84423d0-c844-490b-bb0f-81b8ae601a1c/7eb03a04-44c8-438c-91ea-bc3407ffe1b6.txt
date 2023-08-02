@@ -1,0 +1,374 @@
+[
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "mQpdVE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/mQpdVE",
+        "preamble": "MANCHESTER (VG) Manchester City-sjef Pep Guardiola tror lagets endringer før returoppgjøret mot Real Madrid vil gi Erling Braut Haaland (22) bedre arbeidsforhold.",
+        "published": {
+            "date": "søndag 14. mai",
+            "datetime": "2023-05-14 04:15:08",
+            "niceformat": "14.05.2023, 04:15",
+            "timestamp": "2023-05-14T02:15:08.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/5bea3bf1-7798-4f9f-977a-cbbe3ac5ef9d?fit=crop&format=auto&h=267&w=400&s=7d8cfc55f3e2e5ed0e4da18faf772f6ac81c90bc",
+            "width": 400
+        },
+        "title": "Guardiola gratulerer Rüdiger etter Haaland-duell: – Neste gang blir det kanskje lettere",
+        "url": "https://www.vg.no/sport/fotball/i/mQpdVE/guardiola-gratulerer-rudiger-etter-haaland-duell-neste-gang-blir-det-kanskje-lettere"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "pQbjOX",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/pQbjOX",
+        "preamble": "Lionel Messi var tilbake i Paris Saint-Germain-laget da Ajaccio ble slått 5-0 lørdag, men han fikk en blandet mottakelse fra klubbens tilhengere.",
+        "published": {
+            "date": "lørdag 13. mai",
+            "datetime": "2023-05-13 23:48:32",
+            "niceformat": "13.05.2023, 23:48",
+            "timestamp": "2023-05-13T21:48:32.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/9a511e4a-bceb-45c8-9734-7d1e0176402d?fit=crop&format=auto&h=267&w=400&s=6c442b85580f2e207c0b57ce82fc6f5157746865",
+            "width": 400
+        },
+        "title": "Målfest for PSG – blandet mottakelse for Messi ",
+        "url": "https://www.vg.no/sport/fotball/i/pQbjOX/maalfest-for-psg-blandet-mottakelse-for-messi"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "mQpjE0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/mQpjE0",
+        "preamble": "Et reservepreget Real Madrid-lag ladet opp til onsdagens returkamp mot Manchester City i mesterligaens semifinale med 1-0-seier over byrival Getafe.",
+        "published": {
+            "date": "lørdag 13. mai",
+            "datetime": "2023-05-13 23:47:36",
+            "niceformat": "13.05.2023, 23:47",
+            "timestamp": "2023-05-13T21:47:36.000Z"
+        },
+        "thumbnail": {
+            "height": 296,
+            "url": "https://akamai.vgc.no/v2/images/c875c4eb-4696-4be3-8c80-e480b9199163?fit=crop&format=auto&h=296&w=400&s=c865ca1671decbc26db39706273f8d52e53b8fa4",
+            "width": 400
+        },
+        "title": "Real Madrid ladet opp til returkampen mot City med seier ",
+        "url": "https://www.vg.no/sport/fotball/i/mQpjE0/real-madrid-ladet-opp-til-returkampen-mot-city-med-seier"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "y6bpkE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/y6bpkE",
+        "preamble": "Elias Kristoffersen Hagen (23) fikk en røff start etter overgangen til IFK Göteborg. Nå er han spilleren med flest målpoeng på laget, etter at treneren tok grep.",
+        "published": {
+            "date": "lørdag 13. mai",
+            "datetime": "2023-05-13 22:48:12",
+            "niceformat": "13.05.2023, 22:48",
+            "timestamp": "2023-05-13T20:48:12.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/2134b906-2f4b-45cb-952a-0e9c54efef60?fit=crop&format=auto&h=267&w=400&s=4891cfaded771411d9993eb0ca1030bee71312b8",
+            "width": 400
+        },
+        "title": "Allsvenskan-spilleren med stikk til Norge: – Flere har lyst å komme",
+        "url": "https://www.vg.no/sport/fotball/i/y6bpkE/allsvenskan-spilleren-med-stikk-til-norge-flere-har-lyst-aa-komme"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQqAvm",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQqAvm",
+        "preamble": "Det anerkjente nettstedet melder at Mauricio Pochettino blir Chelseas nye manager.",
+        "published": {
+            "date": "lørdag 13. mai",
+            "datetime": "2023-05-13 21:20:00",
+            "niceformat": "13.05.2023, 21:20",
+            "timestamp": "2023-05-13T19:20:00.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/5ebe72b4-4512-4b17-a382-dcd1569ee242?fit=crop&format=auto&h=267&w=400&s=092a7bdc92aa6338fe3c9afa04c797867dfa00c2",
+            "width": 400
+        },
+        "title": "The Athletic: Pochettino enig med Chelsea",
+        "url": "https://www.vg.no/sport/fotball/i/JQqAvm/the-athletic-pochettino-enig-med-chelsea"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "2BJA8y",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/2BJA8y",
+        "preamble": "(Haugesund - Vålerenga 1–1) Magnus Bech Riisnæs (18) startet sin første eliteseriekamp og takket for tilliten med scoring. Lagkamerat Henrik Bjørdal (26) misbrukte muligheten til å ta tre poeng like etterpå.",
+        "published": {
+            "date": "lørdag 13. mai",
+            "datetime": "2023-05-13 21:10:59",
+            "niceformat": "13.05.2023, 21:10",
+            "timestamp": "2023-05-13T19:10:59.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6a1924f0-238f-423d-8e90-b4de1e3c80f8?fit=crop&format=auto&h=267&w=400&s=15b386eb002a7d9f2a454ce8715073fcb2bb8a05",
+            "width": 400
+        },
+        "title": "18-åring reddet poeng for Vålerenga – Bjørdal bommet på straffe",
+        "url": "https://www.vg.no/sport/fotball/i/2BJA8y/18-aaring-reddet-poeng-for-vaalerenga-bjoerdal-bommet-paa-straffe"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            },
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O8q7pb",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O8q7pb",
+        "preamble": "(HamKam – Tromsø 1–2) HamKam-keeper Marcus Sandberg ble sendt i dusjen ni minutter på overtid etter et slag mot Tromsø-spiller Jostein Gundersen. Tromsø scoret på straffen og vant 2–1.",
+        "published": {
+            "date": "lørdag 13. mai",
+            "datetime": "2023-05-13 18:59:42",
+            "niceformat": "13.05.2023, 18:59",
+            "timestamp": "2023-05-13T16:59:42.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/c9de1378-47c6-45c8-afc7-6a56542c67a7?fit=crop&format=auto&h=267&w=400&s=003d654cd3a45876394374a242340fa295fba179",
+            "width": 400
+        },
+        "title": "Superdrama på overtid: Tromsø vant etter straffe og utvisning",
+        "url": "https://www.vg.no/sport/fotball/i/O8q7pb/superdrama-paa-overtid-tromsoe-vant-etter-straffe-og-utvisning-paa-overtid"
+    },
+    {
+        "authors": [
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            },
+            {
+                "email": "skandsen@vg.no",
+                "id": "f435294c-56cc-4c38-a714-d1f3f4e7a881",
+                "name": "Sondre Skandsen"
+            },
+            {
+                "id": "d27d8a2b-cf3c-4743-a55c-8c46458fde28",
+                "name": "Geir Juva"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "vebK2j",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/vebK2j",
+        "preamble": "BODØ (VG) (Bodø/Glimt – RBK 3–2) Amahl Pellegrino (32) kom med en tirade mot Rosenborg etter et herlig fotballdrama på Aspmyra. Selv blir Bodø/Glimt-stjernen stemplet som «sutrete». ",
+        "published": {
+            "date": "lørdag 13. mai",
+            "datetime": "2023-05-13 18:59:08",
+            "niceformat": "13.05.2023, 18:59",
+            "timestamp": "2023-05-13T16:59:08.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/b297978e-c869-4b89-8249-9cf9a4f027fa?fit=crop&format=auto&h=267&w=400&s=337ef3d6a156f4b70e431daf3eb01d58c1f7ba84",
+            "width": 400
+        },
+        "title": "Rosenborg-krisen ble forverret i Bodø - Pellegrino fyrte løs etter kamp",
+        "url": "https://www.vg.no/sport/fotball/i/vebK2j/skjelbred-utvist-da-rosenborg-krisen-ble-forverret-i-bodoe"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Qkx2g",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Qkx2g",
+        "preamble": "(Sarpsborg 08 - Brann 2–1) Sarpsborg 08 bydde på glimrende angrepsfotball før pause. Da holdt ikke Bård Finnes (28) drømmescoring til poeng for Brann.",
+        "published": {
+            "date": "lørdag 13. mai",
+            "datetime": "2023-05-13 18:55:48",
+            "niceformat": "13.05.2023, 18:55",
+            "timestamp": "2023-05-13T16:55:48.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/71b02da9-a5a1-413f-a1ba-4a34bed3d492?fit=crop&format=auto&h=267&w=400&s=1b069de1f4a568e5bdb3593fb7e816382d31a9a5",
+            "width": 400
+        },
+        "title": "Sambafotball senket Brann: − «Sarpelona»",
+        "url": "https://www.vg.no/sport/fotball/i/0Qkx2g/sambafotball-senket-brann-sarpelona"
+    },
+    {
+        "authors": [
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4qGre",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4qGre",
+        "preamble": "(Molde–Strømsgodset 3–2) Molde tok sin tredje strake seier, etter tre mål på tre langskudd.   ",
+        "published": {
+            "date": "lørdag 13. mai",
+            "datetime": "2023-05-13 18:55:27",
+            "niceformat": "13.05.2023, 18:55",
+            "timestamp": "2023-05-13T16:55:27.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/e988bd7f-22d4-4b3c-8a1c-736ba17d624a?fit=crop&format=auto&h=267&w=400&s=504a4e5ffbe13715f40eea2937b92c229bf03d34",
+            "width": 400
+        },
+        "title": "Molde slår tilbake etter svak sesongstart: Linnes med drømmetreff ",
+        "url": "https://www.vg.no/sport/fotball/i/P4qGre/molde-slo-stroemsgodset-martin-linnes-med-droemmescoring"
+    }
+]

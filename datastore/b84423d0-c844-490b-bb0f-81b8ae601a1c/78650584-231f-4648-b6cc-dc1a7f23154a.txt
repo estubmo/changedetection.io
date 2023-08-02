@@ -1,0 +1,361 @@
+[
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q17g2g",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q17g2g",
+        "preamble": "(Vålerenga - Åsane 4–1) Målene satt igjen løst for tabelleder Vålerenga i møtet med Åsane. Etter tre seiersløse kamper fikk Brann endelig inn en trepoenger.",
+        "published": {
+            "date": "lørdag 29. april",
+            "datetime": "2023-04-29 16:54:52",
+            "niceformat": "29.04.2023, 16:54",
+            "timestamp": "2023-04-29T14:54:52.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/63c142fc-b43f-4b73-ad34-b83af76d8061?fit=crop&format=auto&h=267&w=400&s=2ddd29a9114654b9c0a6c6b96f35ed27a2711be2",
+            "width": 400
+        },
+        "title": "Vålerenga fortsatte scoringsshowet – opptur for Brann",
+        "url": "https://www.vg.no/sport/fotball/i/q17g2g/vaalerenga-fortsatte-scoringsshowet-opptur-for-brann"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMnLdJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMnLdJ",
+        "preamble": "Borussia Dortmund raste etter at videodømmingen overså et klart straffespark i 1-1-kampen mot Bochum. Lørdag ble feilen anerkjent av Tysklands fotballforbund.",
+        "published": {
+            "date": "lørdag 29. april",
+            "datetime": "2023-04-29 16:02:49",
+            "niceformat": "29.04.2023, 16:02",
+            "timestamp": "2023-04-29T14:02:49.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/craTFGFsYNTr.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Forbundet erkjenner VAR-tabbe i Dortmunds poengtap",
+        "url": "https://www.vg.no/sport/fotball/i/GMnLdJ/forbundet-erkjenner-var-tabbe-i-dortmunds-poengtap"
+    },
+    {
+        "authors": [
+            {
+                "email": "per.opsahl@vg.no",
+                "id": "a8b54406-d047-4b1c-90e2-f9f77a0e7317",
+                "name": "Per Opsahl"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "rlGK6l",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/rlGK6l",
+        "preamble": "Brann-spillere stinne av selvtillit skal prøve seg mot serieleder Bodø/Glimt – det blir neppe kjedelig. ",
+        "published": {
+            "date": "lørdag 29. april",
+            "datetime": "2023-04-29 15:43:03",
+            "niceformat": "29.04.2023, 15:43",
+            "timestamp": "2023-04-29T13:43:03.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/efde9377-3747-4ec1-ae0e-1218308d8c42?fit=crop&format=auto&h=267&w=400&s=3536ee09385b1bbe3aed0422db35e6c6e82233d9",
+            "width": 400
+        },
+        "title": "Hyller Branns Glimt-stil: – Har levert fantastisk",
+        "url": "https://www.vg.no/sport/fotball/i/rlGK6l/spaar-offensiv-kamp-naar-bodoe-glimt-moeter-brann"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "vez7d5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/vez7d5",
+        "preamble": "Røa får likevel ta imot Stabæk på sin egen hjemmebane i Toppserien etter at det ble klart at klubben rekker å utbedre skadene på kunstgresset.",
+        "published": {
+            "date": "lørdag 29. april",
+            "datetime": "2023-04-29 13:26:05",
+            "niceformat": "29.04.2023, 13:26",
+            "timestamp": "2023-04-29T11:26:05.000Z"
+        },
+        "thumbnail": {
+            "height": 231,
+            "url": "https://akamai.vgc.no/v2/images/5d08c054-7990-4e4d-8b52-adb3f84fc443?fit=crop&format=auto&h=231&w=400&s=fd03f6354dbd5204e26e9baf8965101a125f57b8",
+            "width": 400
+        },
+        "title": "Røa garanterer for gode baneforhold – kampen mot Stabæk flyttes tilbake",
+        "url": "https://www.vg.no/sport/fotball/i/vez7d5/roea-garanterer-for-gode-baneforhold-kampen-mot-stabaek-flyttes-tilbake"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BWvKd0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BWvKd0",
+        "preamble": "Zlatan Ibrahimovic (41) sliter stort med skader og har spilt sin siste kamp for Milan denne sesongen, melder Gazzetta dello Sport.",
+        "published": {
+            "date": "lørdag 29. april",
+            "datetime": "2023-04-29 12:47:58",
+            "niceformat": "29.04.2023, 12:47",
+            "timestamp": "2023-04-29T10:47:58.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/2780683e-4018-41f1-9710-5764a4844e22?fit=crop&format=auto&h=267&w=400&s=8f18869a54a1c9a548cd7d8d90ed11b301934ca7",
+            "width": 400
+        },
+        "title": "Avis: Zlatans sesong er over",
+        "url": "https://www.vg.no/sport/fotball/i/BWvKd0/avis-zlatans-sesong-er-over"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            },
+            {
+                "email": "janne.moller-hansen@vg.no",
+                "id": "c15293f1-3f13-4d47-9234-1cae0482f62d",
+                "name": "Janne Møller-Hansen (foto) "
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kEyxJ6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kEyxJ6",
+        "preamble": "BRYNE (VG) På denne åkeren har Erling Braut Haaland dype familierøtter. Grandonkel Gabriel Høyland tror gode gener er en del av megasuksessen han opplever i Manchester City.",
+        "published": {
+            "date": "lørdag 29. april",
+            "datetime": "2023-04-29 09:40:44",
+            "niceformat": "29.04.2023, 09:40",
+            "timestamp": "2023-04-29T07:40:44.000Z"
+        },
+        "thumbnail": {
+            "height": 302,
+            "url": "https://akamai.vgc.no/v2/images/ee923563-d992-47ad-a3c9-ed1f8076ca07?fit=crop&format=auto&h=302&w=400&s=8ab662cb1a38e3361c110d36f3b2cb8bacb9ef20",
+            "width": 400
+        },
+        "title": "Bryne-legenden er Haalands grandonkel: – Han lykkes med alt ",
+        "url": "https://www.vg.no/sport/fotball/i/kEyxJ6/bryne-legenden-er-haalands-grandonkel-han-lykkes-med-alt"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5BOgnW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5BOgnW",
+        "preamble": "(Blackpool – Millwall 2–3) Blackpool slo tilbake to ganger, men kunne ikke hindre seier for gjestende Millwall. Dermed er klubben dømt til nedrykk fra Championship.",
+        "published": {
+            "date": "lørdag 29. april",
+            "datetime": "2023-04-29 08:17:00",
+            "niceformat": "29.04.2023, 08:17",
+            "timestamp": "2023-04-29T06:17:00.000Z"
+        },
+        "thumbnail": {
+            "height": 268,
+            "url": "https://akamai.vgc.no/v2/images/98490c3a-48b3-4092-af41-50cfb43c9db7?fit=crop&format=auto&h=268&w=400&s=825031d5aa08a6b8b28f4a001f39764d81484960",
+            "width": 400
+        },
+        "title": "Blackpool rykker ned fra Championship",
+        "url": "https://www.vg.no/sport/fotball/i/5BOgnW/blackpool-rykker-ned-fra-championship"
+    },
+    {
+        "authors": [
+            {
+                "email": "trond.johannessen@vg.no",
+                "id": "13d85b67-6e63-41d4-a85c-65a952496c1d",
+                "name": "Trond Johannessen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9zGAKw",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9zGAKw",
+        "preamble": "Erling Braut Haaland omtales som beist og monster og bulldoser, men er så mye mer. Nå er han i ferd med å oppheve fotballens tyngdekraft.",
+        "published": {
+            "date": "fredag 28. april",
+            "datetime": "2023-04-28 22:39:08",
+            "niceformat": "28.04.2023, 22:39",
+            "timestamp": "2023-04-28T20:39:08.000Z"
+        },
+        "thumbnail": {
+            "height": 279,
+            "url": "https://akamai.vgc.no/v2/images/82bc711c-5e1b-4cc3-b580-715a938ac40c?fit=crop&format=auto&h=279&w=400&s=17f6ae1cd1b974624cb836173d29a648c7f9f9b2",
+            "width": 400
+        },
+        "title": "Mye mer enn et beist – derfor er Haaland unik",
+        "url": "https://www.vg.no/sport/fotball/i/9zGAKw/mye-mer-enn-et-beist-derfor-er-haaland-unik"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4oXAx9",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4oXAx9",
+        "preamble": "(VFL Bochum – Borussia Dortmund 1–1) Borussia Dortmund fikk kun med seg ett poeng mot nedrykkstruede VFL Bochum, og raste på overtid.",
+        "published": {
+            "date": "fredag 28. april",
+            "datetime": "2023-04-28 22:30:19",
+            "niceformat": "28.04.2023, 22:30",
+            "timestamp": "2023-04-28T20:30:19.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/craTFGFsYNTr.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Drama da Dortmund misbrukte gyllen mulighet i tittelkampen",
+        "url": "https://www.vg.no/sport/fotball/i/4oXAx9/drama-da-dortmund-misbrukte-gyllen-mulighet-i-tittelkampen"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "XbeQjo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/XbeQjo",
+        "preamble": "Flere engelske medier hevder at Qatar-sjeiken Jassim Bin Hamad Al Thani gjør nok et fremstøt for å bli Manchester Uniteds nye eier.",
+        "published": {
+            "date": "fredag 28. april",
+            "datetime": "2023-04-28 19:58:25",
+            "niceformat": "28.04.2023, 19:58",
+            "timestamp": "2023-04-28T17:58:25.000Z"
+        },
+        "thumbnail": {
+            "height": 257,
+            "url": "https://akamai.vgc.no/v2/images/b12af5ff-ce16-4f32-a9d7-eb53aaadaa4d?fit=crop&format=auto&h=257&w=400&s=cd86d8eb536d537ec6a3834599cb81a0628fd14b",
+            "width": 400
+        },
+        "title": "Medier: Nytt Qatar-bud på Manchester United fredag",
+        "url": "https://www.vg.no/sport/fotball/i/XbeQjo/medier-nytt-qatar-bud-paa-manchester-united-fredag"
+    }
+]

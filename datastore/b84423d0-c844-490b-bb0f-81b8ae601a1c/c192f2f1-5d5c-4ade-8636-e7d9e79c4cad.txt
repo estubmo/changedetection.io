@@ -1,0 +1,377 @@
+[
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJwvdO",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJwvdO",
+        "preamble": "(England - Haiti 1–0) Etter 25 minutter måtte dommer Emikar Calderas oppsøke VAR-skjermen etter en uvanlig hands. VAR-straffen sikret England-seier – men ikke før på andre forsøk.",
+        "published": {
+            "date": "lørdag 22. juli",
+            "datetime": "2023-07-22 13:30:02",
+            "niceformat": "22.07.2023, 13:30",
+            "timestamp": "2023-07-22T11:30:02.000Z"
+        },
+        "thumbnail": {
+            "height": 263,
+            "url": "https://akamai.vgc.no/v2/images/4085fd2a-de74-4fca-83fd-3973b5955c28?fit=crop&format=auto&h=263&w=400&s=198aaf673b5341fb80baef65d3265e179286b6a1",
+            "width": 400
+        },
+        "title": "Absurd straffesituasjon sikret seier for England: – Hodemist",
+        "url": "https://www.vg.no/sport/fotball/i/eJwvdO/absurd-straffesituasjon-sikret-seier-for-england-hodemist"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QJzLA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QJzLA",
+        "preamble": "Dramatikken vil ingen ende ta for New Zealands VM-lag. Lørdag måtte de ut av hotellet etter at brannalarmen ble utløst, og en etterforskning har startet.",
+        "published": {
+            "date": "lørdag 22. juli",
+            "datetime": "2023-07-22 12:11:12",
+            "niceformat": "22.07.2023, 12:11",
+            "timestamp": "2023-07-22T10:11:12.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/1b955b6d-481f-4dbf-bc23-5072d46cecd1?fit=crop&format=auto&h=267&w=400&s=b92eb349ae8cc0a2328891e2a694bb0595fcd3e1",
+            "width": 400
+        },
+        "title": "New Zealands VM-tropp evakuert etter hotellbrann – etterforskning igangsatt",
+        "url": "https://www.vg.no/sport/fotball/i/0QJzLA/new-zealands-vm-tropp-evakuert-etter-hotellbrann"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQ2XA7",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQ2XA7",
+        "preamble": "TOKYO (VG) Dagen etter at Manchester City ankom Japan fikk Erling Braut Haaland (23) servert en overraskelse av Jack Grealish (27) på bursdagen sin.",
+        "published": {
+            "date": "lørdag 22. juli",
+            "datetime": "2023-07-22 08:03:50",
+            "niceformat": "22.07.2023, 08:03",
+            "timestamp": "2023-07-22T06:03:50.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/19b1598f-d5ad-4ca0-9826-3835e77a6a52?fit=crop&format=auto&h=267&w=400&s=d02d15ea979b284ca86fb2662caa4c31387b3fc9",
+            "width": 400
+        },
+        "title": "Haaland feiret i Japan: Bestekompisen overrasket med bursdagskake",
+        "url": "https://www.vg.no/sport/fotball/i/JQ2XA7/erling-braut-haaland-i-tokyo-ble-overrasket-paa-bursdagen-sin"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kELxzQ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kELxzQ",
+        "preamble": "AUCKLAND (VG) (USA – Vietnam 3–0) Her feirer USAs ferske kaptein Lindsey Horan (29) med legenden Megan Rapinoe (38). Det er kanskje ikke så rart at kapteinen scorer etter at Rapinoe kom på banen. De har nemlig et helt spesielt bånd. ",
+        "published": {
+            "date": "lørdag 22. juli",
+            "datetime": "2023-07-22 07:34:40",
+            "niceformat": "22.07.2023, 07:34",
+            "timestamp": "2023-07-22T05:34:40.000Z"
+        },
+        "thumbnail": {
+            "height": 287,
+            "url": "https://akamai.vgc.no/v2/images/9e0345f6-cc6c-4cad-8180-61a7da2e6c91?fit=crop&format=auto&h=287&w=400&s=bdd4ce38ecd94ff74e2f31571ab700db41ea2f57",
+            "width": 400
+        },
+        "title": "Fotball-VM kvinner: USA sin Megan Rapinoe med 200 landskamper ",
+        "url": "https://www.vg.no/sport/fotball/i/kELxzQ/rapinoe-med-ny-milepael-kapteinen-emosjonell-av-legendens-valg"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEQxdA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEQxdA",
+        "preamble": "AUCKLAND (VG) Under VMs åpningskamp hadde fotballpresident Lise Klaveness sin første samtale med Gianni Infantino siden talen i Doha. Da kom hun med klare beskjeder til Fifa-presidenten.",
+        "published": {
+            "date": "fredag 21. juli",
+            "datetime": "2023-07-21 23:11:48",
+            "niceformat": "21.07.2023, 23:11",
+            "timestamp": "2023-07-21T21:11:48.000Z"
+        },
+        "thumbnail": {
+            "height": 278,
+            "url": "https://akamai.vgc.no/v2/images/f8cde0e7-d575-49c3-8642-3187d8903f54?fit=crop&format=auto&h=278&w=400&s=dd24c6cf382eb862c790dc4105aee124d945c033",
+            "width": 400
+        },
+        "title": "Klaveness satt med Infantino under åpningskampen: – Tok denne saken opp med ham med en gang",
+        "url": "https://www.vg.no/sport/fotball/i/gEQxdA/klaveness-satt-med-infantino-under-aapningskampen-dette-sa-hun-til-ham"
+    },
+    {
+        "authors": [
+            {
+                "email": "kristine.bechmann.holter@schibsted.no",
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            },
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dw0akj",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dw0akj",
+        "preamble": "Etter å ha scoret 2 mål for PSG under fredagens treningskamp mot Le Havre ble Mbappé utelatt fra troppen som lørdag skal reise på Asia-turné. ",
+        "published": {
+            "date": "fredag 21. juli",
+            "datetime": "2023-07-21 22:57:34",
+            "niceformat": "21.07.2023, 22:57",
+            "timestamp": "2023-07-21T20:57:34.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/4322fd30-367f-442a-bff8-e882902fcd56?fit=crop&format=auto&h=267&w=400&s=023e0d1264854b4455bbaf0117e520ec5a6de768",
+            "width": 400
+        },
+        "title": "Mbappé utelatt fra PSG-troppen – setter fyr på overgangsrykter",
+        "url": "https://www.vg.no/sport/fotball/i/dw0akj/kylian-mbappe-utelatt-fra-psg-troppen"
+    },
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P42Xy7",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P42Xy7",
+        "preamble": "Danske Magnus Warming (23) forlater Serie A-klubben Torino, og har signert en kontrakt med Brann ut 2027.",
+        "published": {
+            "date": "fredag 21. juli",
+            "datetime": "2023-07-21 20:32:39",
+            "niceformat": "21.07.2023, 20:32",
+            "timestamp": "2023-07-21T18:32:39.000Z"
+        },
+        "thumbnail": {
+            "height": 225,
+            "url": "https://akamai.vgc.no/v2/images/aa2a1a32-0060-4d70-a226-410be675bd85?fit=crop&format=auto&h=225&w=400&s=5221cabd9c69da57b03561fd957db1e0922059be",
+            "width": 400
+        },
+        "title": "Brann bekrefter signering av spiller fra Serie A",
+        "url": "https://www.vg.no/sport/fotball/i/P42Xy7/brann-bekrefter-signering-av-spiller-fra-serie-a"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O82Xbw",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O82Xbw",
+        "preamble": "Den engelskfødte norske fotballspilleren Thelo Aasgaard (21) har blitt enig med Wigan om en ny avtale. Den strekker seg til sommeren 2028.",
+        "published": {
+            "date": "fredag 21. juli",
+            "datetime": "2023-07-21 19:48:08",
+            "niceformat": "21.07.2023, 19:48",
+            "timestamp": "2023-07-21T17:48:08.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0721d605-50c0-4083-b3b5-a12c4aac791b?fit=crop&format=auto&h=267&w=400&s=80b2646f92e730db33154af6bde636be87b84e2a",
+            "width": 400
+        },
+        "title": "Aasgaard skrev ny Wigan-kontrakt",
+        "url": "https://www.vg.no/sport/fotball/i/O82Xbw/aasgaard-skrev-ny-wigan-kontrakt"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "AP9W4x",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/AP9W4x",
+        "preamble": "Marseille har signert Pierre-Emerick Aubameyang kort tid etter at Idrettens voldgiftsrett (Cas) vedtok at de slipper overgangsnekt.",
+        "published": {
+            "date": "fredag 21. juli",
+            "datetime": "2023-07-21 19:11:46",
+            "niceformat": "21.07.2023, 19:11",
+            "timestamp": "2023-07-21T17:11:46.000Z"
+        },
+        "thumbnail": {
+            "height": 272,
+            "url": "https://akamai.vgc.no/v2/images/da287e1f-7a1e-4238-bf07-8a5f1c0e02d8?fit=crop&format=auto&h=272&w=400&s=c3eaea316c10a291ebb61264fb2b48ce19dc0479",
+            "width": 400
+        },
+        "title": "Marseille slipper overgangsnekt – hentet Aubameyang",
+        "url": "https://www.vg.no/sport/fotball/i/AP9W4x/marseille-slipper-overgangsnekt-hentet-aubameyang"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAJBan",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAJBan",
+        "preamble": "Stortalentet Tobias Gulliksen (20) melder overgang fra Strømsgodset til Bodø/Glimt.",
+        "published": {
+            "date": "fredag 21. juli",
+            "datetime": "2023-07-21 17:00:53",
+            "niceformat": "21.07.2023, 17:00",
+            "timestamp": "2023-07-21T15:00:53.000Z"
+        },
+        "thumbnail": {
+            "height": 225,
+            "url": "https://akamai.vgc.no/v2/images/508ce997-6ba9-4d89-8581-491e55c69fe9?fit=crop&format=auto&h=225&w=400&s=b88a8052f93adc1b4ad4ae4c966c8d121847f422",
+            "width": 400
+        },
+        "title": "Gulliksen klar for Bodø/Glimt for rekordsum",
+        "url": "https://www.vg.no/sport/fotball/i/wAJBan/eliteserien-stroemsgodset-spiller-tobias-fjeld-gulliksen-klar-for-bodoe-glimt"
+    }
+]

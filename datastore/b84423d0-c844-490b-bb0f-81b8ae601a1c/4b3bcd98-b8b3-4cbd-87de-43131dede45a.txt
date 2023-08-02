@@ -1,0 +1,372 @@
+[
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            },
+            {
+                "email": "skandsen@vg.no",
+                "id": "f435294c-56cc-4c38-a714-d1f3f4e7a881",
+                "name": "Sondre Skandsen"
+            },
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgbkdX",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgbkdX",
+        "preamble": "LIVERPOOL (VG) (Everton – Manchester City 0–3) Erling Braut Haaland (22) og Manchester City er to kamper unna seriegull. Pep Guardiola reagerer på Everton-stopper Yerry Mina etter duellene med Haaland.",
+        "published": {
+            "date": "søndag 14. mai",
+            "datetime": "2023-05-14 16:52:19",
+            "niceformat": "14.05.2023, 16:52",
+            "timestamp": "2023-05-14T14:52:19.000Z"
+        },
+        "thumbnail": {
+            "height": 335,
+            "url": "https://akamai.vgc.no/v2/images/6c310459-c71e-4a3f-b0b4-869040bcaa30?fit=crop&format=auto&h=335&w=400&s=fbc86820e0ea8d9f7f56fc641f5e2003d2ecd46d",
+            "width": 400
+        },
+        "title": "Haaland-scoring i nøkkelkamp – Guardiola refser Everton-stopper",
+        "url": "https://www.vg.no/sport/fotball/i/xgbkdX/erling-braut-haaland-scoret-i-noekkelkamp-manchester-city-naer-seriegull"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76QOgo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76QOgo",
+        "preamble": "Det var full stillingskrig da Coventry og Middlesbrough spilte 0–0 i den første av to semifinaler mellom lagene i opprykkskvalifiseringen til Premier League.",
+        "published": {
+            "date": "søndag 14. mai",
+            "datetime": "2023-05-14 15:10:40",
+            "niceformat": "14.05.2023, 15:10",
+            "timestamp": "2023-05-14T13:10:40.000Z"
+        },
+        "thumbnail": {
+            "height": 264,
+            "url": "https://akamai.vgc.no/v2/images/e976c745-f36f-474a-8cb7-633496a169ab?fit=crop&format=auto&h=264&w=400&s=3917afea7cda02c769e808386c389ea50458397e",
+            "width": 400
+        },
+        "title": "Anspent og målløs PL-jakt i Coventry",
+        "url": "https://www.vg.no/sport/fotball/i/76QOgo/anspent-og-maalloes-pl-jakt-i-coventry"
+    },
+    {
+        "authors": [
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgbjdQ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgbjdQ",
+        "preamble": "BODØ (VG) Han ble ikke bare sesongens første RBK-spiss som scoret. Sverre Nypan (16) ble også historisk mot Bodø/Glimt lørdag kveld. ",
+        "published": {
+            "date": "søndag 14. mai",
+            "datetime": "2023-05-14 12:10:05",
+            "niceformat": "14.05.2023, 12:10",
+            "timestamp": "2023-05-14T10:10:05.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/5e05a505-2bea-44bc-9eb9-da6e6ecdd08f?fit=crop&format=auto&h=267&w=400&s=b55d891d377d32ac52d3feb1f8213b2e7a2b334f",
+            "width": 400
+        },
+        "title": "Rekord-Sverre (16) ber folk ikke ta av",
+        "url": "https://www.vg.no/sport/fotball/i/xgbjdQ/rekord-sverre-16-ber-folk-ikke-ta-av"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "onlb7a",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/onlb7a",
+        "preamble": "Rosenborgs midtbanetalent Marius Sivertsen Broholm (18) sendes på lån til 1.-divisjonsklubben Kristiansund.",
+        "published": {
+            "date": "søndag 14. mai",
+            "datetime": "2023-05-14 12:08:26",
+            "niceformat": "14.05.2023, 12:08",
+            "timestamp": "2023-05-14T10:08:26.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/50b0fddb-caa2-44b8-94d5-c52970ce79ea?fit=crop&format=auto&h=267&w=400&s=2d49189470368b7c010abfe8fb80b70b2a2f9b2b",
+            "width": 400
+        },
+        "title": "RBK-talent lånes ut til Kristiansund",
+        "url": "https://www.vg.no/sport/fotball/i/onlb7a/rbk-talent-laanes-ut-til-kristiansund"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5Bwg3b",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5Bwg3b",
+        "preamble": "Barcelona kan søndag kveld vinne La Liga for første gang på fire år, men suksessen løser ikke klubbens utfordringer utenfor banen. Et tøft overgangsvindu er i vente.",
+        "published": {
+            "date": "søndag 14. mai",
+            "datetime": "2023-05-14 11:20:21",
+            "niceformat": "14.05.2023, 11:20",
+            "timestamp": "2023-05-14T09:20:21.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/fcf8aaef-2302-41ba-8a4b-cc93c33cc6e3?fit=crop&format=auto&h=267&w=400&s=2102826d0a8107e02dbfa987c5e65b2ddf939978",
+            "width": 400
+        },
+        "title": "Barcelona-topp om økonomikrisen: – Ute av intensiven, men fortsatt på sykehus",
+        "url": "https://www.vg.no/sport/fotball/i/5Bwg3b/barcelona-topp-om-oekonomikrisen-ute-av-intensiven-men-fortsatt-paa-sykehus"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            },
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5BwgBm",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5BwgBm",
+        "preamble": "Toppserie-kampen mellom Avaldsnes og Stabæk er utsatt som følge av flytrøbbel. Det fikk John Arne Riise til å reagere på Facebook.",
+        "published": {
+            "date": "søndag 14. mai",
+            "datetime": "2023-05-14 10:14:16",
+            "niceformat": "14.05.2023, 10:14",
+            "timestamp": "2023-05-14T08:14:16.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/b04ca531-daff-4fd0-b23e-fd89e2f8ecb2?fit=crop&format=auto&h=266&w=400&s=dc61495166b912ef9ee45dda99bb870a8c69b7a1",
+            "width": 400
+        },
+        "title": "Stabæk svarer etter Facebook-post: – Ingen tar ham seriøst",
+        "url": "https://www.vg.no/sport/fotball/i/5BwgBm/toppserie-kamp-utsatt"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4qGO0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4qGO0",
+        "preamble": "En rekke avgjørende VAR-situasjoner tok over tre minutter hver å avgjøre i lørdagens eliteserierunde.",
+        "published": {
+            "date": "søndag 14. mai",
+            "datetime": "2023-05-14 09:07:59",
+            "niceformat": "14.05.2023, 09:07",
+            "timestamp": "2023-05-14T07:07:59.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/5f505893-42b9-4903-a934-dbf1fca2062d?fit=crop&format=auto&h=267&w=400&s=4680657849e613452660f7a17dbbd90207490ed3",
+            "width": 400
+        },
+        "title": "Fire VAR-situasjoner tok tolv minutter: – Ødelegger fotballen",
+        "url": "https://www.vg.no/sport/fotball/i/P4qGO0/eliteserien-fire-var-situasjoner-tok-tolv-minutter-oedelegger-fotballen"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "mQpdVE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/mQpdVE",
+        "preamble": "MANCHESTER (VG) Manchester City-sjef Pep Guardiola tror lagets endringer før returoppgjøret mot Real Madrid vil gi Erling Braut Haaland (22) bedre arbeidsforhold.",
+        "published": {
+            "date": "søndag 14. mai",
+            "datetime": "2023-05-14 04:15:08",
+            "niceformat": "14.05.2023, 04:15",
+            "timestamp": "2023-05-14T02:15:08.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/5bea3bf1-7798-4f9f-977a-cbbe3ac5ef9d?fit=crop&format=auto&h=267&w=400&s=7d8cfc55f3e2e5ed0e4da18faf772f6ac81c90bc",
+            "width": 400
+        },
+        "title": "Guardiola gratulerer Rüdiger etter Haaland-duell: – Neste gang blir det kanskje lettere",
+        "url": "https://www.vg.no/sport/fotball/i/mQpdVE/guardiola-gratulerer-rudiger-etter-haaland-duell-neste-gang-blir-det-kanskje-lettere"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "pQbjOX",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/pQbjOX",
+        "preamble": "Lionel Messi var tilbake i Paris Saint-Germain-laget da Ajaccio ble slått 5-0 lørdag, men han fikk en blandet mottakelse fra klubbens tilhengere.",
+        "published": {
+            "date": "lørdag 13. mai",
+            "datetime": "2023-05-13 23:48:32",
+            "niceformat": "13.05.2023, 23:48",
+            "timestamp": "2023-05-13T21:48:32.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/9a511e4a-bceb-45c8-9734-7d1e0176402d?fit=crop&format=auto&h=267&w=400&s=6c442b85580f2e207c0b57ce82fc6f5157746865",
+            "width": 400
+        },
+        "title": "Målfest for PSG – blandet mottakelse for Messi ",
+        "url": "https://www.vg.no/sport/fotball/i/pQbjOX/maalfest-for-psg-blandet-mottakelse-for-messi"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "mQpjE0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/mQpjE0",
+        "preamble": "Et reservepreget Real Madrid-lag ladet opp til onsdagens returkamp mot Manchester City i mesterligaens semifinale med 1-0-seier over byrival Getafe.",
+        "published": {
+            "date": "lørdag 13. mai",
+            "datetime": "2023-05-13 23:47:36",
+            "niceformat": "13.05.2023, 23:47",
+            "timestamp": "2023-05-13T21:47:36.000Z"
+        },
+        "thumbnail": {
+            "height": 296,
+            "url": "https://akamai.vgc.no/v2/images/c875c4eb-4696-4be3-8c80-e480b9199163?fit=crop&format=auto&h=296&w=400&s=c865ca1671decbc26db39706273f8d52e53b8fa4",
+            "width": 400
+        },
+        "title": "Real Madrid ladet opp til returkampen mot City med seier ",
+        "url": "https://www.vg.no/sport/fotball/i/mQpjE0/real-madrid-ladet-opp-til-returkampen-mot-city-med-seier"
+    }
+]

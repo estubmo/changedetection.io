@@ -1,0 +1,199 @@
+[
+    {
+        "slug": "birkestoel-scoret-hattrick-for-kvass-ulvungen",
+        "url": "/lokalfotballen/i/EQXKgo/birkestoel-scoret-hattrick-for-kvass-ulvungen",
+        "title": {
+            "value": "Birkestøl scoret hattrick for Kvass / Ulvungen"
+        },
+        "description": "Ørjan Birkestøl viste scoringsform da Kvass/Ulvungen vant 5-1 over Valsøyfjord i 6. divisjon, Nordmøre og Romsdal - Avdeling 1 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-22T20:09:45Z",
+        "lastModifiedAt": "2023-06-22T20:13:06Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "scoringslykke-for-deraas",
+        "url": "/lokalfotballen/i/Q7Xa2V/scoringslykke-for-deraas",
+        "title": {
+            "value": "Derås scoret to for Steinkjer 2"
+        },
+        "description": "Steinkjer 2 lå under med to mål, men snudde kampen og vant 4-2 i 4. divisjon, Trøndelag - Avdeling 1 i fotball. Dagrun Ystad Derås scoret to ganger. Steinkjer 2 har tatt poeng i seks strake hjemmekamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-22T20:07:37Z",
+        "lastModifiedAt": "2023-06-22T20:11:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "maal-lykke-for-thorsen",
+        "url": "/lokalfotballen/i/zEzV3K/maal-lykke-for-thorsen",
+        "title": {
+            "value": "Thorsen scoret hattrick mot Sparbu"
+        },
+        "description": "Ola Thorsen scoret tre ganger da Namdalseid vant 5-0 over Sparbu i 6. divisjon, Trøndelag - Avdeling 1 i fotball for menn torsdag. Det var Sparbus andre tap på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-22T20:07:36Z",
+        "lastModifiedAt": "2023-06-22T20:13:06Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "ranheim-3-vant-i-maalfest",
+        "url": "/lokalfotballen/i/l3ara7/ranheim-3-vant-i-maalfest",
+        "title": {
+            "value": "Storseier for Ranheim 3"
+        },
+        "description": "Melhus 2/Gimse 2/Gauldal 2 gikk på sitt fjerde tap på rad da laget røk 0-8 for Ranheim 3 i 4. divisjon, Trøndelag - Avdeling 3 torsdag. Erika Sandsør scoret fire ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-22T19:59:02Z",
+        "lastModifiedAt": "2023-06-22T20:07:37Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "bakken-med-maalshow",
+        "url": "/lokalfotballen/i/15exeG/bakken-med-maalshow",
+        "title": {
+            "value": "Målene rant inn for Bakken"
+        },
+        "description": "Emilie Sørensen Bakken sto fram med tre mål da Namsos vant 8-1 over Overhalla i 4. divisjon, Trøndelag - Avdeling 1 i fotball for kvinner torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-22T19:56:55Z",
+        "lastModifiedAt": "2023-06-22T20:07:36Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "rissa-snudde-til-seier-i-sluttminuttene",
+        "url": "/lokalfotballen/i/nQlVOQ/rissa-snudde-til-seier-i-sluttminuttene",
+        "title": {
+            "value": "Rissa snudde til seier i sluttminuttene over Kattem"
+        },
+        "description": "Rissa snudde til seier i sluttminuttene over Kattem i 6. divisjon, Trøndelag - Avdeling 3 i fotball for menn torsdag. Gabriel Stordal Trøa scoret begge målene for Rissa.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-22T19:06:29Z",
+        "lastModifiedAt": "2023-06-22T19:36:16Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "trenersparkingen-rbk-maa-ut-med-over-fem-mill",
+        "url": "/sport/fotball/i/BWewEl/trenersparkingen-rbk-maa-ut-med-over-fem-mill",
+        "title": {
+            "value": "Så mye koster trener-sparkingen i RBK"
+        },
+        "description": "En skriftlig rapport. Et møte med to av de viktigste spillerne. Uformelle samtaler i styret. Og supportere som engasjerte seg kraftig. Slik var forspillet til Kjetil Rekdals avgang.",
+        "imageUrl": "2eb51cb9-e90e-4d2e-a537-6a246786cf1c",
+        "publishedAt": "2023-06-22T18:00:20Z",
+        "lastModifiedAt": "2023-06-22T19:03:11Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken",
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "markus-henriksen",
+            "geir-frigaard",
+            "tore-bjoerseth-berdal",
+            "kjetil-rekdal",
+            "svein-tore-samdal",
+            "svein-maalen",
+            "bjoern-skar",
+            "erlend-dahl-reitan"
+        ]
+    },
+    {
+        "slug": "alle-ville-gi-henne-seiersklem-i-trondheim-gikk-litt-i-surr",
+        "url": "/sport/i/xgd9gX/alle-ville-gi-henne-seiersklem-i-trondheim-gikk-litt-i-surr",
+        "title": {
+            "value": "«Alle» ville gi henne seiersklem i Trondheim: – Gikk litt i surr"
+        },
+        "description": "Lene Berg Hanssen slo til med NM-gull på hjemmebane. Da ble det jubelscener.",
+        "imageUrl": "27cd5e03-e9bc-469f-ac6c-fa618cb00298",
+        "publishedAt": "2023-06-22T14:44:28Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "orientering",
+            "lene-berg-hanssen"
+        ]
+    },
+    {
+        "slug": "siste-fra-breddefotballen",
+        "url": "/sport/fotball/i/GMjXaq/siste-fra-breddefotballen",
+        "title": {
+            "value": "- Hun jeg snakket med først på telefonen begynte nesten å gråte"
+        },
+        "description": null,
+        "imageUrl": "929181bf-55c8-48f4-80aa-69165f655821",
+        "publishedAt": "2023-03-24T14:51:36Z",
+        "lastModifiedAt": "2023-05-09T10:22:27Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "fotball",
+            "breddefotbaill",
+            "lokalfotballen",
+            "breddefotball"
+        ]
+    },
+    {
+        "slug": "hadde-bilen-full-av-tyvgods",
+        "url": "/nyhetsstudio/i/4olRlG/hadde-bilen-full-av-tyvgods",
+        "title": {
+            "value": "Hadde bilen full av tyvegods"
+        },
+        "description": null,
+        "imageUrl": null,
+        "publishedAt": "2023-06-22T04:45:52Z",
+        "lastModifiedAt": "2023-06-22T05:53:27Z",
+        "premium": true,
+        "authors": [
+            "Roy Tommy Bråten"
+        ],
+        "tags": []
+    }
+]

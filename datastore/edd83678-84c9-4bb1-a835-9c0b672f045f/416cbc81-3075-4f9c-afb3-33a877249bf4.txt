@@ -1,0 +1,197 @@
+[
+    {
+        "slug": "lensvik-med-hjemmeseier-over-orkanger-2",
+        "url": "/lokalfotballen/i/y6Xd1R/lensvik-med-hjemmeseier-over-orkanger-2",
+        "title": {
+            "value": "Lensvik med hjemmeseier over Orkanger 2"
+        },
+        "description": "Lensvik slo Orkanger 2 3-1 og tok sin første seier denne sesongen i 6. divisjon, Trøndelag - Avdeling 4 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T20:41:53Z",
+        "lastModifiedAt": "2023-05-29T20:41:53Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "hjemmeseier-for-remyra-fram-over-verdal",
+        "url": "/lokalfotballen/i/0Q0Aw0/hjemmeseier-for-remyra-fram-over-verdal",
+        "title": {
+            "value": "Hjemmeseier for Remyra/Fram over Verdal"
+        },
+        "description": "Remyra/Fram fikk med seg alle poengene da Verdal ble slått 3-2 i J14 1. divisjon, Avdeling 1 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T20:34:38Z",
+        "lastModifiedAt": "2023-05-29T20:34:38Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "charlottenlund-2-seiret-hjemme-mot-stjoerna",
+        "url": "/lokalfotballen/i/JQMAPR/charlottenlund-2-seiret-hjemme-mot-stjoerna",
+        "title": {
+            "value": "Charlottenlund 2 seiret hjemme mot Stjørna"
+        },
+        "description": "Charlottenlund 2 slo Stjørna 2-0 og fikk dermed med seg alle poengene i 6. divisjon, Trøndelag - Avdeling 3 i fotball. Stjørna har tapt to strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T20:34:37Z",
+        "lastModifiedAt": "2023-05-29T20:34:37Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "ny-seier-for-malvik",
+        "url": "/lokalfotballen/i/abLErO/ny-seier-for-malvik",
+        "title": {
+            "value": "Malvik tok sin fjerde strake seier"
+        },
+        "description": "Malvik seiret 2-1 over Gimse/Melhus/Gauldal hjemme i 3. divisjon, Trøndelag i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T20:30:05Z",
+        "lastModifiedAt": "2023-05-29T20:33:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "hegra-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/kEXjAB/hegra-fortsatte-seiersrekken",
+        "title": {
+            "value": "Storseier for Hegra"
+        },
+        "description": "Hegra banket Ekne 7-3 i 6. divisjon, Trøndelag - Avdeling 2 i fotball for menn mandag. Ekne har gått poengløse av banen i tre strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T20:09:44Z",
+        "lastModifiedAt": "2023-05-29T20:34:39Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "ny-seier-for-heimdal-2",
+        "url": "/lokalfotballen/i/76LAEK/ny-seier-for-heimdal-2",
+        "title": {
+            "value": "Heimdal 2 fortsatte seiersrekken"
+        },
+        "description": "Heimdal 2 knuste Leinstrand 5-2 i 6. divisjon, Trøndelag - Avdeling 5 i fotball for menn. Heimdal 2 har vunnet fire av sine fem siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T20:07:34Z",
+        "lastModifiedAt": "2023-05-29T20:34:38Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "uavgjort-paa-tobb-arena-levanger",
+        "url": "/lokalfotballen/i/691AxQ/uavgjort-paa-tobb-arena-levanger",
+        "title": {
+            "value": "Poengdeling mellom Levanger og Vestbyen"
+        },
+        "description": "Vestbyen lå under 0-1, men klarte 1-1 mot Levanger etter en sen utligning i 3. divisjon, Trøndelag i fotball for kvinner. Det stanset tapsrekken til Levanger, som var poengløse på de siste fire kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T20:02:11Z",
+        "lastModifiedAt": "2023-05-29T20:33:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "karlsen-i-scoringshumoer-mot-laanke-2",
+        "url": "/lokalfotballen/i/l3XjBy/karlsen-i-scoringshumoer-mot-laanke-2",
+        "title": {
+            "value": "Karlsen scoret to for Malvik 2/Hommelvik 2"
+        },
+        "description": "Malvik 2/Hommelvik 2 banket Lånke 2 4-1 i 6. divisjon, Trøndelag - Avdeling 2 i fotball mandag. Henrik Emil Karlsen scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T20:02:11Z",
+        "lastModifiedAt": "2023-05-29T20:34:38Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "nettsus-for-lucas-rode-schanche",
+        "url": "/lokalfotballen/i/jlXjRq/nettsus-for-lucas-rode-schanche",
+        "title": {
+            "value": "To fulltreffere fra Lucas Rode Schanche"
+        },
+        "description": "Lucas Rode Schanche scoret to av målene da Ørland vant 6-1 over Trygg/Lade i G16 1. divisjon, Avdeling 1 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T19:55:59Z",
+        "lastModifiedAt": "2023-05-29T20:03:20Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "fosen-seiret-i-maalfest",
+        "url": "/lokalfotballen/i/xgXjap/fosen-seiret-i-maalfest",
+        "title": {
+            "value": "Fosen fortsatte seiersrekken"
+        },
+        "description": "Lucas Berg Steen scoret fem ganger og hjalp Fosen til 15-2-seier over Munkholmen i 6. divisjon, Trøndelag - Avdeling 3 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T19:53:58Z",
+        "lastModifiedAt": "2023-05-29T20:34:36Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    }
+]

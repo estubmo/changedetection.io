@@ -1,0 +1,199 @@
+[
+    {
+        "slug": "aapner-for-rike-onkler-i-rbk-blir-tema-i-hoest",
+        "url": "/sport/fotball/i/rlOe9l/aapner-for-rike-onkler-i-rbk-blir-tema-i-hoest",
+        "title": {
+            "value": "Åpner for rike onkler i RBK"
+        },
+        "description": "Bodø/Glimt har fått hjelp av pengesterke støttespillere. Molde det samme. Nå kan også Rosenborg få eksterne investorer.",
+        "imageUrl": "2c2847e1-9c5c-4490-b79f-d24b844dad37",
+        "publishedAt": "2023-06-23T09:25:51Z",
+        "lastModifiedAt": "2023-06-23T09:31:00Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg",
+            "cecilie-gotaas-johnsen"
+        ]
+    },
+    {
+        "slug": "ukas-lag-herjet-paa-midtbanen-da-rbk-broren-saa-gult",
+        "url": "/sport/fotball/i/76oyWv/ukas-lag-herjet-paa-midtbanen-da-rbk-broren-saa-gult",
+        "title": {
+            "value": "Ukas lag: Treneren tok ansvar med to scoringer"
+        },
+        "description": null,
+        "imageUrl": "fa94687c-a3f0-4a6e-826f-b44cdf910e3e",
+        "publishedAt": "2023-06-23T09:08:22Z",
+        "lastModifiedAt": "2023-06-23T09:25:50Z",
+        "premium": false,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "breddefotbaill",
+            "lokalfotballen"
+        ]
+    },
+    {
+        "slug": "hvor-har-det-blitt-av-pissoarene",
+        "url": "/meninger/i/RGQwbA/hvor-har-det-blitt-av-pissoarene",
+        "title": {
+            "value": "Det så ut som en full elefant hadde vært på do"
+        },
+        "description": null,
+        "imageUrl": "89e0c2b0-c1fd-4b9b-b7fa-abb796a8801c",
+        "publishedAt": "2023-06-23T08:49:51Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Ørjan Greiff Johnsen"
+        ],
+        "tags": [
+            "debatt",
+            "utesteder",
+            "menn",
+            "kjoenn"
+        ]
+    },
+    {
+        "slug": "flataas-rundspilte-budal",
+        "url": "/lokalfotballen/i/onxVgK/flataas-rundspilte-budal",
+        "title": {
+            "value": "Brakseier for Flatås"
+        },
+        "description": "Flatås lå under 1-2, men snudde til 7-2-seier mot Budal i 4. divisjon, Trøndelag - Avdeling 3 i fotball torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-22T21:35:28Z",
+        "lastModifiedAt": "2023-06-22T22:04:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-gauldalsposten",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "forbord-scoret-hattrick-mot-fram-remyra",
+        "url": "/lokalfotballen/i/jlxry0/forbord-scoret-hattrick-mot-fram-remyra",
+        "title": {
+            "value": "Forbord scoret hattrick mot Fram / Remyra"
+        },
+        "description": "Martine Lien Forbord scoret tre mål og hjalp Malvik 2 til 4-1-seier over Fram/Remyra i 4. divisjon, Trøndelag - Avdeling 1 i fotball for kvinner torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-22T21:35:28Z",
+        "lastModifiedAt": "2023-06-22T22:04:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet",
+            "lokalfotballen-stjordalsnytt"
+        ]
+    },
+    {
+        "slug": "hovelsen-scoret-hattrick-mot-spillum",
+        "url": "/lokalfotballen/i/76oxA3/hovelsen-scoret-hattrick-mot-spillum",
+        "title": {
+            "value": "Hovelsen scoret hattrick for Nærøy"
+        },
+        "description": "Spillum slo Nærøy borte 5-3 og tok dermed alle poengene i 6. divisjon, Trøndelag - Avdeling 1 i fotball torsdag. Nærøy har tapt tre strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-22T20:38:17Z",
+        "lastModifiedAt": "2023-06-23T08:04:48Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "lauglo-dobbel-sikret-seier",
+        "url": "/lokalfotballen/i/zEzV15/lauglo-dobbel-sikret-seier",
+        "title": {
+            "value": "Lauglo ble tomålshelt mot Buvik 2"
+        },
+        "description": "Buvik 2 gikk på sitt tiende tap på rad da laget røk 3-7 for Melhus 3 i 6. divisjon, Trøndelag - Avdeling 6 i fotball for menn. Marius Lauglo scoret to av målene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-22T20:29:36Z",
+        "lastModifiedAt": "2023-06-22T20:38:17Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "maalshow-fra-pettersen",
+        "url": "/lokalfotballen/i/y6JVrx/maalshow-fra-pettersen",
+        "title": {
+            "value": "Målshow fra Pettersen"
+        },
+        "description": "Marie Moen Pettersen sto fram med tre mål da Egge seiret 5-4 over Hegra/Skjelstadmark i 4. divisjon, Trøndelag - Avdeling 1 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-22T20:21:21Z",
+        "lastModifiedAt": "2023-06-22T20:39:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "scoringslykke-for-deraas",
+        "url": "/lokalfotballen/i/Q7Xa2V/scoringslykke-for-deraas",
+        "title": {
+            "value": "Derås scoret to for Steinkjer 2"
+        },
+        "description": "Steinkjer 2 lå under med to mål, men snudde kampen og vant 4-2 i 4. divisjon, Trøndelag - Avdeling 1 i fotball. Dagrun Ystad Derås scoret to ganger. Steinkjer 2 har tatt poeng i seks strake hjemmekamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-22T20:07:37Z",
+        "lastModifiedAt": "2023-06-22T20:11:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "maal-lykke-for-thorsen",
+        "url": "/lokalfotballen/i/zEzV3K/maal-lykke-for-thorsen",
+        "title": {
+            "value": "Thorsen scoret hattrick mot Sparbu"
+        },
+        "description": "Ola Thorsen viste scoringsform da Namdalseid vant 5-0 over Sparbu i 6. divisjon, Trøndelag - Avdeling 1 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-22T20:07:36Z",
+        "lastModifiedAt": "2023-06-22T21:05:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    }
+]

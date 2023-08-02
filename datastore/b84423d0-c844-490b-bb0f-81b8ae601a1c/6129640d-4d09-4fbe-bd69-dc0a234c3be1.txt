@@ -1,0 +1,394 @@
+[
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPLROJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPLROJ",
+        "preamble": "Zlatan Ibrahimovic (41) er ferdig i AC Milan etter sesongen. Svensken tar farvel med klubben i søndagens kamp mot Hellas Verona.",
+        "published": {
+            "date": "lørdag 3. juni",
+            "datetime": "2023-06-03 19:02:28",
+            "niceformat": "03.06.2023, 19:02",
+            "timestamp": "2023-06-03T17:02:28.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/29b45a46-8e93-490d-9014-8d7f66af2bb1?fit=crop&format=auto&h=267&w=400&s=987a1a701ca373c705ffe37fe41dde23cd6748f6",
+            "width": 400
+        },
+        "title": "Ibrahimovic ferdig i Milan etter sesongen",
+        "url": "https://www.vg.no/sport/fotball/i/VPLROJ/ibrahimovic-ferdig-i-milan-etter-sesongen"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            },
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            },
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "RGQxnO",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/RGQxnO",
+        "preamble": "LONDON (VG) (Manchester City – Manchester United 2–1) To volleyscoringer av Ilkay Gündogan sikret Manchester City FA-cuptrofeet i den historiske derbyfinalen mot Manchester United. De er nå én finale unna å kopiere rivalenes trippelbragd.",
+        "published": {
+            "date": "lørdag 3. juni",
+            "datetime": "2023-06-03 17:58:33",
+            "niceformat": "03.06.2023, 17:58",
+            "timestamp": "2023-06-03T15:58:33.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/7kbYg7Ql-y1T.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Gündogan-dobbel senket byrivalen i FA-cupfinalen – trippeldrømmen lever for Manchester City",
+        "url": "https://www.vg.no/sport/fotball/i/RGQxnO/fotball-ilkay-gundogan-senket-manchester-united-i-fa-cupfinalen"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "2B41la",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/2B41la",
+        "preamble": "EINDHOVEN (VG) (Barcelona – Wolfsburg 3–2) Caroline Graham Hansen og Barcelona snudde 0–2 til 3–2 i Champions League-finalen. Etterpå fortalte den norske stjernen at hun havnet på sykehus bare to uker før finalen.",
+        "published": {
+            "date": "lørdag 3. juni",
+            "datetime": "2023-06-03 17:56:53",
+            "niceformat": "03.06.2023, 17:56",
+            "timestamp": "2023-06-03T15:56:53.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/f671cea1-6042-4dd6-8f3f-8684e041ba7b?fit=crop&format=auto&h=267&w=400&s=5e62d80e9a42d18b388b26d02f0221a364a79696",
+            "width": 400
+        },
+        "title": "Graham Hansen og Barcelona vant Champions League",
+        "url": "https://www.vg.no/sport/fotball/i/2B41la/graham-hansen-med-maalgivende-i-enorm-snuoperasjon"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4w306",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4w306",
+        "preamble": "LERKENDAL (VG) (Rosenborg – Brann 2–0) Rosenborgs kvinner sørget for en opptur i Trondheim. Tabelltoeren tok sin andre seier over Brann på tre uker.",
+        "published": {
+            "date": "lørdag 3. juni",
+            "datetime": "2023-06-03 14:52:53",
+            "niceformat": "03.06.2023, 14:52",
+            "timestamp": "2023-06-03T12:52:53.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/cb976299-392d-432e-9cb7-8551d4e198ee?fit=crop&format=auto&h=267&w=400&s=daacad9f9657869f88c97fba3f0e61e34b4c142d",
+            "width": 400
+        },
+        "title": "Rosenborg slukket Brann – to mål på 74 sekunder: – Kult å lage noen drømmer",
+        "url": "https://www.vg.no/sport/fotball/i/P4w306/rosenborg-slukket-brann-to-maal-paa-74-sekunder"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "y6XePE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/y6XePE",
+        "preamble": "Manchester Citys Pep Guardiola (52) skryter av Manchester United-manager Erik ten Hag (53) før tidenes første møte mellom rivalene i FA-cupfinalen.",
+        "published": {
+            "date": "lørdag 3. juni",
+            "datetime": "2023-06-03 13:51:27",
+            "niceformat": "03.06.2023, 13:51",
+            "timestamp": "2023-06-03T11:51:27.000Z"
+        },
+        "thumbnail": {
+            "height": 290,
+            "url": "https://akamai.vgc.no/v2/images/34af5720-1aff-43e4-a982-dfde250b0514?fit=crop&format=auto&h=290&w=400&s=2f632a2ccf11c9ac505e9cadaa2e14bb467574f7",
+            "width": 400
+        },
+        "title": "Guardiola berømmer erkerivalens manager: – Den første sesongen er ikke lett",
+        "url": "https://www.vg.no/sport/fotball/i/y6XePE/pep-guardiola-beroemmer-erik-ten-hag-den-foerste-sesongen-er-ikke-lett"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4oGdRg",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4oGdRg",
+        "preamble": "Kvicha Kvaratskhelia stakk av med prisen for årets spiller i den italienske toppdivisjonen. Lagkameratene Kim Min Jae og Victor Osimhen fikk også hver sin pris.",
+        "published": {
+            "date": "lørdag 3. juni",
+            "datetime": "2023-06-03 13:40:52",
+            "niceformat": "03.06.2023, 13:40",
+            "timestamp": "2023-06-03T11:40:52.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/db0c3545-5c9e-4239-95d3-9c162bf78d57?fit=crop&format=auto&h=267&w=400&s=5a93193d337d7576c04d1a88f98bc4bcc2aa0df0",
+            "width": 400
+        },
+        "title": "Kvaratskhelia kåret til årets spiller i Serie A",
+        "url": "https://www.vg.no/sport/fotball/i/4oGdRg/kvaratskhelia-kaaret-til-aarets-spiller-i-serie-a"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "APW2zx",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/APW2zx",
+        "preamble": "Lørdag spiller Lionel Messi sin siste kamp for PSG. Fremtiden til den argentinske magikeren er ikke bestemt, men Barcelona-trener Xavi ønsker sin tidligere lagkamerat velkommen tilbake.",
+        "published": {
+            "date": "lørdag 3. juni",
+            "datetime": "2023-06-03 11:58:22",
+            "niceformat": "03.06.2023, 11:58",
+            "timestamp": "2023-06-03T09:58:22.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/093fae03-c2ba-444e-998c-f3a9352ed33b?fit=crop&format=auto&h=266&w=400&s=e01eac541e516774e0e8e6762d204b8a29699ccd",
+            "width": 400
+        },
+        "title": "Xavi om Lionel Messis fremtid: – Dørene er vidåpne",
+        "url": "https://www.vg.no/sport/fotball/i/APW2zx/xavi-om-lionel-messis-fremtid-doerene-er-aapne"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "XbJvBE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/XbJvBE",
+        "preamble": "EINDHOVEN (VG) Kvinnenes Champions League-finale denne helgen er utsolgt for første gang. I Norge spilles det to toppkamper, og der drømmer Hege Jørgensen om det samme. ",
+        "published": {
+            "date": "lørdag 3. juni",
+            "datetime": "2023-06-03 09:46:26",
+            "niceformat": "03.06.2023, 09:46",
+            "timestamp": "2023-06-03T07:46:26.000Z"
+        },
+        "thumbnail": {
+            "height": 258,
+            "url": "https://akamai.vgc.no/v2/images/44fd91fc-79c9-42f6-b9f3-263c4a272dd9?fit=crop&format=auto&h=258&w=400&s=fc0f8e82449a1bfbd46e6418ebd4ef222c03095b",
+            "width": 400
+        },
+        "title": "Ut mot finalearena i Champions League: – Fint at vi endelig kan si det",
+        "url": "https://www.vg.no/sport/fotball/i/XbJvBE/ut-mot-finalearena-i-champions-league-fint-at-vi-endelig-kan-si-det"
+    },
+    {
+        "authors": [
+            {
+                "email": "magnus.helle@schibsted.com",
+                "id": "465b91ad-0c13-4b04-8be8-4dbb0cc0080a",
+                "name": "Magnus Helle"
+            },
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O8PGwE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O8PGwE",
+        "preamble": "Tidligere toppdommer mener det er ingen unnskyldning for oppførselen til Roma-trener José Mourinho og mener han har store deler av skylden for dommerangrepet på flyplassen i Budapest. ",
+        "published": {
+            "date": "lørdag 3. juni",
+            "datetime": "2023-06-03 08:18:05",
+            "niceformat": "03.06.2023, 08:18",
+            "timestamp": "2023-06-03T06:18:05.000Z"
+        },
+        "thumbnail": {
+            "height": 285,
+            "url": "https://akamai.vgc.no/v2/images/45ba4490-3435-420f-9c80-e8289cfeab1b?fit=crop&format=auto&h=285&w=400&s=1b62fdfc3653f6c7c46ef2fcb2f3d343b4d2d887",
+            "width": 400
+        },
+        "title": "Mourinho slaktes for oppførselen: – Smitteeffekten du får dønn fasit på",
+        "url": "https://www.vg.no/sport/fotball/i/O8PGwE/jose-mourinho-og-roma-fansen-slaktes-etter-aa-ha-hetset-anthony-taylor"
+    },
+    {
+        "authors": [
+            {
+                "email": "per.opsahl@vg.no",
+                "id": "a8b54406-d047-4b1c-90e2-f9f77a0e7317",
+                "name": "Per Opsahl"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9zn1QW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9zn1QW",
+        "preamble": "Manchester City og Manchester United skal for første gang møtes i en FA-cupfinale. Et oppgjør som uansett vil gå inn i historien som et av de best betydningsfulle oppgjørene mellom to gigantklubber. ",
+        "published": {
+            "date": "lørdag 3. juni",
+            "datetime": "2023-06-03 05:53:41",
+            "niceformat": "03.06.2023, 05:53",
+            "timestamp": "2023-06-03T03:53:41.000Z"
+        },
+        "thumbnail": {
+            "height": 304,
+            "url": "https://akamai.vgc.no/v2/images/688b0b04-fa9f-434f-bfdc-f23ed8341fb1?fit=crop&format=auto&h=304&w=400&s=25b3148b4f9f49262f66e240d897aab477700e14",
+            "width": 400
+        },
+        "title": "Manchester-duellene for evigheten",
+        "url": "https://www.vg.no/sport/fotball/i/9zn1QW/manchester-duellene-for-evigheten"
+    }
+]

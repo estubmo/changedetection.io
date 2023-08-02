@@ -1,0 +1,376 @@
+[
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPX434",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPX434",
+        "preamble": "Chelsea fortsetter å kvitte seg med spillere. Sist i rekken er Mateo Kovacic, som blir lagkamerat med Erling Braut Haaland.",
+        "published": {
+            "date": "onsdag 21. juni",
+            "datetime": "2023-06-21 14:47:58",
+            "niceformat": "21.06.2023, 14:47",
+            "timestamp": "2023-06-21T12:47:58.000Z"
+        },
+        "thumbnail": {
+            "height": 298,
+            "url": "https://akamai.vgc.no/v2/images/dd52ae88-ba42-4a44-8d33-0a528e6736ef?fit=crop&format=auto&h=298&w=400&s=9dc54d26c3852fe3cfdd01aeb240321dd728f8cd",
+            "width": 400
+        },
+        "title": "Medier: Kovacic blir lyseblå",
+        "url": "https://www.vg.no/sport/fotball/i/VPX434/medier-kovacic-blir-lyseblaa"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwaLzo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwaLzo",
+        "preamble": "Det anerkjente nettstedet skriver at Kai Havertz bytter ut London-blått med London-rødt.",
+        "published": {
+            "date": "onsdag 21. juni",
+            "datetime": "2023-06-21 14:10:49",
+            "niceformat": "21.06.2023, 14:10",
+            "timestamp": "2023-06-21T12:10:49.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/e090be71-da63-4c80-bb24-7d619d46d62b?fit=crop&format=auto&h=267&w=400&s=f0cfa1713db579494e8c60a101445f5b28ea5e05",
+            "width": 400
+        },
+        "title": "The Athletic: Arsenal enige med Chelsea om Havertz",
+        "url": "https://www.vg.no/sport/fotball/i/dwaLzo/the-athletic-arsenal-enige-med-chelsea-om-havertz"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMXyJ9",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMXyJ9",
+        "preamble": "Chelsea må selge spillere for å lande innenfor de økonomiske retningslinjene i Premier League. Saudi-Arabia kan bli London-klubbens hjelpende hånd, men nå krever flere klubber en etterforskning.",
+        "published": {
+            "date": "onsdag 21. juni",
+            "datetime": "2023-06-21 13:54:41",
+            "niceformat": "21.06.2023, 13:54",
+            "timestamp": "2023-06-21T11:54:41.000Z"
+        },
+        "thumbnail": {
+            "height": 271,
+            "url": "https://akamai.vgc.no/v2/images/761d70f1-ef8b-4c9a-b75f-1846114af00a?fit=crop&format=auto&h=271&w=400&s=7aeffefaa82ad121a6699d118d4f5755453ba4b9",
+            "width": 400
+        },
+        "title": "Krever etterforskning av mulige Chelsea-salg",
+        "url": "https://www.vg.no/sport/fotball/i/GMXyJ9/flere-europeiske-fotballklubber-krever-etterforskning-av-naert-forestaaende-spillersalg-fra-chelsea-til-saudi-arabia"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "15ejql",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/15ejql",
+        "preamble": "Den tyske midtbanegeneralen Toni Kroos tar ett år til i Real Madrid. Kontrakten er fornyet fram til 30. juni 2024.",
+        "published": {
+            "date": "onsdag 21. juni",
+            "datetime": "2023-06-21 13:06:58",
+            "niceformat": "21.06.2023, 13:06",
+            "timestamp": "2023-06-21T11:06:58.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/76958c58-2f4f-4035-aa23-a100bb243e9c?fit=crop&format=auto&h=267&w=400&s=879bc1672cad1085e644ac31f2fcc621e707e489",
+            "width": 400
+        },
+        "title": "Kroos forlenget med Real Madrid",
+        "url": "https://www.vg.no/sport/fotball/i/15ejql/kroos-forlenget-med-real-madrid"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3avKG",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3avKG",
+        "preamble": "Molde møter vinneren av dobbeltkampen mellom HJK (Finland) og Larne (Nord-Irland) i jakten på Champions Leagues lukrative gruppespill.",
+        "published": {
+            "date": "onsdag 21. juni",
+            "datetime": "2023-06-21 12:58:07",
+            "niceformat": "21.06.2023, 12:58",
+            "timestamp": "2023-06-21T10:58:07.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/3wJvTK2D-ljW.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Molde får finsk eller nordirsk motstand – Bodø/Glimt møter lag fra Tsjekkia",
+        "url": "https://www.vg.no/sport/fotball/i/l3avKG/molde-faar-finsk-eller-nordirsk-motstand-i-cl-kvalifiseringen"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q1xJ8w",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q1xJ8w",
+        "preamble": "Erling Braut Haaland, Martin Ødegaard, Sander Berge og Stefan Strandberg feiret seieren mot Kypros med en kebab på Tåsen.",
+        "published": {
+            "date": "onsdag 21. juni",
+            "datetime": "2023-06-21 11:37:10",
+            "niceformat": "21.06.2023, 11:37",
+            "timestamp": "2023-06-21T09:37:10.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/1aa799af-e4f8-457a-9c24-7cc3d6b6fd48?fit=crop&format=auto&h=300&w=400&s=950c12ed411f87965dd82ce026e21146b1796a39",
+            "width": 400
+        },
+        "title": "Haaland feiret seier med kebab: – De sa det var den beste de hadde spist",
+        "url": "https://www.vg.no/sport/fotball/i/q1xJ8w/haaland-feiret-seier-med-kebab"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jlx3nL",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jlx3nL",
+        "preamble": "Den franske midtbanestjernen N'golo Kanté (32) er klar for All-Ittihad.",
+        "published": {
+            "date": "onsdag 21. juni",
+            "datetime": "2023-06-21 00:31:00",
+            "niceformat": "21.06.2023, 00:31",
+            "timestamp": "2023-06-20T22:31:00.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0a971397-f2d3-45c2-9c34-2e67edd09290?fit=crop&format=auto&h=267&w=400&s=598e6346b4365f01ecec13e07380711f3dd5edfd",
+            "width": 400
+        },
+        "title": "Bekreftet: Kanté klar for saudiarabisk klubb",
+        "url": "https://www.vg.no/sport/fotball/i/jlx3nL/bekreftet-kante-klar-for-saudiarabisk-klubb"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q7XgeQ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q7XgeQ",
+        "preamble": "ULLEVAAL STADION (VG) Landslagssjef Ståle Solbakken (55) og Martin Ødegaard (24) fikk seg en mental knekk før tirsdagens seier mot Kypros. De har nemlig aldri vært så langt nede i kjelleren som de siste tre dagene.",
+        "published": {
+            "date": "onsdag 21. juni",
+            "datetime": "2023-06-21 00:09:49",
+            "niceformat": "21.06.2023, 00:09",
+            "timestamp": "2023-06-20T22:09:49.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/Hwer9lSh5sZK.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Mentaltreneren jobbet overtid: – Så langt nede i kjelleren som det går an",
+        "url": "https://www.vg.no/sport/fotball/i/Q7XgeQ/staale-solbakken-sier-at-mentaltreneren-jobbet-overtid-martin-oedegaard-var-langt-nede-i-kjelleren-etter-skottland-nedturen"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jlx3be",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jlx3be",
+        "preamble": "Det er ikke bare Norge som skal slite med å ta seg til neste års EM-sluttspill. Sverige er ille ute etter 0-2-nederlaget borte mot Østerrike.",
+        "published": {
+            "date": "tirsdag 20. juni",
+            "datetime": "2023-06-20 23:24:40",
+            "niceformat": "20.06.2023, 23:24",
+            "timestamp": "2023-06-20T21:24:40.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/9e0a5515-5308-41d8-8d58-b3ee0d93f91d?fit=crop&format=auto&h=267&w=400&s=bbc12c55e4ae22bb0afa7eadc57698a27477ff21",
+            "width": 400
+        },
+        "title": "EM-krise for Sverige – tapte etter sene mål",
+        "url": "https://www.vg.no/sport/fotball/i/jlx3be/em-krise-for-sverige-tapte-etter-sene-maal"
+    },
+    {
+        "authors": [
+            {
+                "email": "svea@vg.no",
+                "id": "f852e5e5-5ba9-48c7-96da-9455a160031f",
+                "name": "Knut Espen Svegaarden"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4olEO9",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4olEO9",
+        "preamble": "ULLEVAAL STADION (VG) (Norge-Kypros 3–1) Så lenge Norge har en spiss som scorer mål i hver kamp, så vil det alltid være muligheter. Men vi får se til hva høsten bringer. Det er mange spørsmål som må besvares i løpet av det neste halve året.",
+        "published": {
+            "date": "tirsdag 20. juni",
+            "datetime": "2023-06-20 23:03:39",
+            "niceformat": "20.06.2023, 23:03",
+            "timestamp": "2023-06-20T21:03:39.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ddb76ca0-438a-4c3b-ae96-b09aed2dbe6f?fit=crop&format=auto&h=267&w=400&s=b03133e9a508a637079f0cffb591a9ec2c693875",
+            "width": 400
+        },
+        "title": "Solbakken skal være glad han har Haaland",
+        "url": "https://www.vg.no/sport/fotball/i/4olEO9/solbakken-skal-vaere-glad-han-har-haaland"
+    }
+]

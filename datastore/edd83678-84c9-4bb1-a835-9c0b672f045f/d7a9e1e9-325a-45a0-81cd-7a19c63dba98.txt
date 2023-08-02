@@ -1,0 +1,201 @@
+[
+    {
+        "slug": "rbk-profilen-bekrefter-har-avvist-to-kontraktsforslag",
+        "url": "/sport/fotball/i/2Bwq2q/rbk-profilen-bekrefter-har-avvist-to-kontraktsforslag",
+        "title": {
+            "value": "RBK-profilen bekrefter: Har avvist to kontraktsforslag"
+        },
+        "description": "Edvard Tagseth vil ikke legge for mye i at han har avvist to tilbud fra RBK.",
+        "imageUrl": "602c1453-5c6c-4ff7-8540-985c822b0327",
+        "publishedAt": "2023-07-05T16:51:59Z",
+        "lastModifiedAt": "2023-07-05T16:55:06Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "edvard-tagseth"
+        ]
+    },
+    {
+        "slug": "ferieviner-paa-polet",
+        "url": "/kultur/i/pQOMKX/ferieviner-paa-polet",
+        "title": {
+            "value": "To gode musserende viner rett over 200 kroner"
+        },
+        "description": "Gode bobler, hvitvin på halvflaske, sommerviner med naturlig lav alkohol og et spennende geografisk utvalg av røde viner står øverst på vår liste.",
+        "imageUrl": "d590a313-0ee4-4eb1-bb43-21f998f6dd5c",
+        "publishedAt": "2023-07-05T13:42:30Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Monika Wessel"
+        ],
+        "tags": [
+            "bobler",
+            "hvitvin",
+            "alkohol"
+        ]
+    },
+    {
+        "slug": "holse-svarer-paa-glimt-interessen-og-linkes-til-england",
+        "url": "/sport/fotball/i/wAJxv1/holse-svarer-paa-glimt-interessen-og-linkes-til-england",
+        "title": {
+            "value": "Svarer på Glimt-interessen - og linkes til England"
+        },
+        "description": "Rosenborgs superdanske har en rekke beilere.",
+        "imageUrl": "2e3131ad-df95-411b-93a9-9b3d2c115fb2",
+        "publishedAt": "2023-07-05T11:57:48Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "sport",
+            "fotball",
+            "carlo-holse",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "fn-vil-toeyle-og-utnytte-kunstig-intelligens",
+        "url": "/nyheter/utenriks/i/q18vvo/fn-vil-toeyle-og-utnytte-kunstig-intelligens",
+        "title": {
+            "value": "FN vil tøyle og utnytte kunstig intelligens"
+        },
+        "description": "FN vil gjøre bruk av kunstig intelligens (KI) til menneskehetens beste og samtidig sette grenser for teknologien.",
+        "imageUrl": "373b4ce8-97e7-4d21-b100-c538a4d10deb",
+        "publishedAt": "2023-07-05T03:30:38Z",
+        "lastModifiedAt": "2023-07-05T03:30:38Z",
+        "premium": false,
+        "authors": [
+            "NTB-Jan-Morten Bjørnbakk"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "rbk-sjefene-vi-er-noedt-til-aa-selge-foer-vi-kan-kjoepe",
+        "url": "/sport/fotball/i/AP5R7j/rbk-sjefene-vi-er-noedt-til-aa-selge-foer-vi-kan-kjoepe",
+        "title": {
+            "value": "RBK-sjefene: - Vi er nødt til å selge før vi kan kjøpe"
+        },
+        "description": "Foran sommerens overgangsvindu er ikke Rosenborg i posisjon til å kunne «kjøpe seg ut av trøbbel». Først må spillere ut før nye kan komme inn.",
+        "imageUrl": "b09dcfc1-4ef9-402f-8ad4-8b55cfadcc87",
+        "publishedAt": "2023-07-04T18:13:24Z",
+        "lastModifiedAt": "2023-07-04T18:13:24Z",
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "tore-bjoerseth-berdal",
+            "eliteserien",
+            "kjetil-rekdal",
+            "roar-vikvang",
+            "svein-maalen",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "glimt-sikler-etter-rbk-stjerne",
+        "url": "/sport/fotball/i/Q7W5PQ/glimt-sikler-etter-rbk-stjerne",
+        "title": {
+            "value": "Glimt sikler etter RBK-stjerne"
+        },
+        "description": "Bodø/Glimt skal være interessert i å hente Rosenborgs Carlo Holse.",
+        "imageUrl": "f583af3d-5c8f-420a-a4b6-a533f2675262",
+        "publishedAt": "2023-07-04T16:11:27Z",
+        "lastModifiedAt": "2023-07-04T16:15:03Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold",
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "carlo-holse"
+        ]
+    },
+    {
+        "slug": "tok-et-vanskelig-valg-rett-og-slett-det-beste-tilbudet",
+        "url": "/sport/i/nQrApa/tok-et-vanskelig-valg-rett-og-slett-det-beste-tilbudet",
+        "title": {
+            "value": "Tok et vanskelig valg: - Rett og slett det beste tilbudet "
+        },
+        "description": "Thea og Thale Leirfall Bremset (24) har aldri vært større gullkandidater før NM i friidrett enn de er nå. På veien har de gjort harde prioriteringer.",
+        "imageUrl": "e0b199e4-7d59-49d9-beca-f6fe12988f1c",
+        "publishedAt": "2023-07-04T13:18:13Z",
+        "lastModifiedAt": "2023-07-05T06:16:58Z",
+        "premium": true,
+        "authors": [
+            "Ine Skjellum"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "ny-kontrakt-for-rbk-talentet",
+        "url": "/sport/fotball/i/EQkb2j/ny-kontrakt-for-rbk-talentet",
+        "title": {
+            "value": "Ny kontrakt for RBK-talentet"
+        },
+        "description": "Synne Brønstad forlenger oppholdet i Rosenborg. Midtbanespilleren har skrevet under en avtale som varer ut 2025-sesongen.",
+        "imageUrl": "216dc0a7-e6e7-4471-9c7c-9c23ef24cda3",
+        "publishedAt": "2023-07-04T11:57:55Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus",
+            "NTB"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "toppserien"
+        ]
+    },
+    {
+        "slug": "utloeste-brannalarmen-i-raseri-oensket-at-butikken-skulle-bli-toemt-for-kunder",
+        "url": "/nyheter/trondheim/i/wAJOg4/utloeste-brannalarmen-i-raseri-oensket-at-butikken-skulle-bli-toemt-for-kunder",
+        "title": {
+            "value": "Utløste brannalarmen i raseri. Ønsket at butikken skulle bli tømt for kunder"
+        },
+        "description": "I rent raseri utløste mannen i 30-årene brannalarmen på en Kiwi-butikk i Trondheim tidligere i år. Han regnet med at brannvesenet ville rykke ut.",
+        "imageUrl": "a723afcd-0eef-46c4-ae1e-aa00057a1d1f",
+        "publishedAt": "2023-07-04T11:10:38Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Kristina Bye",
+            "Camilla Kilnes"
+        ],
+        "tags": [
+            "fengsel",
+            "dom",
+            "trondheim",
+            "krim"
+        ]
+    },
+    {
+        "slug": "rbk-sjefen-aapnet-for-investorer-interessen-er-lunken",
+        "url": "/sport/fotball/i/1507VM/rbk-sjefen-aapnet-for-investorer-interessen-er-lunken",
+        "title": {
+            "value": "Lunken interesse for pengehjelp til RBK"
+        },
+        "description": "Dersom Rosenborg skal hente inn friske penger til spillerkjøp, kan det være at de må lete andre steder enn sist.",
+        "imageUrl": "64fcf70c-91d0-4f80-9a9d-ab1e1814cd21",
+        "publishedAt": "2023-07-04T07:29:27Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rolf-jarle-broeske",
+            "cecilie-gotaas-johnsen",
+            "gustav-witzoee",
+            "rosenborg-bk",
+            "eliteserien"
+        ]
+    }
+]

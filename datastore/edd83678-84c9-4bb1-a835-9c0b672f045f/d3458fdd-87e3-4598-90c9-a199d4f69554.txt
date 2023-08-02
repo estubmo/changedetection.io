@@ -1,0 +1,187 @@
+[
+    {
+        "slug": "cupomlegging-kan-gi-historisk-omspill-om-europa-billett-i-norsk-fotball",
+        "url": "/nyheter/innenriks/i/wAXRQG/cupomlegging-kan-gi-historisk-omspill-om-europa-billett-i-norsk-fotball",
+        "title": {
+            "value": "Cupomlegging kan gi historisk omspill om Europa-billett i norsk fotball"
+        },
+        "description": "Fotball-NM for menn vurderes endret permanent fra neste år. De kan føre til en unik situasjon med omspill om retten til å representere Norge i Europa.",
+        "imageUrl": "29a24150-2aae-4c77-8bff-11e9c2ec572f",
+        "publishedAt": "2023-05-23T11:07:10Z",
+        "lastModifiedAt": "2023-05-23T11:14:52Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "ranheim-tf-2-reddet-uavgjort",
+        "url": "/lokalfotballen/i/15woLq/ranheim-tf-2-reddet-uavgjort",
+        "title": {
+            "value": "Ranheim TF 2 ordnet poeng"
+        },
+        "description": "Trygg/Lade 2 og Ranheim TF 2 spilte 1-1 på Obos kunstgressbane (Lade)",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T21:17:31Z",
+        "lastModifiedAt": "2023-05-22T21:37:11Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "sparbu-slo-soerlia-innherred-2-i-maalfest",
+        "url": "/lokalfotballen/i/O8Pgxw/sparbu-slo-soerlia-innherred-2-i-maalfest",
+        "title": {
+            "value": "Sparbu slo Sørlia/Innherred 2 i målfest"
+        },
+        "description": "Sparbu slo Sørlia/Innherred 2 4-2 på Løbanen gress i 6. divisjon, Trøndelag - Avdeling 1 i fotball for menn mandag. Sørlia/Innherred 2 har tapt alle kampene sine hittil denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T21:08:08Z",
+        "lastModifiedAt": "2023-05-22T21:08:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "frank-berget-ett-poeng-for-gimse-melhus-gauldal",
+        "url": "/lokalfotballen/i/xgXlol/frank-berget-ett-poeng-for-gimse-melhus-gauldal",
+        "title": {
+            "value": "Hattrick på hjemmebane"
+        },
+        "description": "Nardo lå under 0-3, men klarte 3-3 mot Gimse/Melhus/Gauldal etter en sen utligning i 3. divisjon, Trøndelag i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T20:53:38Z",
+        "lastModifiedAt": "2023-05-22T21:06:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "lier-dobbel-for-hegra",
+        "url": "/lokalfotballen/i/Kn1rgo/lier-dobbel-for-hegra",
+        "title": {
+            "value": "Lier scoret to for Hegra"
+        },
+        "description": "Ørjan Lier scoret begge målene for Hegra og ble den store helten i 2-1-seieren over Lånke 2 i 6. divisjon, Trøndelag - Avdeling 2 i fotball for menn mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T20:39:44Z",
+        "lastModifiedAt": "2023-05-22T21:37:10Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "indahl-scoret-hattrick-mot-helgaadal",
+        "url": "/lokalfotballen/i/y6Xl2a/indahl-scoret-hattrick-mot-helgaadal",
+        "title": {
+            "value": "Målene rant inn for Indahl"
+        },
+        "description": "Stian Indahl viste scoringsform da Vuku 2/Leksdal 2 vant 10-2 over Helgådal i 6. divisjon, Trøndelag - Avdeling 2 i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T20:26:59Z",
+        "lastModifiedAt": "2023-05-22T21:08:09Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "rindal-2-med-borteseier-over-svorkmo-2",
+        "url": "/lokalfotballen/i/EQ5lMG/rindal-2-med-borteseier-over-svorkmo-2",
+        "title": {
+            "value": "Rindal 2 vant over Svorkmo 2"
+        },
+        "description": "Rindal 2 seiret 2-0 over Svorkmo 2 i 6. divisjon, Trøndelag - Avdeling 5 i fotball for menn mandag. Det var Svorkmo 2s andre tap på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T20:16:44Z",
+        "lastModifiedAt": "2023-05-22T20:39:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "maalfest-paa-viosen-stadion",
+        "url": "/lokalfotballen/i/VPkg8l/maalfest-paa-viosen-stadion",
+        "title": {
+            "value": "Uavgjort i målfest mellom Snåsa og Spillum"
+        },
+        "description": "Snåsa og Spillum spilte 3-3 på Viosen stadion i 6. divisjon, Trøndelag - Avdeling 1 i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T20:08:47Z",
+        "lastModifiedAt": "2023-05-22T20:39:45Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ranheim-tok-tre-poeng-i-toppoppgjoeret",
+        "url": "/lokalfotballen/i/BWdMX7/ranheim-tok-tre-poeng-i-toppoppgjoeret",
+        "title": {
+            "value": "Ranheim kunne juble etter toppoppgjøret"
+        },
+        "description": "Byåsen 2 gikk på sitt første nederlag i årets sesong etter dagens 0-1-tap mot Ranheim.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T20:08:47Z",
+        "lastModifiedAt": "2023-05-22T20:39:45Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "mckellar-med-maalshow",
+        "url": "/lokalfotballen/i/pQX1jw/mckellar-med-maalshow",
+        "title": {
+            "value": "Mckellar-hattrick holdt ikke til poeng"
+        },
+        "description": "Verdal gikk på sitt femte strake tap da klubben tapte 3-4 for Ranheim",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T20:07:36Z",
+        "lastModifiedAt": "2023-05-22T21:06:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    }
+]

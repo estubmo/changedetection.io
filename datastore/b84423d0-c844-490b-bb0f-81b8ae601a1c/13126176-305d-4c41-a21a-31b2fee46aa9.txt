@@ -1,0 +1,371 @@
+[
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WRdp5Q",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WRdp5Q",
+        "preamble": "ULLEVAAL STADION (VG) Stjørdals-Blink-keeper Rasmus Sandberg (22) gikk nesten i bakken da navnet hans ble inkludert i troppen som skal representere Norge i U21-EM for første gang på 10 år.",
+        "published": {
+            "date": "onsdag 31. mai",
+            "datetime": "2023-05-31 15:43:14",
+            "niceformat": "31.05.2023, 15:43",
+            "timestamp": "2023-05-31T13:43:14.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/88de8967-06b8-415c-8e38-97ae0f481be1?fit=crop&format=auto&h=267&w=400&s=c0d5753c40695dcc81124becfa8a2ecfb07d206a",
+            "width": 400
+        },
+        "title": "Ukjente Rasmus (22) fikk drøm oppfylt: – Holdt på å svime av",
+        "url": "https://www.vg.no/sport/fotball/i/WRdp5Q/ukjente-rasmus-22-fikk-droem-oppfylt-holdt-paa-aa-svime-av"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76L8kW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76L8kW",
+        "preamble": "Tre Brann-supportere er anmeldt for knallskudd, sparking og forsøk å bryte sperring, melder Bergensavisene.",
+        "published": {
+            "date": "onsdag 31. mai",
+            "datetime": "2023-05-31 15:09:18",
+            "niceformat": "31.05.2023, 15:09",
+            "timestamp": "2023-05-31T13:09:18.000Z"
+        },
+        "title": "Tre Brann-supportere anmeldes",
+        "url": "https://www.vg.no/sport/fotball/i/76L8kW/tre-brann-supportere-anmeldes"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            },
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4mQWp",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4mQWp",
+        "preamble": "ULLEVAAL STADION (VG) I sommer deltar Norge i U21-EM for første gang på 10 år. Onsdag kunne 23 mann se frem til karrierens foreløpige høydepunkt, mens flere norske talenter fikk mesterskapsdrømmen knust.",
+        "published": {
+            "date": "onsdag 31. mai",
+            "datetime": "2023-05-31 14:06:25",
+            "niceformat": "31.05.2023, 14:06",
+            "timestamp": "2023-05-31T12:06:25.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/f0de6a7f-f89f-4523-9f9a-476388a28eb2?fit=crop&format=auto&h=267&w=400&s=e96cfbacc7a221d974cd808b29b2738c26ba96b0",
+            "width": 400
+        },
+        "title": "Stjerneskudd til U21-EM: Nusa inkludert i troppen - Schjelderup ute",
+        "url": "https://www.vg.no/sport/fotball/i/P4mQWp/stjerneskudd-vraket-til-u21-em"
+    },
+    {
+        "authors": [
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            },
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Kn1JVM",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Kn1JVM",
+        "preamble": "OSLO SENTRUM (VG) Petter Northug er en av Rosenborgs mest profilerte supportere. Han er totalt uenig med «Mini» Jakobsen, og mener supporterne må få si det de vil om klubben - og at de må bli lyttet til. ",
+        "published": {
+            "date": "onsdag 31. mai",
+            "datetime": "2023-05-31 12:45:43",
+            "niceformat": "31.05.2023, 12:45",
+            "timestamp": "2023-05-31T10:45:43.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/b184adcd-0c13-4478-ad87-bc921d93740a?fit=crop&format=auto&h=267&w=400&s=562e14fa499e7ff26b961b629566ce8a593c35b8",
+            "width": 400
+        },
+        "title": "Northug hardt ut mot «Mini»: – Supporterne må få ha sin tydelige mening",
+        "url": "https://www.vg.no/sport/fotball/i/Kn1JVM/rosenborg-supporter-petter-northug-ut-mot-jahn-ivar-mini-jakobsen-supporterne-maa-faa-ha-sin-mening"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            },
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            },
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Kn17j7",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Kn17j7",
+        "preamble": "Norges Fotballforbund (NFF) har bestemt seg for sitt neste store satsningsområde: Å fange opp spillere som henger litt etter i den fysiske utviklingen.",
+        "published": {
+            "date": "onsdag 31. mai",
+            "datetime": "2023-05-31 09:50:49",
+            "niceformat": "31.05.2023, 09:50",
+            "timestamp": "2023-05-31T07:50:49.000Z"
+        },
+        "thumbnail": {
+            "height": 289,
+            "url": "https://akamai.vgc.no/v2/images/ec4045be-32ae-45c0-836f-4bd34b98c686?fit=crop&format=auto&h=289&w=400&s=a8ae458cb181702f0fd13fecfb97ad5efcee2d5b",
+            "width": 400
+        },
+        "title": "Stor NFF-satsing på sent utviklede: – Vi er nødt til å gjøre noe",
+        "url": "https://www.vg.no/sport/fotball/i/Kn17j7/stor-nff-satsing-paa-sent-utviklede-vi-er-noedt-til-aa-gjoere-noe"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "veXokl",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/veXokl",
+        "preamble": "De italienske forretningsmennene Andrea Radrizzani og Matteo Manfredi kjøper fotballklubben Sampdoria.",
+        "published": {
+            "date": "onsdag 31. mai",
+            "datetime": "2023-05-31 09:25:45",
+            "niceformat": "31.05.2023, 09:25",
+            "timestamp": "2023-05-31T07:25:45.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/5d44f598-d020-4673-94c4-52abcdcb827d?fit=crop&format=auto&h=267&w=400&s=e5d85d0cc207a756f1a61816aafb05d6742d2d4a",
+            "width": 400
+        },
+        "title": "Leeds-eieren tar over Sampdoria",
+        "url": "https://www.vg.no/sport/fotball/i/veXokl/leeds-eieren-tar-over-sampdoria"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "abLROd",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/abLROd",
+        "preamble": "Fem menn som solgte abonnement på ulovlig strømming av Premier League-kamper til mer enn 50.000 mennesker er fengslet.",
+        "published": {
+            "date": "onsdag 31. mai",
+            "datetime": "2023-05-31 09:22:40",
+            "niceformat": "31.05.2023, 09:22",
+            "timestamp": "2023-05-31T07:22:40.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/013a812c-222d-4532-9b46-d32ba4d9533f?fit=crop&format=auto&h=267&w=400&s=77548ba4f84a296070a70fcf5e8f34aa1ac6bebe",
+            "width": 400
+        },
+        "title": "Fem menn dømt til fengsel etter å ha solgt Premier League-kamper ulovlig",
+        "url": "https://www.vg.no/sport/fotball/i/abLROd/fem-menn-doemt-til-fengsel-etter-aa-ha-solgt-premier-league-kamper-ulovlig"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAXoeP",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAXoeP",
+        "preamble": "En brasiliansk domstol ber om arrestasjon av den tidligere Bayern München- og Juventus-spilleren Douglas Costa for å ha unnlatt å betale for barnebidrag.",
+        "published": {
+            "date": "onsdag 31. mai",
+            "datetime": "2023-05-31 08:34:42",
+            "niceformat": "31.05.2023, 08:34",
+            "timestamp": "2023-05-31T06:34:42.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6accd76d-136b-4fa4-b06d-2692dbea606b?fit=crop&format=auto&h=267&w=400&s=668a7a811d8f0e0789c39eaba753cfc1d3236eec",
+            "width": 400
+        },
+        "title": "Arrestordre for tidligere Bayern-stjerne i Brasil",
+        "url": "https://www.vg.no/sport/fotball/i/wAXoeP/arrestordre-for-tidligere-bayern-stjerne-i-brasil"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "onBOlK",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/onBOlK",
+        "preamble": "Dersom Roma vinner Europa League og ikke roter det til i siste ligarunde, øker sjansen betraktelig for europakvelder på Brann Stadion til høsten.",
+        "published": {
+            "date": "onsdag 31. mai",
+            "datetime": "2023-05-31 08:14:43",
+            "niceformat": "31.05.2023, 08:14",
+            "timestamp": "2023-05-31T06:14:43.000Z"
+        },
+        "thumbnail": {
+            "height": 287,
+            "url": "https://akamai.vgc.no/v2/images/32ba5757-7c84-44d6-80e5-244067f8a78a?fit=crop&format=auto&h=287&w=400&s=fa93b2295660428e8e89b02663f244f480a7e959",
+            "width": 400
+        },
+        "title": "Brann kan få Mourinho-hjelp i Europa: – Bergen bør absolutt heie på Roma",
+        "url": "https://www.vg.no/sport/fotball/i/onBOlK/brann-kan-faa-mourinho-hjelp-i-europa-bergen-boer-absolutt-heie-paa-roma"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB-Reuters"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JWdew",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JWdew",
+        "preamble": "Trenerne i det engelske ligasystemet kåret Pep Guardiola til sesongens manager i Premier League etter å ha ledet Manchester City til ligagullet.",
+        "published": {
+            "date": "onsdag 31. mai",
+            "datetime": "2023-05-31 07:40:33",
+            "niceformat": "31.05.2023, 07:40",
+            "timestamp": "2023-05-31T05:40:33.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6aaa2597-e5f5-463a-a264-12f8a2b5f7f8?fit=crop&format=auto&h=267&w=400&s=689cfb62ecbc978cbf3f3cb0c2bf06161caf70b1",
+            "width": 400
+        },
+        "title": "Guardiola stemt frem som sesongens manager i Premier League av kollegaene",
+        "url": "https://www.vg.no/sport/fotball/i/8JWdew/guardiola-stemt-frem-som-sesongens-manager-i-premier-league-av-kollegaene"
+    }
+]

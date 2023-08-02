@@ -1,0 +1,385 @@
+[
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQX1Wl",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQX1Wl",
+        "preamble": "Det begynner å haste dersom David de Gea skal vokte målet for Manchester United også neste sesong. Om 37 timer er kontrakten ute.",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 10:43:14",
+            "niceformat": "29.06.2023, 10:43",
+            "timestamp": "2023-06-29T08:43:14.000Z"
+        },
+        "thumbnail": {
+            "height": 263,
+            "url": "https://akamai.vgc.no/v2/images/0da29165-6ab6-4ac5-9f4f-22ed09b9d370?fit=crop&format=auto&h=263&w=400&s=22c8ae4fe0e1a9b0ddc102a5a3319a2bf5ec2791",
+            "width": 400
+        },
+        "title": "De Gea med kryptisk melding etter kontraktsbråk",
+        "url": "https://www.vg.no/sport/fotball/i/EQX1Wl/de-gea-med-kryptisk-melding-etter-kontraktbraak"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "abeRz4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/abeRz4",
+        "preamble": "NFF søker om 33 millioner kroner til en grønn omstilling av landets fotballbaner. ",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 10:13:34",
+            "niceformat": "29.06.2023, 10:13",
+            "timestamp": "2023-06-29T08:13:34.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/35fdf95a-cfb9-43b4-a11c-5a587032b7d1?fit=crop&format=auto&h=267&w=400&s=1a52fe7985f1f5955a55b485abda0e331da0a9ab",
+            "width": 400
+        },
+        "title": "Norges Fotballforbunds kunstgress-anslag: Prislapp på 10 milliarder",
+        "url": "https://www.vg.no/sport/fotball/i/abeRz4/nff-anslaar-prislappen-for-omstilling-av-kunstgressbaner-til-10-milliarder"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76oaQ8",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76oaQ8",
+        "preamble": "Gerardo Martino blir ny trener i MLS-klubben Inter Miami. Der gjenforenes han med sin tidligere Barcelona- og Argentina-elev Lionel Messi.",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 08:00:36",
+            "niceformat": "29.06.2023, 08:00",
+            "timestamp": "2023-06-29T06:00:36.000Z"
+        },
+        "thumbnail": {
+            "height": 270,
+            "url": "https://akamai.vgc.no/v2/images/3abc1099-47a7-471d-b282-81c38e218cfc?fit=crop&format=auto&h=270&w=400&s=41bb05ffce4e1ea34742b71326cb5ffc580019b9",
+            "width": 400
+        },
+        "title": "Messi får gammel kjenning som trener",
+        "url": "https://www.vg.no/sport/fotball/i/76oaQ8/messi-faar-gammel-kjenning-som-trener"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4XlWe",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4XlWe",
+        "preamble": "CLUJ, ROMANIA (VG) Warren Kamanzi måtte holdes igjen av flere lagkamerater etter kampslutt mot Italia. Han sier han ble tatt kvelertak på flere ganger av Matteo Cancellieri (21).",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 07:05:58",
+            "niceformat": "29.06.2023, 07:05",
+            "timestamp": "2023-06-29T05:05:58.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a7676e61-91a0-4c2b-a9c2-5152eb681ae4?fit=crop&format=auto&h=267&w=400&s=539bbe9ee23226e4cef118363c538c782747782b",
+            "width": 400
+        },
+        "title": "Hevder han ble tatt kvelertak på to ganger: – Jeg blir sjokkert",
+        "url": "https://www.vg.no/sport/fotball/i/P4XlWe/u21-em-warren-kamanzi-hevder-han-ble-tatt-kvelertak-paa"
+    },
+    {
+        "authors": [
+            {
+                "email": "svea@vg.no",
+                "id": "f852e5e5-5ba9-48c7-96da-9455a160031f",
+                "name": "Knut Espen Svegaarden"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPX7md",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPX7md",
+        "preamble": "Landslagssjef Leif Gunnar Smerud fikk ikke vist fram det beste av Norge før i den siste av seks omganger under U21-EM. Derfor må han og Norge reise hjem etter gruppespillet.",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 00:19:28",
+            "niceformat": "29.06.2023, 00:19",
+            "timestamp": "2023-06-28T22:19:28.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/b5bb2fd9-d7ec-40c0-a32b-00bbcac13154?fit=crop&format=auto&h=267&w=400&s=6ae6924440fe96565ecdc346bb4b1bb97f3756d2",
+            "width": 400
+        },
+        "title": "Det tok for lang tid, Smerud",
+        "url": "https://www.vg.no/sport/fotball/i/VPX7md/det-tok-for-lang-tid-smerud"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4Xlbz",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4Xlbz",
+        "preamble": "CLUJ, ROMANIA (VG) (Italia – Norge 0–1) Norge var ett mål fra å gå videre i EM. Osame Sahraoui ble avblåst da han kunne fikset det avgjørende målet, og etter kampen hevder han at fjerdedommeren sa at avgjørelsen var feil.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 22:38:49",
+            "niceformat": "28.06.2023, 22:38",
+            "timestamp": "2023-06-28T20:38:49.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/d920f94c-77dd-4579-8821-569ac4707702?fit=crop&format=auto&h=267&w=400&s=c9015bb96eef30bc8db4c149123b90d8524b691c",
+            "width": 400
+        },
+        "title": "Hevder assistentdommer innrømmer feil: – Jeg var i sjokk",
+        "url": "https://www.vg.no/sport/fotball/i/P4Xlbz/u21-em-norge-slo-italia-roek-ut-av-turneringen"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "bg6xak",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/bg6xak",
+        "preamble": "James Maddison blir ikke med Leicester ned til Championship. Tottenham har omsider fått kloen i midtbaneeleganten etter lange forhandlinger.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 22:15:04",
+            "niceformat": "28.06.2023, 22:15",
+            "timestamp": "2023-06-28T20:15:04.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/18ac450c-f010-4919-9b96-8d036031572b?fit=crop&format=auto&h=267&w=400&s=4c3c22c3f3fd06feaa7326fed4f473d49fcbd78d",
+            "width": 400
+        },
+        "title": "Bekreftet: Tottenham henter Maddison",
+        "url": "https://www.vg.no/sport/fotball/i/bg6xak/bekreftet-tottenham-henter-maddison"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "abeM3E",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/abeM3E",
+        "preamble": "(Bodø/Glimt - Tromsø 3–2) Ulrik Saltnes sendte Glimt videre i cupen i sine første minutter tilbake på åtte måneder. Tromsø-leiren raste etter kampslutt.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 21:04:23",
+            "niceformat": "28.06.2023, 21:04",
+            "timestamp": "2023-06-28T19:04:23.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/41cbf01a-0449-4934-bf62-e8bf3745923e?fit=crop&format=auto&h=267&w=400&s=7d3d4976646d7ac48afacca6c86b8e29f09d427e",
+            "width": 400
+        },
+        "title": "Saltnes sendte Glimt videre i skadereturen – Tromsø raste mot dommeren",
+        "url": "https://www.vg.no/sport/fotball/i/abeM3E/saltnes-sendte-glimt-videre-etter-skadereturen"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3aRJM",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3aRJM",
+        "preamble": "Kai Havertz erstatter blått med rødt. Chelsea-spissen blir lagkamerat med Martin Ødegaard i Arsenal.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 21:02:38",
+            "niceformat": "28.06.2023, 21:02",
+            "timestamp": "2023-06-28T19:02:38.000Z"
+        },
+        "thumbnail": {
+            "height": 309,
+            "url": "https://akamai.vgc.no/v2/images/9c8dcb36-3d93-4502-8140-f2bc89ee033a?fit=crop&format=auto&h=309&w=400&s=2ab25f8ab849a350aed3a798ebcf810747b5859d",
+            "width": 400
+        },
+        "title": "Havertz bytter farge i London – klar for Arsenal",
+        "url": "https://www.vg.no/sport/fotball/i/l3aRJM/havertz-bytter-farge-i-london-klar-for-arsenal"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            },
+            {
+                "email": "oyvind.herrebroden@vg.no",
+                "id": "7b5d0009-0f34-41e3-b5af-dcf22addbd42",
+                "name": "Øyvind Herrebrøden"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJRnmM",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJRnmM",
+        "preamble": "(Raufoss - Viking 4–4, 4–1 på straffer) Obosligalaget Raufoss svarte på hver Viking-scoring, og slo eliteserielaget ut av cupen på straffer. Nå møter de 2.-divisjonslaget Kjelsås i kvartfinalen.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 20:46:04",
+            "niceformat": "28.06.2023, 20:46",
+            "timestamp": "2023-06-28T18:46:04.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/1e38642b-045b-494a-90ba-3384a666d483?fit=crop&format=auto&h=267&w=400&s=e1143b705595efeddd5a70421cda93356869fdb0",
+            "width": 400
+        },
+        "title": "Raufoss sendte Viking ut av cupen og fikk drømmetrekning: – Helt hodemist ",
+        "url": "https://www.vg.no/sport/fotball/i/eJRnmM/raufoss-slo-viking-ut-av-cupen-etter-straffedrama"
+    }
+]

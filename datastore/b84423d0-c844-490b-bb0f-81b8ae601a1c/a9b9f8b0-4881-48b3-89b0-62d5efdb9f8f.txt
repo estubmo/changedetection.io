@@ -1,0 +1,367 @@
+[
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "LlLPaJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/LlLPaJ",
+        "preamble": "MANCHESTER (VG) Etter det femte ligagullet på seks sesonger, ble Pep Guardiola (52) spurt om han noen gang «blir lei av å vinne». Da fikk journalisten klar beskjed.",
+        "published": {
+            "date": "onsdag 24. mai",
+            "datetime": "2023-05-24 10:44:42",
+            "niceformat": "24.05.2023, 10:44",
+            "timestamp": "2023-05-24T08:44:42.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/9f08a259-04e1-412f-b3c0-f7dee987c45c?fit=crop&format=auto&h=267&w=400&s=041abad3b47d014bc65435d952b01089f36bdf38",
+            "width": 400
+        },
+        "title": "Guardiola fnyser av spørsmål om «suverene City»: – Idiotiske utsagn",
+        "url": "https://www.vg.no/sport/fotball/i/LlLPaJ/pep-guardiola-fnyser-av-spoersmaal-om-suverene-manchester-city-idiotiske-utsagn"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "bgWqme",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/bgWqme",
+        "preamble": "Leo Skiri Østigård får etter all sannsynlighet ny trener i Napoli etter ligatriumfen. Luciano Spalletti gir seg, melder flere italienske aviser.",
+        "published": {
+            "date": "onsdag 24. mai",
+            "datetime": "2023-05-24 08:49:34",
+            "niceformat": "24.05.2023, 08:49",
+            "timestamp": "2023-05-24T06:49:34.000Z"
+        },
+        "thumbnail": {
+            "height": 278,
+            "url": "https://akamai.vgc.no/v2/images/50c27ea6-0217-4488-8a9f-5dc0365a052d?fit=crop&format=auto&h=278&w=400&s=c1354e814ee8c207fafd1e58299fb8580b44846d",
+            "width": 400
+        },
+        "title": "Italienske medier: Gulltreneren kan være ferdig etter isfront med klubbpresident",
+        "url": "https://www.vg.no/sport/fotball/i/bgWqme/italienske-medier-gulltreneren-gir-seg-etter-isfront-med-klubbpresident"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQMvWb",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQMvWb",
+        "preamble": "Real Sociedad-trener Imanol Alguacil vil ha Alexander Sørloth (27) til klubben på fast basis etter den norske landslagsspissens bunnsolide sesong.",
+        "published": {
+            "date": "onsdag 24. mai",
+            "datetime": "2023-05-24 07:47:07",
+            "niceformat": "24.05.2023, 07:47",
+            "timestamp": "2023-05-24T05:47:07.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/473ab702-e053-4477-9164-08f15da14f92?fit=crop&format=auto&h=266&w=400&s=09bed5223f0281003491e211d70343448c86cb0f",
+            "width": 400
+        },
+        "title": "Real Sociedad: Vil kjøpe Sørloth fra tysk storklubb",
+        "url": "https://www.vg.no/sport/fotball/i/JQMvWb/real-sociedad-vil-beholde-alexander-soerloth"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "nQX43Q",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/nQX43Q",
+        "preamble": "Manchester City får en pengebonus på 1 milliard kroner fra Det europeiske fotballforbundet (UEFA) om laget vinner Champions League.",
+        "published": {
+            "date": "onsdag 24. mai",
+            "datetime": "2023-05-24 07:18:51",
+            "niceformat": "24.05.2023, 07:18",
+            "timestamp": "2023-05-24T05:18:51.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/7fe9dc68-3b6b-41a8-8ea6-7bb367d3cf2a?fit=crop&format=auto&h=267&w=400&s=64c0974496309835506acca7704752051117aab1",
+            "width": 400
+        },
+        "title": "Manchester City får én milliard for seier",
+        "url": "https://www.vg.no/sport/fotball/i/nQX43Q/manchester-city-faar-1-milliard-for-seier"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "onBv1W",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/onBv1W",
+        "preamble": "MANCHESTER (VG) Erling Braut Haaland (22) har vært en ubestridt suksess i Manchester City. Nå røper Pep Guardiola (52) at han ga en klar beskjed til spillerne tidlig i sesongen: Se etter Haaland!",
+        "published": {
+            "date": "onsdag 24. mai",
+            "datetime": "2023-05-24 00:00:52",
+            "niceformat": "24.05.2023, 00:00",
+            "timestamp": "2023-05-23T22:00:52.000Z"
+        },
+        "thumbnail": {
+            "height": 289,
+            "url": "https://akamai.vgc.no/v2/images/23309426-62b2-4b6f-8c1a-28549584c3bd?fit=crop&format=auto&h=289&w=400&s=d3f6c0e4129ac5d2671f008e803bc6843923b72e",
+            "width": 400
+        },
+        "title": "Guardiola innrømmer startvansker med Haaland: – Spilte som at han ikke var der",
+        "url": "https://www.vg.no/sport/fotball/i/onBv1W/guardiola-innroemmer-startvansker-med-haaland-spilte-som-at-han-ikke-var-der"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "mQa8yp",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/mQa8yp",
+        "preamble": "(Real Valladolid-Barcelona 3–1) Barcelona er for lengst ligamester, og Real Valladolid tok en viktig seier med tanke på å unngå nedrykk.",
+        "published": {
+            "date": "tirsdag 23. mai",
+            "datetime": "2023-05-23 23:54:58",
+            "niceformat": "23.05.2023, 23:54",
+            "timestamp": "2023-05-23T21:54:58.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/b6f9a8e4-8fe1-4b5d-ac84-67e2d6940962?fit=crop&format=auto&h=267&w=400&s=8e257dfa2d3e09ea9a05e27eddfa105f98fbc8bd",
+            "width": 400
+        },
+        "title": "Ligamester Barcelona tapte mot bunnlag",
+        "url": "https://www.vg.no/sport/fotball/i/mQa8yp/ligamester-barcelona-tapte-mot-bunnlag"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwPkGX",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwPkGX",
+        "preamble": "Det spanske fotballforbundet bekrefter sent tirsdag kveld at de stenger en hel tribunedel på Valencias hjemmestadion i fem kamper. I tillegg oppheves det røde kortet til Vinicíus Jr. (22).",
+        "published": {
+            "date": "tirsdag 23. mai",
+            "datetime": "2023-05-23 23:13:08",
+            "niceformat": "23.05.2023, 23:13",
+            "timestamp": "2023-05-23T21:13:08.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/9572462a-2151-4fbd-9895-7987643de0c6?fit=crop&format=auto&h=267&w=400&s=036221233722e3f5414bc9cec8b732e9a0cb33fa",
+            "width": 400
+        },
+        "title": "Stenger tribunedel på Mestalla i fem kamper etter rasismebråket",
+        "url": "https://www.vg.no/sport/fotball/i/dwPkGX/medier-vinicius-juniors-roede-kort-blir-trukket-tilbake"
+    },
+    {
+        "authors": [
+            {
+                "email": "leif.welhaven@vg.no",
+                "id": "e46ed1bb-8354-4bd4-97d3-09ac43c5dc8f",
+                "name": "Leif Welhaven"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "y6XgLa",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/y6XgLa",
+        "preamble": "Supporteres manglende respekt for regelverket er en dårlig søknad i kampen for å få myndighetene til å myke opp pyro-bestemmelsene.",
+        "published": {
+            "date": "tirsdag 23. mai",
+            "datetime": "2023-05-23 19:07:20",
+            "niceformat": "23.05.2023, 19:07",
+            "timestamp": "2023-05-23T17:07:20.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/51f90ac4-b14a-4a95-b663-934c93d61903?fit=crop&format=auto&h=267&w=400&s=2d709929e9b11e5390c805a2ce07bd6e5bd885f1",
+            "width": 400
+        },
+        "title": "Supporterne skader sin egen sak",
+        "url": "https://www.vg.no/sport/fotball/i/y6XgLa/supporterne-skader-sin-egen-sak"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            },
+            {
+                "email": "andreas.hellenes@schibsted.com",
+                "id": "424642b6-03fe-42cd-abe2-5f7517e8a8e1",
+                "name": "Andreas Hellenes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "rlXnER",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/rlXnER",
+        "preamble": "Martin Ødegaards lagkamerat Bukayo Saka (21) har forlenget sin kontrakt med Arsenal.",
+        "published": {
+            "date": "tirsdag 23. mai",
+            "datetime": "2023-05-23 15:14:59",
+            "niceformat": "23.05.2023, 15:14",
+            "timestamp": "2023-05-23T13:14:59.000Z"
+        },
+        "thumbnail": {
+            "height": 238,
+            "url": "https://akamai.vgc.no/v2/images/a3b7f00f-70ee-4c73-934b-c210b71e34f0?fit=crop&format=auto&h=238&w=400&s=0f2274a735830fcc6a9413a4f0084ff2f885038c",
+            "width": 400
+        },
+        "title": "Gladnyhet for Arsenal og Ødegaard: Bukayo Saka forlenger kontrakten",
+        "url": "https://www.vg.no/sport/fotball/i/rlXnER/gladnyheter-for-arsenal-saka-forlenger-kontrakten"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "onBkoW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/onBkoW",
+        "preamble": "Brann opplever et billettrush etter cuptriumfen mot Lillestrøm. Stadion er nær utsolgt til eliteseriekampen mot Rosenborg.",
+        "published": {
+            "date": "tirsdag 23. mai",
+            "datetime": "2023-05-23 13:40:57",
+            "niceformat": "23.05.2023, 13:40",
+            "timestamp": "2023-05-23T11:40:57.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/f98d7797-8640-4123-9241-f5fd229084c1?fit=crop&format=auto&h=267&w=400&s=d7bb49e74d576e1cf4c096de33eebffab0f1b73d",
+            "width": 400
+        },
+        "title": "Brann-feber: Snart utsolgt foran Rosenborg-kampen",
+        "url": "https://www.vg.no/sport/fotball/i/onBkoW/brann-feber-snart-utsolgt-foran-rosenborg-kampen"
+    }
+]

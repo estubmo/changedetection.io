@@ -1,0 +1,388 @@
+[
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q1XWze",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q1XWze",
+        "preamble": "MANCHESTER (VG) (Manchester City – Chelsea 1–0) Pep Guardiola (52) byttet ut ni av elleve spillere som slo Real Madrid i midtuken. Likevel lekte de seg tidvis mot et blodfattig og tannløst Chelsea-lag.",
+        "published": {
+            "date": "søndag 21. mai",
+            "datetime": "2023-05-21 18:55:00",
+            "niceformat": "21.05.2023, 18:55",
+            "timestamp": "2023-05-21T16:55:00.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/c264b2e2-5d44-4d6e-9fcd-b300d7e0c3d1?fit=crop&format=auto&h=267&w=400&s=b89d72ecce830281a815708d7ca733f47e289643",
+            "width": 400
+        },
+        "title": "Ny maktdemonstrasjon av Manchester City: Rundspilte Chelsea med reservelaget",
+        "url": "https://www.vg.no/sport/fotball/i/q1XWze/ny-maktdemonstrasjon-av-manchester-city-rundspilte-chelsea-med-reservelaget"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4ov7pe",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4ov7pe",
+        "preamble": "Mohamed Elyounoussi reduserte med sitt første ligamål for sesongen da Southampton tapte 1-3 mot Brighton i Premier League søndag.",
+        "published": {
+            "date": "søndag 21. mai",
+            "datetime": "2023-05-21 17:02:20",
+            "niceformat": "21.05.2023, 17:02",
+            "timestamp": "2023-05-21T15:02:20.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/pOdpia5LZUci.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "«Moi»-scoring til ingen nytte for Southampton – Brighton mot Europa",
+        "url": "https://www.vg.no/sport/fotball/i/4ov7pe/moi-scoring-til-ingen-nytte-for-southampton-brighton-mot-europa"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JWQRG",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JWQRG",
+        "preamble": "MANCHESTER (VG) Manchester City har vunnet sin syvende ligatittel på tolv år og kan også bli bare det andre engelske laget til å vinne «The Treble». Men i skyggen av den lyseblå konfettien står den Abu Dhabi-eide klubben overfor en alvorlig tiltale.",
+        "published": {
+            "date": "søndag 21. mai",
+            "datetime": "2023-05-21 16:54:29",
+            "niceformat": "21.05.2023, 16:54",
+            "timestamp": "2023-05-21T14:54:29.000Z"
+        },
+        "thumbnail": {
+            "height": 253,
+            "url": "https://akamai.vgc.no/v2/images/cfc4c27f-9348-4ed4-b266-5df543a76ad7?fit=crop&format=auto&h=253&w=400&s=997a2d9fe5762d7c0153d6c75afcc0b36d5b958f",
+            "width": 400
+        },
+        "title": "Derfor er Manchester Citys suksess kontroversiell",
+        "url": "https://www.vg.no/sport/fotball/i/8JWQRG/tiltalt-og-omstridte-eiere-derfor-er-manchester-citys-suksess-kontroversiell"
+    },
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            },
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WRdj3a",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WRdj3a",
+        "preamble": "BERGEN (VG) Dagen etter cupgullet kokte det på Torgallmenningen, der Brann-spillerne møtte supporterne til elektrisk feiring. Hovedtrener Eirik Horneland «lover» mer jubel for euforiske bergensere. ",
+        "published": {
+            "date": "søndag 21. mai",
+            "datetime": "2023-05-21 16:52:45",
+            "niceformat": "21.05.2023, 16:52",
+            "timestamp": "2023-05-21T14:52:45.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/--Wqp3yKYuLQ.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "«Lovet» mer gull: – Må få lov å ha drømmer",
+        "url": "https://www.vg.no/sport/fotball/i/WRdj3a/brann-hyllet-paa-torgallmenningen-i-bergen-etter-cupgullet"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "15wOGM",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/15wOGM",
+        "preamble": "Chelsea vant skjebnekampen mot Arsenal med 2-0 og kan bli seriemester i den engelske superligaen søndag kveld. Guro Reiten scoret det første målet i kampen.",
+        "published": {
+            "date": "søndag 21. mai",
+            "datetime": "2023-05-21 15:28:56",
+            "niceformat": "21.05.2023, 15:28",
+            "timestamp": "2023-05-21T13:28:56.000Z"
+        },
+        "thumbnail": {
+            "height": 288,
+            "url": "https://akamai.vgc.no/v2/images/a6cb5e14-6e15-4f1d-b52f-733b5e56136a?fit=crop&format=auto&h=288&w=400&s=2800bfef86793000be7d8e5ba99c92635a2af6c6",
+            "width": 400
+        },
+        "title": "Reiten scoret i viktig Chelsea-seier – styrer mot sin fjerde strake ligatittel",
+        "url": "https://www.vg.no/sport/fotball/i/15wOGM/reiten-scoret-i-viktig-chelsea-seier-styrer-mot-sin-fjerde-strake-ligatittel"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            },
+            {
+                "email": "hallgeir.vagenes@vg.no",
+                "id": "899d85f2-c015-4407-a01c-f6ab8cf83f13",
+                "name": "Hallgeir Vågenes (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "APq96x",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/APq96x",
+        "preamble": "Klubbleder Thomas Heide i Tromsdalen fortviler over millionregninger for kunstgress-avfall og manglende støtte fra regjeringen. ",
+        "published": {
+            "date": "søndag 21. mai",
+            "datetime": "2023-05-21 14:57:56",
+            "niceformat": "21.05.2023, 14:57",
+            "timestamp": "2023-05-21T12:57:56.000Z"
+        },
+        "thumbnail": {
+            "height": 270,
+            "url": "https://akamai.vgc.no/v2/images/44c21fd4-ca65-4a04-ae28-c1d470a24136?fit=crop&format=auto&h=270&w=400&s=39a0d8e48d32950a13c7a9780a72bd944ab2d2d3",
+            "width": 400
+        },
+        "title": "Fotballklubber roper om hjelp: – Problemet ingen snakker om ",
+        "url": "https://www.vg.no/sport/fotball/i/APq96x/fotballklubb-rop-om-hjelp-kunstgress-problemet-ingen-snakker-om"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "onBWvg",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/onBWvg",
+        "preamble": "Caroline Graham Hansen er ikke med i Barcelona-troppen til dagens serieavslutning mot CFF Madrid.",
+        "published": {
+            "date": "søndag 21. mai",
+            "datetime": "2023-05-21 12:47:54",
+            "niceformat": "21.05.2023, 12:47",
+            "timestamp": "2023-05-21T10:47:54.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/f28093d3-72a7-49a9-b867-84800b460919?fit=crop&format=auto&h=267&w=400&s=37456cc6c04abc25e8e0bb18a93f1594e6be8134",
+            "width": 400
+        },
+        "title": "Graham Hansen uaktuell i Barcelonas siste ligakamp",
+        "url": "https://www.vg.no/sport/fotball/i/onBWvg/graham-hansen-uaktuell-i-barcelonas-siste-ligakamp"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwPmg1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwPmg1",
+        "preamble": "Bare en syltynn teori holder liv i Champions League-drømmen til Liverpool. Manager Jürgen Klopp (55) har gitt opp og ser fremover mot neste sesong.",
+        "published": {
+            "date": "søndag 21. mai",
+            "datetime": "2023-05-21 11:08:22",
+            "niceformat": "21.05.2023, 11:08",
+            "timestamp": "2023-05-21T09:08:22.000Z"
+        },
+        "thumbnail": {
+            "height": 292,
+            "url": "https://akamai.vgc.no/v2/images/2321bae8-d402-4fbb-9148-7cd98306b703?fit=crop&format=auto&h=292&w=400&s=0b4eca4b89730fec6333fdd2e7434bd6ac658380",
+            "width": 400
+        },
+        "title": "Fire prosent sjanse for Champions League – slik kan Liverpool nå turneringen",
+        "url": "https://www.vg.no/sport/fotball/i/dwPmg1/jurgen-klopp-har-gitt-opp-haapet-om-champions-league-spill-ikke-vaert-gode-nok"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "15wOOX",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/15wOOX",
+        "preamble": "Keeper Sondre Rossbach fikk ikke fornyet tillit i Degerfors etter 23 innslupne mål på åtte kamper.",
+        "published": {
+            "date": "søndag 21. mai",
+            "datetime": "2023-05-21 10:22:36",
+            "niceformat": "21.05.2023, 10:22",
+            "timestamp": "2023-05-21T08:22:36.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/3bd5d780-197f-459f-a641-3613e8749e40?fit=crop&format=auto&h=266&w=400&s=7876fffea7ddf20d3daf6561cf4500a366fba99b",
+            "width": 400
+        },
+        "title": "Mareritt i Sverige – Rossbach benket etter 23 baklengs på åtte kamper",
+        "url": "https://www.vg.no/sport/fotball/i/15wOOX/mareritt-i-sverige-rossbach-benket-etter-23-baklengs-paa-aatte-kamper"
+    },
+    {
+        "authors": [
+            {
+                "email": "Yasmin.sunde.hoel@vg.no",
+                "id": "ae760bdf-6159-46bd-b57f-3c9a4587c293",
+                "name": "Yasmin Sunde Hoel"
+            },
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3EQ65e",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3EQ65e",
+        "preamble": "ULLEVAAL STADION (VG) Ole Didrik Blomberg (22) slet benken og kjente på motgang, men i år er han en av Brann-trener Eirik Hornelands favoritter. Mye takket være «terapeutiske» samtaler med moren.",
+        "published": {
+            "date": "søndag 21. mai",
+            "datetime": "2023-05-21 09:41:06",
+            "niceformat": "21.05.2023, 09:41",
+            "timestamp": "2023-05-21T07:41:06.000Z"
+        },
+        "thumbnail": {
+            "height": 281,
+            "url": "https://akamai.vgc.no/v2/images/0d9a0f79-a9fe-47a5-b92b-70784242d6e8?fit=crop&format=auto&h=281&w=400&s=c95e1d097be1ccb0303056555d3872680c12b52d",
+            "width": 400
+        },
+        "title": "Cuphelten fikk mamma-hjelp: – Hun er nesten for god til det",
+        "url": "https://www.vg.no/sport/fotball/i/3EQ65e/ole-didrik-blomberg-ble-cuphelt-for-brann-takker-mamma"
+    }
+]

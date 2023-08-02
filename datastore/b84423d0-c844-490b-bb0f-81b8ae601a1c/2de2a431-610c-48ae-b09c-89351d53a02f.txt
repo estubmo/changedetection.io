@@ -1,0 +1,373 @@
+[
+    {
+        "authors": [
+            {
+                "email": "andreas.hellenes@schibsted.com",
+                "id": "424642b6-03fe-42cd-abe2-5f7517e8a8e1",
+                "name": "Andreas Hellenes"
+            },
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76M3O9",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76M3O9",
+        "preamble": "LILLESTRØM (VG) (Lillestrøm - Sandefjord 4–2) Etter noen svært hektiske dager som et av midtpunktene i mediestormen rundt Geir Bakkes (53) sjokkovergang fra Lillestrøm til Vålerenga, har Simon Mesfin (43) fått samlet tankene. ",
+        "published": {
+            "date": "mandag 17. juli",
+            "datetime": "2023-07-17 10:18:30",
+            "niceformat": "17.07.2023, 10:18",
+            "timestamp": "2023-07-17T08:18:30.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/58c7bf2e-095f-4556-a048-d5a0eb5288ae?fit=crop&format=auto&h=267&w=400&s=41232a1f232d756dd02a2b1b8e7d4489010a3c10",
+            "width": 400
+        },
+        "title": "LSK-sjefens hjertesukk: – Jeg savner dem",
+        "url": "https://www.vg.no/sport/fotball/i/76M3O9/sportssjef-i-lillestroem-simon-mesfin-savner-geir-bakke-og-petter-myhre"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kEL01B",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kEL01B",
+        "preamble": "Tottenham-spiller Son Heung-min kunne avsløre at også han har blitt forsøkt lokket med store pengesummer til Saudi-Arabia. Sørkoreaneren takket imidlertid nei.",
+        "published": {
+            "date": "mandag 17. juli",
+            "datetime": "2023-07-17 08:52:59",
+            "niceformat": "17.07.2023, 08:52",
+            "timestamp": "2023-07-17T06:52:59.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/934222b9-0078-49b3-bc47-174c94cb417e?fit=crop&format=auto&h=267&w=400&s=33cd7804945a949d6f979ee2cf1185b9eb435bae",
+            "width": 400
+        },
+        "title": "Takket nei til tilbud fra Saudi-Arabia",
+        "url": "https://www.vg.no/sport/fotball/i/kEL01B/tottenhams-son-heung-min-takket-nei-til-tilbud-fra-saudi-arabia-en-droem-aa-spille-i-premier-league"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GM2xwB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GM2xwB",
+        "preamble": "I en høytidelig seremoni på Inter Miamis stadion i Fort Lauderdale, Florida ble Lionel Messi presentert som ny spiller for MLS-klubben.",
+        "published": {
+            "date": "mandag 17. juli",
+            "datetime": "2023-07-17 07:16:56",
+            "niceformat": "17.07.2023, 07:16",
+            "timestamp": "2023-07-17T05:16:56.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/c1422c7f-3087-4b33-a503-d0c7e9504e02?fit=crop&format=auto&h=267&w=400&s=24513ed12ebe8aed6670c976742838018c2ae2f1",
+            "width": 400
+        },
+        "title": "Messi presentert foran fullsatt stadion: – Ønsker om å kjempe om titler",
+        "url": "https://www.vg.no/sport/fotball/i/GM2xwB/mls-lionel-messi-presentert-som-inter-miami-spiller-foran-fullsatt-stadion"
+    },
+    {
+        "authors": [
+            {
+                "email": "vegard.aulstad@vg.no",
+                "id": "32320ac9-8b78-4d86-b923-ee64dc408816",
+                "name": "Vegard Aulstad"
+            },
+            {
+                "email": "andreas.hellenes@schibsted.com",
+                "id": "424642b6-03fe-42cd-abe2-5f7517e8a8e1",
+                "name": "Andreas Hellenes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O82o7w",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O82o7w",
+        "preamble": "TRONDHEIM/LILLESTRØM (VG) (Rosenborg – Tromsø 2–1) Gaute Helstrup (47) vil ikke garantere at han er Tromsø-trener ut sesongen. TILs suksesstrener er angivelig på Lillestrøms radar.",
+        "published": {
+            "date": "søndag 16. juli",
+            "datetime": "2023-07-16 21:41:38",
+            "niceformat": "16.07.2023, 21:41",
+            "timestamp": "2023-07-16T19:41:38.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/7583feba-2513-4868-9a0a-11af87663591?fit=crop&format=auto&h=267&w=400&s=529d12ab6ca2f898024f4aab9028cc559030ba6b",
+            "width": 400
+        },
+        "title": "Helstrup nekter å kommentere trenerfremtiden",
+        "url": "https://www.vg.no/sport/fotball/i/O82o7w/helstrup-nekter-aa-kommentere-trenerfremtiden"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "RG2z7W",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/RG2z7W",
+        "preamble": "(Brann – Strømsgodset 1–0) Supporterfavoritten «Kniklas» Jensen Wassberg (19) ble helten for Brann mot Strømsgodset.",
+        "published": {
+            "date": "søndag 16. juli",
+            "datetime": "2023-07-16 21:09:01",
+            "niceformat": "16.07.2023, 21:09",
+            "timestamp": "2023-07-16T19:09:01.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/kP0vNr84aUVS.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "«Kniklas» reddet Brann i regnværet: – Helt kaos",
+        "url": "https://www.vg.no/sport/fotball/i/RG2z7W/kniklas-reddet-brann-i-regnvaeret-helt-kaos"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wApgoG",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wApgoG",
+        "preamble": "(Sarpsborg 08 – HamKam 2–3) HamKam vant sin andre strake kamp i Eliteserien ved å slå Sarpsborg. Dermed ligger laget på trygg grunn.",
+        "published": {
+            "date": "søndag 16. juli",
+            "datetime": "2023-07-16 21:05:00",
+            "niceformat": "16.07.2023, 21:05",
+            "timestamp": "2023-07-16T19:05:00.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/MwhTzt46sFlu.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "HamKam over nedrykksstreken etter snuoperasjon: – Etterlengtet",
+        "url": "https://www.vg.no/sport/fotball/i/wApgoG/eliteserien-hamkam-over-nedrykksstreken-etter-snuoperasjon-mot-sarpsborg-08"
+    },
+    {
+        "authors": [
+            {
+                "email": "kristine.bechmann.holter@schibsted.no",
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jl1Qpw",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jl1Qpw",
+        "preamble": "(Bodø/Glimt - FK Haugesund 2 - 1) Seiersrekken til Glimt fortsetter etter seier på hjemmebane mot FK Haugesund. Men de måtte jobbe for poengene.",
+        "published": {
+            "date": "søndag 16. juli",
+            "datetime": "2023-07-16 18:55:56",
+            "niceformat": "16.07.2023, 18:55",
+            "timestamp": "2023-07-16T16:55:56.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/-aYh3I7xhA3n.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Glimt fortsetter seierstoget - snudde mot Haugesund etter pause",
+        "url": "https://www.vg.no/sport/fotball/i/jl1Qpw/glimt-fortsetter-seierstoget-snudde-mot-haugesund-etter-pause"
+    },
+    {
+        "authors": [
+            {
+                "email": "vegard.aulstad@vg.no",
+                "id": "32320ac9-8b78-4d86-b923-ee64dc408816",
+                "name": "Vegard Aulstad"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJwMk9",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJwMk9",
+        "preamble": "TRONDHEIM (VG) (Rosenborg BK - Tromsø IL 2–1) Etter tre strake tap som RBK-trener fikk Svein Maalen en etterlengtet seier. Rosenborg-spiss Ole Sæter mener de var heldige.",
+        "published": {
+            "date": "søndag 16. juli",
+            "datetime": "2023-07-16 18:52:33",
+            "niceformat": "16.07.2023, 18:52",
+            "timestamp": "2023-07-16T16:52:33.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/It3p7pR47dWo.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "«Heldig» overtidsscoring sikret Svein Maalens første seier som RBK-sjef",
+        "url": "https://www.vg.no/sport/fotball/i/eJwMk9/overtidsscoring-sikret-svein-maalens-foerste-seier-som-rbk-sjef"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.hellenes@schibsted.com",
+                "id": "424642b6-03fe-42cd-abe2-5f7517e8a8e1",
+                "name": "Andreas Hellenes"
+            },
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zE3AkK",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zE3AkK",
+        "preamble": "LILLESTRØM (VG) (Lillestrøm – Sandefjord 4–2) Stopperkjempen Ruben Gabrielsen (32) forklarer hva forhenværende LSK-trener Geir Bakke snakker om når han snakker om slitasje.",
+        "published": {
+            "date": "søndag 16. juli",
+            "datetime": "2023-07-16 18:52:11",
+            "niceformat": "16.07.2023, 18:52",
+            "timestamp": "2023-07-16T16:52:11.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/oJbjRQgjksLB.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "LSK-profilen Gabrielsen spøker om Bakke-exiten: – Han var luta lei av oss!",
+        "url": "https://www.vg.no/sport/fotball/i/zE3AkK/eliteserien-lillestroem-slo-sandefjord-etter-geir-bakke-exiten-adams-og-lehne-olsen-herjet"
+    },
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQ2bqP",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQ2bqP",
+        "preamble": "En skuffet Harry Maguire (30) bekrefter at han ikke er klubbens kaptein kommende sesong. ",
+        "published": {
+            "date": "søndag 16. juli",
+            "datetime": "2023-07-16 17:32:30",
+            "niceformat": "16.07.2023, 17:32",
+            "timestamp": "2023-07-16T15:32:30.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/877c6445-c182-4c4c-9b82-c542b91ed2cb?fit=crop&format=auto&h=267&w=400&s=0e2aa2adb1503d10c1daded9d66df686f69ed3ee",
+            "width": 400
+        },
+        "title": "Maguire fratatt kapteinsbindet i Manchester United: – Ekstremt skuffet",
+        "url": "https://www.vg.no/sport/fotball/i/JQ2bqP/harry-maguire-fratatt-kapteinsbindet-i-manchester-united"
+    }
+]

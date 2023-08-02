@@ -1,0 +1,198 @@
+[
+    {
+        "slug": "pappa-holse-kjoerer-koebenhavn-trondheim-nesten-hver-kamp-for-aa-se-soennen-spille",
+        "url": "/sport/fotball/i/76J523/pappa-holse-kjoerer-koebenhavn-trondheim-nesten-hver-kamp-for-aa-se-soennen-spille",
+        "title": {
+            "value": "Kjører fra København til Trondheim nesten hver kamp for å se sønnen spille"
+        },
+        "description": "Enkelte trenerforeldre er mer dedikerte enn andre.",
+        "imageUrl": "c74babe7-00b5-4854-862f-54b19a88c4cf",
+        "publishedAt": "2023-06-05T08:10:55Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "fotball",
+            "trondheim",
+            "rosenborg-bk",
+            "carlo-holse",
+            "sport"
+        ]
+    },
+    {
+        "slug": "jublet-for-milepael-du-ser-at-det-betydde-mye-for-meg",
+        "url": "/sport/fotball/i/69dk5z/jublet-for-milepael-du-ser-at-det-betydde-mye-for-meg",
+        "title": {
+            "value": "– Folk i Trondheim er veldig hyggelige"
+        },
+        "description": "Målfesten mot HamKam ble en opptur for hele Rosenborg-laget. En av de det så ut til å bety mest for var kanadiske Jayden Nelson.",
+        "imageUrl": "55c2d463-b01c-4de7-a226-a2e01953d30c",
+        "publishedAt": "2023-06-05T06:57:14Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "nattens-viktigste-nyheter",
+        "url": "/nyheter/innenriks/i/APWL2M/nattens-viktigste-nyheter",
+        "title": {
+            "value": "Nattens viktigste nyheter"
+        },
+        "description": "Dette er de viktigste nyhetene fra natt til mandag 5. juni.",
+        "imageUrl": "24500f69-5726-469a-b095-3cb8ad7c8317",
+        "publishedAt": "2023-06-05T03:34:01Z",
+        "lastModifiedAt": "2023-06-05T03:34:01Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "gimse-melhus-gauldal-senket-av-eidissen",
+        "url": "/lokalfotballen/i/pQmpkR/gimse-melhus-gauldal-senket-av-eidissen",
+        "title": {
+            "value": "Eidissen senket Gimse / Melhus / Gauldal"
+        },
+        "description": "Sandra Eidissen scoret det eneste målet da Levanger slo Gimse/Melhus/Gauldal 1-0 i 3. divisjon, Trøndelag i fotball. Gimse/Melhus/Gauldal har ikke tatt poeng på de siste to kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T20:12:30Z",
+        "lastModifiedAt": "2023-06-04T20:26:53Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "maalshow-fra-skaun",
+        "url": "/lokalfotballen/i/9z0EQq/maalshow-fra-skaun",
+        "title": {
+            "value": "Skaun vartet opp med målfest"
+        },
+        "description": "Skaun har tatt poeng i seks kamper på rad etter dagens 8-0-seier Synne Eline Skånø Willmann slo til med hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T19:55:14Z",
+        "lastModifiedAt": "2023-06-04T20:27:55Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "undervurderte-trykket-foer-han-kom-det-er-saa-mange-som-bryr-seg",
+        "url": "/sport/fotball/i/Knkpb7/undervurderte-trykket-foer-han-kom-det-er-saa-mange-som-bryr-seg",
+        "title": {
+            "value": "Undervurderte trykket før han kom: - Det er så mange som bryr seg"
+        },
+        "description": "Oscar Aga leverte endelig det han ble hentet for - mål.",
+        "imageUrl": "a8796448-9fc3-4489-958c-810441f02a00",
+        "publishedAt": "2023-06-04T19:15:01Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "fotball",
+            "sport",
+            "rosenborg-bk",
+            "olaus-skarsem",
+            "oscar-aga"
+        ]
+    },
+    {
+        "slug": "rbk-styrelederen-arbeidsroen-varer-til-neste-kamp",
+        "url": "/sport/fotball/i/4oGzWV/rbk-styrelederen-arbeidsroen-varer-til-neste-kamp",
+        "title": {
+            "value": "Dette sier RBK-styrelederen etter kampen mot HamKam"
+        },
+        "description": "Cecilie Gotaas Johnsen opplever RBK-situasjonen som strevsom for hele klubben. Hun håper søndagens storseier er noe å bygge videre på.",
+        "imageUrl": "42bccd2f-28ac-4a45-b9cd-1e2a6a540541",
+        "publishedAt": "2023-06-04T18:42:46Z",
+        "lastModifiedAt": "2023-06-04T18:43:07Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "cecilie-gotaas-johnsen",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "maalfest-og-poengdeling-paa-selbu-kunstgress",
+        "url": "/lokalfotballen/i/WRWqek/maalfest-og-poengdeling-paa-selbu-kunstgress",
+        "title": {
+            "value": "Målfest og poengdeling på Selbu kunstgress"
+        },
+        "description": "Selbu gikk fra 1-3 til 3-3 mot Ranheim 2 i 4. divisjon, Trøndelag - Avdeling 2 søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T18:34:21Z",
+        "lastModifiedAt": "2023-06-04T18:57:00Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "rekdal-etter-triumfen-vi-har-en-ekstremt-sterk-lojalitet",
+        "url": "/sport/fotball/i/mQW1LE/rekdal-etter-triumfen-vi-har-en-ekstremt-sterk-lojalitet",
+        "title": {
+            "value": "Rekdal etter triumfen: - Vi har en ekstremt sterk lojalitet"
+        },
+        "description": "Men hverken press eller markeringer går inn på treneren, ifølge han selv.",
+        "imageUrl": "317d9a63-023f-4932-96f3-83d681f7d4fe",
+        "publishedAt": "2023-06-04T18:01:38Z",
+        "lastModifiedAt": "2023-06-04T18:01:49Z",
+        "premium": true,
+        "authors": [
+            "Even Berthelsen",
+            "Johannes Strand"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "fotball",
+            "sport",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "nettsus-for-stavnesli",
+        "url": "/lokalfotballen/i/2B43ov/nettsus-for-stavnesli",
+        "title": {
+            "value": "Nettsus for Stavnesli"
+        },
+        "description": "Eivor Sandvik Stavnesli scoret to ganger da KIL/Hemne 2 vant 3-0 over Nidelv i 4. divisjon, Trøndelag - Avdeling 2 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T18:01:29Z",
+        "lastModifiedAt": "2023-06-04T18:26:04Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    }
+]

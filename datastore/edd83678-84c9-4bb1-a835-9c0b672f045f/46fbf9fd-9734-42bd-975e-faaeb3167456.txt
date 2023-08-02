@@ -1,0 +1,198 @@
+[
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/JQwjqR/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag, 12. juli.",
+        "imageUrl": "632c566c-70b2-4046-a79c-2d1b2e14c05e",
+        "publishedAt": "2023-07-12T04:00:59Z",
+        "lastModifiedAt": "2023-07-12T04:00:59Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "rekdal-ut-mot-rbk-supportere-truende-og-trakasserende",
+        "url": "/sport/fotball/i/bgwAQg/rekdal-ut-mot-rbk-supportere-truende-og-trakasserende",
+        "title": {
+            "value": "– Må jeg bruke tid på å anmelde dere en etter en?"
+        },
+        "description": "Kjetil Rekdal forteller at han fortsatt opplever uønsket kontakt fra Rosenborg-supportere.",
+        "imageUrl": "711100e8-34c4-4b4f-8868-974a6180176b",
+        "publishedAt": "2023-07-11T15:19:31Z",
+        "lastModifiedAt": "2023-07-11T16:16:09Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "naa-kommer-rbk-spilleren-med-en-gladmelding",
+        "url": "/sport/fotball/i/y60oPJ/naa-kommer-rbk-spilleren-med-en-gladmelding",
+        "title": {
+            "value": "Nå kommer RBK-spilleren med en gladmelding"
+        },
+        "description": "Tobias Børkeeiet sikter mot skadecomeback.",
+        "imageUrl": "1a28e267-2796-410a-a0be-02f676704793",
+        "publishedAt": "2023-07-11T06:22:35Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "svein-maalen",
+            "tobias-boerkeeiet",
+            "rosenborg-bk",
+            "eliteserien"
+        ]
+    },
+    {
+        "slug": "knusende-seier-for-beitstad-7er",
+        "url": "/lokalfotballen/i/JQwaWR/knusende-seier-for-beitstad-7er",
+        "title": {
+            "value": "Knusende seier for Beitstad 7er"
+        },
+        "description": "Beitstad 7er knuste Malm/Follafoss 7er 12-1 i 7er, Trøndelag i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-07-10T21:09:08Z",
+        "lastModifiedAt": "2023-07-10T21:09:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "rbk-stopperen-det-gaar-paa-hele-laget",
+        "url": "/sport/fotball/i/P4LQ2R/rbk-stopperen-det-gaar-paa-hele-laget",
+        "title": {
+            "value": "RBK-stopperen: – Det går på hele laget"
+        },
+        "description": "Ulrik Yttergård Jenssen og RBK-forsvaret har sluppet til rundt 50 skudd etter at Svein Maalen tok over treneransvaret.",
+        "imageUrl": "c90e2520-3e11-456e-948a-f8446921d4a5",
+        "publishedAt": "2023-07-10T16:40:32Z",
+        "lastModifiedAt": "2023-07-10T16:59:26Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand",
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "ulrik-yttergaard-jenssen"
+        ]
+    },
+    {
+        "slug": "bekrefter-bud-paa-ranheim-profil",
+        "url": "/sport/fotball/i/7618d4/bekrefter-bud-paa-ranheim-profil",
+        "title": {
+            "value": "Eliteserieklubb med bud på Ranheim-profil "
+        },
+        "description": "Ruben Alte kan være på vei til klubb til Eliteserien.",
+        "imageUrl": "ed7654f7-5465-4a72-ae6a-f68bf76f9eb6",
+        "publishedAt": "2023-07-10T14:43:13Z",
+        "lastModifiedAt": "2023-07-10T15:16:36Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken",
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "eliteserien",
+            "obos-ligaen",
+            "ranheim-tf",
+            "rosenborg-bk",
+            "aafk"
+        ]
+    },
+    {
+        "slug": "tung-svensk-vm-start-trenerne-mistet-flyet",
+        "url": "/nyheter/innenriks/i/0Qzaz2/tung-svensk-vm-start-trenerne-mistet-flyet",
+        "title": {
+            "value": "Tung svensk VM-start – trenerne mistet flyet"
+        },
+        "description": "Både Sveriges landslagstrener og assistenten hans kom for sent til flyet som skulle ta dem til New Zealand og VM i fotball for kvinner.",
+        "imageUrl": "fdd2f2d4-865f-46fd-935f-b0237cea4373",
+        "publishedAt": "2023-07-10T11:14:34Z",
+        "lastModifiedAt": "2023-07-10T11:14:34Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "ciljan-etter-nederlaget-det-er-det-som-er-mest-skuffende",
+        "url": "/sport/fotball/i/jlny99/ciljan-etter-nederlaget-det-er-det-som-er-mest-skuffende",
+        "title": {
+            "value": "Ciljan etter nederlaget: – Det er det som er mest skuffende"
+        },
+        "description": "Lillestrøm produserte en haug med sjanser mot RBK. Per Ciljan Skjelbred støtter Svein Maalen i at laget var «tafatte».",
+        "imageUrl": "ec07455c-5fa9-4df4-a1ec-e2adb8b792e7",
+        "publishedAt": "2023-07-10T05:55:02Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "per-ciljan-skjelbred",
+            "svein-maalen",
+            "rosenborg-bk",
+            "adressasnapchat-2"
+        ]
+    },
+    {
+        "slug": "skuffet-maalen-etter-nok-et-tap-vi-er-tafatte",
+        "url": "/sport/fotball/i/pQO8oj/skuffet-maalen-etter-nok-et-tap-vi-er-tafatte",
+        "title": {
+            "value": "Ble syndebukken: - Det er utrolig surt"
+        },
+        "description": "Rosenborg styrte mot den første seieren under Svein Maalen. I stedet ble det nok et nederlag.",
+        "imageUrl": "9992ec01-5712-4b7e-9b3d-2fd11854d7cb",
+        "publishedAt": "2023-07-09T17:35:25Z",
+        "lastModifiedAt": "2023-07-09T18:20:19Z",
+        "premium": true,
+        "authors": [
+            "Even Berthelsen",
+            "Johannes Strand"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "sport"
+        ]
+    },
+    {
+        "slug": "saeter-best-i-nok-et-rbk-tap",
+        "url": "/sport/fotball/i/wAJzjo/saeter-best-i-nok-et-rbk-tap",
+        "title": {
+            "value": "Børsen: Sæter best i nok et RBK-tap"
+        },
+        "description": "Seieren røk nok en gang for Rosenborg på tampen.",
+        "imageUrl": "0888805b-bc10-4390-9f5a-1ca9ee0dbfd3",
+        "publishedAt": "2023-07-09T17:21:43Z",
+        "lastModifiedAt": "2023-07-09T18:25:13Z",
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "fotball",
+            "sport",
+            "rosenborg-bk"
+        ]
+    }
+]

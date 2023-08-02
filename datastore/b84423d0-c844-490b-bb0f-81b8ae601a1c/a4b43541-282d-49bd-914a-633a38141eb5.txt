@@ -1,0 +1,367 @@
+[
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "APB0k3",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/APB0k3",
+        "preamble": "Australske Gianni Stensness pådro seg en skade under torsdagens trening. Nå er han trolig ute resten av sesongen.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 11:11:58",
+            "niceformat": "22.06.2023, 11:11",
+            "timestamp": "2023-06-22T09:11:58.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a6d48384-694a-4898-98f9-b3c8521aa5bc?fit=crop&format=auto&h=267&w=400&s=203ae662ffb9c06453c89afefac5157ade223b87",
+            "width": 400
+        },
+        "title": "Viktig Viking-brikke trolig ute resten av sesongen",
+        "url": "https://www.vg.no/sport/fotball/i/APB0k3/eliteserien-vikings-midtstopper-gianni-stensness-trolig-ute-resten-av-sesongen-etter-skade-paa-trening"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3EeP59",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3EeP59",
+        "preamble": "Inter Miami-målvakt Nick Marsman (32) havnet på sykehuset i tre dager etter et ublidt møte med en giftig edderkopp.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 11:08:23",
+            "niceformat": "22.06.2023, 11:08",
+            "timestamp": "2023-06-22T09:08:23.000Z"
+        },
+        "thumbnail": {
+            "height": 219,
+            "url": "https://akamai.vgc.no/v2/images/87b75277-c3d1-4b1f-b2f1-63d87e981478?fit=crop&format=auto&h=219&w=400&s=9f4ce34294bfb905d04c2a685e36de9f13e3b45c",
+            "width": 400
+        },
+        "title": "Messis nye lagkamerat på sykehus etter edderkoppbitt",
+        "url": "https://www.vg.no/sport/fotball/i/3EeP59/lionel-messis-inter-miami-lagkamerat-nick-marsman-lagt-inn-paa-sykehuset-etter-giftig-edderkoppbitt"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "KnqzAE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/KnqzAE",
+        "preamble": "De måtte se seg slått i EM-semifinalen av suverene Spania med store, kommende stjerner på laget. De norske spillernes suksess har ikke vært like stabil. Bare to av 23 spiller nå på landslaget.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 08:47:07",
+            "niceformat": "22.06.2023, 08:47",
+            "timestamp": "2023-06-22T06:47:07.000Z"
+        },
+        "thumbnail": {
+            "height": 249,
+            "url": "https://akamai.vgc.no/v2/images/3d1d7711-e5c3-46ed-853c-2d79c2272f67?fit=crop&format=auto&h=249&w=400&s=c3ada2da54f0feb9d2e012405324605b19668744",
+            "width": 400
+        },
+        "title": "Bronselaget 10 år etter den ville festen",
+        "url": "https://www.vg.no/sport/fotball/i/KnqzAE/u21-em-bronselaget-10-aar-etter-den-ville-festen"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "LlXWr4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/LlXWr4",
+        "preamble": "Erling Braut Haaland og Manchester City ser ut til å miste kapteinen sin.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 08:34:16",
+            "niceformat": "22.06.2023, 08:34",
+            "timestamp": "2023-06-22T06:34:16.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/fb40a498-a2f5-4054-84bf-0f5136ad0b40?fit=crop&format=auto&h=267&w=400&s=1cb12e62b3ef20e5c55064dee040e84f59c12ff2",
+            "width": 400
+        },
+        "title": "Medier: City-kapteinen enig med Barcelona",
+        "url": "https://www.vg.no/sport/fotball/i/LlXWr4/medier-city-kapteinen-enig-med-barcelona"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "KnXWx5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/KnXWx5",
+        "preamble": "Newcastle forbereder seg til neste sesong med Champions League-spill. Den første storsigneringen ser ut til å nærme seg.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 08:26:11",
+            "niceformat": "22.06.2023, 08:26",
+            "timestamp": "2023-06-22T06:26:11.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ee3ceb54-5ed4-44af-9fe2-720c5b0a5eba?fit=crop&format=auto&h=267&w=400&s=f1a3b008dfa844b8756662cd4d58b99fdcc954b9",
+            "width": 400
+        },
+        "title": "The Athletic: AC-Milan stjerne nærmer seg Newcastle",
+        "url": "https://www.vg.no/sport/fotball/i/KnXWx5/sandro-tonali-naermer-seg-en-overgang-fra-ac-milan-til-newcastle"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "mattis.sandblad@vg.no",
+                "id": "79683f94-a05d-4191-9208-ec33ca98d72a",
+                "name": "Mattis Sandblad (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76o5b8",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76o5b8",
+        "preamble": "ULLEVAAL (VG) OL-vinner og fotballekspert Solveig Gulbrandsen er ærlig på hva hun mener om Norges muligheter i VM.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 02:32:21",
+            "niceformat": "22.06.2023, 02:32",
+            "timestamp": "2023-06-22T00:32:21.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/7c4ea54a-3f22-423b-851f-967fe26b21df?fit=crop&format=auto&h=267&w=400&s=42a88c8892ed03abd77832cd926a71d39c3f585f",
+            "width": 400
+        },
+        "title": "Legende om Norges sjanser i VM: – Landslagstroen min er litt drept",
+        "url": "https://www.vg.no/sport/fotball/i/76o5b8/solveig-gulbrandsen-om-norges-fotballandslag-sine-sjanser-i-vm-i-new-zealand"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O8X60A",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O8X60A",
+        "preamble": "ULLEVAAL STADION (VG) Ola Solbakken (24) var egentlig ikke klar for å bli byttet av. Så hvisket Erling Braut Haaland (22) han en «gladbeskjed» i øret. ",
+        "published": {
+            "date": "onsdag 21. juni",
+            "datetime": "2023-06-21 22:06:51",
+            "niceformat": "21.06.2023, 22:06",
+            "timestamp": "2023-06-21T20:06:51.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/daa6090c-1203-443d-b749-4d1ec0cbd717?fit=crop&format=auto&h=267&w=400&s=a35c37e0c3cc98b081a8c0d7c25b952ab2af55b2",
+            "width": 400
+        },
+        "title": "Denne Haaland-beskjeden fikk målscoreren til å glise",
+        "url": "https://www.vg.no/sport/fotball/i/O8X60A/erling-braut-haaland-kom-med-feriebeskjed-til-ola-solbakken-etter-landskampen-mot-kypros"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwakAA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwakAA",
+        "preamble": "Russell Martin er mannen som skal prøve å lede Southampton opp til Premier League igjen etter at de rykket ned forrige sesong.",
+        "published": {
+            "date": "onsdag 21. juni",
+            "datetime": "2023-06-21 20:34:48",
+            "niceformat": "21.06.2023, 20:34",
+            "timestamp": "2023-06-21T18:34:48.000Z"
+        },
+        "thumbnail": {
+            "height": 272,
+            "url": "https://akamai.vgc.no/v2/images/06d21051-20bc-49a7-9739-95b0ddc7d08e?fit=crop&format=auto&h=272&w=400&s=8be61fba0f03314e1c55fbc0b02a1c244760b09b",
+            "width": 400
+        },
+        "title": "Southampton ansatte ny manager",
+        "url": "https://www.vg.no/sport/fotball/i/dwakAA/southampton-ansatte-ny-manager"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O8XjO3",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O8XjO3",
+        "preamble": "(Georgia U21 – Portugal U21 2–0) Georgia sjokkerte Portugal da de vant åpningskampen i U21-EM på hjemmebane onsdag kveld.",
+        "published": {
+            "date": "onsdag 21. juni",
+            "datetime": "2023-06-21 20:01:01",
+            "niceformat": "21.06.2023, 20:01",
+            "timestamp": "2023-06-21T18:01:01.000Z"
+        },
+        "thumbnail": {
+            "height": 268,
+            "url": "https://akamai.vgc.no/v2/images/d47a3a1d-195a-4807-b307-3f76ad0b064b?fit=crop&format=auto&h=268&w=400&s=7326cf78a49b1571c88fb466f9905ea33ca7c56b",
+            "width": 400
+        },
+        "title": "Georgia med sjokkseier i U21-EM – senket Portugal",
+        "url": "https://www.vg.no/sport/fotball/i/O8XjO3/georgia-med-sjokkseier-i-u21-em-slo-portugal-2-0"
+    },
+    {
+        "authors": [
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kExQzj",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kExQzj",
+        "preamble": "(Avaldsnes – Åsane 0–3) Avaldsnes har en god nyere cuphistorie. Men i år ble det stopp allerede i 3. runde på eget gress etter tremålstap mot et nyopprykket Toppserien-lag.",
+        "published": {
+            "date": "onsdag 21. juni",
+            "datetime": "2023-06-21 19:49:03",
+            "niceformat": "21.06.2023, 19:49",
+            "timestamp": "2023-06-21T17:49:03.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/e031b61c-a312-48bd-b93d-9a46598fd7f6?fit=crop&format=auto&h=267&w=400&s=3858ac37f5c548dc6d96251b521e436a77201a67",
+            "width": 400
+        },
+        "title": "Riises Avaldsnes sjanseløse på eget gress – sendt rett ut av cupen ",
+        "url": "https://www.vg.no/sport/fotball/i/kExQzj/riises-avaldsnes-sjanseloese-paa-eget-gress-sendt-rett-ut-av-cupen"
+    }
+]

@@ -1,0 +1,372 @@
+[
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Xb32bb",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Xb32bb",
+        "preamble": "Manchester City-kaptein Ilkay Gündogan er klar for den spanske storklubben Barcelona.",
+        "published": {
+            "date": "mandag 26. juni",
+            "datetime": "2023-06-26 10:00:48",
+            "niceformat": "26.06.2023, 10:00",
+            "timestamp": "2023-06-26T08:00:48.000Z"
+        },
+        "thumbnail": {
+            "height": 268,
+            "url": "https://akamai.vgc.no/v2/images/e5386228-8282-4c33-ba4e-bc5494544f1a?fit=crop&format=auto&h=268&w=400&s=2005a1c0f3eb0c2b42d1283ec323afaf7c6c590e",
+            "width": 400
+        },
+        "title": "Gündogan til Barcelona",
+        "url": "https://www.vg.no/sport/fotball/i/Xb32bb/gundogan-til-barcelona"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "y6J05e",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/y6J05e",
+        "preamble": "DRAMMEN (VG) Dommersjef Terje Hauge innrømmer at dommer Sigurd Kringstad gjorde en feil da han annullerte Bodø/Glimts utligning mot Godset. Han mener likevel at avgjørelsen var riktig. ",
+        "published": {
+            "date": "mandag 26. juni",
+            "datetime": "2023-06-26 10:00:06",
+            "niceformat": "26.06.2023, 10:00",
+            "timestamp": "2023-06-26T08:00:06.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a44c84ac-d159-47d9-9041-34ac56d1c10c?fit=crop&format=auto&h=267&w=400&s=28f847be30deddb09c0e7ac08a9ec483c4c4570b",
+            "width": 400
+        },
+        "title": "Glimt freste: Dommersjef innrømmer dommerfeil",
+        "url": "https://www.vg.no/sport/fotball/i/y6J05e/bodoe-glimt-kjetil-knutsen-raste-mot-var-dommersjef-innroemmer-dommerfeil"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gExQ6a",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gExQ6a",
+        "preamble": "Den kanadiske RBK-spilleren Jayden Nelson slutter seg til Canadas landslagstropp, som skal spille nord- og mellomamerikansk fotballmesterskap i tiden fremover. ",
+        "published": {
+            "date": "mandag 26. juni",
+            "datetime": "2023-06-26 09:49:51",
+            "niceformat": "26.06.2023, 09:49",
+            "timestamp": "2023-06-26T07:49:51.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/bb763ead-8833-4f6d-a657-6ca6540b394c?fit=crop&format=auto&h=267&w=400&s=84b45cea15876d20b8219848fbf4c349f0e744ce",
+            "width": 400
+        },
+        "title": "RBK-spiller reiser på landslagsoppdrag",
+        "url": "https://www.vg.no/sport/fotball/i/gExQ6a/rbk-spiller-reiser-paa-landslagsoppdrag"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "nQlrqQ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/nQlrqQ",
+        "preamble": "Leonard Owusu var ikke med i Odds tropp mot HamKam søndag. Klubben trodde feilaktig at han hadde karantene for gule kort.",
+        "published": {
+            "date": "mandag 26. juni",
+            "datetime": "2023-06-26 09:24:54",
+            "niceformat": "26.06.2023, 09:24",
+            "timestamp": "2023-06-26T07:24:54.000Z"
+        },
+        "thumbnail": {
+            "height": 249,
+            "url": "https://akamai.vgc.no/v2/images/f788cfe8-6cf8-4eb8-883f-6a1a0ce954e3?fit=crop&format=auto&h=249&w=400&s=409c87c1fdc0f2dd36eda11d5879aadd8742096f",
+            "width": 400
+        },
+        "title": "Leo Owusu sto over etter Odd-tabbe: Har fått unnskyldning",
+        "url": "https://www.vg.no/sport/fotball/i/nQlrqQ/leo-owusu-sto-over-etter-odd-tabbe-har-faatt-unnskyldning"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Qqzyg",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Qqzyg",
+        "preamble": "Lionel Messi (36) snakker for første gang ut om det turbulente forholdet til Paris Saint-Germans supportere.",
+        "published": {
+            "date": "mandag 26. juni",
+            "datetime": "2023-06-26 07:36:21",
+            "niceformat": "26.06.2023, 07:36",
+            "timestamp": "2023-06-26T05:36:21.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a291b985-d9cb-41da-895b-bd65b099c424?fit=crop&format=auto&h=267&w=400&s=e716219ea9ea672ec0395d82135aa8e04c30b3c5",
+            "width": 400
+        },
+        "title": "Messi om PSG-buingen: – Det er slik de oppfører seg",
+        "url": "https://www.vg.no/sport/fotball/i/0Qqzyg/messi-om-psg-buingen-det-er-slik-de-oppfoerer-seg"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            },
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3EeK5A",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3EeK5A",
+        "preamble": "CLUJ, ROMANIA (VG) Erik Botheim (23) er kaptein for U21-landslaget, men konkurransen om spissplassen fra Seedy Jatta (20) har blitt større under EM.",
+        "published": {
+            "date": "mandag 26. juni",
+            "datetime": "2023-06-26 07:11:28",
+            "niceformat": "26.06.2023, 07:11",
+            "timestamp": "2023-06-26T05:11:28.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/74b6bde4-214f-48a4-ad6d-2bdae7d6da9b?fit=crop&format=auto&h=267&w=400&s=24c5ee611969e5f9c0959c4aa8d506c831f6316d",
+            "width": 400
+        },
+        "title": "Målløs Botheim om spissplassen: – Hva vil du at jeg skal svare på det?",
+        "url": "https://www.vg.no/sport/fotball/i/3EeK5A/maalloes-botheim-om-spissplassen-hva-vil-du-at-jeg-skal-svare-paa-det"
+    },
+    {
+        "authors": [
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            },
+            {
+                "email": "vegard.aulstad@vg.no",
+                "id": "32320ac9-8b78-4d86-b923-ee64dc408816",
+                "name": "Vegard Aulstad"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3am19",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3am19",
+        "preamble": "TRONDHEIM (VG) Svein Maalen (45) fikk en brutal debut som Rosenborg-trener. Nå advarer Adressa-kommentator Birger Løfaldli mot nedrykksstrid i Trondheim.",
+        "published": {
+            "date": "søndag 25. juni",
+            "datetime": "2023-06-25 23:29:52",
+            "niceformat": "25.06.2023, 23:29",
+            "timestamp": "2023-06-25T21:29:52.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/17eaf455-0ff6-481a-8e04-b6fa2e8f79b4?fit=crop&format=auto&h=267&w=400&s=308e7af28fbf04baa5b8d864f71c3b18b6608474",
+            "width": 400
+        },
+        "title": "Advarer mot nedrykksstrid etter Maalen-debut: − Det tåler ikke Rosenborg",
+        "url": "https://www.vg.no/sport/fotball/i/l3am19/eliteserien-advarer-mot-nedrykksstrid-etter-svein-maalen-debut-det-taaler-ikke-rosenborg"
+    },
+    {
+        "authors": [
+            {
+                "email": "svea@vg.no",
+                "id": "f852e5e5-5ba9-48c7-96da-9455a160031f",
+                "name": "Knut Espen Svegaarden"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEx13J",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEx13J",
+        "preamble": "(Norge-Frankrike 0–1) Norge kom seg til U-EM på overtid. Da er det kanskje ikke så rart at Leif Gunnar Smeruds lag er litt for dårlige i alt - og trolig ryker ut av mesterskapet på onsdag.",
+        "published": {
+            "date": "søndag 25. juni",
+            "datetime": "2023-06-25 23:09:07",
+            "niceformat": "25.06.2023, 23:09",
+            "timestamp": "2023-06-25T21:09:07.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/61faf35d-94f7-44ec-8586-3b7f26f8338c?fit=crop&format=auto&h=267&w=400&s=8b36d88aaf56ba27011d3f74ed1f8b9f2c264aec",
+            "width": 400
+        },
+        "title": "Litt for dårlige i alt – inkludert flaks",
+        "url": "https://www.vg.no/sport/fotball/i/gEx13J/litt-for-daarlige-i-alt-inkludert-flaks"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "mQxE50",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/mQxE50",
+        "preamble": "Franske Reims benytter seg ikke av opsjonen på Noah Holm. Dermed returnerer 22-åringen til Rosenborg.",
+        "published": {
+            "date": "søndag 25. juni",
+            "datetime": "2023-06-25 22:51:20",
+            "niceformat": "25.06.2023, 22:51",
+            "timestamp": "2023-06-25T20:51:20.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/9cfa062b-b9ff-43ee-ab72-fc01c467ae62?fit=crop&format=auto&h=267&w=400&s=5f62dfa76cc0d13f6e128a7905dc7e84441389b6",
+            "width": 400
+        },
+        "title": "Noah Holm returnerer til Rosenborg",
+        "url": "https://www.vg.no/sport/fotball/i/mQxE50/noah-holm-returnerer-til-rosenborg"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "LlXQ61",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/LlXQ61",
+        "preamble": "Viktor Hovland gikk den siste runden av PGA-turneringen i Connecticut på fire slag under par og endte delt 29.-plass.",
+        "published": {
+            "date": "søndag 25. juni",
+            "datetime": "2023-06-25 22:50:25",
+            "niceformat": "25.06.2023, 22:50",
+            "timestamp": "2023-06-25T20:50:25.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/23ffb4c0-acad-4ef3-bbb1-d4604db9026c?fit=crop&format=auto&h=267&w=400&s=101946c118d9b35a7ac68054f1d2137cb16832c5",
+            "width": 400
+        },
+        "title": "Solid avslutning for Hovland i Connecticut",
+        "url": "https://www.vg.no/sport/fotball/i/LlXQ61/solid-avslutning-for-hovland-i-connecticut"
+    }
+]

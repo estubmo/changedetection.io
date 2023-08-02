@@ -1,0 +1,191 @@
+[
+    {
+        "slug": "uavgjort-i-maalfest-paa-byaasen-arena",
+        "url": "/lokalfotballen/i/76QGa9/uavgjort-i-maalfest-paa-byaasen-arena",
+        "title": {
+            "value": "Uavgjort i målfest på Byåsen Arena"
+        },
+        "description": "Brian Hustad berget uavgjort for Steinkjer med en sen utligning i 3-3-kampen mot Byåsen i 3. divisjon, Avdeling 5 i fotball. Steinkjer har ikke vunnet på fire kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-13T15:00:22Z",
+        "lastModifiedAt": "2023-05-13T15:23:09Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "ny-seier-for-kvam",
+        "url": "/lokalfotballen/i/8Jvk8x/ny-seier-for-kvam",
+        "title": {
+            "value": "Kvam tok sin tredje seier på rad"
+        },
+        "description": "Frode Guin sikret tre poeng for Kvam da Nærøy ble slått 1-0 i 6. divisjon, Trøndelag - Avdeling 1 i fotball lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-13T14:17:02Z",
+        "lastModifiedAt": "2023-05-13T14:23:35Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "reitaas-sikret-seieren-for-gimse",
+        "url": "/lokalfotballen/i/Knq9mG/reitaas-sikret-seieren-for-gimse",
+        "title": {
+            "value": "Reitaas ble helten for Gimse"
+        },
+        "description": "Tylldal gikk på sitt fjerde strake tap da klubben røk 0-1 for Gimse i 6. divisjon, Trøndelag - Avdeling 6 i fotball for menn lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-13T14:17:01Z",
+        "lastModifiedAt": "2023-05-13T15:26:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "uavgjort-mellom-trygg-lade-og-vanvik-2-stadsbygd-2-rissa-2",
+        "url": "/lokalfotballen/i/wAbQGn/uavgjort-mellom-trygg-lade-og-vanvik-2-stadsbygd-2-rissa-2",
+        "title": {
+            "value": "Poengdeling mellom Trygg/Lade og Vanvik 2/Stadsbygd 2/Rissa 2"
+        },
+        "description": "Verken Trygg/Lade eller Vanvik 2/Stadsbygd 2/Rissa 2 fikk nettkjenning da lagene møttes i G14 2. divisjon, Avdeling 3 - Vår lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-13T14:17:01Z",
+        "lastModifiedAt": "2023-05-13T14:23:35Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "tredje-strake-seier-for-freidig",
+        "url": "/lokalfotballen/i/3EzO3v/tredje-strake-seier-for-freidig",
+        "title": {
+            "value": "Freidig fortsatte seiersrekken"
+        },
+        "description": "Freidig slo Tiller på hjemmebane 2-0 og fikk dermed med seg tre poeng i J14 1. divisjon, Avdeling 1 - Vår lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-13T14:09:57Z",
+        "lastModifiedAt": "2023-05-13T14:23:36Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "melhus-spilte-uavgjort",
+        "url": "/lokalfotballen/i/eJXoxg/melhus-spilte-uavgjort",
+        "title": {
+            "value": "Uavgjort for KIL/Hemne og Melhus"
+        },
+        "description": "Det endte uavgjort mellom KIL/Hemne og Melhus på Hemne Sparebank Arena i 4. divisjon, Trøndelag - Avdeling 2 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-13T14:05:54Z",
+        "lastModifiedAt": "2023-05-13T14:23:37Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "glorud-i-scoringshumoer-mot-tynset",
+        "url": "/lokalfotballen/i/LlqxOq/glorud-i-scoringshumoer-mot-tynset",
+        "title": {
+            "value": "Frigg knuste Tynset"
+        },
+        "description": "Dorthea Glorud scoret to mål da Frigg vant 6-1 over Tynset i 2. divisjon, Avdeling 1 i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-13T14:01:50Z",
+        "lastModifiedAt": "2023-05-13T15:19:53Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "patrik-toerset-johnsen-sikret-tre-poeng-for-rosenborg",
+        "url": "/lokalfotballen/i/Q7qAk8/patrik-toerset-johnsen-sikret-tre-poeng-for-rosenborg",
+        "title": {
+            "value": "Patrik Tørset Johnsen ble matchvinner for Rosenborg"
+        },
+        "description": "Patrik Tørset Johnsen sikret tre poeng for Rosenborg da HamKam ble slått 2-1 i Nasjonal G15, Gruppe C.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-13T14:00:47Z",
+        "lastModifiedAt": "2023-05-13T14:24:37Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "her-er-rekdals-utvalgte-foelg-kampen-direkte-med-ivers",
+        "url": "/sport/fotball/i/vebKzw/her-er-rekdals-utvalgte-foelg-kampen-direkte-med-ivers",
+        "title": {
+            "value": "- Det er bare å notere seg Sverre Nypan som Dagens Ivers"
+        },
+        "description": "RBK møter Bodø/Glimt på bortebane.",
+        "imageUrl": "80c718ec-ab6c-4598-9d92-42eef15c2f95",
+        "publishedAt": "2023-05-13T13:48:24Z",
+        "lastModifiedAt": "2023-05-13T14:51:23Z",
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "eliteserien"
+        ]
+    },
+    {
+        "slug": "storseier-for-ranheim",
+        "url": "/lokalfotballen/i/onlGQa/storseier-for-ranheim",
+        "title": {
+            "value": "Brakseier for Ranheim"
+        },
+        "description": "Ranheim lå under 0-1, men snudde til 7-1-seier mot Verdal i J14 1. divisjon, Avdeling 1 - Vår. Pernille Alice Sjøvik Olsen scoret hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-13T13:41:04Z",
+        "lastModifiedAt": "2023-05-13T14:23:37Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    }
+]

@@ -1,0 +1,191 @@
+[
+    {
+        "slug": "uavgjort-i-maalfest-mellom-kattem-og-charlottenlund-2",
+        "url": "/lokalfotballen/i/WReKVa/uavgjort-i-maalfest-mellom-kattem-og-charlottenlund-2",
+        "title": {
+            "value": "Uavgjort i målfest mellom Kattem og Charlottenlund 2"
+        },
+        "description": "Charlottenlund 2 var på vei mot seier, men måtte nøye seg med 6-6 mot Kattem i 6. divisjon, Trøndelag - Avdeling 3 i fotball fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T00:17:22Z",
+        "lastModifiedAt": "2023-04-29T00:47:30Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "flataas-med-hjemmeseier-over-klaebu",
+        "url": "/lokalfotballen/i/O8e7BA/flataas-med-hjemmeseier-over-klaebu",
+        "title": {
+            "value": "Klæbu tapte borte"
+        },
+        "description": "Klæbu gav bort alle poengene da de ble slått 2-0 av Flatås i 6. divisjon, Trøndelag - Avdeling 5 i fotball for menn fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-28T20:30:11Z",
+        "lastModifiedAt": "2023-04-28T20:49:41Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-klabuposten"
+        ]
+    },
+    {
+        "slug": "nardo-2-seier-over-oerland",
+        "url": "/lokalfotballen/i/on8amB/nardo-2-seier-over-oerland",
+        "title": {
+            "value": "Bortetap for Ørland"
+        },
+        "description": "Nardo 2 seiret 2-1 over Ørland i 4. divisjon, Trøndelag - Avdeling 2 i fotball fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-28T20:14:31Z",
+        "lastModifiedAt": "2023-04-28T20:17:33Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "olsen-senket-aafjord",
+        "url": "/lokalfotballen/i/dwb9zJ/olsen-senket-aafjord",
+        "title": {
+            "value": "Åfjord tapte borte mot Fram"
+        },
+        "description": "Åfjord tapte 0-2 mot Fram på Framnes stadion i 5. divisjon, Trøndelag - Avdeling 1 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-28T19:44:50Z",
+        "lastModifiedAt": "2023-04-28T22:17:48Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "vinne-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/on8a8a/vinne-fortsatte-seiersrekken",
+        "title": {
+            "value": "Hjemmetap for Nessegutten mot Vinne"
+        },
+        "description": "Nessegutten tapte 0-1 mot Vinne da Morten Granaune Olsen scoret kampen eneste mål i 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-28T19:02:53Z",
+        "lastModifiedAt": "2023-04-28T20:17:33Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "maal-lykke-for-maren-pelabon",
+        "url": "/lokalfotballen/i/l3ljeL/maal-lykke-for-maren-pelabon",
+        "title": {
+            "value": "Ranheim viste muskler"
+        },
+        "description": "Maren Pelabon viste scoringsform da Ranheim seiret 12-0 over Orkla i J17 1. divisjon, Avdeling 2 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-28T18:50:35Z",
+        "lastModifiedAt": "2023-04-28T19:19:21Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "siste-fra-breddefotballen",
+        "url": "/sport/fotball/i/GMjXaq/siste-fra-breddefotballen",
+        "title": {
+            "value": "Henter tidligere førstedivisjonsspiller"
+        },
+        "description": null,
+        "imageUrl": "f5e35fa8-b9da-46b5-978e-d328a7fdb94b",
+        "publishedAt": "2023-03-24T14:51:36Z",
+        "lastModifiedAt": "2023-04-23T20:17:37Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "fotball",
+            "breddefotbaill",
+            "lokalfotballen",
+            "breddefotball"
+        ]
+    },
+    {
+        "slug": "eu-forbudet-mot-gummigranulat-kan-koste-over-100-milliarder-kroner",
+        "url": "/nyheter/innenriks/i/nQOK3m/eu-forbudet-mot-gummigranulat-kan-koste-over-100-milliarder-kroner",
+        "title": {
+            "value": "EU-forbudet mot gummigranulat kan koste over 100 milliarder kroner"
+        },
+        "description": "Uefa sier de jobber med å forsikre seg om at alle konsekvenser ved et gummigranulatforbud er belyst før innføringen. Prislappen kan bli astronomisk.",
+        "imageUrl": "63825ed7-6fb3-48ce-95a3-5f3acf6721cc",
+        "publishedAt": "2023-04-28T11:30:14Z",
+        "lastModifiedAt": "2023-04-28T11:31:07Z",
+        "premium": false,
+        "authors": [
+            "NTB-Stian Grythaugen og Lars Eide"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "ivers-direkte-fra-rbk-trening-faa-siste-nytt-foer-bortekampen",
+        "url": "/sport/fotball/i/O8eBwO/ivers-direkte-fra-rbk-trening-faa-siste-nytt-foer-bortekampen",
+        "title": {
+            "value": "Se sendingen fra RBK-treningen: - Vi er  revansjelystne"
+        },
+        "description": "Direkte fra 11.30: Vi lodder stemningen på treningsfeltet og snakker med aktuelle gjester.",
+        "imageUrl": "d685642c-d3a5-4d63-99a2-dce767dd5c2c",
+        "publishedAt": "2023-04-28T08:35:23Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "iversen-klar-for-ny-klubb-hadde-aldri-trodd-jeg-skulle-faa-til-det",
+        "url": "/sport/fotball/i/8J7KmE/iversen-klar-for-ny-klubb-hadde-aldri-trodd-jeg-skulle-faa-til-det",
+        "title": {
+            "value": "Iversen klar for ny klubb og oldboysfotball: Takker tidligere skistjerne"
+        },
+        "description": null,
+        "imageUrl": null,
+        "publishedAt": "2023-04-28T08:32:19Z",
+        "lastModifiedAt": "2023-04-28T13:39:40Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "breddefotbaill",
+            "lokalfotballen"
+        ]
+    }
+]

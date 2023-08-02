@@ -1,0 +1,372 @@
+[
+    {
+        "authors": [
+            {
+                "name": "NTB-Reuters"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JWdew",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JWdew",
+        "preamble": "Trenerne i det engelske ligasystemet kåret Pep Guardiola til sesongens manager i Premier League etter å ha ledet Manchester City til ligagullet.",
+        "published": {
+            "date": "onsdag 31. mai",
+            "datetime": "2023-05-31 07:40:33",
+            "niceformat": "31.05.2023, 07:40",
+            "timestamp": "2023-05-31T05:40:33.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6aaa2597-e5f5-463a-a264-12f8a2b5f7f8?fit=crop&format=auto&h=267&w=400&s=689cfb62ecbc978cbf3f3cb0c2bf06161caf70b1",
+            "width": 400
+        },
+        "title": "Guardiola stemt frem som sesongens manager i Premier League av kollegaene",
+        "url": "https://www.vg.no/sport/fotball/i/8JWdew/guardiola-stemt-frem-som-sesongens-manager-i-premier-league-av-kollegaene"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BWdLkg",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BWdLkg",
+        "preamble": "Den nederlandske avisen De Telegraaf hevder at Bodø/Glimt-trener Kjetil Knutsen (54) er blant kandidatene til Ajax-jobben.",
+        "published": {
+            "date": "tirsdag 30. mai",
+            "datetime": "2023-05-30 23:00:32",
+            "niceformat": "30.05.2023, 23:00",
+            "timestamp": "2023-05-30T21:00:32.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/dfe5e05b-1888-4e69-ac0e-5632f47531f1?fit=crop&format=auto&h=267&w=400&s=9d159a4b85aab1591889aa58c26fa2f43f630861",
+            "width": 400
+        },
+        "title": "Nederlandsk storavis: Knutsen kandidat til Ajax-jobben",
+        "url": "https://www.vg.no/sport/fotball/i/BWdLkg/nederlansk-storavis-knutsen-kandidat-til-ajax-jobben"
+    },
+    {
+        "authors": [
+            {
+                "email": "leif.welhaven@vg.no",
+                "id": "e46ed1bb-8354-4bd4-97d3-09ac43c5dc8f",
+                "name": "Leif Welhaven"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3X2We",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3X2We",
+        "preamble": "Det er trist at det er nødvendig, men dommerne skal ha all ære for hvordan de tar kampen for å bli anstendig behandlet i norsk fotball.",
+        "published": {
+            "date": "tirsdag 30. mai",
+            "datetime": "2023-05-30 22:10:16",
+            "niceformat": "30.05.2023, 22:10",
+            "timestamp": "2023-05-30T20:10:16.000Z"
+        },
+        "thumbnail": {
+            "height": 679,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/BGw8ddWDqpDD.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Helter i krisetid",
+        "url": "https://www.vg.no/sport/fotball/i/l3X2We/helter-i-krisetid"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "onBgK7",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/onBgK7",
+        "preamble": "Anthony Martial (27) mister finalen i FA-cupen som følge av en skade i hamstringen. ",
+        "published": {
+            "date": "tirsdag 30. mai",
+            "datetime": "2023-05-30 22:06:06",
+            "niceformat": "30.05.2023, 22:06",
+            "timestamp": "2023-05-30T20:06:06.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/7ad81bd9-134d-4348-9e3d-36530a0408e2?fit=crop&format=auto&h=267&w=400&s=9029a782cfea4ceee814e3e831de09bf4d0815c3",
+            "width": 400
+        },
+        "title": "Martial mister finalen i FA-cupen mot Manchester City",
+        "url": "https://www.vg.no/sport/fotball/i/onBgK7/martial-mister-finalen-i-fa-cupen"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "nQXewm",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/nQXewm",
+        "preamble": "Det anerkjente fotballmagasinet The Athletic har tirsdag kveld gitt flere utmerkelser til nordmenn for deres prestasjoner denne sesongen.",
+        "published": {
+            "date": "tirsdag 30. mai",
+            "datetime": "2023-05-30 21:47:29",
+            "niceformat": "30.05.2023, 21:47",
+            "timestamp": "2023-05-30T19:47:29.000Z"
+        },
+        "thumbnail": {
+            "height": 302,
+            "url": "https://akamai.vgc.no/v2/images/41de829a-3080-4680-b746-1f720ba15946?fit=crop&format=auto&h=302&w=400&s=ada1c35b594d69a195e0475316d47c54da99b520",
+            "width": 400
+        },
+        "title": "The Athletic kåret Haaland til årets spiller – Kane vraket fra årets lag",
+        "url": "https://www.vg.no/sport/fotball/i/nQXewm/the-athletic-kaaret-haaland-til-aarets-spiller-kane-vraket-fra-aarets-lag"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "onBgpB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/onBgpB",
+        "preamble": "Fredrik Midtsjø og Galatasaray kunne tirsdag juble for ligatittelen i tyrkisk fotball etter 4-1 over Ankaragücü.",
+        "published": {
+            "date": "tirsdag 30. mai",
+            "datetime": "2023-05-30 21:08:02",
+            "niceformat": "30.05.2023, 21:08",
+            "timestamp": "2023-05-30T19:08:02.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/308b1e52-ea16-4e3c-8f0a-9e2ffac9508e?fit=crop&format=auto&h=267&w=400&s=592728540bdf98916ba50d921977b2042251c1a5",
+            "width": 400
+        },
+        "title": "Midtsjø ble seriemester med Galatasaray",
+        "url": "https://www.vg.no/sport/fotball/i/onBgpB/fredrik-midtsjoe-ble-seriemester-med-galatasaray-i-tyrkiske-super-lig"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "mattis.sandblad@vg.no",
+                "id": "79683f94-a05d-4191-9208-ec33ca98d72a",
+                "name": "Mattis Sandblad (foto)"
+            },
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "veXJGl",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/veXJGl",
+        "preamble": "ULLEVAAL STADION (VG) Lise Klaveness er tydelig på hva hun synes om volden mot dommer Rohit Saggi, og slår samtidig alarm om en økende tendens i fotballen. ",
+        "published": {
+            "date": "tirsdag 30. mai",
+            "datetime": "2023-05-30 18:12:40",
+            "niceformat": "30.05.2023, 18:12",
+            "timestamp": "2023-05-30T16:12:40.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/af765bfe-7051-4d09-9433-8e3e4c532704?fit=crop&format=auto&h=267&w=400&s=129900229a2f2aff82caaafaf0f6977fe56f9202",
+            "width": 400
+        },
+        "title": "Klaveness frykter mer hets: – Man må være bevisst",
+        "url": "https://www.vg.no/sport/fotball/i/veXJGl/klaveness-om-flaskekastingen-oedelegger-fotballen"
+    },
+    {
+        "authors": [
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAXzVn",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAXzVn",
+        "preamble": "Kjetil Rekdal vil ikke justere klubbens ambisjon om å bli nummer to i årets serie. RBK-styreleder Cecilie Gotaas Johnsen erkjenner at det går an å stille spørsmål ved klubbens mål om plassering.",
+        "published": {
+            "date": "tirsdag 30. mai",
+            "datetime": "2023-05-30 17:24:37",
+            "niceformat": "30.05.2023, 17:24",
+            "timestamp": "2023-05-30T15:24:37.000Z"
+        },
+        "thumbnail": {
+            "height": 225,
+            "url": "https://akamai.vgc.no/v2/images/a2641daf-ea4d-4148-81e8-f45457937563?fit=crop&format=auto&h=225&w=400&s=0a34dbdcd9c1cc1f0683225e1ff39cb9286d8b06",
+            "width": 400
+        },
+        "title": "Rosenborgs styreleder: – På et tidspunkt må vi se hvor vi står",
+        "url": "https://www.vg.no/sport/fotball/i/wAXzVn/rosenborgs-styreleder-cecilie-gotaas-johnsen-erkjenner-at-det-gaar-an-aa-stille-spoersmaal-ved-klubbens-maalsetting"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB-Ritzau"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "RG87xW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/RG87xW",
+        "preamble": "Juventus har blitt enig med det italienske fotballforbundet å betale en bot på 8,5 millioner kroner i en sak om tvilsom regnskapsføring og spillerlønninger.",
+        "published": {
+            "date": "tirsdag 30. mai",
+            "datetime": "2023-05-30 14:56:21",
+            "niceformat": "30.05.2023, 14:56",
+            "timestamp": "2023-05-30T12:56:21.000Z"
+        },
+        "thumbnail": {
+            "height": 311,
+            "url": "https://akamai.vgc.no/v2/images/e18a6a6b-eb05-4f7c-85fe-710ce40fc3ac?fit=crop&format=auto&h=311&w=400&s=1fc7cc19706156676f220213e32fa1128748ccaf",
+            "width": 400
+        },
+        "title": "Juventus inngikk forlik – må betale millionbot",
+        "url": "https://www.vg.no/sport/fotball/i/RG87xW/serie-a-juventus-inngikk-forlik-maa-betale-millionbot"
+    },
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEjlba",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEjlba",
+        "preamble": "Molde ble klaget inn til Idrettens voldgiftsrett (CAS) for måten de hentet David Datro Fofana på. Høringen blir 15. juni. ",
+        "published": {
+            "date": "tirsdag 30. mai",
+            "datetime": "2023-05-30 13:54:24",
+            "niceformat": "30.05.2023, 13:54",
+            "timestamp": "2023-05-30T11:54:24.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/45fc4ee7-d76b-48a9-bffc-eec13acdef40?fit=crop&format=auto&h=267&w=400&s=85fdd5254c7dc8fd85f4891b4e4ee72cfcad5805",
+            "width": 400
+        },
+        "title": "Moldes CAS-høring har fått dato",
+        "url": "https://www.vg.no/sport/fotball/i/gEjlba/moldes-cas-hoering-har-faatt-dato"
+    }
+]

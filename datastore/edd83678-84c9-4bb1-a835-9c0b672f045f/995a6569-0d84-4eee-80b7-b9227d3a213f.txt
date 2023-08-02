@@ -1,0 +1,194 @@
+[
+    {
+        "slug": "storseier-for-kvik",
+        "url": "/lokalfotballen/i/Q73zyx/storseier-for-kvik",
+        "title": {
+            "value": "Storseier for Kvik"
+        },
+        "description": "Strindheim 2 tapte 0-4 da David Melkvik scoret to av målene for Kvik i 4. divisjon, Trøndelag - Avdeling 2 i fotball. Strindheim 2 har tapt de siste to kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T15:59:42Z",
+        "lastModifiedAt": "2023-04-29T15:59:42Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "hjemmeseier-for-aalesund-over-rosenborg",
+        "url": "/lokalfotballen/i/P4ex6e/hjemmeseier-for-aalesund-over-rosenborg",
+        "title": {
+            "value": "Rosenborg-tap mot Aalesund"
+        },
+        "description": "Aalesund slo Rosenborg 3-0 på Color Line stadion i Nasjonal G15, Gruppe C.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T15:05:06Z",
+        "lastModifiedAt": "2023-04-29T15:19:30Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-smpno",
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "verdal-maatte-dele-poengene",
+        "url": "/lokalfotballen/i/GMnLzQ/verdal-maatte-dele-poengene",
+        "title": {
+            "value": "Uavgjort på Tobb Arena Sør"
+        },
+        "description": "Verken Tiller eller Verdal fikk nettkjenning da lagene møttes i 3. divisjon, Avdeling 5 i fotball lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T14:57:55Z",
+        "lastModifiedAt": "2023-04-29T15:20:33Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "klarer-rbk-aa-slaa-tilbake",
+        "url": "/sport/fotball/i/q17xAO/klarer-rbk-aa-slaa-tilbake",
+        "title": {
+            "value": "- Har hatt stålkontroll"
+        },
+        "description": "Følg Rosenborg mot Lyn her. Kampstart klokken 16.45.",
+        "imageUrl": "f18329bd-322f-4c2d-95f3-21af8f6e77b6",
+        "publishedAt": "2023-04-29T14:50:57Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "fotball",
+            "rosenborg-bk",
+            "toppserien",
+            "norsk-fotball"
+        ]
+    },
+    {
+        "slug": "kil-hemne-ble-slaatt-i-maalfest",
+        "url": "/lokalfotballen/i/wA0GWG/kil-hemne-ble-slaatt-i-maalfest",
+        "title": {
+            "value": "KIL/Hemne tapte mot NTNUI i målfest"
+        },
+        "description": "KIL/Hemne fikk det tøft mot NTNUI og måtte til slutt se seg slått 2-4 i 4. divisjon, Trøndelag - Avdeling 2 i fotball lørdag. Dermed har NTNUI vunnet tre kamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T14:07:26Z",
+        "lastModifiedAt": "2023-04-29T14:17:35Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "laanke-tangmoen-maatte-dele-poengene",
+        "url": "/lokalfotballen/i/4oXe46/laanke-tangmoen-maatte-dele-poengene",
+        "title": {
+            "value": "Uavgjort mellom Lånke/Tangmoen og Følling/Kvam 9er"
+        },
+        "description": "Følling/Kvam 9er gikk fra 0-2 til 2-2 mot Lånke/Tangmoen i J14 2. divisjon, Avdeling 2 - Vår lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T13:41:51Z",
+        "lastModifiedAt": "2023-04-29T15:22:49Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "kjoelhamar-dobbel-sikret-seier",
+        "url": "/lokalfotballen/i/Xbe70E/kjoelhamar-dobbel-sikret-seier",
+        "title": {
+            "value": "Kjølhamar i scoringshumør"
+        },
+        "description": "Sverresborg banket Alvdal 4-1 i 4. divisjon, Trøndelag - Avdeling 2 i fotball for menn lørdag. Det var Sverresborgs første seier denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T13:17:19Z",
+        "lastModifiedAt": "2023-04-29T13:47:59Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ranheim-kan-ta-fire-paa-rad-foelg-kampen-direkte",
+        "url": "/sport/fotball/i/dwb11z/ranheim-kan-ta-fire-paa-rad-foelg-kampen-direkte",
+        "title": {
+            "value": "Marerittminutter ødela for Kåre: - Det blir stygt"
+        },
+        "description": "Ranheim var i store deler av kampen det beste laget. Men syv grusomme minutter ødela alt for Kåre Ingebrigtsens gutter.",
+        "imageUrl": "326f00f4-b763-4ea3-9d81-102459d44b89",
+        "publishedAt": "2023-04-29T12:56:39Z",
+        "lastModifiedAt": "2023-04-29T15:28:34Z",
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen",
+            "Johannes Strand"
+        ],
+        "tags": [
+            "ranheim-tf",
+            "fotball",
+            "kaare-ingebrigtsen"
+        ]
+    },
+    {
+        "slug": "nardo-tap-mot-tiller",
+        "url": "/lokalfotballen/i/vez7PV/nardo-tap-mot-tiller",
+        "title": {
+            "value": "Borteseier for Tiller over Nardo"
+        },
+        "description": "Nardo ble slått 1-2 av Tiller på Nissekollen i G14 1. divisjon, Avdeling 2 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T12:07:35Z",
+        "lastModifiedAt": "2023-04-29T12:17:42Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "bortetap-for-tiller-mot-utleira",
+        "url": "/lokalfotballen/i/wA0Gmn/bortetap-for-tiller-mot-utleira",
+        "title": {
+            "value": "Bortetap for Tiller mot Utleira"
+        },
+        "description": "Utleira fikk med seg alle poengene da Tiller ble slått 2-0 i J14 1. divisjon, Avdeling 1 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T12:05:34Z",
+        "lastModifiedAt": "2023-04-29T12:17:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

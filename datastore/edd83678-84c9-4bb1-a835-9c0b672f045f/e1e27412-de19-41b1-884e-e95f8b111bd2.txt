@@ -1,0 +1,201 @@
+[
+    {
+        "slug": "rbk-profilen-om-smellen-som-aa-bli-slaatt-ut-av-mike-tyson",
+        "url": "/sport/fotball/i/Q7K81Q/rbk-profilen-om-smellen-som-aa-bli-slaatt-ut-av-mike-tyson",
+        "title": {
+            "value": "- Jeg elsker RBK mer enn noe annet"
+        },
+        "description": "RBKs tomålsscorer Olaus Jair Skarsem og Blinks cuphelt Rasmus Sandberg gjester Rasmus&Saga.",
+        "imageUrl": "14869bb8-3f09-4bd5-aaac-ae46606923b2",
+        "publishedAt": "2023-06-08T15:04:09Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rasmus-saga"
+        ]
+    },
+    {
+        "slug": "var-truet-av-konkurs-og-mistet-17-spillere-de-sykeste-ukene-jeg-har-hatt",
+        "url": "/sport/fotball/i/zEXR8q/var-truet-av-konkurs-og-mistet-17-spillere-de-sykeste-ukene-jeg-har-hatt",
+        "title": {
+            "value": "– Dette er det drøyeste. Guttene er amatører"
+        },
+        "description": "Kevin Ingebrigtsen hadde aldri sett for seg å oppleve de to ukene han nettopp har vært gjennom.",
+        "imageUrl": "44048ae9-59c0-4bd1-a84c-68f51fa1bb0a",
+        "publishedAt": "2023-06-08T11:52:19Z",
+        "lastModifiedAt": "2023-06-08T12:20:47Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold",
+            "Christian Stendal"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "stjoerdals-blink",
+            "rosenborg-bk",
+            "nm-cup-menn",
+            "norsk-fotball",
+            "fotball"
+        ]
+    },
+    {
+        "slug": "naa-drar-han-fra-trondheim-en-perfekt-avslutning",
+        "url": "/sport/i/dwzqXw/naa-drar-han-fra-trondheim-en-perfekt-avslutning",
+        "title": {
+            "value": "Nå drar han fra Trondheim: - En perfekt avslutning "
+        },
+        "description": "Først blir det litt feiring. Så blir det ferie med familien. Deretter venter et nytt håndball-liv på Eskil Dahl Reitan.",
+        "imageUrl": "7c998260-6afd-4a8e-b199-2b9cb6f65468",
+        "publishedAt": "2023-06-08T11:27:36Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "eskil-dahl-reitan",
+            "haandball",
+            "kolstad-haandball"
+        ]
+    },
+    {
+        "slug": "umusikalsk-uklokt-og-pinlig",
+        "url": "/sport/i/jlMkyb/umusikalsk-uklokt-og-pinlig",
+        "title": {
+            "value": "Det var voldsomme ord, langt over streken"
+        },
+        "description": "KOMMENTAR: Mens Fotball-Norge retter et viktig fokus mot dommerhets og rekrutteringssvikt, fortsetter Ranheim-sjefen sitt angrep mot kampledere. Forstå det den som kan.",
+        "imageUrl": "87835cef-d301-4833-b3e2-5039731b5433",
+        "publishedAt": "2023-06-08T09:11:43Z",
+        "lastModifiedAt": "2023-06-08T09:11:43Z",
+        "premium": true,
+        "authors": [
+            "Birger Løfaldli"
+        ],
+        "tags": [
+            "frank-lidahl",
+            "rohit-saggi",
+            "lise-klaveness",
+            "ranheim-tf"
+        ]
+    },
+    {
+        "slug": "slik-er-de-ulike-rbk-supporterne-klubben-er-noedt-til-aa-forholde-seg-til-dem",
+        "url": "/sport/fotball/i/Knk8d7/slik-er-de-ulike-rbk-supporterne-klubben-er-noedt-til-aa-forholde-seg-til-dem",
+        "title": {
+            "value": "– Dette er de mest dedikerte og utagerende"
+        },
+        "description": "De protesterer, ber om treneravgang og gir RBK-styret det glatte lag. På Øvre Øst er røsten som krever å bli hørt.",
+        "imageUrl": "1d7a3043-c983-47c9-8686-12af9f7c2c71",
+        "publishedAt": "2023-06-08T08:15:44Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "kjernen",
+            "arve-hjelseth",
+            "bjoern-skar"
+        ]
+    },
+    {
+        "slug": "ranheim-mistet-seieren-paa-tampen",
+        "url": "/lokalfotballen/i/76JBnW/ranheim-mistet-seieren-paa-tampen",
+        "title": {
+            "value": "Seieren glapp for Ranheim"
+        },
+        "description": "Ranheim var på vei mot seier, men måtte nøye seg med 1-1 mot Strindheim i G19 Elite, Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-07T21:26:18Z",
+        "lastModifiedAt": "2023-06-07T22:55:28Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "blink-trakk-eliteseriemotstand-i-cupen",
+        "url": "/sport/fotball/i/JQGvK8/blink-trakk-eliteseriemotstand-i-cupen",
+        "title": {
+            "value": "Blink trakk eliteserie­motstand i cupen"
+        },
+        "description": "Vålerenga skal ta turen til Stjørdal for å møte Blink.",
+        "imageUrl": "bd0d1546-9379-477f-8911-ca0a013db25c",
+        "publishedAt": "2023-06-07T21:24:06Z",
+        "lastModifiedAt": "2023-06-08T08:10:09Z",
+        "premium": false,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "fotball",
+            "sport",
+            "stjoerdals-blink",
+            "stjoerdal"
+        ]
+    },
+    {
+        "slug": "oppdal-slo-melhus-gimse-gauldal-i-maalfest",
+        "url": "/lokalfotballen/i/l3L96y/oppdal-slo-melhus-gimse-gauldal-i-maalfest",
+        "title": {
+            "value": "Oppdal seiret i målfest"
+        },
+        "description": "Oppdal har tatt poeng i seks strake kamper etter dagens 8-1-seier i J15 2. divisjon, Avdeling 4 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-07T20:33:24Z",
+        "lastModifiedAt": "2023-06-07T21:27:32Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-opp",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "charlottenlund-ordnet-poeng",
+        "url": "/lokalfotballen/i/gEKpbA/charlottenlund-ordnet-poeng",
+        "title": {
+            "value": "Charlottenlund ordnet uavgjort"
+        },
+        "description": "Charlottenlund og Vestbyen/Nationalkameratene/Sverresborg spilte 1-1 på CSK Varmbo Arena i G19 Elite, Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-07T20:33:22Z",
+        "lastModifiedAt": "2023-06-07T20:59:49Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "poengdeling-mellom-kvik-og-ntnui",
+        "url": "/lokalfotballen/i/rl3mw3/poengdeling-mellom-kvik-og-ntnui",
+        "title": {
+            "value": "NTNUI spilte uavgjort"
+        },
+        "description": "David Melkvik og Magnus Austbø Seth scoret hvert sitt mål da Kvik og NTNUI delte poengene på Rosenborgbanen i 4. divisjon, Trøndelag - Avdeling 2 i fotball onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-07T20:23:10Z",
+        "lastModifiedAt": "2023-06-07T20:25:19Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

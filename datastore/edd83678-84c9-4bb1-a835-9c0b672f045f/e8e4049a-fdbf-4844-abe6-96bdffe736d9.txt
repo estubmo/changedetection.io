@@ -1,0 +1,222 @@
+[
+    {
+        "slug": "politiet-om-supporterbraaket-nitrist",
+        "url": "/nyheter/trondheim/i/JQqbkj/politiet-om-supporterbraaket-nitrist",
+        "title": {
+            "value": "Politiet: – Meget skuffet over RBK-supporterne"
+        },
+        "description": "Det ble sammenstøt, vold og bråk. Politiets innsatsleder Håkon Jørgensen er svært skuffet over mange hjemmesupportere i forbindelse med lørdagens RBK-kamp mot Vålerenga.",
+        "imageUrl": "6932f4d5-59d2-41d6-b8c6-110ab224de1a",
+        "publishedAt": "2023-05-07T10:58:18Z",
+        "lastModifiedAt": "2023-05-07T11:31:59Z",
+        "premium": true,
+        "authors": [
+            "Lea Lauvland Longva",
+            "Pål E. Solberg"
+        ],
+        "tags": [
+            "fotball",
+            "politi-2",
+            "troendelag",
+            "troendelag-politidistrikt",
+            "olav-tryggvasons-gate"
+        ]
+    },
+    {
+        "slug": "jo-bystyret-maa-mene-alvor",
+        "url": "/meninger/i/4o0zKq/jo-bystyret-maa-mene-alvor",
+        "title": {
+            "value": "For lettvint av kommunen å selge til høystbydende i dette området"
+        },
+        "description": null,
+        "imageUrl": "6c9e312a-5001-41f1-8fd1-eea608b9d665",
+        "publishedAt": "2023-05-07T10:22:08Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Erling Moe"
+        ],
+        "tags": [
+            "debatt",
+            "byutvikling",
+            "erling-moe",
+            "byutvikling-i-trondheim",
+            "moellenberg"
+        ]
+    },
+    {
+        "slug": "knusende-seier-for-roervik",
+        "url": "/lokalfotballen/i/WR3vMg/knusende-seier-for-roervik",
+        "title": {
+            "value": "Knusende seier for Rørvik"
+        },
+        "description": "Rørvik banket Lånke 5-1 i 4. divisjon, Trøndelag - Avdeling 1 i fotball lørdag. Mats Ola Bergslid scoret to av målene. Lånke har gått poengløse av banen i alle kampene sine hittil denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-07T09:46:56Z",
+        "lastModifiedAt": "2023-05-07T09:46:56Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "politiloggen-mann-i-30-aarene-var-utagerende-paa-utested-paa-solsiden",
+        "url": "/nyhetsstudio/i/gEBEj9/politiloggen-mann-i-30-aarene-var-utagerende-paa-utested-paa-solsiden",
+        "title": {
+            "value": "Politiloggen: Mann i 30-årene var «utagerende» på utested på Solsiden"
+        },
+        "description": null,
+        "imageUrl": null,
+        "publishedAt": "2023-05-07T06:13:31Z",
+        "lastModifiedAt": "2023-05-07T06:15:54Z",
+        "premium": true,
+        "authors": [
+            "Frank Cadamarteri"
+        ],
+        "tags": [
+            "malvik-2",
+            "orkanger",
+            "hommelvik",
+            "inderoey",
+            "politi-2",
+            "utesteder",
+            "troendelag",
+            "solsiden",
+            "stjoerdal",
+            "orkland",
+            "politiet"
+        ]
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/GMqxrx/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag, søndag 7. mai.",
+        "imageUrl": "b0262822-1155-4dc1-8810-2059679e00f6",
+        "publishedAt": "2023-05-07T04:00:48Z",
+        "lastModifiedAt": "2023-05-07T04:00:48Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "supporter-skal-vaere-bitt-av-politihund",
+        "url": "/nyheter/trondheim/i/dwpRoX/supporter-skal-vaere-bitt-av-politihund",
+        "title": {
+            "value": "Måtte bruke CS-gass for å stoppe supporterslagsmål i Trondheim"
+        },
+        "description": "Fotballsupportere røk i hop flere steder i byen i går og i natt. Politiet har brukt store ressurser for å forhindre at fotballbråket eskalerte.",
+        "imageUrl": "fad01b81-06f6-474b-862e-d8648090b06d",
+        "publishedAt": "2023-05-06T22:35:43Z",
+        "lastModifiedAt": "2023-05-07T07:53:41Z",
+        "premium": true,
+        "authors": [
+            "Kari-Anne Aarvåg",
+            "Frank Cadamarteri",
+            "Pål E. Solberg"
+        ],
+        "tags": [
+            "politi-2",
+            "rosenborg",
+            "vaalerenga",
+            "trondheim",
+            "forelegg",
+            "troendelag-politidistrikt",
+            "supporter",
+            "beredskap",
+            "gass",
+            "fotball",
+            "vold",
+            "sentrum"
+        ]
+    },
+    {
+        "slug": "vukovic-dobbel-for-ntnui",
+        "url": "/lokalfotballen/i/gEBw50/vukovic-dobbel-for-ntnui",
+        "title": {
+            "value": "Vukovic-dobbel for NTNUI"
+        },
+        "description": "Julija Vukovic scoret to av målene da NTNUI vant 4-0 over Namsos i 4. divisjon, Trøndelag - Avdeling 1 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-06T21:17:03Z",
+        "lastModifiedAt": "2023-05-06T21:17:03Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "raadvill-rbk-bauta-har-slitt-med-det-siden-januar",
+        "url": "/sport/fotball/i/LlqMrP/raadvill-rbk-bauta-har-slitt-med-det-siden-januar",
+        "title": {
+            "value": "Rådvill RBK-bauta: - Har slitt med det siden januar"
+        },
+        "description": "André Hansen innrømmer både motløshet og at han er rådvill. Men er ikke overrasket over at RBK har blitt en «middelhavsfarer».",
+        "imageUrl": "0991a35d-94c0-4c74-9552-48acfb7021ab",
+        "publishedAt": "2023-05-06T19:51:32Z",
+        "lastModifiedAt": "2023-05-06T19:56:26Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken",
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "andre-hansen",
+            "kjetil-rekdal"
+        ]
+    },
+    {
+        "slug": "rbk-treneren-etter-ydmykelsen-det-er-100-prosent-mitt-ansvar",
+        "url": "/sport/fotball/i/eJXMLl/rbk-treneren-etter-ydmykelsen-det-er-100-prosent-mitt-ansvar",
+        "title": {
+            "value": "Rekdal forstår spørsmål om egen rolle:  - Ja, selvfølgelig"
+        },
+        "description": "Kjetil Rekdal tar det fulle ansvaret for Rosenborgs svake sesongstart.",
+        "imageUrl": "70b16cbc-cfb1-41b9-bc44-23f672ce5009",
+        "publishedAt": "2023-05-06T18:38:59Z",
+        "lastModifiedAt": "2023-05-07T11:40:35Z",
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl",
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "hvor-lenge-gidder-han",
+        "url": "/sport/i/Moqnkm/hvor-lenge-gidder-han",
+        "title": {
+            "value": "Hvor lenge gidder han?"
+        },
+        "description": "KOMMENTAR: Det var kampen Kjetil Rekdal måtte vinne. Det gikk i stedet fra vondt til verre. Nå er Rosenborg i nedrykksstriden.",
+        "imageUrl": "0ddcc17c-47e5-45d3-8498-4706cb3eb9f5",
+        "publishedAt": "2023-05-06T17:59:55Z",
+        "lastModifiedAt": "2023-05-06T18:20:42Z",
+        "premium": true,
+        "authors": [
+            "Birger Løfaldli"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "birger-loefaldli",
+            "cecilie-gotaas-johnsen",
+            "per-mathias-hoegmo",
+            "eirik-horneland"
+        ]
+    }
+]

@@ -1,0 +1,367 @@
+[
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "RGQq42",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/RGQq42",
+        "preamble": "Midtbanespiller Naby Keïta (28) returnerer til Bundesliga etter at kontrakten med Liverpool gikk ut.",
+        "published": {
+            "date": "fredag 9. juni",
+            "datetime": "2023-06-09 13:29:10",
+            "niceformat": "09.06.2023, 13:29",
+            "timestamp": "2023-06-09T11:29:10.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/471e3994-e020-4f56-90ec-126a79ffc7f1?fit=crop&format=auto&h=267&w=400&s=cb707e44404c5f1dfb6937419172265a370b68bd",
+            "width": 400
+        },
+        "title": "Naby Keïta klar for ny klubb",
+        "url": "https://www.vg.no/sport/fotball/i/RGQq42/naby-keita-klar-for-ny-klubb"
+    },
+    {
+        "authors": [
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEebO5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEebO5",
+        "preamble": "Norges Fotballforbund fjerner Freia-produkter fra kioskene på Ullevaal Stadion og landskamper inntil videre.",
+        "published": {
+            "date": "fredag 9. juni",
+            "datetime": "2023-06-09 12:43:47",
+            "niceformat": "09.06.2023, 12:43",
+            "timestamp": "2023-06-09T10:43:47.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6959f68d-7326-4f1d-a56c-9d512735c5a9?fit=crop&format=auto&h=267&w=400&s=b94180d7c64887518999de18e4da91a9356a883e",
+            "width": 400
+        },
+        "title": "NFF stopper med Freia etter Russland-kobling",
+        "url": "https://www.vg.no/sport/fotball/i/zEebO5/nff-stopper-med-freia-etter-russland-kobling"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69dKnr",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69dKnr",
+        "preamble": "Siktelsene mot Mason Greenwood ble frafalt i vinter. Nå kan han bli lånt ut, ifølge Daily Mail.  ",
+        "published": {
+            "date": "fredag 9. juni",
+            "datetime": "2023-06-09 12:13:16",
+            "niceformat": "09.06.2023, 12:13",
+            "timestamp": "2023-06-09T10:13:16.000Z"
+        },
+        "thumbnail": {
+            "height": 258,
+            "url": "https://akamai.vgc.no/v2/images/c13ab6b3-5d14-484d-9fb2-74806916b70c?fit=crop&format=auto&h=258&w=400&s=663edd4b49c7d6d6314cab5c383f1b3045bb3ba0",
+            "width": 400
+        },
+        "title": "Hevder Manchester United ønsker å låne ut Greenwood",
+        "url": "https://www.vg.no/sport/fotball/i/69dKnr/mason-greenwood-kan-bli-laant-ut-fra-manchester-united"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BWnvn0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BWnvn0",
+        "preamble": "Dommer Rohit Saggi tok kontakt med foreldrene til den mindreårige som kastet en flaske på ham. Når har de to skværet opp. ",
+        "published": {
+            "date": "fredag 9. juni",
+            "datetime": "2023-06-09 10:05:57",
+            "niceformat": "09.06.2023, 10:05",
+            "timestamp": "2023-06-09T08:05:57.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/766786aa-6a17-4f31-b47f-e347558c1048?fit=crop&format=auto&h=267&w=400&s=dd9077cd945015397d208ccd7f890c63abc11365",
+            "width": 400
+        },
+        "title": "Skværet opp med flaskekasteren: – Føltes både riktig og bra",
+        "url": "https://www.vg.no/sport/fotball/i/BWnvn0/skvaeret-opp-med-flaskekasteren-foeltes-baade-riktig-og-bra"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwzwao",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwzwao",
+        "preamble": "Manchester City har dominert Premier League i mer enn et tiår – men har aldri lykkes i å vinne Champions League-trofeet. En tapt finale har vært det nærmeste. Derfor hentet de Erling Braut Haaland (22). Lykkes de endelig?",
+        "published": {
+            "date": "fredag 9. juni",
+            "datetime": "2023-06-09 01:01:54",
+            "niceformat": "09.06.2023, 01:01",
+            "timestamp": "2023-06-08T23:01:54.000Z"
+        },
+        "thumbnail": {
+            "height": 273,
+            "url": "https://akamai.vgc.no/v2/images/6eeda879-a870-4acc-8859-d49499385e89?fit=crop&format=auto&h=273&w=400&s=c055c2206aa8821cdf17ccc0b4796b1031db793f",
+            "width": 400
+        },
+        "title": "Champions League-forbannelsen over Manchester City: 12 forsøk – null titler",
+        "url": "https://www.vg.no/sport/fotball/i/dwzwao/manchester-city-i-champions-league-12-forsoek-null-titler"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            },
+            {
+                "email": "fredrik.solstad@vg.no",
+                "id": "42fbf715-1f5e-45d0-bd94-7e7ff1675788",
+                "name": "Fredrik Solstad (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9zn0OE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9zn0OE",
+        "preamble": "Tor Mjøen har holdt kjeft lenge. Nå har kunstgresseksperten fått nok. Han mener NFF har sett en annen vei i mange år – og ikke vil se løsninger.",
+        "published": {
+            "date": "torsdag 8. juni",
+            "datetime": "2023-06-08 19:37:57",
+            "niceformat": "08.06.2023, 19:37",
+            "timestamp": "2023-06-08T17:37:57.000Z"
+        },
+        "thumbnail": {
+            "height": 249,
+            "url": "https://akamai.vgc.no/v2/images/146004f7-d96b-466f-aec3-e0b74bd1e2f3?fit=crop&format=auto&h=249&w=400&s=0a5660b665088ac2c5077fb90730a6b0b87c6060",
+            "width": 400
+        },
+        "title": "Kunstgress-ekspertens knallharde dom: – De må komme seg ut av Ullevaal ",
+        "url": "https://www.vg.no/sport/fotball/i/9zn0OE/kunstgress-ekspertens-knallharde-dom-de-maa-komme-seg-ut-av-ullevaal"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Lldkv1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Lldkv1",
+        "preamble": "SØRENGA (VG) Han ble hetset av fansen og følte seg fryst ut av egen klubb. I mars ble han suspendert som følge av en disputt på trening. Tre måneder senere er alt snudd på hodet for Kristoffer Velde (23).",
+        "published": {
+            "date": "torsdag 8. juni",
+            "datetime": "2023-06-08 19:10:55",
+            "niceformat": "08.06.2023, 19:10",
+            "timestamp": "2023-06-08T17:10:55.000Z"
+        },
+        "thumbnail": {
+            "height": 283,
+            "url": "https://akamai.vgc.no/v2/images/48f31a50-8940-43f0-8825-35626b44f658?fit=crop&format=auto&h=283&w=400&s=787df9b3aee3974109e17fd438dc6c22c2e986d7",
+            "width": 400
+        },
+        "title": "Landslagsklare Velde åpner opp om tøff tid: – Fra det verste av det verste til gud i Poznan",
+        "url": "https://www.vg.no/sport/fotball/i/Lldkv1/kristoffer-velde-paa-landslaget"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "y6y8Wa",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/y6y8Wa",
+        "preamble": "Kolbotn signerte en kontrakt med stortalentet Martine Fenger som inneholdt en fastsatt videresalgssum til Barcelona. Det er i strid med regelverket. ",
+        "published": {
+            "date": "torsdag 8. juni",
+            "datetime": "2023-06-08 15:25:03",
+            "niceformat": "08.06.2023, 15:25",
+            "timestamp": "2023-06-08T13:25:03.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/2f061f29-fba2-4266-ada9-95733249e1dc?fit=crop&format=auto&h=267&w=400&s=b0c578f797faba42021c6888de98e75bde8fb393",
+            "width": 400
+        },
+        "title": "Kolbotn skrev ulovlig avtale med 15-åring – avtalte fremtidig sum med Barcelona",
+        "url": "https://www.vg.no/sport/fotball/i/y6y8Wa/kolbotn-skrev-ulovlig-avtale-med-15-aaring-avtalte-fremtidig-sum-med-barcelona"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JzxBd",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JzxBd",
+        "preamble": "Politiet i Praha har pågrepet 22 italienere og en engelskmann som følge av supporterbråk i forbindelse med onsdagens conferenceligafinale i byen.",
+        "published": {
+            "date": "torsdag 8. juni",
+            "datetime": "2023-06-08 14:28:05",
+            "niceformat": "08.06.2023, 14:28",
+            "timestamp": "2023-06-08T12:28:05.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/8313c2fd-fcae-40eb-9cad-506e832b43bb?fit=crop&format=auto&h=267&w=400&s=5a8197ba1cf44d8d9c5cfcc465bee17cb2362254",
+            "width": 400
+        },
+        "title": "23 fotballpøbler pågrepet etter conferenceligafinalen",
+        "url": "https://www.vg.no/sport/fotball/i/8JzxBd/23-fotballpoebler-paagrepet-etter-conferenceligafinalen"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9z08Qr",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9z08Qr",
+        "preamble": "Alexis Mac Allister blir Jürgen Klopps første sommersignering.",
+        "published": {
+            "date": "torsdag 8. juni",
+            "datetime": "2023-06-08 11:58:31",
+            "niceformat": "08.06.2023, 11:58",
+            "timestamp": "2023-06-08T09:58:31.000Z"
+        },
+        "thumbnail": {
+            "height": 217,
+            "url": "https://akamai.vgc.no/v2/images/3bb67650-bd19-41dc-81f6-25ffa1291fc4?fit=crop&format=auto&h=217&w=400&s=163946a81afaca3126b338f3695f46e6acad2a05",
+            "width": 400
+        },
+        "title": "Bekreftet: Argentinsk verdensmester klar for Liverpool",
+        "url": "https://www.vg.no/sport/fotball/i/9z08Qr/bekreftet-argentinsk-verdensmester-klar-for-liverpool"
+    }
+]

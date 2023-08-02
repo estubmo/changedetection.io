@@ -1,0 +1,364 @@
+[
+    {
+        "authors": [
+            {
+                "email": "kristine.bechmann.holter@schibsted.no",
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAp95o",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAp95o",
+        "preamble": "Flere medier skriver onsdag at Liverpool og Al Ettifaq er enig om en overgangssum for Jordan Henderson. Der kan han gjenforenes med sin tidligere kaptein Steven Gerrard.",
+        "published": {
+            "date": "onsdag 19. juli",
+            "datetime": "2023-07-19 19:16:01",
+            "niceformat": "19.07.2023, 19:16",
+            "timestamp": "2023-07-19T17:16:01.000Z"
+        },
+        "thumbnail": {
+            "height": 285,
+            "url": "https://akamai.vgc.no/v2/images/47903b32-8e9e-4ba8-a2a8-80cd8d632a90?fit=crop&format=auto&h=285&w=400&s=9c45e2885777818862fda1f3d5c0b3dc50febe01",
+            "width": 400
+        },
+        "title": "Medier: Liverpool enig med saudiarabisk klubb om Jordan Henderson",
+        "url": "https://www.vg.no/sport/fotball/i/wAp95o/medier-liverpool-er-enig-med-den-saudiarabisk-klubben-al-ettifaq-om-overgangssummen-for-jordan-henderson"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q728EP",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q728EP",
+        "preamble": "Ifølge det anerkjente nettstedet er Manchester City og saudiarabiske Al Ahli enige om overgangssum for Riyad Mahrez.",
+        "published": {
+            "date": "onsdag 19. juli",
+            "datetime": "2023-07-19 18:27:26",
+            "niceformat": "19.07.2023, 18:27",
+            "timestamp": "2023-07-19T16:27:26.000Z"
+        },
+        "thumbnail": {
+            "height": 285,
+            "url": "https://akamai.vgc.no/v2/images/eb86e4a6-814d-4d18-becd-07222e18e0a2?fit=crop&format=auto&h=285&w=400&s=67bd9fc89d829c2388f3f70c3c6c9e648b37a56f",
+            "width": 400
+        },
+        "title": "The Athletic: Mahrez nærmer seg Saudi-Arabia",
+        "url": "https://www.vg.no/sport/fotball/i/Q728EP/the-athletic-riyad-mahrez-naermer-seg-saudi-arabia"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "AP9xXn",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/AP9xXn",
+        "preamble": "Emil Frederiksen hentes fra SønderjyskE, samtidig som Kristall Mani Ingason forlater Rosenborg og går motsatt vei.",
+        "published": {
+            "date": "onsdag 19. juli",
+            "datetime": "2023-07-19 18:08:40",
+            "niceformat": "19.07.2023, 18:08",
+            "timestamp": "2023-07-19T16:08:40.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/5ba71211-0796-4e57-ac08-e9d4d3f6d345?fit=crop&format=auto&h=267&w=400&s=3d5938961245a13bbb4f663869593241ce3870eb",
+            "width": 400
+        },
+        "title": "Rosenborg bekrefter signering – Ingason sendes motsatt vei",
+        "url": "https://www.vg.no/sport/fotball/i/AP9xXn/rosenborg-bekrefter-signering"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQ27PP",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQ27PP",
+        "preamble": "Smerten av å tape serietittelen sitter fortsatt i for Arsenal-kaptein Martin Ødegaard (24). Nordmannen tror imidlertid skuffelsen kommer til å gjøre London-klubben sterkere.",
+        "published": {
+            "date": "onsdag 19. juli",
+            "datetime": "2023-07-19 16:12:14",
+            "niceformat": "19.07.2023, 16:12",
+            "timestamp": "2023-07-19T14:12:14.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/1a5e6757-c7a5-4eac-8c7a-441f5829cad7?fit=crop&format=auto&h=267&w=400&s=5022dc343be2b13579dbd261d3c425bc4b6a30b8",
+            "width": 400
+        },
+        "title": "Ødegaard tar lærdom av skuffelsen: – Det gjør fortsatt vondt",
+        "url": "https://www.vg.no/sport/fotball/i/JQ27PP/oedegaard-tar-laerdom-av-skuffelsen-det-gjoer-fortsatt-vondt"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9zLkop",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9zLkop",
+        "preamble": "Norge sparker i gang VM når de møter vertnasjon New Zealand torsdag morgen. Før den tid kan du tippe resultatet og vinne premier i spillet VM-profeten.",
+        "published": {
+            "date": "onsdag 19. juli",
+            "datetime": "2023-07-19 15:04:21",
+            "niceformat": "19.07.2023, 15:04",
+            "timestamp": "2023-07-19T13:04:21.000Z"
+        },
+        "thumbnail": {
+            "height": 268,
+            "url": "https://akamai.vgc.no/v2/images/e63feb66-162a-4198-937a-66677fba8246?fit=crop&format=auto&h=268&w=400&s=8367a8655d9c0ce97e4e491c74cecda4b8e778b8",
+            "width": 400
+        },
+        "title": "Snart braker det løs – meld deg på VM-profeten nå",
+        "url": "https://www.vg.no/sport/fotball/i/9zLkop/fotball-vm-2023-bli-med-paa-vm-profeten"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76MBL3",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76MBL3",
+        "preamble": "Ifølge iTromsø har Daniel Bassi spilt sin siste kamp for Tromsø før den nært forestående overgangen til rival Bodø/Glimt.",
+        "published": {
+            "date": "onsdag 19. juli",
+            "datetime": "2023-07-19 14:57:06",
+            "niceformat": "19.07.2023, 14:57",
+            "timestamp": "2023-07-19T12:57:06.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/d5055c9d-7b8d-4a59-933e-edbbf47c4d5f?fit=crop&format=auto&h=267&w=400&s=c80b48cbf2ab2600544959f8eb057fdc2f203895",
+            "width": 400
+        },
+        "title": "Lokalavis: Har spilt sin siste kamp for Tromsø – reiser til Bodø",
+        "url": "https://www.vg.no/sport/fotball/i/76MBL3/eliteserien-daniel-bassi-har-spilt-sin-siste-kamp-for-tromsoe-reiser-til-bodoe-glimt"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zE3xgr",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zE3xgr",
+        "preamble": "AUCKLAND (VG) Fifa-president Gianni Infantino skapte nok en gang reaksjoner etter sin åpningstale i VM. Norsk politiker er rystet. ",
+        "published": {
+            "date": "onsdag 19. juli",
+            "datetime": "2023-07-19 14:03:36",
+            "niceformat": "19.07.2023, 14:03",
+            "timestamp": "2023-07-19T12:03:36.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/b926101d-3b5d-4b28-ad53-747cf7757cf6?fit=crop&format=auto&h=267&w=400&s=adfc51fcbfc85d6243ba0c454e3cf4b3b2fe3018",
+            "width": 400
+        },
+        "title": "Reagerer på Fifas beskjed: – Uverdig og helt latterlig ",
+        "url": "https://www.vg.no/sport/fotball/i/zE3xgr/fotball-vm-for-kvinner-mimir-kristjansson-reagerer-paa-fifas-beskjed-uverdig-og-helt-latterlig"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "AP9Ejr",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/AP9Ejr",
+        "preamble": "LILLESTRØM (VG) Da Geir Bakke valgte sjokkovergang til Vålerenga, innstilte Simon Mesfin seg selv som midlertidig trener i LSK. Nå jakter han klubbens nye trener, samtidig som han forbereder laget til kamp mot Aalesund. ",
+        "published": {
+            "date": "onsdag 19. juli",
+            "datetime": "2023-07-19 11:47:57",
+            "niceformat": "19.07.2023, 11:47",
+            "timestamp": "2023-07-19T09:47:57.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/34327def-6831-42b9-8958-e4bc4da515b1?fit=crop&format=auto&h=300&w=400&s=01eb229c0cc60cccdb4f40486a7ca544428e12ec",
+            "width": 400
+        },
+        "title": "LSK-sjefen: – Noe av det mest sinnssyke jeg har vært med på ",
+        "url": "https://www.vg.no/sport/fotball/i/AP9Ejr/lsk-sjefen-noe-av-det-mest-sinnssyke-jeg-har-vaert-med-paa"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Mo2dn0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Mo2dn0",
+        "preamble": "Nylig ble Benjamin Mendy frikjent fra voldtektsanklagene han har stått ovenfor den siste tiden. Nå er han bekreftet klar for den franske Ligue 1-klubben Lorient.",
+        "published": {
+            "date": "onsdag 19. juli",
+            "datetime": "2023-07-19 11:08:38",
+            "niceformat": "19.07.2023, 11:08",
+            "timestamp": "2023-07-19T09:08:38.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/c4eba278-e4fc-4970-bd00-5efe8de2ad6f?fit=crop&format=auto&h=267&w=400&s=14c97ae07ead86625d2dbcb53330a2ad3b71c8e4",
+            "width": 400
+        },
+        "title": "Benjamin Mendy klar for ny klubb",
+        "url": "https://www.vg.no/sport/fotball/i/Mo2dn0/benjamin-mendy-klar-for-ny-klubb"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4oKWd6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4oKWd6",
+        "preamble": "Oriol Romeu (31) returnerer til Barcelona tolv år etter at han dro fra storklubben.",
+        "published": {
+            "date": "onsdag 19. juli",
+            "datetime": "2023-07-19 10:36:43",
+            "niceformat": "19.07.2023, 10:36",
+            "timestamp": "2023-07-19T08:36:43.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/701330d2-c799-49c4-9ca9-24691defc9a2?fit=crop&format=auto&h=267&w=400&s=0c0ea84fd643b002f8bf2665dc5fde279389f963",
+            "width": 400
+        },
+        "title": "Barcelona har signert kjent fjes",
+        "url": "https://www.vg.no/sport/fotball/i/4oKWd6/barcelona-har-signert-kjent-fjes"
+    }
+]

@@ -1,0 +1,372 @@
+[
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "RGlvE2",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/RGlvE2",
+        "preamble": "Nedrykkstruede Leeds bekrefter at de har sparket manager Javi Gracia og erstatter han med Sam Allardyce.",
+        "published": {
+            "date": "onsdag 3. mai",
+            "datetime": "2023-05-03 11:33:24",
+            "niceformat": "03.05.2023, 11:33",
+            "timestamp": "2023-05-03T09:33:24.000Z"
+        },
+        "thumbnail": {
+            "height": 277,
+            "url": "https://akamai.vgc.no/v2/images/762dd830-3bcc-4a23-84a7-d7fd093521fd?fit=crop&format=auto&h=277&w=400&s=6914015c8ef956ae521330009bc2d5139f11d061",
+            "width": 400
+        },
+        "title": "Bekreftet: Sam Allardyce tar over Leeds",
+        "url": "https://www.vg.no/sport/fotball/i/RGlvE2/bekreftet-allardyce-tar-over-leeds"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q17GLz",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q17GLz",
+        "preamble": "Liverpools midtbanemann Thiago Alcântara (32) må gjennom en liten hofteoperasjon og går glipp av sesongens siste kamper, melder The Times.",
+        "published": {
+            "date": "onsdag 3. mai",
+            "datetime": "2023-05-03 10:24:55",
+            "niceformat": "03.05.2023, 10:24",
+            "timestamp": "2023-05-03T08:24:55.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/52af4459-9ae0-4886-a460-323e432e95db?fit=crop&format=auto&h=267&w=400&s=f605fb6f57527164cd89f427e527418af265871f",
+            "width": 400
+        },
+        "title": "The Times: Thiago mister Liverpools serieinnspurt ",
+        "url": "https://www.vg.no/sport/fotball/i/q17GLz/the-times-thiago-mister-liverpools-serieinnspurt"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgwLeQ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgwLeQ",
+        "preamble": "Lewis Hamilton (38) og Mercedes går en usikker fremtid i møte. Nå innrømmer Toto Wolff (51) at de følger nøye med på situasjonen til Ferrari-fører Charles Leclerc (25).",
+        "published": {
+            "date": "onsdag 3. mai",
+            "datetime": "2023-05-03 09:29:06",
+            "niceformat": "03.05.2023, 09:29",
+            "timestamp": "2023-05-03T07:29:06.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/59c44cee-8a48-497a-93c9-987bc398a174?fit=crop&format=auto&h=267&w=400&s=ad5b58c900e7c4d01a931aed9b7246ae22f09624",
+            "width": 400
+        },
+        "title": "Mercedes-sjefen innrømmer Leclerc-beundring: – En vi må ha på radaren",
+        "url": "https://www.vg.no/sport/fotball/i/xgwLeQ/mercedes-sjefen-innroemmer-leclerc-beundring-en-vi-maa-ha-paa-radaren"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB-Reuters"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQL6rG",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQL6rG",
+        "preamble": "Tidligere styremedlem i FIFA, australske Moya Dodd, kritiserer FIFA-president Gianni Infantinos trussel om svarte skjermer for kvinnenes fotball-VM i Europa.",
+        "published": {
+            "date": "onsdag 3. mai",
+            "datetime": "2023-05-03 08:53:30",
+            "niceformat": "03.05.2023, 08:53",
+            "timestamp": "2023-05-03T06:53:30.000Z"
+        },
+        "thumbnail": {
+            "height": 305,
+            "url": "https://akamai.vgc.no/v2/images/3fbc23e6-513a-4048-a5b5-f0ffee820e72?fit=crop&format=auto&h=305&w=400&s=b12705d9059a74d5659856dd8a21d3ac1b4c8214",
+            "width": 400
+        },
+        "title": "Tidligere styremedlem i FIFA går ut mot Infantino: – Opprørende",
+        "url": "https://www.vg.no/sport/fotball/i/EQL6rG/tidligere-styremedlem-i-fifa-gaar-hardt-ut-mot-infantino-opproerende"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wA01wd",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wA01wd",
+        "preamble": "LONDON (VG) (Arsenal – Chelsea 3–1) Etter to nye mål står Martin Ødegaard (24) med 14 mål i Premier League denne sesongen. Det er kun ett mål bak rekorden til Arsenal-legenden Cesc Fàbregas (35), som hyller nordmannen.",
+        "published": {
+            "date": "onsdag 3. mai",
+            "datetime": "2023-05-03 07:24:06",
+            "niceformat": "03.05.2023, 07:24",
+            "timestamp": "2023-05-03T05:24:06.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/5be1a3dd-f549-4ffa-862b-12a5a3185ebb?fit=crop&format=auto&h=267&w=400&s=bc2d4599f3f54314340e97cc37489b4ed1b08ee4",
+            "width": 400
+        },
+        "title": "Arsenal-legenden Fàbregas til VG: Sikker på at Ødegaard tar rekord",
+        "url": "https://www.vg.no/sport/fotball/i/wA01wd/fabregas-til-vg-sikker-paa-at-oedegaard-tar-legendens-rekord"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jlpRao",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jlpRao",
+        "preamble": "Real Sociedads Alexander Sørloth var delaktig i ballvinningen som ga laget det første målet mot Real Madrid, som fikk én spiller utvist. Kampen endte 2-0.",
+        "published": {
+            "date": "onsdag 3. mai",
+            "datetime": "2023-05-03 02:24:51",
+            "niceformat": "03.05.2023, 02:24",
+            "timestamp": "2023-05-03T00:24:51.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/5a56f829-9d22-4371-b0d5-e46143c63cae?fit=crop&format=auto&h=267&w=400&s=64ed30c9754262ef91814850da4f387f75a67a2e",
+            "width": 400
+        },
+        "title": "Sørloth involvert i scoring da Real Sociedad slo Real Madrid",
+        "url": "https://www.vg.no/sport/fotball/i/jlpRao/soerloth-involvert-i-scoring-da-real-sociedad-slo-real-madrid"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJyjrO",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJyjrO",
+        "preamble": "MANCHESTER (VG) Erling Braut Haaland (22) elsker de fysiske bataljene Premier League kan tilby, tror trener Pep Guardiola. Kanskje på grunn av passet han bærer?",
+        "published": {
+            "date": "tirsdag 2. mai",
+            "datetime": "2023-05-02 23:37:44",
+            "niceformat": "02.05.2023, 23:37",
+            "timestamp": "2023-05-02T21:37:44.000Z"
+        },
+        "thumbnail": {
+            "height": 292,
+            "url": "https://akamai.vgc.no/v2/images/41f4e15c-f9fc-4f4a-85e4-39fdc93bd7f0?fit=crop&format=auto&h=292&w=400&s=1e154a29ae1f9127eb5ec5c6b0ba81c7c9e3ebbf",
+            "width": 400
+        },
+        "title": "Guardiola tror Haaland elsker fysiske bataljer: – Kom igjen! Han er fra Norge",
+        "url": "https://www.vg.no/sport/fotball/i/eJyjrO/guardiola-tror-haaland-elsker-fysiske-bataljer-kom-igjen-han-er-fra-norge"
+    },
+    {
+        "authors": [
+            {
+                "email": "leif.welhaven@vg.no",
+                "id": "e46ed1bb-8354-4bd4-97d3-09ac43c5dc8f",
+                "name": "Leif Welhaven"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "vezMEp",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/vezMEp",
+        "preamble": "(Arsenal-Chelsea 3-1) Selv om det neppe holder helt, er avtrykket til Martin Ødegaards Arsenal det mest sjarmerende med en overraskende spennende Premier League-sesong.",
+        "published": {
+            "date": "tirsdag 2. mai",
+            "datetime": "2023-05-02 23:37:39",
+            "niceformat": "02.05.2023, 23:37",
+            "timestamp": "2023-05-02T21:37:39.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/2f82a099-b329-482f-bd35-5faa79a7119e?fit=crop&format=auto&h=267&w=400&s=7620bfafc439d429b88b24507437567473fd653c",
+            "width": 400
+        },
+        "title": "Vakkert og tappert",
+        "url": "https://www.vg.no/sport/fotball/i/vezMEp/vakkert-og-tappert"
+    },
+    {
+        "authors": [
+            {
+                "email": "per.opsahl@vg.no",
+                "id": "a8b54406-d047-4b1c-90e2-f9f77a0e7317",
+                "name": "Per Opsahl"
+            },
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3EX2Wd",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3EX2Wd",
+        "preamble": "Sam Allardyce (68) blir ifølge britiske medier presentert som ny Leeds-manager onsdag.",
+        "published": {
+            "date": "tirsdag 2. mai",
+            "datetime": "2023-05-02 22:37:54",
+            "niceformat": "02.05.2023, 22:37",
+            "timestamp": "2023-05-02T20:37:54.000Z"
+        },
+        "thumbnail": {
+            "height": 257,
+            "url": "https://akamai.vgc.no/v2/images/5ee80712-6ab4-4aaa-8f53-eb5d5af03993?fit=crop&format=auto&h=257&w=400&s=4d224a9f855d9ceee2aa87c353908dd1d21b1dcb",
+            "width": 400
+        },
+        "title": "Medier: Allardyce blir Leeds-sjef onsdag",
+        "url": "https://www.vg.no/sport/fotball/i/3EX2Wd/medier-allardyce-blir-leeds-sjef-onsdag"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O8evB3",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O8evB3",
+        "preamble": "LONDON (VG) (Arsenal - Chelsea 3–1) Martin Ødegaard (24) herjet med to scoringer mot Chelsea. Blåtrøyene kalles «noe av det verste jeg har sett i Premier League-historien» av landslagssjef Ståle Solbakken.",
+        "published": {
+            "date": "tirsdag 2. mai",
+            "datetime": "2023-05-02 21:35:21",
+            "niceformat": "02.05.2023, 21:35",
+            "timestamp": "2023-05-02T19:35:21.000Z"
+        },
+        "thumbnail": {
+            "height": 283,
+            "url": "https://akamai.vgc.no/v2/images/c396d6f1-fb5a-4890-9ec8-75046b022e89?fit=crop&format=auto&h=283&w=400&s=072af9d1da61c72a2000f3375161d732a26b5b92",
+            "width": 400
+        },
+        "title": "Ødegaard-show mot Chelsea – sendte Arsenal tilbake på tabelltoppen",
+        "url": "https://www.vg.no/sport/fotball/i/O8evB3/oedegaard-dobbel-mot-chelsea-paa-vei-mot-etterlengtet-opptur"
+    }
+]

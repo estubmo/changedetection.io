@@ -1,0 +1,389 @@
+[
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GM2nk6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GM2nk6",
+        "preamble": "Brann er i ferd med å hente angrepsspiller fra Danmark.",
+        "published": {
+            "date": "torsdag 20. juli",
+            "datetime": "2023-07-20 19:55:45",
+            "niceformat": "20.07.2023, 19:55",
+            "timestamp": "2023-07-20T17:55:45.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/9c9f1e54-4d67-4a0d-a784-bc328b91356b?fit=crop&format=auto&h=267&w=400&s=df147868ac38be352337dd15c2962dab213bc7d1",
+            "width": 400
+        },
+        "title": "Opplysninger til VG: Brann nærmer seg spiller fra Serie A",
+        "url": "https://www.vg.no/sport/fotball/i/GM2nk6/opplysninger-til-vg-brann-naermer-seg-spiller-fra-serie-a"
+    },
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            },
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VP2e06",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VP2e06",
+        "preamble": "Manchester United har funnet arvtageren til David De Gea (32) – de røde djevlene henter André Onana (27) fra Inter.  ",
+        "published": {
+            "date": "torsdag 20. juli",
+            "datetime": "2023-07-20 19:52:54",
+            "niceformat": "20.07.2023, 19:52",
+            "timestamp": "2023-07-20T17:52:54.000Z"
+        },
+        "thumbnail": {
+            "height": 273,
+            "url": "https://akamai.vgc.no/v2/images/588bc659-3c27-4771-833c-d9243b6fa7af?fit=crop&format=auto&h=273&w=400&s=9a013f66df80e685436c24522ca1672d002365b7",
+            "width": 400
+        },
+        "title": "Onana klar for Manchester United: – Uimotståelig",
+        "url": "https://www.vg.no/sport/fotball/i/VP2e06/bekreftet-manchester-united-signerte-onana"
+    },
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            },
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8J1j1W",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8J1j1W",
+        "preamble": "EDEN PARK (VG) På forsøk nummer 16 kom den aller første VM-seieren for New Zealand. En tragisk skyteepisode gjorde oppladning spesiell – akkurat som da landene møttes i Oslo i fjor.",
+        "published": {
+            "date": "torsdag 20. juli",
+            "datetime": "2023-07-20 19:46:22",
+            "niceformat": "20.07.2023, 19:46",
+            "timestamp": "2023-07-20T17:46:22.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6769d7fe-e44f-459a-bc40-9a5596c1452b?fit=crop&format=auto&h=267&w=400&s=a05b4248bf33fdc53e0c2d600e6b3d39a6411cc1",
+            "width": 400
+        },
+        "title": "New Zealand til himmels etter sjokkseieren over Norge: – Vi har kjempet så lenge",
+        "url": "https://www.vg.no/sport/fotball/i/8J1j1W/new-zealand-til-himmels-etter-sjokkseieren-over-norge-vi-har-kjempet-saa-lenge"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "bgJalq",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/bgJalq",
+        "preamble": "André Onana blir høyst trolig Premier League-klubben Manchester Uniteds nye tilskudd på keeperplass etter David de Geas exit i sommer.",
+        "published": {
+            "date": "torsdag 20. juli",
+            "datetime": "2023-07-20 19:00:00",
+            "niceformat": "20.07.2023, 19:00",
+            "timestamp": "2023-07-20T17:00:00.000Z"
+        },
+        "thumbnail": {
+            "height": 279,
+            "url": "https://akamai.vgc.no/v2/images/5524b302-fcab-4253-b039-f4fa3977d514?fit=crop&format=auto&h=279&w=400&s=798116903596b8cbc9006cbd3eecd90c04b0fd17",
+            "width": 400
+        },
+        "title": "Onana bekrefter Inter-exit: – Starter en ny reise i Manchester",
+        "url": "https://www.vg.no/sport/fotball/i/bgJalq/onana-bekrefter-inter-exit-starter-en-ny-reise-i-manchester"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5BQOdO",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5BQOdO",
+        "preamble": "Matt Doherty (31) er ferdig i Atlético Madrid og returnerer til Premier League og Wolverhampton. Iren har tidligere spilt over 300 kamper for klubben.",
+        "published": {
+            "date": "torsdag 20. juli",
+            "datetime": "2023-07-20 18:34:08",
+            "niceformat": "20.07.2023, 18:34",
+            "timestamp": "2023-07-20T16:34:08.000Z"
+        },
+        "thumbnail": {
+            "height": 309,
+            "url": "https://akamai.vgc.no/v2/images/6895a0bf-7440-45ee-b173-1e991cf38e7b?fit=crop&format=auto&h=309&w=400&s=da1723836bae27018f20fdbe433ba7d8aa7e32d2",
+            "width": 400
+        },
+        "title": "Wolverhampton henter tilbake Doherty",
+        "url": "https://www.vg.no/sport/fotball/i/5BQOdO/matt-doherty-returnerer-til-wolverhampton"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQ2LgK",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQ2LgK",
+        "preamble": "Den portugisiske midtbanestjernen Bruno Fernandes har blitt tildelt kapteinsbindet på permanent basis i Manchester United.",
+        "published": {
+            "date": "torsdag 20. juli",
+            "datetime": "2023-07-20 17:35:06",
+            "niceformat": "20.07.2023, 17:35",
+            "timestamp": "2023-07-20T15:35:06.000Z"
+        },
+        "thumbnail": {
+            "height": 303,
+            "url": "https://akamai.vgc.no/v2/images/e724a0a5-1cdd-4744-b8c3-acd6b1bbe368?fit=crop&format=auto&h=303&w=400&s=9692e4b601bc82f0315bea08bf2420c4d8f4dc6a",
+            "width": 400
+        },
+        "title": "Bruno Fernandes ny Manchester United-kaptein",
+        "url": "https://www.vg.no/sport/fotball/i/EQ2LgK/bruno-fernandes-ny-manchester-united-kaptein"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "AP9RRz",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/AP9RRz",
+        "preamble": "Alexander Sørloth er ikke med på RB Leizpigs treningsleir i Italia. ",
+        "published": {
+            "date": "torsdag 20. juli",
+            "datetime": "2023-07-20 17:16:00",
+            "niceformat": "20.07.2023, 17:16",
+            "timestamp": "2023-07-20T15:16:00.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/2bd535e1-c04a-43b2-bcef-ff2f8873d882?fit=crop&format=auto&h=267&w=400&s=33cecbc0f37aa9b80b9b5b24817e58c51955bacd",
+            "width": 400
+        },
+        "title": "Klubben bekrefter: – Sørloth kan snakke med andre klubber ",
+        "url": "https://www.vg.no/sport/fotball/i/AP9RRz/klubben-bekrefter-soerloth-kan-snakke-med-andre-klubber"
+    },
+    {
+        "authors": [
+            {
+                "email": "trond.johannessen@vg.no",
+                "id": "13d85b67-6e63-41d4-a85c-65a952496c1d",
+                "name": "Trond Johannessen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwaXWz",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwaXWz",
+        "preamble": "(New Zealand – Norge 1–0) Dette føles nesten like ille som 0–8 i fjor sommer.",
+        "published": {
+            "date": "torsdag 20. juli",
+            "datetime": "2023-07-20 13:21:05",
+            "niceformat": "20.07.2023, 13:21",
+            "timestamp": "2023-07-20T11:21:05.000Z"
+        },
+        "thumbnail": {
+            "height": 258,
+            "url": "https://akamai.vgc.no/v2/images/00a1b331-f92c-4a56-892b-648d4b28b81a?fit=crop&format=auto&h=258&w=400&s=a5dcaff49e26546206c17d883fd85007506b0cbe",
+            "width": 400
+        },
+        "title": "Riises store utfordring: Hvor er stjernene? ",
+        "url": "https://www.vg.no/sport/fotball/i/dwaXWz/riises-store-utfordring-hvor-er-stjernene"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEQRqB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEQRqB",
+        "preamble": "Angrepsspiller Tobias Gulliksen (20) er på medisinsk test hos Bodø/Glimt torsdag.",
+        "published": {
+            "date": "torsdag 20. juli",
+            "datetime": "2023-07-20 13:14:56",
+            "niceformat": "20.07.2023, 13:14",
+            "timestamp": "2023-07-20T11:14:56.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/497ef491-5022-4419-aa06-79036663b5a4?fit=crop&format=auto&h=267&w=400&s=dca4fb6a99a85f6203c2f1718f34f519471affbc",
+            "width": 400
+        },
+        "title": "Gulliksen er på medisinsk test i Bodø",
+        "url": "https://www.vg.no/sport/fotball/i/gEQRqB/gulliksen-er-paa-medisinsk-test-i-bodoe"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            },
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "4aa5b8a3-977b-45c3-b688-268d0aa381c4",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QJgeg",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QJgeg",
+        "preamble": "AUCKLAND (VG) (New Zealand – Norge 1–0) Dette var en svak, svak fotballkamp der underdog New Zealand var nærmere 2–0 enn Norge var 1–1.",
+        "published": {
+            "date": "torsdag 20. juli",
+            "datetime": "2023-07-20 10:59:50",
+            "niceformat": "20.07.2023, 10:59",
+            "timestamp": "2023-07-20T08:59:50.000Z"
+        },
+        "thumbnail": {
+            "height": 255,
+            "url": "https://akamai.vgc.no/v2/images/101996d6-6a28-472e-852a-699148e9a684?fit=crop&format=auto&h=255&w=400&s=6d6f34da35954d3d5ac4ef6e04e430bf8ea0d4c8",
+            "width": 400
+        },
+        "title": "VG-børsen: Krisestart av de norske kvinnene – kun én får femmer",
+        "url": "https://www.vg.no/sport/fotball/i/0QJgeg/vg-boersen-krisestart-av-de-norske-kvinnene-kun-en-faar-femmer"
+    }
+]

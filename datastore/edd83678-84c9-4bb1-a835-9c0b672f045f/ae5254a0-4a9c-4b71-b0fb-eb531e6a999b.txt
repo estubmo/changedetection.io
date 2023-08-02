@@ -1,0 +1,199 @@
+[
+    {
+        "slug": "ussvaer-sikret-national-seier-paa-overtid",
+        "url": "/lokalfotballen/i/zEbJJv/ussvaer-sikret-national-seier-paa-overtid",
+        "title": {
+            "value": "Ussvær ble matchvinner for National på overtid"
+        },
+        "description": "Kasper Moum Ussvær sikret tre poeng for National da Byåsen 2 ble slått 4-3 i 5. divisjon, Trøndelag - Avdeling 3 søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-14T14:20:56Z",
+        "lastModifiedAt": "2023-05-14T14:24:02Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "foelg-rbks-kamp-mot-rivalen-i-bergen",
+        "url": "/sport/fotball/i/3EzgPd/foelg-rbks-kamp-mot-rivalen-i-bergen",
+        "title": {
+            "value": "Følg RBKs kamp mot rivalen i Bergen"
+        },
+        "description": "Rosenborg har startet langt bedre enn rivalen Brann i årets Toppserie. Kan trønderne gruse Brann? Følg kampen med tekst nedenfor.",
+        "imageUrl": "18a2a619-9fd3-48aa-aa1b-508741ec2ab1",
+        "publishedAt": "2023-05-14T14:15:00Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "loeseth-senket-froeya",
+        "url": "/lokalfotballen/i/gEBnnJ/loeseth-senket-froeya",
+        "title": {
+            "value": "Løseth avgjorde for KIL/Hemne 3"
+        },
+        "description": "Før dagens 0-1-tap mot KIL/Hemne 3 hadde Frøya tatt poeng i alle seriekampene denne sesongen. I 6. divisjon, Trøndelag - Avdeling 4 i fotball søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-14T14:13:53Z",
+        "lastModifiedAt": "2023-05-14T14:22:00Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    },
+    {
+        "slug": "andersen-boettet-inn-maal-for-levanger-2",
+        "url": "/lokalfotballen/i/BWqK1w/andersen-boettet-inn-maal-for-levanger-2",
+        "title": {
+            "value": "Målene rant inn for Andersen"
+        },
+        "description": "Gabriel Andersen viste scoringsform da Levanger 2 seiret 9-3 over Lånke i 4. divisjon, Trøndelag - Avdeling 1 i fotball søndag. Lånke har tapt alle kampene sine så langt i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-14T13:50:36Z",
+        "lastModifiedAt": "2023-05-14T14:20:55Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "byneset-snudde-til-seier-i-sluttminuttene-over-flataas",
+        "url": "/lokalfotballen/i/pQbemj/byneset-snudde-til-seier-i-sluttminuttene-over-flataas",
+        "title": {
+            "value": "Byneset snudde til seier i sluttminuttene over Flatås"
+        },
+        "description": "Byneset snudde til seier på tampen mot Flatås i 6. divisjon, Trøndelag - Avdeling 5 i fotball for menn. Pål Jacob Nessjøen scoret to ganger. Flatås har tapt de siste to kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-14T12:21:26Z",
+        "lastModifiedAt": "2023-05-14T12:21:26Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "karla-sandsoer-scoret-hattrick-for-ranheim-2",
+        "url": "/lokalfotballen/i/JQq5qm/karla-sandsoer-scoret-hattrick-for-ranheim-2",
+        "title": {
+            "value": "Ranheim 2 sørget for målfest"
+        },
+        "description": "Med 10-1-seier over Hegra tok Ranheim 2 sin fjerde seier på rad Karla Sandsør scoret hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-14T11:48:51Z",
+        "lastModifiedAt": "2023-05-14T11:51:04Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "jakob-husby-foss-dobbel-for-ranheim-2",
+        "url": "/lokalfotballen/i/VPp8pr/jakob-husby-foss-dobbel-for-ranheim-2",
+        "title": {
+            "value": "Dobbel lykke da Ranheim 2 vant"
+        },
+        "description": "Jakob Husby Foss sto fram med to mål da Ranheim 2 vant 3-1 over Gimse 2/Melhus 2 i G14 2. divisjon, Avdeling 3 - Vår søndag. Ranheim 2 tok sin første seier denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-14T11:43:49Z",
+        "lastModifiedAt": "2023-05-14T11:51:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "skjeggete-guttekeeper-slapp-inn-femten-maal-og-kjoerte-bussen-hjem",
+        "url": "/magasin/i/Xbp2On/skjeggete-guttekeeper-slapp-inn-femten-maal-og-kjoerte-bussen-hjem",
+        "title": {
+            "value": "Vi fikk heldigvis låne Sparbu sitt bortedraktsett. Damelaget sitt."
+        },
+        "description": "Tankestreif: «Vi fikk heldigvis låne Sparbu sitt bortedraktsett. Damelaget sitt»",
+        "imageUrl": "fe1e4991-7471-4acb-a0f2-285f0bc8b9b4",
+        "publishedAt": "2023-05-14T09:56:58Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Richard Sagen"
+        ],
+        "tags": [
+            "tankestreif",
+            "ukeadressa",
+            "richard-sagen"
+        ]
+    },
+    {
+        "slug": "rbk-talentet-laanes-ut-i-en-maaned",
+        "url": "/sport/fotball/i/0Qky96/rbk-talentet-laanes-ut-i-en-maaned",
+        "title": {
+            "value": "RBK-talent lånes ut: Dette sier Rekdal"
+        },
+        "description": "RBK bekrefter at Marius Broholm lånes ut til Kristiansund.",
+        "imageUrl": "82e323c9-dbb8-4349-bcc7-9875a8437f44",
+        "publishedAt": "2023-05-14T09:47:23Z",
+        "lastModifiedAt": "2023-05-14T10:31:16Z",
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "sammen-har-de-stengt-butikken-for-rbk",
+        "url": "/sport/fotball/i/kEbGJQ/sammen-har-de-stengt-butikken-for-rbk",
+        "title": {
+            "value": "Sammen har de «stengt butikken» for RBK"
+        },
+        "description": "Mathilde Harviken og Sara Hørte er det defensive limet i et RBK-lag som nesten ikke slipper inn mål.",
+        "imageUrl": "a31a2cc4-56f7-4697-9ce0-1f31bd47987e",
+        "publishedAt": "2023-05-14T08:05:49Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "toppserien",
+            "steinar-lein",
+            "ina-vaarhus",
+            "mathilde-harviken",
+            "sara-hoerte"
+        ]
+    }
+]

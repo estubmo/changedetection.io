@@ -1,0 +1,379 @@
+[
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "rlGyP0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/rlGyP0",
+        "preamble": "(Barcelona – Chelsea 1–1, 2–1 sammenlagt) Både Caroline Graham Hansen (28) og Guro Reiten (28) markerte seg med scoring i semifinalen i Champions League. Førstnevnte kunne juble til slutt.",
+        "published": {
+            "date": "torsdag 27. april",
+            "datetime": "2023-04-27 20:38:26",
+            "niceformat": "27.04.2023, 20:38",
+            "timestamp": "2023-04-27T18:38:26.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/PWiFxnA5uOKv.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Graham Hansen sendte Barcelona til Champions League-finalen: – Mangler ord for denne jenta",
+        "url": "https://www.vg.no/sport/fotball/i/rlGyP0/caroline-graham-hansen-ble-helten-igjen-sendte-barcelona-til-champions-league-finalen"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPe2Rr",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPe2Rr",
+        "preamble": "Det norske stortalentet Antonio Nusa (18) har forlenget sin kontrakt med belgiske Brugge til sommeren 2027.",
+        "published": {
+            "date": "torsdag 27. april",
+            "datetime": "2023-04-27 18:43:25",
+            "niceformat": "27.04.2023, 18:43",
+            "timestamp": "2023-04-27T16:43:25.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/2233a29f-f2a3-4eee-9aa2-2d328f5fd82a?fit=crop&format=auto&h=267&w=400&s=7a6af655230b2cd82ee0996286de0af827bb5933",
+            "width": 400
+        },
+        "title": "Nusa forlenget med Club Brugge",
+        "url": "https://www.vg.no/sport/fotball/i/VPe2Rr/nusa-forlenget-med-brugge"
+    },
+    {
+        "authors": [
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            },
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wA0k11",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wA0k11",
+        "preamble": "Med dagens kunstgressforbud spår Odd-leder Einar Håndlykken slutten for de fleste baner og trøbbel for breddeklubbene. Nå etterlyser han handling fra myndighetene.",
+        "published": {
+            "date": "torsdag 27. april",
+            "datetime": "2023-04-27 18:16:38",
+            "niceformat": "27.04.2023, 18:16",
+            "timestamp": "2023-04-27T16:16:38.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/757bdfd3-9488-4f6c-a603-93632ba715c5?fit=crop&format=auto&h=267&w=400&s=9c83f13528357560fb2c9d144e8248279de32dce",
+            "width": 400
+        },
+        "title": "Reagerer kraftig på politikerne etter forbud: – Myndighetene er så passive",
+        "url": "https://www.vg.no/sport/fotball/i/wA0k11/einar-haandlykken-reagerer-kraftig-paa-politikerne-etter-gummigranulat-forbud-myndighetene-er-saa-passive"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMnJEQ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMnJEQ",
+        "preamble": "Borussia Dortmund-kaptein Marco Reus (33) har forlenget kontrakten sin med den tyske storklubben til ut neste sesong.",
+        "published": {
+            "date": "torsdag 27. april",
+            "datetime": "2023-04-27 16:29:21",
+            "niceformat": "27.04.2023, 16:29",
+            "timestamp": "2023-04-27T14:29:21.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/214ecfb0-92bf-40b8-8b12-2f1cc68ae1e5?fit=crop&format=auto&h=266&w=400&s=48155640272a301ac6794b97b86f019d4c56ace5",
+            "width": 400
+        },
+        "title": "Reus forlenget med Dortmund til 2024",
+        "url": "https://www.vg.no/sport/fotball/i/GMnJEQ/reus-forlenget-med-dortmund-til-2024"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "rlGOL3",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/rlGOL3",
+        "preamble": "LILLESTRØM (VG) Med kraft, finesse og et godt samarbeid, sørget Lillestrøms to superspisser for klubbens første cupfinale siden 2017. Matchvinner Thomas Lehne Olsen (31) mener det er fordeler og ulemper med å ha to kraftpakker på topp.",
+        "published": {
+            "date": "torsdag 27. april",
+            "datetime": "2023-04-27 13:00:58",
+            "niceformat": "27.04.2023, 13:00",
+            "timestamp": "2023-04-27T11:00:58.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/rh868nXqn66L.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Lillestrøms superspisser uenige om påstand: – Spisser er jo late",
+        "url": "https://www.vg.no/sport/fotball/i/rlGOL3/spoeker-om-late-spisser-thomas-lehne-olsen-og-akor-adams-sendte-lillestroem-til-cupfinale-mot-brann"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMnX2Q",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMnX2Q",
+        "preamble": "Arna-Bjørnar står med null poeng etter fem kamper i Toppserien. Nå får klubben ny hovedtrener.",
+        "published": {
+            "date": "torsdag 27. april",
+            "datetime": "2023-04-27 11:54:42",
+            "niceformat": "27.04.2023, 11:54",
+            "timestamp": "2023-04-27T09:54:42.000Z"
+        },
+        "thumbnail": {
+            "height": 226,
+            "url": "https://akamai.vgc.no/v2/images/4d17342e-b1d5-46bb-be2a-375f861bd282?fit=crop&format=auto&h=226&w=400&s=56242c747a094030beceabdceb53bb235d271d33",
+            "width": 400
+        },
+        "title": "Arna-Bjørnar bytter hovedtrener",
+        "url": "https://www.vg.no/sport/fotball/i/GMnX2Q/arna-bjoernar-bytter-hovedtrener"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            },
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "vezGWw",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/vezGWw",
+        "preamble": "Ekspertene har omfavnet Martin Ødegaard (24), men etter 1–4-tap for Manchester City er det mange som mener at kapteinen aldri klarte å løfte Arsenal. Ståle Solbakken sier at nordmannen ikke var av de dårligste.",
+        "published": {
+            "date": "torsdag 27. april",
+            "datetime": "2023-04-27 11:45:05",
+            "niceformat": "27.04.2023, 11:45",
+            "timestamp": "2023-04-27T09:45:05.000Z"
+        },
+        "thumbnail": {
+            "height": 281,
+            "url": "https://akamai.vgc.no/v2/images/9a819215-866a-4238-adb5-90ccfb5a7f1f?fit=crop&format=auto&h=281&w=400&s=13dec504051519fc17e60f0a6b78c7333769a694",
+            "width": 400
+        },
+        "title": "Får kritikk etter tapet: – Ødegaard ble satt grundig på plass",
+        "url": "https://www.vg.no/sport/fotball/i/vezGWw/martin-oedegaard-faar-kritikk-etter-arsenals-tap-for-manchester-city-i-premier-league"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            },
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4oXlGa",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4oXlGa",
+        "preamble": "EU har besluttet å nedlegge forbud mot tilsatt mikroplast i blant annet kunstgress. Det betyr en stor omveltning for norsk fotball.",
+        "published": {
+            "date": "torsdag 27. april",
+            "datetime": "2023-04-27 11:33:16",
+            "niceformat": "27.04.2023, 11:33",
+            "timestamp": "2023-04-27T09:33:16.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/c6716eab-064f-4d1e-b547-96e3e83b78cf?fit=crop&format=auto&h=267&w=400&s=7c69ca1425ba82fd67a341e36f633985085b7123",
+            "width": 400
+        },
+        "title": "EU-kommisjonen har stemt: Forbyr gummigranulat på kunstgressbaner",
+        "url": "https://www.vg.no/sport/fotball/i/4oXlGa/eu-kommisjonen-har-stemt-forbyr-gummigranulat-paa-kunstgressbaner"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O8eX8V",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O8eX8V",
+        "preamble": "Den norske midtbanespilleren Iver Fossum gir seg i danske Aalborg når kontrakten hans utløper til sommeren, skriver NTB.",
+        "published": {
+            "date": "torsdag 27. april",
+            "datetime": "2023-04-27 10:09:12",
+            "niceformat": "27.04.2023, 10:09",
+            "timestamp": "2023-04-27T08:09:12.000Z"
+        },
+        "thumbnail": {
+            "height": 252,
+            "url": "https://akamai.vgc.no/v2/images/3252c4f2-cbde-4d7d-8027-844dfa034d01?fit=crop&format=auto&h=252&w=400&s=9f67f3c97b2b9b0700b92791680686cb5a21cba8",
+            "width": 400
+        },
+        "title": "Iver Fossum forlater Aalborg",
+        "url": "https://www.vg.no/sport/fotball/i/O8eX8V/iver-fossum-forlater-aalborg"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "2BX4lx",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/2BX4lx",
+        "preamble": "Superlativene hagler mot Erling Braut Haaland (23) etter Manchester Citys nedsabling av Arsenal i «seriefinalen».",
+        "published": {
+            "date": "torsdag 27. april",
+            "datetime": "2023-04-27 08:29:29",
+            "niceformat": "27.04.2023, 08:29",
+            "timestamp": "2023-04-27T06:29:29.000Z"
+        },
+        "thumbnail": {
+            "height": 265,
+            "url": "https://akamai.vgc.no/v2/images/ac1c8eab-9e84-42b2-b5cd-b2182e93ae02?fit=crop&format=auto&h=265&w=400&s=95b95f18d53bff4bddfeb824d8e28b6e44e46b01",
+            "width": 400
+        },
+        "title": "Slik hylles Haaland i England: «Bulldozer», «beist», «supermann»",
+        "url": "https://www.vg.no/sport/fotball/i/2BX4lx/slik-hylles-haaland-i-england-bulldozer-beist-supermann"
+    }
+]

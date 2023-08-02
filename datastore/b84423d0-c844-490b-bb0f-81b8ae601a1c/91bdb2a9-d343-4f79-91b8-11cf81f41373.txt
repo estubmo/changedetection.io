@@ -1,0 +1,376 @@
+[
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q1X3Ko",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q1X3Ko",
+        "preamble": "BRIGHTON (VG) (Brighton – Manchester City 1–1) Erling Braut Haaland mislyktes i jakten på sitt 37. ligamål, men noterte seg for en målgivende pasning som gjør at han nå er likt med Arsenal-legenden.",
+        "published": {
+            "date": "onsdag 24. mai",
+            "datetime": "2023-05-24 22:53:31",
+            "niceformat": "24.05.2023, 22:53",
+            "timestamp": "2023-05-24T20:53:31.000Z"
+        },
+        "thumbnail": {
+            "height": 290,
+            "url": "https://akamai.vgc.no/v2/images/6c4b512c-9355-4ff1-875c-22788bdf979a?fit=crop&format=auto&h=290&w=400&s=a4bb1d82c29d54bdf33948b10ffe38aea48d28bc",
+            "width": 400
+        },
+        "title": "Uselvisk og målløs Haaland med assist: Tangerte Thierry Henry",
+        "url": "https://www.vg.no/sport/fotball/i/q1X3Ko/uselvisk-og-maalloes-haaland-med-assist-tangerte-thierry-henrys-maalpoeng-rekord"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3XQdy",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3XQdy",
+        "preamble": "Joshua King kom inn fra benken og scoret det siste målet da Fenerbahçe slo Sivasspor 3-0 og avanserte til cupfinalen i Tyrkia.",
+        "published": {
+            "date": "onsdag 24. mai",
+            "datetime": "2023-05-24 21:34:14",
+            "niceformat": "24.05.2023, 21:34",
+            "timestamp": "2023-05-24T19:34:14.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/99419141-ebec-4ee8-8051-d196cba61d01?fit=crop&format=auto&h=267&w=400&s=d10c84676c925374370e8971352b30dac07dfb96",
+            "width": 400
+        },
+        "title": "King scoret da Fenerbahçe sikret cupfinale",
+        "url": "https://www.vg.no/sport/fotball/i/l3XQdy/joshua-king-scoret-da-fenerbahce-sikret-cupfinale"
+    },
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q7O82Q",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q7O82Q",
+        "preamble": "(Trygg/Lade - Rosenborg 0–1, Eik Tønsberg - Sandefjord 2–2 e.e.o, 4–3 etter straffer) Rosenborg tok seg videre i cupen, men hovedtrener Kjetil Rekdal kunne knapt tro det han opplevde mot Trygg/Lade fra fjerdedivisjon. Sandefjord ble første Eliteserie-lag til å ryke ut av årets cup.",
+        "published": {
+            "date": "onsdag 24. mai",
+            "datetime": "2023-05-24 20:22:39",
+            "niceformat": "24.05.2023, 20:22",
+            "timestamp": "2023-05-24T18:22:39.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/9f8208e6-1621-4219-9236-a99d73565791?fit=crop&format=auto&h=267&w=400&s=077bbb0f9a20d73c5c8757e8d37d1f41356be739",
+            "width": 400
+        },
+        "title": "Rekdal slaktet lag – Sandefjord slått ut av 3.-divisjonslag",
+        "url": "https://www.vg.no/sport/fotball/i/Q7O82Q/rekdal-om-rosenborgs-cup-avansement-flaut"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "bgWObk",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/bgWObk",
+        "preamble": "MANCHESTER (VG) Manchester Citys tittelbonanza reiser debatten i England nok en gang: Har de vunnet med rettferdige midler?",
+        "published": {
+            "date": "onsdag 24. mai",
+            "datetime": "2023-05-24 19:03:09",
+            "niceformat": "24.05.2023, 19:03",
+            "timestamp": "2023-05-24T17:03:09.000Z"
+        },
+        "thumbnail": {
+            "height": 269,
+            "url": "https://akamai.vgc.no/v2/images/e8308310-3dfb-4f00-a52f-306bcdeb0f66?fit=crop&format=auto&h=269&w=400&s=3b8317d9a4e1464fe5c619ca802ba91cc0bed526",
+            "width": 400
+        },
+        "title": "City-debatten raser i England: Tidenes beste eller tidenes juksemakere?",
+        "url": "https://www.vg.no/sport/fotball/i/bgWObk/manchester-city-anklages-for-115-regelbrudd-tidenes-beste-eller-tidenes-juksemakere"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "LlL9P9",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/LlL9P9",
+        "preamble": "Det svenske skattevesenet mener at Tomas Brolin (53) har unndratt over 12 mill. kroner i inntekt - og krever at han skal betale cirka 6 mill. kroner ekstra i skatt.",
+        "published": {
+            "date": "onsdag 24. mai",
+            "datetime": "2023-05-24 18:25:02",
+            "niceformat": "24.05.2023, 18:25",
+            "timestamp": "2023-05-24T16:25:02.000Z"
+        },
+        "thumbnail": {
+            "height": 273,
+            "url": "https://akamai.vgc.no/v2/images/65237f9b-e4e2-45a0-a174-742d306f16b6?fit=crop&format=auto&h=273&w=400&s=70ff2cab923a52505bc2dd38c56b870008aaec8d",
+            "width": 400
+        },
+        "title": "Skattekrav til Tomas Brolin: 6 mill. kroner",
+        "url": "https://www.vg.no/sport/fotball/i/LlL9P9/skattekrav-til-tomas-brolin-6-mill-kroner"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "nQXMwJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/nQXMwJ",
+        "preamble": "Forsvarskjempen Mats Hummels (34) skal spille for Borussia Dortmund også neste sesong etter at han forlenget kontrakten med ett år.",
+        "published": {
+            "date": "onsdag 24. mai",
+            "datetime": "2023-05-24 17:00:07",
+            "niceformat": "24.05.2023, 17:00",
+            "timestamp": "2023-05-24T15:00:07.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/13b61629-6cd0-4233-84bd-48930cb616bb?fit=crop&format=auto&h=267&w=400&s=b42dae81d6f6ccab6c68eb2bc471b65e6675d4f6",
+            "width": 400
+        },
+        "title": "Dortmund-veteran forlenget kontrakten",
+        "url": "https://www.vg.no/sport/fotball/i/nQXMwJ/mats-hummels-forlenget-kontrakten-med-dortmund"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q7OwnA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q7OwnA",
+        "preamble": "Influenseren Orla Melissa Sloan (21) sa seg onsdag skyldig i å ha stalket sin tidligere kjæreste og Chelsea-spiller Mason Mount (24). Hun skal også ha stalket og trakassert ytterligere to spillere.",
+        "published": {
+            "date": "onsdag 24. mai",
+            "datetime": "2023-05-24 16:08:15",
+            "niceformat": "24.05.2023, 16:08",
+            "timestamp": "2023-05-24T14:08:15.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/1a358435-a1d4-4658-b85a-31076d90e2fd?fit=crop&format=auto&h=267&w=400&s=6cffe7f05c5c5896aa7061355221d8fa1af65928",
+            "width": 400
+        },
+        "title": "Influenser vedgår å ha stalket Chelsea-stjerne – brukte 21 ulike telefonnumre",
+        "url": "https://www.vg.no/sport/fotball/i/Q7OwnA/influenser-vedgaar-aa-ha-stalket-chelsea-stjerne-brukte-21-ulike-telefonnumre"
+    },
+    {
+        "authors": [
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJmO79",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJmO79",
+        "preamble": "Henning Berg (53) ser etter en ny klubb å trene, men avviser at det har vært noen kontakt med den svenske klubben IFK Göteborg. ",
+        "published": {
+            "date": "onsdag 24. mai",
+            "datetime": "2023-05-24 15:42:03",
+            "niceformat": "24.05.2023, 15:42",
+            "timestamp": "2023-05-24T13:42:03.000Z"
+        },
+        "thumbnail": {
+            "height": 286,
+            "url": "https://akamai.vgc.no/v2/images/975602c9-6305-4c67-a167-a12882e417db?fit=crop&format=auto&h=286&w=400&s=d120fd5e2c0c30da79a3497e9a410b0fea440849",
+            "width": 400
+        },
+        "title": "Henning Berg: Avviser kontakt med svensk storklubb",
+        "url": "https://www.vg.no/sport/fotball/i/eJmO79/henning-berg-avviser-kontakt-med-ifk-goteborg-om-trenerjobb"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB-AFP"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JWO0E",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JWO0E",
+        "preamble": "Jordi Albas suksessrike karriere i Barcelona er over etter 11 sesonger, bekrefter den spanske fotballstorheten.",
+        "published": {
+            "date": "onsdag 24. mai",
+            "datetime": "2023-05-24 14:51:58",
+            "niceformat": "24.05.2023, 14:51",
+            "timestamp": "2023-05-24T12:51:58.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ab3e796a-fbb2-4709-b6e9-2cf8f7ca153a?fit=crop&format=auto&h=267&w=400&s=1b89d53a2e900e37a079493cc5d7b73057c9ff2d",
+            "width": 400
+        },
+        "title": "Jordi Alba ferdig i Barcelona etter elleve år",
+        "url": "https://www.vg.no/sport/fotball/i/8JWO0E/jordi-alba-ferdig-i-barcelona-etter-elleve-aar"
+    },
+    {
+        "authors": [
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            },
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Q0W0G",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Q0W0G",
+        "preamble": "Rubén Sellés (39) er ferdig som manager i Southampton etter nedrykket fra Premier League. ",
+        "published": {
+            "date": "onsdag 24. mai",
+            "datetime": "2023-05-24 13:39:11",
+            "niceformat": "24.05.2023, 13:39",
+            "timestamp": "2023-05-24T11:39:11.000Z"
+        },
+        "thumbnail": {
+            "height": 284,
+            "url": "https://akamai.vgc.no/v2/images/fd0d9ab0-9dc6-4fdf-a57f-0fcb314061c8?fit=crop&format=auto&h=284&w=400&s=d6d7bfba4baba8694c792f70e1209d128226dd54",
+            "width": 400
+        },
+        "title": "Southampton-manager ferdig: Får ikke ny kontrakt etter nedrykket",
+        "url": "https://www.vg.no/sport/fotball/i/0Q0W0G/southampton-manager-ferdig"
+    }
+]

@@ -1,0 +1,366 @@
+[
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQR8R4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQR8R4",
+        "preamble": "(Nantes - Toulouse 1–5) Med haldenseren Kjetil Haug i mål og Warren Kamanzi på benken, herjet Toulouse med regjerende mester Nantes på veien til klubbens andre cuptrofé.",
+        "published": {
+            "date": "lørdag 29. april",
+            "datetime": "2023-04-29 22:52:27",
+            "niceformat": "29.04.2023, 22:52",
+            "timestamp": "2023-04-29T20:52:27.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/bWdjnAXU65H5.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Haug og Kamanzi cupmestere med Toulouse ",
+        "url": "https://www.vg.no/sport/fotball/i/JQR8R4/haug-og-kamanzi-historiske-cupmestere-med-toulouse"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            },
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kEyrq6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kEyrq6",
+        "preamble": "ASPMYRA (VG) (Bodø/Glimt-Brann 2–2) Niklas Jensen Wassberg (18) og Bård Finne (28) påførte nesten Bodø/Glimt deres første serietap for sesongen, men mål av toppscorer Amahl Pellegrino (32) berget gultrøyene på overtid.",
+        "published": {
+            "date": "lørdag 29. april",
+            "datetime": "2023-04-29 19:54:43",
+            "niceformat": "29.04.2023, 19:54",
+            "timestamp": "2023-04-29T17:54:43.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/71fc38c3-9f41-4404-88b1-0df60c780325?fit=crop&format=auto&h=267&w=400&s=558260ecaa676b2f1c61abd28370eafa3408f417",
+            "width": 400
+        },
+        "title": "Brann rystet Glimt – så reddet Pellegrino serielederen: – Det vi leverer er trist",
+        "url": "https://www.vg.no/sport/fotball/i/kEyrq6/brann-rystet-glimt-i-bodoe-saa-vaaknet-pellegrino"
+    },
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPev1p",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPev1p",
+        "preamble": "Ifølge engelske The Times er milliardæren Jim Ratcliffe og Ineos i førersetet til å bli nye eiere av Manchester United.",
+        "published": {
+            "date": "lørdag 29. april",
+            "datetime": "2023-04-29 18:21:15",
+            "niceformat": "29.04.2023, 18:21",
+            "timestamp": "2023-04-29T16:21:15.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0449a7df-ed92-4988-9e1c-b5e5d213e527?fit=crop&format=auto&h=267&w=400&s=19948e418e93c873ee01b2f41d21467150e67d9e",
+            "width": 400
+        },
+        "title": "The Times: Ineos og Ratcliffe overbyr Qatar-sjeik i kampen om United-eierskap",
+        "url": "https://www.vg.no/sport/fotball/i/VPev1p/the-times-ineos-og-ratcliffe-overbyr-qatar-sjeik-i-kampen-om-united-eierskap"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q17g2g",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q17g2g",
+        "preamble": "(Vålerenga - Åsane 4–1) Målene satt igjen løst for tabelleder Vålerenga i møtet med Åsane. Etter tre seiersløse kamper fikk Brann endelig inn en trepoenger.",
+        "published": {
+            "date": "lørdag 29. april",
+            "datetime": "2023-04-29 16:54:52",
+            "niceformat": "29.04.2023, 16:54",
+            "timestamp": "2023-04-29T14:54:52.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/63c142fc-b43f-4b73-ad34-b83af76d8061?fit=crop&format=auto&h=267&w=400&s=2ddd29a9114654b9c0a6c6b96f35ed27a2711be2",
+            "width": 400
+        },
+        "title": "Vålerenga fortsatte scoringsshowet – opptur for Brann",
+        "url": "https://www.vg.no/sport/fotball/i/q17g2g/vaalerenga-fortsatte-scoringsshowet-opptur-for-brann"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMnLdJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMnLdJ",
+        "preamble": "Borussia Dortmund raste etter at videodømmingen overså et klart straffespark i 1-1-kampen mot Bochum. Lørdag ble feilen anerkjent av Tysklands fotballforbund.",
+        "published": {
+            "date": "lørdag 29. april",
+            "datetime": "2023-04-29 16:02:49",
+            "niceformat": "29.04.2023, 16:02",
+            "timestamp": "2023-04-29T14:02:49.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/craTFGFsYNTr.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Forbundet erkjenner VAR-tabbe i Dortmunds poengtap",
+        "url": "https://www.vg.no/sport/fotball/i/GMnLdJ/forbundet-erkjenner-var-tabbe-i-dortmunds-poengtap"
+    },
+    {
+        "authors": [
+            {
+                "email": "per.opsahl@vg.no",
+                "id": "a8b54406-d047-4b1c-90e2-f9f77a0e7317",
+                "name": "Per Opsahl"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "rlGK6l",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/rlGK6l",
+        "preamble": "Brann-spillere stinne av selvtillit skal prøve seg mot serieleder Bodø/Glimt – det blir neppe kjedelig. ",
+        "published": {
+            "date": "lørdag 29. april",
+            "datetime": "2023-04-29 15:43:03",
+            "niceformat": "29.04.2023, 15:43",
+            "timestamp": "2023-04-29T13:43:03.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/efde9377-3747-4ec1-ae0e-1218308d8c42?fit=crop&format=auto&h=267&w=400&s=3536ee09385b1bbe3aed0422db35e6c6e82233d9",
+            "width": 400
+        },
+        "title": "Hyller Branns Glimt-stil: – Har levert fantastisk",
+        "url": "https://www.vg.no/sport/fotball/i/rlGK6l/spaar-offensiv-kamp-naar-bodoe-glimt-moeter-brann"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "vez7d5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/vez7d5",
+        "preamble": "Røa får likevel ta imot Stabæk på sin egen hjemmebane i Toppserien etter at det ble klart at klubben rekker å utbedre skadene på kunstgresset.",
+        "published": {
+            "date": "lørdag 29. april",
+            "datetime": "2023-04-29 13:26:05",
+            "niceformat": "29.04.2023, 13:26",
+            "timestamp": "2023-04-29T11:26:05.000Z"
+        },
+        "thumbnail": {
+            "height": 231,
+            "url": "https://akamai.vgc.no/v2/images/5d08c054-7990-4e4d-8b52-adb3f84fc443?fit=crop&format=auto&h=231&w=400&s=fd03f6354dbd5204e26e9baf8965101a125f57b8",
+            "width": 400
+        },
+        "title": "Røa garanterer for gode baneforhold – kampen mot Stabæk flyttes tilbake",
+        "url": "https://www.vg.no/sport/fotball/i/vez7d5/roea-garanterer-for-gode-baneforhold-kampen-mot-stabaek-flyttes-tilbake"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BWvKd0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BWvKd0",
+        "preamble": "Zlatan Ibrahimovic (41) sliter stort med skader og har spilt sin siste kamp for Milan denne sesongen, melder Gazzetta dello Sport.",
+        "published": {
+            "date": "lørdag 29. april",
+            "datetime": "2023-04-29 12:47:58",
+            "niceformat": "29.04.2023, 12:47",
+            "timestamp": "2023-04-29T10:47:58.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/2780683e-4018-41f1-9710-5764a4844e22?fit=crop&format=auto&h=267&w=400&s=8f18869a54a1c9a548cd7d8d90ed11b301934ca7",
+            "width": 400
+        },
+        "title": "Avis: Zlatans sesong er over",
+        "url": "https://www.vg.no/sport/fotball/i/BWvKd0/avis-zlatans-sesong-er-over"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            },
+            {
+                "email": "janne.moller-hansen@vg.no",
+                "id": "c15293f1-3f13-4d47-9234-1cae0482f62d",
+                "name": "Janne Møller-Hansen (foto) "
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kEyxJ6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kEyxJ6",
+        "preamble": "BRYNE (VG) På denne åkeren har Erling Braut Haaland dype familierøtter. Grandonkel Gabriel Høyland tror gode gener er en del av megasuksessen han opplever i Manchester City.",
+        "published": {
+            "date": "lørdag 29. april",
+            "datetime": "2023-04-29 09:40:44",
+            "niceformat": "29.04.2023, 09:40",
+            "timestamp": "2023-04-29T07:40:44.000Z"
+        },
+        "thumbnail": {
+            "height": 302,
+            "url": "https://akamai.vgc.no/v2/images/ee923563-d992-47ad-a3c9-ed1f8076ca07?fit=crop&format=auto&h=302&w=400&s=8ab662cb1a38e3361c110d36f3b2cb8bacb9ef20",
+            "width": 400
+        },
+        "title": "Bryne-legenden er Haalands grandonkel: – Han lykkes med alt ",
+        "url": "https://www.vg.no/sport/fotball/i/kEyxJ6/bryne-legenden-er-haalands-grandonkel-han-lykkes-med-alt"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5BOgnW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5BOgnW",
+        "preamble": "(Blackpool – Millwall 2–3) Blackpool slo tilbake to ganger, men kunne ikke hindre seier for gjestende Millwall. Dermed er klubben dømt til nedrykk fra Championship.",
+        "published": {
+            "date": "lørdag 29. april",
+            "datetime": "2023-04-29 08:17:00",
+            "niceformat": "29.04.2023, 08:17",
+            "timestamp": "2023-04-29T06:17:00.000Z"
+        },
+        "thumbnail": {
+            "height": 268,
+            "url": "https://akamai.vgc.no/v2/images/98490c3a-48b3-4092-af41-50cfb43c9db7?fit=crop&format=auto&h=268&w=400&s=825031d5aa08a6b8b28f4a001f39764d81484960",
+            "width": 400
+        },
+        "title": "Blackpool rykker ned fra Championship",
+        "url": "https://www.vg.no/sport/fotball/i/5BOgnW/blackpool-rykker-ned-fra-championship"
+    }
+]

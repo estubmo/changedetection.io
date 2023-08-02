@@ -1,0 +1,397 @@
+[
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5Bk1aO",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5Bk1aO",
+        "preamble": "(Spania-Italia 2–1) Innbytter Joselu (33) hadde nettopp kommet på banen da han kunne pirke ballen i mål og sende Norges EM-kvalik-motstander Spania til Nations League-finalen mot Kroatia.",
+        "published": {
+            "date": "torsdag 15. juni",
+            "datetime": "2023-06-15 22:38:26",
+            "niceformat": "15.06.2023, 22:38",
+            "timestamp": "2023-06-15T20:38:26.000Z"
+        },
+        "thumbnail": {
+            "height": 233,
+            "url": "https://akamai.vgc.no/v2/images/5f8eeb46-eaa1-431b-93fb-5b1941579fd8?fit=crop&format=auto&h=233&w=400&s=55e0f718a80c51d0343e9c043d508a622bb295e7",
+            "width": 400
+        },
+        "title": "Spansk innbytter avgjorde i semifinalen mot Italia",
+        "url": "https://www.vg.no/sport/fotball/i/5Bk1aO/spansk-innbytter-avgjorde-i-semifinalen-mot-italia"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "abkmVE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/abkmVE",
+        "preamble": "Serie A-mester Napoli og Leo Østigård (23) har fått ny sjef. Franske Rudi García (59) tar over for Luciano Spalletti (64).",
+        "published": {
+            "date": "torsdag 15. juni",
+            "datetime": "2023-06-15 21:07:56",
+            "niceformat": "15.06.2023, 21:07",
+            "timestamp": "2023-06-15T19:07:56.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/c0cacf58-d86d-4e37-9c7d-c5440aeae52c?fit=crop&format=auto&h=267&w=400&s=b09494fb5f1a18dfcf4b716444b226b4142212a1",
+            "width": 400
+        },
+        "title": "Rudi García ansatt som Østigårds nye Napoli-trener",
+        "url": "https://www.vg.no/sport/fotball/i/abkmVE/rudi-garcia-ansatt-som-oestigaards-nye-napoli-trener"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76JWyw",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76JWyw",
+        "preamble": "Kylian Mbappé sier på en pressekonferanse at han ønsker å bli i PSG, selv om han ikke vil signere en ny kontrakt.",
+        "published": {
+            "date": "torsdag 15. juni",
+            "datetime": "2023-06-15 18:39:06",
+            "niceformat": "15.06.2023, 18:39",
+            "timestamp": "2023-06-15T16:39:06.000Z"
+        },
+        "thumbnail": {
+            "height": 248,
+            "url": "https://akamai.vgc.no/v2/images/e3925318-d64e-4e2b-90ab-2ee0730cd352?fit=crop&format=auto&h=248&w=400&s=897304e8272e05437c7b2a50e87bf057283c6357",
+            "width": 400
+        },
+        "title": "Mbappe om fremtiden: – PSG er min eneste mulighet",
+        "url": "https://www.vg.no/sport/fotball/i/76JWyw/mbappe-om-fremtiden-psg-er-min-eneste-mulighet"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "abkmOa",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/abkmOa",
+        "preamble": "Manchester United-legende og Qatar-ambassadør Rio Ferdinand (44) påstår at den engelske storklubben straks har nye eiere.",
+        "published": {
+            "date": "torsdag 15. juni",
+            "datetime": "2023-06-15 17:58:08",
+            "niceformat": "15.06.2023, 17:58",
+            "timestamp": "2023-06-15T15:58:08.000Z"
+        },
+        "thumbnail": {
+            "height": 308,
+            "url": "https://akamai.vgc.no/v2/images/24075282-333d-4082-aaf6-c4548009398a?fit=crop&format=auto&h=308&w=400&s=903a3d639cf741fba9757929aa79abab9db23bfa",
+            "width": 400
+        },
+        "title": "Ferdinand hevder Qatar-oppkjøp av United aksepteres: – Hallelujah!",
+        "url": "https://www.vg.no/sport/fotball/i/abkmOa/ferdinand-hevder-qatar-oppkjoep-av-united-aksepteres-hallelujah"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "y6yq7r",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/y6yq7r",
+        "preamble": "Det norske U21-landslaget møter et fransk lag uten tre store stopperprofiler under EM i Romania neste uke.",
+        "published": {
+            "date": "torsdag 15. juni",
+            "datetime": "2023-06-15 15:33:27",
+            "niceformat": "15.06.2023, 15:33",
+            "timestamp": "2023-06-15T13:33:27.000Z"
+        },
+        "thumbnail": {
+            "height": 299,
+            "url": "https://akamai.vgc.no/v2/images/3ecbfb9f-5607-4b54-832c-66ff616b04b5?fit=crop&format=auto&h=299&w=400&s=6eb67eace4fdf0d43456231b85e6031e465ef86e",
+            "width": 400
+        },
+        "title": "Stjernefall for Norges EM-motstander",
+        "url": "https://www.vg.no/sport/fotball/i/y6yq7r/stjernefall-for-norges-em-motstander"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "vegard.aulstad@vg.no",
+                "id": "32320ac9-8b78-4d86-b923-ee64dc408816",
+                "name": "Vegard Aulstad"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3E7y0e",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3E7y0e",
+        "preamble": "ULLEVAAL STADION (VG) Ståle Solbakken (55) fortsetter etter alt å dømme med samme midtbanetrio i skjebnekampen mot Skottland som i de foregående kampene mot Spania og Georgia.",
+        "published": {
+            "date": "torsdag 15. juni",
+            "datetime": "2023-06-15 15:20:47",
+            "niceformat": "15.06.2023, 15:20",
+            "timestamp": "2023-06-15T13:20:47.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/7272b781-bf7e-4d87-b86c-65079bee8939?fit=crop&format=auto&h=267&w=400&s=6b0a9c9912f6ac1800218c6dd0f8e82531bd894e",
+            "width": 400
+        },
+        "title": "Opplysninger til VG: Solbakken drillet førsteellever uten Sander Berge",
+        "url": "https://www.vg.no/sport/fotball/i/3E7y0e/opplysninger-til-vg-solbakken-drillet-foersteellever-uten-sander-berge"
+    },
+    {
+        "authors": [
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            },
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMqVmx",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMqVmx",
+        "preamble": "Premier League har offentliggjort terminlisten for 2023/2024-sesongen. ",
+        "published": {
+            "date": "torsdag 15. juni",
+            "datetime": "2023-06-15 14:47:25",
+            "niceformat": "15.06.2023, 14:47",
+            "timestamp": "2023-06-15T12:47:25.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/1a742ed5-5cac-4702-a926-9712f6560873?fit=crop&format=auto&h=267&w=400&s=58a0b536fb9d697be88cfa484d2aeb50269dcd3d",
+            "width": 400
+        },
+        "title": "Slik blir terminlisten for Premier League 2023/24",
+        "url": "https://www.vg.no/sport/fotball/i/GMqVmx/slik-er-terminlisten-for-premier-league-2023-24"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            },
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3E7yK0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3E7yK0",
+        "preamble": "Tidligere Skottland-, Manchester United- og Leeds-forsvarer Gordon McQueen er død.",
+        "published": {
+            "date": "torsdag 15. juni",
+            "datetime": "2023-06-15 14:20:36",
+            "niceformat": "15.06.2023, 14:20",
+            "timestamp": "2023-06-15T12:20:36.000Z"
+        },
+        "thumbnail": {
+            "height": 289,
+            "url": "https://akamai.vgc.no/v2/images/c89aa988-ed13-499a-a4a6-ded22dcc4b81?fit=crop&format=auto&h=289&w=400&s=ee491bb51ceabe708c8647f93580b271c95fa728",
+            "width": 400
+        },
+        "title": "Tidligere Manchester United-spiller Gordon McQueen er død",
+        "url": "https://www.vg.no/sport/fotball/i/3E7yK0/tidligere-manchester-united-spiller-gordon-mcqueen-er-doed"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "vegard.aulstad@vg.no",
+                "id": "32320ac9-8b78-4d86-b923-ee64dc408816",
+                "name": "Vegard Aulstad"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "veyR5l",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/veyR5l",
+        "preamble": "ULLEVAAL STADION (VG) To poeng skilte de seks lagene som kjempet om å unngå én nedrykksplass i siste serierunde i Spania. Da Celta Vigo slo seriemester Barcelona i siste runde, tok det fullstendig av i byen.",
+        "published": {
+            "date": "torsdag 15. juni",
+            "datetime": "2023-06-15 13:37:19",
+            "niceformat": "15.06.2023, 13:37",
+            "timestamp": "2023-06-15T11:37:19.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/47a24559-9546-4b2d-9d32-585a1af598c8?fit=crop&format=auto&h=267&w=400&s=d9a469c0ca8db31726c4aca4c3076472b95b38dd",
+            "width": 400
+        },
+        "title": "Strand Larsen avslører vill fest etter nedrykksdrama: – «Crazy» fra start til slutt",
+        "url": "https://www.vg.no/sport/fotball/i/veyR5l/strand-larsen-avsloerer-vill-fest-etter-nedrykksdrama-crazy-fra-start-til-slutt"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Knk0Be",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Knk0Be",
+        "preamble": "Vålerengas midtstopper Aaron Kiil Olsen må belage seg på minst seks uker på sidelinjen etter at han pådro seg en beinbruddskade i en kamp for Vålerengas 2.-lag.",
+        "published": {
+            "date": "torsdag 15. juni",
+            "datetime": "2023-06-15 12:03:31",
+            "niceformat": "15.06.2023, 12:03",
+            "timestamp": "2023-06-15T10:03:31.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/55e1bdb0-d00d-4d28-965e-34ce5d3d4dbb?fit=crop&format=auto&h=267&w=400&s=a7205680d25f5743a4ef971ea46f6deb39bd26fd",
+            "width": 400
+        },
+        "title": "Stopperkrise i Vålerenga: Kiil Olsen ute med beinbrudd i minst seks uker",
+        "url": "https://www.vg.no/sport/fotball/i/Knk0Be/stopperkrise-i-vaalerenga-kiil-olsen-ute-med-beinbrudd-i-minst-seks-uker"
+    }
+]

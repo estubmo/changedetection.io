@@ -1,0 +1,198 @@
+[
+    {
+        "slug": "ranheim-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/abp6e7/ranheim-fortsatte-seiersrekken",
+        "title": {
+            "value": "Ranheim fortsatte seiersrekken"
+        },
+        "description": "Ranheim slo Flatås 12-0 hjemme i J17 1. divisjon, Avdeling 2 - Vår tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-16T20:13:32Z",
+        "lastModifiedAt": "2023-05-16T20:13:32Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "innherred-seier-over-egge",
+        "url": "/lokalfotballen/i/abp6LA/innherred-seier-over-egge",
+        "title": {
+            "value": "Innherred-seier over Egge"
+        },
+        "description": "Innherred fikk med seg alle poengene da Egge ble slått 2-0 i 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-16T20:04:16Z",
+        "lastModifiedAt": "2023-05-16T20:04:16Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "det-hoeres-ut-som-han-kan-faa-uventet-hjelp",
+        "url": "/sport/i/0QkmjA/det-hoeres-ut-som-han-kan-faa-uventet-hjelp",
+        "title": {
+            "value": "Det høres ut som han kan få uventet hjelp"
+        },
+        "description": "KOMMENTAR: De svekkede forventningene gjorde 1-0 mot et redusert Haugesund til en fest. Vil RBK-ledelsen ta drastiske økonomiske grep for å løfte nivået?",
+        "imageUrl": "b7a9d55b-6fe1-4e63-8812-e52b6deeb183",
+        "publishedAt": "2023-05-16T19:57:39Z",
+        "lastModifiedAt": "2023-05-16T19:57:39Z",
+        "premium": true,
+        "authors": [
+            "Birger Løfaldli"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "kjetil-rekdal",
+            "cecilie-gotaas-johnsen",
+            "birger-loefaldli",
+            "olaus-skarsem"
+        ]
+    },
+    {
+        "slug": "breistrand-ble-helten-for-flatanger",
+        "url": "/lokalfotballen/i/GMqk59/breistrand-ble-helten-for-flatanger",
+        "title": {
+            "value": "Breistrand senket Namsos"
+        },
+        "description": "Alexander Hoddø Breistrand sikret seieren med sin 2-1-scoring for Flatanger mot Namsos på Grong Sparebank-banen i 4. divisjon, Trøndelag - Avdeling 1 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-16T19:22:02Z",
+        "lastModifiedAt": "2023-05-16T19:31:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "dobbel-fra-sakshaug-for-vinne",
+        "url": "/lokalfotballen/i/MoqK9r/dobbel-fra-sakshaug-for-vinne",
+        "title": {
+            "value": "Sakshaug i scoringshumør mot Leksdal"
+        },
+        "description": "Magnus Næss Sakshaug sto fram med to mål da Vinne vant 4-2 over Leksdal i 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-16T19:10:47Z",
+        "lastModifiedAt": "2023-05-16T19:31:23Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "serverte-matchvinneren-og-satte-kursen-rett-mot-russen",
+        "url": "/sport/fotball/i/Llqwjq/serverte-matchvinneren-og-satte-kursen-rett-mot-russen",
+        "title": {
+            "value": "«Skiter i» hvordan seieren kom: - Så viktig at jeg ikke finner ord"
+        },
+        "description": "Sverre Nypan var direkte involvert da RBK sikret seg tre poeng for første gang på sju kamper.",
+        "imageUrl": "1f5c88f3-6ef6-4947-b2f2-c7ddef6a2584",
+        "publishedAt": "2023-05-16T18:59:38Z",
+        "lastModifiedAt": "2023-05-16T19:58:26Z",
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal",
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "fotball",
+            "markus-henriksen",
+            "rosenborg-bk",
+            "sverre-nypan",
+            "eliteserien"
+        ]
+    },
+    {
+        "slug": "heimdal-2-tok-sin-fjerde-seier-paa-rad",
+        "url": "/lokalfotballen/i/gEBovB/heimdal-2-tok-sin-fjerde-seier-paa-rad",
+        "title": {
+            "value": "Ny seier for Heimdal 2"
+        },
+        "description": "Heimdal 2 slo Freidig 2 på hjemmebane 3-0 og tok dermed alle poengene i J13 2. divisjon, Avdeling 4 - Vår tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-16T18:21:56Z",
+        "lastModifiedAt": "2023-05-16T18:35:28Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ranheim-utsatt-for-poeng-ran",
+        "url": "/sport/fotball/i/76Q2e9/ranheim-utsatt-for-poeng-ran",
+        "title": {
+            "value": "Ranheim utsatt for poeng-ran: - Det er kjipt"
+        },
+        "description": "Laget fra fjæra kunne avgjort kampen den første halvtimen. I stedet reiser de hjem fra Kristiansund med ingen verdens ting.",
+        "imageUrl": "65d90592-95ff-43b3-9314-f0175bcb1473",
+        "publishedAt": "2023-05-16T18:00:19Z",
+        "lastModifiedAt": "2023-05-16T19:21:51Z",
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "mads-reginiussen",
+            "ranheim-tf",
+            "obos-ligaen"
+        ]
+    },
+    {
+        "slug": "nydelig-matchvinner-kanon",
+        "url": "/sport/fotball/i/XbpyXb/nydelig-matchvinner-kanon",
+        "title": {
+            "value": "«Nydelig matchvinner»"
+        },
+        "description": "Rosenborg spilte mot ti mann i en time, og vant for første gang på sju kamper.",
+        "imageUrl": "d9640194-d0d1-4a98-97d2-942cdd9c3a89",
+        "publishedAt": "2023-05-16T17:58:29Z",
+        "lastModifiedAt": "2023-05-16T17:58:29Z",
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "dagens-ivers",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "rbks-styreleder-svarer-foelg-16-mai-festen-her",
+        "url": "/sport/fotball/i/dwpKx1/rbks-styreleder-svarer-foelg-16-mai-festen-her",
+        "title": {
+            "value": "Dette var reaksjonene etter kampen"
+        },
+        "description": "Laget er klart (se under). Cecilie Gotaas Johnsen og «pappa Nypan», Arne, kommer til «Ivers direkte». Sendinga starter 17.30!",
+        "imageUrl": "a889c0d2-d5b0-489d-9e84-735a66fabc63",
+        "publishedAt": "2023-05-16T13:59:42Z",
+        "lastModifiedAt": "2023-05-16T17:48:12Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "eliteserien"
+        ]
+    }
+]

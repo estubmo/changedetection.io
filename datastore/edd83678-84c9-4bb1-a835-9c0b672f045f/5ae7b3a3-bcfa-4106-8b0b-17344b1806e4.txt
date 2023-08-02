@@ -1,0 +1,190 @@
+[
+    {
+        "slug": "de-utskjeltes-festaften-et-hardt-presset-rosenborg-vant-endelig",
+        "url": "/sport/fotball/i/mQW160/de-utskjeltes-festaften-et-hardt-presset-rosenborg-vant-endelig",
+        "title": {
+            "value": "Tomåls-Olaus etter oppturen: - Ubeskrivelig"
+        },
+        "description": "Indreløperen viste hvorfor et Rosenborg i krise har savnet han.",
+        "imageUrl": "a6b83c9b-5427-4af3-9cc4-5eff247fa43c",
+        "publishedAt": "2023-06-04T16:51:41Z",
+        "lastModifiedAt": "2023-06-04T17:00:30Z",
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "fotball",
+            "sport",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "rbks-beste-da-han-scoret-for-foerste-gang-paa-nesten-to-aar",
+        "url": "/sport/i/76JK8v/rbks-beste-da-han-scoret-for-foerste-gang-paa-nesten-to-aar",
+        "title": {
+            "value": "RBKs beste da han scoret for første gang på nesten to år"
+        },
+        "description": "Angrepsrekka sto fram da det omsider løsnet for RBK framover i banen. Best av alle var uansett tomålsscorer Olaus Skarsem.",
+        "imageUrl": "9afb7cca-4b06-4688-ae9d-759f2a5126d9",
+        "publishedAt": "2023-06-04T16:51:14Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "blikra-senket-ntnui-2",
+        "url": "/lokalfotballen/i/0QO4GB/blikra-senket-ntnui-2",
+        "title": {
+            "value": "Blikra ble tomålshelt mot NTNUI 2"
+        },
+        "description": "Sander Blikra sikret tre poeng for Utleira da NTNUI 2 ble slått 2-1 i 5. divisjon, Trøndelag - Avdeling 2 i fotball for menn. Utleira har vunnet tre strake bortekamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T16:23:26Z",
+        "lastModifiedAt": "2023-06-04T16:53:15Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "femte-seier-paa-rad-for-kolvereid-7er",
+        "url": "/lokalfotballen/i/15877W/femte-seier-paa-rad-for-kolvereid-7er",
+        "title": {
+            "value": "Flatanger 7er senket av Lande"
+        },
+        "description": "Flatanger 7er gikk på sitt tredje tap på rad da laget røk 0-1 for Kolvereid 7er i 7er, Trøndelag - Avdeling 1 i fotball for kvinner søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T16:14:09Z",
+        "lastModifiedAt": "2023-06-04T16:25:37Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "loeseth-dobbel-for-kil-hemne-3",
+        "url": "/lokalfotballen/i/nQnwAB/loeseth-dobbel-for-kil-hemne-3",
+        "title": {
+            "value": "KIL / Hemne 3 slo Nationalkameratene 2 i målfest"
+        },
+        "description": "Hallvard Kjønsvik Løseth scoret to av målene da KIL/Hemne 3 vant 4-3 over Nationalkameratene 2 i 6. divisjon, Trøndelag - Avdeling 4 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T16:01:01Z",
+        "lastModifiedAt": "2023-06-04T16:25:35Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "hildre-dobbel-for-rana",
+        "url": "/lokalfotballen/i/zEergO/hildre-dobbel-for-rana",
+        "title": {
+            "value": "Hildre-dobbel sikret seier"
+        },
+        "description": "Per Kristian Helle Hildre viste scoringsform da Rana seiret 3-0 over Byåsen i 3. divisjon, Avdeling 5 søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T15:58:59Z",
+        "lastModifiedAt": "2023-06-04T16:54:17Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "oerland-snudde-til-seier-paa-tampen-over-vuku",
+        "url": "/lokalfotballen/i/JQGEJb/oerland-snudde-til-seier-paa-tampen-over-vuku",
+        "title": {
+            "value": "Ørland snudde til seier på tampen over Vuku"
+        },
+        "description": "Ørland snudde til seier i sluttminuttene mot Vuku i G16 1. divisjon, Avdeling 1 - Vår. Før kampen mot Ørland hadde Vuku tatt poeng i alle seriekampene denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T15:58:59Z",
+        "lastModifiedAt": "2023-06-04T16:25:36Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "froeya-il-slo-leinstrand-byneset-paa-hjemmebane",
+        "url": "/lokalfotballen/i/dwzmlw/froeya-il-slo-leinstrand-byneset-paa-hjemmebane",
+        "title": {
+            "value": "Hjemmeseier for Frøya IL over Leinstrand / Byneset"
+        },
+        "description": "Frøya IL tok tre poeng da Leinstrand/Byneset ble slått 2-0 i G16 3. divisjon, Avdeling 2 - Vår søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T15:58:58Z",
+        "lastModifiedAt": "2023-06-04T16:26:42Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    },
+    {
+        "slug": "aattende-strake-seier-for-byaasen",
+        "url": "/lokalfotballen/i/4oGz1q/aattende-strake-seier-for-byaasen",
+        "title": {
+            "value": "Byåsen vant igjen"
+        },
+        "description": "Byåsen seiret 2-1 over Charlottenlund borte i G16 Elite, Vår. Byåsen har tatt poeng i ni strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T15:58:57Z",
+        "lastModifiedAt": "2023-06-04T16:24:25Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ranheim-berget-uavgjort",
+        "url": "/lokalfotballen/i/dwzmdX/ranheim-berget-uavgjort",
+        "title": {
+            "value": "Magnus Qvigstad berget poeng for Ranheim"
+        },
+        "description": "Orkanger og Ranheim spilte 1-1 på Orkla Kunstgress i G16 Elite, Vår søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T15:45:42Z",
+        "lastModifiedAt": "2023-06-04T16:24:25Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    }
+]

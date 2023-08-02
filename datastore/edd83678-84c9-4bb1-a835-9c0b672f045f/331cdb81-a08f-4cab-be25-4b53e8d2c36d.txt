@@ -1,0 +1,192 @@
+[
+    {
+        "slug": "wassether-med-maalshow",
+        "url": "/lokalfotballen/i/LlqzzJ/wassether-med-maalshow",
+        "title": {
+            "value": "Wassether bøttet inn mål mot Buvik 7er"
+        },
+        "description": "Selbu 2 7er tok sin tredje strake seier da Buvik 7er ble slått 10-1 i 7er, Trøndelag - Avdeling 3 i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T19:26:41Z",
+        "lastModifiedAt": "2023-05-15T19:33:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "derfor-vraket-rbk-talentet-ranheim",
+        "url": "/sport/fotball/i/kEb9yQ/derfor-vraket-rbk-talentet-ranheim",
+        "title": {
+            "value": "Derfor vraket RBK-talentet Ranheim"
+        },
+        "description": "Marius Broholm håper å spille seg nærmere en plass i Kjetil Rekdals RBK-ellever. Den jobben starter mot Brutterns høytflyvende Ranheim.",
+        "imageUrl": "58735b30-9969-41bc-bead-3f2adc57c38f",
+        "publishedAt": "2023-05-15T19:06:26Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "kaare-ingebrigtsen",
+            "christian-michelsen",
+            "ranheim-tf",
+            "kristiansund-bk",
+            "obos-ligaen",
+            "mikkel-ceide"
+        ]
+    },
+    {
+        "slug": "heimdal-soerget-for-maalfest",
+        "url": "/lokalfotballen/i/l3bo5e/heimdal-soerget-for-maalfest",
+        "title": {
+            "value": "Brakseier for Heimdal"
+        },
+        "description": "Heimdal har tatt poeng i fem strake kamper etter dagens 6-0-seier.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T18:28:28Z",
+        "lastModifiedAt": "2023-05-15T18:56:02Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "dobbel-lykke-i-svorkmo-meldal-9er-seier",
+        "url": "/lokalfotballen/i/y6bone/dobbel-lykke-i-svorkmo-meldal-9er-seier",
+        "title": {
+            "value": "Nettsus for Jacob Mo Rønning"
+        },
+        "description": "Svorkmo/Meldal 9er slo Orkla 2 9er 2-1 og tok sin første trepoenger i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T18:16:23Z",
+        "lastModifiedAt": "2023-05-15T18:56:02Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "presset-rekdal-faar-meldinger-fra-supportere-sier-jeg-ikke-er-velkommen-her",
+        "url": "/sport/fotball/i/KnqxRX/presset-rekdal-faar-meldinger-fra-supportere-sier-jeg-ikke-er-velkommen-her",
+        "title": {
+            "value": "Presset Rekdal får meldinger fra supportere: – Sier jeg ikke er velkommen her "
+        },
+        "description": "Det trykket Kjetil Rekdal nå opplever, har han aldri kjent på før. Nå prøver han å skjerme spillerne fra det samme presset.",
+        "imageUrl": "d9a9f94c-66c1-4d53-9860-090f2287c7cf",
+        "publishedAt": "2023-05-15T15:36:46Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "solgte-to-leiligheter-for-over-100-000-kroner-per-kvadratmeter",
+        "url": "/mn24/i/wAbo64/solgte-to-leiligheter-for-over-100-000-kroner-per-kvadratmeter",
+        "title": {
+            "value": "Én type boliger er spesielt populære nå: - Merker ekstra trykk"
+        },
+        "description": "Spesielt én type leiligheter er populære nå og selges for langt over gjennomsnittlig kvadratmeterpris, ifølge megler Markus Tangvik.",
+        "imageUrl": "67dc4631-3026-48ec-9f0d-cbaf05138292",
+        "publishedAt": "2023-05-15T14:00:11Z",
+        "lastModifiedAt": "2023-05-15T14:00:11Z",
+        "premium": true,
+        "authors": [
+            "Synne Mauseth, MN24"
+        ],
+        "tags": [
+            "trondheim",
+            "rosenborg",
+            "bolig"
+        ]
+    },
+    {
+        "slug": "solbakken-avsloerte-egen-loenn-mesterskap-gir-stor-millionbonus",
+        "url": "/nyheter/innenriks/i/xgbBk8/solbakken-avsloerte-egen-loenn-mesterskap-gir-stor-millionbonus",
+        "title": {
+            "value": "Solbakken avslørte egen lønn – mesterskap gir stor millionbonus"
+        },
+        "description": "Ståle Solbakken får 6 millioner kroner i grunnlønn som norsk landslagssjef i fotball. Han gikk selv ut med summen på et pressetreff mandag.",
+        "imageUrl": "660eedda-c8a4-419a-a6ec-d173f18bd623",
+        "publishedAt": "2023-05-15T12:25:41Z",
+        "lastModifiedAt": "2023-05-15T12:25:41Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "nessegutten-7er-vant-igjen",
+        "url": "/lokalfotballen/i/WR3Ggd/nessegutten-7er-vant-igjen",
+        "title": {
+            "value": "Nessegutten 7er vant igjen"
+        },
+        "description": "Marte Stormo Winje scoret fem av målene og hjalp Nessegutten 7er til 10-1-seier over Namdalseid 7er i 7er, Trøndelag - Avdeling 1 i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T10:26:07Z",
+        "lastModifiedAt": "2023-05-15T10:26:07Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "rbk-spissen-skadet-naa-ryker-storkampen",
+        "url": "/sport/fotball/i/9zMJ3r/rbk-spissen-skadet-naa-ryker-storkampen",
+        "title": {
+            "value": "RBK-spissen skadet: Nå ryker storkampen"
+        },
+        "description": "Isak Snær Thorvaldsson trente ikke dagen før 16.mai-festen på Lerkendal.",
+        "imageUrl": "008f28da-1079-47a4-b8f1-a6630dd21d91",
+        "publishedAt": "2023-05-15T10:21:05Z",
+        "lastModifiedAt": "2023-05-15T12:04:08Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken",
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "solbakken-forlenger-som-norsk-landslagssjef-i-fotball",
+        "url": "/nyheter/innenriks/i/EQqrqP/solbakken-forlenger-som-norsk-landslagssjef-i-fotball",
+        "title": {
+            "value": "Solbakken satser mot VM i 2026: – Vi er på rett vei"
+        },
+        "description": "Ståle Solbakken har forlenget avtalen som trener for Norges herrelandslag i fotball. Han er med videre til et eventuelt VM-sluttspill sommeren 2026.",
+        "imageUrl": "08d2d6de-5e67-48a6-9ce6-ff785cb752ad",
+        "publishedAt": "2023-05-15T07:39:35Z",
+        "lastModifiedAt": "2023-05-15T11:25:07Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    }
+]

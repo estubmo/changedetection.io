@@ -1,0 +1,189 @@
+[
+    {
+        "slug": "ble-paakjoert-taxisjaafoer-tok-ifra-foereren-bilnoeklene",
+        "url": "/nyhetsstudio/i/y6bnea/ble-paakjoert-taxisjaafoer-tok-ifra-foereren-bilnoeklene",
+        "title": {
+            "value": "Ble påkjørt - taxisjåfør tok fra føreren bilnøklene "
+        },
+        "description": null,
+        "imageUrl": null,
+        "publishedAt": "2023-05-12T17:24:43Z",
+        "lastModifiedAt": "2023-05-12T17:28:46Z",
+        "premium": true,
+        "authors": [
+            "Karoline Ulvnes"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "en-ting-vil-ikke-den-gamle-rbk-spilleren-snakke-om-hadde-vaert-naivt-og-urettferdig",
+        "url": "/sport/fotball/i/zEbXRr/en-ting-vil-ikke-den-gamle-rbk-spilleren-snakke-om-hadde-vaert-naivt-og-urettferdig",
+        "title": {
+            "value": "Én ting vil ikke den gamle RBK-spilleren snakke om: – Hadde vært naivt og urettferdig"
+        },
+        "description": "I seriestarten har Levanger FK levert langt over det de selv forventet. Likevel vil de ikke snakke om det «alle» andre tenker.",
+        "imageUrl": "8f3a85d0-70e7-4a9f-93b4-ea1dd318cb53",
+        "publishedAt": "2023-05-12T16:41:19Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "levanger-fk"
+        ]
+    },
+    {
+        "slug": "siste-fra-breddefotballen",
+        "url": "/sport/fotball/i/GMjXaq/siste-fra-breddefotballen",
+        "title": {
+            "value": "Her blir hun matchvinner på frispark fra over 30 meter"
+        },
+        "description": null,
+        "imageUrl": "ea3ee12d-1e15-4d3e-a9af-5da64a5095f0",
+        "publishedAt": "2023-03-24T14:51:36Z",
+        "lastModifiedAt": "2023-05-09T10:22:27Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "fotball",
+            "breddefotbaill",
+            "lokalfotballen",
+            "breddefotball"
+        ]
+    },
+    {
+        "slug": "fikk-ikke-ny-kontrakt-bytter-til-troendersk-klubb",
+        "url": "/sport/fotball/i/APq97A/fikk-ikke-ny-kontrakt-bytter-til-troendersk-klubb",
+        "title": {
+            "value": "Fikk ikke ny kontrakt - bytter til trøndersk klubb"
+        },
+        "description": null,
+        "imageUrl": "a3afc8c0-018a-4d45-9571-188deceee6c1",
+        "publishedAt": "2023-05-12T08:24:26Z",
+        "lastModifiedAt": "2023-05-12T08:28:17Z",
+        "premium": false,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "breddefotbaill",
+            "lokalfotballen"
+        ]
+    },
+    {
+        "slug": "melhus-3-gimse-3-seiret-hjemme-mot-rissa-2-stadsbygd-2-vanvik-2",
+        "url": "/lokalfotballen/i/onlyrB/melhus-3-gimse-3-seiret-hjemme-mot-rissa-2-stadsbygd-2-vanvik-2",
+        "title": {
+            "value": "Melhus 3/Gimse 3-seier over Rissa 2/Stadsbygd 2/Vanvik 2"
+        },
+        "description": "Melhus 3/Gimse 3 slo Rissa 2/Stadsbygd 2/Vanvik 2 4-2 på Norgeshus Arena i G16 3. divisjon, Avdeling 3 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-12T06:28:42Z",
+        "lastModifiedAt": "2023-05-12T10:19:40Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/BWq4qg/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag, fredag 12. mai.",
+        "imageUrl": "0bae66e0-3c5c-4f9f-9d66-b4e206e994eb",
+        "publishedAt": "2023-05-12T04:01:29Z",
+        "lastModifiedAt": "2023-05-12T04:01:29Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "gjoevik-avgjorde-for-oeksendal",
+        "url": "/lokalfotballen/i/LlqQMR/gjoevik-avgjorde-for-oeksendal",
+        "title": {
+            "value": "Gjøvik avgjorde for Øksendal"
+        },
+        "description": "Øksendal kunne juble for sesongens første trepoenger etter dagens 1-0-seier mot Valsøyfjord. I 6. divisjon, Nordmøre og Romsdal - Avdeling 1 i fotball for menn torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T22:28:44Z",
+        "lastModifiedAt": "2023-05-11T22:28:44Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "poengdeling-mellom-egge-og-nessegutten",
+        "url": "/lokalfotballen/i/KnqKM7/poengdeling-mellom-egge-og-nessegutten",
+        "title": {
+            "value": "Poengdeling mellom Egge og Nessegutten"
+        },
+        "description": "Egge og Nessegutten måtte nøye seg med ett poeng hver på SMN Arena Egge i 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T22:27:43Z",
+        "lastModifiedAt": "2023-05-11T22:27:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "malakzadeh-scoret-hattrick-for-malvik-2-hommelvik-2",
+        "url": "/lokalfotballen/i/Q7qW7A/malakzadeh-scoret-hattrick-for-malvik-2-hommelvik-2",
+        "title": {
+            "value": "Malakzadeh scoret hattrick mot Vikvarvet"
+        },
+        "description": "Daniel Reza Malakzadeh scoret tre av målene og hjalp Malvik 2/Hommelvik 2 til 9-0-seier over Vikvarvet i 6. divisjon, Trøndelag - Avdeling 2 i fotball torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T22:07:12Z",
+        "lastModifiedAt": "2023-05-11T22:16:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "ranheim-3-vant-igjen",
+        "url": "/lokalfotballen/i/q1b81L/ranheim-3-vant-igjen",
+        "title": {
+            "value": "Ranheim 3 fortsatte seiersrekken"
+        },
+        "description": "Ranheim 3 banket Gauldal 3-0 i 5. divisjon, Trøndelag - Avdeling 3 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T22:04:22Z",
+        "lastModifiedAt": "2023-05-11T22:18:03Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    }
+]

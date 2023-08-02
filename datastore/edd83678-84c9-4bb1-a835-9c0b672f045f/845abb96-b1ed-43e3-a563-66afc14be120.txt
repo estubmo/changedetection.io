@@ -1,0 +1,197 @@
+[
+    {
+        "slug": "lillestroem-slo-rosenborg-paa-hjemmebane",
+        "url": "/lokalfotballen/i/O8XpVV/lillestroem-slo-rosenborg-paa-hjemmebane",
+        "title": {
+            "value": "Hjemmeseier for Lillestrøm over Rosenborg"
+        },
+        "description": "Lillestrøm slo Rosenborg 4-1 på Strømmen stadion i Nasjonal G17 1. divisjon søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-18T14:31:44Z",
+        "lastModifiedAt": "2023-06-18T14:33:50Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "foelg-lyn-rbk-direkte",
+        "url": "/sport/fotball/i/rl3QK3/foelg-lyn-rbk-direkte",
+        "title": {
+            "value": "RBK er favoritter - men ligger under"
+        },
+        "description": "Et Rosenborg i god form møter nok et bunnlag, denne gangen Lyn, som står med fire strake tap.",
+        "imageUrl": "f4953b94-2fcf-48e5-bb96-3ddf5cf7d88b",
+        "publishedAt": "2023-06-18T14:15:00Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Yngve Bergli"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "den-tidligere-toppscoreren-savner-rbk-koket-man-skal-foele-litt-press",
+        "url": "/sport/i/O8POkb/den-tidligere-toppscoreren-savner-rbk-koket-man-skal-foele-litt-press",
+        "title": {
+            "value": "Tidligere toppscorer savner «RBK-koket»"
+        },
+        "description": "Skader og beintøff konkurranse stoppet RBK-karrieren. Nå jobber Thorstein Helstad med å tilpasse trening for andre.",
+        "imageUrl": "23efb3a1-d27c-4e81-8697-19ac4c75c346",
+        "publishedAt": "2023-06-18T13:51:35Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "skitoppene-var-samlet-de-nevnte-ikke-klaebos-navn",
+        "url": "/sport/i/Q7XoB4/skitoppene-var-samlet-de-nevnte-ikke-klaebos-navn",
+        "title": {
+            "value": "Sjefene  var samlet. De nevnte ikke Klæbos navn"
+        },
+        "description": "KOMMENTAR: To av de aller største profilene vil ikke være en del av landslaget. Ser virkelig ikke landets skitopper på det som et problem?",
+        "imageUrl": "27e7f547-537f-4989-ae20-306f26a250a1",
+        "publishedAt": "2023-06-18T13:33:55Z",
+        "lastModifiedAt": "2023-06-18T13:33:55Z",
+        "premium": true,
+        "authors": [
+            "Birger Løfaldli"
+        ],
+        "tags": [
+            "norges-skiforbund",
+            "tove-moe-dyrhaug",
+            "emil-iversen",
+            "erling-braut-haaland",
+            "kristine-stavaas-skistad",
+            "johannes-hoesflot-klaebo",
+            "torbjoern-skogstad",
+            "birger-loefaldli",
+            "didrik-toenseth",
+            "therese-johaug",
+            "petter-northug"
+        ]
+    },
+    {
+        "slug": "alle-elsker-victor",
+        "url": "/magasin/i/zEeb1b/alle-elsker-victor",
+        "title": {
+            "value": "På denne tida ble han plaget og drapstruet. Nå er han de unges helt"
+        },
+        "description": "«Forræder» er over, «Dusørjegerne» ruller videre, og i helga tar Victor Sotberg i bruk Nasjonalgalleriet for å signere bøker. Og så er det Pride hele måneden.",
+        "imageUrl": "b456ecd5-2b7d-4e8f-bbc3-e1f297710072",
+        "publishedAt": "2023-06-18T13:11:55Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Geir Svardal",
+            "Kristin Svorte"
+        ],
+        "tags": [
+            "ukeadressa",
+            "gaming",
+            "youtube",
+            "pride",
+            "portrettet",
+            "victor-sotberg"
+        ]
+    },
+    {
+        "slug": "rosenborg-sikret-uavgjort",
+        "url": "/lokalfotballen/i/zEzGjv/rosenborg-sikret-uavgjort",
+        "title": {
+            "value": "Rosenborg ordnet uavgjort"
+        },
+        "description": "Molde og Rosenborg delte poengene på Aker stadion",
+        "imageUrl": null,
+        "publishedAt": "2023-06-18T13:01:42Z",
+        "lastModifiedAt": "2023-06-18T13:04:01Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "roeros-os-nansen-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/GMXG2J/roeros-os-nansen-fortsatte-seiersrekken",
+        "title": {
+            "value": "Røros / Os / Nansen fortsatte seiersrekken"
+        },
+        "description": "Røros/Os/Nansen fikk med seg tre poeng da Gimse ble slått 2-0 hjemme i 6. divisjon, Trøndelag - Avdeling 6 i fotball for menn lørdag. Det var Gimses andre tap på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-18T12:02:00Z",
+        "lastModifiedAt": "2023-06-18T12:02:00Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "haeaak-avgjorde-for-bryne",
+        "url": "/lokalfotballen/i/zEzG39/haeaak-avgjorde-for-bryne",
+        "title": {
+            "value": "Hæåk sikret seieren for Bryne"
+        },
+        "description": "Bryne har tatt poeng i åtte kamper på rad etter dagens 1-0-seier i 2. divisjon, Avdeling 1 i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-18T12:00:59Z",
+        "lastModifiedAt": "2023-06-18T14:02:00Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "kaplanski-dobbel-for-heimdal",
+        "url": "/lokalfotballen/i/76olqv/kaplanski-dobbel-for-heimdal",
+        "title": {
+            "value": "Kaplanski-dobbel sikret seier"
+        },
+        "description": "Heimdal banket Charlottenlund 3-0 i 4. divisjon, Trøndelag - Avdeling 1 i fotball lørdag. Oscar Kaplanski scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-17T16:47:03Z",
+        "lastModifiedAt": "2023-06-17T17:01:13Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "smevik-scoret-hattrick-mot-hegra-skjelstadmark",
+        "url": "/lokalfotballen/i/rlOLzw/smevik-scoret-hattrick-mot-hegra-skjelstadmark",
+        "title": {
+            "value": "Smevik scoret hattrick for Overhalla"
+        },
+        "description": "Med dagens 5-2-seier over Hegra/Skjelstadmark tok Overhalla årets første trepoenger på hjemmebane i 4. divisjon, Trøndelag - Avdeling 1 i fotball for kvinner lørdag. Leila Smevik gjorde hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-17T16:32:54Z",
+        "lastModifiedAt": "2023-06-17T23:01:41Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    }
+]

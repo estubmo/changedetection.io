@@ -1,0 +1,193 @@
+[
+    {
+        "slug": "tomaalshelten-sikret-seier-for-freidig-3",
+        "url": "/lokalfotballen/i/abkg2M/tomaalshelten-sikret-seier-for-freidig-3",
+        "title": {
+            "value": "Tomålshelten sikret seier for Freidig 3"
+        },
+        "description": "Theo Jensen Paasche scoret to ganger og hjalp Freidig 3 til 6-1-seier over Leinstrand/Byneset i G16 3. divisjon, Avdeling 2 - Vår torsdag. Det stanset Freidig 3s tapsrekke, som var uten poeng på de tre siste kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-15T20:12:20Z",
+        "lastModifiedAt": "2023-06-15T20:12:20Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "silset-scoret-hattrick-for-batnfjord",
+        "url": "/lokalfotballen/i/y6yQvx/silset-scoret-hattrick-for-batnfjord",
+        "title": {
+            "value": "Silset scoret hattrick for Batnfjord"
+        },
+        "description": "Batnfjord banket Valsøyfjord 4-1 i 6. divisjon, Nordmøre og Romsdal - Avdeling 1 i fotball torsdag. Martin Silset scoret hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-15T20:07:58Z",
+        "lastModifiedAt": "2023-06-15T20:07:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "maalene-rant-inn-for-belsvik",
+        "url": "/lokalfotballen/i/vey0m5/maalene-rant-inn-for-belsvik",
+        "title": {
+            "value": "Målene rant inn for Belsvik"
+        },
+        "description": "Støren har tatt poeng i sju strake kamper etter dagens 5-1-seier i 6. divisjon, Trøndelag - Avdeling 6 i fotball torsdag. Ola Belsvik scoret tre mål.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-15T20:06:52Z",
+        "lastModifiedAt": "2023-06-15T20:06:52Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet",
+            "lokalfotballen-gauldalsposten"
+        ]
+    },
+    {
+        "slug": "brakseier-for-heimdal",
+        "url": "/lokalfotballen/i/wA5wEP/brakseier-for-heimdal",
+        "title": {
+            "value": "Brakseier for Heimdal"
+        },
+        "description": "Heimdal knuste Trond 4-0 i 4. divisjon, Trøndelag - Avdeling 2 i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-15T20:06:50Z",
+        "lastModifiedAt": "2023-06-15T20:11:10Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "bender-dobbel-for-tangmoen",
+        "url": "/lokalfotballen/i/Q7KGpV/bender-dobbel-for-tangmoen",
+        "title": {
+            "value": "Tangmoen ydmyket Nessegutten"
+        },
+        "description": "Tangmoen tok sin femte seier på rad med 5-0 over Nessegutten i 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn torsdag. Jonas Røkke Bender scoret to av målene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-15T20:00:08Z",
+        "lastModifiedAt": "2023-06-15T20:31:04Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "kvam-7er-knuste-namdalseid-7er",
+        "url": "/lokalfotballen/i/abkmXO/kvam-7er-knuste-namdalseid-7er",
+        "title": {
+            "value": "Kvam 7er knuste Namdalseid 7er"
+        },
+        "description": "Kvam 7er banket Namdalseid 7er 6-0 i 7er, Trøndelag - Avdeling 1 i fotball torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-15T19:46:42Z",
+        "lastModifiedAt": "2023-06-15T20:06:50Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "skjold-avgjorde-for-strindheim",
+        "url": "/lokalfotballen/i/q1Ej2O/skjold-avgjorde-for-strindheim",
+        "title": {
+            "value": "Skjold ble matchvinner for Strindheim"
+        },
+        "description": "Ranheim gikk på sitt tredje strake tap da klubben tapte 0-1 for Strindheim",
+        "imageUrl": null,
+        "publishedAt": "2023-06-15T19:39:27Z",
+        "lastModifiedAt": "2023-06-15T20:06:49Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "froeya-il-2-9er-reddet-uavgjort",
+        "url": "/lokalfotballen/i/rl3oJl/froeya-il-2-9er-reddet-uavgjort",
+        "title": {
+            "value": "Erik Larsen berget poeng for Frøya IL 2 9er"
+        },
+        "description": "Det endte 3-3 mellom Frøya IL 2 9er og Orkla 2 9er på Frøya storhall",
+        "imageUrl": null,
+        "publishedAt": "2023-06-15T18:01:57Z",
+        "lastModifiedAt": "2023-06-15T18:02:59Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "politiet-forsoekte-aa-stanse-bil-i-hoey-hastighet-har-ikke-kontroll",
+        "url": "/nyheter/trondheim/i/gEKbwq/politiet-forsoekte-aa-stanse-bil-i-hoey-hastighet-har-ikke-kontroll",
+        "title": {
+            "value": "Tre vitner: - Bilen kjørte i godt over 100 km/t"
+        },
+        "description": "Et vitne mener at biljakta foregikk i over 100 kilometer i timen i et boligstrøk i Trondheim.",
+        "imageUrl": "6f43aec4-debc-426a-8866-bd8f6c7f8bb4",
+        "publishedAt": "2023-06-15T14:52:20Z",
+        "lastModifiedAt": "2023-06-15T17:07:38Z",
+        "premium": true,
+        "authors": [
+            "Camilla Kilnes"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "siste-fra-breddefotballen",
+        "url": "/sport/fotball/i/GMjXaq/siste-fra-breddefotballen",
+        "title": {
+            "value": "«Litj-Hoftun» ble matchvinner"
+        },
+        "description": null,
+        "imageUrl": "d0c393a5-10d8-407b-917a-4bc184274856",
+        "publishedAt": "2023-03-24T14:51:36Z",
+        "lastModifiedAt": "2023-05-09T10:22:27Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "fotball",
+            "breddefotbaill",
+            "lokalfotballen",
+            "breddefotball"
+        ]
+    }
+]

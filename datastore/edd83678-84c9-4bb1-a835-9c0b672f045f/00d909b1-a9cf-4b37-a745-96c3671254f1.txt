@@ -1,0 +1,177 @@
+[
+    {
+        "slug": "ranheim-avgjorde-foersteplassen",
+        "url": "/lokalfotballen/i/bgdkEB/ranheim-avgjorde-foersteplassen",
+        "title": {
+            "value": "Ranheim sikret førsteplassen"
+        },
+        "description": "Med 11-0-seier over Gauldal/Melhus/Gimse tok Ranheim sin sjuende seier på rad i J17 1. divisjon, Avdeling 2 - Vår tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-06T18:29:44Z",
+        "lastModifiedAt": "2023-06-06T18:32:07Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "tomaalshelten-sikret-seier-for-orkla-2-9er",
+        "url": "/lokalfotballen/i/4oGEMq/tomaalshelten-sikret-seier-for-orkla-2-9er",
+        "title": {
+            "value": "Scoringslykke for Theodor Mælen Ysland"
+        },
+        "description": "Theodor Mælen Ysland ledet an med to av målene i 4-0-seieren over KIL/Hemne 9er i G14 9er, Avdeling 3 - Vår tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-06T18:24:12Z",
+        "lastModifiedAt": "2023-06-06T18:29:45Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "foelg-rbks-bortekamp-mot-lillestroem",
+        "url": "/sport/fotball/i/WRWRqL/foelg-rbks-bortekamp-mot-lillestroem",
+        "title": {
+            "value": "Følg RBKs bortekamp mot Lillestrøm"
+        },
+        "description": "Kun tre dager etter seieren på Lerkendal skal Rosenborg-damene i aksjon igjen. Fra klokken 19 kan du følge bortekampen mot LSK Kvinner nedenfor.",
+        "imageUrl": "c18e4eb2-5f61-4fc4-80e7-c1b413f5c35b",
+        "publishedAt": "2023-06-06T16:30:00Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "han-er-paa-radaren-til-halve-eliteserien-det-har-gaatt-kjapt",
+        "url": "/sport/fotball/i/pQm1xV/han-er-paa-radaren-til-halve-eliteserien-det-har-gaatt-kjapt",
+        "title": {
+            "value": "Han er på radaren til «halve» Eliteserien"
+        },
+        "description": "Namsosingene Ruben Alte (23) og Sondre Langås (22) står på lista til en rekke eliteserieklubber. Bodø/Glimt har hatt speider på tribunen i flere Ranheim-kamper.",
+        "imageUrl": "87934365-b84a-4813-8916-9834be9b7a97",
+        "publishedAt": "2023-06-06T15:22:33Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "ranheim-tf",
+            "frank-lidahl",
+            "kjetil-knutsen"
+        ]
+    },
+    {
+        "slug": "ishockey-manglerud-stars-anke-avvist-mister-eliteserielisensen",
+        "url": "/nyheter/innenriks/i/158oJB/ishockey-manglerud-stars-anke-avvist-mister-eliteserielisensen",
+        "title": {
+            "value": "Ishockey: Manglerud Stars anke avvist – mister eliteserielisensen"
+        },
+        "description": "Manglerud Star får ikke eliteserielisens etter at et utvalg i Norges Ishockeyforbund har avvist klubbens anke. Comet tilbys plass i eliteserien.",
+        "imageUrl": "ec8f37ba-32df-4ac8-915d-968809564770",
+        "publishedAt": "2023-06-06T11:23:34Z",
+        "lastModifiedAt": "2023-06-06T11:28:45Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "perry-har-faatt-ny-jobb",
+        "url": "/sport/fotball/i/O80ga3/perry-har-faatt-ny-jobb",
+        "title": {
+            "value": "Perry har fått ny jobb"
+        },
+        "description": "Per Joar Hansen har takket ja til et engasjement i fotballen.",
+        "imageUrl": "50d19271-1784-4d76-9825-d714327429eb",
+        "publishedAt": "2023-06-06T11:20:47Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "per-joar-hansen",
+            "fotball"
+        ]
+    },
+    {
+        "slug": "mann-skal-ha-truet-ungdommer-med-kniv",
+        "url": "/nyheter/trondheim/i/wA53XL/mann-skal-ha-truet-ungdommer-med-kniv",
+        "title": {
+            "value": "Politiet bevæpnet seg etter kniv­melding ved skole"
+        },
+        "description": "Bevæpnet politi rykket tirsdag ettermiddag ut etter melding om en trusselsituasjon ved en ungdomsskole i Trondheim.",
+        "imageUrl": "c5901714-c474-42d8-9fb7-1eb12abf82c7",
+        "publishedAt": "2023-06-06T10:24:25Z",
+        "lastModifiedAt": "2023-06-06T11:51:48Z",
+        "premium": true,
+        "authors": [
+            "Kari-Anne Aarvåg"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "vg-ny-forskrift-kan-gjoere-det-umulig-aa-stroemme-barneidrett-i-norge",
+        "url": "/nyheter/innenriks/i/kE105v/vg-ny-forskrift-kan-gjoere-det-umulig-aa-stroemme-barneidrett-i-norge",
+        "title": {
+            "value": "Strømming av barneidrett kan bli umulig – slik reagerer MyGame"
+        },
+        "description": "Datatilsynet mener strømming av barneidrett som hovedregel ikke kan gjennomføres lovlig etter personvernregelverket. MyGame sier regelverket skal etterleves.",
+        "imageUrl": "94ecaa9e-40b3-4d38-9501-4122871a69a6",
+        "publishedAt": "2023-06-06T07:02:04Z",
+        "lastModifiedAt": "2023-06-06T10:37:06Z",
+        "premium": false,
+        "authors": [
+            "NTB-Andreas Jakobsen og Stian Grythaugen"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/Lld4qQ/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag, tirsdag 6. juni.",
+        "imageUrl": "c1c5d489-a25b-405d-8465-a122c25d4ebc",
+        "publishedAt": "2023-06-06T04:01:43Z",
+        "lastModifiedAt": "2023-06-06T04:01:43Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "maalshow-fra-strindheim-2",
+        "url": "/lokalfotballen/i/5Bkppe/maalshow-fra-strindheim-2",
+        "title": {
+            "value": "Målshow fra Strindheim 2"
+        },
+        "description": "Marius Blåsmo Norderud ble matchvinner med sin 3-2-scoring da Strindheim 2 slo Sverresborg i 4. divisjon, Trøndelag - Avdeling 2 i fotball. Strindheim 2 har vunnet tre hjemmekamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-05T22:24:15Z",
+        "lastModifiedAt": "2023-06-05T22:24:15Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

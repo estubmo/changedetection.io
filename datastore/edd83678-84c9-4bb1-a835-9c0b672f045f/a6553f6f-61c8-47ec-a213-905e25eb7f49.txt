@@ -1,0 +1,203 @@
+[
+    {
+        "slug": "oerland-snudde-til-seier-paa-tampen",
+        "url": "/lokalfotballen/i/y6JbGR/oerland-snudde-til-seier-paa-tampen",
+        "title": {
+            "value": "Ørland snudde til seier på tampen mot Strindheim 2"
+        },
+        "description": "Ørland snudde til seier på tampen mot Strindheim 2 i 4. divisjon, Trøndelag - Avdeling 2 i fotball fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-23T19:29:08Z",
+        "lastModifiedAt": "2023-06-23T22:34:13Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "uavgjort-for-vestbyen-og-svorkmo-i-maalfest",
+        "url": "/lokalfotballen/i/VPXpd6/uavgjort-for-vestbyen-og-svorkmo-i-maalfest",
+        "title": {
+            "value": "Uavgjort mellom Vestbyen og Svorkmo i målfest"
+        },
+        "description": "Vegard Selvnes sikret poeng for Svorkmo med en sen utligning i 3-3-kampen mot Vestbyen i 5. divisjon, Trøndelag - Avdeling 2 i fotball fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-23T19:13:00Z",
+        "lastModifiedAt": "2023-06-23T19:34:19Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "tiller-vant-over-byaasen",
+        "url": "/lokalfotballen/i/gExB45/tiller-vant-over-byaasen",
+        "title": {
+            "value": "Hjemmeseier for Tiller over Byåsen"
+        },
+        "description": "Tiller tok sine første poeng på tre kamper da Byåsen ble slått 2-0 i 3. divisjon, Avdeling 5 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-23T19:09:57Z",
+        "lastModifiedAt": "2023-06-23T20:05:48Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "rindal-seiret-i-maalfest",
+        "url": "/lokalfotballen/i/wAkbx5/rindal-seiret-i-maalfest",
+        "title": {
+            "value": "Rindal tok sin åttende strake seier"
+        },
+        "description": "Rindal banket Orkanger 5-1 i 5. divisjon, Trøndelag - Avdeling 2 i fotball for menn fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-23T19:04:49Z",
+        "lastModifiedAt": "2023-06-23T21:34:51Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "danmarks-riksadvokat-vil-utlevere-vaapensmugler-til-india",
+        "url": "/nyheter/utenriks/i/wAk0Mn/danmarks-riksadvokat-vil-utlevere-vaapensmugler-til-india",
+        "title": {
+            "value": "Danmarks riksadvokat vil utlevere våpensmugler til India"
+        },
+        "description": "Riksadvokaten i Danmark anbefaler at en smugler som fløy fire tonn våpen til opprørere i India i 1995, utleveres til det sørasiatiske landet.",
+        "imageUrl": "b0045b36-06cc-40f4-82c8-e83434fabcb4",
+        "publishedAt": "2023-06-23T15:34:10Z",
+        "lastModifiedAt": "2023-06-23T15:34:10Z",
+        "premium": false,
+        "authors": [
+            "NTB-AFP-Ritzau"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "setter-e6-avtaler-paa-vent-jeg-forstaar-at-det-blir-rykter",
+        "url": "/nyheter/trondelag/i/VPXeB1/setter-e6-avtaler-paa-vent-jeg-forstaar-at-det-blir-rykter",
+        "title": {
+            "value": "I samtaler med ansatte: – For noen av dem vil det dessverre ikke være mulig å finne annet arbeid"
+        },
+        "description": "Acciona saksøkte Nye Veier etter uenighet om det store veiprosjektet i Trøndelag. Torsdag ble det sendt ut en beskjed til flere underentreprenører.",
+        "imageUrl": "3c38d4ef-0d77-4878-9bb7-7008dda6a06c",
+        "publishedAt": "2023-06-23T13:34:17Z",
+        "lastModifiedAt": "2023-06-23T18:36:34Z",
+        "premium": true,
+        "authors": [
+            "Camilla Kilnes",
+            "Kristoffer Furberg",
+            "Truls August Råen"
+        ],
+        "tags": [
+            "e6-2",
+            "acciona",
+            "nye-veier-as"
+        ]
+    },
+    {
+        "slug": "troenderen-laanes-ut-fra-tysk-storklubb",
+        "url": "/sport/fotball/i/BWevXw/troenderen-laanes-ut-fra-tysk-storklubb",
+        "title": {
+            "value": "Trønderen lånes ut fra tysk storklubb"
+        },
+        "description": "Emilie Bragstad skifter beite kommende sesong.",
+        "imageUrl": "3e59fb43-98fe-416e-b33f-b8980a5a164b",
+        "publishedAt": "2023-06-23T13:31:58Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "fotball",
+            "emilie-bragstad",
+            "rosenborg-bk",
+            "norsk-fotball"
+        ]
+    },
+    {
+        "slug": "bruttern-signerer-rbk-talent-tror-han-kan-gaa-omveien-til-toppen",
+        "url": "/sport/fotball/i/69e8VO/bruttern-signerer-rbk-talent-tror-han-kan-gaa-omveien-til-toppen",
+        "title": {
+            "value": "Bruttern signerer RBK-talent: Tror han kan gå «omveien» til toppen"
+        },
+        "description": "19-åringen Lasse Qvigstad har vært på lån til Ranheim siden mars. Det har overbevist Kåre Ingebrigtsen.",
+        "imageUrl": "9718edfc-c693-4d85-9a06-6b84f2fe9364",
+        "publishedAt": "2023-06-23T12:40:05Z",
+        "lastModifiedAt": "2023-06-23T12:57:46Z",
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "kaare-ingebrigtsen",
+            "ranheim-tf",
+            "norsk-fotball",
+            "eliteserien",
+            "obos-ligaen"
+        ]
+    },
+    {
+        "slug": "maalen-stenger-rbks-trening",
+        "url": "/sport/fotball/i/69e83Q/maalen-stenger-rbks-trening",
+        "title": {
+            "value": "- Greit å holde noe for seg selv"
+        },
+        "description": "To dager før sin første RBK-kamp stengte Svein Maalen taktikk-delen av treninga. Det kommer han til å fortsette med.",
+        "imageUrl": "d1c72474-ce6a-4a09-a9d8-e0e76e9ad939",
+        "publishedAt": "2023-06-23T10:42:53Z",
+        "lastModifiedAt": "2023-06-23T13:15:45Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken",
+            "Johannes Strand"
+        ],
+        "tags": [
+            "svein-maalen",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "naa-haaper-jentene-aa-spille-enda-bedre",
+        "url": "/sport/i/zEzVLK/naa-haaper-jentene-aa-spille-enda-bedre",
+        "title": {
+            "value": "Nå håper jentene å spille enda bedre: - Betyr mye"
+        },
+        "description": "Torsdag var det åpning av nytt klubbhus for Jenter 14 og alle andre barn og unge i Romolslia Sportsklubb.",
+        "imageUrl": "c3aa7dfa-f7eb-4295-8824-7f359834e703",
+        "publishedAt": "2023-06-23T09:41:46Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Sissel Lynum"
+        ],
+        "tags": [
+            "fotball",
+            "klubb",
+            "idrettsanlegg",
+            "barn",
+            "trondheim-kommune",
+            "e-sport",
+            "breddefotbaill",
+            "lokalfotballen"
+        ]
+    }
+]

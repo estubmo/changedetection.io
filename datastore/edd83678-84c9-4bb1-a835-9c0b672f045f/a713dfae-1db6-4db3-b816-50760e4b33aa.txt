@@ -1,0 +1,189 @@
+[
+    {
+        "slug": "seriegullet-glapp-ut-av-rbks-egne-hender",
+        "url": "/sport/fotball/i/MoW2gr/seriegullet-glapp-ut-av-rbks-egne-hender",
+        "title": {
+            "value": "Seriegullet glapp ut av RBKs hender"
+        },
+        "description": "RBKs tap for Enga sender hovedstadslaget ni poeng foran Rosenborg i kampen om seriemesterskapet.",
+        "imageUrl": "280689e9-c550-490f-8644-66011a53604b",
+        "publishedAt": "2023-05-27T16:44:56Z",
+        "lastModifiedAt": "2023-05-27T16:48:38Z",
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "toppserien"
+        ]
+    },
+    {
+        "slug": "dobbel-fra-kjoelhamar-for-sverresborg",
+        "url": "/lokalfotballen/i/y6Xpze/dobbel-fra-kjoelhamar-for-sverresborg",
+        "title": {
+            "value": "Dobbel fra Kjølhamar for Sverresborg"
+        },
+        "description": "Hitra gikk på sitt tredje tap på rad da klubben tapte 1-5 for Sverresborg i 4. divisjon, Trøndelag - Avdeling 2 i fotball for menn lørdag. Magnus Kjølhamar scoret to mål.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-27T16:35:52Z",
+        "lastModifiedAt": "2023-05-27T16:35:52Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya"
+        ]
+    },
+    {
+        "slug": "heimdal-seiret-over-levanger-2",
+        "url": "/lokalfotballen/i/76LMPo/heimdal-seiret-over-levanger-2",
+        "title": {
+            "value": "Heimdal slo Levanger 2 på hjemmebane"
+        },
+        "description": "Heimdal banket Levanger 2 3-0 i 4. divisjon, Trøndelag - Avdeling 1 i fotball lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-27T16:29:42Z",
+        "lastModifiedAt": "2023-05-27T16:31:48Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "uavgjort-for-oerland-og-ntnui-i-maalfest",
+        "url": "/lokalfotballen/i/8JW1PW/uavgjort-for-oerland-og-ntnui-i-maalfest",
+        "title": {
+            "value": "Målfest og poengdeling på Gryta kunstgressbane"
+        },
+        "description": "NTNUI var på vei mot seier, men måtte nøye seg med 3-3 mot Ørland i 4. divisjon, Trøndelag - Avdeling 2 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-27T16:29:42Z",
+        "lastModifiedAt": "2023-05-27T16:32:49Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "kokaas-avgjorde-for-vuku",
+        "url": "/lokalfotballen/i/mQanK4/kokaas-avgjorde-for-vuku",
+        "title": {
+            "value": "Kokås senket Charlottenlund"
+        },
+        "description": "Jonas Hågensen Kokås ble matchvinner for Vuku i 1-0-seieren over Charlottenlund på CSK Varmbo Arena i 4. divisjon, Trøndelag - Avdeling 1 i fotball. Vuku har fire seirer på sine fem siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-27T16:17:34Z",
+        "lastModifiedAt": "2023-05-27T16:29:41Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "saether-scoret-hattrick-mot-overhalla",
+        "url": "/lokalfotballen/i/Q7O2gq/saether-scoret-hattrick-mot-overhalla",
+        "title": {
+            "value": "Sæther med målshow"
+        },
+        "description": "Hedda Sæther viste scoringsform da Malvik 2 vant 6-2 over Overhalla i 4. divisjon, Trøndelag - Avdeling 1 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-27T16:14:30Z",
+        "lastModifiedAt": "2023-05-27T16:30:47Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "namsos-senket-av-skeie",
+        "url": "/lokalfotballen/i/BWd2Ml/namsos-senket-av-skeie",
+        "title": {
+            "value": "Rørvik fortsatte seiersrekken"
+        },
+        "description": "Rørvik tok sin fjerde seier på rad med 2-1 over Namsos",
+        "imageUrl": null,
+        "publishedAt": "2023-05-27T16:09:24Z",
+        "lastModifiedAt": "2023-05-27T16:29:42Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "reddet-ett-poeng-etter-hattrick-show-fra-spjoetvold",
+        "url": "/lokalfotballen/i/eJmw7Q/reddet-ett-poeng-etter-hattrick-show-fra-spjoetvold",
+        "title": {
+            "value": "Edvard Leander Spjøtvold sørget for poengdeling"
+        },
+        "description": "KIL/Hemne var på vei mot seier, men måtte nøye seg med 4-4 mot Strindheim 2 i 4. divisjon, Trøndelag - Avdeling 2 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-27T16:08:24Z",
+        "lastModifiedAt": "2023-05-27T16:29:42Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "hoestland-scoret-to-for-flatanger",
+        "url": "/lokalfotballen/i/nQXP1J/hoestland-scoret-to-for-flatanger",
+        "title": {
+            "value": "Nettsus for Høstland"
+        },
+        "description": "Flatanger lå under med to mål, men snudde kampen og vant 3-2 i 4. divisjon, Trøndelag - Avdeling 1 i fotball for menn. Ola Kristian Dahle Høstland scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-27T16:06:22Z",
+        "lastModifiedAt": "2023-05-27T16:29:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "trond-vant-igjen",
+        "url": "/lokalfotballen/i/gEjQw1/trond-vant-igjen",
+        "title": {
+            "value": "Ny seier for Trond"
+        },
+        "description": "Trond vant 3-0 over Ranheim 2 og tok sin fjerde seier på rad i G16 1. divisjon, Avdeling 1 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-27T15:55:03Z",
+        "lastModifiedAt": "2023-05-27T16:01:13Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

@@ -1,0 +1,204 @@
+[
+    {
+        "slug": "mosjoeen-slo-steinkjer-paa-bortebane",
+        "url": "/lokalfotballen/i/l3Xj9y/mosjoeen-slo-steinkjer-paa-bortebane",
+        "title": {
+            "value": "Mosjøen slo Steinkjer på bortebane"
+        },
+        "description": "Mosjøen slo Steinkjer 2-0 på Guldbergaunet Tobb Arena i 3. divisjon, Avdeling 5 mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T15:59:21Z",
+        "lastModifiedAt": "2023-05-29T16:01:29Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "to-fulltreffere-fra-ola-hoeyem-bye",
+        "url": "/lokalfotballen/i/O8P7EO/to-fulltreffere-fra-ola-hoeyem-bye",
+        "title": {
+            "value": "Tomålslykke da Ranheim vant"
+        },
+        "description": "Ola Høyem-Bye scoret to av målene da Ranheim vant 3-1 over Tynset i G14 1. divisjon, Avdeling 2 - Vår mandag. Ranheim har fem seirer på sine seks siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T15:36:01Z",
+        "lastModifiedAt": "2023-05-29T16:02:30Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "straffespark-og-roedt-kort-da-ranheim-tapte-for-start",
+        "url": "/sport/fotball/i/8JWA5W/straffespark-og-roedt-kort-da-ranheim-tapte-for-start",
+        "title": {
+            "value": "Straffespark og rødt kort da Ranheim tapte for Start"
+        },
+        "description": "Et tvilsomt straffespark og et rødt kort like etter hvilen førte til 1-2-tap for Ranheim borte mot Start mandag.",
+        "imageUrl": "44e37598-7b83-4f2d-bb0a-556c33f2c6f1",
+        "publishedAt": "2023-05-29T15:22:17Z",
+        "lastModifiedAt": "2023-05-29T15:33:52Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "fotball",
+            "ranheim",
+            "mads-reginiussen",
+            "rolf-daniel-vikstoel",
+            "strindheim"
+        ]
+    },
+    {
+        "slug": "johnsen-avgjorde-for-tiller",
+        "url": "/lokalfotballen/i/76LA7V/johnsen-avgjorde-for-tiller",
+        "title": {
+            "value": "Johnsen ble helten for Tiller"
+        },
+        "description": "Tiller lå under 1-2, men snudde til 3-2-seier mot Orkla i 3. divisjon, Avdeling 5 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T15:00:04Z",
+        "lastModifiedAt": "2023-05-29T15:31:56Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "tromsdalen-snudde-til-seier",
+        "url": "/lokalfotballen/i/nQXjAa/tromsdalen-snudde-til-seier",
+        "title": {
+            "value": "Tromsdalen snudde til seier mot Stjørdals-Blink"
+        },
+        "description": "Tromsdalen lå under 0-1, men snudde til 3-1-seier over Stjørdals-Blink i 2. divisjon, Avdeling 2 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T13:58:10Z",
+        "lastModifiedAt": "2023-05-29T14:30:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-itromso",
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "holse-gjoer-comeback-for-rbk",
+        "url": "/sport/fotball/i/2BKeMR/holse-gjoer-comeback-for-rbk",
+        "title": {
+            "value": "Brann leder mot RBK i andre omgang"
+        },
+        "description": "RBK jakter revansje i Bergen. Følg kampen i Ivers direkte.",
+        "imageUrl": "53e56b5c-215a-46d3-9340-8788aa24b1dd",
+        "publishedAt": "2023-05-29T13:49:39Z",
+        "lastModifiedAt": "2023-05-29T15:07:25Z",
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "eliteserien"
+        ]
+    },
+    {
+        "slug": "fotballsupportere-hoerer-ikke-hjemme-noe-sted",
+        "url": "/nyheter/innenriks/i/EQ5nrl/fotballsupportere-hoerer-ikke-hjemme-noe-sted",
+        "title": {
+            "value": "Fotballsupportere om slåsskamp: – Hører ikke hjemme noe sted"
+        },
+        "description": "Flere reagerer på slåsskampen mellom det som skal være Brann- og Rosenborg-supportere.",
+        "imageUrl": "620e837e-e1ca-44a5-a8aa-74aa0e2bb475",
+        "publishedAt": "2023-05-29T11:10:27Z",
+        "lastModifiedAt": "2023-05-29T11:10:27Z",
+        "premium": true,
+        "authors": [
+            "Aina Fladset",
+            "Marianne Nilsen"
+        ],
+        "tags": [
+            "bergen",
+            "fotball",
+            "rosenborg",
+            "supporter",
+            "brann"
+        ]
+    },
+    {
+        "slug": "mister-noekkelspiller-maa-tygge-litt-paa-loesningen",
+        "url": "/sport/fotball/i/8JWzPA/mister-noekkelspiller-maa-tygge-litt-paa-loesningen",
+        "title": {
+            "value": "Mister nøkkelspiller:  - Vi må finne ut hva som er best for hele laget"
+        },
+        "description": "Sivert Solli er ute med skade. Det gir Ranheim-treneren en utfordring med laguttaket før kampen mot Start.",
+        "imageUrl": "f948a460-b836-40bf-9f29-bf05ae2c9a40",
+        "publishedAt": "2023-05-29T08:49:44Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "sivert-solli",
+            "kaare-ingebrigtsen",
+            "ranheim-tf",
+            "obos-ligaen"
+        ]
+    },
+    {
+        "slug": "masseslagsmaal-i-sentrum-politiet-mener-fotballsupportere-er-involvert",
+        "url": "/nyheter/innenriks/i/WRd1QL/masseslagsmaal-i-sentrum-politiet-mener-fotballsupportere-er-involvert",
+        "title": {
+            "value": "Fotballsupportere skal ha barket sammen i Bergen: – Det var brutalt"
+        },
+        "description": "Her slåss mennene midt i Bergen sentrum. Politiet mener det er Brann- og Rosenborg-supportere som barker sammen.",
+        "imageUrl": "6b3b8f41-5336-4ddd-9cb3-719e73880ba0",
+        "publishedAt": "2023-05-29T05:20:27Z",
+        "lastModifiedAt": "2023-05-29T05:20:27Z",
+        "premium": true,
+        "authors": [
+            "Per Lindberg",
+            "Marianne Nilsen"
+        ],
+        "tags": [
+            "supporter",
+            "politi-2",
+            "vest-politidistrikt",
+            "sentrum",
+            "bergen"
+        ]
+    },
+    {
+        "slug": "politiet-oppsoekte-mann-med-stor-kjepp-i-hendene",
+        "url": "/nyhetsstudio/i/onBQ0j/politiet-oppsoekte-mann-med-stor-kjepp-i-hendene",
+        "title": {
+            "value": "Politiet oppsøkte mann med stor kjepp i hendene "
+        },
+        "description": null,
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T04:04:54Z",
+        "lastModifiedAt": "2023-05-29T06:33:54Z",
+        "premium": true,
+        "authors": [
+            "Carl Alfred Dahl"
+        ],
+        "tags": []
+    }
+]

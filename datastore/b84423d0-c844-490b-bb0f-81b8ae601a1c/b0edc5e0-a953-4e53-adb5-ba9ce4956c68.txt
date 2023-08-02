@@ -1,0 +1,372 @@
+[
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "bgdbGk",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/bgdbGk",
+        "preamble": "ULLEVAAL (VG) Ståle Solbakken mener det er helt innafor at Erling Braut Haaland får feste etter Champions League-triumfen – kort tid før to viktige landskamper.",
+        "published": {
+            "date": "mandag 12. juni",
+            "datetime": "2023-06-12 11:41:37",
+            "niceformat": "12.06.2023, 11:41",
+            "timestamp": "2023-06-12T09:41:37.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a4b15c2b-cc8d-4485-8925-ba2dd4ba144a?fit=crop&format=auto&h=267&w=400&s=461bd7faa7c775d29ed3050bc6c24bd7977e3a68",
+            "width": 400
+        },
+        "title": "Solbakken godtar Haaland-festing: – Bør ha tatt sin siste cocktail i kveld",
+        "url": "https://www.vg.no/sport/fotball/i/bgdbGk/solbakken-godtar-haaland-festing-foer-landskampene-boer-ha-tatt-sin-siste-cocktail-i-kveld"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jlMnjw",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jlMnjw",
+        "preamble": "En av Russlands mest kjente fotballspillere, Artjom Dzjuba (34), sier at han ble presset for penger av personer som nå har lagt en intim-video med stjernen ut på nettet.",
+        "published": {
+            "date": "mandag 12. juni",
+            "datetime": "2023-06-12 10:48:17",
+            "niceformat": "12.06.2023, 10:48",
+            "timestamp": "2023-06-12T08:48:17.000Z"
+        },
+        "thumbnail": {
+            "height": 244,
+            "url": "https://akamai.vgc.no/v2/images/9b8c82f0-8286-449d-af2b-fbb89864b738?fit=crop&format=auto&h=244&w=400&s=b72039c2898954dd292e4a3d64ec034c1653cccd",
+            "width": 400
+        },
+        "title": "Ny intim-video av russisk fotballstjerne lekket: – Jeg ble truet",
+        "url": "https://www.vg.no/sport/fotball/i/jlMnjw/ny-intim-video-av-russisk-fotballstjerne-lekket-jeg-ble-truet"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPLMbl",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPLMbl",
+        "preamble": "Hugo Vetlesen (23) skal være på vei til Club Brugge, ifølge TV 2. Den belgiske klubben trenes av Ronny Deila. ",
+        "published": {
+            "date": "mandag 12. juni",
+            "datetime": "2023-06-12 10:43:29",
+            "niceformat": "12.06.2023, 10:43",
+            "timestamp": "2023-06-12T08:43:29.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/2102532e-dcb2-4f42-9fdd-acd98f264c78?fit=crop&format=auto&h=266&w=400&s=edd9cceaf7dcd7897957946436f07f523e61aa57",
+            "width": 400
+        },
+        "title": "Vetlesen på vei bort fra Bodø/Glimt – har dratt på legesjekk",
+        "url": "https://www.vg.no/sport/fotball/i/VPLMbl/vetlesen-paa-vei-bort-fra-bodoe-glimt-har-dratt-paa-legesjekk"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwzBKw",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwzBKw",
+        "preamble": "Odin Thiago Holm (20) kan være på vei til Celtic.",
+        "published": {
+            "date": "mandag 12. juni",
+            "datetime": "2023-06-12 09:46:53",
+            "niceformat": "12.06.2023, 09:46",
+            "timestamp": "2023-06-12T07:46:53.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/19d5b4f1-fb75-46d8-a138-4b7c2fe71dd3?fit=crop&format=auto&h=266&w=400&s=d05a7d615a1f441ea4e4b9148c037074f630a399",
+            "width": 400
+        },
+        "title": "Opplysninger til VG: Vålerenga forhandler om Thiago Holm-salg",
+        "url": "https://www.vg.no/sport/fotball/i/dwzBKw/opplysninger-til-vg-vaalerenga-forhandler-om-thiago-holm-salg"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "y6ynGx",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/y6ynGx",
+        "preamble": "Norges Fotballforbund vil blant annet etablere et sluttspill for de beste kvinnelagene i Norden med Oslo som vertsby. ",
+        "published": {
+            "date": "mandag 12. juni",
+            "datetime": "2023-06-12 08:45:47",
+            "niceformat": "12.06.2023, 08:45",
+            "timestamp": "2023-06-12T06:45:47.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/25bc1138-3a5b-4027-98e9-6b838f53280d?fit=crop&format=auto&h=267&w=400&s=c787c1e1f73d66055c99b125764e71173ccbea44",
+            "width": 400
+        },
+        "title": "NFF ønsker ny turnering og nye rekorder: Søker Oslo om 23 mill.",
+        "url": "https://www.vg.no/sport/fotball/i/y6ynGx/nff-oensker-ny-turnering-og-nye-rekorder-soeker-oslo-om-23-mill"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kE1LkA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kE1LkA",
+        "preamble": "For første gang kommenterte en kvinne Champions League-finalen i fotball for menn på tysk TV. Det endte med skjellsord, hat og en sexistisk drittstorm, beskriver TV-kanalen ZDF selv.",
+        "published": {
+            "date": "mandag 12. juni",
+            "datetime": "2023-06-12 07:47:00",
+            "niceformat": "12.06.2023, 07:47",
+            "timestamp": "2023-06-12T05:47:00.000Z"
+        },
+        "thumbnail": {
+            "height": 274,
+            "url": "https://akamai.vgc.no/v2/images/ec467286-5887-4023-86c1-11e83f485c15?fit=crop&format=auto&h=274&w=400&s=74bff5941504a1aa4aa6c401ebab1ff342929f95",
+            "width": 400
+        },
+        "title": "Kvinne kommenterte Champions League-finalen - møtt med hat",
+        "url": "https://www.vg.no/sport/fotball/i/kE1LkA/kvinne-kommenterte-champions-league-finalen-moett-med-hat"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3E7wWM",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3E7wWM",
+        "preamble": "Viking tok sin første ligaseier på tre kamper med 3-1 borte mot Sarpsborg i Eliteserien søndag kveld.",
+        "published": {
+            "date": "søndag 11. juni",
+            "datetime": "2023-06-11 22:59:09",
+            "niceformat": "11.06.2023, 22:59",
+            "timestamp": "2023-06-11T20:59:09.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/cnZBSAAJ_66F.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Viking tilbake på vinnersporet – slo Sarpsborg 3-1 på bortebane",
+        "url": "https://www.vg.no/sport/fotball/i/3E7wWM/viking-tilbake-paa-vinnersporet-slo-sarpsborg-3-1-paa-bortebane"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "mQWn9p",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/mQWn9p",
+        "preamble": "Vegard Erlien scoret to ganger da Tromsø vendte til 3-2-seier borte mot Aalesund og befestet 3.-plassen på eliteserietabellen.",
+        "published": {
+            "date": "søndag 11. juni",
+            "datetime": "2023-06-11 20:19:42",
+            "niceformat": "11.06.2023, 20:19",
+            "timestamp": "2023-06-11T18:19:42.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/WP7HkORQbk32.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Erlien-dobbel da medaljejagende TIL vant igjen",
+        "url": "https://www.vg.no/sport/fotball/i/mQWn9p/erlien-dobbel-da-medaljejagende-til-vant-igjen"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GM82bV",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GM82bV",
+        "preamble": "Bodø/Glimt-trener Kjetil Knutsens samtaler med den nederlandske klubben Ajax er over, det skriver nederlandsk storavis.",
+        "published": {
+            "date": "søndag 11. juni",
+            "datetime": "2023-06-11 20:00:21",
+            "niceformat": "11.06.2023, 20:00",
+            "timestamp": "2023-06-11T18:00:21.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/8cdad9e2-c1aa-417f-bb12-87cf9b163587?fit=crop&format=auto&h=267&w=400&s=9c6f5499da5143b56fe77a443b58b291507100bf",
+            "width": 400
+        },
+        "title": "Avis: Ingen Ajax-avtale med Knutsen",
+        "url": "https://www.vg.no/sport/fotball/i/GM82bV/ingen-ajax-avtale-med-knutsen"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJ0wJ9",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJ0wJ9",
+        "preamble": "BEKKESTUA (VG) (Stabæk-RBK 2–2) Stjernespiller Carlo Holse (24) reddet ett poeng for Rosenborg, men presset vedvarer for trener Kjetil Rekdal (54) etter nok et skuffende resultat.",
+        "published": {
+            "date": "søndag 11. juni",
+            "datetime": "2023-06-11 18:58:35",
+            "niceformat": "11.06.2023, 18:58",
+            "timestamp": "2023-06-11T16:58:35.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/489cafeb-e7a9-463a-ae26-cabebf04eb47?fit=crop&format=auto&h=267&w=400&s=674f01ea6bbbee8298b0817d25a893135ebba555",
+            "width": 400
+        },
+        "title": "RBK-krisen forlenget mot Stabæk: – Det er ubehagelig",
+        "url": "https://www.vg.no/sport/fotball/i/eJ0wJ9/rbk-krisen-forlenget-mot-stabaek"
+    }
+]

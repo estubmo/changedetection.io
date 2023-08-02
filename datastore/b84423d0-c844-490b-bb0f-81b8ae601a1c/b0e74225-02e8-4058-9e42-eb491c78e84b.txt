@@ -1,0 +1,377 @@
+[
+    {
+        "authors": [
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            },
+            {
+                "email": "vegard.aulstad@vg.no",
+                "id": "32320ac9-8b78-4d86-b923-ee64dc408816",
+                "name": "Vegard Aulstad"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3am19",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3am19",
+        "preamble": "TRONDHEIM (VG) Svein Maalen (45) fikk en brutal debut som Rosenborg-trener. Nå advarer Adressa-kommentator Birger Løfaldli mot nedrykksstrid i Trondheim.",
+        "published": {
+            "date": "søndag 25. juni",
+            "datetime": "2023-06-25 23:29:52",
+            "niceformat": "25.06.2023, 23:29",
+            "timestamp": "2023-06-25T21:29:52.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/17eaf455-0ff6-481a-8e04-b6fa2e8f79b4?fit=crop&format=auto&h=267&w=400&s=308e7af28fbf04baa5b8d864f71c3b18b6608474",
+            "width": 400
+        },
+        "title": "Advarer mot nedrykksstrid etter Maalen-debut: − Det tåler ikke Rosenborg",
+        "url": "https://www.vg.no/sport/fotball/i/l3am19/eliteserien-advarer-mot-nedrykksstrid-etter-svein-maalen-debut-det-taaler-ikke-rosenborg"
+    },
+    {
+        "authors": [
+            {
+                "email": "svea@vg.no",
+                "id": "f852e5e5-5ba9-48c7-96da-9455a160031f",
+                "name": "Knut Espen Svegaarden"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEx13J",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEx13J",
+        "preamble": "(Norge-Frankrike 0–1) Norge kom seg til U-EM på overtid. Da er det kanskje ikke så rart at Leif Gunnar Smeruds lag er litt for dårlige i alt - og trolig ryker ut av mesterskapet på onsdag.",
+        "published": {
+            "date": "søndag 25. juni",
+            "datetime": "2023-06-25 23:09:07",
+            "niceformat": "25.06.2023, 23:09",
+            "timestamp": "2023-06-25T21:09:07.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/61faf35d-94f7-44ec-8586-3b7f26f8338c?fit=crop&format=auto&h=267&w=400&s=8b36d88aaf56ba27011d3f74ed1f8b9f2c264aec",
+            "width": 400
+        },
+        "title": "Litt for dårlige i alt – inkludert flaks",
+        "url": "https://www.vg.no/sport/fotball/i/gEx13J/litt-for-daarlige-i-alt-inkludert-flaks"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "mQxE50",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/mQxE50",
+        "preamble": "Franske Reims benytter seg ikke av opsjonen på Noah Holm. Dermed returnerer 22-åringen til Rosenborg.",
+        "published": {
+            "date": "søndag 25. juni",
+            "datetime": "2023-06-25 22:51:20",
+            "niceformat": "25.06.2023, 22:51",
+            "timestamp": "2023-06-25T20:51:20.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/9cfa062b-b9ff-43ee-ab72-fc01c467ae62?fit=crop&format=auto&h=267&w=400&s=5f62dfa76cc0d13f6e128a7905dc7e84441389b6",
+            "width": 400
+        },
+        "title": "Noah Holm returnerer til Rosenborg",
+        "url": "https://www.vg.no/sport/fotball/i/mQxE50/noah-holm-returnerer-til-rosenborg"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "LlXQ61",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/LlXQ61",
+        "preamble": "Viktor Hovland gikk den siste runden av PGA-turneringen i Connecticut på fire slag under par og endte delt 29.-plass.",
+        "published": {
+            "date": "søndag 25. juni",
+            "datetime": "2023-06-25 22:50:25",
+            "niceformat": "25.06.2023, 22:50",
+            "timestamp": "2023-06-25T20:50:25.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/23ffb4c0-acad-4ef3-bbb1-d4604db9026c?fit=crop&format=auto&h=267&w=400&s=101946c118d9b35a7ac68054f1d2137cb16832c5",
+            "width": 400
+        },
+        "title": "Solid avslutning for Hovland i Connecticut",
+        "url": "https://www.vg.no/sport/fotball/i/LlXQ61/solid-avslutning-for-hovland-i-connecticut"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            },
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76ooE3",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76ooE3",
+        "preamble": "CLUJ (VG) (Norge-Frankrike 0–1) Norge står med to tap - men har fortsatt  muligheten til å gå videre i U21-EM.  Målvakt  Kristoffer Klaesson (22) var nær ved å utligne da han gikk i angrep på overtid.",
+        "published": {
+            "date": "søndag 25. juni",
+            "datetime": "2023-06-25 22:35:39",
+            "niceformat": "25.06.2023, 22:35",
+            "timestamp": "2023-06-25T20:35:39.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/ZLptuAjBfF1N.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Rekdal etter to tap i EM: – Norge kunne hatt fire poeng",
+        "url": "https://www.vg.no/sport/fotball/i/76ooE3/rekdal-etter-to-tap-i-em-norge-kunne-hatt-fire-poeng"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            },
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69eeGr",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69eeGr",
+        "preamble": "DRAMMEN (VG) (Strømsgodset – Bodø/Glimt 2–0) Bodø/Glimt-trener Kjetil Knutsen er langt fra fornøyd med VAR etter at Strømsgodset påførte serielederne sesongens første tap i Eliteserien.",
+        "published": {
+            "date": "søndag 25. juni",
+            "datetime": "2023-06-25 21:13:28",
+            "niceformat": "25.06.2023, 21:13",
+            "timestamp": "2023-06-25T19:13:28.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/58d892d5-49c9-4b60-89f9-5944deddd4ae?fit=crop&format=auto&h=267&w=400&s=cdd83ceae65d6a7462309a92d8773c9e15a4f405",
+            "width": 400
+        },
+        "title": "Knutsen raser mot VAR etter årets første tap: – Helt ufattelig",
+        "url": "https://www.vg.no/sport/fotball/i/69eeGr/braut-brunes-og-gulliksen-paafoerte-bodoe-glimt-aarets-foerste-tap"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kExPJ9",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kExPJ9",
+        "preamble": "Odd-spiller Leon Hien fikk en brusflaske kastet mot seg med storm kraft etter at han ble matchvinner borte mot HamKam. ",
+        "published": {
+            "date": "søndag 25. juni",
+            "datetime": "2023-06-25 20:47:52",
+            "niceformat": "25.06.2023, 20:47",
+            "timestamp": "2023-06-25T18:47:52.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6465ca0e-666b-4f3e-af21-20f5c4f3b3f3?fit=crop&format=auto&h=267&w=400&s=ae0b930bfae24b555f5a1cbb1b3a45cf1e1a99dc",
+            "width": 400
+        },
+        "title": "Kastet flaske mot Odds matchvinner",
+        "url": "https://www.vg.no/sport/fotball/i/kExPJ9/kastet-flaske-mot-odds-matchvinner"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jlxx6o",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jlxx6o",
+        "preamble": "Den senegalesiske midtstopperen Kalidou Koulibaly er klar for den saudiarabiske fotballklubben Al-Hilal.",
+        "published": {
+            "date": "søndag 25. juni",
+            "datetime": "2023-06-25 19:43:27",
+            "niceformat": "25.06.2023, 19:43",
+            "timestamp": "2023-06-25T17:43:27.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/963657ac-2d6a-4633-9c2a-3c1ea229a990?fit=crop&format=auto&h=267&w=400&s=5ce598045bf6fab7eb7c3848523a6c2b057d02be",
+            "width": 400
+        },
+        "title": "Ny Chelsea-stjerne klar for saudiarabisk fotball",
+        "url": "https://www.vg.no/sport/fotball/i/jlxx6o/ny-chelsea-stjerne-klar-for-saudiarabisk-fotball"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "veGGa5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/veGGa5",
+        "preamble": "(HamKam – Odd 0–1) Debutant og innbytter Leon Hien (22) ble dagens mann da Odd slo HamKam på bortebane i Eliteserien.",
+        "published": {
+            "date": "søndag 25. juni",
+            "datetime": "2023-06-25 19:11:57",
+            "niceformat": "25.06.2023, 19:11",
+            "timestamp": "2023-06-25T17:11:57.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/84057851-29a0-466a-8770-6788dccf58fb?fit=crop&format=auto&h=267&w=400&s=96df5adf58faa499310eae7770b865506050479b",
+            "width": 400
+        },
+        "title": "Debutant fikset heldig Odd-seier på Hamar",
+        "url": "https://www.vg.no/sport/fotball/i/veGGa5/debutant-fikset-heldig-odd-seier-paa-hamar"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "y6JJjg",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/y6JJjg",
+        "preamble": "(Molde-FK Haugesund 1–0) Molde er inne i en skjebneuke. Det åpnet bra søndag med 1–0 på Røkke-løkka. Uten flere av sine største stjerner.  Det ble drama på overtid da Haugesunds Sory Ibrahim Diarra (23) fikk direkte rødt kort.",
+        "published": {
+            "date": "søndag 25. juni",
+            "datetime": "2023-06-25 18:56:35",
+            "niceformat": "25.06.2023, 18:56",
+            "timestamp": "2023-06-25T16:56:35.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ea50e7f8-917b-4040-a779-2e217354679c?fit=crop&format=auto&h=267&w=400&s=7625f4c71fb0aa31885ac55e1c1bc7eedb3f5141",
+            "width": 400
+        },
+        "title": "Rødt kort på overtid da Molde startet skjebneuken med seier over Haugesund",
+        "url": "https://www.vg.no/sport/fotball/i/y6JJjg/roedt-kort-paa-overtid-da-molde-startet-skjebneuken-med-seier-over-haugesund"
+    }
+]

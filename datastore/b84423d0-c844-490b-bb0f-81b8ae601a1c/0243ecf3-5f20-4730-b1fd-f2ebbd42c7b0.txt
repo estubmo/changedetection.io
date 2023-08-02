@@ -1,0 +1,373 @@
+[
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJRQ3g",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJRQ3g",
+        "preamble": "KROATIA (VG) Lucas Hernández (27) reiser tilbake til hjemlandet og fortsetter karrieren i Paris Saint-Germain.",
+        "published": {
+            "date": "søndag 9. juli",
+            "datetime": "2023-07-09 14:11:22",
+            "niceformat": "09.07.2023, 14:11",
+            "timestamp": "2023-07-09T12:11:22.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/58fe8573-0e58-4507-a675-8481c7a2baa3?fit=crop&format=auto&h=267&w=400&s=a93a17b19300ada4d51e5546bf889020fb760e2b",
+            "width": 400
+        },
+        "title": "Lucas Hernández klar for PSG: – Endelig",
+        "url": "https://www.vg.no/sport/fotball/i/eJRQ3g/hernandez-klar-for-psg"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9zWwXw",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9zWwXw",
+        "preamble": "Tidligere Manchester City- og Chelsea-keeper Willy Caballero skal inn i Leicesters støtteapparat i jakten på en rask retur til Premier League.",
+        "published": {
+            "date": "søndag 9. juli",
+            "datetime": "2023-07-09 13:28:24",
+            "niceformat": "09.07.2023, 13:28",
+            "timestamp": "2023-07-09T11:28:24.000Z"
+        },
+        "thumbnail": {
+            "height": 278,
+            "url": "https://akamai.vgc.no/v2/images/0ea27779-cad2-45dc-b84b-94a2b09bc330?fit=crop&format=auto&h=278&w=400&s=8d1435ae47d217318283073674337b713c578194",
+            "width": 400
+        },
+        "title": "Leicester ansetter tidligere City-keeper som assistenttrener",
+        "url": "https://www.vg.no/sport/fotball/i/9zWwXw/leicester-ansetter-tidligere-city-keeper-som-assistenttrener"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            },
+            {
+                "email": "kristine.bechmann.holter@schibsted.no",
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JL1XQ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JL1XQ",
+        "preamble": "Dårlige spillerkjøp. Identitetskrise. Et styre uten sportslig kompetanse. Vålerenga får krass kritikk av sine gamle helter Vidar Davidsen (65) og Kjetil Wæhler (47).",
+        "published": {
+            "date": "søndag 9. juli",
+            "datetime": "2023-07-09 12:33:40",
+            "niceformat": "09.07.2023, 12:33",
+            "timestamp": "2023-07-09T10:33:40.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/1055bbfc-27c8-48ad-b033-534923bacd06?fit=crop&format=auto&h=267&w=400&s=6d5322771eecdecb1a2594bba577a7f2a5b76b37",
+            "width": 400
+        },
+        "title": "Vålerenga-helter kritiserer klubbens strategi: – Identitetsløse",
+        "url": "https://www.vg.no/sport/fotball/i/8JL1XQ/eliteserien-vidar-davidsen-og-kjetil-waehler-retter-kritikk-mot-vaalerenga"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "RGn76x",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/RGn76x",
+        "preamble": "Luis Suárez Miramontes, som er den eneste spansk fødte mannlige fotballspilleren som har vunnet Ballon d'Or, døde søndag. Han ble 88 år gammel.",
+        "published": {
+            "date": "søndag 9. juli",
+            "datetime": "2023-07-09 11:01:57",
+            "niceformat": "09.07.2023, 11:01",
+            "timestamp": "2023-07-09T09:01:57.000Z"
+        },
+        "thumbnail": {
+            "height": 461,
+            "url": "https://akamai.vgc.no/v2/images/f7778fce-526d-470d-bb8d-460f5229435a?fit=crop&format=auto&h=461&w=400&s=b4a863501dab08b0ba42f1e4de907d1c9c7e5712",
+            "width": 400
+        },
+        "title": "Spansk Gullballen-vinner døde 88 år gammel",
+        "url": "https://www.vg.no/sport/fotball/i/RGn76x/spansk-em-vinner-doede-88-aar-gammel"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "email": "magnus.helle@schibsted.com",
+                "id": "465b91ad-0c13-4b04-8be8-4dbb0cc0080a",
+                "name": "Magnus Helle"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "nQr2md",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/nQr2md",
+        "preamble": "(England – Spania 1–0) Over åtte minutter på overtid fikk Spania muligheten til å sikre ekstraomganger mot England i EM-finalen for U21-landslag. Midt i dramaet: Den norske dommeren Espen Eskås.",
+        "published": {
+            "date": "lørdag 8. juli",
+            "datetime": "2023-07-08 20:04:20",
+            "niceformat": "08.07.2023, 20:04",
+            "timestamp": "2023-07-08T18:04:20.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ef9d15a1-f3df-4343-a2ab-e529e92e45bc?fit=crop&format=auto&h=267&w=400&s=dd047223822a7eb1f20ae79cb4799e8d36395ace",
+            "width": 400
+        },
+        "title": "Straffedrama da England vant U21-EM – Eskås ga fire røde kort",
+        "url": "https://www.vg.no/sport/fotball/i/nQr2md/u21-em-liverpools-curtis-jones-ble-matchvinner-for-england-i-u21-em-finalen-mot-spania"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3m2Eo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3m2Eo",
+        "preamble": "(AIK - BK Häcken 1–2) Henning Berg (53) fikk ingen drømmestart som AIK-trener. Per-Mathias Høgmos Häcken snudde kampen og spolerte Bergs Allsvenskan-debut.",
+        "published": {
+            "date": "lørdag 8. juli",
+            "datetime": "2023-07-08 16:59:47",
+            "niceformat": "08.07.2023, 16:59",
+            "timestamp": "2023-07-08T14:59:47.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6f6a5cea-1ef8-48fb-963b-2a4f58628cf6?fit=crop&format=auto&h=267&w=400&s=d0e27b72e54d8f0f58c35f8fc55f7917569d4dde",
+            "width": 400
+        },
+        "title": "Henning Berg med tap i AIK-debuten: – Marerittstart",
+        "url": "https://www.vg.no/sport/fotball/i/l3m2Eo/allsvenskan-henning-berg-med-tap-sin-foerste-kamp-som-aik-trener"
+    },
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQkeoj",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQkeoj",
+        "preamble": "Etter 12 år i klubben er David de Gea (32) ferdig i Manchester United.",
+        "published": {
+            "date": "lørdag 8. juli",
+            "datetime": "2023-07-08 15:34:19",
+            "niceformat": "08.07.2023, 15:34",
+            "timestamp": "2023-07-08T13:34:19.000Z"
+        },
+        "thumbnail": {
+            "height": 261,
+            "url": "https://akamai.vgc.no/v2/images/2a609ccb-ebbd-40e2-bda9-7bf7ccb3a0b7?fit=crop&format=auto&h=261&w=400&s=90018af893ab6ab4c8e7f605891eb4b545e67e32",
+            "width": 400
+        },
+        "title": "De Gea forlater Manchester United: – Vil alltid være i hjertet mitt",
+        "url": "https://www.vg.no/sport/fotball/i/EQkeoj/de-gea-bekrefter-forlater-united"
+    },
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69MRa3",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69MRa3",
+        "preamble": "Christian Borchgrevink (24) er endelig tilbake i Vålerenga-troppen før søndagens bortekamp mot Tromsø.",
+        "published": {
+            "date": "lørdag 8. juli",
+            "datetime": "2023-07-08 12:53:09",
+            "niceformat": "08.07.2023, 12:53",
+            "timestamp": "2023-07-08T10:53:09.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/e40e86de-57b8-4130-8d5e-e4d6604f874d?fit=crop&format=auto&h=267&w=400&s=9c0844f6fac44d79458a6028d86646a743f83a7e",
+            "width": 400
+        },
+        "title": "Borchgrevink i sin første Vålerenga-tropp på halvannet år",
+        "url": "https://www.vg.no/sport/fotball/i/69MRa3/borchgrevink-i-sin-foerste-vaalerenga-tropp-paa-halvannet-aar"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAJGL1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAJGL1",
+        "preamble": "Den mangeårige Chelsea-kapteinen John Terry er tilbake i arbeid i klubbens akademi etter et kort opphold som assistenttrener i Leicester.",
+        "published": {
+            "date": "lørdag 8. juli",
+            "datetime": "2023-07-08 10:03:36",
+            "niceformat": "08.07.2023, 10:03",
+            "timestamp": "2023-07-08T08:03:36.000Z"
+        },
+        "thumbnail": {
+            "height": 276,
+            "url": "https://akamai.vgc.no/v2/images/53dbba66-769a-4985-8bd9-15d8ec136db3?fit=crop&format=auto&h=276&w=400&s=06cbe8f321b983cd5194156965b2400d3211b783",
+            "width": 400
+        },
+        "title": "John Terry tilbake i Chelsea",
+        "url": "https://www.vg.no/sport/fotball/i/wAJGL1/john-terry-tilbake-i-chelsea"
+    },
+    {
+        "authors": [
+            {
+                "email": "kristine.bechmann.holter@schibsted.no",
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            },
+            {
+                "id": "d27d8a2b-cf3c-4743-a55c-8c46458fde28",
+                "name": "Geir Juva"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "XbOoox",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/XbOoox",
+        "preamble": "13 kamper er spilt og Rosenborg har ikke sett dårligere ut siden forrige gang laget rykket ned. Kan historien gjenta seg? ",
+        "published": {
+            "date": "lørdag 8. juli",
+            "datetime": "2023-07-08 03:32:44",
+            "niceformat": "08.07.2023, 03:32",
+            "timestamp": "2023-07-08T01:32:44.000Z"
+        },
+        "thumbnail": {
+            "height": 261,
+            "url": "https://akamai.vgc.no/v2/images/1613b0f7-6352-485d-89b2-9d87c5d856e5?fit=crop&format=auto&h=261&w=400&s=f43c779fa39f497f32ed0f4b284f01586b63de1c",
+            "width": 400
+        },
+        "title": "Marerittstarten verst på 46 år: – Som gammel spiller smerter det ",
+        "url": "https://www.vg.no/sport/fotball/i/XbOoox/eliteserien-den-grusomme-rbk-starten-som-gammel-spiller-smerter-det"
+    }
+]

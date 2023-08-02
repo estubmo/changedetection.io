@@ -1,0 +1,196 @@
+[
+    {
+        "slug": "knusende-seier-for-neset",
+        "url": "/lokalfotballen/i/rlbakK/knusende-seier-for-neset",
+        "title": {
+            "value": "Knusende seier for Neset"
+        },
+        "description": "Neset knuste Vuku 2/Leksdal 2 8-1 i 6. divisjon, Trøndelag - Avdeling 2 i fotball mandag. Neset har tatt poeng i sine seks siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T20:12:59Z",
+        "lastModifiedAt": "2023-05-15T20:12:59Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "bygg-brakker-til-rosenborg-skole-naa",
+        "url": "/meninger/i/y6bmbr/bygg-brakker-til-rosenborg-skole-naa",
+        "title": {
+            "value": "Bygg brakker til Rosenborg skole, nå!"
+        },
+        "description": null,
+        "imageUrl": "897673fc-55f8-448c-8aa8-c3ea4cd564a4",
+        "publishedAt": "2023-05-15T20:12:26Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "FAU v/Singsaker skole"
+        ],
+        "tags": [
+            "debatt",
+            "skole-og-utdanning",
+            "trondheim",
+            "skole-2",
+            "skolestart",
+            "ungdomsskolen",
+            "boligbygging",
+            "elev"
+        ]
+    },
+    {
+        "slug": "scoringslykke-for-lange",
+        "url": "/lokalfotballen/i/dwpA6J/scoringslykke-for-lange",
+        "title": {
+            "value": "Scoringslykke for Lange"
+        },
+        "description": "Øystein Morken Lange sto fram med to scoringer da Ålen vant 5-1 over Tolga-Vingelen i 5. divisjon, Trøndelag - Avdeling 3 i fotball mandag. Tolga-Vingelen har tapt sine fire siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T20:09:54Z",
+        "lastModifiedAt": "2023-05-15T20:09:54Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "maalene-rant-inn-for-henden",
+        "url": "/lokalfotballen/i/VPpnWl/maalene-rant-inn-for-henden",
+        "title": {
+            "value": "Målene rant inn for Henden"
+        },
+        "description": "Sindre Hernes Henden sto fram med fire scoringer da Levangerstudentene seiret 10-0 over Bangsund i 5. divisjon, Trøndelag - Avdeling 1 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T20:08:47Z",
+        "lastModifiedAt": "2023-05-15T20:08:47Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "nardo-slo-levanger-i-maalfest",
+        "url": "/lokalfotballen/i/eJXp9g/nardo-slo-levanger-i-maalfest",
+        "title": {
+            "value": "Nardo slo Levanger i målfest"
+        },
+        "description": "Sara Norvik førte an med to av målene i 4-2-seieren over Levanger i 3. divisjon, Trøndelag i fotball. Det var Levangers tredje nederlag på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T20:07:32Z",
+        "lastModifiedAt": "2023-05-15T20:07:32Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "brakseier-for-beitstad",
+        "url": "/lokalfotballen/i/WR3Pwd/brakseier-for-beitstad",
+        "title": {
+            "value": "Brakseier for Beitstad"
+        },
+        "description": "Joakim Lind Tangstad sto fram med to scoringer da Beitstad seiret 4-0 over Sørlia/Innherred 2 i 6. divisjon, Trøndelag - Avdeling 1 i fotball mandag. Sørlia/Innherred 2 har tapt sine fire første kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T20:06:29Z",
+        "lastModifiedAt": "2023-05-15T20:06:29Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "nettsus-for-jule",
+        "url": "/lokalfotballen/i/wAboan/nettsus-for-jule",
+        "title": {
+            "value": "Nettsus for Jule"
+        },
+        "description": "Sparbu knuste Snåsa 3-0 i 6. divisjon, Trøndelag - Avdeling 1 i fotball. Sindre Oslo Jule scoret to ganger. Snåsa har gått poengløse av banen i to strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T20:06:28Z",
+        "lastModifiedAt": "2023-05-15T20:06:28Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "ranheim-seiret-borte-mot-steinkjer",
+        "url": "/lokalfotballen/i/76QaW3/ranheim-seiret-borte-mot-steinkjer",
+        "title": {
+            "value": "Ranheim seiret borte mot Steinkjer"
+        },
+        "description": "Ranheim fikk med seg tre poeng da Steinkjer ble slått 4-0 i G19 Elite, Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T20:05:19Z",
+        "lastModifiedAt": "2023-05-15T20:05:19Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "norah-bye-olsen-berget-poeng-for-orkla",
+        "url": "/lokalfotballen/i/q1bo5o/norah-bye-olsen-berget-poeng-for-orkla",
+        "title": {
+            "value": "Norah Bye Olsen reddet poeng for Orkla"
+        },
+        "description": "KIL/Hemne var på vei mot seier, men måtte nøye seg med 2-2 mot Orkla Det satte en stopper for Orklas seiersrekke på tre kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T19:51:56Z",
+        "lastModifiedAt": "2023-05-15T19:57:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "trygg-lade-seier-over-nidelv",
+        "url": "/lokalfotballen/i/RGqMW8/trygg-lade-seier-over-nidelv",
+        "title": {
+            "value": "Trygg/Lade seiret hjemme mot Nidelv"
+        },
+        "description": "Trygg/Lade knuste Nidelv 3-0 i 4. divisjon, Trøndelag - Avdeling 1 i fotball mandag. Trygg/Lade har vunnet sine tre siste hjemmekamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T19:49:52Z",
+        "lastModifiedAt": "2023-05-15T19:51:55Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

@@ -1,0 +1,376 @@
+[
+    {
+        "authors": [
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kEXMqa",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kEXMqa",
+        "preamble": "Landslagssjef Ståle Solbakken (55) flytter hjem til Norge og Hamar. ",
+        "published": {
+            "date": "tirsdag 23. mai",
+            "datetime": "2023-05-23 10:39:09",
+            "niceformat": "23.05.2023, 10:39",
+            "timestamp": "2023-05-23T08:39:09.000Z"
+        },
+        "thumbnail": {
+            "height": 262,
+            "url": "https://akamai.vgc.no/v2/images/ff9fd338-2443-460e-b374-634460e4bfa7?fit=crop&format=auto&h=262&w=400&s=38a5b3198cb18b02eb65e5511fd4eaf6ca510696",
+            "width": 400
+        },
+        "title": "Ståle Solbakken: Flytter fra Danmark",
+        "url": "https://www.vg.no/sport/fotball/i/kEXMqa/staale-solbakken-flytter-fra-danmark"
+    },
+    {
+        "authors": [
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4mvm7",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4mvm7",
+        "preamble": "Fire personer er arrestert mistenkt for rasisme mot Real Madrids Vinicíus Júnior (22), melder spansk politi. I Brasil slo de av lyset i Kristus-statuen for å vise støtte til sin stjernespiller. ",
+        "published": {
+            "date": "tirsdag 23. mai",
+            "datetime": "2023-05-23 09:39:36",
+            "niceformat": "23.05.2023, 09:39",
+            "timestamp": "2023-05-23T07:39:36.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ef12453d-9384-4c21-8057-5717eccb419b?fit=crop&format=auto&h=267&w=400&s=bd5b3f3311161de4d76e1c15ae80f35ce5f5cbc0",
+            "width": 400
+        },
+        "title": "Hengte dukke med Vinicíus-drakt: Fire arrestert for hat-kriminalitet",
+        "url": "https://www.vg.no/sport/fotball/i/P4mvm7/vinicius-fire-arrestert-for-hat-kriminalitet"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMKrVl",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMKrVl",
+        "preamble": "Marcus og Martinus kunne glede seg over opprykk til 3.divisjon med sitt Mosjøen sist høst. Treneren innrømmer at mulighetene er minimale når selveste Bodø/Glimt er cupgjest denne uken.",
+        "published": {
+            "date": "tirsdag 23. mai",
+            "datetime": "2023-05-23 07:20:35",
+            "niceformat": "23.05.2023, 07:20",
+            "timestamp": "2023-05-23T05:20:35.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/42743a3d-d054-475b-a1eb-eb8455616584?fit=crop&format=auto&h=267&w=400&s=d1b26b9b2fd29d5c93500377db8643ef5bdd8d25",
+            "width": 400
+        },
+        "title": "Tøff oppgave for Marcus og Martinus: Bodø/Glimt i NM",
+        "url": "https://www.vg.no/sport/fotball/i/GMKrVl/toeff-oppgave-for-marcus-og-martinus-bodoe-glimt-i-nm"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9znk09",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9znk09",
+        "preamble": "(Newcastle-Leicester 0–0) Det går mot en neglebitende siste kampdag for supporterne til Everton, Leicester og Leeds. To av dem må følge Southampton ned.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 22:56:18",
+            "niceformat": "22.05.2023, 22:56",
+            "timestamp": "2023-05-22T20:56:18.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/IY2rHBHxOjea.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Leeds, Everton og Leicester: Hvem rykker ned?",
+        "url": "https://www.vg.no/sport/fotball/i/9znk09/leeds-everton-og-leicester-hvem-rykker-ned"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "abLO37",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/abLO37",
+        "preamble": "MANCHESTER (VG) Erling Braut Haaland (22) har blitt en global superstjerne. I et stort intervju forteller han om hvordan hverdagen hans er endret – og hva han gjør motsatt av mange toppspillere.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 22:53:56",
+            "niceformat": "22.05.2023, 22:53",
+            "timestamp": "2023-05-22T20:53:56.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/5nB2I4JzOK5z.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Haaland om stjernestatusen: – Jeg kan ikke leve normalt lenger",
+        "url": "https://www.vg.no/sport/fotball/i/abLO37/erling-braut-haaland-om-stjernetausen-jeg-kan-ikke-leve-normalt-lenger"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "onBK80",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/onBK80",
+        "preamble": "Den franske storavisen L’Équipe hevder at Manchester United er i diskusjoner med Paris Saint-Germain om en overgang for Neymar (31).",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 20:28:04",
+            "niceformat": "22.05.2023, 20:28",
+            "timestamp": "2023-05-22T18:28:04.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0bfa79fa-bc2e-4022-a46b-897b7f67cdf8?fit=crop&format=auto&h=267&w=400&s=3a062b0dc030cb61e81a4ec935f0a3ccf066386d",
+            "width": 400
+        },
+        "title": "L’Équipe: Manchester United i diskusjoner med PSG om Neymar",
+        "url": "https://www.vg.no/sport/fotball/i/onBK80/lequipe-manchester-united-forhandler-med-psg-om-neymar"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3XKee",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3XKee",
+        "preamble": "(Empoli – Juventus 4–1) Juventus er trukket ti poeng i den italienske toppdivisjonen Serie A. Få timer etter at poengtrekket ble bekreftet, gikk de på en kjempesmell borte mot Empoli.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 20:17:38",
+            "niceformat": "22.05.2023, 20:17",
+            "timestamp": "2023-05-22T18:17:38.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a64d043e-6813-41f5-a927-6fa5de2ab5d0?fit=crop&format=auto&h=267&w=400&s=32cc8b2b58db3fd0d43f10321c6db94f9fbafd68",
+            "width": 400
+        },
+        "title": "Juventus trukket ti poeng – Champions League er i fare for storklubben",
+        "url": "https://www.vg.no/sport/fotball/i/l3XKee/italiensk-nyhetsbyraa-juventus-trukket-ti-poeng"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jlXvPA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jlXvPA",
+        "preamble": "David Møller Wolfe (21) er solgt til nederlandske AZ Alkmaar fra Brann. Han har signert en kontrakt som gjelder frem til sommeren 2028.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 17:16:45",
+            "niceformat": "22.05.2023, 17:16",
+            "timestamp": "2023-05-22T15:16:45.000Z"
+        },
+        "thumbnail": {
+            "height": 241,
+            "url": "https://akamai.vgc.no/v2/images/86757917-7ccd-4e9b-b2ed-857f699482fa?fit=crop&format=auto&h=241&w=400&s=c9ce0cc0cb1e22c61716da3f99521c2856ebcc24",
+            "width": 400
+        },
+        "title": "Bekreftet: Wolfe solgt til AZ Alkmaar",
+        "url": "https://www.vg.no/sport/fotball/i/jlXvPA/brann-bekrefter-wolfe-solgt-til-nederland"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3Xnde",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3Xnde",
+        "preamble": "Polske Szymon Marciniak skal dømme mesterligafinalen i fotball mellom Manchester City og Inter Milan 10. juni. Anthony Taylor dømmer europaligafinalen.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 16:03:19",
+            "niceformat": "22.05.2023, 16:03",
+            "timestamp": "2023-05-22T14:03:19.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/f8db5d11-116d-4b82-b0e1-9765b0627565?fit=crop&format=auto&h=266&w=400&s=ccbdc2453c692cd37260a70660e5ea3569d1c78b",
+            "width": 400
+        },
+        "title": "Marciniak dømmer mesterligafinalen i fotball – Taylor dømmer finalen i europaligaen",
+        "url": "https://www.vg.no/sport/fotball/i/l3Xnde/marciniak-doemmer-mesterligafinalen-i-fotball-taylor-doemmer-finalen-i-europaligaen"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgXm5V",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgXm5V",
+        "preamble": "Premier League-tittelen endte i en stor familiefest for Erling Braut Haaland. Isabel Haugseng Johansen (18) var med på feiringen.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 13:40:00",
+            "niceformat": "22.05.2023, 13:40",
+            "timestamp": "2023-05-22T11:40:00.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/303ffce2-964f-4992-b4c0-a707bf7e029d?fit=crop&format=auto&h=267&w=400&s=7b8f64058ebd8d98ad2b770d6137795c77c8b76c",
+            "width": 400
+        },
+        "title": "Haaland tok med Isabel (18) på scenen",
+        "url": "https://www.vg.no/sport/fotball/i/xgXm5V/erling-braut-haaland-tok-med-isabel-haugseng-johansen-18-paa-scenen"
+    }
+]

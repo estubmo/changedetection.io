@@ -1,0 +1,380 @@
+[
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8J13wE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8J13wE",
+        "preamble": "AUCKLAND (VG) Der det filippinske landslaget snakker om å gjøre landet sitt stolt i det som er deres første VM-deltagelse, har det vært bråk innad i den norske leiren. Det tenker ikke landslagssjefen på. ",
+        "published": {
+            "date": "lørdag 29. juli",
+            "datetime": "2023-07-29 17:11:08",
+            "niceformat": "29.07.2023, 17:11",
+            "timestamp": "2023-07-29T15:11:08.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/65b56985-a8e5-4736-876e-086cf79f6322?fit=crop&format=auto&h=266&w=400&s=ba1ed62c111fbd7e9bd81e6e91e94a8a5b1a5d61",
+            "width": 400
+        },
+        "title": "Filippinene-trener tenker ikke på norsk bråk: – Bryr meg ikke",
+        "url": "https://www.vg.no/sport/fotball/i/8J13wE/filippinene-trener-alen-stajcic-om-norge"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "rly06K",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/rly06K",
+        "preamble": "England-stjernen Keira Walsh (26) måtte forlate fredagens kamp mot Danmark med det som så ut som en alvorlig kneskade. Lørdag kom imidlertid en gladbeskjed fra den engelske leiren.",
+        "published": {
+            "date": "lørdag 29. juli",
+            "datetime": "2023-07-29 14:18:48",
+            "niceformat": "29.07.2023, 14:18",
+            "timestamp": "2023-07-29T12:18:48.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/3PIWc62mCj8q.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Engelsk gladmelding: Ikke korsbåndskade for Walsh",
+        "url": "https://www.vg.no/sport/fotball/i/rly06K/fotball-vm-engelsk-gladmelding-ikke-alvorlig-skade-for-keira-walsh"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5BQA76",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5BQA76",
+        "preamble": "(Frankrike – Brasil 2–1) Eugenie Le Sommers 90. landslagsmål bidro til frank seier mot Brasil i fotball-VM.",
+        "published": {
+            "date": "lørdag 29. juli",
+            "datetime": "2023-07-29 14:02:58",
+            "niceformat": "29.07.2023, 14:02",
+            "timestamp": "2023-07-29T12:02:58.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/dvejHR1w4CzU.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Frankrike vant mot Brasil etter sen scoring",
+        "url": "https://www.vg.no/sport/fotball/i/5BQA76/frankrike-vant-mot-brasil-etter-sen-scoring"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            },
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Mo2MbK",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Mo2MbK",
+        "preamble": "Caroline Graham Hansen er tilbake i startoppstillingen når Norge møter Filippinene i skjebnekampen søndag formiddag. Det erfarer både NRK og VG.",
+        "published": {
+            "date": "lørdag 29. juli",
+            "datetime": "2023-07-29 13:04:33",
+            "niceformat": "29.07.2023, 13:04",
+            "timestamp": "2023-07-29T11:04:33.000Z"
+        },
+        "thumbnail": {
+            "height": 288,
+            "url": "https://akamai.vgc.no/v2/images/822bab0d-64aa-40ec-aa2f-cf31bffed04b?fit=crop&format=auto&h=288&w=400&s=39d9184f5ec180aae585e210d5487a6c11290fd1",
+            "width": 400
+        },
+        "title": "Opplysninger til VG: Graham Hansen tilbake i startelleveren mot Filippinene",
+        "url": "https://www.vg.no/sport/fotball/i/Mo2MbK/graham-hansen-tilbake-i-startelleveren-mot-filippinene"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "pQEJkG",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/pQEJkG",
+        "preamble": "Senegaleseren Sadio Mané er utelatt fra Bayern Münchens kamptropp mot japanske Kawasaki Frontale. En potensiell overgang vekk fra klubben er oppgitt som årsak.",
+        "published": {
+            "date": "lørdag 29. juli",
+            "datetime": "2023-07-29 12:52:59",
+            "niceformat": "29.07.2023, 12:52",
+            "timestamp": "2023-07-29T10:52:59.000Z"
+        },
+        "thumbnail": {
+            "height": 275,
+            "url": "https://akamai.vgc.no/v2/images/7f4bffa1-8c5a-4c76-a0d7-a0412f3c2fec?fit=crop&format=auto&h=275&w=400&s=5ba10af5ca448b8102d81ead56ab6916c7897f7d",
+            "width": 400
+        },
+        "title": "Bayern bekrefter: Mané i samtaler om overgang",
+        "url": "https://www.vg.no/sport/fotball/i/pQEJkG/bayern-bekrefter-mane-i-samtaler-om-overgang"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "y6pL0J",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/y6pL0J",
+        "preamble": "Flere medier, deriblant den franske storavisen L'Équipe, skriver at Montpellier ønsker å sikre seg Lillestrøm-spiss Akor Adams (23).",
+        "published": {
+            "date": "lørdag 29. juli",
+            "datetime": "2023-07-29 11:43:36",
+            "niceformat": "29.07.2023, 11:43",
+            "timestamp": "2023-07-29T09:43:36.000Z"
+        },
+        "thumbnail": {
+            "height": 265,
+            "url": "https://akamai.vgc.no/v2/images/f2879542-560b-4f94-ab52-6ffcb1625291?fit=crop&format=auto&h=265&w=400&s=1802be239cee48deed4b0e1c8084046e67443f36",
+            "width": 400
+        },
+        "title": "Medier: Fransk klubb har lagt inn gigantbud på Adams",
+        "url": "https://www.vg.no/sport/fotball/i/y6pL0J/medier-fransk-klubb-har-lagt-inn-gigantbud-paa-adams"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQ2dX5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQ2dX5",
+        "preamble": "(Sverige – Italia 5–0) Tre cornermål la grunnlaget for svensk storseier mot Italia i fotball-VM lørdag. De gulkledde booket med det plass i åttedelsfinalen.",
+        "published": {
+            "date": "lørdag 29. juli",
+            "datetime": "2023-07-29 11:29:01",
+            "niceformat": "29.07.2023, 11:29",
+            "timestamp": "2023-07-29T09:29:01.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/TLZF0C0MddeA.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Sverige videre i VM etter målfest mot Italia",
+        "url": "https://www.vg.no/sport/fotball/i/EQ2dX5/sverige-videre-i-vm-etter-maalfest-mot-italia"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dw0xyB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dw0xyB",
+        "preamble": "AUCKLAND (VG) Ada Hegerberg trente ikke med den norske VM-troppen lørdag. Deretter kom beskjeden om at stjernespilleren må stå over søndagens skjebnekamp mot Filippinene. ",
+        "published": {
+            "date": "lørdag 29. juli",
+            "datetime": "2023-07-29 02:37:59",
+            "niceformat": "29.07.2023, 02:37",
+            "timestamp": "2023-07-29T00:37:59.000Z"
+        },
+        "thumbnail": {
+            "height": 258,
+            "url": "https://akamai.vgc.no/v2/images/51f885fe-c956-4efe-9e4c-ba1faa9b8139?fit=crop&format=auto&h=258&w=400&s=e1157fad6f697759dac03fed0c72333a795e5332",
+            "width": 400
+        },
+        "title": "Hegerberg uaktuell mot Filippinene: – Ble for kort tid ",
+        "url": "https://www.vg.no/sport/fotball/i/dw0xyB/hegerberg-trente-ikke-med-vm-laget-loerdag-fortsatt-aktuell-mot-filippinene"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GM8kK9",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GM8kK9",
+        "preamble": "AUCKLAND (VG) Fotballen rystes av en ny kneskade etter at England-stjernen Keira Walsh (26) måtte ut på båre. En av hennes lagvenninner vil ha endringer i kampoppsettet.",
+        "published": {
+            "date": "fredag 28. juli",
+            "datetime": "2023-07-28 22:03:11",
+            "niceformat": "28.07.2023, 22:03",
+            "timestamp": "2023-07-28T20:03:11.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/d46e6c7e-eb2a-413a-8d60-e11e1d1638b1?fit=crop&format=auto&h=267&w=400&s=6724625c184b72344d5146cab1dbc43fdc5eb3d6",
+            "width": 400
+        },
+        "title": "Ny VM-profil skadet – England-stjerne ber om endringer",
+        "url": "https://www.vg.no/sport/fotball/i/GM8kK9/korsbaandskader-i-fotball-england-stjerne-beth-mead-ber-om-tiltak"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAp7nG",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAp7nG",
+        "preamble": "Den italienske giganten Juventus får ikke delta i europeiske turneringer på ett år. Det betyr at de ikke spiller i Conference League kommende sesong.",
+        "published": {
+            "date": "fredag 28. juli",
+            "datetime": "2023-07-28 19:39:46",
+            "niceformat": "28.07.2023, 19:39",
+            "timestamp": "2023-07-28T17:39:46.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/f3e777de-7599-42a8-98f2-e93e10b156bf?fit=crop&format=auto&h=267&w=400&s=901a81ac5535e6180822cc6512088ed81270de2b",
+            "width": 400
+        },
+        "title": "Juventus utestengt fra europeiske turneringer: – Et skadet rovdyr",
+        "url": "https://www.vg.no/sport/fotball/i/wAp7nG/juventus-utestengt-fra-europeiske-turneringer"
+    }
+]

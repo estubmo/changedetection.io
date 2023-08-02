@@ -1,0 +1,203 @@
+[
+    {
+        "slug": "daniel-groeset-eriksen-dobbel-for-ranheim-3",
+        "url": "/lokalfotballen/i/q1bKEm/daniel-groeset-eriksen-dobbel-for-ranheim-3",
+        "title": {
+            "value": "Tomålslykke da Ranheim 3 vant"
+        },
+        "description": "Daniel Grøset-Eriksen sto fram med to mål da Ranheim 3 vant 4-2 over Rissa 2/Stadsbygd 2/Vanvik 2 i G16 3. divisjon, Avdeling 3 - Vår torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-18T19:54:02Z",
+        "lastModifiedAt": "2023-05-18T20:03:29Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "dobbel-fra-pernille-helmersen-for-ranheim-2",
+        "url": "/lokalfotballen/i/pQb0mW/dobbel-fra-pernille-helmersen-for-ranheim-2",
+        "title": {
+            "value": "Pernille Helmersen scoret to for Ranheim 2"
+        },
+        "description": "Med 4-2-seier i dagens kamp har Ranheim 2 tatt poeng i fem kamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-18T19:52:01Z",
+        "lastModifiedAt": "2023-05-18T20:03:28Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "storseier-for-malvik-2",
+        "url": "/lokalfotballen/i/APq8W3/storseier-for-malvik-2",
+        "title": {
+            "value": "Hansen-dobbel for Malvik 2"
+        },
+        "description": "Sigrid Hansen scoret to av målene og hjalp Malvik 2 til 6-1-seier over Hegra/Skjelstadmark i 4. divisjon, Trøndelag - Avdeling 1 torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-18T19:52:01Z",
+        "lastModifiedAt": "2023-05-18T20:03:29Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "ny-seier-for-vuku",
+        "url": "/lokalfotballen/i/4o0n0o/ny-seier-for-vuku",
+        "title": {
+            "value": "Dobbel fra Bjørkeng for Vuku"
+        },
+        "description": "Vuku slo Egge 3-0 i dagens kamp. Egge har gått poengløse av banen i alle kampene sine hittil i årets sesong. I 4. divisjon, Trøndelag - Avdeling 1 i fotball torsdag. Fredrikke Baglo Bjørkeng scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-18T19:19:37Z",
+        "lastModifiedAt": "2023-05-18T19:31:47Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "ranheim-2-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/8Jvbx2/ranheim-2-fortsatte-seiersrekken",
+        "title": {
+            "value": "Ranheim 2 tok sin femte strake seier"
+        },
+        "description": "Ranheim 2 slo Neset/Aasguten 4-0 hjemme i J14 2. divisjon, Avdeling 2 - Vår torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-18T18:47:00Z",
+        "lastModifiedAt": "2023-05-18T19:02:29Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "siste-fra-breddefotballen",
+        "url": "/sport/fotball/i/GMjXaq/siste-fra-breddefotballen",
+        "title": {
+            "value": "Trenerduoen trekker seg: Skal ha vært misnøye i gruppa"
+        },
+        "description": null,
+        "imageUrl": "3a0cd804-da57-4bf3-a12c-26a618478669",
+        "publishedAt": "2023-03-24T14:51:36Z",
+        "lastModifiedAt": "2023-05-09T10:22:27Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "fotball",
+            "breddefotbaill",
+            "lokalfotballen",
+            "breddefotball"
+        ]
+    },
+    {
+        "slug": "steinkjer-2-knuste-overhalla",
+        "url": "/lokalfotballen/i/onlJW7/steinkjer-2-knuste-overhalla",
+        "title": {
+            "value": "Steinkjer 2 knuste Overhalla"
+        },
+        "description": "Steinkjer 2 banket Overhalla 6-0 i 4. divisjon, Trøndelag - Avdeling 1 i fotball for kvinner torsdag. Oda Risvik Ness scoret to mål. Steinkjer 2 har vunnet alle sine kamper hittil denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-18T16:01:35Z",
+        "lastModifiedAt": "2023-05-18T16:01:35Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "oskar-fikk-beskjed-om-at-moren-aldri-vil-bli-frisk-trodde-ikke-paa-det",
+        "url": "/sport/fotball/i/Q7qBMP/oskar-fikk-beskjed-om-at-moren-aldri-vil-bli-frisk-trodde-ikke-paa-det",
+        "title": {
+            "value": "Oskar fikk beskjed om at moren aldri vil bli frisk: – Trodde ikke på det "
+        },
+        "description": "– Da det sto på som verst i vinter var det godt å komme seg en tur på trening, og ikke tenke på noe annet enn fotball.",
+        "imageUrl": "257041d0-ce08-41ed-b82e-e46a831aa2dc",
+        "publishedAt": "2023-05-18T14:51:47Z",
+        "lastModifiedAt": "2023-05-18T14:51:47Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "helgaadal",
+            "markabygda",
+            "breddefotbaill",
+            "breddefotball",
+            "lokalfotballen"
+        ]
+    },
+    {
+        "slug": "vi-rekker-fingeren-til-dem-og-gir-f-da-faar-vi-det-til-gang-paa-gang",
+        "url": "/sport/fotball/i/vebBzB/vi-rekker-fingeren-til-dem-og-gir-f-da-faar-vi-det-til-gang-paa-gang",
+        "title": {
+            "value": "Bygda nekter å la seg knekke: - Vi rekker fingeren til dem"
+        },
+        "description": "To ildsjeler i hver sin bygd får æren for at fredagens kamp faktisk kan finne sted, selv om «ingen» hadde tro på dem.",
+        "imageUrl": "099b09f4-f8a3-4709-b1fa-cfc174263182",
+        "publishedAt": "2023-05-18T08:15:10Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "helgaadal",
+            "markabygda",
+            "breddefotbaill",
+            "breddefotball"
+        ]
+    },
+    {
+        "slug": "velkommen-til-wrexham",
+        "url": "/forbruker/reise/i/Q7qdxx/velkommen-til-wrexham",
+        "title": {
+            "value": "Velkommen til Wrexham "
+        },
+        "description": "Hva skjer med en arbeiderby i Wales når to Hollywood-kjendiser kjøper en fotballklubb? Ganske mye.",
+        "imageUrl": "ebe4b985-a8f9-4c01-9011-ef1e65e8d568",
+        "publishedAt": "2023-05-17T18:00:09Z",
+        "lastModifiedAt": "2023-05-17T20:42:47Z",
+        "premium": true,
+        "authors": [
+            "Camilla Flaatten"
+        ],
+        "tags": [
+            "reisetips",
+            "reise",
+            "fotball",
+            "ryan-reynolds",
+            "wales"
+        ]
+    }
+]

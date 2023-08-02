@@ -1,0 +1,189 @@
+[
+    {
+        "slug": "braktap-for-trygg-lade-2",
+        "url": "/lokalfotballen/i/2BX7OB/braktap-for-trygg-lade-2",
+        "title": {
+            "value": "Braktap for Trygg/Lade 2"
+        },
+        "description": "Trygg/Lade 2 måtte seg seg slått 0-5 da Christian Lohne Haugen førte an med to mål for Utleira i 5. divisjon, Trøndelag - Avdeling 2 i fotball for menn. Trygg/Lade 2 har tapt sine to siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-30T14:31:24Z",
+        "lastModifiedAt": "2023-04-30T14:31:24Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "hjemmeseier-for-steinkjer-over-levanger",
+        "url": "/lokalfotballen/i/l3lR27/hjemmeseier-for-steinkjer-over-levanger",
+        "title": {
+            "value": "Bortetap for Levanger"
+        },
+        "description": "Levanger ble knust 3-0 av Steinkjer i 3. divisjon, Trøndelag søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-30T14:13:57Z",
+        "lastModifiedAt": "2023-04-30T14:19:13Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "heimdal-ble-rundspilt-av-ranheim-2",
+        "url": "/lokalfotballen/i/eJyrg9/heimdal-ble-rundspilt-av-ranheim-2",
+        "title": {
+            "value": "Heimdal ble ydmyket av Ranheim 2"
+        },
+        "description": "Etter dagens 5-0-seier står Ranheim 2 med full pott så langt denne sesongen. Fridtjof Killi Olsen scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-30T14:13:56Z",
+        "lastModifiedAt": "2023-04-30T14:18:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "hjemmeseier-for-levanger-2-over-nidelv",
+        "url": "/lokalfotballen/i/mQyl2l/hjemmeseier-for-levanger-2-over-nidelv",
+        "title": {
+            "value": "Bortetap for Nidelv"
+        },
+        "description": "Nidelv gav bort alle poengene da de ble slått 2-1 av Levanger 2 i 4. divisjon, Trøndelag - Avdeling 1 i fotball for menn søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-30T14:11:56Z",
+        "lastModifiedAt": "2023-04-30T14:18:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "kil-hemne-tapte-paa-bortebane",
+        "url": "/lokalfotballen/i/MoplkR/kil-hemne-tapte-paa-bortebane",
+        "title": {
+            "value": "Nettsus for Brudvik"
+        },
+        "description": "Kristina Brudvik scoret begge målene for Grand Bodø og ble den store helten i 2-1-seieren over KIL/Hemne i 1. divisjon i fotball søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-30T13:00:07Z",
+        "lastModifiedAt": "2023-04-30T13:18:25Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "tynset-senket-av-aaberge",
+        "url": "/lokalfotballen/i/0QX8qg/tynset-senket-av-aaberge",
+        "title": {
+            "value": "Tynset senket av Aaberge"
+        },
+        "description": "Tynset tapte 1-2 mot Sogndal FK på bortebane i 2. divisjon, Avdeling 1 i fotball for kvinner søndag. Tynset har ikke tatt ett eneste poeng i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-30T12:12:44Z",
+        "lastModifiedAt": "2023-04-30T12:18:47Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "uavgjort-paa-amfi-moa-stadion",
+        "url": "/lokalfotballen/i/q174X0/uavgjort-paa-amfi-moa-stadion",
+        "title": {
+            "value": "Herd spilte uavgjort"
+        },
+        "description": "Herd og Rosenborg 2 spilte 1-1 på Amfi Moa stadion i 2. divisjon, Avdeling 1 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-30T11:53:38Z",
+        "lastModifiedAt": "2023-04-30T12:48:00Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-smpno",
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "en-spiller-manglet-da-rbk-reiste-til-bortekamp",
+        "url": "/sport/fotball/i/q174QL/en-spiller-manglet-da-rbk-reiste-til-bortekamp",
+        "title": {
+            "value": "Én spiller manglet da RBK reiste til bortekamp "
+        },
+        "description": "RBK må klare seg uten Ulrik Yttergård Jenssen i Skien.",
+        "imageUrl": "7d405a58-ae6b-4d63-9796-6e6fcc24669d",
+        "publishedAt": "2023-04-30T10:15:07Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen",
+            "Johannes Strand"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "kompisen-hans-trener-sjuaaringer-og-er-stjerne-paa-rbk",
+        "url": "/sport/fotball/i/jlpJEw/kompisen-hans-trener-sjuaaringer-og-er-stjerne-paa-rbk",
+        "title": {
+            "value": "Kompisen hans trener sjuåringer og er stjerne på RBK"
+        },
+        "description": "– Jeg så ikke helt for meg ham som hovedtrener. Men han en veldig godt likt type, og måten han har bygget seg opp er imponerende.",
+        "imageUrl": "61004d09-7e5e-43f0-8626-3331b863080c",
+        "publishedAt": "2023-04-30T09:32:02Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "premier-league",
+            "markus-henriksen",
+            "manchester-united",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/BWv98e/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag.",
+        "imageUrl": "8187b61e-f4d9-4ebd-a946-24763362288f",
+        "publishedAt": "2023-04-30T04:00:53Z",
+        "lastModifiedAt": "2023-04-30T04:00:53Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    }
+]

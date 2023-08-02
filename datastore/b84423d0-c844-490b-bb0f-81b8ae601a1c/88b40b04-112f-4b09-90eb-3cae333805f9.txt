@@ -1,0 +1,370 @@
+[
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Lld1o4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Lld1o4",
+        "preamble": "(Lillestrøm – Stabæk 3–1) Med hat tricket mot Stabæk er Akor Adams delt toppscorer i Eliteserien.",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 19:00:19",
+            "niceformat": "04.06.2023, 19:00",
+            "timestamp": "2023-06-04T17:00:19.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ba7a6a9f-2f5d-41f3-a569-904fd73b0c71?fit=crop&format=auto&h=267&w=400&s=017de6f3adcb975d484086c7aef18d8f48a35df8",
+            "width": 400
+        },
+        "title": "Adams herjet med Stabæk – scoret hat trick",
+        "url": "https://www.vg.no/sport/fotball/i/Lld1o4/adams-herjet-med-stabaek-scoret-hat-trick"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "MoJ34J",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/MoJ34J",
+        "preamble": "(Aalesund – Brann 1–3) Kristoffer Barmen (29) ble byttet på til pause mot gamleklubben for å ta bedre vare på ballen. Men besinnelsen var ikke godt bevart da Brann vant mot tabelljumboen.",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 18:53:04",
+            "niceformat": "04.06.2023, 18:53",
+            "timestamp": "2023-06-04T16:53:04.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/dde99627-9742-4153-b75f-7ba4da4ae831?fit=crop&format=auto&h=267&w=400&s=289e163a946517e2ab93a0cdd19957c16fd2cbbd",
+            "width": 400
+        },
+        "title": "Barmen-mareritt mot gamleklubben – Brann snudde mot Aalesund",
+        "url": "https://www.vg.no/sport/fotball/i/MoJ34J/eliteserien"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQGExb",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQGExb",
+        "preamble": "VALLE (VG) (Vålerenga – Bodø/Glimt 1–3) Ingen ser ut til å være i nærheten av å stoppe Bodø/Glimts ferd mot seriegull. Søndag forverret de Vålerengas tunge start på sesongen.",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 18:50:30",
+            "niceformat": "04.06.2023, 18:50",
+            "timestamp": "2023-06-04T16:50:30.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/75c2c33c-7816-41cd-bac2-66a754e929ab?fit=crop&format=auto&h=267&w=400&s=957d682b10a56c2571c0d5b6077c1b26611230c8",
+            "width": 400
+        },
+        "title": "Suverene Bodø/Glimt ydmyket Vålerenga: – På grensen til pinlig",
+        "url": "https://www.vg.no/sport/fotball/i/JQGExb/suverene-bodoe-glimt-ydmyket-vaalerenga-paa-grensen-til-pinlig"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgy3aX",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgy3aX",
+        "preamble": "TRONDHEIM (VG) (Rosenborg-HamKam 4–0) Det var kampen Kjetil Rekdal og RBK måtte vinne. Mot HamKam løsnet det virkelig for det hardt kritiserte laget. ",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 18:50:17",
+            "niceformat": "04.06.2023, 18:50",
+            "timestamp": "2023-06-04T16:50:17.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ce0536c5-9a26-44e6-9587-fccd86c27bcb?fit=crop&format=auto&h=267&w=400&s=1f5d650dfa7243f4f34243ab3abb0d817e924056",
+            "width": 400
+        },
+        "title": "Rekdals RBK slo tilbake etter cupfadesen - knuste gamleklubben",
+        "url": "https://www.vg.no/sport/fotball/i/xgy3aX/rekdals-rbk-slo-tilbake-etter-cupfadesen-knuste-gamleklubben"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "veyOep",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/veyOep",
+        "preamble": "Ifølge det anerkjente nettstedet The Atheltic er nåværende Celtic-trener Ange Postecoglou nære Tottenham",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 18:44:44",
+            "niceformat": "04.06.2023, 18:44",
+            "timestamp": "2023-06-04T16:44:44.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/2caf2cef-19c4-4847-ad93-6e718bf88fcd?fit=crop&format=auto&h=267&w=400&s=bb00d85eded5a3a50bfa4c3b34616db70c2ad95a",
+            "width": 400
+        },
+        "title": "The Athletic: Nærmer seg Tottenham",
+        "url": "https://www.vg.no/sport/fotball/i/veyOep/ange-postecoglou-naermer-seg-tottenham"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q1EA9m",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q1EA9m",
+        "preamble": "(Ranheim – Moss 2–1) Morten Gamst Pedersen (41) og strafferedning på tampen avgjorde for Ranheim.",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 17:06:11",
+            "niceformat": "04.06.2023, 17:06",
+            "timestamp": "2023-06-04T15:06:11.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/7466be51-6285-4bf6-b552-956f60597b04?fit=crop&format=auto&h=267&w=400&s=13f1f75a8717c9273ec371e694dfd8ace41bc74e",
+            "width": 400
+        },
+        "title": "«Gamsten»-scoring i Ranheim-seier",
+        "url": "https://www.vg.no/sport/fotball/i/q1EA9m/gamsten-scoring-i-ranheim-seier"
+    },
+    {
+        "authors": [
+            {
+                "email": "oyvind.herrebroden@vg.no",
+                "id": "7b5d0009-0f34-41e3-b5af-dcf22addbd42",
+                "name": "Øyvind Herrebrøden"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "rlX20e",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/rlX20e",
+        "preamble": "Over 100 millioner i underskudd, seks trenere og bare to trofeer av ni mulige. Hverken på banen, benken eller i banken har Rosenborg gjort suksess de siste fem årene. ",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 13:59:29",
+            "niceformat": "04.06.2023, 13:59",
+            "timestamp": "2023-06-04T11:59:29.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/b23a66df-7318-4fc8-a49d-3a4c8f19470d?fit=crop&format=auto&h=267&w=400&s=46952fa8be347e277892ac172fcf3b69656e8ee3",
+            "width": 400
+        },
+        "title": "Rosenborgs fem år med kaos: – En klubb i et enormt forfall på alle områder",
+        "url": "https://www.vg.no/sport/fotball/i/rlX20e/rosenborgs-fem-aar-med-kaos-en-klubb-i-et-enormt-forfall-paa-alle-omraader"
+    },
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QOK3G",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QOK3G",
+        "preamble": "Karim Benzema (35) har vært i Real Madrid siden 2009. Nå er det slutt for den regjerende Ballon d’Or-vinneren.",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 11:56:19",
+            "niceformat": "04.06.2023, 11:56",
+            "timestamp": "2023-06-04T09:56:19.000Z"
+        },
+        "thumbnail": {
+            "height": 265,
+            "url": "https://akamai.vgc.no/v2/images/6f77d4fc-edae-4006-bd74-098de3d5c63e?fit=crop&format=auto&h=265&w=400&s=a6c8fae9319b64ecf2740f9c074af18f47fe7ebb",
+            "width": 400
+        },
+        "title": "Bekreftet: Benzema forlater Real Madrid",
+        "url": "https://www.vg.no/sport/fotball/i/0QOK3G/bekreftet-benzema-forlater-real-madrid"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "MoJ35M",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/MoJ35M",
+        "preamble": "Maren Mjelde (33) har skrevet under på en ny ettårskontrakt med Chelsea i den engelske superligaen.",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 11:22:30",
+            "niceformat": "04.06.2023, 11:22",
+            "timestamp": "2023-06-04T09:22:30.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/4885a886-957e-4e1f-a040-35f1a5468cad?fit=crop&format=auto&h=267&w=400&s=79d22a15765b10a67baad2a176904f6b4d7c5581",
+            "width": 400
+        },
+        "title": "Maren Mjelde forlenget med Chelsea",
+        "url": "https://www.vg.no/sport/fotball/i/MoJ35M/maren-mjelde-forlenget-med-chelsea"
+    },
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "bgdnMA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/bgdnMA",
+        "preamble": "Etter 11 år i klubben forteller Hugo Lloris (36) at han ønsker å forlate Tottenham.",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 09:35:14",
+            "niceformat": "04.06.2023, 09:35",
+            "timestamp": "2023-06-04T07:35:14.000Z"
+        },
+        "thumbnail": {
+            "height": 273,
+            "url": "https://akamai.vgc.no/v2/images/7cca9c2e-5505-4184-9a86-c3a7d4e41086?fit=crop&format=auto&h=273&w=400&s=130155b71c9c96b4a5f33e25e6910d978721e34f",
+            "width": 400
+        },
+        "title": "Tottenham-kapteinen vil bort: – Slutten på en æra",
+        "url": "https://www.vg.no/sport/fotball/i/bgdnMA/tottenham-kapteinen-vil-bort-slutten-paa-en-aere"
+    }
+]

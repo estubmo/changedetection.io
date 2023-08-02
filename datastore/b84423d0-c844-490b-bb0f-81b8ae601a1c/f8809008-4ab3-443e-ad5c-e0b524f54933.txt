@@ -1,0 +1,402 @@
+[
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            },
+            {
+                "email": "janne.moller-hansen@vg.no",
+                "id": "c15293f1-3f13-4d47-9234-1cae0482f62d",
+                "name": "Janne Møller-Hansen (foto) "
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "KneK86",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/KneK86",
+        "preamble": "NÆRBØ (VG) Jærbuen Kirsten Risa punget på impuls ut 250.000 kroner for det tre meter høye og 700 kg tunge kunstverket av Erling Braut Haaland.",
+        "published": {
+            "date": "torsdag 15. juni",
+            "datetime": "2023-06-15 00:14:27",
+            "niceformat": "15.06.2023, 00:14",
+            "timestamp": "2023-06-14T22:14:27.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/59d26d23-3eab-4aaa-a529-47bff6cdf3e4?fit=crop&format=auto&h=267&w=400&s=6ecf9352e715549053814f3aa1ed977a251471da",
+            "width": 400
+        },
+        "title": "Omdiskutert utgave av Haaland hjelper barn i Tanzania: – Den er kul",
+        "url": "https://www.vg.no/sport/fotball/i/KneK86/kirsten-risa-kjoepte-kjetil-barane-sin-statue-av-erling-braut-haaland-for-250-000-kroner"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "KnkVa4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/KnkVa4",
+        "preamble": "(Nederland-Kroatia 2–4 e.e.o.) Hjemmebane hjalp ikke Nederland. Kroatia er klare for Nations League-finalen. En storspillende Luka Modric avgjorde i Rotterdam.",
+        "published": {
+            "date": "onsdag 14. juni",
+            "datetime": "2023-06-14 23:23:04",
+            "niceformat": "14.06.2023, 23:23",
+            "timestamp": "2023-06-14T21:23:04.000Z"
+        },
+        "thumbnail": {
+            "height": 277,
+            "url": "https://akamai.vgc.no/v2/images/a364ecde-863f-425c-aa89-69e197701250?fit=crop&format=auto&h=277&w=400&s=b29dcf8d0f7f7021c00269a9ce3f1709204e0ea5",
+            "width": 400
+        },
+        "title": "Fantastisk Modric: Kroatia til Nations League-finalen etter drama",
+        "url": "https://www.vg.no/sport/fotball/i/KnkVa4/fantastisk-modric-kroatia-til-nations-league-finalen-etter-drama"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "mQWmmO",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/mQWmmO",
+        "preamble": "Ifølge den engelske avisen vil det koste altfor mye å kjøpe Harry Kane (29) fri fra Tottenham.",
+        "published": {
+            "date": "onsdag 14. juni",
+            "datetime": "2023-06-14 19:10:48",
+            "niceformat": "14.06.2023, 19:10",
+            "timestamp": "2023-06-14T17:10:48.000Z"
+        },
+        "thumbnail": {
+            "height": 269,
+            "url": "https://akamai.vgc.no/v2/images/6d6723af-ccce-40b8-84a1-319dc41b2bcd?fit=crop&format=auto&h=269&w=400&s=080be6f7fd044f949c6c6853ef982348053b3bdc",
+            "width": 400
+        },
+        "title": "The Guardian: Manchester United gir opp Kane",
+        "url": "https://www.vg.no/sport/fotball/i/mQWmmO/the-guardian-manchester-united-gir-opp-kane"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "vegard.aulstad@vg.no",
+                "id": "32320ac9-8b78-4d86-b923-ee64dc408816",
+                "name": "Vegard Aulstad"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "y6yoqA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/y6yoqA",
+        "preamble": "ULLEVAAL STADION (VG) Med tolv seriemål bidro toppscorer Alexander Sørloth (27) sterkt til at Real Sociedad klarte det store målet om Champions League. I tillegg har han blitt en kamerat rikere.",
+        "published": {
+            "date": "onsdag 14. juni",
+            "datetime": "2023-06-14 18:04:31",
+            "niceformat": "14.06.2023, 18:04",
+            "timestamp": "2023-06-14T16:04:31.000Z"
+        },
+        "thumbnail": {
+            "height": 349,
+            "url": "https://akamai.vgc.no/v2/images/6708b55d-7d8f-4cf8-a153-b295923f7770?fit=crop&format=auto&h=349&w=400&s=2c96a69cda748924d55abfd50fa375400b2370c2",
+            "width": 400
+        },
+        "title": "Brennhet Sørloth ble «vennespleiset» med Klæbo: – Fant tonen og ble gode kompiser",
+        "url": "https://www.vg.no/sport/fotball/i/y6yoqA/brennhet-soerloth-ble-vennespleiset-med-klaebo-fant-tonen-og-ble-gode-kompiser"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            },
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69dOVr",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69dOVr",
+        "preamble": "HOLBERGS PLASS (VG) Dommersjef i Norges Fotballforbund, Terje Hauge, opplyser at seks av 92 dommeravgjørelser burde blitt grepet inn i. ",
+        "published": {
+            "date": "onsdag 14. juni",
+            "datetime": "2023-06-14 16:17:10",
+            "niceformat": "14.06.2023, 16:17",
+            "timestamp": "2023-06-14T14:17:10.000Z"
+        },
+        "thumbnail": {
+            "height": 270,
+            "url": "https://akamai.vgc.no/v2/images/900ec121-6b01-40f8-b9d8-8b37fe6a4373?fit=crop&format=auto&h=270&w=400&s=36195cd82a559113a76da39f73715701e86918d2",
+            "width": 400
+        },
+        "title": "Dommersjefen presenterte VAR-tall: – Ikke godt nok",
+        "url": "https://www.vg.no/sport/fotball/i/69dOVr/dommersjefen-innroemmer-6-av-21-var-omgjoerelser-i-eliteserien-var-feil"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            },
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "veyJLl",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/veyJLl",
+        "preamble": "Tor Olav Trøim (60) kalte klubbens egne supportere «uverdige» etter sparkingen av Dag-Eilev Fagermo (56). Nå får Vålerengas rike onkel kraftige svar fra Klanen.",
+        "published": {
+            "date": "onsdag 14. juni",
+            "datetime": "2023-06-14 14:22:08",
+            "niceformat": "14.06.2023, 14:22",
+            "timestamp": "2023-06-14T12:22:08.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/40fde6c2-df2e-4947-aefc-7c73775c1867?fit=crop&format=auto&h=267&w=400&s=a61b9a0a3da015d3b963068fcfb6786275ceb7b3",
+            "width": 400
+        },
+        "title": "Klanen slår hardt tilbake mot Trøim: – Respektløst og uverdig",
+        "url": "https://www.vg.no/sport/fotball/i/veyJLl/eliteserien-vaalerenga-supporterklubb-klanen-slaar-hardt-tilbake-mot-tor-olav-troeim-respektloest-og-uverdig"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "rl36am",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/rl36am",
+        "preamble": "ULLEVAAL STADION (VG) Stjerneskuddene Andreas Schjelderup (19), Isak Hansen-Aarøen (18) og flere andre nøkkelspillere på G19-landslaget får ikke bli med i Norges EM-tropp.",
+        "published": {
+            "date": "onsdag 14. juni",
+            "datetime": "2023-06-14 14:05:18",
+            "niceformat": "14.06.2023, 14:05",
+            "timestamp": "2023-06-14T12:05:18.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/15d15da3-18ba-46e8-936d-e03c55f3891b?fit=crop&format=auto&h=267&w=400&s=024a795624f07f3bbac3e417d5f82e616bfc83a4",
+            "width": 400
+        },
+        "title": "Flere nøkkelspillere ute fra Norges G19-tropp",
+        "url": "https://www.vg.no/sport/fotball/i/rl36am/flere-noekkelspillere-ute-fra-norges-g19-tropp"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "veyoVV",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/veyoVV",
+        "preamble": "Fotballstjernen Jude Bellingham (19) forlater Borussia Dortmund til fordel for spill i spanske Real Madrid.",
+        "published": {
+            "date": "onsdag 14. juni",
+            "datetime": "2023-06-14 12:13:18",
+            "niceformat": "14.06.2023, 12:13",
+            "timestamp": "2023-06-14T10:13:18.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/b539b38f-bada-47ba-8442-9b53c2027631?fit=crop&format=auto&h=267&w=400&s=8cf4907c838c83ed3b205cf393c37af38b587867",
+            "width": 400
+        },
+        "title": "Bellingham klar for Real Madrid – har signert seksårsavtale",
+        "url": "https://www.vg.no/sport/fotball/i/veyoVV/bellingham-klar-for-real-madrid-har-signert-seksaarsavtale"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JzpeA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JzpeA",
+        "preamble": "ULLEVAAL STADION (VG) I flere posisjoner på banen har det norske laget aldri hatt svakere alternativ, mener tidligere Josimar-redaktør Frode Lia. Ståle Solbakken skulle gjerne sett flere spillere i de beste ligaene. ",
+        "published": {
+            "date": "onsdag 14. juni",
+            "datetime": "2023-06-14 11:16:03",
+            "niceformat": "14.06.2023, 11:16",
+            "timestamp": "2023-06-14T09:16:03.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/f9ecbcb0-1d5e-4549-89da-579f2f54dd7c?fit=crop&format=auto&h=267&w=400&s=32ac74b7c76dd4e29fc2de8d1615e9b5e57518d4",
+            "width": 400
+        },
+        "title": "Tidligere fotballredaktør:– Landslaget har ikke hatt dårligere utvalg spillere på 30 år ",
+        "url": "https://www.vg.no/sport/fotball/i/8JzpeA/tidligere-fotballredaktoer-landslaget-har-ikke-hatt-daarligere-utvalg-spillere-paa-30-aar"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wA52B4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wA52B4",
+        "preamble": "Fotballsupporteren som ble nakenvisitert på Fredrikstad stadion har nå anmeldt to tjenestefolk etter hendelsen.",
+        "published": {
+            "date": "onsdag 14. juni",
+            "datetime": "2023-06-14 10:52:01",
+            "niceformat": "14.06.2023, 10:52",
+            "timestamp": "2023-06-14T08:52:01.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/33a39036-3ff3-4a5f-86c6-827c6ffcfb7d?fit=crop&format=auto&h=267&w=400&s=9a92ea0e80b23e6b7d1bb2f8e7019b55c8bb2533",
+            "width": 400
+        },
+        "title": "Anmelder flere i politiet etter nakenvisitering",
+        "url": "https://www.vg.no/sport/fotball/i/wA52B4/anmelder-flere-i-politiet-etter-nakenvisitering"
+    }
+]

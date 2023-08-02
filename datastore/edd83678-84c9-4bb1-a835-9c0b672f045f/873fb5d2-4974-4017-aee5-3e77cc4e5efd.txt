@@ -1,0 +1,196 @@
+[
+    {
+        "slug": "kolstad-senket-av-sakshaug",
+        "url": "/lokalfotballen/i/pQmx9X/kolstad-senket-av-sakshaug",
+        "title": {
+            "value": "Kolstad senket av Sakshaug"
+        },
+        "description": "Steinkjer snudde 1-2 til 3-2-seier over Kolstad i 3. divisjon, Avdeling 5 i fotball for menn lørdag. Andreas Granhus scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T15:05:35Z",
+        "lastModifiedAt": "2023-06-10T15:05:35Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "hun-herjet-med-gjestene-da-rbk-holdt-lekestue",
+        "url": "/sport/fotball/i/Q7KKdV/hun-herjet-med-gjestene-da-rbk-holdt-lekestue",
+        "title": {
+            "value": "Hun herjet med gjestene da RBK holdt lekestue "
+        },
+        "description": "Anna Jøsendal var Rosenborgs gigant da de herjet med Arna-Bjørnar i én omgang.",
+        "imageUrl": "1f002db3-5ffd-4c80-9709-28af44f0b2c4",
+        "publishedAt": "2023-06-10T14:59:46Z",
+        "lastModifiedAt": "2023-06-10T15:14:19Z",
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "fotball",
+            "rosenborg-kvinner"
+        ]
+    },
+    {
+        "slug": "troender-lyn-seiret-borte-mot-verdal",
+        "url": "/lokalfotballen/i/RGQXKa/troender-lyn-seiret-borte-mot-verdal",
+        "title": {
+            "value": "Borteseier for Trønder-Lyn over Verdal"
+        },
+        "description": "Trønder-Lyn banket Verdal 3-0 i 3. divisjon, Avdeling 5 i fotball for menn. Trønder-Lyn har tatt poeng i sine fem siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T14:59:14Z",
+        "lastModifiedAt": "2023-06-10T15:04:33Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "rbk-med-maktdemonstrasjon-i-en-omgang",
+        "url": "/sport/i/Xbn36b/rbk-med-maktdemonstrasjon-i-en-omgang",
+        "title": {
+            "value": "RBK med maktdemonstrasjon i én omgang "
+        },
+        "description": "Anført av en strålende Anna Jøsendal herjet Rosenborg med Arna-Bjørnar i én omgang. Etter pause kontrollerte de sorte og hvite kampen til trygg seier.",
+        "imageUrl": "ed95f26d-7048-452c-b084-71880b1e2705",
+        "publishedAt": "2023-06-10T14:56:18Z",
+        "lastModifiedAt": "2023-06-10T15:20:12Z",
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "fotball",
+            "anna-joesendal"
+        ]
+    },
+    {
+        "slug": "danil-jermolajevs-dobbel-sikret-seier",
+        "url": "/lokalfotballen/i/mQWxM4/danil-jermolajevs-dobbel-sikret-seier",
+        "title": {
+            "value": "Danil Jermolajevs-dobbel sikret seier"
+        },
+        "description": "Danil Jermolajevs viste scoringsform da Frøya IL vant 4-2 over Kolstad/Flatås i G16 3. divisjon, Avdeling 2 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T14:14:06Z",
+        "lastModifiedAt": "2023-06-10T14:30:24Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    },
+    {
+        "slug": "brakseier-for-trygg-lade",
+        "url": "/lokalfotballen/i/KnkXLM/brakseier-for-trygg-lade",
+        "title": {
+            "value": "Ny seier for Trygg / Lade"
+        },
+        "description": "Trygg/Lade banket Heimdal 7-1 i 4. divisjon, Trøndelag - Avdeling 1 i fotball for menn lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T14:06:59Z",
+        "lastModifiedAt": "2023-06-10T14:27:11Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "tynset-seier-over-hitra",
+        "url": "/lokalfotballen/i/VPLXgV/tynset-seier-over-hitra",
+        "title": {
+            "value": "Tynset med hjemmeseier over Hitra"
+        },
+        "description": "Tynset banket Hitra 3-0 i 4. divisjon, Trøndelag - Avdeling 2 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T14:03:49Z",
+        "lastModifiedAt": "2023-06-10T14:27:12Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya"
+        ]
+    },
+    {
+        "slug": "avgjorde-foersteplassen",
+        "url": "/lokalfotballen/i/abkeld/avgjorde-foersteplassen",
+        "title": {
+            "value": "Hitra dro i land seriemesterskapet"
+        },
+        "description": "Alex Soboniak viste scoringsform da Hitra vant 11-0 over Skaun 2 i G16 3. divisjon, Avdeling 2 - Vår lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T13:41:48Z",
+        "lastModifiedAt": "2023-06-10T14:00:39Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-avisast",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "brakseier-for-rana",
+        "url": "/lokalfotballen/i/y6yJRa/brakseier-for-rana",
+        "title": {
+            "value": "Rana knuste Orkla"
+        },
+        "description": "Rana knuste Orkla 7-0 i 3. divisjon, Avdeling 5 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T12:56:34Z",
+        "lastModifiedAt": "2023-06-10T13:27:09Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "aalesund-snudde-til-seier-i-sluttminuttene-over-rosenborg",
+        "url": "/lokalfotballen/i/rl3Ogw/aalesund-snudde-til-seier-i-sluttminuttene-over-rosenborg",
+        "title": {
+            "value": "Aalesund snudde til seier på tampen over Rosenborg"
+        },
+        "description": "Rosenborg fikk sitt første tap på tre kamper etter dagens 5-4-tap mot Aalesund i Nasjonal G15, Gruppe C lørdag. Marcus Haagensen Reed scoret hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T12:56:34Z",
+        "lastModifiedAt": "2023-06-10T13:27:10Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-smpno"
+        ]
+    }
+]

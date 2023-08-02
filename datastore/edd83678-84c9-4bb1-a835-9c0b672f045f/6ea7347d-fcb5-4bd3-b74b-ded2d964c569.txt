@@ -1,0 +1,208 @@
+[
+    {
+        "slug": "gunnarsen-i-scoringshumoer",
+        "url": "/lokalfotballen/i/jlMVbA/gunnarsen-i-scoringshumoer",
+        "title": {
+            "value": "Gunnarsen i scoringshumør"
+        },
+        "description": "Marcus Gunnarsen viste scoringsform da Mosjøen seiret 3-2 over Rosenborg 2 i 3. divisjon, Avdeling 5 fredag. Rosenborg 2 har tapt to strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-16T18:08:04Z",
+        "lastModifiedAt": "2023-06-16T18:08:04Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ny-seier-for-froeya-il",
+        "url": "/lokalfotballen/i/KnkEqy/ny-seier-for-froeya-il",
+        "title": {
+            "value": "Frøya IL tok sin tredje strake seier"
+        },
+        "description": "Frøya IL slo Skaun 2 4-1 og tok dermed alle poengene i G16 3. divisjon, Avdeling 2 - Vår. Dermed har Frøya IL vunnet tre kamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-16T18:02:59Z",
+        "lastModifiedAt": "2023-06-16T18:05:00Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-tronderbladet",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    },
+    {
+        "slug": "avsloerte-noeyaktig-hvor-rbks-problem-ligger",
+        "url": "/sport/i/XbnGMo/avsloerte-noeyaktig-hvor-rbks-problem-ligger",
+        "title": {
+            "value": "Avslørte nøyaktig hvor RBKs problem ligger"
+        },
+        "description": "KOMMENTAR: Nok en gang skal Rosenborg snu opp ned på det klubben har jobbet med over tid.",
+        "imageUrl": "4b003021-692c-43a3-a56d-0ddd492c3c88",
+        "publishedAt": "2023-06-16T17:46:46Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Birger Løfaldli"
+        ],
+        "tags": [
+            "erik-hamren",
+            "kaare-ingebrigtsen",
+            "kjetil-rekdal",
+            "svein-maalen",
+            "birger-loefaldli",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "roert-maalen-droemmer-om-aa-bli-fast-rbk-trener",
+        "url": "/sport/fotball/i/y6ye42/roert-maalen-droemmer-om-aa-bli-fast-rbk-trener",
+        "title": {
+            "value": "Slik blir Maalens RBK: - Drømmer om å bli fast trener"
+        },
+        "description": "RBK-trener Svein Maalen gjester Rasmus&Saga.",
+        "imageUrl": "a6536596-69c2-4a6e-a41b-6c50036131ff",
+        "publishedAt": "2023-06-16T16:46:23Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Ole K. Sagbakken",
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rasmus-saga"
+        ]
+    },
+    {
+        "slug": "fikk-telefon-fra-rekdal-og-frigaard-de-staar-hoeyt-i-kurs-i-gruppen",
+        "url": "/sport/fotball/i/XbnxyW/fikk-telefon-fra-rekdal-og-frigaard-de-staar-hoeyt-i-kurs-i-gruppen",
+        "title": {
+            "value": "Fikk telefon fra trenerne: - De var triste og lei seg"
+        },
+        "description": "RBK-kaptein Markus Henriksen fikk nyheten om Kjetil Rekdals exit på Mallorca-ferie.",
+        "imageUrl": "67164502-bd22-427d-9d31-8cd51770d3b2",
+        "publishedAt": "2023-06-16T14:45:54Z",
+        "lastModifiedAt": "2023-06-16T15:22:39Z",
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "fotball",
+            "geir-frigaard",
+            "markus-henriksen",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "direkte-fra-lerkendal-rbk-svarer-om-rekdals-exit",
+        "url": "/sport/fotball/i/5BkAwz/direkte-fra-lerkendal-rbk-svarer-om-rekdals-exit",
+        "title": {
+            "value": "RBKs nye trener varsler store endringer"
+        },
+        "description": "Svein Maalen overtar etter Kjetil Rekdal. Det kommer til å merkes.",
+        "imageUrl": "76eac123-f51d-4b75-8ae6-c6b2bbd0b3fc",
+        "publishedAt": "2023-06-16T13:04:07Z",
+        "lastModifiedAt": "2023-06-16T14:03:57Z",
+        "premium": true,
+        "authors": [
+            "Christian Stendal",
+            "Johannes Strand"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "rosenborg-bk",
+            "cecilie-gotaas-johnsen"
+        ]
+    },
+    {
+        "slug": "bekreftet-rekdal-ferdig-i-rbk",
+        "url": "/sport/fotball/i/eJ02EO/bekreftet-rekdal-ferdig-i-rbk",
+        "title": {
+            "value": " - Skuffende å ikke få fullført oppdraget"
+        },
+        "description": "Det melder klubben i en pressemelding.",
+        "imageUrl": "a6f74a9f-d1e2-44b1-9176-6d95326c446b",
+        "publishedAt": "2023-06-16T12:52:13Z",
+        "lastModifiedAt": "2023-06-16T13:12:20Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "kjetil-rekdal",
+            "svein-maalen"
+        ]
+    },
+    {
+        "slug": "se-direkte-fra-lerkendal",
+        "url": "/sport/fotball/i/3E7lEA/se-direkte-fra-lerkendal",
+        "title": {
+            "value": "Se sendingen fra Lerkendal: - Har vært et voldsomt press"
+        },
+        "description": "Følg Adresseavisens sending fra dramaet på Lerkendal.",
+        "imageUrl": "79b0575a-92fd-4adb-bac0-2de9d8c9b429",
+        "publishedAt": "2023-06-16T11:45:14Z",
+        "lastModifiedAt": "2023-06-16T12:17:49Z",
+        "premium": true,
+        "authors": [],
+        "tags": [
+            "fotball",
+            "kjetil-rekdal",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "rekdal-sparkingen-uunngaaelig",
+        "url": "/sport/fotball/i/BWnA5Q/rekdal-sparkingen-uunngaaelig",
+        "title": {
+            "value": " - En spillemessig katastrofe"
+        },
+        "description": "Adressa-kommentator Birger Løfaldli mener Rosenborg ikke hadde noe valg. Mens Jesper Mathisen er klar på at det både spille- og resultatmessig har vært levert altfor dårlig på Lerkendal.",
+        "imageUrl": "12297801-f4f0-46af-b0dd-46e9a527217d",
+        "publishedAt": "2023-06-16T11:14:56Z",
+        "lastModifiedAt": "2023-06-16T12:23:16Z",
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal",
+            "Johannes Strand"
+        ],
+        "tags": [
+            "markus-henriksen",
+            "fotball",
+            "kjetil-rekdal",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "rekdal-skal-ha-faatt-sparken",
+        "url": "/sport/fotball/i/wA57on/rekdal-skal-ha-faatt-sparken",
+        "title": {
+            "value": "Rekdal ferdig - erstatteren ut året er klar"
+        },
+        "description": "Både Kjetil Rekdal og assistent Geir Frigård skal ha fått beskjeden torsdag.",
+        "imageUrl": "3740e599-e7d2-486e-8f70-1ca52dd9e2e9",
+        "publishedAt": "2023-06-16T10:23:20Z",
+        "lastModifiedAt": "2023-06-16T12:23:47Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand",
+            "Ole K. Sagbakken",
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "kjetil-rekdal"
+        ]
+    }
+]

@@ -1,0 +1,190 @@
+[
+    {
+        "slug": "ranheim-2-slo-trygg-lade-i-maalfest",
+        "url": "/lokalfotballen/i/P4wXkp/ranheim-2-slo-trygg-lade-i-maalfest",
+        "title": {
+            "value": "Ranheim 2 slo Trygg / Lade i målfest"
+        },
+        "description": "Askil Mæland scoret fire ganger og hjalp Ranheim 2 til 9-1-seier over Trygg/Lade i G16 1. divisjon, Avdeling 1 - Vår lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T21:27:58Z",
+        "lastModifiedAt": "2023-06-10T21:27:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "laanke-med-borteseier-over-flatanger",
+        "url": "/lokalfotballen/i/76Jok9/laanke-med-borteseier-over-flatanger",
+        "title": {
+            "value": "Lånke seiret over Flatanger"
+        },
+        "description": "Lånke knuste Flatanger 4-1 i 4. divisjon, Trøndelag - Avdeling 1 i fotball for menn lørdag. Flatanger har tapt to kamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T18:57:25Z",
+        "lastModifiedAt": "2023-06-10T19:26:40Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "nidelv-avgjorde-paa-overtid",
+        "url": "/lokalfotballen/i/RGQXn8/nidelv-avgjorde-paa-overtid",
+        "title": {
+            "value": "Monsen sikret seieren på overtid"
+        },
+        "description": "Nidelv snudde til seier på overtid mot Namsos i 4. divisjon, Trøndelag - Avdeling 1 i fotball. Tommy Aure Monsen scoret to mål. Namsos har gått poengløse av banen i fem strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T16:35:03Z",
+        "lastModifiedAt": "2023-06-10T16:57:13Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "uavgjort-paa-roervik-kunstgress",
+        "url": "/lokalfotballen/i/VPLXLp/uavgjort-paa-roervik-kunstgress",
+        "title": {
+            "value": "Ranheim 2 måtte dele poengene"
+        },
+        "description": "Rørvik og Ranheim 2 måtte nøye seg med uavgjort på Rørvik kunstgress i 4. divisjon, Trøndelag - Avdeling 1 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T16:12:26Z",
+        "lastModifiedAt": "2023-06-10T16:27:45Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "stokke-dobbel-for-nardo",
+        "url": "/lokalfotballen/i/y6yJyR/stokke-dobbel-for-nardo",
+        "title": {
+            "value": "Stokke-dobbel sikret seier"
+        },
+        "description": "Sondre Stokke førte an med to mål i 4-1-seieren over Tiller i 3. divisjon, Avdeling 5 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T16:06:14Z",
+        "lastModifiedAt": "2023-06-10T16:27:45Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "sverre-16-var-oensket-i-em-for-19-aaringer-derfor-sa-rbk-nei",
+        "url": "/sport/fotball/i/9z00P9/sverre-16-var-oensket-i-em-for-19-aaringer-derfor-sa-rbk-nei",
+        "title": {
+            "value": "Derfor sa RBK nei til å la Sverre (16) delta i EM for 19-åringer"
+        },
+        "description": "I samråd med RBK har Sverre Nypan takket nei til å spille U19-EM for Norge. Nå forklarer både han og Kjetil Rekdal hvorfor.",
+        "imageUrl": "68d1a2f1-9cdb-460b-b122-c82c27834bfc",
+        "publishedAt": "2023-06-10T15:49:54Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "sverre-nypan",
+            "luis-pimenta"
+        ]
+    },
+    {
+        "slug": "vestbyen-nationalkameratene-slo-charlottenlund-i-maalfest",
+        "url": "/lokalfotballen/i/9z0eG9/vestbyen-nationalkameratene-slo-charlottenlund-i-maalfest",
+        "title": {
+            "value": "Vestbyen / Nationalkameratene slo Charlottenlund i målfest"
+        },
+        "description": "Vestbyen/Nationalkameratene fikk med seg alle poengene da Charlottenlund ble slått 6-3 i G16 Elite, Vår lørdag. Vestbyen/Nationalkameratene har fire seirer på sine fem siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T15:30:19Z",
+        "lastModifiedAt": "2023-06-10T15:30:19Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "kolstad-senket-av-sakshaug",
+        "url": "/lokalfotballen/i/pQmx9X/kolstad-senket-av-sakshaug",
+        "title": {
+            "value": "Sakshaug senket Kolstad"
+        },
+        "description": "Andreas Granhus scoret to ganger og hjalp Steinkjer til 3-2-seier over Kolstad i 3. divisjon, Avdeling 5 i fotball for menn lørdag. Kolstad har tapt de siste fire kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T15:05:35Z",
+        "lastModifiedAt": "2023-06-10T15:29:14Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "hun-herjet-med-gjestene-da-rbk-holdt-lekestue",
+        "url": "/sport/fotball/i/Q7KKdV/hun-herjet-med-gjestene-da-rbk-holdt-lekestue",
+        "title": {
+            "value": "Hun herjet med gjestene da RBK holdt lekestue "
+        },
+        "description": "Anna Jøsendal var Rosenborgs gigant da de herjet med Arna-Bjørnar i én omgang.",
+        "imageUrl": "1f002db3-5ffd-4c80-9709-28af44f0b2c4",
+        "publishedAt": "2023-06-10T14:59:46Z",
+        "lastModifiedAt": "2023-06-10T15:14:19Z",
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "fotball",
+            "rosenborg-kvinner"
+        ]
+    },
+    {
+        "slug": "troender-lyn-seiret-borte-mot-verdal",
+        "url": "/lokalfotballen/i/RGQXKa/troender-lyn-seiret-borte-mot-verdal",
+        "title": {
+            "value": "Trønder-Lyn-seier over Verdal"
+        },
+        "description": "Trønder-Lyn knuste Verdal 3-0 i 3. divisjon, Avdeling 5 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T14:59:14Z",
+        "lastModifiedAt": "2023-06-10T15:29:14Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred",
+            "lokalfotballen-tronderbladet"
+        ]
+    }
+]

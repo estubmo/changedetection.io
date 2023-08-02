@@ -1,0 +1,372 @@
+[
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "LlBVAp",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/LlBVAp",
+        "preamble": "(USA - Nederland 1–1) Regjerende verdensmester mot tapende finalist: Det fikk USAs kaptein til å fyre på alle plugger, før hun reddet laget fra tap. ",
+        "published": {
+            "date": "torsdag 27. juli",
+            "datetime": "2023-07-27 04:58:34",
+            "niceformat": "27.07.2023, 04:58",
+            "timestamp": "2023-07-27T02:58:34.000Z"
+        },
+        "thumbnail": {
+            "height": 253,
+            "url": "https://akamai.vgc.no/v2/images/4af0ebc9-8dcb-4ff7-9937-5b36d702af9a?fit=crop&format=auto&h=253&w=400&s=23367d371760aed69de8c295d17b51dfd5d4b009",
+            "width": 400
+        },
+        "title": "USAs kaptein reddet poeng mot Nederland: – Alt hun trengte var litt sinne ",
+        "url": "https://www.vg.no/sport/fotball/i/LlBVAp/usas-kaptein-reddet-poeng-mot-nederland-alt-hun-trengte-var-litt-sinne"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3WP8A",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3WP8A",
+        "preamble": "AUCKLAND (VG) Ingrid Syrstad Engen erkjenner at hun var skuffet over Riises beskjed før kampen mot Sveits. Hun har forståelse for at Graham Hansen reagerte som hun gjorde. ",
+        "published": {
+            "date": "torsdag 27. juli",
+            "datetime": "2023-07-27 02:57:27",
+            "niceformat": "27.07.2023, 02:57",
+            "timestamp": "2023-07-27T00:57:27.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/cbcf4a3f-455e-4ad9-be66-2d2a8670fd5f?fit=crop&format=auto&h=266&w=400&s=65a676b9137d8c7ac8c6ffed715403b241e47f95",
+            "width": 400
+        },
+        "title": "Ikke overrasket over Graham Hansens reaksjon: – I samme situasjon selv",
+        "url": "https://www.vg.no/sport/fotball/i/l3WP8A/ikke-overrasket-over-graham-hansens-reaksjon-i-samme-situasjon-selv"
+    },
+    {
+        "authors": [
+            {
+                "email": "mattis.holt@vg.no",
+                "id": "783ec02a-650f-49b8-8655-cd3e1ad5f4fa",
+                "name": "Mattis Holt"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "abdz95",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/abdz95",
+        "preamble": "Den britiske pressen lar seg imponere av Erik ten Hag (53) i sesongoppkjøringen til Manchester United.",
+        "published": {
+            "date": "torsdag 27. juli",
+            "datetime": "2023-07-27 00:03:38",
+            "niceformat": "27.07.2023, 00:03",
+            "timestamp": "2023-07-26T22:03:38.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/d5d0c488-de8b-4517-84c5-991fcabf4fee?fit=crop&format=auto&h=267&w=400&s=2226502d2c4c913ea94582fc7cab249da03cbe1c",
+            "width": 400
+        },
+        "title": "United-manageren hylles for U21-oppfølging: – Briljant",
+        "url": "https://www.vg.no/sport/fotball/i/abdz95/manchester-united-trener-erik-ten-hag-hylles-for-tilstedevaerelsen-paa-wrexham-kampen"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAplAd",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAplAd",
+        "preamble": "Nok en gang er den tidligere fotballstjernen Mesut Özil (34) i hardt vært for sitt politiske ståsted. Denne gangen har en grå ulv på brystet skapt furore. ",
+        "published": {
+            "date": "onsdag 26. juli",
+            "datetime": "2023-07-26 22:51:40",
+            "niceformat": "26.07.2023, 22:51",
+            "timestamp": "2023-07-26T20:51:40.000Z"
+        },
+        "thumbnail": {
+            "height": 262,
+            "url": "https://akamai.vgc.no/v2/images/f5b58250-e743-44ce-9461-ebb7f30f0bc9?fit=crop&format=auto&h=262&w=400&s=cc073ecd7657b8e69440c196cce4284400cb68ac",
+            "width": 400
+        },
+        "title": "Tysk by boikotter Özil etter høyreekstrem tatovering",
+        "url": "https://www.vg.no/sport/fotball/i/wAplAd/tysk-by-boikotter-ozil-etter-hoeyreekstrem-tatovering"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5BQXQE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5BQXQE",
+        "preamble": "Paris Saint-Germains midtbanestjerne Marco Verratti (30) nærmer seg den saudiarabiske klubben Al-Hilal.",
+        "published": {
+            "date": "onsdag 26. juli",
+            "datetime": "2023-07-26 21:33:37",
+            "niceformat": "26.07.2023, 21:33",
+            "timestamp": "2023-07-26T19:33:37.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/f84151cd-5bf1-4c64-b567-28180cb1a550?fit=crop&format=auto&h=267&w=400&s=02710780b7636d8268499b6599787120e9f45759",
+            "width": 400
+        },
+        "title": "Romano: Verratti nærmer seg Saudi-Arabia",
+        "url": "https://www.vg.no/sport/fotball/i/5BQXQE/romano-verratti-naermer-seg-saudi-arabia"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.hellenes@schibsted.com",
+                "id": "424642b6-03fe-42cd-abe2-5f7517e8a8e1",
+                "name": "Andreas Hellenes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jl1Wwo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jl1Wwo",
+        "preamble": "Britiske Joe Lewis (86) er satt under tiltale i USA for å ha organisert innsidehandel, men under en høring på Manhattan erkjenner han seg ikke skyldig.",
+        "published": {
+            "date": "onsdag 26. juli",
+            "datetime": "2023-07-26 20:20:10",
+            "niceformat": "26.07.2023, 20:20",
+            "timestamp": "2023-07-26T18:20:10.000Z"
+        },
+        "thumbnail": {
+            "height": 263,
+            "url": "https://akamai.vgc.no/v2/images/139db33f-a284-4f8b-bcdf-595eed41138c?fit=crop&format=auto&h=263&w=400&s=569f5989bedaaab0d11b4e8e8f295b9de00d32bb",
+            "width": 400
+        },
+        "title": "Tottenham-eier nekter for innsidehandel",
+        "url": "https://www.vg.no/sport/fotball/i/jl1Wwo/tottenham-eier-joe-lewis-nekter-for-innsidehandel"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zE3px5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zE3px5",
+        "preamble": "Manchester United har lagt inn et storbud på den danske spissen Rasmus Højlund (20). ",
+        "published": {
+            "date": "onsdag 26. juli",
+            "datetime": "2023-07-26 19:51:00",
+            "niceformat": "26.07.2023, 19:51",
+            "timestamp": "2023-07-26T17:51:00.000Z"
+        },
+        "thumbnail": {
+            "height": 239,
+            "url": "https://akamai.vgc.no/v2/images/23186d96-dba5-4475-8b06-0e7ea35e5687?fit=crop&format=auto&h=239&w=400&s=83e976e6b4d633f7790612b1f678a5cc5927f2b7",
+            "width": 400
+        },
+        "title": "Medier: United-bud på dansk yndling",
+        "url": "https://www.vg.no/sport/fotball/i/zE3px5/medier-united-bud-paa-dansk-stortalent"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            },
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Mo201K",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Mo201K",
+        "preamble": "Jordan Henderson (33) er den hittil siste stjernen som drar til saudiarabisk fotball. Der skal han spille under Steven Gerrard (43). Overgangen skaper kraftige reaksjoner.",
+        "published": {
+            "date": "onsdag 26. juli",
+            "datetime": "2023-07-26 19:34:58",
+            "niceformat": "26.07.2023, 19:34",
+            "timestamp": "2023-07-26T17:34:58.000Z"
+        },
+        "thumbnail": {
+            "height": 278,
+            "url": "https://akamai.vgc.no/v2/images/9c48edc1-6448-4d83-8e20-af0a2797c25f?fit=crop&format=auto&h=278&w=400&s=2ebdc97d8fb559f2c2794189baa32b0f1cf3d1d5",
+            "width": 400
+        },
+        "title": "Henderson klar for Al Ettifaq: – Vrir seg i magen",
+        "url": "https://www.vg.no/sport/fotball/i/Mo201K/henderson-klar-for-al-ettifaq-vrir-seg-i-magen"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4oKp1G",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4oKp1G",
+        "preamble": "TOKYO (VG) Han fikk enorm oppmerksomhet for «festen som aldri tok slutt». Samtidig røper Jack Grealish (27) at han og kompisen Erling Braut Haaland (23) ikke holdt seg helt borte fra hverandre i ukene som fulgte.",
+        "published": {
+            "date": "onsdag 26. juli",
+            "datetime": "2023-07-26 18:58:45",
+            "niceformat": "26.07.2023, 18:58",
+            "timestamp": "2023-07-26T16:58:45.000Z"
+        },
+        "thumbnail": {
+            "height": 287,
+            "url": "https://akamai.vgc.no/v2/images/29fb026a-a8c7-45e8-9782-e50fd8b4d0dd?fit=crop&format=auto&h=287&w=400&s=d4b6ac9d6cbb451b045c6ddfae649b314fc96add",
+            "width": 400
+        },
+        "title": "Dansende Grealish åpner opp om «fyllefesten» og røper Haaland-møte i Frankrike",
+        "url": "https://www.vg.no/sport/fotball/i/4oKp1G/jack-grealish-roeper-moete-med-erling-braut-haaland-i-frankrike-i-sommer"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dw0APB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dw0APB",
+        "preamble": "TOKYO (VG) (Bayern München – Manchester City 1–2) For andre gang på rad startet Erling Braut Haaland (23) på benken, men i motsetning til sist, ble det en kamp som trolig går rett i glemmeboken.",
+        "published": {
+            "date": "onsdag 26. juli",
+            "datetime": "2023-07-26 14:21:35",
+            "niceformat": "26.07.2023, 14:21",
+            "timestamp": "2023-07-26T12:21:35.000Z"
+        },
+        "thumbnail": {
+            "height": 278,
+            "url": "https://akamai.vgc.no/v2/images/9cfdfc7a-5567-4e9e-8937-5126aa045945?fit=crop&format=auto&h=278&w=400&s=6f975baef451a4fa68a5c596b4c2673f06df2013",
+            "width": 400
+        },
+        "title": "Haaland usynlig i Tokyo: Laporte sikret seieren i gigantmøtet",
+        "url": "https://www.vg.no/sport/fotball/i/dw0APB/haaland-usynlig-i-tokyo-laporte-sikret-seieren-i-gigantmoetet"
+    }
+]

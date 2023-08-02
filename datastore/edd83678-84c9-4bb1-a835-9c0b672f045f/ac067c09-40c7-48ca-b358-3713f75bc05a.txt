@@ -1,0 +1,198 @@
+[
+    {
+        "slug": "ranheim-2-tok-tre-poeng-i-toppkampen",
+        "url": "/lokalfotballen/i/9z0Lll/ranheim-2-tok-tre-poeng-i-toppkampen",
+        "title": {
+            "value": "Ranheim 2 tok tre poeng i toppkampen"
+        },
+        "description": "Snåsa gikk på sitt første nederlag på åtte kamper etter dagens 3-0-tap mot Ranheim 2 i J14 2. divisjon, Avdeling 2 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-11T13:39:40Z",
+        "lastModifiedAt": "2023-06-11T13:39:40Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "trygg-lade-snudde-til-seier-over-ranheim-2",
+        "url": "/lokalfotballen/i/BWn4pG/trygg-lade-snudde-til-seier-over-ranheim-2",
+        "title": {
+            "value": "Trygg / Lade snudde til seier over Ranheim 2"
+        },
+        "description": "Trygg/Lade lå under 0-1, men snudde til 3-1-seier mot Ranheim 2 i G14 2. divisjon, Avdeling 3 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-11T12:07:58Z",
+        "lastModifiedAt": "2023-06-11T12:28:15Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "heggheim-senket-rosenborg-2",
+        "url": "/lokalfotballen/i/69dMOz/heggheim-senket-rosenborg-2",
+        "title": {
+            "value": "Heggheim avgjorde for Viking"
+        },
+        "description": "Nora Heggheim scoret det avgjørende målet for Viking i 1-0-seieren over Rosenborg 2 på Koteng Arena i 2. divisjon, Avdeling 1 søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-11T11:56:45Z",
+        "lastModifiedAt": "2023-06-11T12:27:06Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "forseth-boettet-inn-maal-mot-froeya-il-7er",
+        "url": "/lokalfotballen/i/wA5JoL/forseth-boettet-inn-maal-mot-froeya-il-7er",
+        "title": {
+            "value": "Forseth bøttet inn mål for Trygg / Lade 7er"
+        },
+        "description": "Frøya IL 7er tapte 0-12 mot Trygg/Lade 7er og har dermed tapt sine fem første kamper denne sesongen i 7er, Trøndelag - Avdeling 2 søndag. Stine Forseth scoret fire av målene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-11T11:51:40Z",
+        "lastModifiedAt": "2023-06-11T11:57:53Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    },
+    {
+        "slug": "selbu-2-7er-knuste-aafjord-7er",
+        "url": "/lokalfotballen/i/XbnO0r/selbu-2-7er-knuste-aafjord-7er",
+        "title": {
+            "value": "Selbu 2 7er knuste Åfjord 7er"
+        },
+        "description": "Emilie Løvseth scoret tre ganger da Selbu 2 7er vant 5-0 over Åfjord 7er i 7er, Trøndelag - Avdeling 3 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-11T11:26:21Z",
+        "lastModifiedAt": "2023-06-11T11:27:21Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "freidig-2-9er-berget-uavgjort",
+        "url": "/lokalfotballen/i/pQmOeE/freidig-2-9er-berget-uavgjort",
+        "title": {
+            "value": "Elise Steigedal reddet poeng for Freidig 2 9er"
+        },
+        "description": "Freidig 2 9er gikk fra 0-2 til 2-2 og klarte å ta poeng mot Ranheim i J15 2. divisjon, Avdeling 4 - Vår søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-11T10:51:06Z",
+        "lastModifiedAt": "2023-06-11T12:59:51Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "naa-lever-vm-droemmen-for-lene-23-lenge-siden-jeg-har-smilt-saa-mye",
+        "url": "/sport/i/4oGldo/naa-lever-vm-droemmen-for-lene-23-lenge-siden-jeg-har-smilt-saa-mye",
+        "title": {
+            "value": "En skade har holdt Lene (23) utenfor: - Lenge siden jeg har smilt så mye "
+        },
+        "description": "Rosenborg-keeperen startet året på krykker. Nå er målet VM-tur til Australia.",
+        "imageUrl": "fb566d11-54c9-4c70-8fcc-a649c9e808a4",
+        "publishedAt": "2023-06-11T08:48:29Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "fotball",
+            "lene-christensen",
+            "rosenborg-kvinner",
+            "anna-joesendal",
+            "steinar-lein"
+        ]
+    },
+    {
+        "slug": "nedslaaende-for-rbk-profil-dette-sier-rekdal-om-laget",
+        "url": "/sport/fotball/i/P4wXl0/nedslaaende-for-rbk-profil-dette-sier-rekdal-om-laget",
+        "title": {
+            "value": "Stabæk-RBK: Dette sier Rekdal om laget"
+        },
+        "description": "Tobias Børkeeiet kan miste også de første kampene etter ferien. Følg Stabæk-RBK i vårt Ivers-studio fra 16.45!",
+        "imageUrl": "7f287254-2dde-4c28-a8e7-28f42d4018f8",
+        "publishedAt": "2023-06-11T08:40:00Z",
+        "lastModifiedAt": "2023-06-11T08:55:21Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "eliteserien",
+            "per-ciljan-skjelbred",
+            "steffen-iversen",
+            "michael-karlsen",
+            "ole-saeter-2",
+            "tobias-boerkeeiet"
+        ]
+    },
+    {
+        "slug": "ranheim-2-slo-trygg-lade-i-maalfest",
+        "url": "/lokalfotballen/i/P4wXkp/ranheim-2-slo-trygg-lade-i-maalfest",
+        "title": {
+            "value": "Ranheim 2 slo Trygg / Lade i målfest"
+        },
+        "description": "Askil Mæland scoret fire ganger og hjalp Ranheim 2 til 9-1-seier over Trygg/Lade i G16 1. divisjon, Avdeling 1 - Vår lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T21:27:58Z",
+        "lastModifiedAt": "2023-06-10T21:27:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "laanke-med-borteseier-over-flatanger",
+        "url": "/lokalfotballen/i/76Jok9/laanke-med-borteseier-over-flatanger",
+        "title": {
+            "value": "Lånke seiret over Flatanger"
+        },
+        "description": "Lånke knuste Flatanger 4-1 i 4. divisjon, Trøndelag - Avdeling 1 i fotball for menn lørdag. Flatanger har tapt to kamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T18:57:25Z",
+        "lastModifiedAt": "2023-06-10T19:26:40Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    }
+]

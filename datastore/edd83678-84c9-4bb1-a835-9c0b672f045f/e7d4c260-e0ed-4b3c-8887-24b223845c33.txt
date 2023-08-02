@@ -1,0 +1,190 @@
+[
+    {
+        "slug": "supporter-skal-vaere-bitt-av-politihund",
+        "url": "/nyhetsstudio/i/dwpRoX/supporter-skal-vaere-bitt-av-politihund",
+        "title": {
+            "value": "Supporter skal være bitt av politihund: - Har vært mye"
+        },
+        "description": null,
+        "imageUrl": null,
+        "publishedAt": "2023-05-06T22:35:43Z",
+        "lastModifiedAt": "2023-05-06T22:52:05Z",
+        "premium": true,
+        "authors": [
+            "Kari-Anne Aarvåg"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "vukovic-dobbel-for-ntnui",
+        "url": "/lokalfotballen/i/gEBw50/vukovic-dobbel-for-ntnui",
+        "title": {
+            "value": "Vukovic-dobbel for NTNUI"
+        },
+        "description": "Julija Vukovic scoret to av målene da NTNUI vant 4-0 over Namsos i 4. divisjon, Trøndelag - Avdeling 1 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-06T21:17:03Z",
+        "lastModifiedAt": "2023-05-06T21:17:03Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "raadvill-rbk-bauta-har-slitt-med-det-siden-januar",
+        "url": "/sport/fotball/i/LlqMrP/raadvill-rbk-bauta-har-slitt-med-det-siden-januar",
+        "title": {
+            "value": "Rådvill RBK-bauta: - Har slitt med det siden januar"
+        },
+        "description": "André Hansen innrømmer både motløshet og at han er rådvill. Men er ikke overrasket over at RBK har blitt en «middelhavsfarer».",
+        "imageUrl": "0991a35d-94c0-4c74-9552-48acfb7021ab",
+        "publishedAt": "2023-05-06T19:51:32Z",
+        "lastModifiedAt": "2023-05-06T19:56:26Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken",
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "andre-hansen",
+            "kjetil-rekdal"
+        ]
+    },
+    {
+        "slug": "rbk-treneren-etter-ydmykelsen-det-er-100-prosent-mitt-ansvar",
+        "url": "/sport/fotball/i/eJXMLl/rbk-treneren-etter-ydmykelsen-det-er-100-prosent-mitt-ansvar",
+        "title": {
+            "value": "Rekdal forstår spørsmål om egen rolle:  - Ja, selvfølgelig"
+        },
+        "description": "Kjetil Rekdal tar det fulle ansvaret for Rosenborgs svake sesongstart.",
+        "imageUrl": "2eb51ff1-793e-4359-a428-f022c0535147",
+        "publishedAt": "2023-05-06T18:38:59Z",
+        "lastModifiedAt": "2023-05-06T19:08:28Z",
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl",
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "hvor-lenge-gidder-han",
+        "url": "/sport/i/Moqnkm/hvor-lenge-gidder-han",
+        "title": {
+            "value": "Hvor lenge gidder han?"
+        },
+        "description": "KOMMENTAR: Det var kampen Kjetil Rekdal måtte vinne. Det gikk i stedet fra vondt til verre. Nå er Rosenborg i nedrykksstriden.",
+        "imageUrl": "0ddcc17c-47e5-45d3-8498-4706cb3eb9f5",
+        "publishedAt": "2023-05-06T17:59:55Z",
+        "lastModifiedAt": "2023-05-06T18:20:42Z",
+        "premium": true,
+        "authors": [
+            "Birger Løfaldli"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "birger-loefaldli",
+            "cecilie-gotaas-johnsen",
+            "per-mathias-hoegmo",
+            "eirik-horneland"
+        ]
+    },
+    {
+        "slug": "svak-rbk-boers-etter-vaalerenga-smell",
+        "url": "/sport/i/q1bPpo/svak-rbk-boers-etter-vaalerenga-smell",
+        "title": {
+            "value": "Svak RBK-børs etter Vålerenga-smell"
+        },
+        "description": "Et Rosenborg på desperat poengjakt fikk nok en gang problemer på eget gress.",
+        "imageUrl": "c0d08082-a436-4107-b33f-343927d1118b",
+        "publishedAt": "2023-05-06T17:58:44Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "ntnui-vant-igjen",
+        "url": "/lokalfotballen/i/Moqnbm/ntnui-vant-igjen",
+        "title": {
+            "value": "NTNUI vant igjen"
+        },
+        "description": "Etter dagens 3-0-seier står NTNUI uten poengtap så langt denne sesongen. I 4. divisjon, Trøndelag - Avdeling 2 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-06T17:46:48Z",
+        "lastModifiedAt": "2023-05-06T17:46:48Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "to-fulltreffere-fra-kleppo-vangen",
+        "url": "/lokalfotballen/i/bgom6g/to-fulltreffere-fra-kleppo-vangen",
+        "title": {
+            "value": "Tynset fortsatte seiersrekken"
+        },
+        "description": "Tynset tok sin fjerde strake seier med 3-1 over Ørland i 4. divisjon, Trøndelag - Avdeling 2 i fotball for menn lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-06T16:24:40Z",
+        "lastModifiedAt": "2023-05-06T16:46:53Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "storseier-for-namsos",
+        "url": "/lokalfotballen/i/LlqMdJ/storseier-for-namsos",
+        "title": {
+            "value": "Knusende seier for Namsos"
+        },
+        "description": "Namsos banket Charlottenlund 4-0 i 4. divisjon, Trøndelag - Avdeling 1 lørdag. Det var sesongens første seier for Namsos.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-06T16:22:35Z",
+        "lastModifiedAt": "2023-05-06T20:16:42Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "knusende-seier-for-kvik",
+        "url": "/lokalfotballen/i/15dM8K/knusende-seier-for-kvik",
+        "title": {
+            "value": "Kvik knuste KIL/Hemne"
+        },
+        "description": "Kvik tok sin tredje strake seier da KIL/Hemne ble slått 6-2 i 4. divisjon, Trøndelag - Avdeling 2 i fotball for menn lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-06T16:22:35Z",
+        "lastModifiedAt": "2023-05-06T18:46:30Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    }
+]

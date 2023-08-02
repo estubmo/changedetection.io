@@ -1,0 +1,362 @@
+[
+    {
+        "authors": [
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            },
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgd91n",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgd91n",
+        "preamble": "CLUJ, ROMANIA (VG) (Norge U21 – Sveits U21 1–2) Norge ledet, men det endte med en krisestart i den første EM-kampen. Nå blir det vanskelig for Norge i EM. ",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 19:52:58",
+            "niceformat": "22.06.2023, 19:52",
+            "timestamp": "2023-06-22T17:52:58.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/eaaeaac4-b674-42c5-a5ef-a6e8284ebb79?fit=crop&format=auto&h=267&w=400&s=8627a0fa98c6a546c835a7e50c6ceb300944ca96",
+            "width": 400
+        },
+        "title": "Fryktelig start for Norge i U21-EM: - Fælt ",
+        "url": "https://www.vg.no/sport/fotball/i/xgd91n/u21-em-norge-tapte-foerste-gruppekampen-mot-sveits"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPXa64",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPXa64",
+        "preamble": "De amerikanske eierne av Premier League-klubben Chelsea har inngått en avtale om å kjøpe opp den franske Ligue 1-klubben Strasbourg.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 19:46:10",
+            "niceformat": "22.06.2023, 19:46",
+            "timestamp": "2023-06-22T17:46:10.000Z"
+        },
+        "thumbnail": {
+            "height": 265,
+            "url": "https://akamai.vgc.no/v2/images/fe64a6e8-d966-4a86-ab92-3061dc40e709?fit=crop&format=auto&h=265&w=400&s=ea9f59895f8ea7e50871081cce69145952a32435",
+            "width": 400
+        },
+        "title": "Chelsea-eierne har kjøpt Ligue 1-klubben Strasbourg",
+        "url": "https://www.vg.no/sport/fotball/i/VPXa64/chelsea-eierne-har-kjoept-ligue-1-klubben-strasbourg"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76oBL4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76oBL4",
+        "preamble": "Jamie Carragher uttrykker sin bekymring etter at enda en stjerne blir linket til Saudi-Arabia.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 19:21:07",
+            "niceformat": "22.06.2023, 19:21",
+            "timestamp": "2023-06-22T17:21:07.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/587783c6-71b4-4609-aa08-95ae0a46a699?fit=crop&format=auto&h=266&w=400&s=bf298c34e762a21475435ebc54d86959ab066480",
+            "width": 400
+        },
+        "title": "Fotballekspert bekymret for utviklingen etter nye Saudi-rykter: – Vil endre alt",
+        "url": "https://www.vg.no/sport/fotball/i/76oBL4/fotballekspert-bekymret-for-utviklingen-etter-nye-saudi-rykter-vil-endre-alt"
+    },
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMX67B",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMX67B",
+        "preamble": "Odin Thiago Holm (20) har signert en fem års-kontrakt med den skotske storklubben Celtic.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 16:57:37",
+            "niceformat": "22.06.2023, 16:57",
+            "timestamp": "2023-06-22T14:57:37.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/29a4eb30-4b72-45be-9126-5bd78e027b58?fit=crop&format=auto&h=267&w=400&s=7907ec7d5986af923c42372773dc14829c134881",
+            "width": 400
+        },
+        "title": "Thiago Holm forlater Vålerenga: – Celtic er en massiv klubb",
+        "url": "https://www.vg.no/sport/fotball/i/GMX67B/bekreftet-thiago-holm-har-signert-fem-aars-kontrakt-med-celtic"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "LldrgR",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/LldrgR",
+        "preamble": "CLUJ, ROMANIA (VG) Det er et fryktløst U21-landslag som entrer gressmatten mot Sveits i Norges første mesterskapskamp på 10 år.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 15:55:32",
+            "niceformat": "22.06.2023, 15:55",
+            "timestamp": "2023-06-22T13:55:32.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/OJVqxksVpi3g.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "U21-gutta vil forsvare Norges ære: – Vi skal sjokkere",
+        "url": "https://www.vg.no/sport/fotball/i/LldrgR/u21-gutta-vil-forsvare-norges-aere-vi-skal-sjokkere"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgd9Vn",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgd9Vn",
+        "preamble": "Barcelona starter tittelforsvaret i La Liga borte mot Getafe, mens Real Madrid møter Athletic Bilbao. Sesongens første El Clásico er lagt til 29. oktober.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 15:02:35",
+            "niceformat": "22.06.2023, 15:02",
+            "timestamp": "2023-06-22T13:02:35.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/8f932a55-ebce-4ee9-b2f9-6ebcc55486dc?fit=crop&format=auto&h=267&w=400&s=a91af23a850bbe9aeb4505d268193fea5bbaaeba",
+            "width": 400
+        },
+        "title": "La Liga-kalenderen er klar: El Clásico i slutten av oktober",
+        "url": "https://www.vg.no/sport/fotball/i/xgd9Vn/la-liga-kalenderen-er-klar-el-clasico-i-slutten-av-oktober"
+    },
+    {
+        "authors": [
+            {
+                "email": "leif.welhaven@vg.no",
+                "id": "e46ed1bb-8354-4bd4-97d3-09ac43c5dc8f",
+                "name": "Leif Welhaven"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4Xdzb",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4Xdzb",
+        "preamble": "Malcolm Bidali ble et symbol på migrantarbeidernes kamp i Qatar. Dessverre har den ikke ført til stort.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 13:10:14",
+            "niceformat": "22.06.2023, 13:10",
+            "timestamp": "2023-06-22T11:10:14.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/55e4a1a6-002d-461b-a791-60ccce82bfd0?fit=crop&format=auto&h=300&w=400&s=53f34d96157c3195b79a3e728622e65c38b77cb0",
+            "width": 400
+        },
+        "title": "Stille etter stormen",
+        "url": "https://www.vg.no/sport/fotball/i/P4Xdzb/migrantarbeidere-i-qatar-stille-etter-stormen"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEzxg1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEzxg1",
+        "preamble": "CLUJ, ROMANIA (VG) De neste ukene spiller Oscar Bobb for Norge i U21-EM. I etterkant kan 19-åringen bli fast lagkamerat med Erling Braut Haaland (22) i Manchester City.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 13:04:17",
+            "niceformat": "22.06.2023, 13:04",
+            "timestamp": "2023-06-22T11:04:17.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/405eb8d4-60cf-41df-aabf-6f75f4ecc29d?fit=crop&format=auto&h=267&w=400&s=bbd8fa2837d8413135d84c1b83c41a9ad7432a11",
+            "width": 400
+        },
+        "title": "Norsk juvel (19) kan få City-drømmen oppfylt",
+        "url": "https://www.vg.no/sport/fotball/i/zEzxg1/den-norske-juvelen-oscar-bobb-19-kan-faa-city-droemmen-oppfylt"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "APB0k3",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/APB0k3",
+        "preamble": "Australske Gianni Stensness pådro seg en korsbåndsskade under torsdagens trening. Nå er han ute resten av sesongen.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 11:11:58",
+            "niceformat": "22.06.2023, 11:11",
+            "timestamp": "2023-06-22T09:11:58.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a6d48384-694a-4898-98f9-b3c8521aa5bc?fit=crop&format=auto&h=267&w=400&s=203ae662ffb9c06453c89afefac5157ade223b87",
+            "width": 400
+        },
+        "title": "Viktig Viking-brikke ute resten av sesongen",
+        "url": "https://www.vg.no/sport/fotball/i/APB0k3/eliteserien-vikings-midtstopper-gianni-stensness-trolig-ute-resten-av-sesongen-etter-skade-paa-trening"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3EeP59",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3EeP59",
+        "preamble": "Inter Miami-målvakt Nick Marsman (32) havnet på sykehuset i tre dager etter et ublidt møte med en giftig edderkopp.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 11:08:23",
+            "niceformat": "22.06.2023, 11:08",
+            "timestamp": "2023-06-22T09:08:23.000Z"
+        },
+        "thumbnail": {
+            "height": 219,
+            "url": "https://akamai.vgc.no/v2/images/87b75277-c3d1-4b1f-b2f1-63d87e981478?fit=crop&format=auto&h=219&w=400&s=9f4ce34294bfb905d04c2a685e36de9f13e3b45c",
+            "width": 400
+        },
+        "title": "Messis nye lagkamerat på sykehus etter edderkoppbitt",
+        "url": "https://www.vg.no/sport/fotball/i/3EeP59/lionel-messis-inter-miami-lagkamerat-nick-marsman-lagt-inn-paa-sykehuset-etter-giftig-edderkoppbitt"
+    }
+]

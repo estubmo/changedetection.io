@@ -1,0 +1,203 @@
+[
+    {
+        "slug": "alvdal-slo-nardo-2-i-maalfest",
+        "url": "/lokalfotballen/i/JQqlP7/alvdal-slo-nardo-2-i-maalfest",
+        "title": {
+            "value": "Alvdal slo Nardo 2 i målfest"
+        },
+        "description": "Kristian Rosmæl Kløvstad viste scoringsform da Alvdal vant 5-3 over Nardo 2 i 4. divisjon, Trøndelag - Avdeling 2 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-08T20:04:07Z",
+        "lastModifiedAt": "2023-05-08T20:04:07Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "storseier-for-ranheim",
+        "url": "/lokalfotballen/i/RGqmPW/storseier-for-ranheim",
+        "title": {
+            "value": "Storseier for Ranheim"
+        },
+        "description": "Erika Sandsør scoret tre mål og hjalp Ranheim til 8-3-seier over Levanger i 3. divisjon, Trøndelag i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-08T19:58:57Z",
+        "lastModifiedAt": "2023-05-08T19:58:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "nationalkameratene-2-ydmyket-orkanger-2",
+        "url": "/lokalfotballen/i/mQpLG4/nationalkameratene-2-ydmyket-orkanger-2",
+        "title": {
+            "value": "Nationalkameratene 2 ydmyket Orkanger 2"
+        },
+        "description": "Nationalkameratene 2 banket Orkanger 2 8-0 i 6. divisjon, Trøndelag - Avdeling 4 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-08T19:57:55Z",
+        "lastModifiedAt": "2023-05-08T19:57:55Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "meldal-snudde-til-seier-paa-tampen-over-rindal-2",
+        "url": "/lokalfotballen/i/kEbp4Q/meldal-snudde-til-seier-paa-tampen-over-rindal-2",
+        "title": {
+            "value": "Meldal snudde til seier på tampen over Rindal 2"
+        },
+        "description": "Meldal snudde til seier i sluttminuttene mot Rindal 2 i 6. divisjon, Trøndelag - Avdeling 5 i fotball for menn mandag. Meldal tok sin første seier i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-08T19:56:45Z",
+        "lastModifiedAt": "2023-05-08T19:56:45Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "hun-skiller-seg-ut-treneren-reagerer-for-daarlig",
+        "url": "/sport/langrenn/i/GMq099/hun-skiller-seg-ut-treneren-reagerer-for-daarlig",
+        "title": {
+            "value": "Det nye skihåpet ble gårdsfrelst da hun fikk ny kjæreste"
+        },
+        "description": "Skitrener Kristian Skrødal fant plass til kun én ny kvinnelig løper på regionlaget. Også neste sesong blir laget mannsdominert.",
+        "imageUrl": "8e7e40c6-64ab-4f8f-80c2-9464da4be602",
+        "publishedAt": "2023-05-08T19:30:18Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "team-elon-midt-norge",
+            "langrenn",
+            "kristian-skroedal",
+            "tale-bruheim-breding",
+            "berit-mogstad"
+        ]
+    },
+    {
+        "slug": "broholm-dobbel-for-rosenborg-2",
+        "url": "/lokalfotballen/i/BWqy8e/broholm-dobbel-for-rosenborg-2",
+        "title": {
+            "value": "Broholm-dobbel sikret seier"
+        },
+        "description": "Marius Broholm scoret to av målene da Rosenborg 2 vant 3-2 over Verdal i 3. divisjon, Avdeling 5 i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-08T19:09:02Z",
+        "lastModifiedAt": "2023-05-08T19:48:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "byaasen-2-tok-sin-fjerde-strake-seier",
+        "url": "/lokalfotballen/i/kEbp59/byaasen-2-tok-sin-fjerde-strake-seier",
+        "title": {
+            "value": "Fjerde strake seier for Byåsen 2"
+        },
+        "description": "Etter dagens 5-2-seier står Byåsen 2 uten poengtap så langt i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-08T19:01:46Z",
+        "lastModifiedAt": "2023-05-08T19:18:10Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "slik-vil-vi-ikke-ha-det-i-byen-vaar",
+        "url": "/meninger/i/wAbRWG/slik-vil-vi-ikke-ha-det-i-byen-vaar",
+        "title": {
+            "value": "Slik vil vi ikke ha det i byen vår"
+        },
+        "description": "Vold og lovbrudd i forbindelse med fotballkamper på Lerkendal er totalt uakseptabelt.",
+        "imageUrl": "25db0890-d49a-4310-858e-56eddec7b7e3",
+        "publishedAt": "2023-05-08T19:01:46Z",
+        "lastModifiedAt": "2023-05-08T19:01:46Z",
+        "premium": false,
+        "authors": [
+            "Adresseavisen"
+        ],
+        "tags": [
+            "leder",
+            "rosenborg",
+            "vold",
+            "kjernen",
+            "vaalerenga",
+            "supporterkultur",
+            "trondheim",
+            "politi-2"
+        ]
+    },
+    {
+        "slug": "det-er-ikke-han-som-har-skapt-krisen",
+        "url": "/sport/i/jlbOj0/det-er-ikke-han-som-har-skapt-krisen",
+        "title": {
+            "value": "Det er ikke han som har skapt krisen"
+        },
+        "description": "KOMMENTAR: Likevel er det lite sannsynlig at Kjetil Rekdal overlever sommeren som hovedtrener i Rosenborg.",
+        "imageUrl": "5f158167-2eb8-4a45-98c7-01721ecdf9df",
+        "publishedAt": "2023-05-08T19:01:30Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Birger Løfaldli"
+        ],
+        "tags": [
+            "cecilie-gotaas-johnsen",
+            "kjetil-rekdal",
+            "kjetil-knutsen",
+            "tore-bjoerseth-berdal",
+            "rosenborg-bk",
+            "birger-loefaldli"
+        ]
+    },
+    {
+        "slug": "ranheim-ordnet-uavgjort",
+        "url": "/lokalfotballen/i/onlvrK/ranheim-ordnet-uavgjort",
+        "title": {
+            "value": "Ranheim ordnet uavgjort"
+        },
+        "description": "Ranheim og Charlottenlund måtte nøye seg med ett poeng hver i J13 1. divisjon, Avdeling 2 - Vår mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-08T18:53:20Z",
+        "lastModifiedAt": "2023-05-08T19:23:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

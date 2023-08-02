@@ -1,0 +1,187 @@
+[
+    {
+        "slug": "stubban-old-boys-snudde-til-seier-i-sluttminuttene",
+        "url": "/lokalfotballen/i/8J7n0x/stubban-old-boys-snudde-til-seier-i-sluttminuttene",
+        "title": {
+            "value": "Stubban Old Boys snudde til seier i sluttminuttene"
+        },
+        "description": "Stubban Old Boys lå under med to mål, men snudde kampen og vant 4-3 i seriepremieren i M34.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-03T06:49:06Z",
+        "lastModifiedAt": "2023-05-03T06:49:06Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "rekdals-oppgjoer-lite-realistisk-det-mange-hiver-ut-av-seg",
+        "url": "/sport/fotball/i/698a9W/rekdals-oppgjoer-lite-realistisk-det-mange-hiver-ut-av-seg",
+        "title": {
+            "value": "– Lite realistisk det mange hiver ut av seg "
+        },
+        "description": "Kjetil Rekdal mener årets seriestart er mer solid enn fjorårets. Før møtet med Brann sier han det bør gjøres noe med forventningene som mange har til RBK.",
+        "imageUrl": "0883ea04-03c5-42f9-a6ed-ff23a702b474",
+        "publishedAt": "2023-05-03T04:44:39Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "tyrkias-foerstegangsvelgere-vil-ha-ny-politisk-kurs",
+        "url": "/nyheter/utenriks/i/vezaxX/tyrkias-foerstegangsvelgere-vil-ha-ny-politisk-kurs",
+        "title": {
+            "value": "Tyrkias førstegangsvelgere vil ha ny politisk kurs"
+        },
+        "description": "Emre Ali Ferli er 18 år. Han har ikke kjent noen andre tyrkiske ledere enn Recep Tayyip Erdogan, og nå er han lei. Han håper på lederskifte i Tyrkia 14. mai.",
+        "imageUrl": "9e4699db-3383-42a5-b2c6-d7cdc56e4845",
+        "publishedAt": "2023-05-03T04:05:45Z",
+        "lastModifiedAt": "2023-05-03T07:39:26Z",
+        "premium": false,
+        "authors": [
+            "NTB-AFP"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/bgaEql/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag, onsdag 3. mai.",
+        "imageUrl": "2d6411b6-a220-4d1f-9b82-5f2cd7e92533",
+        "publishedAt": "2023-05-03T04:01:20Z",
+        "lastModifiedAt": "2023-05-03T04:01:20Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "melhus-2-gimse-2-gauldal-2-slo-budal-i-maalfest",
+        "url": "/lokalfotballen/i/eJy33O/melhus-2-gimse-2-gauldal-2-slo-budal-i-maalfest",
+        "title": {
+            "value": "Melhus 2/Gimse 2/Gauldal 2 rundspilte Budal"
+        },
+        "description": "Gunilla Forseth sto fram med seks mål da Melhus 2/Gimse 2/Gauldal 2 seiret 9-0 over Budal i 4. divisjon, Trøndelag - Avdeling 3 i fotball for kvinner tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-02T20:29:12Z",
+        "lastModifiedAt": "2023-05-02T21:52:09Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-gauldalsposten",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "tredje-seier-paa-rad-for-byaasen-2",
+        "url": "/lokalfotballen/i/764e2o/tredje-seier-paa-rad-for-byaasen-2",
+        "title": {
+            "value": "Tredje strake seier for Byåsen 2"
+        },
+        "description": "Buvik tapte 3-6 mot Byåsen 2 og har dermed tapt sine én første kamper denne sesongen. I 5. divisjon, Trøndelag - Avdeling 3 i fotball tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-02T20:20:29Z",
+        "lastModifiedAt": "2023-05-02T20:49:49Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "hjemmeseier-for-orkanger-2-over-astor-3",
+        "url": "/lokalfotballen/i/q1705e/hjemmeseier-for-orkanger-2-over-astor-3",
+        "title": {
+            "value": "Orkanger 2 med hjemmeseier over Astor 3"
+        },
+        "description": "Orkanger 2 seiret 4-1 over Astor 3 i G16 3. divisjon, Avdeling 2 - Vår. Orkanger 2 tok sin første seier denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-02T20:18:19Z",
+        "lastModifiedAt": "2023-05-02T20:58:06Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "stjoerdals-blink-2-slo-charlottenlund-i-maalfest",
+        "url": "/lokalfotballen/i/764ero/stjoerdals-blink-2-slo-charlottenlund-i-maalfest",
+        "title": {
+            "value": "Stjørdals-Blink 2 slo Charlottenlund i målfest"
+        },
+        "description": "Charlottenlund gikk på sitt tredje strake tap da laget røk 2-4 for Stjørdals-Blink 2 i 4. divisjon, Trøndelag - Avdeling 1 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-02T20:11:03Z",
+        "lastModifiedAt": "2023-05-02T20:20:28Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "ida-ljoekelsoey-scoret-hattrick-for-orkla",
+        "url": "/lokalfotballen/i/4oX9aE/ida-ljoekelsoey-scoret-hattrick-for-orkla",
+        "title": {
+            "value": "Ida Ljøkelsøy scoret hattrick for Orkla"
+        },
+        "description": "Ida Ljøkelsøy sto fram med tre mål da Orkla seiret 6-2 over Byåsen i J17 1. divisjon, Avdeling 2 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-02T20:04:33Z",
+        "lastModifiedAt": "2023-05-02T20:31:54Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "lucas-rode-schanche-ble-helten-for-oerland",
+        "url": "/lokalfotballen/i/aby69A/lucas-rode-schanche-ble-helten-for-oerland",
+        "title": {
+            "value": "Lucas Rode Schanche ble helten for Ørland"
+        },
+        "description": "Lucas Rode Schanche ble matchvinner med sin 1-0-scoring for Ørland mot Nidelv på Tempe hovedbane i G16 1. divisjon, Avdeling 1 - Vår tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-02T19:54:48Z",
+        "lastModifiedAt": "2023-05-02T20:30:48Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    }
+]

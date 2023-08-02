@@ -1,0 +1,413 @@
+[
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "vegard.aulstad@vg.no",
+                "id": "32320ac9-8b78-4d86-b923-ee64dc408816",
+                "name": "Vegard Aulstad"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPLvpp",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPLvpp",
+        "preamble": "ULLEVAAL STADION (VG) En sønderknust Julian Ryerson (25) vekslet ikke ett eneste ord sin norske landslagskamerat da Dortmund-gullet glapp på målstreken mot Andreas Hanche-Olsen (26) og Mainz.",
+        "published": {
+            "date": "tirsdag 13. juni",
+            "datetime": "2023-06-13 18:19:08",
+            "niceformat": "13.06.2023, 18:19",
+            "timestamp": "2023-06-13T16:19:08.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ff937d63-3e00-4abc-a6cf-6c00eb6b468a?fit=crop&format=auto&h=267&w=400&s=dae62d06dffabaa9fb0e072dc0b40e8f05687ad6",
+            "width": 400
+        },
+        "title": "Ryerson og Hanche-Olsen har skværet opp etter Tyskland-drama: – Turte ikke gå bort",
+        "url": "https://www.vg.no/sport/fotball/i/VPLvpp/landslagsspillerne-julian-ryerson-og-andreas-hanche-olsen-har-skvaeret-opp-etter-bundesliga-drama"
+    },
+    {
+        "authors": [
+            {
+                "email": "leif.welhaven@vg.no",
+                "id": "e46ed1bb-8354-4bd4-97d3-09ac43c5dc8f",
+                "name": "Leif Welhaven"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPLvLJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPLvLJ",
+        "preamble": "Hvor mye bør mannen som styrer pengesekken blande seg inn i Vålerengas sportslige valg og supporternes reaksjoner på avgjørelsene?",
+        "published": {
+            "date": "tirsdag 13. juni",
+            "datetime": "2023-06-13 17:16:59",
+            "niceformat": "13.06.2023, 17:16",
+            "timestamp": "2023-06-13T15:16:59.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/c55c8b10-75f4-4745-a187-77a7c038f001?fit=crop&format=auto&h=266&w=400&s=84176b5599af1e4ef8245740109cadf277871b82",
+            "width": 400
+        },
+        "title": "Trøim på stram line",
+        "url": "https://www.vg.no/sport/fotball/i/VPLvLJ/troeim-paa-stram-line"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "pQm22j",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/pQm22j",
+        "preamble": "GARDERMOEN (VG) «The Treble»-vinneren Erling Braut Haaland har landet på norsk jord før landskampene mot Skottland og Kypros.",
+        "published": {
+            "date": "tirsdag 13. juni",
+            "datetime": "2023-06-13 15:51:49",
+            "niceformat": "13.06.2023, 15:51",
+            "timestamp": "2023-06-13T13:51:49.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/3f8071c7-fd90-4a1a-b444-946afd0bd337?fit=crop&format=auto&h=300&w=400&s=602c81e9c398ec4dd1a68791d5403a024ae250e2",
+            "width": 400
+        },
+        "title": "Erling Braut Haaland har landet i Norge",
+        "url": "https://www.vg.no/sport/fotball/i/pQm22j/erling-braut-haaland-har-landet-i-norge"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            },
+            {
+                "email": "magnus.helle@schibsted.com",
+                "id": "465b91ad-0c13-4b04-8be8-4dbb0cc0080a",
+                "name": "Magnus Helle"
+            },
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "mQW25O",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/mQW25O",
+        "preamble": "Kylian Mbappé (24) går hardt ut mot Le Parisien etter at den franske avisen hevdet at franskmannen ønsker en overgang til Real Madrid i sommer.",
+        "published": {
+            "date": "tirsdag 13. juni",
+            "datetime": "2023-06-13 13:51:16",
+            "niceformat": "13.06.2023, 13:51",
+            "timestamp": "2023-06-13T11:51:16.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/4580cb69-e57b-4413-aacf-d7a721c4d2f3?fit=crop&format=auto&h=267&w=400&s=62ae19876e33e07161f0412c5d243faa1a082389",
+            "width": 400
+        },
+        "title": "Mbappé ut mot fransk avis etter Real Madrid-påstand: – Det er løgn",
+        "url": "https://www.vg.no/sport/fotball/i/mQW25O/kylian-mbappe-bekrefter-psg-exit"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "2B4kKy",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/2B4kKy",
+        "preamble": "ULLEVAAL STADION (VG) Erling Braut Haaland kommer fra en sesongavslutning med ett mål på åtte kamper. Det bekymrer ikke Ståle Solbakken. ",
+        "published": {
+            "date": "tirsdag 13. juni",
+            "datetime": "2023-06-13 07:16:05",
+            "niceformat": "13.06.2023, 07:16",
+            "timestamp": "2023-06-13T05:16:05.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/2e427be7-76d7-4730-ae22-3d19d366db14?fit=crop&format=auto&h=267&w=400&s=bd64b5e82d9533554399bcad0ea403db9971ace8",
+            "width": 400
+        },
+        "title": "Avfeier Haaland-problem: – Tror han kan klare det ",
+        "url": "https://www.vg.no/sport/fotball/i/2B4kKy/frykter-ikke-sliten-erling-braut-haaland-tross-mye-spilletid-for-manchester-city"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "mQWw4q",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/mQWw4q",
+        "preamble": "Det var mange og lange pauser i kampen mellom Stabæk og Rosenborg søndag. Dommersjef Terje Hauge forsvarer tidsbruken.",
+        "published": {
+            "date": "mandag 12. juni",
+            "datetime": "2023-06-12 23:29:33",
+            "niceformat": "12.06.2023, 23:29",
+            "timestamp": "2023-06-12T21:29:33.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/8aab3cea-4694-4e53-9c95-f002dfc9a4b2?fit=crop&format=auto&h=267&w=400&s=436038ac12344a3e642d1043fe4ca0460c279cb7",
+            "width": 400
+        },
+        "title": "Forsvarer VAR-tidsbruken etter klagestorm: – Må bare glemme klokken",
+        "url": "https://www.vg.no/sport/fotball/i/mQWw4q/forsvarer-var-tidsbruken-etter-klagestorm-maa-bare-glemme-klokken"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwz97o",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwz97o",
+        "preamble": "En av fotballens aller største stjerner, Kylian Mbappé (24), har gjort det klart for PSG at han ikke forlenger kontrakten som går ut neste sommer.",
+        "published": {
+            "date": "mandag 12. juni",
+            "datetime": "2023-06-12 22:35:06",
+            "niceformat": "12.06.2023, 22:35",
+            "timestamp": "2023-06-12T20:35:06.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/c7124577-9c8e-4c0f-a4b7-625b8b8617ee?fit=crop&format=auto&h=267&w=400&s=1b2325bf6104873d4814433f97d13b34c38e6183",
+            "width": 400
+        },
+        "title": "Mbappé legger press på PSG – forlenger ikke kontrakten",
+        "url": "https://www.vg.no/sport/fotball/i/dwz97o/mbappe-legger-press-paa-psg-forlenger-ikke-kontrakt"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WRWKbj",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WRWKbj",
+        "preamble": "Det tyske fotballandslaget unngikk med et nødrop en kjempesmell da Ukraina var motstander i lagets kamp nummer 1000 mandag. Oppgjøret endte 3-3 etter sene mål.",
+        "published": {
+            "date": "mandag 12. juni",
+            "datetime": "2023-06-12 21:11:54",
+            "niceformat": "12.06.2023, 21:11",
+            "timestamp": "2023-06-12T19:11:54.000Z"
+        },
+        "thumbnail": {
+            "height": 277,
+            "url": "https://akamai.vgc.no/v2/images/ceaaf0d5-ecd4-4209-ae75-b6a93885593b?fit=crop&format=auto&h=277&w=400&s=cb0f5ae7ff82b8da57d7c8831642bf0ce5c7f49f",
+            "width": 400
+        },
+        "title": "Tyskland unngikk pinlig tap mot Ukraina",
+        "url": "https://www.vg.no/sport/fotball/i/WRWKbj/tyskland-unngikk-pinlig-tap-mot-ukraina"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            },
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQEnK3",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQEnK3",
+        "preamble": "Manchester City er tilbake i hjembyen. Erling Braut Haaland og resten av heltene ble mandag hyllet etter klubbens beste sesong siden City ble grunnlagt i 1880.",
+        "published": {
+            "date": "mandag 12. juni",
+            "datetime": "2023-06-12 20:20:18",
+            "niceformat": "12.06.2023, 20:20",
+            "timestamp": "2023-06-12T18:20:18.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/Nxt017ge0k4r.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Ellevill hyllest av Haaland og Manchester City",
+        "url": "https://www.vg.no/sport/fotball/i/EQEnK3/hyllesten-av-haaland-og-manchester-city-er-i-gang"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "magnus.helle@schibsted.com",
+                "id": "465b91ad-0c13-4b04-8be8-4dbb0cc0080a",
+                "name": "Magnus Helle"
+            },
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3L5be",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3L5be",
+        "preamble": "VALLE (VG) Vålerenga-eier Tor Olav Trøim går hardt ut mot egne supportere etter sparkingen av trener Dag-Eilev Fagermo (56).",
+        "published": {
+            "date": "mandag 12. juni",
+            "datetime": "2023-06-12 18:09:05",
+            "niceformat": "12.06.2023, 18:09",
+            "timestamp": "2023-06-12T16:09:05.000Z"
+        },
+        "thumbnail": {
+            "height": 257,
+            "url": "https://akamai.vgc.no/v2/images/41929239-7a94-4ca2-a338-6f3704186cbb?fit=crop&format=auto&h=257&w=400&s=99e2bcffe679730d1cf500d22e7f52ab2363cb9c",
+            "width": 400
+        },
+        "title": "Fagermo har fått sparken i Vålerenga – VIF-eieren ut mot supporterne",
+        "url": "https://www.vg.no/sport/fotball/i/l3L5be/dag-eilev-fagermo-er-ferdig-i-vaalerenga"
+    }
+]

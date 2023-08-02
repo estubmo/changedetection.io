@@ -1,0 +1,184 @@
+[
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/APk1nj/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag, onsdag 31. mai.",
+        "imageUrl": "0f7eb02b-8ecd-4ed4-af6b-0b1ad5f0dd9f",
+        "publishedAt": "2023-05-31T04:00:45Z",
+        "lastModifiedAt": "2023-05-31T04:00:45Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "leik-troender-lyn-sikret-uavgjort",
+        "url": "/lokalfotballen/i/9znJr9/leik-troender-lyn-sikret-uavgjort",
+        "title": {
+            "value": "Leik/Trønder-Lyn sikret uavgjort"
+        },
+        "description": "Melhus 3/Gimse 3 og Leik/Trønder-Lyn måtte nøye seg med uavgjort på Norgeshus Arena i G16 3. divisjon, Avdeling 3 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-30T21:33:26Z",
+        "lastModifiedAt": "2023-05-30T21:33:26Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "ranheim-2-snudde-til-seier-paa-tampen",
+        "url": "/lokalfotballen/i/q1Xlmz/ranheim-2-snudde-til-seier-paa-tampen",
+        "title": {
+            "value": "Ranheim 2 snudde til seier på tampen"
+        },
+        "description": "Ranheim 2 snudde til seier på tampen mot Stjørdals-Blink 2 i 4. divisjon, Trøndelag - Avdeling 1 tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-30T20:59:52Z",
+        "lastModifiedAt": "2023-05-30T23:00:29Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "ntnui-2-snudde-til-seier-over-selbu",
+        "url": "/lokalfotballen/i/P4mlPp/ntnui-2-snudde-til-seier-over-selbu",
+        "title": {
+            "value": "NTNUI 2 snudde til seier"
+        },
+        "description": "NTNUI 2 lå under 0-1, men snudde til 3-1-seier over Selbu i 4. divisjon, Trøndelag - Avdeling 2 i fotball for kvinner. NTNUI 2 har fire seirer på sine fem siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-30T20:28:08Z",
+        "lastModifiedAt": "2023-05-30T20:38:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ranheim-tok-sin-sjette-strake-seier",
+        "url": "/lokalfotballen/i/jlXyOn/ranheim-tok-sin-sjette-strake-seier",
+        "title": {
+            "value": "Ranheim fortsatte seiersrekken"
+        },
+        "description": "Med 9-1-seier i dagens kamp har Ranheim tatt poeng i seks kamper på rad i J17 1. divisjon, Avdeling 2 - Vår tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-30T20:20:57Z",
+        "lastModifiedAt": "2023-05-30T21:05:33Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "tangmoen-2-seiret-hjemme-mot-sverre",
+        "url": "/lokalfotballen/i/dwPWJB/tangmoen-2-seiret-hjemme-mot-sverre",
+        "title": {
+            "value": "Tangmoen 2-seier over Sverre"
+        },
+        "description": "Tangmoen 2 knuste Sverre 3-0 i 6. divisjon, Trøndelag - Avdeling 2 i fotball tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-30T20:14:10Z",
+        "lastModifiedAt": "2023-05-31T07:31:46Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "midtsjoe-ble-seriemester-med-galatasaray",
+        "url": "/sport/i/Kn1x84/midtsjoe-ble-seriemester-med-galatasaray",
+        "title": {
+            "value": "Midtsjø ble seriemester"
+        },
+        "description": "Fredrik Midtsjø og Galatasaray kunne tirsdag juble for ligatittelen i tyrkisk fotball etter 4-1 over Ankaragücü.",
+        "imageUrl": "648d69b1-9c17-49df-adb4-5ba757478547",
+        "publishedAt": "2023-05-30T20:01:39Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "hjemmeseier-for-byaasen-over-ranheim",
+        "url": "/lokalfotballen/i/3EQ89X/hjemmeseier-for-byaasen-over-ranheim",
+        "title": {
+            "value": "Byåsen med hjemmeseier over Ranheim"
+        },
+        "description": "Ranheim gikk på sitt første nederlag for sesongen etter dagens 1-2-tap mot Byåsen i J13 1. divisjon, Avdeling 2 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-30T19:17:18Z",
+        "lastModifiedAt": "2023-05-30T19:34:51Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "freidig-2-seiret-over-tiller-2",
+        "url": "/lokalfotballen/i/Q7O6oQ/freidig-2-seiret-over-tiller-2",
+        "title": {
+            "value": "Freidig 2-seier over Tiller 2"
+        },
+        "description": "Freidig 2 fikk med seg tre poeng da Tiller 2 ble slått 6-1 hjemme i G13 2. divisjon, Avdeling 4 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-30T19:10:00Z",
+        "lastModifiedAt": "2023-05-30T19:34:52Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "freidig-2-reddet-uavgjort",
+        "url": "/lokalfotballen/i/q1X4Go/freidig-2-reddet-uavgjort",
+        "title": {
+            "value": "Freidig 2 ordnet uavgjort"
+        },
+        "description": "Strindheim 3 har spilt uavgjort i tre kamper på rad etter dagens 3-3 kamp",
+        "imageUrl": null,
+        "publishedAt": "2023-05-30T18:17:22Z",
+        "lastModifiedAt": "2023-05-30T18:35:18Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

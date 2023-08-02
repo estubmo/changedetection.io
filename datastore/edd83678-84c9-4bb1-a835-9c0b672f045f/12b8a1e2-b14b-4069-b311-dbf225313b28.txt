@@ -1,0 +1,196 @@
+[
+    {
+        "slug": "maalshow-fra-skaun",
+        "url": "/lokalfotballen/i/9z0EQq/maalshow-fra-skaun",
+        "title": {
+            "value": "Skaun vartet opp med målfest"
+        },
+        "description": "Skaun har tatt poeng i seks kamper på rad etter dagens 8-0-seier Synne Eline Skånø Willmann slo til med hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T19:55:14Z",
+        "lastModifiedAt": "2023-06-04T20:27:55Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "undervurderte-trykket-foer-han-kom-det-er-saa-mange-som-bryr-seg",
+        "url": "/sport/fotball/i/Knkpb7/undervurderte-trykket-foer-han-kom-det-er-saa-mange-som-bryr-seg",
+        "title": {
+            "value": "Undervurderte trykket før han kom: - Det er så mange som bryr seg"
+        },
+        "description": "Oscar Aga leverte endelig det han ble hentet for - mål.",
+        "imageUrl": "a8796448-9fc3-4489-958c-810441f02a00",
+        "publishedAt": "2023-06-04T19:15:01Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "fotball",
+            "sport",
+            "rosenborg-bk",
+            "olaus-skarsem",
+            "oscar-aga"
+        ]
+    },
+    {
+        "slug": "rbk-styrelederen-arbeidsroen-varer-til-neste-kamp",
+        "url": "/sport/fotball/i/4oGzWV/rbk-styrelederen-arbeidsroen-varer-til-neste-kamp",
+        "title": {
+            "value": "Dette sier RBK-styrelederen etter kampen mot HamKam"
+        },
+        "description": "Cecilie Gotaas Johnsen opplever RBK-situasjonen som strevsom for hele klubben. Hun håper søndagens storseier er noe å bygge videre på.",
+        "imageUrl": "42bccd2f-28ac-4a45-b9cd-1e2a6a540541",
+        "publishedAt": "2023-06-04T18:42:46Z",
+        "lastModifiedAt": "2023-06-04T18:43:07Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "cecilie-gotaas-johnsen",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "maalfest-og-poengdeling-paa-selbu-kunstgress",
+        "url": "/lokalfotballen/i/WRWqek/maalfest-og-poengdeling-paa-selbu-kunstgress",
+        "title": {
+            "value": "Målfest og poengdeling på Selbu kunstgress"
+        },
+        "description": "Selbu gikk fra 1-3 til 3-3 mot Ranheim 2 i 4. divisjon, Trøndelag - Avdeling 2 søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T18:34:21Z",
+        "lastModifiedAt": "2023-06-04T18:57:00Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "rekdal-etter-triumfen-vi-har-en-ekstremt-sterk-lojalitet",
+        "url": "/sport/fotball/i/mQW1LE/rekdal-etter-triumfen-vi-har-en-ekstremt-sterk-lojalitet",
+        "title": {
+            "value": "Rekdal etter triumfen: - Vi har en ekstremt sterk lojalitet"
+        },
+        "description": "Men hverken press eller markeringer går inn på treneren, ifølge han selv.",
+        "imageUrl": "317d9a63-023f-4932-96f3-83d681f7d4fe",
+        "publishedAt": "2023-06-04T18:01:38Z",
+        "lastModifiedAt": "2023-06-04T18:01:49Z",
+        "premium": true,
+        "authors": [
+            "Even Berthelsen",
+            "Johannes Strand"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "fotball",
+            "sport",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "nettsus-for-stavnesli",
+        "url": "/lokalfotballen/i/2B43ov/nettsus-for-stavnesli",
+        "title": {
+            "value": "Nettsus for Stavnesli"
+        },
+        "description": "Eivor Sandvik Stavnesli scoret to ganger da KIL/Hemne 2 vant 3-0 over Nidelv i 4. divisjon, Trøndelag - Avdeling 2 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T18:01:29Z",
+        "lastModifiedAt": "2023-06-04T18:26:04Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "de-utskjeltes-festaften-et-hardt-presset-rosenborg-vant-endelig",
+        "url": "/sport/fotball/i/mQW160/de-utskjeltes-festaften-et-hardt-presset-rosenborg-vant-endelig",
+        "title": {
+            "value": "Tomåls-Olaus etter oppturen: - Ubeskrivelig"
+        },
+        "description": "Indreløperen viste hvorfor et Rosenborg i krise har savnet han.",
+        "imageUrl": "a6b83c9b-5427-4af3-9cc4-5eff247fa43c",
+        "publishedAt": "2023-06-04T16:51:41Z",
+        "lastModifiedAt": "2023-06-04T17:00:30Z",
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "fotball",
+            "sport",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "rbks-beste-da-han-scoret-for-foerste-gang-paa-nesten-to-aar",
+        "url": "/sport/i/76JK8v/rbks-beste-da-han-scoret-for-foerste-gang-paa-nesten-to-aar",
+        "title": {
+            "value": "RBKs beste da han scoret for første gang på nesten to år"
+        },
+        "description": "Angrepsrekka sto fram da det omsider løsnet for RBK framover i banen. Best av alle var uansett tomålsscorer Olaus Skarsem.",
+        "imageUrl": "9afb7cca-4b06-4688-ae9d-759f2a5126d9",
+        "publishedAt": "2023-06-04T16:51:14Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "blikra-senket-ntnui-2",
+        "url": "/lokalfotballen/i/0QO4GB/blikra-senket-ntnui-2",
+        "title": {
+            "value": "Blikra ble tomålshelt mot NTNUI 2"
+        },
+        "description": "Sander Blikra sikret tre poeng for Utleira da NTNUI 2 ble slått 2-1 i 5. divisjon, Trøndelag - Avdeling 2 i fotball for menn. Utleira har vunnet tre strake bortekamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T16:23:26Z",
+        "lastModifiedAt": "2023-06-04T16:53:15Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "femte-seier-paa-rad-for-kolvereid-7er",
+        "url": "/lokalfotballen/i/15877W/femte-seier-paa-rad-for-kolvereid-7er",
+        "title": {
+            "value": "Flatanger 7er senket av Lande"
+        },
+        "description": "Flatanger 7er gikk på sitt tredje tap på rad da laget røk 0-1 for Kolvereid 7er i 7er, Trøndelag - Avdeling 1 i fotball for kvinner søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-04T16:14:09Z",
+        "lastModifiedAt": "2023-06-04T16:25:37Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

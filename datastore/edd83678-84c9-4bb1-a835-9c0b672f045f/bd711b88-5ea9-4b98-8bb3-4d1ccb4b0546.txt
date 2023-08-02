@@ -1,0 +1,192 @@
+[
+    {
+        "slug": "ranheim-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/kE1aQB/ranheim-fortsatte-seiersrekken",
+        "title": {
+            "value": "Ranheim fortsatte seiersrekken"
+        },
+        "description": "Ranheim tok sin tredje strake seier da Strindheim 2 ble slått 5-1 i G14 1. divisjon, Avdeling 2 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T11:36:45Z",
+        "lastModifiedAt": "2023-06-03T11:52:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "scoringslykke-for-edvard-leidland-stokke",
+        "url": "/lokalfotballen/i/4oGdmR/scoringslykke-for-edvard-leidland-stokke",
+        "title": {
+            "value": "Tomålslykke i Trygg / Lade-seier"
+        },
+        "description": "Edvard Leidland Stokke scoret to av målene da Trygg/Lade vant 5-1 over Vestbyen 2/Nationalkameratene 2 i G14 2. divisjon, Avdeling 3 - Vår lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T11:33:41Z",
+        "lastModifiedAt": "2023-06-03T11:52:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "i-fjor-loep-de-bare-en-troendersk-mil-det-ble-ikke-noe-kluss-i-aar",
+        "url": "/nyheter/trondheim/i/9z0mvM/i-fjor-loep-de-bare-en-troendersk-mil-det-ble-ikke-noe-kluss-i-aar",
+        "title": {
+            "value": "«Fysiopappa» (34) vant:  – Det er jo ikke hverdagskost"
+        },
+        "description": "«Fysiopappa» (34) stakk av med seieren. Arrangøren er strålende fornøyd med at de unngikk teknisk svikt i år.",
+        "imageUrl": "16772d36-cf30-4491-89cf-8c1c39185a16",
+        "publishedAt": "2023-06-03T11:19:00Z",
+        "lastModifiedAt": "2023-06-03T11:43:09Z",
+        "premium": true,
+        "authors": [
+            "Berit Baumberger"
+        ],
+        "tags": [
+            "strindheim-il",
+            "skansen",
+            "rekord",
+            "nidaros",
+            "loep"
+        ]
+    },
+    {
+        "slug": "foelg-rbk-brann-direkte-her",
+        "url": "/sport/fotball/i/APk4xq/foelg-rbk-brann-direkte-her",
+        "title": {
+            "value": "- Jevnspilt affære så langt"
+        },
+        "description": "Rosenborg kvinner tar imot Brann på Lerkendal, og må vinne for å holde liv i målet om seriegull.",
+        "imageUrl": "91fde421-641b-4b33-b47c-8df1b05c3606",
+        "publishedAt": "2023-06-03T10:30:00Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Yngve Bergli"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "den-klart-toeffeste-perioden-jeg-har-vaert-med-paa",
+        "url": "/sport/fotball/i/XbJxKo/den-klart-toeffeste-perioden-jeg-har-vaert-med-paa",
+        "title": {
+            "value": "– Den klart tøffeste perioden jeg har vært med på"
+        },
+        "description": "Rosenborg-profilene Carlo Holse og Erlend Dahl Reitan har aldri vært lenger ned i sine karrierer.",
+        "imageUrl": "25a35ce0-30cc-42bc-9f54-1649543961d3",
+        "publishedAt": "2023-06-03T09:14:00Z",
+        "lastModifiedAt": "2023-06-03T10:14:48Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "carlo-holse",
+            "erlend-dahl-reitan"
+        ]
+    },
+    {
+        "slug": "hun-spilte-foran-200-i-norge-det-er-fortsatt-rart-aa-tenke-paa-at-dette-skjer",
+        "url": "/sport/fotball/i/15waLq/hun-spilte-foran-200-i-norge-det-er-fortsatt-rart-aa-tenke-paa-at-dette-skjer",
+        "title": {
+            "value": "Hun spilte foran 200 i Norge: - Det er fortsatt rart å tenke på at dette skjer"
+        },
+        "description": "Lørdag står Ingrid Syrstad Engen i sin tredje Champions League-finale. Den har vært utsolgt i lang tid.",
+        "imageUrl": "973e8187-984b-40f3-9a76-7fb1bc804e87",
+        "publishedAt": "2023-06-03T07:04:36Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "barcelona",
+            "ingrid-syrstad-engen",
+            "toppserien",
+            "fotball"
+        ]
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/LldpO9/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag, lørdag 3. juni.",
+        "imageUrl": "59a862d7-9c3c-4bde-ba8a-e74cff7510d1",
+        "publishedAt": "2023-06-03T04:02:09Z",
+        "lastModifiedAt": "2023-06-03T04:02:35Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "jeg-maatte-synge-karaoke-paa-hvert-julebord-det-var-verst-for-de-som-hoerte-paa",
+        "url": "/mn24/i/JQGWyj/jeg-maatte-synge-karaoke-paa-hvert-julebord-det-var-verst-for-de-som-hoerte-paa",
+        "title": {
+            "value": "– Jeg måtte synge karaoke på hvert julebord. Det var verst for de som hørte på"
+        },
+        "description": "Ei skjelven hånd satte en stopper for kirurg-drømmen for Terje Eidesmo. Men han er også glad i sin nåværende jobb.",
+        "imageUrl": "d2c69568-08ca-4654-813e-07959b12ceac",
+        "publishedAt": "2023-06-03T04:00:07Z",
+        "lastModifiedAt": "2023-06-03T04:00:07Z",
+        "premium": true,
+        "authors": [
+            "Synne Mauseth, MN24"
+        ],
+        "tags": [
+            "lederintervjuet",
+            "trondheim",
+            "hjemmekontor",
+            "arbeidsliv",
+            "jobb"
+        ]
+    },
+    {
+        "slug": "maalshow-fra-selvnes",
+        "url": "/lokalfotballen/i/gEKayL/maalshow-fra-selvnes",
+        "title": {
+            "value": "Målshow fra Selvnes"
+        },
+        "description": "Svorkmo slo Trygg/Lade 2 3-1 og tok dermed sin første seier på hjemmebane i årets sesong i 5. divisjon, Trøndelag - Avdeling 2 i fotball. Vegard Selvnes scoret alle målene for Svorkmo.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-02T22:52:22Z",
+        "lastModifiedAt": "2023-06-02T22:52:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "ranheim-3-vant-i-maalfest",
+        "url": "/lokalfotballen/i/3E7kmv/ranheim-3-vant-i-maalfest",
+        "title": {
+            "value": "Ranheim 3 ydmyket Ålen"
+        },
+        "description": "Konrad Ven Hansen scoret to ganger da Ranheim 3 vant 7-2 over Ålen i 5. divisjon, Trøndelag - Avdeling 3 i fotball for menn fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-02T20:48:26Z",
+        "lastModifiedAt": "2023-06-02T22:22:12Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

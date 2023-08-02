@@ -1,0 +1,191 @@
+[
+    {
+        "slug": "malakzadeh-scoret-hattrick-for-malvik-2-hommelvik-2",
+        "url": "/lokalfotballen/i/Q7qW7A/malakzadeh-scoret-hattrick-for-malvik-2-hommelvik-2",
+        "title": {
+            "value": "Malakzadeh scoret hattrick mot Vikvarvet"
+        },
+        "description": "Daniel Reza Malakzadeh scoret tre av målene og hjalp Malvik 2/Hommelvik 2 til 9-0-seier over Vikvarvet i 6. divisjon, Trøndelag - Avdeling 2 i fotball torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T22:07:12Z",
+        "lastModifiedAt": "2023-05-11T22:16:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "ranheim-3-vant-igjen",
+        "url": "/lokalfotballen/i/q1b81L/ranheim-3-vant-igjen",
+        "title": {
+            "value": "Ranheim 3 fortsatte seiersrekken"
+        },
+        "description": "Ranheim 3 banket Gauldal 3-0 i 5. divisjon, Trøndelag - Avdeling 3 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T22:04:22Z",
+        "lastModifiedAt": "2023-05-11T22:18:03Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "forseth-med-maalshow",
+        "url": "/lokalfotballen/i/69KM6O/forseth-med-maalshow",
+        "title": {
+            "value": "Forseth bøttet inn mål mot Varden Meråker"
+        },
+        "description": "Melhus 2/Gimse 2/Gauldal 2 banket Varden Meråker 13-0 i 4. divisjon, Trøndelag - Avdeling 3 i fotball. Gunilla Forseth scoret sju mål.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T22:02:06Z",
+        "lastModifiedAt": "2023-05-11T22:08:16Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "strindheim-2-slo-malvik-2-hommelvik-2-paa-hjemmebane",
+        "url": "/lokalfotballen/i/onlyLV/strindheim-2-slo-malvik-2-hommelvik-2-paa-hjemmebane",
+        "title": {
+            "value": "Strindheim 2 med hjemmeseier over Malvik 2/Hommelvik 2"
+        },
+        "description": "Strindheim 2 slo Malvik 2/Hommelvik 2 6-1 på Leangen Bolig Arena i J17 2. divisjon, Avdeling 1 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T21:03:54Z",
+        "lastModifiedAt": "2023-05-11T21:42:04Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "overhalla-senket-av-rosoe",
+        "url": "/lokalfotballen/i/zEbzRb/overhalla-senket-av-rosoe",
+        "title": {
+            "value": "Overhalla senket av Rosø"
+        },
+        "description": "Vuku snudde 0-1 til 2-1-seier over Overhalla i 4. divisjon, Trøndelag - Avdeling 1 i fotball torsdag. Overhalla har gått poengløse av banen i to strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T21:01:16Z",
+        "lastModifiedAt": "2023-05-11T21:39:25Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "maalshow-fra-bekk",
+        "url": "/lokalfotballen/i/5Bwemb/maalshow-fra-bekk",
+        "title": {
+            "value": "Hattrick-show fra NTNUI 3"
+        },
+        "description": "NTNUI 3 tok sine første poeng på tre kamper med 6-2 over Budal i 4. divisjon, Trøndelag - Avdeling 3 i fotball for kvinner torsdag. Mia Frekhaug Bekk slo til med hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T21:01:14Z",
+        "lastModifiedAt": "2023-05-11T22:20:18Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-gauldalsposten",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "aanensen-avgjorde-for-flataas",
+        "url": "/lokalfotballen/i/VPpXO6/aanensen-avgjorde-for-flataas",
+        "title": {
+            "value": "Aanensen senket Sverresborg"
+        },
+        "description": "Sverresborg ble slått 2-1 av Flatås og tapte dermed sin første kamp i årets sesong. I 4. divisjon, Trøndelag - Avdeling 3 i fotball torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T21:01:13Z",
+        "lastModifiedAt": "2023-05-11T21:39:25Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "selbu-vant-igjen",
+        "url": "/lokalfotballen/i/onlxJW/selbu-vant-igjen",
+        "title": {
+            "value": "Selbu seiret i målfest"
+        },
+        "description": "Oda Marlene Valli viste scoringsform da Selbu vant 6-0 over Trond i 4. divisjon, Trøndelag - Avdeling 2 i fotball. Trond har tapt alle kampene sine hittil denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T21:01:13Z",
+        "lastModifiedAt": "2023-05-11T21:39:27Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "maalshow-fra-langlo",
+        "url": "/lokalfotballen/i/Xbp3Gg/maalshow-fra-langlo",
+        "title": {
+            "value": "Langlo med målshow"
+        },
+        "description": "Med dagens 1-11-tap har Leinstrand/Byneset ikke tatt et eneste poeng på de første fem kampene denne sesongen. Tuva Elise Langlo scoret fire ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T21:01:12Z",
+        "lastModifiedAt": "2023-05-11T22:08:15Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "haugen-boettet-inn-maal-mot-kil-hemne-2",
+        "url": "/lokalfotballen/i/APqB8z/haugen-boettet-inn-maal-mot-kil-hemne-2",
+        "title": {
+            "value": "Haugen bøttet inn mål mot KIL/Hemne 2"
+        },
+        "description": "Ranheim 2 knuste KIL/Hemne 2 11-1 i 4. divisjon, Trøndelag - Avdeling 2 i fotball for kvinner. Ingrid Jenssen Haugen scoret fire mål.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-11T21:01:11Z",
+        "lastModifiedAt": "2023-05-11T22:08:14Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    }
+]

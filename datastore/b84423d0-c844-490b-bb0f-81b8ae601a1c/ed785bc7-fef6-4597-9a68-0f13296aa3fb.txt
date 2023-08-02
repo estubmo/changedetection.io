@@ -1,0 +1,368 @@
+[
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            },
+            {
+                "email": "janne.moller-hansen@vg.no",
+                "id": "c15293f1-3f13-4d47-9234-1cae0482f62d",
+                "name": "Janne Møller-Hansen (foto) "
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kEyxJ6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kEyxJ6",
+        "preamble": "BRYNE (VG) På denne åkeren har Erling Braut Haaland dype familierøtter. Grandonkel Gabriel Høyland tror gode gener er en del av megasuksessen han opplever i Manchester City.",
+        "published": {
+            "date": "lørdag 29. april",
+            "datetime": "2023-04-29 09:40:44",
+            "niceformat": "29.04.2023, 09:40",
+            "timestamp": "2023-04-29T07:40:44.000Z"
+        },
+        "thumbnail": {
+            "height": 302,
+            "url": "https://akamai.vgc.no/v2/images/ee923563-d992-47ad-a3c9-ed1f8076ca07?fit=crop&format=auto&h=302&w=400&s=8ab662cb1a38e3361c110d36f3b2cb8bacb9ef20",
+            "width": 400
+        },
+        "title": "Bryne-legenden er Haalands grandonkel: – Han lykkes med alt ",
+        "url": "https://www.vg.no/sport/fotball/i/kEyxJ6/bryne-legenden-er-haalands-grandonkel-han-lykkes-med-alt"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5BOgnW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5BOgnW",
+        "preamble": "(Blackpool – Millwall 2–3) Blackpool slo tilbake to ganger, men kunne ikke hindre seier for gjestende Millwall. Dermed er klubben dømt til nedrykk fra Championship.",
+        "published": {
+            "date": "lørdag 29. april",
+            "datetime": "2023-04-29 08:17:00",
+            "niceformat": "29.04.2023, 08:17",
+            "timestamp": "2023-04-29T06:17:00.000Z"
+        },
+        "thumbnail": {
+            "height": 268,
+            "url": "https://akamai.vgc.no/v2/images/98490c3a-48b3-4092-af41-50cfb43c9db7?fit=crop&format=auto&h=268&w=400&s=825031d5aa08a6b8b28f4a001f39764d81484960",
+            "width": 400
+        },
+        "title": "Blackpool rykker ned fra Championship",
+        "url": "https://www.vg.no/sport/fotball/i/5BOgnW/blackpool-rykker-ned-fra-championship"
+    },
+    {
+        "authors": [
+            {
+                "email": "trond.johannessen@vg.no",
+                "id": "13d85b67-6e63-41d4-a85c-65a952496c1d",
+                "name": "Trond Johannessen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9zGAKw",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9zGAKw",
+        "preamble": "Erling Braut Haaland omtales som beist og monster og bulldoser, men er så mye mer. Nå er han i ferd med å oppheve fotballens tyngdekraft.",
+        "published": {
+            "date": "fredag 28. april",
+            "datetime": "2023-04-28 22:39:08",
+            "niceformat": "28.04.2023, 22:39",
+            "timestamp": "2023-04-28T20:39:08.000Z"
+        },
+        "thumbnail": {
+            "height": 279,
+            "url": "https://akamai.vgc.no/v2/images/82bc711c-5e1b-4cc3-b580-715a938ac40c?fit=crop&format=auto&h=279&w=400&s=17f6ae1cd1b974624cb836173d29a648c7f9f9b2",
+            "width": 400
+        },
+        "title": "Mye mer enn et beist – derfor er Haaland unik",
+        "url": "https://www.vg.no/sport/fotball/i/9zGAKw/mye-mer-enn-et-beist-derfor-er-haaland-unik"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4oXAx9",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4oXAx9",
+        "preamble": "(VFL Bochum – Borussia Dortmund 1–1) Borussia Dortmund fikk kun med seg ett poeng mot nedrykkstruede VFL Bochum, og raste på overtid.",
+        "published": {
+            "date": "fredag 28. april",
+            "datetime": "2023-04-28 22:30:19",
+            "niceformat": "28.04.2023, 22:30",
+            "timestamp": "2023-04-28T20:30:19.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/craTFGFsYNTr.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Drama da Dortmund misbrukte gyllen mulighet i tittelkampen",
+        "url": "https://www.vg.no/sport/fotball/i/4oXAx9/drama-da-dortmund-misbrukte-gyllen-mulighet-i-tittelkampen"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "XbeQjo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/XbeQjo",
+        "preamble": "Flere engelske medier hevder at Qatar-sjeiken Jassim Bin Hamad Al Thani gjør nok et fremstøt for å bli Manchester Uniteds nye eier.",
+        "published": {
+            "date": "fredag 28. april",
+            "datetime": "2023-04-28 19:58:25",
+            "niceformat": "28.04.2023, 19:58",
+            "timestamp": "2023-04-28T17:58:25.000Z"
+        },
+        "thumbnail": {
+            "height": 257,
+            "url": "https://akamai.vgc.no/v2/images/b12af5ff-ce16-4f32-a9d7-eb53aaadaa4d?fit=crop&format=auto&h=257&w=400&s=cd86d8eb536d537ec6a3834599cb81a0628fd14b",
+            "width": 400
+        },
+        "title": "Medier: Nytt Qatar-bud på Manchester United fredag",
+        "url": "https://www.vg.no/sport/fotball/i/XbeQjo/medier-nytt-qatar-bud-paa-manchester-united-fredag"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQRy3m",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQRy3m",
+        "preamble": "Leeds-formspiller Luis Sinisterra har skadet ankelen og får ikke hjulpet laget sitt i kampen for å unngå nedrykk fra Premier League.",
+        "published": {
+            "date": "fredag 28. april",
+            "datetime": "2023-04-28 15:09:07",
+            "niceformat": "28.04.2023, 15:09",
+            "timestamp": "2023-04-28T13:09:07.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/952ee1e9-611d-457f-9d48-b946018e38b4?fit=crop&format=auto&h=267&w=400&s=597e0a9573c84650aff83ebde479b927955dfd13",
+            "width": 400
+        },
+        "title": "Leeds uten nøkkelspiller resten av sesongen",
+        "url": "https://www.vg.no/sport/fotball/i/JQRy3m/leeds-uten-noekkelspiller-luis-sinisterra-resten-av-sesongen"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4oXJ56",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4oXJ56",
+        "preamble": "UEFA sier de jobber med å forsikre seg om at alle konsekvenser ved et gummigranulatforbud er belyst før innføringen. Prislappen kan bli astronomisk. Klima- og miljøminister Espen Barth Eide (Ap) sier til NTB at han er glad for forbudet mot gummigranulat og mener overgangsperioden på åtte år er lang nok.",
+        "published": {
+            "date": "fredag 28. april",
+            "datetime": "2023-04-28 13:33:54",
+            "niceformat": "28.04.2023, 13:33",
+            "timestamp": "2023-04-28T11:33:54.000Z"
+        },
+        "thumbnail": {
+            "height": 259,
+            "url": "https://akamai.vgc.no/v2/images/7ca309d2-38bd-4ee6-b557-7383d9659587?fit=crop&format=auto&h=259&w=400&s=d9875b47c70f814062c2b1a9b4de3a8ec9775901",
+            "width": 400
+        },
+        "title": "EU-forbudet mot gummigranulat kan koste over 100 milliarder kroner",
+        "url": "https://www.vg.no/sport/fotball/i/4oXJ56/eu-forbudet-mot-gummigranulat-kan-koste-over-100-milliarder-kroner"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "pQ4xp6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/pQ4xp6",
+        "preamble": "Erling Braut Haaland «terroriserte» Arsenal i matchen som trolig sikret Manchester City Premier League-tittelen. Problemet for motstanderne er at jærbuen kan bli enda bedre.",
+        "published": {
+            "date": "fredag 28. april",
+            "datetime": "2023-04-28 12:30:55",
+            "niceformat": "28.04.2023, 12:30",
+            "timestamp": "2023-04-28T10:30:55.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/64a95316-f8c9-42f2-8d93-8c70ab4bf7a5?fit=crop&format=auto&h=267&w=400&s=6406edede542200694f1de5fdafff64a12f9e58e",
+            "width": 400
+        },
+        "title": "Haalands agent til VG etter superkampen: – Fantastisk",
+        "url": "https://www.vg.no/sport/fotball/i/pQ4xp6/erling-braut-haalands-agent-etter-manchester-city-arsenal-fantastisk"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QX7VE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QX7VE",
+        "preamble": "Viking-spiss Lars-Jørgen Salvesen er kvitt skaden og kan komme til å starte eliteseriekampen mot HamKam søndag. ",
+        "published": {
+            "date": "fredag 28. april",
+            "datetime": "2023-04-28 11:00:06",
+            "niceformat": "28.04.2023, 11:00",
+            "timestamp": "2023-04-28T09:00:06.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/3bd03bae-1e56-4bdc-8955-e02560620392?fit=crop&format=auto&h=267&w=400&s=bcae9b529621744e9e21c60e3897d925013a08dd",
+            "width": 400
+        },
+        "title": "Salvesen er klar for kamp",
+        "url": "https://www.vg.no/sport/fotball/i/0QX7VE/salvesen-er-klar-for-kamp"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3laMo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3laMo",
+        "preamble": "LILLESTRØM (VG) En svært skade-turbulent vinter har fått Bodø/Glimt-leiren til å klø seg i hodet. Nå skal «hver stein snus» i jakten på et svar.",
+        "published": {
+            "date": "fredag 28. april",
+            "datetime": "2023-04-28 10:44:05",
+            "niceformat": "28.04.2023, 10:44",
+            "timestamp": "2023-04-28T08:44:05.000Z"
+        },
+        "thumbnail": {
+            "height": 298,
+            "url": "https://akamai.vgc.no/v2/images/689fc106-9e15-42ed-8b38-7892d713a120?fit=crop&format=auto&h=298&w=400&s=ec7a0089c51ec151c70380d44452077871019342",
+            "width": 400
+        },
+        "title": "Knutsen og Berg varsler knallhard evaluering etter skadekrisen",
+        "url": "https://www.vg.no/sport/fotball/i/l3laMo/kjetil-knutsen-og-patrick-berg-varsler-knallhard-evaluering-etter-bodoe-glimts-skadekrise"
+    }
+]

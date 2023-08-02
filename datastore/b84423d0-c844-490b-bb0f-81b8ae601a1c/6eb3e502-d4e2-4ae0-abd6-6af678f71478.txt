@@ -1,0 +1,377 @@
+[
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEbAEw",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEbAEw",
+        "preamble": "TRONDHEIM (VG) Politiet melder om slåssing mellom fotballsupportere i Trondheim sentrum før storkampen mellom Rosenborg og Vålerenga lørdag kveld.",
+        "published": {
+            "date": "lørdag 6. mai",
+            "datetime": "2023-05-06 15:35:30",
+            "niceformat": "06.05.2023, 15:35",
+            "timestamp": "2023-05-06T13:35:30.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/3f3095ca-2f6b-4d6d-8d62-c0edc839c893?fit=crop&format=auto&h=300&w=400&s=355ef7f2802037507ab00a17c639e14dbc62ac32",
+            "width": 400
+        },
+        "title": "Supporterbråk før Rosenborg - Vålerenga: 30–40 stykker som sloss",
+        "url": "https://www.vg.no/sport/fotball/i/zEbAEw/slaassing-foer-rosenborg-vaalerenga"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "15dMOJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/15dMOJ",
+        "preamble": "Ada Hegerberg (27) begynte på benken, men kom inn og scoret kampens siste mål i Lyons 3-0-seier over Dijon i den franske toppdivisjonen lørdag.",
+        "published": {
+            "date": "lørdag 6. mai",
+            "datetime": "2023-05-06 15:27:19",
+            "niceformat": "06.05.2023, 15:27",
+            "timestamp": "2023-05-06T13:27:19.000Z"
+        },
+        "thumbnail": {
+            "height": 270,
+            "url": "https://akamai.vgc.no/v2/images/bf4b698f-313c-46a9-86a0-66bb78bd9b55?fit=crop&format=auto&h=270&w=400&s=2d7e52118e3d514794a6caf1ec8b5d65d93cc13c",
+            "width": 400
+        },
+        "title": "Hegerberg med innhopp og mål i Lyon-seier",
+        "url": "https://www.vg.no/sport/fotball/i/15dMOJ/hegerberg-med-innhopp-og-maal-i-lyon-seier"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwpwgo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwpwgo",
+        "preamble": "Marius Høibråten tvang fram det avgjørende selvmålet da Urawa Red Diamonds vant den asiatiske mesterligaen i fotball med 1–0 over saudiarabiske Al-Hilal lørdag.",
+        "published": {
+            "date": "lørdag 6. mai",
+            "datetime": "2023-05-06 14:15:42",
+            "niceformat": "06.05.2023, 14:15",
+            "timestamp": "2023-05-06T12:15:42.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/8fe75840-b1b9-4ba8-ba17-49ddd41b3250?fit=crop&format=auto&h=267&w=400&s=3a8cab58840823d95d23d73600cad1ba167af037",
+            "width": 400
+        },
+        "title": "Høibråten ble helten i den asiatiske Champions League-finalen",
+        "url": "https://www.vg.no/sport/fotball/i/dwpwgo/marius-hoeibraaten-ble-helten-i-den-asiatiske-champions-league-finalen-fire-maaneder-etter-glimt-exiten"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "vebeap",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/vebeap",
+        "preamble": "Spillerne i Wigan må igjen vente på å få utbetalt lønn. Klubben beklager det inntrufne og ga spillerne fri lørdag som følge av de «krevende omstendighetene».",
+        "published": {
+            "date": "lørdag 6. mai",
+            "datetime": "2023-05-06 13:22:22",
+            "niceformat": "06.05.2023, 13:22",
+            "timestamp": "2023-05-06T11:22:22.000Z"
+        },
+        "title": "Mer lønnstrøbbel for Aasgaard og Wigan – klubben legger seg flat",
+        "url": "https://www.vg.no/sport/fotball/i/vebeap/mer-loennstroebbel-for-aasgaard-og-wigan-klubben-legger-seg-flat"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Knqnw6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Knqnw6",
+        "preamble": "Chelsea-stjernen Raheem Sterling vedgår at han knapt har vært lenger nede i fotballkarrieren enn akkurat nå. Hundre prosent svart er likevel ikke situasjonen. ",
+        "published": {
+            "date": "lørdag 6. mai",
+            "datetime": "2023-05-06 12:52:28",
+            "niceformat": "06.05.2023, 12:52",
+            "timestamp": "2023-05-06T10:52:28.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/905a8540-717e-4e60-8cf0-b968fe30a927?fit=crop&format=auto&h=267&w=400&s=e24ca27ea89610f5fc34800441a1349301abf9fd",
+            "width": 400
+        },
+        "title": "Chelsea-stjerne: – En av de tyngste periodene i karrieren min",
+        "url": "https://www.vg.no/sport/fotball/i/Knqnw6/chelsea-stjerne-en-av-de-tyngste-periodene-i-karrieren-min"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            },
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJXEKK",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJXEKK",
+        "preamble": "Liverpool har bestemt seg for å adlyde Premier Leagues forespørsel om å spille nasjonalsangen lørdag. Det tas ikke like godt imot av alle. En Liverpool-ekspert tror det ender med piping.",
+        "published": {
+            "date": "lørdag 6. mai",
+            "datetime": "2023-05-06 12:26:46",
+            "niceformat": "06.05.2023, 12:26",
+            "timestamp": "2023-05-06T10:26:46.000Z"
+        },
+        "thumbnail": {
+            "height": 234,
+            "url": "https://akamai.vgc.no/v2/images/dc082605-5c68-4f37-b4a0-e4652ccc08e0?fit=crop&format=auto&h=234&w=400&s=15f90b1bc297b1f9383bb4a9f7904bc70b76e45f",
+            "width": 400
+        },
+        "title": "Omdiskutert Liverpool-avgjørelse om kroningen: – Det blir ingen jubel for Charles",
+        "url": "https://www.vg.no/sport/fotball/i/eJXEKK/omdiskutert-liverpool-avgjoerelse-om-kroningen-det-blir-ingen-jubel-for-charles"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB-AFP"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Moqo2M",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Moqo2M",
+        "preamble": "Den tidligere colombianske landslagsspilleren i fotball Diego Leon Osorio er igjen pågrepet for å ha forsøkt å smugle narkotika. ",
+        "published": {
+            "date": "lørdag 6. mai",
+            "datetime": "2023-05-06 10:31:57",
+            "niceformat": "06.05.2023, 10:31",
+            "timestamp": "2023-05-06T08:31:57.000Z"
+        },
+        "title": "Colombiansk fotballprofil arrestert for narkotikasmugling for tredje gang",
+        "url": "https://www.vg.no/sport/fotball/i/Moqo2M/colombiansk-fotballprofil-arrestert-for-narkotikasmugling-for-tredje-gang"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            },
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76Qd8w",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76Qd8w",
+        "preamble": "Frida Maanum (23) scoret et vakkert mål da Arsenal slo Leicester 1-0 i den engelske superligaen fredag. Hun leverte en sterk kamp i ny rolle.",
+        "published": {
+            "date": "fredag 5. mai",
+            "datetime": "2023-05-05 22:40:53",
+            "niceformat": "05.05.2023, 22:40",
+            "timestamp": "2023-05-05T20:40:53.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/5EZyZjYM5Mtd.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Frida Maanum matchvinner for Arsenal: Drømmescoring",
+        "url": "https://www.vg.no/sport/fotball/i/76Qd8w/frida-maanum-matchvinner-for-arsenal"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76QdGo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76QdGo",
+        "preamble": "MANCHESTER (VG) To nordmenn var med da Premier League presenterte EA Sports FIFAs «Team of the season», men ett sted gikk det veldig galt. Nå har ligaens offisielle Twitter-konto slettet det opprinnelige videoinnlegget.",
+        "published": {
+            "date": "fredag 5. mai",
+            "datetime": "2023-05-05 22:24:37",
+            "niceformat": "05.05.2023, 22:24",
+            "timestamp": "2023-05-05T20:24:37.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/b1479386-f4bb-44e8-a782-b0d653eadfdf?fit=crop&format=auto&h=267&w=400&s=c431a349b95a32d01fdcc92520ae53733045b28b",
+            "width": 400
+        },
+        "title": "Ødegaard stemt frem i «sesongens lag»-kåring – Premier League slettet komisk kjærestetabbe",
+        "url": "https://www.vg.no/sport/fotball/i/76QdGo/oedegaard-stemt-frem-i-aarets-lag-kaaring-offer-for-komisk-kjaerestetabbe"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQqxrR",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQqxrR",
+        "preamble": "MANCHESTER (VG) I et eksklusivt intervju med Daily Mail letter Manchester City-stjernen Jack Grealish (27) på sløret om vennskapet med Erling Braut Haaland (22).",
+        "published": {
+            "date": "fredag 5. mai",
+            "datetime": "2023-05-05 18:32:27",
+            "niceformat": "05.05.2023, 18:32",
+            "timestamp": "2023-05-05T16:32:27.000Z"
+        },
+        "thumbnail": {
+            "height": 283,
+            "url": "https://akamai.vgc.no/v2/images/c0dab062-dad6-4e05-80f7-0e25edf1f210?fit=crop&format=auto&h=283&w=400&s=9570d7d9abb3264c5803e1b9d4ce05be3a406aa1",
+            "width": 400
+        },
+        "title": "Grealish røper klar beskjed fra kompisen Haaland: «Ingen festing!»",
+        "url": "https://www.vg.no/sport/fotball/i/JQqxrR/manchester-city-stjernen-jack-grealish-avsloerer-detaljer-fra-vennskapet-med-erling-braut-haaland-ingen-festing"
+    }
+]

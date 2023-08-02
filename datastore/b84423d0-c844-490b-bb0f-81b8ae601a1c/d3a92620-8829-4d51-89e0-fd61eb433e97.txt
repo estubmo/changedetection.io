@@ -1,0 +1,358 @@
+[
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "2BKwla",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/2BKwla",
+        "preamble": "Erling Braut Haaland (22) stakk av med nok en utmerkelse da han lørdag ble kåret til sesongens spiller i Premier League.",
+        "published": {
+            "date": "lørdag 27. mai",
+            "datetime": "2023-05-27 12:05:38",
+            "niceformat": "27.05.2023, 12:05",
+            "timestamp": "2023-05-27T10:05:38.000Z"
+        },
+        "thumbnail": {
+            "height": 302,
+            "url": "https://akamai.vgc.no/v2/images/2dbea927-829a-4c78-b8ba-0f40512621bc?fit=crop&format=auto&h=302&w=400&s=369bf55e57376d2589191077d2d760b2cb540daa",
+            "width": 400
+        },
+        "title": "Haaland kåret til sesongens spiller i Premier League",
+        "url": "https://www.vg.no/sport/fotball/i/2BKwla/haaland-kaaret-til-aarets-spiller-i-premier-league"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPkpAW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPkpAW",
+        "preamble": "Frank Lampard (44) har hatt et annus horribilis som manager. Til sammen har han fem seirer på 32 kamper med Everton og Chelsea.",
+        "published": {
+            "date": "lørdag 27. mai",
+            "datetime": "2023-05-27 10:00:14",
+            "niceformat": "27.05.2023, 10:00",
+            "timestamp": "2023-05-27T08:00:14.000Z"
+        },
+        "thumbnail": {
+            "height": 273,
+            "url": "https://akamai.vgc.no/v2/images/dd59182f-655a-4eb1-8f74-629c683ba9e6?fit=crop&format=auto&h=273&w=400&s=17210f12e44f69b25ff8d239b17754d687f87b7b",
+            "width": 400
+        },
+        "title": "Frank Lampards katastrofetall: 0,70 poeng per kamp",
+        "url": "https://www.vg.no/sport/fotball/i/VPkpAW/frank-lampards-katastrofetall-0-70-poeng-per-kamp"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            },
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQ5kvo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQ5kvo",
+        "preamble": "Martin Foyston, mengeårig assistent for Häcken-trener Per-Mathias Høgmo, må tåle hard kritikk etter at han prøvde å spenne bein på Djurgården-trener Kim Bergstrand.",
+        "published": {
+            "date": "lørdag 27. mai",
+            "datetime": "2023-05-27 08:37:45",
+            "niceformat": "27.05.2023, 08:37",
+            "timestamp": "2023-05-27T06:37:45.000Z"
+        },
+        "thumbnail": {
+            "height": 288,
+            "url": "https://akamai.vgc.no/v2/images/abe92a35-48b6-4e1a-b148-12aead5181fa?fit=crop&format=auto&h=288&w=400&s=b62c5abeef0bc1fc5f84b91d1d0ad18cb00f5dd3",
+            "width": 400
+        },
+        "title": "Høgmo-assistent i hardt vær etter beinkrok: – Dumt og uprofesjonelt",
+        "url": "https://www.vg.no/sport/fotball/i/EQ5kvo/hoegmo-assistent-i-hardt-vaer-etter-beinkrok-dumt-og-uprofesjonelt"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPkrjp",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPkrjp",
+        "preamble": "Celine Borge avsluttet sin deltakelse i matchplayturneringen i Las Vegas på LPGA-touren i golf med stil da hun utklasset amerikanske Stacy Lewis fredag.",
+        "published": {
+            "date": "lørdag 27. mai",
+            "datetime": "2023-05-27 08:15:29",
+            "niceformat": "27.05.2023, 08:15",
+            "timestamp": "2023-05-27T06:15:29.000Z"
+        },
+        "title": "Sterk seier for Celine Borge i Las Vegas",
+        "url": "https://www.vg.no/sport/fotball/i/VPkrjp/sterk-seier-for-celine-borge-i-las-vegas"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q1XxKw",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q1XxKw",
+        "preamble": "Amsterdam by vil hedre Ajax’ kvinnelag etter at de vant den nederlandske ligaen for første gang på fem år. Klubben sier nei – blant annet fordi herrene ikke har prestert etter forventningene.",
+        "published": {
+            "date": "lørdag 27. mai",
+            "datetime": "2023-05-27 03:08:16",
+            "niceformat": "27.05.2023, 03:08",
+            "timestamp": "2023-05-27T01:08:16.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/2f9c92fb-dfc6-45c7-8d77-cd0b4f549f29?fit=crop&format=auto&h=267&w=400&s=17c914f97bcc8e541f033e2568805744520d0c76",
+            "width": 400
+        },
+        "title": "Vil ikke ha storfeiring av kvinnenes gull – fordi herrene gjør det så dårlig",
+        "url": "https://www.vg.no/sport/fotball/i/q1XxKw/vil-ikke-ha-storfeiring-av-kvinnenes-gull-fordi-herrene-gjoer-det-saa-daarlig"
+    },
+    {
+        "authors": [
+            {
+                "email": "per.opsahl@vg.no",
+                "id": "a8b54406-d047-4b1c-90e2-f9f77a0e7317",
+                "name": "Per Opsahl"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jlXlge",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jlXlge",
+        "preamble": "Han forelsket seg i klubben etter en tippekamp i 1988 og fridde ute på Lutons hjemmebane i 2004. Nå skal selvfølgelig Lars-Petter Luton (!) Rønnestad (47) på lørdagens playoff-finale, der Luton kan rykke opp til Premier League.",
+        "published": {
+            "date": "fredag 26. mai",
+            "datetime": "2023-05-26 22:27:43",
+            "niceformat": "26.05.2023, 22:27",
+            "timestamp": "2023-05-26T20:27:43.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/b35a5d08-c384-45af-b536-1b0363724186?fit=crop&format=auto&h=300&w=400&s=543d0aa0e6d5bf6d02d2cda0a6df6bbc07958baf",
+            "width": 400
+        },
+        "title": "Luton-gale Lars-Petter Luton skjelver før opprykksfinalen",
+        "url": "https://www.vg.no/sport/fotball/i/jlXlge/luton-gale-lars-petter-luton-skal-paa-opprykksfinalen-mot-coventry"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQ5Ed3",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQ5Ed3",
+        "preamble": "Vålerenga-talentet Mawa Sesay har pådratt seg en alvorlig kneskade og spiller ikke flere fotballkamper i inneværende sesong. ",
+        "published": {
+            "date": "fredag 26. mai",
+            "datetime": "2023-05-26 15:39:46",
+            "niceformat": "26.05.2023, 15:39",
+            "timestamp": "2023-05-26T13:39:46.000Z"
+        },
+        "thumbnail": {
+            "height": 328,
+            "url": "https://akamai.vgc.no/v2/images/d43fc494-bcd2-46d4-a2b3-21c7dda705e8?fit=crop&format=auto&h=328&w=400&s=7276d926fdf28858e1aa43f3748dd3c3077d7fd2",
+            "width": 400
+        },
+        "title": "Vålerenga-spiller mister resten av sesongen med korsbåndskade",
+        "url": "https://www.vg.no/sport/fotball/i/EQ5Ed3/vaalerenga-spiller-mister-resten-av-sesongen-med-korsbaandskade"
+    },
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJmmnR",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJmmnR",
+        "preamble": "Fredag morgen våknet Rosenborg opp til flere bannere med klar beskjed. Lederen for supportergruppen beskriver sesongen så langt som «nitrist» – men sier de ikke står bak.",
+        "published": {
+            "date": "fredag 26. mai",
+            "datetime": "2023-05-26 15:31:31",
+            "niceformat": "26.05.2023, 15:31",
+            "timestamp": "2023-05-26T13:31:31.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/761e0e93-8800-4ac6-b034-a52d42b6b9a6?fit=crop&format=auto&h=267&w=400&s=22bac50b5eae769cf210437e661d89634e2e51dc",
+            "width": 400
+        },
+        "title": "Kjernen står ikke bak bannerne: – Det er mye frustrasjon i Trondheim",
+        "url": "https://www.vg.no/sport/fotball/i/eJmmnR/kjernen-staar-ikke-bak-bannerne-det-er-mye-frustrasjon-i-trondheim"
+    },
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "veXyMl",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/veXyMl",
+        "preamble": "Ifølge TV 2 fortsetter Lars Arne Nilsens tidligere assistent Marius Bøe som hovedtrener for Aalesund i minst tre kamper til.",
+        "published": {
+            "date": "fredag 26. mai",
+            "datetime": "2023-05-26 15:08:35",
+            "niceformat": "26.05.2023, 15:08",
+            "timestamp": "2023-05-26T13:08:35.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/4584bac4-8e92-4c40-8bb8-ccb1e5697773?fit=crop&format=auto&h=267&w=400&s=8abf5648a7371da105b81c14de3a12477f7490c7",
+            "width": 400
+        },
+        "title": "TV 2: Marius Bøe leder Aalesund til sommeren",
+        "url": "https://www.vg.no/sport/fotball/i/veXyMl/marius-boee-leder-aalesund-til-sommeren"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "nQXnrx",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/nQXnrx",
+        "preamble": "Brentford-spissen Ivan Toney satte ved 13 tilfeller penger på kamper med eget lag. Han endte med å få utestengelsen redusert på grunn av spilleavhengighet.",
+        "published": {
+            "date": "fredag 26. mai",
+            "datetime": "2023-05-26 13:50:01",
+            "niceformat": "26.05.2023, 13:50",
+            "timestamp": "2023-05-26T11:50:01.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/21ed9883-da3e-448f-ab27-50fd43da865a?fit=crop&format=auto&h=267&w=400&s=050b546b064fa37e5f594c844614f7cd260ce1c7",
+            "width": 400
+        },
+        "title": "Utestengt Premier League-stjerne gamblet på eget lag – var spilleavhengig",
+        "url": "https://www.vg.no/sport/fotball/i/nQXnrx/utestengt-premier-league-stjerne-gamblet-paa-eget-lag-var-spilleavhengig"
+    }
+]

@@ -1,0 +1,191 @@
+[
+    {
+        "slug": "han-forsvant-like-raskt-som-han-kom-naa-gjoer-den-tidligere-rbk-spilleren-comeback",
+        "url": "/sport/fotball/i/xgw9Bp/han-forsvant-like-raskt-som-han-kom-naa-gjoer-den-tidligere-rbk-spilleren-comeback",
+        "title": {
+            "value": "Angrer fortsatt på at han forlot RBK: - Agenten min maste"
+        },
+        "description": "Paal Christian Alsaker angrer fortsatt på at han forlot Lerkendal.",
+        "imageUrl": "67d42d4f-383f-4cfc-b7ee-aece4e7c89c0",
+        "publishedAt": "2023-06-13T12:01:48Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "nils-arne-eggen",
+            "rasmus-saga",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/2B4Aer/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag, 13. juni.",
+        "imageUrl": "9eb72e0d-64c6-4680-900f-cae55a221de4",
+        "publishedAt": "2023-06-13T04:01:26Z",
+        "lastModifiedAt": "2023-06-13T04:01:26Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "hattrick-show-fra-trygg-lade-2",
+        "url": "/lokalfotballen/i/veyj94/hattrick-show-fra-trygg-lade-2",
+        "title": {
+            "value": "Hattrick-show fra Trygg / Lade 2"
+        },
+        "description": "Trygg/Lade 2 vant 5-3 mot Orkanger og tok dermed sin første hjemmeseier denne sesongen i 5. divisjon, Trøndelag - Avdeling 2 i fotball for menn. Fred Artur Walla Saasen scoret tre av målene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T22:27:49Z",
+        "lastModifiedAt": "2023-06-12T22:27:49Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "knusende-seier-for-charlottenlund",
+        "url": "/lokalfotballen/i/KnkAWG/knusende-seier-for-charlottenlund",
+        "title": {
+            "value": "Knusende seier for Charlottenlund"
+        },
+        "description": "Charlottenlund knuste Levanger 2 4-0 i 4. divisjon, Trøndelag - Avdeling 1 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T21:28:36Z",
+        "lastModifiedAt": "2023-06-12T21:28:36Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "trygve-solvoll-scoret-hattrick-for-oppdal",
+        "url": "/lokalfotballen/i/veyjwV/trygve-solvoll-scoret-hattrick-for-oppdal",
+        "title": {
+            "value": "Mål-lykke for Trygve Solvoll"
+        },
+        "description": "Oppdal slo Charlottenlund 2 6-1 og har dermed tatt poeng i seks kamper på rad i G19 2. divisjon, Avdeling 4 - Vår. Trygve Solvoll scoret hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T21:07:09Z",
+        "lastModifiedAt": "2023-06-12T21:59:29Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-opp"
+        ]
+    },
+    {
+        "slug": "hattrick-show-fra-bratsberg",
+        "url": "/lokalfotballen/i/4oGAmo/hattrick-show-fra-bratsberg",
+        "title": {
+            "value": "Hattrick-show fra Bratsberg"
+        },
+        "description": "Christian Rasch scoret tre ganger og hjalp Bratsberg til 7-2-seier over Astor i 6. divisjon, Trøndelag - Avdeling 4 i fotball mandag. Bratsberg har fire seirer på sine fem siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T21:03:00Z",
+        "lastModifiedAt": "2023-06-12T21:03:00Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "uavgjort-mellom-laanke-2-og-markabygda-i-maalfest",
+        "url": "/lokalfotballen/i/EQEAJj/uavgjort-mellom-laanke-2-og-markabygda-i-maalfest",
+        "title": {
+            "value": "Uavgjort i målfest mellom Lånke 2 og Markabygda"
+        },
+        "description": "Lånke 2 og Markabygda måtte nøye seg med uavgjort på Lånke kunstgress i 6. divisjon, Trøndelag - Avdeling 2 i fotball for menn. Det stanset tapsrekken til Lånke 2, som ikke hadde tatt poeng de siste tre kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T20:39:02Z",
+        "lastModifiedAt": "2023-06-12T21:30:55Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "kvam-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/APWVR5/kvam-fortsatte-seiersrekken",
+        "title": {
+            "value": "Bentzen i scoringshumør mot Snåsa"
+        },
+        "description": "Kvam slo Snåsa 4-0 og tok sin tredje strake seier i 6. divisjon, Trøndelag - Avdeling 1 i fotball for menn. Erik Magnus Bentzen scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T20:33:39Z",
+        "lastModifiedAt": "2023-06-13T06:59:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "orkanger-2-og-glimt-delte-poengene",
+        "url": "/lokalfotballen/i/eJ0xzy/orkanger-2-og-glimt-delte-poengene",
+        "title": {
+            "value": "Orkanger 2 måtte dele poengene"
+        },
+        "description": "Det endte uavgjort mellom Orkanger 2 og Glimt på Orkla Maskin Arena i 6. divisjon, Trøndelag - Avdeling 4 i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T20:33:37Z",
+        "lastModifiedAt": "2023-06-12T21:03:00Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "heimdal-2-ydmyket-klaebu",
+        "url": "/lokalfotballen/i/8JzAG2/heimdal-2-ydmyket-klaebu",
+        "title": {
+            "value": "Brakseier for Heimdal 2"
+        },
+        "description": "Klæbu gikk på sitt tredje strake tap da klubben tapte 0-6 for Heimdal 2 i 6. divisjon, Trøndelag - Avdeling 5 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T20:28:04Z",
+        "lastModifiedAt": "2023-06-12T20:33:39Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-klabuposten"
+        ]
+    }
+]

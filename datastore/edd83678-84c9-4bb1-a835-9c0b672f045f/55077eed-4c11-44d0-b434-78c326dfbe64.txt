@@ -1,0 +1,211 @@
+[
+    {
+        "slug": "tangmoen-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/EQE4bo/tangmoen-fortsatte-seiersrekken",
+        "title": {
+            "value": "Tangmoen vant igjen"
+        },
+        "description": "Thalles Lynton Da Silva Monteiro sikret tre poeng for Tangmoen da Vinne ble slått 3-2 i 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-02T20:13:10Z",
+        "lastModifiedAt": "2023-06-02T20:22:33Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "rbks-verste-fiende",
+        "url": "/meninger/i/l3X6Wy/rbks-verste-fiende",
+        "title": {
+            "value": "Er sportsjournalistikken i Adressa en testosteron-greie?"
+        },
+        "description": null,
+        "imageUrl": "78852cfe-1dab-448f-9c5f-82146d410e95",
+        "publishedAt": "2023-06-02T19:56:43Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Eirik Oterholm"
+        ],
+        "tags": [
+            "midtnorsk-debatt",
+            "debatt",
+            "fotball",
+            "eliteserien"
+        ]
+    },
+    {
+        "slug": "dorsin-jeg-mener-at-stallen-er-god-nok",
+        "url": "/sport/fotball/i/P4mW8R/dorsin-jeg-mener-at-stallen-er-god-nok",
+        "title": {
+            "value": "Dorsin: - Jeg mener at stallen er god nok"
+        },
+        "description": "Mikael Dorsin innrømmer at han føler et ansvar for RBK-svikten. Samtidig mener han stallen er god nok til å kunne innfri målet om Europa.",
+        "imageUrl": "4665db2c-1be2-4220-91f6-6e24ed435ec8",
+        "publishedAt": "2023-06-02T19:11:21Z",
+        "lastModifiedAt": "2023-06-02T19:25:58Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "mikael-dorsin",
+            "kjetil-rekdal",
+            "markus-henriksen"
+        ]
+    },
+    {
+        "slug": "fram-remyra-viste-muskler-i-dagens-toppoppgjoer",
+        "url": "/lokalfotballen/i/8Jzl6d/fram-remyra-viste-muskler-i-dagens-toppoppgjoer",
+        "title": {
+            "value": "Fram / Remyra kunne juble etter toppoppgjøret"
+        },
+        "description": "Fram/Remyra slo Strindheim 2 3-0 på Leangen Bolig Arena i J17 2. divisjon, Avdeling 1 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-02T19:10:55Z",
+        "lastModifiedAt": "2023-06-02T19:25:28Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "ranheim-slo-malvik-2-hommelvik-2-paa-bortebane",
+        "url": "/lokalfotballen/i/abLrr7/ranheim-slo-malvik-2-hommelvik-2-paa-bortebane",
+        "title": {
+            "value": "Ranheim-seier over Malvik 2 / Hommelvik 2"
+        },
+        "description": "Ranheim fikk med seg alle poengene da Malvik 2/Hommelvik 2 ble slått 3-1 i J15 2. divisjon, Avdeling 4 - Vår fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-02T18:18:09Z",
+        "lastModifiedAt": "2023-06-02T19:25:27Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "rekdal-er-i-ferd-med-aa-komme-best-ut",
+        "url": "/sport/i/EQ50zK/rekdal-er-i-ferd-med-aa-komme-best-ut",
+        "title": {
+            "value": "Rekdal er i ferd med å komme best ut"
+        },
+        "description": "KOMMENTAR: Styret må enten ta grep eller gi Kjetil Rekdal ubetinget tillit ut året. Rosenborg slites i fillebiter av det som skjer nå.",
+        "imageUrl": "5d803bec-78f1-4c7e-8ec3-8bb63dcea922",
+        "publishedAt": "2023-06-02T15:56:58Z",
+        "lastModifiedAt": "2023-06-02T15:56:58Z",
+        "premium": true,
+        "authors": [
+            "Birger Løfaldli"
+        ],
+        "tags": [
+            "cecilie-gotaas-johnsen",
+            "kjetil-rekdal",
+            "birger-loefaldli",
+            "svein-maalen",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "kan-trondheim-kommune-prinsipielt-vaere-mot-utleie",
+        "url": "/meninger/i/Kn1J1X/kan-trondheim-kommune-prinsipielt-vaere-mot-utleie",
+        "title": {
+            "value": "Vi har fått avslag fordi spisestua potensielt kan være en hybel"
+        },
+        "description": null,
+        "imageUrl": "ef547545-aa82-481c-99bd-b7d04846c2a6",
+        "publishedAt": "2023-06-02T15:01:37Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Malin Totland og Jan-Arve Hansen"
+        ],
+        "tags": [
+            "bolig",
+            "trondheim",
+            "utleie",
+            "byutvikling-i-trondheim",
+            "debatt",
+            "midtnorsk-debatt"
+        ]
+    },
+    {
+        "slug": "saa-mange-billetter-er-solgt-til-storkampen",
+        "url": "/sport/fotball/i/y6Xkex/saa-mange-billetter-er-solgt-til-storkampen",
+        "title": {
+            "value": "Så mange billetter er solgt til storkampen"
+        },
+        "description": "RBK-kvinnene slår neppe sin egen publikumsrekord på Lerkendal lørdag.",
+        "imageUrl": "b242105b-c13f-46b1-96a6-31d992976ddb",
+        "publishedAt": "2023-06-02T14:26:02Z",
+        "lastModifiedAt": "2023-06-02T14:26:02Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold",
+            "Johannes Strand"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "toppserien",
+            "kjernen",
+            "fotball"
+        ]
+    },
+    {
+        "slug": "rbk-spilleren-klar-for-tysk-toppklubb",
+        "url": "/sport/fotball/i/wAXyrn/rbk-spilleren-klar-for-tysk-toppklubb",
+        "title": {
+            "value": "RBK-spilleren klar for tysk toppklubb"
+        },
+        "description": "Bayer Leverkusen er Synne Skinnes Hansens nye klubb.",
+        "imageUrl": "719d8580-cc6f-495d-99f9-ec68b5755807",
+        "publishedAt": "2023-06-02T13:05:25Z",
+        "lastModifiedAt": "2023-06-02T13:15:38Z",
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "fotball",
+            "bayer-leverkusen",
+            "rosenborg-bk",
+            "rosenborg-kvinner"
+        ]
+    },
+    {
+        "slug": "ukequiz-uke-22",
+        "url": "/nyheter/i/dwPx6j/ukequiz-uke-22",
+        "title": {
+            "value": "Hva heter hjemmebanen til laget som slo RBK?"
+        },
+        "description": "Ta vår quiz og bli kjapt oppdatert på et utvalg av ukens store og mindre store nyheter.",
+        "imageUrl": "9de5f431-3c34-40fb-a205-6c4fcb6841cb",
+        "publishedAt": "2023-06-02T10:58:29Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Mia Kristin Midtbø"
+        ],
+        "tags": [
+            "ukequiz",
+            "quiz"
+        ]
+    }
+]

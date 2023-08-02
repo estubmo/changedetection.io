@@ -1,0 +1,207 @@
+[
+    {
+        "slug": "fikk-fyken-i-ranheim-naa-har-han-faatt-ny-jobb",
+        "url": "/sport/fotball/i/aby8nE/fikk-fyken-i-ranheim-naa-har-han-faatt-ny-jobb",
+        "title": {
+            "value": "Fikk fyken i Ranheim - har fått ny jobb"
+        },
+        "description": "Da det ble klart at Hugo Pereira var ferdig i Ranheim, tok det ikke lang tid før en gammel bekjent var på tråden.",
+        "imageUrl": "02b7cb06-9fe9-4b2c-9246-ea543768a7c4",
+        "publishedAt": "2023-04-26T06:01:34Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "fotball",
+            "hugo-pereira",
+            "espen-olafsen",
+            "norsk-toppfotball-ntf",
+            "norsk-fotball",
+            "ranheim-tf"
+        ]
+    },
+    {
+        "slug": "han-er-soenn-av-steffen-og-barnebarn-av-odd-naa-har-joey-flyttet-til-trondheim",
+        "url": "/sport/fotball/i/abyPRO/han-er-soenn-av-steffen-og-barnebarn-av-odd-naa-har-joey-flyttet-til-trondheim",
+        "title": {
+            "value": "Han er sønn av Steffen og barnebarn av Odd. Nå har Joey flyttet til Trondheim"
+        },
+        "description": "Joey Iversen tok en pause fra fotballen i England. I Trondheim har «bittelitj-Ivers» funnet tilbake til lidenskapen.",
+        "imageUrl": "001c8e34-cc2e-45fe-be36-ca1ff6fd9f5c",
+        "publishedAt": "2023-04-25T17:44:12Z",
+        "lastModifiedAt": "2023-04-25T17:46:32Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "breddefotbaill",
+            "lokalfotballen"
+        ]
+    },
+    {
+        "slug": "det-er-stor-forskjell-mener-den-tidligere-rbk-profilen-slik-svarer-rekdal",
+        "url": "/sport/fotball/i/vez9x5/det-er-stor-forskjell-mener-den-tidligere-rbk-profilen-slik-svarer-rekdal",
+        "title": {
+            "value": "Det er stor forskjell, mener den tidligere RBK-profilen. Slik svarer Rekdal"
+        },
+        "description": "– Det var en litt annen type fotball i Norge, som gjorde at man ikke fikk den spillegleden, sier Stefano Vecchia.",
+        "imageUrl": "751d65c3-3325-48d6-b745-1fd4fe6efdd3",
+        "publishedAt": "2023-04-25T17:20:37Z",
+        "lastModifiedAt": "2023-04-25T17:20:37Z",
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "rbks-playmaker-ute-til-over-sommeren",
+        "url": "/sport/fotball/i/JQRpWJ/rbks-playmaker-ute-til-over-sommeren",
+        "title": {
+            "value": "Måtte forlate banen - ute til over sommeren "
+        },
+        "description": "Cesilie Andreassen måtte forlate banen med det som kunne se ut som en alvorlig kneskade.",
+        "imageUrl": "c9e44c9d-1d73-4425-a3b1-976e5fc03460",
+        "publishedAt": "2023-04-25T14:15:56Z",
+        "lastModifiedAt": "2023-04-25T14:25:13Z",
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "cesilie-andreassen"
+        ]
+    },
+    {
+        "slug": "rbk-spissene-reagerer-paa-egne-tall-skikkelig-daarlig",
+        "url": "/sport/fotball/i/GMnBqx/rbk-spissene-reagerer-paa-egne-tall-skikkelig-daarlig",
+        "title": {
+            "value": "RBK-spissene reagerer: – Skikkelig dårlig"
+        },
+        "description": "På tre kamper står RBK-spissene uten scoringer – og med to skudd på mål. Til sammen.",
+        "imageUrl": "5d5a7030-7ec2-4e6f-8d49-8774f0d3f516",
+        "publishedAt": "2023-04-25T07:11:21Z",
+        "lastModifiedAt": "2023-04-25T07:50:06Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken",
+            "Christian Stendal",
+            "Aksel Murvold",
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "oscar-aga",
+            "kjetil-rekdal",
+            "agon-sadiku",
+            "adressasnapchat-2"
+        ]
+    },
+    {
+        "slug": "har-snakket-ut-om-nedturen",
+        "url": "/sport/fotball/i/Llej5p/har-snakket-ut-om-nedturen",
+        "title": {
+            "value": "Snakket ut om nedturen: - Det begynner først og fremst med meg"
+        },
+        "description": "Før mandagens trening ble Sandefjord-kampen luftet ordentlig ut i RBK-garderoben. Det samme ble den mye omtalte «dårlige treningsuka.»",
+        "imageUrl": "7894d761-111b-4b91-b14e-c060fe58ab17",
+        "publishedAt": "2023-04-24T19:04:07Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "geir-frigaard",
+            "rosenborg-bk",
+            "carlo-holse"
+        ]
+    },
+    {
+        "slug": "kritisk-rbk-kaptein-det-har-vaert-daarlig",
+        "url": "/sport/fotball/i/on8MJ7/kritisk-rbk-kaptein-det-har-vaert-daarlig",
+        "title": {
+            "value": "Kritisk RBK-kaptein: - Det har vært dårlig"
+        },
+        "description": "Markus Henriksen mener Lerkendal-publikummet har sin fulle rett til å pipe.",
+        "imageUrl": "ec33de00-0815-44a9-90a7-25e71c197cbb",
+        "publishedAt": "2023-04-24T05:59:29Z",
+        "lastModifiedAt": "2023-04-24T08:50:53Z",
+        "premium": true,
+        "authors": [
+            "Petter Rasmus",
+            "Anne -Marit Dahl"
+        ],
+        "tags": [
+            "markus-henriksen",
+            "rosenborg-bk",
+            "eliteserien"
+        ]
+    },
+    {
+        "slug": "solli-fortsatte-maalformen-gamst-fikk-debuten",
+        "url": "/sport/fotball/i/wA0d0M/solli-fortsatte-maalformen-gamst-fikk-debuten",
+        "title": {
+            "value": "Solli fortsatte målformen – Gamst fikk debuten"
+        },
+        "description": "Sivert Solli scoret nok en gang og ble avgjørende da Ranheim tok sin tredje strake seier av tre mulige i 1. divisjon. KFUM ble slått 1–0 i hovedstaden.",
+        "imageUrl": "749c82e2-0823-4ea3-a216-76475d2645da",
+        "publishedAt": "2023-04-23T15:09:30Z",
+        "lastModifiedAt": "2023-04-23T15:09:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "ranheim",
+            "morten-gamst-pedersen",
+            "kaare-ingebrigtsen"
+        ]
+    },
+    {
+        "slug": "her-er-rekdals-utvalgte-mot-sandefjord",
+        "url": "/sport/fotball/i/6989eQ/her-er-rekdals-utvalgte-mot-sandefjord",
+        "title": {
+            "value": "Pipekonsert før Holse reddet poenget "
+        },
+        "description": "Rosenborg stiller med samme lag som under serieåpningen",
+        "imageUrl": "c1b079e0-fced-4d25-aa77-220bef1d3076",
+        "publishedAt": "2023-04-23T13:46:55Z",
+        "lastModifiedAt": "2023-04-23T17:08:40Z",
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "eliteserien"
+        ]
+    },
+    {
+        "slug": "sjansesloeseri-stoppet-rbks-seiersrekke",
+        "url": "/sport/fotball/i/eJy7BR/sjansesloeseri-stoppet-rbks-seiersrekke",
+        "title": {
+            "value": "RBK sløste med sjansene og tapte"
+        },
+        "description": "Rosenborg tapte mot LSK kvinner.",
+        "imageUrl": "91da52e2-d088-422c-a61d-1254096c6555",
+        "publishedAt": "2023-04-22T16:40:23Z",
+        "lastModifiedAt": "2023-04-22T16:43:12Z",
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "rosenborg-kvinner"
+        ]
+    }
+]

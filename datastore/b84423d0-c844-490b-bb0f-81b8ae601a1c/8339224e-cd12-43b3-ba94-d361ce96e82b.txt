@@ -1,0 +1,371 @@
+[
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BW4GJ0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BW4GJ0",
+        "preamble": "Ifølge franske aviser presenterer Paris Saint-Germain onsdag sin syvende manager siden Qatar-oppkjøpet i 2011. Denne gangen er det velrenommerte Luis Enrique (53) som får ansvaret for klubbens jakt på sin første Champions League-tittel.",
+        "published": {
+            "date": "onsdag 5. juli",
+            "datetime": "2023-07-05 09:27:27",
+            "niceformat": "05.07.2023, 09:27",
+            "timestamp": "2023-07-05T07:27:27.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/50bc11c7-f17d-4b38-886a-6690d5834c94?fit=crop&format=auto&h=267&w=400&s=e8be20d770348a54727e56b8eada030144dd9494",
+            "width": 400
+        },
+        "title": "Franske aviser: Enrique presenteres som PSG-manager onsdag",
+        "url": "https://www.vg.no/sport/fotball/i/BW4GJ0/franske-aviser-enrique-presenteres-som-psg-manager-onsdag"
+    },
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kEPpXa",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kEPpXa",
+        "preamble": "De norske fotballspillerne Erling Braut Haaland (22), Erik Botheim (23) og Sander Berge (25) henger med kjendisene på ferie i Monaco.",
+        "published": {
+            "date": "onsdag 5. juli",
+            "datetime": "2023-07-05 07:55:43",
+            "niceformat": "05.07.2023, 07:55",
+            "timestamp": "2023-07-05T05:55:43.000Z"
+        },
+        "thumbnail": {
+            "height": 282,
+            "url": "https://akamai.vgc.no/v2/images/98fabe75-bdb9-41bf-bed8-e00bec6885c8?fit=crop&format=auto&h=282&w=400&s=d27aeab52e393a65fc47a9f17ddef61cae875cf3",
+            "width": 400
+        },
+        "title": "Haaland på ferie i Monaco – skal ha spist lunsj med fyrsten",
+        "url": "https://www.vg.no/sport/fotball/i/kEPpXa/erling-braut-haaland-erik-botheim-og-sander-berge-paa-ferie-i-monaco-skal-ha-spist-lunsj-med-fyrst-albert-ii"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMJ0d9",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMJ0d9",
+        "preamble": "Roberto Firmino følger etter en rekke store fotballnavn. Brasilianeren er klar for Al-Ahli i Saudi-Arabia.",
+        "published": {
+            "date": "tirsdag 4. juli",
+            "datetime": "2023-07-04 23:13:38",
+            "niceformat": "04.07.2023, 23:13",
+            "timestamp": "2023-07-04T21:13:38.000Z"
+        },
+        "thumbnail": {
+            "height": 279,
+            "url": "https://akamai.vgc.no/v2/images/4973e3af-b854-4ed6-b755-ce5c084efcdb?fit=crop&format=auto&h=279&w=400&s=5a5eeab109be06bf3dcfd8ec062c14993b7fdb5c",
+            "width": 400
+        },
+        "title": "Firmino er klar for saudiarabisk klubb",
+        "url": "https://www.vg.no/sport/fotball/i/GMJ0d9/firmino-er-klar-for-saudiarabisk-klubb"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "XbORXb",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/XbORXb",
+        "preamble": "Den tsjekkiske storklubben Sparta Praha forsøker å kjøpe den ferske landslagsbacken Brice Wembangomo (26) fra Bodø/Glimt.",
+        "published": {
+            "date": "tirsdag 4. juli",
+            "datetime": "2023-07-04 22:57:18",
+            "niceformat": "04.07.2023, 22:57",
+            "timestamp": "2023-07-04T20:57:18.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/f86cd479-6e33-417f-a56c-fa531882bd87?fit=crop&format=auto&h=267&w=400&s=d884039c1e3603dd48595aed2bc063b866dc620d",
+            "width": 400
+        },
+        "title": "Opplysninger til VG: Bodø/Glimt har avslått bud på Wembangomo",
+        "url": "https://www.vg.no/sport/fotball/i/XbORXb/opplysninger-til-vg-bodoe-glimt-har-avslaatt-bud-paa-wembangomo"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O81671",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O81671",
+        "preamble": "Den engelske landslagsspilleren Mason Mount (24) har lagt ut på Instagram at han forlater Chelsea. Alt tyder på at han havner i Manchester United.",
+        "published": {
+            "date": "tirsdag 4. juli",
+            "datetime": "2023-07-04 21:15:05",
+            "niceformat": "04.07.2023, 21:15",
+            "timestamp": "2023-07-04T19:15:05.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/faeee27b-1c56-4961-9fe8-64fa68f49790?fit=crop&format=auto&h=267&w=400&s=a938e35c62de302df249efd93f5a4afa364ad1b3",
+            "width": 400
+        },
+        "title": "Mason Mount forlater Chelsea",
+        "url": "https://www.vg.no/sport/fotball/i/O81671/mason-mount-forlater-chelsea"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            },
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q18JEg",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q18JEg",
+        "preamble": "(Norge – Hellas 5–4) Det norske U19-landslaget herjet i førsteomgang av EM-åpningen, ledet 5–0 og så ut til gå mot storseier. Etter pause gikk det meste galt.",
+        "published": {
+            "date": "tirsdag 4. juli",
+            "datetime": "2023-07-04 19:58:47",
+            "niceformat": "04.07.2023, 19:58",
+            "timestamp": "2023-07-04T17:58:47.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/_5J8Y9U0QyP-.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Nervepirrende avslutning for U19-landslaget i målfest",
+        "url": "https://www.vg.no/sport/fotball/i/q18JEg/nervepirrende-avslutning-for-u19-landslaget-i-maalfest"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JL5vW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JL5vW",
+        "preamble": "Den 46 år gamle tyskeren Daniel Farke får ansvaret for å ta Leeds tilbake til Premier League.",
+        "published": {
+            "date": "tirsdag 4. juli",
+            "datetime": "2023-07-04 19:07:38",
+            "niceformat": "04.07.2023, 19:07",
+            "timestamp": "2023-07-04T17:07:38.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/974574e1-c7f0-47fd-afdc-a5472f581950?fit=crop&format=auto&h=267&w=400&s=764c4b474e9c2f7b52504ba22d689c4f8116c51b",
+            "width": 400
+        },
+        "title": "Daniel Farke ansatt som manager i Leeds",
+        "url": "https://www.vg.no/sport/fotball/i/8JL5vW/daniel-farke-ansatt-som-manager-i-leeds-united"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9zeAyq",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9zeAyq",
+        "preamble": "Den saudiarabiske ligaen har leid inn gigantselskapet IMG for å selge rettighetene til de to kommende sesongene. Du får imidlertid neppe se Cristiano Ronaldo i Al-Nassr-drakt på norske skjermer med det første.",
+        "published": {
+            "date": "tirsdag 4. juli",
+            "datetime": "2023-07-04 16:57:05",
+            "niceformat": "04.07.2023, 16:57",
+            "timestamp": "2023-07-04T14:57:05.000Z"
+        },
+        "thumbnail": {
+            "height": 284,
+            "url": "https://akamai.vgc.no/v2/images/1f60b501-86bc-4c76-b26b-4f68907666f3?fit=crop&format=auto&h=284&w=400&s=ddf57d1d1ee7ecbab2654026587ce60ed18a7427",
+            "width": 400
+        },
+        "title": "Saudi-Arabia har leid inn rettighetsgigant – lunken interesse i Norge",
+        "url": "https://www.vg.no/sport/fotball/i/9zeAyq/saudi-arabia-oensker-aa-selge-tv-rettighetene-sine-globalt-lunken-interesse-i-norge"
+    },
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMXWL6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMXWL6",
+        "preamble": "Norge har aldri tatt seg videre fra gruppespillet i et U19-EM og mangler flere store profiler. Før åpningskampen mot Hellas råder likevel optimismen hos Norges stjerneskudd. ",
+        "published": {
+            "date": "tirsdag 4. juli",
+            "datetime": "2023-07-04 15:16:06",
+            "niceformat": "04.07.2023, 15:16",
+            "timestamp": "2023-07-04T13:16:06.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/bd301863-06bd-4e1f-8df3-d29f2fc0160d?fit=crop&format=auto&h=267&w=400&s=10b83f5844393a794ccad01ec87c19f6c1d94836",
+            "width": 400
+        },
+        "title": "Jakter på historisk EM-resultat: – Vil bryte barrieren",
+        "url": "https://www.vg.no/sport/fotball/i/GMXWL6/norge-g19-jakter-paa-historisk-sluttspill-i-u19-em"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3EKB80",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3EKB80",
+        "preamble": "Premier League-klubben Brentford har forsterket stallen med midtstopper Nathan Collins. 22-åringen har signert en seksårskontrakt.",
+        "published": {
+            "date": "tirsdag 4. juli",
+            "datetime": "2023-07-04 14:49:22",
+            "niceformat": "04.07.2023, 14:49",
+            "timestamp": "2023-07-04T12:49:22.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/05b3273b-80df-4e9c-92a4-71cb4f6fb042?fit=crop&format=auto&h=267&w=400&s=85ab3b46e6b1d44cfa6549049c3f337e07cdee19",
+            "width": 400
+        },
+        "title": "Irsk landslagsstopper klar for Brentford",
+        "url": "https://www.vg.no/sport/fotball/i/3EKB80/premier-league-nathan-collins-fra-wolverhampton-til-brentford"
+    }
+]

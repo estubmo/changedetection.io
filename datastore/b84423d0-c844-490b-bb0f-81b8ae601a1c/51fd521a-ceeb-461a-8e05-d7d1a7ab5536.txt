@@ -1,0 +1,369 @@
+[
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "vebeap",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/vebeap",
+        "preamble": "Spillerne i Wigan må igjen vente på å få utbetalt lønn. Klubben beklager det inntrufne og ga spillerne fri lørdag som følge av de «krevende omstendighetene».",
+        "published": {
+            "date": "lørdag 6. mai",
+            "datetime": "2023-05-06 13:22:22",
+            "niceformat": "06.05.2023, 13:22",
+            "timestamp": "2023-05-06T11:22:22.000Z"
+        },
+        "title": "Mer lønnstrøbbel for Aasgaard og Wigan – klubben legger seg flat",
+        "url": "https://www.vg.no/sport/fotball/i/vebeap/mer-loennstroebbel-for-aasgaard-og-wigan-klubben-legger-seg-flat"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Knqnw6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Knqnw6",
+        "preamble": "Chelsea-stjernen Raheem Sterling vedgår at han knapt har vært lenger nede i fotballkarrieren enn akkurat nå. Hundre prosent svart er likevel ikke situasjonen. ",
+        "published": {
+            "date": "lørdag 6. mai",
+            "datetime": "2023-05-06 12:52:28",
+            "niceformat": "06.05.2023, 12:52",
+            "timestamp": "2023-05-06T10:52:28.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/905a8540-717e-4e60-8cf0-b968fe30a927?fit=crop&format=auto&h=267&w=400&s=e24ca27ea89610f5fc34800441a1349301abf9fd",
+            "width": 400
+        },
+        "title": "Chelsea-stjerne: – En av de tyngste periodene i karrieren min",
+        "url": "https://www.vg.no/sport/fotball/i/Knqnw6/chelsea-stjerne-en-av-de-tyngste-periodene-i-karrieren-min"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            },
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJXEKK",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJXEKK",
+        "preamble": "Liverpool har bestemt seg for å adlyde Premier Leagues forespørsel om å spille nasjonalsangen lørdag. Det tas ikke like godt imot av alle. En Liverpool-ekspert tror det ender med piping.",
+        "published": {
+            "date": "lørdag 6. mai",
+            "datetime": "2023-05-06 12:26:46",
+            "niceformat": "06.05.2023, 12:26",
+            "timestamp": "2023-05-06T10:26:46.000Z"
+        },
+        "thumbnail": {
+            "height": 234,
+            "url": "https://akamai.vgc.no/v2/images/dc082605-5c68-4f37-b4a0-e4652ccc08e0?fit=crop&format=auto&h=234&w=400&s=15f90b1bc297b1f9383bb4a9f7904bc70b76e45f",
+            "width": 400
+        },
+        "title": "Omdiskutert Liverpool-avgjørelse om kroningen: – Det blir ingen jubel for Charles",
+        "url": "https://www.vg.no/sport/fotball/i/eJXEKK/omdiskutert-liverpool-avgjoerelse-om-kroningen-det-blir-ingen-jubel-for-charles"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB-AFP"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Moqo2M",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Moqo2M",
+        "preamble": "Den tidligere colombianske landslagsspilleren i fotball Diego Leon Osorio er igjen pågrepet for å ha forsøkt å smugle narkotika. ",
+        "published": {
+            "date": "lørdag 6. mai",
+            "datetime": "2023-05-06 10:31:57",
+            "niceformat": "06.05.2023, 10:31",
+            "timestamp": "2023-05-06T08:31:57.000Z"
+        },
+        "title": "Colombiansk fotballprofil arrestert for narkotikasmugling for tredje gang",
+        "url": "https://www.vg.no/sport/fotball/i/Moqo2M/colombiansk-fotballprofil-arrestert-for-narkotikasmugling-for-tredje-gang"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            },
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76Qd8w",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76Qd8w",
+        "preamble": "Frida Maanum (23) scoret et vakkert mål da Arsenal slo Leicester 1-0 i den engelske superligaen fredag. Hun leverte en sterk kamp i ny rolle.",
+        "published": {
+            "date": "fredag 5. mai",
+            "datetime": "2023-05-05 22:40:53",
+            "niceformat": "05.05.2023, 22:40",
+            "timestamp": "2023-05-05T20:40:53.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/5EZyZjYM5Mtd.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Frida Maanum matchvinner for Arsenal: Drømmescoring",
+        "url": "https://www.vg.no/sport/fotball/i/76Qd8w/frida-maanum-matchvinner-for-arsenal"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76QdGo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76QdGo",
+        "preamble": "MANCHESTER (VG) To nordmenn var med da Premier League presenterte EA Sports FIFAs «Team of the season», men ett sted gikk det veldig galt.",
+        "published": {
+            "date": "fredag 5. mai",
+            "datetime": "2023-05-05 22:24:37",
+            "niceformat": "05.05.2023, 22:24",
+            "timestamp": "2023-05-05T20:24:37.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/b1479386-f4bb-44e8-a782-b0d653eadfdf?fit=crop&format=auto&h=267&w=400&s=c431a349b95a32d01fdcc92520ae53733045b28b",
+            "width": 400
+        },
+        "title": "Ødegaard stemt frem i «sesongens lag»-kåring – offer for komisk kjærestetabbe",
+        "url": "https://www.vg.no/sport/fotball/i/76QdGo/oedegaard-stemt-frem-i-aarets-lag-kaaring-offer-for-komisk-kjaerestetabbe"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQqxrR",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQqxrR",
+        "preamble": "MANCHESTER (VG) I et eksklusivt intervju med Daily Mail letter Manchester City-stjernen Jack Grealish (27) på sløret om vennskapet med Erling Braut Haaland (22).",
+        "published": {
+            "date": "fredag 5. mai",
+            "datetime": "2023-05-05 18:32:27",
+            "niceformat": "05.05.2023, 18:32",
+            "timestamp": "2023-05-05T16:32:27.000Z"
+        },
+        "thumbnail": {
+            "height": 283,
+            "url": "https://akamai.vgc.no/v2/images/c0dab062-dad6-4e05-80f7-0e25edf1f210?fit=crop&format=auto&h=283&w=400&s=9570d7d9abb3264c5803e1b9d4ce05be3a406aa1",
+            "width": 400
+        },
+        "title": "Grealish røper klar beskjed fra kompisen Haaland: «Ingen festing!»",
+        "url": "https://www.vg.no/sport/fotball/i/JQqxrR/manchester-city-stjernen-jack-grealish-avsloerer-detaljer-fra-vennskapet-med-erling-braut-haaland-ingen-festing"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "2BJ83l",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/2BJ83l",
+        "preamble": "Klubben suspenderte den argentinske PSG-stjernen Lionel Messi etter at han reiste til Saudi-Arabia uten tillatelse. Nå bryter han tausheten.",
+        "published": {
+            "date": "fredag 5. mai",
+            "datetime": "2023-05-05 17:26:37",
+            "niceformat": "05.05.2023, 17:26",
+            "timestamp": "2023-05-05T15:26:37.000Z"
+        },
+        "thumbnail": {
+            "height": 304,
+            "url": "https://akamai.vgc.no/v2/images/0ba369cb-8bdb-4d22-bd89-595de4acfc18?fit=crop&format=auto&h=304&w=400&s=3122eed66bf5937c49f8a9a80dd5f7db2a208839",
+            "width": 400
+        },
+        "title": "Suspenderte Lionel Messi beklager etter bråket",
+        "url": "https://www.vg.no/sport/fotball/i/2BJ83l/lionel-messi-beklager-etter-braaket"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEB0G5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEB0G5",
+        "preamble": "Norge går i gang med tidens første Nations League for kvinner hjemme mot Østerrike 22. september. Dobbeltmøtet med Frankrike spilles med få dagers mellomrom.",
+        "published": {
+            "date": "fredag 5. mai",
+            "datetime": "2023-05-05 14:41:52",
+            "niceformat": "05.05.2023, 14:41",
+            "timestamp": "2023-05-05T12:41:52.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/2eb7e092-3166-4086-9943-77c9a69f9471?fit=crop&format=auto&h=267&w=400&s=0842d47eadee71d384bdc177b0f6f2b515458197",
+            "width": 400
+        },
+        "title": "Kvinnelandslaget starter Nations League med hjemmekamp",
+        "url": "https://www.vg.no/sport/fotball/i/gEB0G5/kvinnelandslaget-starter-nations-league-med-hjemmekamp"
+    },
+    {
+        "authors": [
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMqQb6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMqQb6",
+        "preamble": "Paris Saint-Germain-trener Christophe Galtier er usikker på når Lionel Messi (35) er tilbake igjen etter hans reise til Saudi-Arabia. ",
+        "published": {
+            "date": "fredag 5. mai",
+            "datetime": "2023-05-05 14:39:37",
+            "niceformat": "05.05.2023, 14:39",
+            "timestamp": "2023-05-05T12:39:37.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/2409021b-9fa6-44e0-b4b2-565794374461?fit=crop&format=auto&h=267&w=400&s=4dc802d04d9b73050ab07d41c8088165547a17fd",
+            "width": 400
+        },
+        "title": "PSG-treneren bekrefter Messi-straff etter omstridt Saudi-Arabia-tur",
+        "url": "https://www.vg.no/sport/fotball/i/GMqQb6/psg-treneren-bekrefter-messi-suspensjon"
+    }
+]

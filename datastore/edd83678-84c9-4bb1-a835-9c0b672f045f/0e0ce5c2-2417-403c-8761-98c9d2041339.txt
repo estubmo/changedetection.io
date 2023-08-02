@@ -1,0 +1,192 @@
+[
+    {
+        "slug": "kaplanski-dobbel-for-heimdal",
+        "url": "/lokalfotballen/i/76olqv/kaplanski-dobbel-for-heimdal",
+        "title": {
+            "value": "Kaplanski-dobbel sikret seier"
+        },
+        "description": "Heimdal banket Charlottenlund 3-0 i 4. divisjon, Trøndelag - Avdeling 1 i fotball lørdag. Oscar Kaplanski scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-17T16:47:03Z",
+        "lastModifiedAt": "2023-06-17T17:01:13Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "smevik-scoret-hattrick-mot-hegra-skjelstadmark",
+        "url": "/lokalfotballen/i/rlOLzw/smevik-scoret-hattrick-mot-hegra-skjelstadmark",
+        "title": {
+            "value": "Smevik scoret hattrick for Overhalla"
+        },
+        "description": "Med dagens 5-2-seier over Hegra/Skjelstadmark tok Overhalla årets første trepoenger på hjemmebane i 4. divisjon, Trøndelag - Avdeling 1 i fotball for kvinner lørdag. Leila Smevik gjorde hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-17T16:32:54Z",
+        "lastModifiedAt": "2023-06-17T23:01:41Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "olsen-scoret-hattrick-for-ranheim-2",
+        "url": "/lokalfotballen/i/zEzL04/olsen-scoret-hattrick-for-ranheim-2",
+        "title": {
+            "value": "Mål-lykke for Olsen"
+        },
+        "description": "Ranheim 2 knuste Nidelv 7-2 i 4. divisjon, Trøndelag - Avdeling 1 i fotball. Ranheim 2 har tatt poeng i seks strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-17T16:11:29Z",
+        "lastModifiedAt": "2023-06-17T16:31:47Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "trygg-lade-tok-sin-sjette-seier-paa-rad",
+        "url": "/lokalfotballen/i/pQx61w/trygg-lade-tok-sin-sjette-seier-paa-rad",
+        "title": {
+            "value": "Trygg / Lade tok sin sjette seier på rad"
+        },
+        "description": "Rørvik gikk på sitt første nederlag for sesongen etter dagens 0-3-tap mot Trygg/Lade i 4. divisjon, Trøndelag - Avdeling 1 i fotball for menn lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-17T16:07:23Z",
+        "lastModifiedAt": "2023-06-17T16:31:48Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "to-fulltreffere-fra-bjerkan",
+        "url": "/lokalfotballen/i/VPXRgl/to-fulltreffere-fra-bjerkan",
+        "title": {
+            "value": "Bjerkan i scoringshumør mot Ørland"
+        },
+        "description": "Hitra knuste Ørland 3-0 i 4. divisjon, Trøndelag - Avdeling 2 i fotball lørdag. Mats Oliver Arntsen Bjerkan scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-17T16:02:07Z",
+        "lastModifiedAt": "2023-06-17T16:05:18Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "storseier-for-vuku",
+        "url": "/lokalfotballen/i/onxREj/storseier-for-vuku",
+        "title": {
+            "value": "Vuku slo Namsos i målfest"
+        },
+        "description": "Vuku banket Namsos 7-1 i 4. divisjon, Trøndelag - Avdeling 1 lørdag. Namsos har tapt de siste seks kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-17T16:02:06Z",
+        "lastModifiedAt": "2023-06-17T16:31:47Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "sokna-slo-ranheim-3-i-maalfest",
+        "url": "/lokalfotballen/i/jlxPlA/sokna-slo-ranheim-3-i-maalfest",
+        "title": {
+            "value": "Mål-lykke for Bones"
+        },
+        "description": "Eline Bones sto fram med tre mål da Sokna seiret 5-2 over Ranheim 3 i 4. divisjon, Trøndelag - Avdeling 3 i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-17T15:35:34Z",
+        "lastModifiedAt": "2023-06-17T19:31:33Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-gauldalsposten",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "rekdal-etter-rbk-exiten-jeg-er-paa-jakt-etter-en-ny-jobb",
+        "url": "/sport/fotball/i/76on1w/rekdal-etter-rbk-exiten-jeg-er-paa-jakt-etter-en-ny-jobb",
+        "title": {
+            "value": "Nedringt etter sparkingen"
+        },
+        "description": "Den nå tidligere Rosenborg-treneren åpner opp i et intervju med VG.",
+        "imageUrl": "5c68e084-e85e-4ebb-b2a8-d977bbd903c9",
+        "publishedAt": "2023-06-17T15:26:49Z",
+        "lastModifiedAt": "2023-06-17T15:32:44Z",
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "sport",
+            "fotball",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "byaasen-seiret-hjemme-mot-kristiansund-2",
+        "url": "/lokalfotballen/i/KnXv3X/byaasen-seiret-hjemme-mot-kristiansund-2",
+        "title": {
+            "value": "Byåsen vant over Kristiansund 2"
+        },
+        "description": "Byåsen banket Kristiansund 2 3-0 i 3. divisjon, Avdeling 5 i fotball for menn lørdag. Byåsen har tatt poeng i fem hjemmekamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-17T14:59:09Z",
+        "lastModifiedAt": "2023-06-17T20:01:42Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "tynset-2-seiret-i-maalfest",
+        "url": "/lokalfotballen/i/zEzLLO/tynset-2-seiret-i-maalfest",
+        "title": {
+            "value": "Storseier for Tynset 2"
+        },
+        "description": "Tynset 2 vant 6-2 mot Flatås og sikret dermed sin første trepoenger på bortebane i årets sesong i 4. divisjon, Trøndelag - Avdeling 3 i fotball for kvinner lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-17T14:40:58Z",
+        "lastModifiedAt": "2023-06-17T15:04:30Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

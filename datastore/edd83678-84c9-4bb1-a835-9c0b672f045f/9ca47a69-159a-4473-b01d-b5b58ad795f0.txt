@@ -1,0 +1,204 @@
+[
+    {
+        "slug": "furberg-boettet-inn-maal-mot-lensvik",
+        "url": "/lokalfotballen/i/kExEnj/furberg-boettet-inn-maal-mot-lensvik",
+        "title": {
+            "value": "Furberg bøttet inn mål mot Lensvik"
+        },
+        "description": "Frøya knuste Lensvik 11-0 i 6. divisjon, Trøndelag - Avdeling 4 i fotball mandag. Nataniel Sandvik Furberg scoret fem ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T19:36:39Z",
+        "lastModifiedAt": "2023-06-19T19:36:39Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "boegeberg-med-maalshow",
+        "url": "/lokalfotballen/i/8JVJa1/boegeberg-med-maalshow",
+        "title": {
+            "value": "Bøgeberg bøttet inn mål mot Buvik 7er"
+        },
+        "description": "Heidi Bøgeberg ledet an med fire av målene i 9-1-seieren over Buvik 7er i 7er, Trøndelag - Avdeling 3 i fotball for kvinner. Buvik 7er har tapt alle kampene sine så langt denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T19:23:58Z",
+        "lastModifiedAt": "2023-06-19T19:36:37Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "stavnesli-scoret-hattrick-mot-fosen",
+        "url": "/lokalfotballen/i/4olokR/stavnesli-scoret-hattrick-mot-fosen",
+        "title": {
+            "value": "Stavnesli scoret hattrick mot Fosen"
+        },
+        "description": "Eivor Sandvik Stavnesli viste scoringsform da KIL/Hemne 2 seiret 4-0 over Fosen i 4. divisjon, Trøndelag - Avdeling 2 i fotball mandag. Det var Fosens andre tap på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T18:59:02Z",
+        "lastModifiedAt": "2023-06-19T19:36:37Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "er-disse-to-et-offer",
+        "url": "/sport/i/veG525/er-disse-to-et-offer",
+        "title": {
+            "value": "Hun tar opp et ømt punkt"
+        },
+        "description": "KOMMENTAR: Svaret er nei, men fotballpresidenten har likevel helt rett når hun tar opp et ømt punkt i norsk idrett.",
+        "imageUrl": "bac908c2-6a9b-4376-92ac-6ae671b9f139",
+        "publishedAt": "2023-06-19T18:28:15Z",
+        "lastModifiedAt": "2023-06-19T18:28:15Z",
+        "premium": true,
+        "authors": [
+            "Birger Løfaldli"
+        ],
+        "tags": [
+            "erling-braut-haaland",
+            "staale-vaag",
+            "sverre-nypan",
+            "lise-klaveness",
+            "birger-loefaldli"
+        ]
+    },
+    {
+        "slug": "nynes-scoret-to-for-vestbyen",
+        "url": "/lokalfotballen/i/wAkAmM/nynes-scoret-to-for-vestbyen",
+        "title": {
+            "value": "Nynes i scoringshumør"
+        },
+        "description": "Alexander Nynes sto fram med to mål da Vestbyen seiret 3-1 over Tiller 2 i 5. divisjon, Trøndelag - Avdeling 2 i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T18:20:58Z",
+        "lastModifiedAt": "2023-06-19T18:32:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "haaper-ikke-spillerne-er-lei-av-meg-allerede",
+        "url": "/sport/fotball/i/kEx6oX/haaper-ikke-spillerne-er-lei-av-meg-allerede",
+        "title": {
+            "value": "Maalen har gitt utlendingene en konkret hjemmelekse"
+        },
+        "description": "Svein Maalen sendte enkelte spillere hjem med språk-lekse etter sin første dag på jobb.",
+        "imageUrl": "7f4371c6-9a53-4626-9ac1-0dbb1e71774b",
+        "publishedAt": "2023-06-19T15:49:25Z",
+        "lastModifiedAt": "2023-06-19T15:49:25Z",
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "svein-maalen",
+            "sverre-nypan",
+            "markus-henriksen",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "rbk-kjempen-spilte-under-eggen-dette-er-mye-likt",
+        "url": "/sport/fotball/i/mQxreO/rbk-kjempen-spilte-under-eggen-dette-er-mye-likt",
+        "title": {
+            "value": "RBK-kjempen spilte under Eggen: – Veldig mye likt"
+        },
+        "description": "Mandag var Svein Maalen i gang som RBK-trener. Per Ciljan Skjelbred sammenlikner tankegodset med noe han husker godt fra «gammeltida».",
+        "imageUrl": "230b9b51-c119-4e51-a424-05c9e176ae39",
+        "publishedAt": "2023-06-19T12:04:04Z",
+        "lastModifiedAt": "2023-06-19T16:16:23Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken",
+            "Petter Rasmus",
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "troenderen-havnet-midt-i-dramaet-det-var-voldsomt",
+        "url": "/sport/i/l3azLM/troenderen-havnet-midt-i-dramaet-det-var-voldsomt",
+        "title": {
+            "value": "Trønderen havnet midt i dramaet: - Det var voldsomt "
+        },
+        "description": "Øyvind Togstad opplevde sitt mest dramatiske håndballøyeblikk foran 20 000 tilskuere i Mesterliga-finalen i Køln.",
+        "imageUrl": "a1990e67-108f-4144-a99e-7a06dc01bfc3",
+        "publishedAt": "2023-06-19T09:19:46Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "haandball",
+            "kolstad-haandball"
+        ]
+    },
+    {
+        "slug": "se-maalens-foerste-rbk-trening-her",
+        "url": "/sport/fotball/i/69ek8r/se-maalens-foerste-rbk-trening-her",
+        "title": {
+            "value": "Supertalentet i ny rolle"
+        },
+        "description": "Mandag formiddag møtte Svein Maalen RBK-spillerne til lunsj og møte på Brakka. Derfra gikk turen til «Skoglunden» og «Ivers direkte»-sendt trening fra kl. 11.55.",
+        "imageUrl": "ee4b77ae-8cd5-4a65-925f-79a20d17b32e",
+        "publishedAt": "2023-06-19T08:11:44Z",
+        "lastModifiedAt": "2023-06-19T11:26:12Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "svein-maalen"
+        ]
+    },
+    {
+        "slug": "tre-rbk-spillere-tatt-med-i-norges-vm-tropp",
+        "url": "/sport/fotball/i/eJRPzQ/tre-rbk-spillere-tatt-med-i-norges-vm-tropp",
+        "title": {
+            "value": "Tre RBK-spillere tatt med i Norges VM-tropp - Riise tabbet seg ut"
+        },
+        "description": "Anna Jøsendal er en av tre Rosenborg-spillere som kan juble for VM-plass. En fjerde, RBK-spissen Emilie Nautnes, trodde hun var tatt ut som reserve. Det viste seg å være feil.",
+        "imageUrl": "e8caca37-7c1d-4d9d-b5f3-2ea38a68e3e2",
+        "publishedAt": "2023-06-19T07:37:39Z",
+        "lastModifiedAt": "2023-06-19T08:53:34Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "anna-joesendal",
+            "mathilde-harviken",
+            "emilie-nautnes",
+            "ingrid-syrstad-engen"
+        ]
+    }
+]

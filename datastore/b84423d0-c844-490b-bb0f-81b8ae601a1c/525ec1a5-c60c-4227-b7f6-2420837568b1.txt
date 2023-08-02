@@ -1,0 +1,393 @@
+[
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WRdOAr",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WRdOAr",
+        "preamble": "(Liverpool – Aston Villa 1–1) Liverpool har spilt Champions League-fotball i seks strake sesonger. Nå henger håpet i en veldig, veldig tynn tråd. Etter kampen ble to Liverpool-legender hyllet.",
+        "published": {
+            "date": "lørdag 20. mai",
+            "datetime": "2023-05-20 18:04:52",
+            "niceformat": "20.05.2023, 18:04",
+            "timestamp": "2023-05-20T16:04:52.000Z"
+        },
+        "thumbnail": {
+            "height": 277,
+            "url": "https://akamai.vgc.no/v2/images/3b197387-5f9f-4a98-aa6e-e014a63336a5?fit=crop&format=auto&h=277&w=400&s=01ebb96218046388588cc090e6814843732ac0be",
+            "width": 400
+        },
+        "title": "Suspendert Klopp så Liverpool så å si rote bort Champions League-drømmen",
+        "url": "https://www.vg.no/sport/fotball/i/WRdOAr/suspendert-klopp-saa-liverpool-saa-aa-si-rote-bort-champions-league-droemmen"
+    },
+    {
+        "authors": [
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            },
+            {
+                "email": "Yasmin.sunde.hoel@vg.no",
+                "id": "ae760bdf-6159-46bd-b57f-3c9a4587c293",
+                "name": "Yasmin Sunde Hoel"
+            },
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jlXB6A",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jlXB6A",
+        "preamble": "ULLEVAAL (VG) (Brann – Lillestrøm 2–0) Bård Finne (28) var den største årsaken til at Brann tok sitt første cupgull siden 2004.",
+        "published": {
+            "date": "lørdag 20. mai",
+            "datetime": "2023-05-20 18:00:37",
+            "niceformat": "20.05.2023, 18:00",
+            "timestamp": "2023-05-20T16:00:37.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/7vVHkG93ol6B.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "VG-børsen: Finne var kampens gigant da Brann sikret cupgullet",
+        "url": "https://www.vg.no/sport/fotball/i/jlXB6A/vg-boersen-finne-show-sikret-cupgullet-for-brann"
+    },
+    {
+        "authors": [
+            {
+                "email": "Yasmin.sunde.hoel@vg.no",
+                "id": "ae760bdf-6159-46bd-b57f-3c9a4587c293",
+                "name": "Yasmin Sunde Hoel"
+            },
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Kn1yJ6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Kn1yJ6",
+        "preamble": "ULLEVAAL STADION (VG) (Brann – Lillestrøm 2–0) Ole Didrik Blomberg (22) fikk knapt starte en kamp i fjor, men i cupfinalen mot Lillestrøm ble han og Bård Finne (28) de store heltene. ",
+        "published": {
+            "date": "lørdag 20. mai",
+            "datetime": "2023-05-20 17:52:49",
+            "niceformat": "20.05.2023, 17:52",
+            "timestamp": "2023-05-20T15:52:49.000Z"
+        },
+        "thumbnail": {
+            "height": 292,
+            "url": "https://akamai.vgc.no/v2/images/3ffeb7e8-b16e-48dd-a1ee-e6a375737206?fit=crop&format=auto&h=292&w=400&s=3e5ad5793bc0b82865da5cdd73838f9a6f7eb96c",
+            "width": 400
+        },
+        "title": "Formspillerne avgjorde cupfinalen og sendte Brann til himmels",
+        "url": "https://www.vg.no/sport/fotball/i/Kn1yJ6/formspillerne-sendte-brann-til-himmels"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3EQ9yP",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3EQ9yP",
+        "preamble": "(Roma – Inter 2–1) Sophie Román Haug stanget inn Romas vinnermål mot Inter på overtid i Serie A for kvinner lørdag.",
+        "published": {
+            "date": "lørdag 20. mai",
+            "datetime": "2023-05-20 16:45:06",
+            "niceformat": "20.05.2023, 16:45",
+            "timestamp": "2023-05-20T14:45:06.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/3966040e-732c-41e2-897a-a4dca1b6eced?fit=crop&format=auto&h=266&w=400&s=fdab0799ff380d9b7cd2c4ef9c1cb36c1ec4a1fc",
+            "width": 400
+        },
+        "title": "Haug matchvinner for Roma på overtid",
+        "url": "https://www.vg.no/sport/fotball/i/3EQ9yP/haug-matchvinner-for-roma-paa-overtid"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4ov1Ge",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4ov1Ge",
+        "preamble": "Bergen-ordfører Linn Kristin Engø får høyst trolig med seg cupfinalen mellom Brann og Lillestrøm tross flyforsinkelser i formiddag.",
+        "published": {
+            "date": "lørdag 20. mai",
+            "datetime": "2023-05-20 12:27:49",
+            "niceformat": "20.05.2023, 12:27",
+            "timestamp": "2023-05-20T10:27:49.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/76a4c24c-b0e0-4704-92ae-0deab523d54d?fit=crop&format=auto&h=267&w=400&s=c2209ca9b7a3b57956835ecbf4b29d11a35e067b",
+            "width": 400
+        },
+        "title": "Gladmelding for Bergens ordfører – rekker cupfinalen etter flytrøbbel",
+        "url": "https://www.vg.no/sport/fotball/i/4ov1Ge/flytroebbel-for-bergens-ordfoerer-satser-paa-at-det-gaar-bra"
+    },
+    {
+        "authors": [
+            {
+                "email": "oyvind.herrebroden@vg.no",
+                "id": "7b5d0009-0f34-41e3-b5af-dcf22addbd42",
+                "name": "Øyvind Herrebrøden"
+            },
+            {
+                "email": "vegard.aulstad@vg.no",
+                "id": "32320ac9-8b78-4d86-b923-ee64dc408816",
+                "name": "Vegard Aulstad"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3EzL9L",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3EzL9L",
+        "preamble": "LILLESTRØM (VG) Du kan ikke ha unngått å legge merke til Akor Adams (23) i norsk fotball denne våren, men allerede for fem år siden viste han muskler i cupfinalen.",
+        "published": {
+            "date": "lørdag 20. mai",
+            "datetime": "2023-05-20 11:43:35",
+            "niceformat": "20.05.2023, 11:43",
+            "timestamp": "2023-05-20T09:43:35.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/499bcb44-9c48-4c03-930d-571eef3f52f2?fit=crop&format=auto&h=267&w=400&s=ff6917c36bf95ff97674dbefacc79538d7cd9377",
+            "width": 400
+        },
+        "title": "Kampen som endret alt for LSK-juvelen: – Ingen visste hvem jeg var",
+        "url": "https://www.vg.no/sport/fotball/i/3EzL9L/lillestroems-akor-adams-foer-cupfinalen-mot-brann-kampen-som-endret-alt"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQ5pK2",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQ5pK2",
+        "preamble": "Ronny Deila linkes stadig mer hardnakket til jobben som hovedtrener i fotballklubben Club Brugge.",
+        "published": {
+            "date": "lørdag 20. mai",
+            "datetime": "2023-05-20 10:40:21",
+            "niceformat": "20.05.2023, 10:40",
+            "timestamp": "2023-05-20T08:40:21.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/e32c9c27-3370-4b88-813e-3bc5f5b3a40a?fit=crop&format=auto&h=267&w=400&s=e53279afe922e675947fed9e30c97f706823a0cc",
+            "width": 400
+        },
+        "title": "Deila topper ryktebørsen i Belgia: – Bryr meg ikke om hva som skrives",
+        "url": "https://www.vg.no/sport/fotball/i/EQ5pK2/deila-topper-rykteboersen-i-belgia-bryr-meg-ikke-om-hva-som-skrives"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BWdR0v",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BWdR0v",
+        "preamble": "MANCHESTER (VG) Pep Guardiola (52) sier at han «elsker seg selv veldig mye», men at han ikke hadde forestilt seg at Manchester City skulle bli så dominerende som de har blitt.",
+        "published": {
+            "date": "lørdag 20. mai",
+            "datetime": "2023-05-20 07:59:38",
+            "niceformat": "20.05.2023, 07:59",
+            "timestamp": "2023-05-20T05:59:38.000Z"
+        },
+        "thumbnail": {
+            "height": 302,
+            "url": "https://akamai.vgc.no/v2/images/d47e01a1-f9e8-4a59-a1b6-d37fd14c87b2?fit=crop&format=auto&h=302&w=400&s=0ae1c344f3291914ec20269649bd75fa25d1238d",
+            "width": 400
+        },
+        "title": "Guardiola mener taktisk innovasjon har vært nøkkelen: – De oppdager hemmeligheter",
+        "url": "https://www.vg.no/sport/fotball/i/BWdR0v/pep-guardiola-mener-taktisk-innovasjon-har-vaert-noekkelen-til-manchester-city-suksessen-de-oppdager-hemmeligheter"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEXGe1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEXGe1",
+        "preamble": "Rafaela Pimenta tok i fjor over som agent for Erling Braut Haaland. Ifølge Dagbladet vurderer brasilianeren rettslige skritt på grunn av artikler med «ærekrenkende informasjon».",
+        "published": {
+            "date": "fredag 19. mai",
+            "datetime": "2023-05-19 22:29:59",
+            "niceformat": "19.05.2023, 22:29",
+            "timestamp": "2023-05-19T20:29:59.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/dd15e0dd-6c06-4fd2-b770-8c14942f05b5?fit=crop&format=auto&h=267&w=400&s=40a176b367063e5ddc81d784758cfe0bde820d04",
+            "width": 400
+        },
+        "title": "Dagbladet: Haaland-agent truer avisen med søksmål",
+        "url": "https://www.vg.no/sport/fotball/i/zEXGe1/dagbladet-haaland-agent-truer-avisen-med-soeksmaal"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3XAm3",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3XAm3",
+        "preamble": "MANCHESTER (VG) Erling Braut Haaland (22) satte ny Premier League-rekord tidligere denne måneden. Etterpå nektet han å fortelle hva slags dataspill han skulle «feire med». Nå letter han på sløret.",
+        "published": {
+            "date": "fredag 19. mai",
+            "datetime": "2023-05-19 21:41:09",
+            "niceformat": "19.05.2023, 21:41",
+            "timestamp": "2023-05-19T19:41:09.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/7d6818d1-7889-46c2-8b20-cfc175b11f75?fit=crop&format=auto&h=267&w=400&s=a35c6010e1cdbd23bf34d52b1c958ded5afe8b58",
+            "width": 400
+        },
+        "title": "Haaland avslørte «pinlig» hemmelighet: Delte bilde av dataspillet Minecraft på Instagram",
+        "url": "https://www.vg.no/sport/fotball/i/l3XAm3/erling-braut-haaland-avsloerte-flau-hemmelighet-delte-minecraft-bilde-paa-instagram"
+    }
+]

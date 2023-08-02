@@ -1,0 +1,377 @@
+[
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JVKjx",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JVKjx",
+        "preamble": "The Athletic melder mandag kveld at Manchester City har lagt inn et formelt bud på West Hams Declan Rice.",
+        "published": {
+            "date": "mandag 26. juni",
+            "datetime": "2023-06-26 23:25:07",
+            "niceformat": "26.06.2023, 23:25",
+            "timestamp": "2023-06-26T21:25:07.000Z"
+        },
+        "thumbnail": {
+            "height": 274,
+            "url": "https://akamai.vgc.no/v2/images/30489882-9070-476c-8603-24b03406d85e?fit=crop&format=auto&h=274&w=400&s=4870388f61b6500db1f6a2b65f949d71180e0d43",
+            "width": 400
+        },
+        "title": "The Athletic: Manchester City med bud på West Ham-stjerne",
+        "url": "https://www.vg.no/sport/fotball/i/8JVKjx/the-athletic-manchester-city-med-bud-paa-west-ham-stjerne"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJRBMy",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJRBMy",
+        "preamble": "CLUJ, ROMANIA (VG) Det franske trenerteamet skal ha gitt klar beskjed foran møtet med Norge: Pass på Oscar Bobb!",
+        "published": {
+            "date": "mandag 26. juni",
+            "datetime": "2023-06-26 21:34:07",
+            "niceformat": "26.06.2023, 21:34",
+            "timestamp": "2023-06-26T19:34:07.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/21b5a535-5806-4e20-afa6-4b402bb8ba9a?fit=crop&format=auto&h=267&w=400&s=480c650cbf5413c1ed37a0ec41c5cf4fb04e36ad",
+            "width": 400
+        },
+        "title": "Frankrike advarte mot norsk stjerne (19)",
+        "url": "https://www.vg.no/sport/fotball/i/eJRBMy/frankrike-advarte-mot-norske-oscar-bobb-19"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "bg6BPe",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/bg6BPe",
+        "preamble": "ULLEVAAL STADION (VG) Ada Hegerberg er blitt koblet til Champions League-vinner Barcelona, men akkurat det tar hun med knusende ro en drøy måned før VM.",
+        "published": {
+            "date": "mandag 26. juni",
+            "datetime": "2023-06-26 18:17:11",
+            "niceformat": "26.06.2023, 18:17",
+            "timestamp": "2023-06-26T16:17:11.000Z"
+        },
+        "thumbnail": {
+            "height": 269,
+            "url": "https://akamai.vgc.no/v2/images/a72155a5-8b82-4da7-909a-c1a6e11b82e4?fit=crop&format=auto&h=269&w=400&s=06a1b9b949b8e88c5b8d9afbd1dd5c3c141dbc8d",
+            "width": 400
+        },
+        "title": "Hegerberg svarte om Barcelona-koblingen – ikke tilbudt ny Lyon-avtale",
+        "url": "https://www.vg.no/sport/fotball/i/bg6BPe/hegerberg-om-barcelona-koblingen-ingen-kommentar"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "KnXRXE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/KnXRXE",
+        "preamble": "ULLEVAAL STADION (VG) Stjernespiss Ada Hegerberg (27) sier det sviende 0–8-tapet mot England i fjor sommer fremdeles gnager i forkant av sommerens fotball-VM.",
+        "published": {
+            "date": "mandag 26. juni",
+            "datetime": "2023-06-26 17:19:41",
+            "niceformat": "26.06.2023, 17:19",
+            "timestamp": "2023-06-26T15:19:41.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/DIVql-truuPD.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Hegerberg glemmer ikke fadesen mot England: – Tøft og beinhardt",
+        "url": "https://www.vg.no/sport/fotball/i/KnXRXE/kvinnelandslaget-fotball-ada-hegerberg-glemmer-ikke-england-fadesen"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gExOxJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gExOxJ",
+        "preamble": "Kristoffer Vassbakk Ajer og modellkona Marte Köpp har gitt hverandre sitt ja.",
+        "published": {
+            "date": "mandag 26. juni",
+            "datetime": "2023-06-26 16:41:01",
+            "niceformat": "26.06.2023, 16:41",
+            "timestamp": "2023-06-26T14:41:01.000Z"
+        },
+        "thumbnail": {
+            "height": 258,
+            "url": "https://akamai.vgc.no/v2/images/9633a534-69b0-4b73-84ce-cb7f2c8e495e?fit=crop&format=auto&h=258&w=400&s=41691a4287648bc8fe3610f8894d66484bb2fe7a",
+            "width": 400
+        },
+        "title": "Landslagsspiller giftet seg: – Lykkeligste dagen i mitt liv",
+        "url": "https://www.vg.no/sport/fotball/i/gExOxJ/landslagsprofil-kristoffer-ajer-og-modellkona-marte-kopp-giftet-seg"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O8XBk3",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O8XBk3",
+        "preamble": "Ett år etter at han forlot Everton er Gylfi Sigurdsson på vei til DC United, det skriver flere britiske medier.",
+        "published": {
+            "date": "mandag 26. juni",
+            "datetime": "2023-06-26 14:57:46",
+            "niceformat": "26.06.2023, 14:57",
+            "timestamp": "2023-06-26T12:57:46.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/e71e9cc4-3e27-48c7-a73e-78e4d98e403b?fit=crop&format=auto&h=267&w=400&s=306f1da2f2ef90a5fb5142a392eb4cca71f6756f",
+            "width": 400
+        },
+        "title": "Medier: Sigurdsson returnerer til fotballen – gjenforenes med Rooney",
+        "url": "https://www.vg.no/sport/fotball/i/O8XBk3/medier-sigurdsson-returnerer-til-fotballen-gjenforenes-med-rooney"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQX2k4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQX2k4",
+        "preamble": "Markus Henriksen gikk av med skade i Rosenborgs 0-3-tap mot Sarpsborg 08 i Eliteserien søndag og må belage seg på en periode på sidelinjen. ",
+        "published": {
+            "date": "mandag 26. juni",
+            "datetime": "2023-06-26 13:26:25",
+            "niceformat": "26.06.2023, 13:26",
+            "timestamp": "2023-06-26T11:26:25.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/30dede7d-6b26-4e06-8f96-70a6a2a51f6f?fit=crop&format=auto&h=267&w=400&s=b562fe3616105ad8dcfcf74dfd88491e970984b6",
+            "width": 400
+        },
+        "title": "Henriksen har pådratt seg kneskade: – Han blir nok ute en periode",
+        "url": "https://www.vg.no/sport/fotball/i/JQX2k4/henriksen-har-paadratt-seg-kneskade-han-blir-nok-ute-en-periode"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "y6JpwE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/y6JpwE",
+        "preamble": "Den kroatiske midtbanemagikeren Luka Modric har forlenget kontrakten sin med Real Madrid fram til 30. juni 2024. Den forrige kontrakten utløp denne sommeren. ",
+        "published": {
+            "date": "mandag 26. juni",
+            "datetime": "2023-06-26 12:31:02",
+            "niceformat": "26.06.2023, 12:31",
+            "timestamp": "2023-06-26T10:31:02.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/293a26d4-bd27-4eb4-a6c8-2e54f463d7de?fit=crop&format=auto&h=267&w=400&s=c7072ea0f5c377797408da751297654d8b36544b",
+            "width": 400
+        },
+        "title": "Modric forlenget med Real Madrid",
+        "url": "https://www.vg.no/sport/fotball/i/y6JpwE/modric-forlenget-med-real-madrid"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Xb32bb",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Xb32bb",
+        "preamble": "Manchester City-kaptein Ilkay Gündogan bytter beite. Tyskeren går til den spanske storklubben Barcelona.",
+        "published": {
+            "date": "mandag 26. juni",
+            "datetime": "2023-06-26 10:00:48",
+            "niceformat": "26.06.2023, 10:00",
+            "timestamp": "2023-06-26T08:00:48.000Z"
+        },
+        "thumbnail": {
+            "height": 271,
+            "url": "https://akamai.vgc.no/v2/images/9d4b26b0-3ecc-4dcb-9ef5-c237e1120058?fit=crop&format=auto&h=271&w=400&s=d72ef693080029afc911e0a54a5e99e3ae596f29",
+            "width": 400
+        },
+        "title": "Gündogan klar for Barcelona – hyller Haaland i avskjedsbrev",
+        "url": "https://www.vg.no/sport/fotball/i/Xb32bb/gundogan-til-barcelona"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "y6J05e",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/y6J05e",
+        "preamble": "DRAMMEN (VG) Dommersjef Terje Hauge innrømmer at dommer Sigurd Kringstad gjorde en feil da han annullerte Bodø/Glimts utligning mot Godset. Han mener likevel at avgjørelsen var riktig. ",
+        "published": {
+            "date": "mandag 26. juni",
+            "datetime": "2023-06-26 10:00:06",
+            "niceformat": "26.06.2023, 10:00",
+            "timestamp": "2023-06-26T08:00:06.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a44c84ac-d159-47d9-9041-34ac56d1c10c?fit=crop&format=auto&h=267&w=400&s=28f847be30deddb09c0e7ac08a9ec483c4c4570b",
+            "width": 400
+        },
+        "title": "Glimt freste: Dommersjef innrømmer dommerfeil",
+        "url": "https://www.vg.no/sport/fotball/i/y6J05e/bodoe-glimt-kjetil-knutsen-raste-mot-var-dommersjef-innroemmer-dommerfeil"
+    }
+]

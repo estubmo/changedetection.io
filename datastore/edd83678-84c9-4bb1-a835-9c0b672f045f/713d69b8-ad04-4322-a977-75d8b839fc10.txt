@@ -1,0 +1,198 @@
+[
+    {
+        "slug": "rbk-dorsin-forstaar-spoersmaalene-ikke-vurdert-aa-trekke-seg",
+        "url": "/sport/fotball/i/5Bepd1/rbk-dorsin-forstaar-spoersmaalene-ikke-vurdert-aa-trekke-seg",
+        "title": {
+            "value": "RBK-Dorsin forstår spørsmålene: Ikke vurdert å trekke seg"
+        },
+        "description": "Mikael Dorsin føler et ansvar for RBKs svake seriestart, som endte i trenersparking.",
+        "imageUrl": "0834bbe8-a30c-4297-b163-e75bdf2a23c2",
+        "publishedAt": "2023-06-20T19:12:37Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "mikael-dorsin",
+            "rosenborg-bk",
+            "andre-hansen",
+            "kjetil-knutsen",
+            "svein-maalen",
+            "roar-vikvang",
+            "eirik-horneland",
+            "tore-bjoerseth-berdal"
+        ]
+    },
+    {
+        "slug": "kan-norge-slaa-tilbake-etter-fiasko-kampen-foelg-kampen-her",
+        "url": "/sport/fotball/i/2Bgpor/kan-norge-slaa-tilbake-etter-fiasko-kampen-foelg-kampen-her",
+        "title": {
+            "value": "Heltrøndersk scoring!  Følg landskampen her"
+        },
+        "description": "Norge møter tabelljumbo Kypros i EM-kvalifiseringen. Kampen, som starer 20.45, kan du følge minutt for minutt nedenfor.",
+        "imageUrl": "9409ec82-2632-473b-93e4-bbaedfcef295",
+        "publishedAt": "2023-06-20T18:15:00Z",
+        "lastModifiedAt": "2023-06-20T19:04:35Z",
+        "premium": false,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "vuku-2-leksdal-2-knuste-laanke-2",
+        "url": "/lokalfotballen/i/Q7XMoJ/vuku-2-leksdal-2-knuste-laanke-2",
+        "title": {
+            "value": "Vuku 2 / Leksdal 2 knuste Lånke 2"
+        },
+        "description": "Vuku 2/Leksdal 2 knuste Lånke 2 4-0 i 6. divisjon, Trøndelag - Avdeling 2 i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T22:04:20Z",
+        "lastModifiedAt": "2023-06-19T22:04:20Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "malvik-tok-sin-sjuende-seier-paa-rad",
+        "url": "/lokalfotballen/i/q1x1Kw/malvik-tok-sin-sjuende-seier-paa-rad",
+        "title": {
+            "value": "Malvik tok sin sjuende seier på rad"
+        },
+        "description": "Malvik knuste Utleira 3-0 i 3. divisjon, Trøndelag i fotball. Malvik har tatt poeng i sju strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T21:05:05Z",
+        "lastModifiedAt": "2023-06-19T21:34:55Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "knusende-seier-for-tiller-2",
+        "url": "/lokalfotballen/i/P4X4kb/knusende-seier-for-tiller-2",
+        "title": {
+            "value": "Bye-Andersen-dobbel for Tiller 2"
+        },
+        "description": "Tiller 2 knuste Nardo 6-0 i 3. divisjon, Trøndelag i fotball. Ida Sofie Bye-Andersen scoret to ganger. Tiller 2 har tatt poeng i sine fem siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T20:43:25Z",
+        "lastModifiedAt": "2023-06-19T21:34:56Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ingen-maal-paa-heggoeya-kunstgras",
+        "url": "/lokalfotballen/i/jlxl60/ingen-maal-paa-heggoeya-kunstgras",
+        "title": {
+            "value": "Ingen mål på Heggøya kunstgras"
+        },
+        "description": "Verken Meldal eller Flatås fikk nettkjenning da lagene møttes i 6. divisjon, Trøndelag - Avdeling 5 i fotball for menn mandag. Det stanset tapsrekken til Flatås, som var poengløse på de siste fem kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T20:38:14Z",
+        "lastModifiedAt": "2023-06-19T20:38:14Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "dobbel-fra-stavrum-for-sverre",
+        "url": "/lokalfotballen/i/Xb3bvb/dobbel-fra-stavrum-for-sverre",
+        "title": {
+            "value": "Stavrum-dobbel for Sverre"
+        },
+        "description": "Erik Stavrum førte an med to mål i 4-0-seieren over Malvik 2/Hommelvik 2 i 6. divisjon, Trøndelag - Avdeling 2 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T20:38:13Z",
+        "lastModifiedAt": "2023-06-19T20:41:21Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "joergenvaag-scoret-to-for-soerlia-innherred-2",
+        "url": "/lokalfotballen/i/eJRJAl/joergenvaag-scoret-to-for-soerlia-innherred-2",
+        "title": {
+            "value": "Jørgenvåg scoret to for Sørlia / Innherred 2"
+        },
+        "description": "Isak Jørgenvåg sto fram med to mål da Sørlia/Innherred 2 vant 4-1 over Snåsa i 6. divisjon, Trøndelag - Avdeling 1 i fotball for menn mandag. Det var Snåsas andre nederlag på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T20:37:09Z",
+        "lastModifiedAt": "2023-06-19T20:37:09Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "wilhelmsen-senket-verdal",
+        "url": "/lokalfotballen/i/kExE2v/wilhelmsen-senket-verdal",
+        "title": {
+            "value": "Wilhelmsen senket Verdal"
+        },
+        "description": "Med dagens 1-0-seier over Verdal skaffet Gimse/Melhus/Gauldal sesongens første seier på bortebane i 3. divisjon, Trøndelag i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T20:22:42Z",
+        "lastModifiedAt": "2023-06-20T11:33:09Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "wenneberg-boettet-inn-maal-mot-flatanger",
+        "url": "/lokalfotballen/i/8JVJeQ/wenneberg-boettet-inn-maal-mot-flatanger",
+        "title": {
+            "value": "Wenneberg med målshow"
+        },
+        "description": "Marcus Wenneberg sto fram med fire mål da Levanger 2 vant 9-0 over Flatanger i 4. divisjon, Trøndelag - Avdeling 1 i fotball. Flatanger har tapt de siste tre kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T20:20:39Z",
+        "lastModifiedAt": "2023-06-19T22:32:34Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    }
+]

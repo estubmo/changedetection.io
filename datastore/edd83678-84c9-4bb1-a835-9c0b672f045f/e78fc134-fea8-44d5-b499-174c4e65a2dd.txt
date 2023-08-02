@@ -1,0 +1,187 @@
+[
+    {
+        "slug": "balstad-husby-ble-helten-for-laanke",
+        "url": "/lokalfotballen/i/MoW48J/balstad-husby-ble-helten-for-laanke",
+        "title": {
+            "value": "Balstad Husby avgjorde for Lånke"
+        },
+        "description": "Markus Balstad Husby ble matchvinner for Lånke i 1-0-seieren over Charlottenlund på Lånke kunstgress i 4. divisjon, Trøndelag - Avdeling 1 torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-02T06:52:00Z",
+        "lastModifiedAt": "2023-06-02T07:21:09Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "tidligere-rbk-er-med-paa-neste-aars-mesternes-mester",
+        "url": "/kultur/i/Kn1Oey/tidligere-rbk-er-med-paa-neste-aars-mesternes-mester",
+        "title": {
+            "value": "To trøndere med på neste års «Mesternes mester»"
+        },
+        "description": "Trøndelag er godt representert i neste utgave av den populære TV-serien.",
+        "imageUrl": "afd0d950-83c0-452d-b064-6d1635d6e5b6",
+        "publishedAt": "2023-06-02T05:03:38Z",
+        "lastModifiedAt": "2023-06-02T07:02:38Z",
+        "premium": true,
+        "authors": [
+            "Carl Alfred Dahl"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "dahl-senket-melhus-2-gimse-2-gauldal-2",
+        "url": "/lokalfotballen/i/GMK44x/dahl-senket-melhus-2-gimse-2-gauldal-2",
+        "title": {
+            "value": "Dahl avgjorde for Flatås"
+        },
+        "description": "Emma Svean Dahl scoret det avgjørende målet da Flatås slo Melhus 2/Gimse 2/Gauldal 2 2-1 i 4. divisjon, Trøndelag - Avdeling 3 i fotball torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-01T21:03:38Z",
+        "lastModifiedAt": "2023-06-01T21:25:11Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "maalene-rant-inn-for-bergby",
+        "url": "/lokalfotballen/i/3EQrvv/maalene-rant-inn-for-bergby",
+        "title": {
+            "value": "Bergby bøttet inn mål mot NTNUI 3"
+        },
+        "description": "Silje Flack Bergby førte an med fem mål i 6-0-seieren over NTNUI 3 i 4. divisjon, Trøndelag - Avdeling 3 torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-01T21:01:32Z",
+        "lastModifiedAt": "2023-06-01T21:25:13Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "innherred-knuste-bangsund",
+        "url": "/lokalfotballen/i/4ovy99/innherred-knuste-bangsund",
+        "title": {
+            "value": "Ny seier for Innherred"
+        },
+        "description": "Innherred tok sin fjerde strake seier da Bangsund ble slått 4-0 i 5. divisjon, Trøndelag - Avdeling 1 i fotball. Mathias Gynnild Nordvik scoret to av målene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-01T20:49:35Z",
+        "lastModifiedAt": "2023-06-02T00:21:35Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "ranheim-tf-2-seier-over-trond-2",
+        "url": "/lokalfotballen/i/4ovy29/ranheim-tf-2-seier-over-trond-2",
+        "title": {
+            "value": "Ranheim TF 2 slo Trond 2 på hjemmebane"
+        },
+        "description": "Ranheim TF 2 vant 4-0 over Trond 2 i G19 2. divisjon, Avdeling 4 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-01T20:38:11Z",
+        "lastModifiedAt": "2023-06-01T21:52:44Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "hamzeh-ahmed-hello-ajjouri-berget-poeng-for-gimse-2-melhus-2-gauldal-2",
+        "url": "/lokalfotballen/i/l3XBdL/hamzeh-ahmed-hello-ajjouri-berget-poeng-for-gimse-2-melhus-2-gauldal-2",
+        "title": {
+            "value": "Hamzeh Ahmed Hello Ajjouri sikret poeng for Gimse 2 / Melhus 2 / Gauldal 2"
+        },
+        "description": "Gimse 2/Melhus 2/Gauldal 2 gikk fra 0-2 til 2-2 og sikret poeng mot Charlottenlund 2 Det medførte at Gimse 2/Melhus 2/Gauldal 2 brøt tapsrekken på fire kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-01T20:35:05Z",
+        "lastModifiedAt": "2023-06-01T20:58:18Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "maalshow-fra-homstad",
+        "url": "/lokalfotballen/i/bgWR0g/maalshow-fra-homstad",
+        "title": {
+            "value": "Homstad scoret hattrick mot Rissa"
+        },
+        "description": "Kolstad 2 knuste Rissa 9-1 i 6. divisjon, Trøndelag - Avdeling 3 i fotball. Lars Petter Homstad slo til med hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-01T20:12:44Z",
+        "lastModifiedAt": "2023-06-01T20:28:40Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "sverresborg-slo-ranheim-3-paa-hjemmebane",
+        "url": "/lokalfotballen/i/Q7OQvV/sverresborg-slo-ranheim-3-paa-hjemmebane",
+        "title": {
+            "value": "Sverresborg seiret hjemme mot Ranheim 3"
+        },
+        "description": "Sverresborg slo Ranheim 3 3-2 på Havstein kunstgress i 4. divisjon, Trøndelag - Avdeling 3 torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-01T20:10:41Z",
+        "lastModifiedAt": "2023-06-02T06:52:00Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "fjerde-seier-paa-rad-for-roeros-os-nansen",
+        "url": "/lokalfotballen/i/O8PwK1/fjerde-seier-paa-rad-for-roeros-os-nansen",
+        "title": {
+            "value": "Røros / Os / Nansen vant igjen"
+        },
+        "description": "Røros/Os/Nansen seiret 3-1 over Trønder-Lyn 2 hjemme i 6. divisjon, Trøndelag - Avdeling 6 i fotball for menn torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-01T20:09:40Z",
+        "lastModifiedAt": "2023-06-01T20:57:16Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    }
+]

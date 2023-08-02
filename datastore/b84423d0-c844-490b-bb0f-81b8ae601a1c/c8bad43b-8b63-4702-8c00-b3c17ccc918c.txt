@@ -1,0 +1,375 @@
+[
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O8qvpO",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O8qvpO",
+        "preamble": "(Aalesund-Molde 3–1) Endelig løsnet det for Aalesund, som ydmyket Molde fullstendig på hjemmebane. Den regjerende seriemesteren gikk på sesongens fjerde tap.  ",
+        "published": {
+            "date": "tirsdag 16. mai",
+            "datetime": "2023-05-16 19:56:29",
+            "niceformat": "16.05.2023, 19:56",
+            "timestamp": "2023-05-16T17:56:29.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/e858e3b9-1bfd-4343-8dd1-d813e1cd047f?fit=crop&format=auto&h=267&w=400&s=08cda855502cd61f8f54a27cfda39a320615179f",
+            "width": 400
+        },
+        "title": "Aalesund ydmyket Molde i historisk seier",
+        "url": "https://www.vg.no/sport/fotball/i/O8qvpO/aalesund-ydmyket-molde-i-historisk-seier"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WR3Ebj",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WR3Ebj",
+        "preamble": "ÅRÅSEN (VG) (LSK-Sarpsborg 08 1–2) Lillestrøm inviterte til 16. mai-fest på Åråsen, men Sarpsborg 08 sendte alle gulkledde fortvilte hjem.",
+        "published": {
+            "date": "tirsdag 16. mai",
+            "datetime": "2023-05-16 19:55:28",
+            "niceformat": "16.05.2023, 19:55",
+            "timestamp": "2023-05-16T17:55:28.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/d716945d-7f9b-47f7-be4d-fe981a0ff40c?fit=crop&format=auto&h=266&w=400&s=7f0055466899e392b6cc206c6c7bc6386b622c7d",
+            "width": 400
+        },
+        "title": "LSK-smell mot Sarpsborg på eget gress",
+        "url": "https://www.vg.no/sport/fotball/i/WR3Ebj/lsk-smell-mot-sarpsborg-paa-eget-gress"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5Bwx6K",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5Bwx6K",
+        "preamble": "TRONDHEIM (VG) (Rosenborg – Haugesund 1–0) Det som ble beskrevet som et «være eller ikke være» for Kjetil Rekdals videre eksistens som Rosenborg-trener, endte i trøndersk glede på fotballens festdag.",
+        "published": {
+            "date": "tirsdag 16. mai",
+            "datetime": "2023-05-16 19:53:15",
+            "niceformat": "16.05.2023, 19:53",
+            "timestamp": "2023-05-16T17:53:15.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/61a1d6dd-50d5-484f-93d5-2bccd1298fb1?fit=crop&format=auto&h=267&w=400&s=f43eeabc19d06f7a6bb1815a6128f92cd0c9a5c8",
+            "width": 400
+        },
+        "title": "Opptur for Kjetil Rekdal: Rosenborg slo Haugesund etter tidlig rødt kort",
+        "url": "https://www.vg.no/sport/fotball/i/5Bwx6K/opptur-for-kjetil-rekdal-rosenborg-slo-haugesund-etter-tidlig-roedt-kort"
+    },
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "nQbzoo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/nQbzoo",
+        "preamble": "BERGEN (VG) (Brann – Stabæk 4–1) Bergen var pyntet til fest, og et fullsatt Brann Stadion fikk se et lekent hjemmelag – med Bård Finne (28) i spissen – fire dager før cupfinalen.",
+        "published": {
+            "date": "tirsdag 16. mai",
+            "datetime": "2023-05-16 19:49:48",
+            "niceformat": "16.05.2023, 19:49",
+            "timestamp": "2023-05-16T17:49:48.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/e4787ab7-e7cf-4f69-a608-5246c4159d62?fit=crop&format=auto&h=267&w=400&s=b8cb1c938dc23697dc79c3861e2e02e275a50b64",
+            "width": 400
+        },
+        "title": "Finne-dobbel i magisk Brann-kveld fire dager før cupfinalen",
+        "url": "https://www.vg.no/sport/fotball/i/nQbzoo/finne-dobbel-i-magisk-brann-kveld"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            },
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "RGqW1x",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/RGqW1x",
+        "preamble": "MANCHESTER (VG) Manchester City-sjef Pep Guardiola lover at han ikke skal gå i gammel felle når Real Madrid kommer på besøk til gigantoppgjør onsdag.",
+        "published": {
+            "date": "tirsdag 16. mai",
+            "datetime": "2023-05-16 15:00:07",
+            "niceformat": "16.05.2023, 15:00",
+            "timestamp": "2023-05-16T13:00:07.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/1253de7f-874e-410e-b5d7-943a3cf7e9f1?fit=crop&format=auto&h=267&w=400&s=39f4219ea965975fb7f5fbcb2d2d72177e73747b",
+            "width": 400
+        },
+        "title": "Guardiola før gigantoppgjøret: – Slapp av, folkens",
+        "url": "https://www.vg.no/sport/fotball/i/RGqW1x/guardiola-foer-gigantoppgjoeret-slapp-av-folkens"
+    },
+    {
+        "authors": [
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMqVmx",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMqVmx",
+        "preamble": "Kampoppsettet for Premier League 2023/24 kommer 15. juni. ",
+        "published": {
+            "date": "tirsdag 16. mai",
+            "datetime": "2023-05-16 11:54:31",
+            "niceformat": "16.05.2023, 11:54",
+            "timestamp": "2023-05-16T09:54:31.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/2f3e8a1d-02e5-4653-84f1-ca73509e4ba4?fit=crop&format=auto&h=267&w=400&s=6f1a5eb8b393f1c63284b6cc37aafa3e70a4b014",
+            "width": 400
+        },
+        "title": "Slik blir terminlisten for Premier League 2023/24",
+        "url": "https://www.vg.no/sport/fotball/i/GMqVmx/slik-er-terminlisten-for-premier-league-2023-24"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "LlqRKQ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/LlqRKQ",
+        "preamble": "Ryker Rosenborg på sitt fjerde tap på rad mot Haugesund, mener ekspert at Kjetil Rekdals tid i klubben er over. ",
+        "published": {
+            "date": "tirsdag 16. mai",
+            "datetime": "2023-05-16 10:23:36",
+            "niceformat": "16.05.2023, 10:23",
+            "timestamp": "2023-05-16T08:23:36.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ed7da9a1-d344-4137-b1cc-926ce8888a2c?fit=crop&format=auto&h=267&w=400&s=1ff340e3f46ae58e000f51e60fc37641186acf76",
+            "width": 400
+        },
+        "title": "Mener Rekdal vil få sparken ved tap: – Et være eller ikke være",
+        "url": "https://www.vg.no/sport/fotball/i/LlqRKQ/mener-rekdal-vil-faa-sparken-ved-tap-et-vaere-eller-ikke-vaere"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Qk0W2",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Qk0W2",
+        "preamble": "Reglene for skjenking av alkohol på idrettsarrangement i Oslo skal gjennomgås på nytt. Det faller ikke i smak hos alle. ",
+        "published": {
+            "date": "tirsdag 16. mai",
+            "datetime": "2023-05-16 07:08:44",
+            "niceformat": "16.05.2023, 07:08",
+            "timestamp": "2023-05-16T05:08:44.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a7973ac2-2118-40ab-8ea7-01c911f2af94?fit=crop&format=auto&h=267&w=400&s=0d1ab9ee1491476304e9581a652fca735e44e30b",
+            "width": 400
+        },
+        "title": "Her kan det bli lov med øl på stadion: – En mer rettferdig praksis",
+        "url": "https://www.vg.no/sport/fotball/i/0Qk0W2/her-kan-det-bli-lov-med-oel-paa-stadion-en-mer-rettferdig-praksis"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB-AFP"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9zM73l",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9zM73l",
+        "preamble": "Cardiff vil ha 100 millioner euro av Nantes i kompensasjon etter at Emiliano Sala døde under flyturen i forbindelse med overgangen til Cardiff tilbake i 2019.",
+        "published": {
+            "date": "tirsdag 16. mai",
+            "datetime": "2023-05-16 00:17:14",
+            "niceformat": "16.05.2023, 00:17",
+            "timestamp": "2023-05-15T22:17:14.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/295eadf6-9e67-4225-90ab-47d26384c621?fit=crop&format=auto&h=267&w=400&s=0f255727dd21d2d5abe0759c60332cd3eab8e899",
+            "width": 400
+        },
+        "title": "Cardiff krever én milliard fra Nantes i dyster overgangssak: – Absurd",
+        "url": "https://www.vg.no/sport/fotball/i/9zM73l/cardiff-krever-en-milliard-fra-nantes-i-dyster-overgangssak-absurd"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJXp2l",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJXp2l",
+        "preamble": "(Leicester-Liverpool 0–3) Scoringer av Curtis Jones (22) og Trent Alexander-Arnold (24) sendte Leicester nærmere nedrykk foran øynene på fortvilte hjemmesupportere.",
+        "published": {
+            "date": "mandag 15. mai",
+            "datetime": "2023-05-15 22:52:50",
+            "niceformat": "15.05.2023, 22:52",
+            "timestamp": "2023-05-15T20:52:50.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/2V1j-xXpmLFo.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Liverpool holdt liv i Champions League-håpet med Leicester-nedsabling",
+        "url": "https://www.vg.no/sport/fotball/i/eJXp2l/liverpool-holdt-liv-i-champions-league-haapet-med-leicester-nedsabling"
+    }
+]

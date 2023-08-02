@@ -1,0 +1,385 @@
+[
+    {
+        "authors": [
+            {
+                "email": "magnus.helle@schibsted.com",
+                "id": "465b91ad-0c13-4b04-8be8-4dbb0cc0080a",
+                "name": "Magnus Helle"
+            },
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "AP92rE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/AP92rE",
+        "preamble": "AMSTERDAM (VG) Når EA Sports for første gang skal gi ut et fotballspill etter FIFA-samarbeidet, er det med Erling Braut Haaland (22) som posterboy.",
+        "published": {
+            "date": "torsdag 13. juli",
+            "datetime": "2023-07-13 19:04:47",
+            "niceformat": "13.07.2023, 19:04",
+            "timestamp": "2023-07-13T17:04:47.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/75d2726c-047d-4aa2-9162-2f7b6712944a?fit=crop&format=auto&h=300&w=400&s=cfed7f7d45bade92d3d19e0b7f8510e46caa7e65",
+            "width": 400
+        },
+        "title": "Erling Braut Haaland bekreftet som frontfigur for første utgave av FIFA-spillets arvtaker EA Sports FC 24",
+        "url": "https://www.vg.no/sport/fotball/i/AP92rE/erling-braut-haaland-bekreftet-som-frontfigur-for-foerste-utgave-av-fifa-spillets-arvtaker-ea-sports-fc-24"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "onmLJ7",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/onmLJ7",
+        "preamble": "VALLE (VG) Geir Bakke ble informert om Vålerengas interesse tidligere i år, men den gangen valgte han ikke å gå videre med saken. ",
+        "published": {
+            "date": "torsdag 13. juli",
+            "datetime": "2023-07-13 17:25:10",
+            "niceformat": "13.07.2023, 17:25",
+            "timestamp": "2023-07-13T15:25:10.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/5d0c4090-f97f-48ea-b369-d912842c625c?fit=crop&format=auto&h=267&w=400&s=809201b0aaf9d5e0da29513a53bfad5fd886a04c",
+            "width": 400
+        },
+        "title": "Geir Bakke sa først nei til VIF-interesse – bekrefter at lønnen er høyere enn i LSK",
+        "url": "https://www.vg.no/sport/fotball/i/onmLJ7/geir-bakke-sa-foerst-nei-til-vif-interesse-bekrefter-at-loennen-er-hoeyere-enn-i-lsk"
+    },
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQwVyb",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQwVyb",
+        "preamble": "Norge og Oliver Braude drømmer om en historisk finale i U19-EM. Gjerne med så lite hår som mulig.",
+        "published": {
+            "date": "torsdag 13. juli",
+            "datetime": "2023-07-13 14:36:09",
+            "niceformat": "13.07.2023, 14:36",
+            "timestamp": "2023-07-13T12:36:09.000Z"
+        },
+        "thumbnail": {
+            "height": 225,
+            "url": "https://akamai.vgc.no/v2/images/4030f75e-d978-4532-ae14-b688fe42e498?fit=crop&format=auto&h=225&w=400&s=347bd5a176fffed5176be09edd7379e43441705c",
+            "width": 400
+        },
+        "title": "Kommer med utfordring før semifinalen: – Hadde gått viralt",
+        "url": "https://www.vg.no/sport/fotball/i/JQwVyb/u19-em-oliver-braude-utfordrer-lagkamerat-til-aa-klippe-haaret-foer-semifinalen"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQ2WBJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQ2WBJ",
+        "preamble": "Andrine Tomter har bestemt seg for å fortsette karrieren i Italienske Inter. Hun blir dermed lagvenninne med Anja Sønstevold og Noor Eckhoff.",
+        "published": {
+            "date": "torsdag 13. juli",
+            "datetime": "2023-07-13 13:20:10",
+            "niceformat": "13.07.2023, 13:20",
+            "timestamp": "2023-07-13T11:20:10.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0c4adcdf-3eea-4f47-8318-f19d53c5c274?fit=crop&format=auto&h=267&w=400&s=3a88bd7ec1f938a5f37dd79e198ad6a825e21a22",
+            "width": 400
+        },
+        "title": "Andrine Tomter klar for Inter",
+        "url": "https://www.vg.no/sport/fotball/i/JQ2WBJ/andrine-tomter-klar-for-inter"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            },
+            {
+                "email": "kristine.bechmann.holter@schibsted.no",
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQwkg8",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQwkg8",
+        "preamble": "VALLE (VG) På samme tid som Geir Bakke signerer kontrakten som gjør ham til Vålerenga-trener, justerer klubben på organisasjonskartet. ",
+        "published": {
+            "date": "torsdag 13. juli",
+            "datetime": "2023-07-13 13:17:47",
+            "niceformat": "13.07.2023, 13:17",
+            "timestamp": "2023-07-13T11:17:47.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/03d56719-a90a-4f1e-b2cc-e6cdf1b125cb?fit=crop&format=auto&h=267&w=400&s=2fd28549eff910d7247ef1d0bd7fbbb65b090d29",
+            "width": 400
+        },
+        "title": "Vålerenga gjør endringer etter treneransettelsen – Bakke skal ikke ha dialog med Trøim",
+        "url": "https://www.vg.no/sport/fotball/i/JQwkg8/eliteserien-geir-bakke-ny-trener-i-vaalerenga-klubben-endrer"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAp6d1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAp6d1",
+        "preamble": "Rafik Zekhnini (25) setter kursen mot Østfold. Kantspilleren har signert en kontrakt med Sarpsborg 08 ut 2024.",
+        "published": {
+            "date": "torsdag 13. juli",
+            "datetime": "2023-07-13 13:08:11",
+            "niceformat": "13.07.2023, 13:08",
+            "timestamp": "2023-07-13T11:08:11.000Z"
+        },
+        "thumbnail": {
+            "height": 225,
+            "url": "https://akamai.vgc.no/v2/images/7e2a4864-3302-4e82-b653-bd02a435ba25?fit=crop&format=auto&h=225&w=400&s=9b6e23496b79dd46609163cc3271c0f4384f2ccd",
+            "width": 400
+        },
+        "title": "Rafik Zekhnini solgt fra Molde til Sarpsborg 08",
+        "url": "https://www.vg.no/sport/fotball/i/wAp6d1/rafik-zekhnini-solgt-fra-molde-til-sarpsborg"
+    },
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P42r36",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P42r36",
+        "preamble": "Al-Ittihad skal være i ferd med å levere et bud på 40 millioner pund for Liverpools brasilianske stjerne.",
+        "published": {
+            "date": "torsdag 13. juli",
+            "datetime": "2023-07-13 12:30:18",
+            "niceformat": "13.07.2023, 12:30",
+            "timestamp": "2023-07-13T10:30:18.000Z"
+        },
+        "thumbnail": {
+            "height": 265,
+            "url": "https://akamai.vgc.no/v2/images/22472977-3852-439b-82ef-77547e840333?fit=crop&format=auto&h=265&w=400&s=de8e737292059368f34fcad9ecb88ed34c55019f",
+            "width": 400
+        },
+        "title": "The Athletic: Saudiarabisk klubb forbereder bud på Fabinho",
+        "url": "https://www.vg.no/sport/fotball/i/P42r36/the-athletic-saudiarabisk-klubb-forbereder-bud-paa-fabinho"
+    },
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "RGn3X8",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/RGn3X8",
+        "preamble": "Steven Gerrard (43) ønsker å hente Jordan Henderson (33) til saudiarabiske Al-Ettifaq. Nå skal kapteinen ha fått tillatelse til å forlate Liverpool av manager Jürgen Klopp.",
+        "published": {
+            "date": "torsdag 13. juli",
+            "datetime": "2023-07-13 11:56:38",
+            "niceformat": "13.07.2023, 11:56",
+            "timestamp": "2023-07-13T09:56:38.000Z"
+        },
+        "thumbnail": {
+            "height": 291,
+            "url": "https://akamai.vgc.no/v2/images/8690f8c8-062b-4603-a468-352c032fc0b3?fit=crop&format=auto&h=291&w=400&s=3519b97cf6f667be59567d9e1d51be1face6d4b1",
+            "width": 400
+        },
+        "title": "Romano: Henderson enig med saudiarabisk klubb",
+        "url": "https://www.vg.no/sport/fotball/i/RGn3X8/liverpool-kaptein-jordan-henderson-linkes-til-saudi-arabia-og-gerrards-klubb"
+    },
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4L6LX",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4L6LX",
+        "preamble": "I et lengre intervju forteller den tidligere Tottenham- og England-stjernen Dele Alli (27) om pillemisbruk, overgrep og barndommen som doplanger. ",
+        "published": {
+            "date": "torsdag 13. juli",
+            "datetime": "2023-07-13 10:57:48",
+            "niceformat": "13.07.2023, 10:57",
+            "timestamp": "2023-07-13T08:57:48.000Z"
+        },
+        "thumbnail": {
+            "height": 270,
+            "url": "https://akamai.vgc.no/v2/images/117c63e2-d4cd-4e8b-9b01-6df261dd4506?fit=crop&format=auto&h=270&w=400&s=094fa3db275b20260ae41e0e5f08452905c80487",
+            "width": 400
+        },
+        "title": "Dele Alli forteller om barndomstraumer og rehab i sjokk-intervju: – Var veldig langt nede",
+        "url": "https://www.vg.no/sport/fotball/i/P4L6LX/dele-alli-forteller-om-barndomstraumer-og-rehab-i-sjokk-intervju-var-veldig-langt-nede"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPrOLJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPrOLJ",
+        "preamble": "Daniel Håkans (22) har vært et lyspunkt for Vålerenga denne sesongen. Nå må Oslo-klubben klare seg uten finnen de neste ukene.",
+        "published": {
+            "date": "torsdag 13. juli",
+            "datetime": "2023-07-13 09:33:22",
+            "niceformat": "13.07.2023, 09:33",
+            "timestamp": "2023-07-13T07:33:22.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/477717cd-79f1-4d86-8dda-0cff1d92f897?fit=crop&format=auto&h=267&w=400&s=2cc68cc481d117785da03447500cad5ebc6361ed",
+            "width": 400
+        },
+        "title": "Vålerenga-spiller operert – ute i noen uker",
+        "url": "https://www.vg.no/sport/fotball/i/VPrOLJ/eliteserien-vaalerenga-spiller-daniel-haakans-operert-ute-i-noen-uker"
+    }
+]

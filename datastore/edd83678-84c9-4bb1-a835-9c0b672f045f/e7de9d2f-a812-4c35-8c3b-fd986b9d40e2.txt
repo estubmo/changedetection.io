@@ -1,0 +1,191 @@
+[
+    {
+        "slug": "rindal-2-med-borteseier-over-svorkmo-2",
+        "url": "/lokalfotballen/i/EQ5lMG/rindal-2-med-borteseier-over-svorkmo-2",
+        "title": {
+            "value": "Rindal 2 vant over Svorkmo 2"
+        },
+        "description": "Rindal 2 seiret 2-0 over Svorkmo 2 i 6. divisjon, Trøndelag - Avdeling 5 i fotball for menn mandag. Det var Svorkmo 2s andre tap på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T20:16:44Z",
+        "lastModifiedAt": "2023-05-22T20:39:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "hellstroem-senket-leinstrand",
+        "url": "/lokalfotballen/i/15wo9J/hellstroem-senket-leinstrand",
+        "title": {
+            "value": "Byneset tok sin tredje seier på rad"
+        },
+        "description": "Bendik Hellstrøm scoret det avgjørende målet da Byneset slo Leinstrand 2-1 i 6. divisjon, Trøndelag - Avdeling 5 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T20:15:39Z",
+        "lastModifiedAt": "2023-05-22T20:39:44Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ranheim-tok-tre-poeng-i-toppoppgjoeret",
+        "url": "/lokalfotballen/i/BWdMX7/ranheim-tok-tre-poeng-i-toppoppgjoeret",
+        "title": {
+            "value": "Ranheim kunne juble etter toppoppgjøret"
+        },
+        "description": "Byåsen 2 gikk på sitt første nederlag i årets sesong etter dagens 0-1-tap mot Ranheim.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T20:08:47Z",
+        "lastModifiedAt": "2023-05-22T20:39:45Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "mckellar-med-maalshow",
+        "url": "/lokalfotballen/i/pQX1jw/mckellar-med-maalshow",
+        "title": {
+            "value": "Mckellar-hattrick holdt ikke til poeng"
+        },
+        "description": "Ranheim slo Verdal 4-3 på Verdalskalk Arena i 3. divisjon, Trøndelag mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T20:07:36Z",
+        "lastModifiedAt": "2023-05-22T20:38:35Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "knusende-seier-for-varden-meraaker",
+        "url": "/lokalfotballen/i/WRdgKd/knusende-seier-for-varden-meraaker",
+        "title": {
+            "value": "Varden Meråker slo Nessegutten i målfest"
+        },
+        "description": "Varden Meråker knuste Nessegutten 8-2 i 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T20:04:02Z",
+        "lastModifiedAt": "2023-05-22T20:34:17Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "ghulami-ble-helten-for-sverresborg-2",
+        "url": "/lokalfotballen/i/kEXvjv/ghulami-ble-helten-for-sverresborg-2",
+        "title": {
+            "value": "Ghulami avgjorde for Sverresborg 2"
+        },
+        "description": "Kattem gikk på sitt tredje tap på rad da klubben røk 1-2 for Sverresborg 2 i 6. divisjon, Trøndelag - Avdeling 3 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T20:01:59Z",
+        "lastModifiedAt": "2023-05-22T20:08:47Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "trygg-lade-7er-seiret-i-maalfest",
+        "url": "/lokalfotballen/i/veXldL/trygg-lade-7er-seiret-i-maalfest",
+        "title": {
+            "value": "Ny seier for Trygg/Lade 7er"
+        },
+        "description": "KIL/Hemne 3 7er ble slått 6-4 av Trygg/Lade 7er og tapte dermed sin første kamp denne sesongen. I 7er, Trøndelag - Avdeling 2 i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T19:11:21Z",
+        "lastModifiedAt": "2023-05-22T19:36:48Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "der-var-karrieren-over",
+        "url": "/sport/fotball/i/VPk643/der-var-karrieren-over",
+        "title": {
+            "value": "«Der var karrieren over»"
+        },
+        "description": "Cesilie Andreassen var redd for at hun hadde pådratt seg mareritt-skaden hun har fryktet siden tenårene.",
+        "imageUrl": "367cddd0-4b9a-4663-8c03-69952e754e5c",
+        "publishedAt": "2023-05-22T18:49:31Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus",
+            "Christine Schefte (foto)"
+        ],
+        "tags": [
+            "cesilie-andreassen",
+            "rosenborg-kvinner",
+            "toppserien"
+        ]
+    },
+    {
+        "slug": "ranheim-seiret-hjemme-mot-tiller",
+        "url": "/lokalfotballen/i/JQMrMR/ranheim-seiret-hjemme-mot-tiller",
+        "title": {
+            "value": "Ranheim seiret hjemme mot Tiller"
+        },
+        "description": "Ranheim slo Tiller 5-1 og fikk dermed med seg alle poengene i J13 1. divisjon, Avdeling 2 - Vår mandag. Ranheim har tatt poeng i sine fem siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T18:38:43Z",
+        "lastModifiedAt": "2023-05-22T18:40:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "heimdal-vant-i-maalfest",
+        "url": "/lokalfotballen/i/8JWG7w/heimdal-vant-i-maalfest",
+        "title": {
+            "value": "Heimdal slo Melhus/Gimse i målfest"
+        },
+        "description": "Heimdal seiret 8-3 over Melhus/Gimse på bortebane i J13 1. divisjon, Avdeling 2 - Vår. Heimdal har tatt poeng i sine seks siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T18:19:28Z",
+        "lastModifiedAt": "2023-05-22T18:38:37Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    }
+]

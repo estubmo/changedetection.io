@@ -1,0 +1,362 @@
+[
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEbl51",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEbl51",
+        "preamble": "Juventus slo Napoli 2-0 i Serie A søndag og skaffet seg gode odds i topp 4-kampen foran de fire siste rundene.",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 14:51:43",
+            "niceformat": "07.05.2023, 14:51",
+            "timestamp": "2023-05-07T12:51:43.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/l7kl1S-8u4i3.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Juventus klatret til 2.-plass med sterk borteseier",
+        "url": "https://www.vg.no/sport/fotball/i/zEbl51/juventus-klatret-til-2-plass-med-sterk-borteseier"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jlb0oe",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jlb0oe",
+        "preamble": "TRONDHEIM (VG) Misnøyen stiger i Trøndelag etter tre svake hjemmekamper på rad. Rosenborg-trener Kjetil Rekdal (54) forteller at han ble tatt på sengen av formsvikten.",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 14:40:45",
+            "niceformat": "07.05.2023, 14:40",
+            "timestamp": "2023-05-07T12:40:45.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/977a08d4-a7ee-41d8-b300-243ccdb0c591?fit=crop&format=auto&h=267&w=400&s=5dde1e16bc73d6c30a7207307b16ad54f55f97b9",
+            "width": 400
+        },
+        "title": "Rekdal overrasket over Rosenborg-nedturen – dette bekymrer ham mest ",
+        "url": "https://www.vg.no/sport/fotball/i/jlb0oe/rekdal-overrasket-over-rosenborg-nedturen-dette-bekymrer-ham-mest"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEbOWr",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEbOWr",
+        "preamble": "Milans store stjernespiller Rafael Leão kan bli klar for onsdagens mesterligasemifinale mot Inter tross skaden han pådro seg i lørdagens kamp.",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 14:21:17",
+            "niceformat": "07.05.2023, 14:21",
+            "timestamp": "2023-05-07T12:21:17.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/42c91364-3d7e-4f97-b0da-4704487a0875?fit=crop&format=auto&h=267&w=400&s=1c317d233650848c2d989ed98ed1edfb86f0f2fc",
+            "width": 400
+        },
+        "title": "Leão beroliger Milan-fansen: – Snart tilbake",
+        "url": "https://www.vg.no/sport/fotball/i/zEbOWr/leao-beroliger-milan-fansen-snart-tilbake"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O8qkOV",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O8qkOV",
+        "preamble": "Manchester United-talentet Alejandro Garnacho var med på flyet da troppen satte snuta mot London, hvor de møter West Ham søndag kveld.",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 12:11:40",
+            "niceformat": "07.05.2023, 12:11",
+            "timestamp": "2023-05-07T10:11:40.000Z"
+        },
+        "thumbnail": {
+            "height": 272,
+            "url": "https://akamai.vgc.no/v2/images/f1a77ee8-5c3c-472e-b6ba-9f2c4056ff54?fit=crop&format=auto&h=272&w=400&s=624879433a803800bde4e9197442bcb9696141b8",
+            "width": 400
+        },
+        "title": "Avis: Garnacho tilbake i United-troppen etter sju uker ute med skade",
+        "url": "https://www.vg.no/sport/fotball/i/O8qkOV/avis-garnacho-tilbake-i-united-troppen-etter-sju-uker-ute-med-skade"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "rlbr2m",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/rlbr2m",
+        "preamble": "Tottenham-spiller Son Heung-min skal ha blitt utsatt for rasisme da han ble byttet ut i det 89. minutt i 1-0-seieren over Crystal Palace lørdag.",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 11:47:42",
+            "niceformat": "07.05.2023, 11:47",
+            "timestamp": "2023-05-07T09:47:42.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/f672b133-09fe-4669-b835-5be8079231bb?fit=crop&format=auto&h=267&w=400&s=4115048ec66347c2ddfd63d9ceb86f4e8b85ee5a",
+            "width": 400
+        },
+        "title": "Son utsatt for rasisme av Crystal Palace-supporter – Tottenham har startet etterforskning",
+        "url": "https://www.vg.no/sport/fotball/i/rlbr2m/son-utsatt-for-rasisme-av-crystal-palace-supporter-tottenham-har-startet-etterforskning"
+    },
+    {
+        "authors": [
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJX7RO",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJX7RO",
+        "preamble": "Manchester United-helten Wayne Rooney (37) applauderer Erling Braut Haalands (22) innstilling og tror nordmannen kan slå sin egen rekord neste år alt. ",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 09:52:59",
+            "niceformat": "07.05.2023, 09:52",
+            "timestamp": "2023-05-07T07:52:59.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ac8fae00-d390-466c-b216-f42adf1f4889?fit=crop&format=auto&h=267&w=400&s=c4daa0d1124d753cdc628f6c5bb785fe31a7d84d",
+            "width": 400
+        },
+        "title": "Rooney roser Haaland-reaksjon: – Han så flau ut",
+        "url": "https://www.vg.no/sport/fotball/i/eJX7RO/rooney-roser-haaland-reaksjon-han-saa-flau-ut"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Knlx16",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Knlx16",
+        "preamble": "MANCHESTER (VG) Av asken fra lojale Manchester United-supporteres tapte kjærlighet for klubben, oppsto FC United of Manchester – kultklubben på nivå syv i engelsk fotball.",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 08:16:42",
+            "niceformat": "07.05.2023, 08:16",
+            "timestamp": "2023-05-07T06:16:42.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/3b01a83f-16eb-4477-bbce-b15c142d300e?fit=crop&format=auto&h=267&w=400&s=f42f196131451c76b732b7ff1f53066a260bac97",
+            "width": 400
+        },
+        "title": "Kultklubben i Manchester ble stiftet i protest: – Det er dette fotball handler om",
+        "url": "https://www.vg.no/sport/fotball/i/Knlx16/kultklubben-i-manchester-ble-stiftet-i-protest-det-er-dette-fotball-handler-om"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "mQpPJ4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/mQpPJ4",
+        "preamble": "(Real Madrid – Osasuna 2–1) Rodrygo scoret to og Vinicius jr. var sentral i forspillet til begge mål. Det var brasiliansk show da Real Madrid vant Copa del Rey for 20. gang.",
+        "published": {
+            "date": "lørdag 6. mai",
+            "datetime": "2023-05-06 23:57:16",
+            "niceformat": "06.05.2023, 23:57",
+            "timestamp": "2023-05-06T21:57:16.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/i6p8Aird8WRh.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Brasiliansk show: Rodrygo-dobbel sikret Real Madrid nytt cupgull",
+        "url": "https://www.vg.no/sport/fotball/i/mQpPJ4/rodrygo-dobbel-sikret-real-madrid-nytt-cupgull"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwpRVq",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwpRVq",
+        "preamble": "TRONDHEIM (VG) Rosenborg-fansen ba om «artig og angrepsvillig fotball», men fikk det stikk motsatte. Nå varsler Rosenborg-spillerne at hver eneste stein skal snus i jakten på hva som er galt.",
+        "published": {
+            "date": "lørdag 6. mai",
+            "datetime": "2023-05-06 23:29:57",
+            "niceformat": "06.05.2023, 23:29",
+            "timestamp": "2023-05-06T21:29:57.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/547c5c63-a1ac-4f09-9883-570421e2a8e5?fit=crop&format=auto&h=267&w=400&s=a7eb038b9c37c7b798ba1765926bfa2cd68738e4",
+            "width": 400
+        },
+        "title": "Rosenborg-spillerne slakter seg selv etter ny fadese: – Vi skaper jo ingenting",
+        "url": "https://www.vg.no/sport/fotball/i/dwpRVq/rosenborg-spillerne-slakter-seg-selv-etter-ny-fadese-vi-skaper-jo-ingenting"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "APqvaM",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/APqvaM",
+        "preamble": "(Real Sociedad – Barcelona 2–5) Caroline Graham Hansen (28) scoret to ganger da Barcelona knuste Real Sociedad 5-2 i serien.",
+        "published": {
+            "date": "lørdag 6. mai",
+            "datetime": "2023-05-06 21:04:03",
+            "niceformat": "06.05.2023, 21:04",
+            "timestamp": "2023-05-06T19:04:03.000Z"
+        },
+        "thumbnail": {
+            "height": 255,
+            "url": "https://akamai.vgc.no/v2/images/cc385d63-cb0e-4465-8c3d-04e934ee3e1a?fit=crop&format=auto&h=255&w=400&s=01bcc1c3355364bb6be19f7f7f5f903334b4334a",
+            "width": 400
+        },
+        "title": "Graham Hansen med dobbel i ny Barca-seier",
+        "url": "https://www.vg.no/sport/fotball/i/APqvaM/fotball-caroline-graham-hansen-med-dobbel-da-barcelona-vant-mot-real-sociedad"
+    }
+]

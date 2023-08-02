@@ -1,0 +1,186 @@
+[
+    {
+        "slug": "tiller-seier-over-amazon-grimstad",
+        "url": "/lokalfotballen/i/abke1M/tiller-seier-over-amazon-grimstad",
+        "title": {
+            "value": "Hjemmeseier for Tiller over Amazon Grimstad"
+        },
+        "description": "Tiller vant 2-1 over Amazon Grimstad i 2. divisjon, Avdeling 1 i fotball for kvinner lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T12:04:47Z",
+        "lastModifiedAt": "2023-06-10T12:27:03Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fvn",
+            "lokalfotballen-gat",
+            "lokalfotballen-agderposten"
+        ]
+    },
+    {
+        "slug": "brakseier-for-kvik",
+        "url": "/lokalfotballen/i/l3LagL/brakseier-for-kvik",
+        "title": {
+            "value": "Kvik knuste Alvdal"
+        },
+        "description": "Sebastian Kristensen sto fram med tre mål da Kvik vant 4-0 over Alvdal i 4. divisjon, Trøndelag - Avdeling 2 i fotball. Kvik har tatt poeng i ni strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T12:03:45Z",
+        "lastModifiedAt": "2023-06-10T12:27:02Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "psg-sjefen-avviser-rolle-i-manchester-united-oppkjoep",
+        "url": "/nyheter/innenriks/i/4oGGn9/psg-sjefen-avviser-rolle-i-manchester-united-oppkjoep",
+        "title": {
+            "value": "PSG-sjefen avviser rolle i Manchester United-oppkjøp"
+        },
+        "description": "Paris Saint-Germains president Nasser Al-Khelaifi sier han ikke har noe å gjøre med et potensielt Qatar-basert oppkjøp av Manchester United.",
+        "imageUrl": "e90be715-041b-4236-a1f3-0b9d13ff6b95",
+        "publishedAt": "2023-06-10T11:58:46Z",
+        "lastModifiedAt": "2023-06-10T11:59:51Z",
+        "premium": false,
+        "authors": [
+            "NTB-AFP"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "fjerde-seier-paa-rad-for-byaasen",
+        "url": "/lokalfotballen/i/Lldd8J/fjerde-seier-paa-rad-for-byaasen",
+        "title": {
+            "value": "Byåsen fortsatte seiersrekken"
+        },
+        "description": "Eivind Haugerud Morset ledet an med tre av målene i 7-2-seieren over Melhus/Gimse i G14 1. divisjon, Avdeling 2 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T11:45:07Z",
+        "lastModifiedAt": "2023-06-10T11:57:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "ranheim-soerget-for-maalfest",
+        "url": "/lokalfotballen/i/MoJJ4K/ranheim-soerget-for-maalfest",
+        "title": {
+            "value": "Ranheim tok sin fjerde strake seier"
+        },
+        "description": "Ranheim slo Freidig 7-0 og tok sin fjerde strake seier i G14 1. divisjon, Avdeling 2 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T11:45:07Z",
+        "lastModifiedAt": "2023-06-10T11:57:23Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "tiller-reddet-poeng",
+        "url": "/lokalfotballen/i/4oGG5g/tiller-reddet-poeng",
+        "title": {
+            "value": "Amanda Thien-Man Nguyen reddet poeng for Tiller"
+        },
+        "description": "Tiller lå under 1-2, men klarte 2-2 mot Verdal etter en sen utligning i J14 1. divisjon, Avdeling 1 - Vår lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T11:43:06Z",
+        "lastModifiedAt": "2023-06-10T12:28:04Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/abkkj5/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene lørdag 10. juni.",
+        "imageUrl": "84e1a0b9-e450-4e23-9484-fdc29e7b61a1",
+        "publishedAt": "2023-06-10T04:00:42Z",
+        "lastModifiedAt": "2023-06-10T04:00:42Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "brakseier-for-freidig",
+        "url": "/lokalfotballen/i/zEeXRw/brakseier-for-freidig",
+        "title": {
+            "value": "Brakseier for Freidig"
+        },
+        "description": "Johannes Mjønes Tysnes sto fram med to scoringer da Freidig seiret 7-2 over Tolga-Vingelen i 5. divisjon, Trøndelag - Avdeling 3 i fotball for menn fredag. Freidig har tatt poeng i fem strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-09T21:26:44Z",
+        "lastModifiedAt": "2023-06-09T21:26:44Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "revdal-avgjorde-for-egge",
+        "url": "/lokalfotballen/i/69d1be/revdal-avgjorde-for-egge",
+        "title": {
+            "value": "Revdal senket Åfjord"
+        },
+        "description": "Arve Revdal sikret tre poeng for Egge da Åfjord ble slått 2-1 i 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-09T20:18:21Z",
+        "lastModifiedAt": "2023-06-09T20:26:31Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "selbu-ydmyket-svorkmo",
+        "url": "/lokalfotballen/i/WRWdpQ/selbu-ydmyket-svorkmo",
+        "title": {
+            "value": "Selbu slo Svorkmo i målfest"
+        },
+        "description": "Selbu slo Svorkmo 7-1 og tok sin første trepoenger i årets sesong i 5. divisjon, Trøndelag - Avdeling 2 i fotball for menn fredag. Gunnar Thor Oddson Kjøsnes scoret to av målene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-09T19:56:33Z",
+        "lastModifiedAt": "2023-06-09T20:26:30Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    }
+]

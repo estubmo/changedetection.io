@@ -1,0 +1,379 @@
+[
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3L7mG",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3L7mG",
+        "preamble": "Svein Maalen (45) overtar som midlertidig trener etter Kjetil Rekdal. Nå varsler han endringer. ",
+        "published": {
+            "date": "fredag 16. juni",
+            "datetime": "2023-06-16 15:35:06",
+            "niceformat": "16.06.2023, 15:35",
+            "timestamp": "2023-06-16T13:35:06.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/662909a0-20b6-4625-91f1-d9839a8b26ba?fit=crop&format=auto&h=267&w=400&s=fdf8e0230c7e3e60bf158574e921a96c51ad4aaa",
+            "width": 400
+        },
+        "title": "RBKs nye trener: – Drømmejobben ",
+        "url": "https://www.vg.no/sport/fotball/i/l3L7mG/rbks-nye-trener-droemmejobben"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "veyvn5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/veyvn5",
+        "preamble": "Arsenal-stopper William Saliba kommer til å signere ny langtidskontrakt med London-klubben, ifølge anerkjente Fabrizio Romano.",
+        "published": {
+            "date": "fredag 16. juni",
+            "datetime": "2023-06-16 14:39:04",
+            "niceformat": "16.06.2023, 14:39",
+            "timestamp": "2023-06-16T12:39:04.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/8038f333-a139-4d8e-a88d-c1c515d9b2dd?fit=crop&format=auto&h=267&w=400&s=4c19e9ad2eb29d1fbea150c76625dc0334b6b1f7",
+            "width": 400
+        },
+        "title": "Romano: Saliba signerer ny kontrakt",
+        "url": "https://www.vg.no/sport/fotball/i/veyvn5/romano-saliba-signerer-ny-kontrakt"
+    },
+    {
+        "authors": [
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q7Kde8",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q7Kde8",
+        "preamble": "Rosenborg-trener Kjetil Rekdal (54) har fått sparken i RBK. Én ekspert er overhodet ikke overrasket, mens en klubbhelt sliter med å ta innover seg avgjørelsen. ",
+        "published": {
+            "date": "fredag 16. juni",
+            "datetime": "2023-06-16 13:10:46",
+            "niceformat": "16.06.2023, 13:10",
+            "timestamp": "2023-06-16T11:10:46.000Z"
+        },
+        "thumbnail": {
+            "height": 283,
+            "url": "https://akamai.vgc.no/v2/images/b9e57398-9283-4bff-a29d-866854a33bfb?fit=crop&format=auto&h=283&w=400&s=4601d3d49056e5f5f5793316b719ffdf89486556",
+            "width": 400
+        },
+        "title": "Feller nådeløs dom over Rekdals RBK-prosjekt: – En katastrofe",
+        "url": "https://www.vg.no/sport/fotball/i/Q7Kde8/rekdal-ferdig-i-rbk-eksperter-feller-naadeloes-dom-en-katastrofe"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69dmGe",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69dmGe",
+        "preamble": "Både Kjetil Rekdal og Geir Frigård er ferdige som trenere i Rosenborg. Det bekrefter klubben selv.",
+        "published": {
+            "date": "fredag 16. juni",
+            "datetime": "2023-06-16 12:11:17",
+            "niceformat": "16.06.2023, 12:11",
+            "timestamp": "2023-06-16T10:11:17.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/R0-MKpp9B9G7.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Rekdal har fått sparken: – De tok det tungt ",
+        "url": "https://www.vg.no/sport/fotball/i/69dmGe/nidaros-rekdal-har-faatt-sparken"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QOM9J",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QOM9J",
+        "preamble": "Declan Rice er en attraktiv mann på overgangsmarkedet, og flere klubber har kastet seg inn i kampen om West Ham-spilleren. ",
+        "published": {
+            "date": "fredag 16. juni",
+            "datetime": "2023-06-16 11:02:38",
+            "niceformat": "16.06.2023, 11:02",
+            "timestamp": "2023-06-16T09:02:38.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/5bdb52a3-6932-432a-b326-f262c97b3cc7?fit=crop&format=auto&h=267&w=400&s=fc06f92d2fbfd2ba29c40621c629d6f6dca41e3b",
+            "width": 400
+        },
+        "title": "Arsenal forbereder nytt Rice-bud",
+        "url": "https://www.vg.no/sport/fotball/i/0QOM9J/arsenal-forbereder-nytt-rice-bud"
+    },
+    {
+        "authors": [
+            {
+                "email": "svea@vg.no",
+                "id": "f852e5e5-5ba9-48c7-96da-9455a160031f",
+                "name": "Knut Espen Svegaarden"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BWnOeQ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BWnOeQ",
+        "preamble": "ULLEVAAL STADION (VG) Kapteinen har vist at han har det som skal til – utenfor banen. Men vi bør, kan og må forlange enda mer fra Martin Ødegaard (24) på banen. Det er faktisk helt nødvendig.",
+        "published": {
+            "date": "fredag 16. juni",
+            "datetime": "2023-06-16 08:56:58",
+            "niceformat": "16.06.2023, 08:56",
+            "timestamp": "2023-06-16T06:56:58.000Z"
+        },
+        "thumbnail": {
+            "height": 274,
+            "url": "https://akamai.vgc.no/v2/images/c854a420-cadb-4182-8b5f-d718de97cddd?fit=crop&format=auto&h=274&w=400&s=e7d14caf460d779f17280016f6ba37719480e662",
+            "width": 400
+        },
+        "title": "Vi bør forlange mer av Ødegaard",
+        "url": "https://www.vg.no/sport/fotball/i/BWnOeQ/vi-boer-forlange-mer-av-oedegaard"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgyKol",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgyKol",
+        "preamble": "Videoene av en feirende Jack Grealish gikk sin seiersgang på sosiale medier etter en historisk «Treble». Nå avslører pappa Grealish regningen på deler av feiringene. ",
+        "published": {
+            "date": "fredag 16. juni",
+            "datetime": "2023-06-16 08:48:43",
+            "niceformat": "16.06.2023, 08:48",
+            "timestamp": "2023-06-16T06:48:43.000Z"
+        },
+        "thumbnail": {
+            "height": 283,
+            "url": "https://akamai.vgc.no/v2/images/8690c527-af01-40df-a279-10817813967a?fit=crop&format=auto&h=283&w=400&s=58c8e86351d03e0e030dc5cb45a209b352f3d739",
+            "width": 400
+        },
+        "title": "Jack Grealish går viralt - nå avslører faren festregningen",
+        "url": "https://www.vg.no/sport/fotball/i/xgyKol/avsloerer-skyhoey-festregning-drikkeregning-paa-630-000"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEK5kL",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEK5kL",
+        "preamble": "Sørlendingen Sondre Tronstad (27) har skrevet under på en treårskontrakt med Championship-klubben Blackburn.",
+        "published": {
+            "date": "torsdag 15. juni",
+            "datetime": "2023-06-15 23:28:25",
+            "niceformat": "15.06.2023, 23:28",
+            "timestamp": "2023-06-15T21:28:25.000Z"
+        },
+        "thumbnail": {
+            "height": 225,
+            "url": "https://akamai.vgc.no/v2/images/01e3a4b8-0c7e-4b3f-be75-cea7b427bd11?fit=crop&format=auto&h=225&w=400&s=fe45a45db415552a325586fbafb84254c3de39bf",
+            "width": 400
+        },
+        "title": "Tronstad klar for Blackburn",
+        "url": "https://www.vg.no/sport/fotball/i/gEK5kL/tronstad-klar-for-blackburn"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5Bk1aO",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5Bk1aO",
+        "preamble": "(Spania-Italia 2–1) Innbytter Joselu (33) hadde nettopp kommet på banen da han kunne pirke ballen i mål og sende Norges EM-kvalik-motstander Spania til Nations League-finalen mot Kroatia.",
+        "published": {
+            "date": "torsdag 15. juni",
+            "datetime": "2023-06-15 22:38:26",
+            "niceformat": "15.06.2023, 22:38",
+            "timestamp": "2023-06-15T20:38:26.000Z"
+        },
+        "thumbnail": {
+            "height": 233,
+            "url": "https://akamai.vgc.no/v2/images/5f8eeb46-eaa1-431b-93fb-5b1941579fd8?fit=crop&format=auto&h=233&w=400&s=55e0f718a80c51d0343e9c043d508a622bb295e7",
+            "width": 400
+        },
+        "title": "Spansk innbytter avgjorde i semifinalen mot Italia",
+        "url": "https://www.vg.no/sport/fotball/i/5Bk1aO/spansk-innbytter-avgjorde-i-semifinalen-mot-italia"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "abkmVE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/abkmVE",
+        "preamble": "Serie A-mester Napoli og Leo Østigård (23) har fått ny sjef. Franske Rudi García (59) tar over for Luciano Spalletti (64).",
+        "published": {
+            "date": "torsdag 15. juni",
+            "datetime": "2023-06-15 21:07:56",
+            "niceformat": "15.06.2023, 21:07",
+            "timestamp": "2023-06-15T19:07:56.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/c0cacf58-d86d-4e37-9c7d-c5440aeae52c?fit=crop&format=auto&h=267&w=400&s=b09494fb5f1a18dfcf4b716444b226b4142212a1",
+            "width": 400
+        },
+        "title": "Rudi García ansatt som Østigårds nye Napoli-trener",
+        "url": "https://www.vg.no/sport/fotball/i/abkmVE/rudi-garcia-ansatt-som-oestigaards-nye-napoli-trener"
+    }
+]

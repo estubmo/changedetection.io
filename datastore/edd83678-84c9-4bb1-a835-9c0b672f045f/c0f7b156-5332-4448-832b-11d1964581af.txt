@@ -1,0 +1,196 @@
+[
+    {
+        "slug": "byaasen-2-slo-rennebu-paa-hjemmebane",
+        "url": "/lokalfotballen/i/4oG3oR/byaasen-2-slo-rennebu-paa-hjemmebane",
+        "title": {
+            "value": "Byåsen 2 slo Rennebu på hjemmebane"
+        },
+        "description": "Byåsen 2 slo Rennebu 2-0 på Byåsen Arena i 5. divisjon, Trøndelag - Avdeling 3 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-05T21:40:36Z",
+        "lastModifiedAt": "2023-06-05T21:40:36Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-opp"
+        ]
+    },
+    {
+        "slug": "rasch-i-scoringshumoer",
+        "url": "/lokalfotballen/i/P4wdoJ/rasch-i-scoringshumoer",
+        "title": {
+            "value": "Rasch i scoringshumør"
+        },
+        "description": "Christian Rasch ledet an med to mål i 5-0-seieren over Orkanger 2 i 6. divisjon, Trøndelag - Avdeling 4 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-05T21:26:19Z",
+        "lastModifiedAt": "2023-06-05T21:26:19Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "uavgjort-for-tiller-2-og-steinkjer-i-maalfest",
+        "url": "/lokalfotballen/i/Knk8y6/uavgjort-for-tiller-2-og-steinkjer-i-maalfest",
+        "title": {
+            "value": "Uavgjort i målfest på Tobb Arena Sør"
+        },
+        "description": "Amanda Østvik sikret poeng for Steinkjer med en sen utligning i 4-4-kampen mot Tiller 2",
+        "imageUrl": null,
+        "publishedAt": "2023-06-05T20:47:49Z",
+        "lastModifiedAt": "2023-06-05T21:25:16Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "ny-seier-for-malvik",
+        "url": "/lokalfotballen/i/mQW0Rp/ny-seier-for-malvik",
+        "title": {
+            "value": "Storseier for Malvik"
+        },
+        "description": "Med 6-0-seier over Verdal tok Malvik sin femte seier på rad i 3. divisjon, Trøndelag i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-05T20:37:36Z",
+        "lastModifiedAt": "2023-06-05T20:57:18Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "malvik-2-hommelvik-2-seiret-over-hegra",
+        "url": "/lokalfotballen/i/1586nW/malvik-2-hommelvik-2-seiret-over-hegra",
+        "title": {
+            "value": "Malakzadeh ble tomålshelt"
+        },
+        "description": "Daniel Reza Malakzadeh scoret begge målene for Malvik 2/Hommelvik 2 og ble den store helten i 2-0-seieren over Hegra i 6. divisjon, Trøndelag - Avdeling 2 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-05T20:37:35Z",
+        "lastModifiedAt": "2023-06-05T21:26:18Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet",
+            "lokalfotballen-stjordalsnytt"
+        ]
+    },
+    {
+        "slug": "trond-slo-kattem-i-maalfest",
+        "url": "/lokalfotballen/i/76Jpl8/trond-slo-kattem-i-maalfest",
+        "title": {
+            "value": "Trond slo Kattem i målfest"
+        },
+        "description": "Trond knuste Kattem 9-0 i 6. divisjon, Trøndelag - Avdeling 3 i fotball for menn. Kattem har gått poengløse av banen i fire strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-05T20:31:11Z",
+        "lastModifiedAt": "2023-06-05T20:31:11Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "kjeldsen-ble-helten-for-sverre",
+        "url": "/lokalfotballen/i/8Jzpwd/kjeldsen-ble-helten-for-sverre",
+        "title": {
+            "value": "Kjeldsen ble helten for Sverre"
+        },
+        "description": "Håkon Pallin Kjeldsen scoret det avgjørende målet for Sverre i 4-3-seieren over Lånke 2 på Leva-Fro Arena Elberg i 6. divisjon, Trøndelag - Avdeling 2 i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-05T20:31:10Z",
+        "lastModifiedAt": "2023-06-05T20:31:10Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "soevik-ble-tomaalshelt",
+        "url": "/lokalfotballen/i/abkJ2E/soevik-ble-tomaalshelt",
+        "title": {
+            "value": "Nardo knuste Charlottenlund"
+        },
+        "description": "Synne Søvik viste scoringsform da Nardo vant 4-0 over Charlottenlund i 3. divisjon, Trøndelag i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-05T20:29:31Z",
+        "lastModifiedAt": "2023-06-05T20:57:15Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "strand-sikret-seieren-for-strindheim-paa-overtid",
+        "url": "/lokalfotballen/i/rl3rL8/strand-sikret-seieren-for-strindheim-paa-overtid",
+        "title": {
+            "value": "Strand senket Vestbyen på overtid"
+        },
+        "description": "Johanne Skarvøy Strand scoret kampens eneste mål da Strindheim slo Vestbyen 1-0 i 3. divisjon, Trøndelag i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-05T20:22:06Z",
+        "lastModifiedAt": "2023-06-05T20:57:17Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "markabygda-vant-igjen",
+        "url": "/lokalfotballen/i/abkJ1E/markabygda-vant-igjen",
+        "title": {
+            "value": "Markabygda tok sin tredje strake seier"
+        },
+        "description": "Markabygda seiret 2-0 over Tangmoen 2 på hjemmebane i 6. divisjon, Trøndelag - Avdeling 2 i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-05T20:13:57Z",
+        "lastModifiedAt": "2023-06-05T20:31:11Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    }
+]

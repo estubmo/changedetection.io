@@ -1,0 +1,188 @@
+[
+    {
+        "slug": "siste-fra-breddefotballen",
+        "url": "/sport/fotball/i/GMjXaq/siste-fra-breddefotballen",
+        "title": {
+            "value": "Trondheimslaget sjokkerte i cupen"
+        },
+        "description": null,
+        "imageUrl": "b130374b-bdc2-4022-a324-048783a31dc8",
+        "publishedAt": "2023-03-24T14:51:36Z",
+        "lastModifiedAt": "2023-04-23T20:17:37Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "fotball",
+            "breddefotbaill",
+            "lokalfotballen",
+            "breddefotball"
+        ]
+    },
+    {
+        "slug": "keeperen-i-egen-klasse-da-rbk-tapte",
+        "url": "/sport/i/mQyXl0/keeperen-i-egen-klasse-da-rbk-tapte",
+        "title": {
+            "value": "I egen klasse"
+        },
+        "description": "Med flere klasseredninger holdt André Hansen lenge RBK inne i kampen.",
+        "imageUrl": "556b7060-f667-4db5-85ca-781e609203e5",
+        "publishedAt": "2023-05-03T18:05:00Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "rbk-gikk-paa-aarets-foerste-tap-maalloese-for-andre-kamp-paa-rad",
+        "url": "/sport/fotball/i/dwbxVj/rbk-gikk-paa-aarets-foerste-tap-maalloese-for-andre-kamp-paa-rad",
+        "title": {
+            "value": "Rekdal etter ydmykelsen: –  Et bedre lag"
+        },
+        "description": "RBK trodde de hadde tent et håp rett før slutt, men da VAR annullerte for offside var sesongens første tap et faktum.",
+        "imageUrl": "b0976946-247b-4033-8e0b-81402b42f354",
+        "publishedAt": "2023-05-03T17:56:46Z",
+        "lastModifiedAt": "2023-05-03T18:29:18Z",
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "tverrliggeren-sto-i-veien-for-ranheim-som-bare-klarte-uavgjort",
+        "url": "/sport/fotball/i/on8jg0/tverrliggeren-sto-i-veien-for-ranheim-som-bare-klarte-uavgjort",
+        "title": {
+            "value": "Tverrliggeren sto i veien for Ranheim som bare klarte uavgjort"
+        },
+        "description": "Men «serieleder» kan trønderne fremdeles kalle seg.",
+        "imageUrl": "02aa6c06-852d-4178-818e-c88d3c1ce85b",
+        "publishedAt": "2023-05-03T17:56:32Z",
+        "lastModifiedAt": "2023-05-03T18:11:36Z",
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "sport",
+            "fotball",
+            "ranheim",
+            "ranheim-tf",
+            "obos-ligaen"
+        ]
+    },
+    {
+        "slug": "foelg-storkampen-direkte-se-vaar-sending-fra-lerkendal",
+        "url": "/sport/fotball/i/mQyO4p/foelg-storkampen-direkte-se-vaar-sending-fra-lerkendal",
+        "title": {
+            "value": "– For tidlig å lage et stort kaos"
+        },
+        "description": "Rosenborg tok imot Brann på Lerkendal. Se reaksjonene etter kampen.",
+        "imageUrl": "196867ea-1fe6-4376-a6db-c02462521ae0",
+        "publishedAt": "2023-05-03T13:35:01Z",
+        "lastModifiedAt": "2023-05-03T18:17:15Z",
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "eliteserien"
+        ]
+    },
+    {
+        "slug": "furberg-med-maalshow",
+        "url": "/lokalfotballen/i/abygk7/furberg-med-maalshow",
+        "title": {
+            "value": "Furberg med målshow"
+        },
+        "description": "Frøya IL banket Orkanger 2 9-0 i seriepremieren i 6. divisjon, Trøndelag - Avdeling 4 søndag. Nataniel Sandvik Furberg scoret fem mål.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-03T09:49:16Z",
+        "lastModifiedAt": "2023-05-03T09:49:16Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "stubban-old-boys-snudde-til-seier-i-sluttminuttene",
+        "url": "/lokalfotballen/i/8J7n0x/stubban-old-boys-snudde-til-seier-i-sluttminuttene",
+        "title": {
+            "value": "Stubban Old Boys snudde til seier i sluttminuttene"
+        },
+        "description": "Stubban Old Boys lå under med to mål, men snudde kampen og vant 4-3 i seriepremieren i M34.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-03T06:49:06Z",
+        "lastModifiedAt": "2023-05-03T06:49:06Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "rekdals-oppgjoer-lite-realistisk-det-mange-hiver-ut-av-seg",
+        "url": "/sport/fotball/i/698a9W/rekdals-oppgjoer-lite-realistisk-det-mange-hiver-ut-av-seg",
+        "title": {
+            "value": "– Lite realistisk det mange hiver ut av seg "
+        },
+        "description": "Kjetil Rekdal mener årets seriestart er mer solid enn fjorårets. Før møtet med Brann sier han det bør gjøres noe med forventningene som mange har til RBK.",
+        "imageUrl": "0883ea04-03c5-42f9-a6ed-ff23a702b474",
+        "publishedAt": "2023-05-03T04:44:39Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "tyrkias-foerstegangsvelgere-vil-ha-ny-politisk-kurs",
+        "url": "/nyheter/utenriks/i/vezaxX/tyrkias-foerstegangsvelgere-vil-ha-ny-politisk-kurs",
+        "title": {
+            "value": "Tyrkias førstegangsvelgere vil ha ny politisk kurs"
+        },
+        "description": "Emre Ali Ferli er 18 år. Han har ikke kjent noen andre tyrkiske ledere enn Recep Tayyip Erdogan, og nå er han lei. Han håper på lederskifte i Tyrkia 14. mai.",
+        "imageUrl": "9e4699db-3383-42a5-b2c6-d7cdc56e4845",
+        "publishedAt": "2023-05-03T04:05:45Z",
+        "lastModifiedAt": "2023-05-03T07:39:26Z",
+        "premium": false,
+        "authors": [
+            "NTB-AFP"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/bgaEql/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag, onsdag 3. mai.",
+        "imageUrl": "2d6411b6-a220-4d1f-9b82-5f2cd7e92533",
+        "publishedAt": "2023-05-03T04:01:20Z",
+        "lastModifiedAt": "2023-05-03T04:01:20Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    }
+]

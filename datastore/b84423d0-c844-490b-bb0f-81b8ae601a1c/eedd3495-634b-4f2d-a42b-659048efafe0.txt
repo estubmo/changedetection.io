@@ -1,0 +1,375 @@
+[
+    {
+        "authors": [
+            {
+                "email": "jostein.magnussen@vg.no",
+                "id": "c2719103-4ea1-4707-a00b-f29f023b60e1",
+                "name": "Jostein Magnussen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJyEKl",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJyEKl",
+        "preamble": "LILLESTRØM (VG) Ingen hater Vålerenga som Ruben Gabrielsen (31), men Lillestrøm-spilleren skiller mellom hat og fotballhat – og med god grunn.",
+        "published": {
+            "date": "mandag 1. mai",
+            "datetime": "2023-05-01 14:28:10",
+            "niceformat": "01.05.2023, 14:28",
+            "timestamp": "2023-05-01T12:28:10.000Z"
+        },
+        "thumbnail": {
+            "height": 245,
+            "url": "https://akamai.vgc.no/v2/images/c0127d60-1b75-4166-9f6b-9ac60e4b5e4a?fit=crop&format=auto&h=245&w=400&s=caed357d7e61d3acfa1d3d12450ea0d7a1035fb2",
+            "width": 400
+        },
+        "title": "Gabrielsens råsterke VIF-statistikk: – Bruker fotballhatet til å motivere meg",
+        "url": "https://www.vg.no/sport/fotball/i/eJyEKl/gabrielsens-raasterke-vif-statistikk-bruker-fotballhatet-til-aa-motivere-meg"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BWvav0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BWvav0",
+        "preamble": "Oslo-politiet er forberedt før det utsolgte lokalderbyet mellom Vålerenga og Lillestrøm i hovedstaden i kveld. Oppgjøret nærmest garanterer høy temperatur.",
+        "published": {
+            "date": "mandag 1. mai",
+            "datetime": "2023-05-01 13:37:54",
+            "niceformat": "01.05.2023, 13:37",
+            "timestamp": "2023-05-01T11:37:54.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/4dd9ca84-02d7-4932-83ac-8d631507c42e?fit=crop&format=auto&h=267&w=400&s=47e04784c2dd923958750b5fdceea6d0aa4eebb4",
+            "width": 400
+        },
+        "title": "Politiet med ekstra bemanning før hatoppgjøret: – Vi har tatt høyde for historien",
+        "url": "https://www.vg.no/sport/fotball/i/BWvav0/politiet-med-ekstra-bemanning-foer-hatoppgjoeret-vi-har-tatt-hoeyde-for-historien"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwbAkX",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwbAkX",
+        "preamble": "Aalesund har null scorede mål og null poeng etter fire seriekamper. Det betyr trenerskifte, ifølge Sunnmørsposten.",
+        "published": {
+            "date": "mandag 1. mai",
+            "datetime": "2023-05-01 12:29:00",
+            "niceformat": "01.05.2023, 12:29",
+            "timestamp": "2023-05-01T10:29:00.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/4386f232-585f-4aba-91df-7d2c0407650b?fit=crop&format=auto&h=267&w=400&s=e3c71b90bddeabb1356f9e87021e78cc87148394",
+            "width": 400
+        },
+        "title": "Sunnmørsposten: Lars Arne Nilsen ferdig i Aalesund",
+        "url": "https://www.vg.no/sport/fotball/i/dwbAkX/sunnmoersposten-lars-arne-nilsen-ferdig-i-aalesund"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3EXaBL",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3EXaBL",
+        "preamble": "Chelsea-manager Frank Lampard (44) sier lagmoralen er et klart problem før oppgjøret mot Arsenal og Martin Ødegaard tirsdag.",
+        "published": {
+            "date": "mandag 1. mai",
+            "datetime": "2023-05-01 12:01:02",
+            "niceformat": "01.05.2023, 12:01",
+            "timestamp": "2023-05-01T10:01:02.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/e6cad7c8-3382-4f01-9724-9ed725627457?fit=crop&format=auto&h=267&w=400&s=fd04fe8d2520665205121f0b530a2df0bff42779",
+            "width": 400
+        },
+        "title": "Lampard før Arsenal-kampen: – Selvtilliten er lav",
+        "url": "https://www.vg.no/sport/fotball/i/3EXaBL/frank-lampard-foer-arsenal-kampen-selvtilliten-er-lav"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "764a7V",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/764a7V",
+        "preamble": "Midtstopper William Saliba blir heller ikke klar til tirsdagens kamp mot Chelsea, opplyste Mikel Arteta på dagens pressekonferanse.",
+        "published": {
+            "date": "mandag 1. mai",
+            "datetime": "2023-05-01 11:17:57",
+            "niceformat": "01.05.2023, 11:17",
+            "timestamp": "2023-05-01T09:17:57.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ab33774a-036c-4dcb-ac44-f09d8541dbd9?fit=crop&format=auto&h=267&w=400&s=266c210e92b28ccbfc6ccbeab60cc1e5d195f190",
+            "width": 400
+        },
+        "title": "Saliba er fremdeles ikke klar for Arsenal",
+        "url": "https://www.vg.no/sport/fotball/i/764a7V/saliba-fortsatt-ute-for-et-arsenal-i-troebbel"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4oX4MR",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4oX4MR",
+        "preamble": "Liverpools håp om Champions League neste sesong lever etter dramatikken mot Tottenham, men manager Jürgen Klopp tror ikke laget hans når Europas gjeveste turnering.",
+        "published": {
+            "date": "mandag 1. mai",
+            "datetime": "2023-05-01 08:13:58",
+            "niceformat": "01.05.2023, 08:13",
+            "timestamp": "2023-05-01T06:13:58.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/9edc41f0-6277-4486-a6b8-0a2c7b81409f?fit=crop&format=auto&h=267&w=400&s=b5741925e9a282abd22f860b7fc3bcd7e778d855",
+            "width": 400
+        },
+        "title": "Klopp tror ikke på Champions League-spill: – Selvfølgelig ikke",
+        "url": "https://www.vg.no/sport/fotball/i/4oX4MR/klopp-tror-ikke-paa-champions-league-spill-selvfoelgelig-ikke"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEQKbr",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEQKbr",
+        "preamble": "VALLE (VG) Torgeir Børven (31) innrømmer at det ikke har klaffet etter comebacket i Vålerenga. Nå er han også ute av laget til trener Dag-Eilev Fagermo (56).",
+        "published": {
+            "date": "mandag 1. mai",
+            "datetime": "2023-05-01 07:38:12",
+            "niceformat": "01.05.2023, 07:38",
+            "timestamp": "2023-05-01T05:38:12.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/7ee8f6f7-e20b-4118-8dea-5c499ba59f78?fit=crop&format=auto&h=267&w=400&s=04c1f01c801533b80b740bb206ffe4e0aaffe69c",
+            "width": 400
+        },
+        "title": "Børven vrakes igjen i derbyet: − Har ikke fungert",
+        "url": "https://www.vg.no/sport/fotball/i/zEQKbr/torgeir-boerven-vrakes-igjen-har-ikke-fungert"
+    },
+    {
+        "authors": [
+            {
+                "email": "skandsen@vg.no",
+                "id": "f435294c-56cc-4c38-a714-d1f3f4e7a881",
+                "name": "Sondre Skandsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q17lQE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q17lQE",
+        "preamble": "Søndag kveld måtte dommersjef Terje Hauge igjen erkjenne at de gikk glipp av et rødt kort på VAR-rommet. Molde-spiller Kristian Eriksen skjønner fortsatt lite.",
+        "published": {
+            "date": "mandag 1. mai",
+            "datetime": "2023-05-01 00:03:44",
+            "niceformat": "01.05.2023, 00:03",
+            "timestamp": "2023-04-30T22:03:44.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0ff00bc0-e03d-4f49-8796-1f8a1209cb4e?fit=crop&format=auto&h=267&w=400&s=02f65930161b92f5e4a686b3108b73cf87b90203",
+            "width": 400
+        },
+        "title": "Innrømmer dommerfeil etter nytt stygt spark: – Skulle nok gitt rødt",
+        "url": "https://www.vg.no/sport/fotball/i/q17lQE/dommersjefen-i-eliteserien-innroemmer-ny-var-feil-etter-spark-i-skulderen"
+    },
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            },
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            },
+            {
+                "email": "skandsen@vg.no",
+                "id": "f435294c-56cc-4c38-a714-d1f3f4e7a881",
+                "name": "Sondre Skandsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEQKWq",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEQKWq",
+        "preamble": "SKIEN (VG) (Odd – Rosenborg 0–0) Odd nekter å slippe inn, Rosenborgs spisser klarer ikke å score – og trønderne er dårligst i ligaen til å treffe mål. Da endte det 0–0 på Skagerak Arena.",
+        "published": {
+            "date": "søndag 30. april",
+            "datetime": "2023-04-30 21:06:56",
+            "niceformat": "30.04.2023, 21:06",
+            "timestamp": "2023-04-30T19:06:56.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/NBjdPIXhxznF.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Slakter Rosenborgs angrepsspill: – Så trist at det er vilt",
+        "url": "https://www.vg.no/sport/fotball/i/zEQKWq/nytt-poengtap-for-rosenborg-slapp-med-skrekken-mot-odds-sjansesloeseri"
+    },
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPe7zd",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPe7zd",
+        "preamble": "(Liverpool – Tottenham 4–3) Diogo Jota sikret Liverpool seieren dypt inn i overtiden på Anfield – men ifølge Spurs-sjef Ryan Mason burde portugiseren vært sendt av banen.",
+        "published": {
+            "date": "søndag 30. april",
+            "datetime": "2023-04-30 20:46:18",
+            "niceformat": "30.04.2023, 20:46",
+            "timestamp": "2023-04-30T18:46:18.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/BINZx3_3YsJV.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Raser mot dommer etter tap: – Klareste røde kortet du kommer til å se",
+        "url": "https://www.vg.no/sport/fotball/i/VPe7zd/tottenham-og-ryan-mason-raser-mot-dommeren-etter-dramatisk-liverpool-seier"
+    }
+]

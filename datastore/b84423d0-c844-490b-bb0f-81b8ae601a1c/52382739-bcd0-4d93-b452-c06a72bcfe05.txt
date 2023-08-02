@@ -1,0 +1,370 @@
+[
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3mggG",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3mggG",
+        "preamble": "BODØ (VG) (Bodø/Glimt – Molde 2–2) Ulrik Saltnes (30) reddet Bodø/Glimt på overtid igjen. Molde-trener Erling Moe (52) forsto lite da keeper Jacob Karlstrøm (26) ble utvist tidlig i toppkampen.",
+        "published": {
+            "date": "søndag 2. juli",
+            "datetime": "2023-07-02 21:16:16",
+            "niceformat": "02.07.2023, 21:16",
+            "timestamp": "2023-07-02T19:16:16.000Z"
+        },
+        "thumbnail": {
+            "height": 679,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/cpK1rU4cJHBq.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Moe raste mot VAR da Saltnes reddet Bodø/Glimt igjen: – Jeg er drittlei",
+        "url": "https://www.vg.no/sport/fotball/i/l3mggG/eliteserien-ola-brynhildsen-herjet-for-molde-da-molde-slo-bodoe-glimt"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "MoXxeo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/MoXxeo",
+        "preamble": "(Aalesund - Rosenborg 1–0) Rosenborg-krisen vil ingen ende ta. André Hansens (33) kjempetabbe ble avgjørende da Christian Johnsen (46) fikk en perfekt trenerdebut i Aalesund. ",
+        "published": {
+            "date": "søndag 2. juli",
+            "datetime": "2023-07-02 18:53:55",
+            "niceformat": "02.07.2023, 18:53",
+            "timestamp": "2023-07-02T16:53:55.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/HgOeSt2FRxiL.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Supportere entret banen i frustrasjon etter ny Rosenborg-flause: – Pinlig",
+        "url": "https://www.vg.no/sport/fotball/i/MoXxeo/andre-hansen-med-kjempetabbe-i-ny-rosenborg-flause-droemmedebut-for-christian-johnsen"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMXvpq",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMXvpq",
+        "preamble": "(Brann – HamKam 2–1) Jonas Torsvik (18) fra Loddefjord gjorde noe han «aldri hadde gjort før» da han scoret i sin første eliteseriekamp fra start.",
+        "published": {
+            "date": "søndag 2. juli",
+            "datetime": "2023-07-02 18:53:43",
+            "niceformat": "02.07.2023, 18:53",
+            "timestamp": "2023-07-02T16:53:43.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/-Ko6xdP6rnO4.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Brann reiste seg etter tapet mot Viking – 18 år gamle Torsvik med kanonscoring",
+        "url": "https://www.vg.no/sport/fotball/i/GMXvpq/eliteserien-jonas-torsvik-18-scoret-sitt-foerste-ligamaal-for-brann"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            },
+            {
+                "email": "andreas.hellenes@schibsted.com",
+                "id": "424642b6-03fe-42cd-abe2-5f7517e8a8e1",
+                "name": "Andreas Hellenes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gExXV1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gExXV1",
+        "preamble": "Henning Berg tar over den svenske klubben AIK, etter at han fikk sparken fra Pafos FC i april.",
+        "published": {
+            "date": "søndag 2. juli",
+            "datetime": "2023-07-02 18:44:33",
+            "niceformat": "02.07.2023, 18:44",
+            "timestamp": "2023-07-02T16:44:33.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a5eba329-6dcb-48f6-9a0b-9e164dc3f6d0?fit=crop&format=auto&h=267&w=400&s=277b7e05c3e66a46f9980eb4fa00bdfbdaa2a12a",
+            "width": 400
+        },
+        "title": "Henning Berg ny AIK-trener – møter Høgmo i første kamp",
+        "url": "https://www.vg.no/sport/fotball/i/gExXV1/henning-berg-ny-aik-trener"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQXVLR",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQXVLR",
+        "preamble": "Jürgen Klopp får sin andre sommersignering. Dominik Szoboszlai (22) går for 820 millioner kroner til Liverpool.",
+        "published": {
+            "date": "søndag 2. juli",
+            "datetime": "2023-07-02 16:59:22",
+            "niceformat": "02.07.2023, 16:59",
+            "timestamp": "2023-07-02T14:59:22.000Z"
+        },
+        "thumbnail": {
+            "height": 272,
+            "url": "https://akamai.vgc.no/v2/images/3a900bbb-97d2-4029-bb62-b2a56e9d532c?fit=crop&format=auto&h=272&w=400&s=5043e27e46b0988d7d8ca852ae73ec01ebb26b1f",
+            "width": 400
+        },
+        "title": "Utløser utkjøpsklausul – Liverpool henter Szoboszlai",
+        "url": "https://www.vg.no/sport/fotball/i/JQXVLR/utloeser-utkjoepsklausul-liverpool-henter-szoboszlai"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BWe7L9",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BWe7L9",
+        "preamble": "(Kongsvinger - Start 2–1, Fredrikstad - Ranheim 4–0) Kongsvinger tok sin syvende strake seier Obosligaen, mens Fredrikstad herjet på hjemmebane med fire scoringer.",
+        "published": {
+            "date": "søndag 2. juli",
+            "datetime": "2023-07-02 16:55:08",
+            "niceformat": "02.07.2023, 16:55",
+            "timestamp": "2023-07-02T14:55:08.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/084847c5-b4c5-4c62-8f9f-172491722fd6?fit=crop&format=auto&h=267&w=400&s=2d0b9f69a95a6ade910b005dd8877e2d73f330c3",
+            "width": 400
+        },
+        "title": "Kongsvinger snudde mot Start – Fredrikstad med storseier",
+        "url": "https://www.vg.no/sport/fotball/i/BWe7L9/kongsvinger-snudde-mot-start-fredrikstad-med-storseier"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5BemKe",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5BemKe",
+        "preamble": "Sander Kartum (27) blir Brann-spiller fra 1. august.",
+        "published": {
+            "date": "søndag 2. juli",
+            "datetime": "2023-07-02 16:23:00",
+            "niceformat": "02.07.2023, 16:23",
+            "timestamp": "2023-07-02T14:23:00.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/cfff9a52-4b87-4eba-8a12-22a4c39c8478?fit=crop&format=auto&h=267&w=400&s=37195e553bbeb2a9db104f27390c8d416fa9612f",
+            "width": 400
+        },
+        "title": "Sander Kartum klar for Brann: – Glad og stolt",
+        "url": "https://www.vg.no/sport/fotball/i/5BemKe/sander-kartum-klar-for-brann"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgdxzQ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgdxzQ",
+        "preamble": "David de Geas kontrakt med Manchester United gikk ut 30. juni og 32-åringen kan hentes gratis til en ny klubb. Den saudiarabiske klubben Al-Nassr skal være interessert.",
+        "published": {
+            "date": "søndag 2. juli",
+            "datetime": "2023-07-02 14:47:24",
+            "niceformat": "02.07.2023, 14:47",
+            "timestamp": "2023-07-02T12:47:24.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/bbbc4c7e-bcd0-43d7-a14d-e52c31bf5eba?fit=crop&format=auto&h=300&w=400&s=2e05e0efe44384ff253c93852c788f348259fa2f",
+            "width": 400
+        },
+        "title": "Medier: De Gea kan gjenforenes med Ronaldo",
+        "url": "https://www.vg.no/sport/fotball/i/xgdxzQ/medier-de-gea-kan-gjenforenes-med-ronaldo"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "MoXM2K",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/MoXM2K",
+        "preamble": "VALLE (VG) Vålerengas daglige leder Erik Espeseth har den siste tiden møtt hard motstand fra VIF-supporterne i sosiale medier. Nå har supporterne tatt det til tribunen.",
+        "published": {
+            "date": "søndag 2. juli",
+            "datetime": "2023-07-02 07:59:40",
+            "niceformat": "02.07.2023, 07:59",
+            "timestamp": "2023-07-02T05:59:40.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/bc3e7c47-1adf-4f2a-845a-c1515892efd4?fit=crop&format=auto&h=267&w=400&s=4e3aa835c5f200ad1c5123ff35bd929193d70782",
+            "width": 400
+        },
+        "title": "Vålerenga-sjef Espeseth om supporterkritikken: – Det er tungt",
+        "url": "https://www.vg.no/sport/fotball/i/MoXM2K/eliteserien-vaalerengas-daglige-leder-erik-espeseth-moeter-motstand-fra-klanen-det-er-tungt"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "15eg9X",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/15eg9X",
+        "preamble": "(Spania U21 – Sveits U21 2–1 e.e.o.) Norges overmenn utlignet på overtid i ordinær tid, men hadde ikke noe å komme med etter Juan Mirandas matchvinnerscoring.",
+        "published": {
+            "date": "lørdag 1. juli",
+            "datetime": "2023-07-01 23:43:19",
+            "niceformat": "01.07.2023, 23:43",
+            "timestamp": "2023-07-01T21:43:19.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ce31c9d8-e467-4608-b7b0-4f30995e83ee?fit=crop&format=auto&h=267&w=400&s=5e4b0eb3e78188e512ccdcc5a3eff15a41d5838b",
+            "width": 400
+        },
+        "title": "Norges overmenn senket av Spania i kvartfinalen",
+        "url": "https://www.vg.no/sport/fotball/i/15eg9X/norges-overmenn-senket-av-spania-i-kvartfinalen"
+    }
+]

@@ -1,0 +1,201 @@
+[
+    {
+        "slug": "rekdal-blir-med-som-kommentator-i-6-divisjon",
+        "url": "/sport/fotball/i/rlb7rl/rekdal-blir-med-som-kommentator-i-6-divisjon",
+        "title": {
+            "value": "Rekdal blir med som kommentator i 6. divisjon"
+        },
+        "description": "Fredag 19. mai skal Adresseavisen bidra til å lage fest i et hett 6. divisjonsoppgjør. Der blir RBK-trener Kjetil Rekdal med som ekspert.",
+        "imageUrl": "53eac0f9-7666-42d7-89ab-29dec2117550",
+        "publishedAt": "2023-05-15T20:15:38Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "helgaadal",
+            "markabygda",
+            "breddefotbaill",
+            "breddefotball",
+            "lokalfotballen"
+        ]
+    },
+    {
+        "slug": "maal-lykke-for-saastad",
+        "url": "/lokalfotballen/i/gEB259/maal-lykke-for-saastad",
+        "title": {
+            "value": "Saastad bøttet inn mål for Malvik"
+        },
+        "description": "Selma Saastad sto fram med fire mål da Malvik vant 7-2 over Vestbyen i 3. divisjon, Trøndelag i fotball. Vestbyen har tapt tre strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T20:15:09Z",
+        "lastModifiedAt": "2023-05-15T20:27:59Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "knusende-seier-for-neset",
+        "url": "/lokalfotballen/i/rlbakK/knusende-seier-for-neset",
+        "title": {
+            "value": "Neset knuste Vuku 2/Leksdal 2"
+        },
+        "description": "Etter dagens 8-1-seier står Neset med full pott så langt i år.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T20:12:59Z",
+        "lastModifiedAt": "2023-05-15T20:29:10Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "bygg-brakker-til-rosenborg-skole-naa",
+        "url": "/meninger/i/y6bmbr/bygg-brakker-til-rosenborg-skole-naa",
+        "title": {
+            "value": "Bygg brakker til Rosenborg skole, nå!"
+        },
+        "description": null,
+        "imageUrl": "897673fc-55f8-448c-8aa8-c3ea4cd564a4",
+        "publishedAt": "2023-05-15T20:12:26Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "FAU v/Singsaker skole"
+        ],
+        "tags": [
+            "debatt",
+            "skole-og-utdanning",
+            "trondheim",
+            "skole-2",
+            "skolestart",
+            "ungdomsskolen",
+            "boligbygging",
+            "elev"
+        ]
+    },
+    {
+        "slug": "maalene-rant-inn-for-henden",
+        "url": "/lokalfotballen/i/VPpnWl/maalene-rant-inn-for-henden",
+        "title": {
+            "value": "Målene rant inn for Henden"
+        },
+        "description": "Sindre Hernes Henden scoret fire ganger og hjalp Levangerstudentene til 10-0-seier over Bangsund i 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T20:08:47Z",
+        "lastModifiedAt": "2023-05-15T20:22:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "nardo-slo-levanger-i-maalfest",
+        "url": "/lokalfotballen/i/eJXp9g/nardo-slo-levanger-i-maalfest",
+        "title": {
+            "value": "Norvik scoret to for Nardo"
+        },
+        "description": "Sara Norvik viste scoringsform da Nardo seiret 4-2 over Levanger i 3. divisjon, Trøndelag i fotball for kvinner mandag. Levanger har tapt de siste tre kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T20:07:32Z",
+        "lastModifiedAt": "2023-05-15T20:27:59Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "brakseier-for-beitstad",
+        "url": "/lokalfotballen/i/WR3Pwd/brakseier-for-beitstad",
+        "title": {
+            "value": "To fulltreffere fra Tangstad"
+        },
+        "description": "Med dagens 4-0-resultat har Beitstads tatt sin sjette strake seier. Det holder til full pott så langt i år. Joakim Lind Tangstad scoret to av målene.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T20:06:29Z",
+        "lastModifiedAt": "2023-05-15T20:29:09Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "nettsus-for-jule",
+        "url": "/lokalfotballen/i/wAboan/nettsus-for-jule",
+        "title": {
+            "value": "Nettsus for Jule"
+        },
+        "description": "Sindre Oslo Jule ledet an med to av målene i 3-0-seieren over Snåsa i 6. divisjon, Trøndelag - Avdeling 1 i fotball for menn. Snåsa har tapt to strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T20:06:28Z",
+        "lastModifiedAt": "2023-05-15T20:29:11Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "ranheim-seiret-borte-mot-steinkjer",
+        "url": "/lokalfotballen/i/76QaW3/ranheim-seiret-borte-mot-steinkjer",
+        "title": {
+            "value": "Ranheim med borteseier over Steinkjer"
+        },
+        "description": "Ranheim sikret alle poengene da Steinkjer ble slått 4-0 i G19 Elite, Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T20:05:19Z",
+        "lastModifiedAt": "2023-05-15T20:24:45Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "norah-bye-olsen-berget-poeng-for-orkla",
+        "url": "/lokalfotballen/i/q1bo5o/norah-bye-olsen-berget-poeng-for-orkla",
+        "title": {
+            "value": "Norah Bye Olsen reddet poeng for Orkla"
+        },
+        "description": "KIL/Hemne var på vei mot seier, men måtte nøye seg med 2-2 mot Orkla Det satte en stopper for Orklas seiersrekke på tre kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T19:51:56Z",
+        "lastModifiedAt": "2023-05-15T19:57:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    }
+]

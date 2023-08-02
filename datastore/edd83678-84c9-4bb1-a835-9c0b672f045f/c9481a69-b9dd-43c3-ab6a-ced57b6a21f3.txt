@@ -1,0 +1,199 @@
+[
+    {
+        "slug": "revdal-avgjorde-for-egge",
+        "url": "/lokalfotballen/i/69d1be/revdal-avgjorde-for-egge",
+        "title": {
+            "value": "Revdal senket Åfjord"
+        },
+        "description": "Arve Revdal sikret tre poeng for Egge da Åfjord ble slått 2-1 i 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-09T20:18:21Z",
+        "lastModifiedAt": "2023-06-09T20:26:31Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "to-fulltreffere-fra-stokke",
+        "url": "/lokalfotballen/i/VPLk76/to-fulltreffere-fra-stokke",
+        "title": {
+            "value": "Stokke scoret to for Vikvarvet"
+        },
+        "description": "Joar Stokke scoret begge målene for Vikvarvet og ble den store helten i 2-0-seieren over Helgådal i 6. divisjon, Trøndelag - Avdeling 2 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-09T19:29:42Z",
+        "lastModifiedAt": "2023-06-09T20:00:48Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "ranheim-2-snudde-til-seier-mot-nidelv",
+        "url": "/lokalfotballen/i/dwzPew/ranheim-2-snudde-til-seier-mot-nidelv",
+        "title": {
+            "value": "Ranheim 2 snudde til seier over Nidelv"
+        },
+        "description": "Ranheim 2 har tatt poeng i fem strake kamper etter dagens 4-1-seier",
+        "imageUrl": null,
+        "publishedAt": "2023-06-09T19:14:11Z",
+        "lastModifiedAt": "2023-06-09T19:30:45Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "vinne-snudde-til-seier-paa-tampen-over-innherred",
+        "url": "/lokalfotballen/i/JQGMyj/vinne-snudde-til-seier-paa-tampen-over-innherred",
+        "title": {
+            "value": "Vinne snudde til seier på tampen mot Innherred"
+        },
+        "description": "Vinne snudde til seier på tampen mot Innherred i 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn. Vinne har vunnet fire av sine fem siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-09T18:56:26Z",
+        "lastModifiedAt": "2023-06-09T19:56:33Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "petra-gausen-skjaeran-avgjorde-for-levanger-2-sverre-2-skogn-2",
+        "url": "/lokalfotballen/i/69d103/petra-gausen-skjaeran-avgjorde-for-levanger-2-sverre-2-skogn-2",
+        "title": {
+            "value": "Petra Gausen Skjæran ble helten for Levanger 2 / Sverre 2 / Skogn 2"
+        },
+        "description": "Petra Gausen Skjæran scoret det avgjørende målet for Levanger 2/Sverre 2/Skogn 2 i 2-1-seieren over Strindheim 2 på Tobb Arena Levanger i J17 2. divisjon, Avdeling 1 - Vår. Levanger 2/Sverre 2/Skogn 2 tok sin første seier denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-09T18:44:08Z",
+        "lastModifiedAt": "2023-06-09T19:00:34Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "svarer-paa-kritikken-slik-er-rekdals-rbk-plan",
+        "url": "/sport/fotball/i/xgy7bV/svarer-paa-kritikken-slik-er-rekdals-rbk-plan",
+        "title": {
+            "value": "Dette er Rekdals Rosenborg-plan"
+        },
+        "description": "Vi ba om et kvarter. Halvannen time senere var det Adressa som måtte avrunde taktikkmøtet med Kjetil Rekdal og Geir Frigård.",
+        "imageUrl": "5d7cfee3-b16c-4351-995a-d1a0389aee48",
+        "publishedAt": "2023-06-09T17:54:28Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "nils-arne-eggen",
+            "erik-hamren",
+            "kjetil-rekdal"
+        ]
+    },
+    {
+        "slug": "siste-fra-breddefotballen",
+        "url": "/sport/fotball/i/GMjXaq/siste-fra-breddefotballen",
+        "title": {
+            "value": "«The Voice-Terje» herjer på scenen – og i 6. divisjon"
+        },
+        "description": null,
+        "imageUrl": "d687ce09-dd7d-41c5-9742-724a7d6a99b3",
+        "publishedAt": "2023-03-24T14:51:36Z",
+        "lastModifiedAt": "2023-05-09T10:22:27Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "fotball",
+            "breddefotbaill",
+            "lokalfotballen",
+            "breddefotball"
+        ]
+    },
+    {
+        "slug": "klart-for-topp7-i-helga-det-kan-bli-fem-topper-hvis-jeg-har-en-god-dag",
+        "url": "/nyheter/trondheim/i/RGQ6jx/klart-for-topp7-i-helga-det-kan-bli-fem-topper-hvis-jeg-har-en-god-dag",
+        "title": {
+            "value": "Falt om på trening: - Svulsten var som en tennisball som var smurt utover"
+        },
+        "description": "Katarina Andreassen (32) er midtveis i strålebehandlingen som skal stagge hjernekreften. Søndag håper hun å klare fem av toppene i årets Topp7 i Bymarka.",
+        "imageUrl": "0292ada1-6c42-48f2-a249-4712fdc17105",
+        "publishedAt": "2023-06-09T11:03:46Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Hilde Skjesol"
+        ],
+        "tags": [
+            "trondhjems-turistforening",
+            "bymarka",
+            "kreftbehandling",
+            "st-olavs-hospital",
+            "kreft",
+            "topp7",
+            "kreftforeningen"
+        ]
+    },
+    {
+        "slug": "sverresborg-soerget-for-maalfest",
+        "url": "/lokalfotballen/i/gEKBwB/sverresborg-soerget-for-maalfest",
+        "title": {
+            "value": "Sverresborg sørget for målfest"
+        },
+        "description": "Sverresborg slo Ranheim 2 8-0 på Havstein kunstgress i G14 2. divisjon, Avdeling 3 - Vår. Sverresborg har vunnet fire av sine fem siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-09T10:26:19Z",
+        "lastModifiedAt": "2023-06-09T10:26:19Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "bil-skal-ha-kjoert-inn-i-mur-i-trondheim",
+        "url": "/nyhetsstudio/i/eJ0yQR/bil-skal-ha-kjoert-inn-i-mur-i-trondheim",
+        "title": {
+            "value": "- Har trolig tatt feil av gass og brems"
+        },
+        "description": "Politiet mistenker at føreren av bilen tok feil av gass og brems.",
+        "imageUrl": "b9814255-7cc0-460b-b2d7-ec9b026b6504",
+        "publishedAt": "2023-06-09T08:58:48Z",
+        "lastModifiedAt": "2023-06-09T12:58:06Z",
+        "premium": true,
+        "authors": [
+            "Kari-Anne Aarvåg",
+            "Karoline Ulvnes"
+        ],
+        "tags": []
+    }
+]

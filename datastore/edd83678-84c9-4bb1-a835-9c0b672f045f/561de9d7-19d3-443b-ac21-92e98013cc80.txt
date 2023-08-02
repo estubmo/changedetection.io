@@ -1,0 +1,203 @@
+[
+    {
+        "slug": "hun-ble-dagens-ivers-direkte-avgjoerende",
+        "url": "/sport/fotball/i/bg6W1k/hun-ble-dagens-ivers-direkte-avgjoerende",
+        "title": {
+            "value": "Hun ble Dagens Ivers: Direkte avgjørende"
+        },
+        "description": "Elin Sørum drev RBKs høyreside fremover. Og ble belønnet med både mål og målgivende.",
+        "imageUrl": "97f05cb0-0183-4e3a-a73a-55f1c789eb72",
+        "publishedAt": "2023-06-24T17:07:06Z",
+        "lastModifiedAt": "2023-06-24T17:07:08Z",
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "fotball",
+            "rosenborg-bk",
+            "norsk-fotball"
+        ]
+    },
+    {
+        "slug": "rynning-malvik-avgjorde-for-dolmoey",
+        "url": "/lokalfotballen/i/xgdymV/rynning-malvik-avgjorde-for-dolmoey",
+        "title": {
+            "value": "Rynning Malvik avgjorde for Dolmøy"
+        },
+        "description": "Isak Rynning Malvik ble matchvinner da Dolmøy slo Malvik/Hommelvik 2-1 i 5. divisjon, Trøndelag - Avdeling 2 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-24T16:29:43Z",
+        "lastModifiedAt": "2023-06-24T16:34:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "kaare-kritisk-vi-er-saa-feige",
+        "url": "/sport/fotball/i/veGyAp/kaare-kritisk-vi-er-saa-feige",
+        "title": {
+            "value": "Kåre stempler laget som feigt"
+        },
+        "description": "Ranheim-trener Kåre Ingebrigtsen var svært skuffet over det laget leverte i annenomgangen.",
+        "imageUrl": "495e8999-a916-401a-a024-bd3c0f598898",
+        "publishedAt": "2023-06-24T16:28:29Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "ranheim-tf",
+            "mjoendalen-if",
+            "obos-ligaen",
+            "kaare-ingebrigtsen",
+            "sebastian-tounekti",
+            "ruben-kristensen-alte"
+        ]
+    },
+    {
+        "slug": "hoestland-ble-tomaalshelt",
+        "url": "/lokalfotballen/i/76oJdw/hoestland-ble-tomaalshelt",
+        "title": {
+            "value": "Nettsus for Høstland"
+        },
+        "description": "Flatanger snudde 0-1 til 3-1-seier mot Heimdal i 4. divisjon, Trøndelag - Avdeling 1 i fotball for menn lørdag. Ola Kristian Dahle Høstland scoret to mål. Det stanset Flatangers tapsrekke på tre kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-24T16:10:34Z",
+        "lastModifiedAt": "2023-06-24T16:34:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "hjemmeseier-for-namsos-over-laanke",
+        "url": "/lokalfotballen/i/0QqO46/hjemmeseier-for-namsos-over-laanke",
+        "title": {
+            "value": "Namsos seiret hjemme mot Lånke"
+        },
+        "description": "Namsos tok sine første poeng på seks kamper da Lånke ble slått 3-0 i 4. divisjon, Trøndelag - Avdeling 1 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-24T15:59:22Z",
+        "lastModifiedAt": "2023-06-24T16:34:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "aune-ble-tomaalshelt-mot-steinkjer",
+        "url": "/lokalfotballen/i/onxPL0/aune-ble-tomaalshelt-mot-steinkjer",
+        "title": {
+            "value": "Dobbel fra Aune for Trønder-Lyn"
+        },
+        "description": "Anton Aune scoret to ganger da Trønder-Lyn vant 4-1 over Steinkjer i 3. divisjon, Avdeling 5 i fotball lørdag. Steinkjer har tapt to strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-24T15:03:28Z",
+        "lastModifiedAt": "2023-06-24T15:35:50Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "mosjoeen-seier-over-nardo",
+        "url": "/lokalfotballen/i/76oJnK/mosjoeen-seier-over-nardo",
+        "title": {
+            "value": "Hjemmeseier for Mosjøen over Nardo"
+        },
+        "description": "Nardo ga fra seg poeng for første gang på tre kamper da Mosjøen vant 3-1 i 3. divisjon, Avdeling 5 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-24T14:57:20Z",
+        "lastModifiedAt": "2023-06-24T17:05:14Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "kalddusj-for-kaare-paa-overtid-tapte-mot-mjoendalen",
+        "url": "/sport/fotball/i/JQXM4P/kalddusj-for-kaare-paa-overtid-tapte-mot-mjoendalen",
+        "title": {
+            "value": "Skistjernens lillebror senket Kåres Ranheim: – Deilig"
+        },
+        "description": "Erik Stavås Skistad og Mjøndalen sikret seieren sekunder før slutt.",
+        "imageUrl": "38968bb0-02ed-4711-9d1e-66f53fb27ff4",
+        "publishedAt": "2023-06-24T14:52:56Z",
+        "lastModifiedAt": "2023-06-24T15:39:42Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "ranheim-tf",
+            "obos-ligaen",
+            "mjoendalen-if"
+        ]
+    },
+    {
+        "slug": "to-maal-paa-to-minutter-rosenborg-med-ny-hjemmeseier",
+        "url": "/sport/fotball/i/wAkXB1/to-maal-paa-to-minutter-rosenborg-med-ny-hjemmeseier",
+        "title": {
+            "value": "Rakk ikke avskjeds­kampen: - Prøvd alt jeg kan"
+        },
+        "description": "Men fra sidelinjen fikk Synne Skinnes Hansen se at Celine Nergård og Rosenborg hadde full kontroll på Åsane.",
+        "imageUrl": "d09117eb-af53-499f-9398-461896f7cd37",
+        "publishedAt": "2023-06-24T14:51:15Z",
+        "lastModifiedAt": "2023-06-24T16:42:43Z",
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "fotball",
+            "toppserien"
+        ]
+    },
+    {
+        "slug": "ukas-laatanbefalinger-her-er-det-bare-aa-faa-paa-seg-fotballskjorta",
+        "url": "/kultur/i/abkAgd/ukas-laatanbefalinger-her-er-det-bare-aa-faa-paa-seg-fotballskjorta",
+        "title": {
+            "value": "Vi hadde Astrid S fra før – nå er det hennes tur"
+        },
+        "description": "En fotballklubb som tar over dansegulvet og en spennende coverlåt er bare noen av musikkens godbiter fra den siste uka.",
+        "imageUrl": "2b9dc053-f6a7-47a3-9f5d-5a568dfcb5ae",
+        "publishedAt": "2023-06-24T14:36:37Z",
+        "lastModifiedAt": "2023-06-24T14:38:06Z",
+        "premium": true,
+        "authors": [
+            "Kristina Bye"
+        ],
+        "tags": [
+            "musikkanmeldelse",
+            "magnus-boermark",
+            "musikk",
+            "steinkjerfestivalen",
+            "stargate"
+        ]
+    }
+]

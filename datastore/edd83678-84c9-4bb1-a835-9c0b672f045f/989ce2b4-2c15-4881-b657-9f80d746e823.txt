@@ -1,0 +1,189 @@
+[
+    {
+        "slug": "ntnui-2-snudde-til-seier-over-selbu",
+        "url": "/lokalfotballen/i/P4mlPp/ntnui-2-snudde-til-seier-over-selbu",
+        "title": {
+            "value": "NTNUI 2 snudde til seier over Selbu"
+        },
+        "description": "NTNUI 2 snudde 0-1 til 3-1 mot Selbu i 4. divisjon, Trøndelag - Avdeling 2 i fotball for kvinner. NTNUI 2 har vunnet fire av sine fem siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-30T20:28:08Z",
+        "lastModifiedAt": "2023-05-30T20:28:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "bakken-ble-tomaalshelt",
+        "url": "/lokalfotballen/i/Kn1x6E/bakken-ble-tomaalshelt",
+        "title": {
+            "value": "Bakken ble tomålshelt"
+        },
+        "description": "Rørvik gikk på sitt fjerde tap på rad da klubben tapte 1-4 for Namsos i 4. divisjon, Trøndelag - Avdeling 1 i fotball. Emilie Sørensen Bakken scoret to mål.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-30T20:26:05Z",
+        "lastModifiedAt": "2023-05-30T20:26:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ranheim-tok-sin-sjette-strake-seier",
+        "url": "/lokalfotballen/i/jlXyOn/ranheim-tok-sin-sjette-strake-seier",
+        "title": {
+            "value": "Ranheim tok sin sjette strake seier"
+        },
+        "description": "Ranheim slo Strindheim 9-1 og tok sin sjette seier på rad i J17 1. divisjon, Avdeling 2 - Vår tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-30T20:20:57Z",
+        "lastModifiedAt": "2023-05-30T20:20:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "tangmoen-2-seiret-hjemme-mot-sverre",
+        "url": "/lokalfotballen/i/dwPWJB/tangmoen-2-seiret-hjemme-mot-sverre",
+        "title": {
+            "value": "Tangmoen 2 seiret hjemme mot Sverre"
+        },
+        "description": "Tangmoen 2 knuste Sverre 3-0 i 6. divisjon, Trøndelag - Avdeling 2 i fotball for menn tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-30T20:14:10Z",
+        "lastModifiedAt": "2023-05-30T20:14:10Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "uavgjort-for-melhus-2-og-kil-hemne-3",
+        "url": "/lokalfotballen/i/EQ5Pl3/uavgjort-for-melhus-2-og-kil-hemne-3",
+        "title": {
+            "value": "Uavgjort på Gruva Nedre"
+        },
+        "description": "Melhus 2 og KIL/Hemne 3 måtte nøye seg med ett poeng hver i 6. divisjon, Trøndelag - Avdeling 4 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-30T20:07:35Z",
+        "lastModifiedAt": "2023-05-30T20:13:06Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "midtsjoe-ble-seriemester-med-galatasaray",
+        "url": "/sport/i/Kn1x84/midtsjoe-ble-seriemester-med-galatasaray",
+        "title": {
+            "value": "Midtsjø ble seriemester"
+        },
+        "description": "Fredrik Midtsjø og Galatasaray kunne tirsdag juble for ligatittelen i tyrkisk fotball etter 4-1 over Ankaragücü.",
+        "imageUrl": "648d69b1-9c17-49df-adb4-5ba757478547",
+        "publishedAt": "2023-05-30T20:01:39Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "hjemmeseier-for-byaasen-over-ranheim",
+        "url": "/lokalfotballen/i/3EQ89X/hjemmeseier-for-byaasen-over-ranheim",
+        "title": {
+            "value": "Byåsen med hjemmeseier over Ranheim"
+        },
+        "description": "Ranheim gikk på sitt første nederlag for sesongen etter dagens 1-2-tap mot Byåsen i J13 1. divisjon, Avdeling 2 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-30T19:17:18Z",
+        "lastModifiedAt": "2023-05-30T19:34:51Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "freidig-2-seiret-over-tiller-2",
+        "url": "/lokalfotballen/i/Q7O6oQ/freidig-2-seiret-over-tiller-2",
+        "title": {
+            "value": "Freidig 2-seier over Tiller 2"
+        },
+        "description": "Freidig 2 fikk med seg tre poeng da Tiller 2 ble slått 6-1 hjemme i G13 2. divisjon, Avdeling 4 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-30T19:10:00Z",
+        "lastModifiedAt": "2023-05-30T19:34:52Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "freidig-2-reddet-uavgjort",
+        "url": "/lokalfotballen/i/q1X4Go/freidig-2-reddet-uavgjort",
+        "title": {
+            "value": "Freidig 2 ordnet uavgjort"
+        },
+        "description": "Strindheim 3 har spilt uavgjort i tre kamper på rad etter dagens 3-3 kamp",
+        "imageUrl": null,
+        "publishedAt": "2023-05-30T18:17:22Z",
+        "lastModifiedAt": "2023-05-30T18:35:18Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "nyoperert-holse-gikk-rett-i-elleveren-oensker-aa-bli-vaerende-i-klubben",
+        "url": "/sport/fotball/i/onBbRV/nyoperert-holse-gikk-rett-i-elleveren-oensker-aa-bli-vaerende-i-klubben",
+        "title": {
+            "value": "Ønsker å bli i RBK"
+        },
+        "description": "Fire uker etter hasteoperasjonen er RBKs assistkonge tilbake på banen.",
+        "imageUrl": "6f625eeb-7953-462b-8b65-bd27e2051f01",
+        "publishedAt": "2023-05-30T16:56:24Z",
+        "lastModifiedAt": "2023-05-30T16:58:11Z",
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "fotball",
+            "sport",
+            "kjetil-rekdal",
+            "carlo-holse",
+            "rosenborg-bk"
+        ]
+    }
+]

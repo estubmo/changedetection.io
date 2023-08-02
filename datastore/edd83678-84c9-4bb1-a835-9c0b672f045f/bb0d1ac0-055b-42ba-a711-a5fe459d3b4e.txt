@@ -1,0 +1,196 @@
+[
+    {
+        "slug": "gauldal-seier-over-ranheim-2",
+        "url": "/lokalfotballen/i/xgbwoB/gauldal-seier-over-ranheim-2",
+        "title": {
+            "value": "Gauldal-seier over Ranheim 2"
+        },
+        "description": "Gauldal vant 3-0 over Ranheim 2 i G14 2. divisjon, Avdeling 3 - Vår onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-10T18:38:29Z",
+        "lastModifiedAt": "2023-05-10T18:38:29Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "borteseier-for-trygg-lade-over-gimse-2-melhus-2",
+        "url": "/lokalfotballen/i/4o0Xw6/borteseier-for-trygg-lade-over-gimse-2-melhus-2",
+        "title": {
+            "value": "Trygg/Lade-seier over Gimse 2/Melhus 2"
+        },
+        "description": "Trygg/Lade slo Gimse 2/Melhus 2 3-0 borte i G14 2. divisjon, Avdeling 3 - Vår onsdag. Trygg/Lade tok sin første seier denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-10T18:18:45Z",
+        "lastModifiedAt": "2023-05-10T18:32:55Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "froeya-il-2-9er-kunne-juble-etter-toppkampen",
+        "url": "/lokalfotballen/i/abpyEd/froeya-il-2-9er-kunne-juble-etter-toppkampen",
+        "title": {
+            "value": "Frøya IL 2 9er kunne juble etter toppkampen"
+        },
+        "description": "Oliver Grøttan scoret det avgjørende målet for Frøya IL 2 9er i 2-1-seieren over Orkla 2 9er på Orkla Kunstgress i G14 9er, Avdeling 3 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-10T17:59:09Z",
+        "lastModifiedAt": "2023-05-10T18:32:55Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    },
+    {
+        "slug": "kommunen-stiller-krav-til-rbks-gulltomt-noe-vi-absolutt-ikke-oensker-svarer-klubben",
+        "url": "/sport/fotball/i/69Kl93/kommunen-stiller-krav-til-rbks-gulltomt-noe-vi-absolutt-ikke-oensker-svarer-klubben",
+        "title": {
+            "value": "Kommunen stiller krav til RBKs gulltomt: – Noe vi absolutt ikke ønsker, svarer klubben"
+        },
+        "description": "For at RBK skal få gjennom sitt ønske om å bygge i gamle Klokkesvingen, mener kommunen at hele Nils Arne Eggens plass må gjøres om til grøntareal. Det er klubben imot.",
+        "imageUrl": "f0eb2f85-a0e7-4e17-9894-73cc9d83b415",
+        "publishedAt": "2023-05-10T17:44:37Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "ranheim-soerget-for-maalfest",
+        "url": "/lokalfotballen/i/wAb0Ln/ranheim-soerget-for-maalfest",
+        "title": {
+            "value": "Ranheim sørget for målfest"
+        },
+        "description": "Ranheim fikk med seg alle poengene da Inderøy ble slått 8-0 i G13 1. divisjon, Avdeling 2 - Vår onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-10T17:35:21Z",
+        "lastModifiedAt": "2023-05-10T17:59:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "etter-60-aar-kan-de-endelig-vise-frem-pokalen",
+        "url": "/kultur/i/Q7q5rq/etter-60-aar-kan-de-endelig-vise-frem-pokalen",
+        "title": {
+            "value": "– Var nest best i Norden, men bare tredje best i Trondheim"
+        },
+        "description": "I 1964 var denne gjengen Nordens nest beste popband.",
+        "imageUrl": "0dbe6a26-2a8c-4c07-bd7d-cb6002e33937",
+        "publishedAt": "2023-05-10T17:04:43Z",
+        "lastModifiedAt": "2023-05-10T17:04:43Z",
+        "premium": true,
+        "authors": [
+            "Ole Jacob Hoel"
+        ],
+        "tags": [
+            "rockheim",
+            "trondheim",
+            "rockhistorie"
+        ]
+    },
+    {
+        "slug": "rbk-legenden-skal-du-virkelig-ikke-faa-det-til-kjetil",
+        "url": "/sport/fotball/i/RGqEnO/rbk-legenden-skal-du-virkelig-ikke-faa-det-til-kjetil",
+        "title": {
+            "value": "RBK-legenden: - Skal du virkelig ikke få det til, Kjetil?"
+        },
+        "description": "RBK-legende Mini Jakobsen og Adressa-ekspert Michael Karlsen er på plass hos Rasmus&Saga.",
+        "imageUrl": "93f9ba40-71e9-4a0f-84a6-28baae97bd44",
+        "publishedAt": "2023-05-10T16:40:55Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rasmus-saga"
+        ]
+    },
+    {
+        "slug": "rbk-stjernen-maatte-hasteopereres-helt-syke-smerter",
+        "url": "/sport/fotball/i/5Bwyam/rbk-stjernen-maatte-hasteopereres-helt-syke-smerter",
+        "title": {
+            "value": "Måtte hasteopereres: - Helt syke smerter"
+        },
+        "description": "Carlo Holse har ofte magesmerter på kampdag. Men denne gangen var det mye verre enn noen gang.",
+        "imageUrl": "a94dde7b-a665-4a52-bc77-afd857f17f3a",
+        "publishedAt": "2023-05-10T15:21:28Z",
+        "lastModifiedAt": "2023-05-10T15:29:32Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand",
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "carlo-holse",
+            "fotball"
+        ]
+    },
+    {
+        "slug": "nye-keepertalent-gror-i-familien-og-espen-sender-gjerne-soennen-til-rbk",
+        "url": "/sport/fotball/i/dwbbPq/nye-keepertalent-gror-i-familien-og-espen-sender-gjerne-soennen-til-rbk",
+        "title": {
+            "value": "Nye keepertalent gror i familien, og Espen sender gjerne sønnen til RBK"
+        },
+        "description": "Espen Johnsen har byttet keeperhanskene med skalpell.",
+        "imageUrl": "f8e39e1e-2aee-45b3-8e25-17aa005953d8",
+        "publishedAt": "2023-05-10T13:08:40Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "rasmus-saga"
+        ]
+    },
+    {
+        "slug": "saeter-mister-glimt-kampen",
+        "url": "/sport/fotball/i/kEbedj/saeter-mister-glimt-kampen",
+        "title": {
+            "value": "Mister Glimt-kampen"
+        },
+        "description": "Ole Sæters comeback lar vente på seg.",
+        "imageUrl": "582ae73c-9ad2-4b96-aff4-d3e660bd7a29",
+        "publishedAt": "2023-05-10T11:56:58Z",
+        "lastModifiedAt": "2023-05-10T12:17:11Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand",
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "ole-saeter-2",
+            "eliteserien",
+            "kjetil-rekdal"
+        ]
+    }
+]

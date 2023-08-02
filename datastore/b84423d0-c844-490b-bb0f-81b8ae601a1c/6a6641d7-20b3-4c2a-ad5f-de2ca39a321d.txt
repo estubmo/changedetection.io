@@ -1,0 +1,358 @@
+[
+    {
+        "authors": [
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "KnXk3X",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/KnXk3X",
+        "preamble": "STAVANGER (VG)(Viking – Brann 3–1) Brann hadde ikke sluppet inn tre mål så langt i opprykkssesongen. Høytflyvende bergensere hadde heller ikke tapt på halvannen måned. Det var før de kom på besøk til Stavanger.",
+        "published": {
+            "date": "lørdag 24. juni",
+            "datetime": "2023-06-24 19:51:39",
+            "niceformat": "24.06.2023, 19:51",
+            "timestamp": "2023-06-24T17:51:39.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/179cac89-2c3d-4df3-86c4-31ea75bfd543?fit=crop&format=auto&h=267&w=400&s=cd663e1fa90bdbf386d369514a7fdc553088fa1c",
+            "width": 400
+        },
+        "title": "Viking sendte fansen til himmels og satte Brann kraftig på plass",
+        "url": "https://www.vg.no/sport/fotball/i/KnXk3X/viking-sendte-fansen-til-himmels-og-satte-brann-kraftig-paa-plass"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4XwPb",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4XwPb",
+        "preamble": "Tidligere Coventry- og Wolverhampton-spiller Cedric Roussel er død, 45 år gammel.",
+        "published": {
+            "date": "lørdag 24. juni",
+            "datetime": "2023-06-24 19:44:49",
+            "niceformat": "24.06.2023, 19:44",
+            "timestamp": "2023-06-24T17:44:49.000Z"
+        },
+        "thumbnail": {
+            "height": 289,
+            "url": "https://akamai.vgc.no/v2/images/3c2217c2-8fc9-4265-9c50-c1ceedf4ef98?fit=crop&format=auto&h=289&w=400&s=1bc8afc089bbe3bb87f3d007b14095cefbcde243",
+            "width": 400
+        },
+        "title": "Tidligere Premier League-spiller Cedric Roussel (45) er død",
+        "url": "https://www.vg.no/sport/fotball/i/P4XwPb/tidligere-premier-league-spiller-doede-45-aar-gammel"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q7XKJx",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q7XKJx",
+        "preamble": "Etter flere måneder på sidelinjen er Rosenborgs Ole Sæter endelig klar for comeback. Spissen gleder seg til å spille under den nye treneren Svein Maalen.",
+        "published": {
+            "date": "lørdag 24. juni",
+            "datetime": "2023-06-24 18:56:25",
+            "niceformat": "24.06.2023, 18:56",
+            "timestamp": "2023-06-24T16:56:25.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6bbdbb77-a0d8-412c-99b4-f55842bd45d1?fit=crop&format=auto&h=267&w=400&s=b89258a364c761dc0b21722a2481c176f1147e4f",
+            "width": 400
+        },
+        "title": "Sæter melder seg kampklar: – Jeg gleder meg veldig",
+        "url": "https://www.vg.no/sport/fotball/i/Q7XKJx/eliteserien-rosenborg-spiller-ole-saeter-melder-seg-kampklar-foer-moetet-med-sarpsborg-08-jeg-gleder-meg-veldig"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WRXWOK",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WRXWOK",
+        "preamble": "Forsvarsspilleren Quint Jansen forlater Mjøndalen til fordel for spill i den kypriotiske klubben Othellos Athienou.",
+        "published": {
+            "date": "lørdag 24. juni",
+            "datetime": "2023-06-24 17:45:04",
+            "niceformat": "24.06.2023, 17:45",
+            "timestamp": "2023-06-24T15:45:04.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a371f832-179d-4b26-8f7c-602a3b156add?fit=crop&format=auto&h=267&w=400&s=85dd1077caecf5ef030922d8c3baf7c3c409d918",
+            "width": 400
+        },
+        "title": "Mjøndalen-spiller klar for kypriotisk fotball",
+        "url": "https://www.vg.no/sport/fotball/i/WRXWOK/mjoendalen-spiller-klar-for-kypriotisk-fotball"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gExKaA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gExKaA",
+        "preamble": "(Ranheim - Mjøndalen 2-3, Hødd - Bryne 0–1)Erik Stavås Skistad scoret to ganger, det siste målet på overtid, da Mjøndalen påførte opprykksjagende Ranheim et blytungt 2-3-tap i 1. divisjon fotball lørdag.",
+        "published": {
+            "date": "lørdag 24. juni",
+            "datetime": "2023-06-24 17:03:01",
+            "niceformat": "24.06.2023, 17:03",
+            "timestamp": "2023-06-24T15:03:01.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/61ef60ea-346f-4b4c-91fd-f89127c30213?fit=crop&format=auto&h=267&w=400&s=8e029068002523eccad160b09a43e5c09ce60f38",
+            "width": 400
+        },
+        "title": "Stavås Skistad ble Mjøndalen-helt – påførte «Brutter'n» og Ranheim tungt tap",
+        "url": "https://www.vg.no/sport/fotball/i/gExKaA/stavaas-skistad-ble-mjoendalen-helt-paafoerte-brutter-n-og-ranheim-tungt-tap"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69e1bL",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69e1bL",
+        "preamble": "(Avaldsnes – Arna-Bjørnar 2–4, Brann – LSK Kvinner 0–2, Rosenborg – Åsane 2-0, Stabæk – Lyn 2–1, Røa – Vålerenga 2–2) Avaldsnes ble skjøvet ned på sisteplass i Toppserien etter at de tapte 2–4 i det viktige bunnoppgjøret mot Arna-Bjørnar lørdag ettermiddag.",
+        "published": {
+            "date": "lørdag 24. juni",
+            "datetime": "2023-06-24 16:50:16",
+            "niceformat": "24.06.2023, 16:50",
+            "timestamp": "2023-06-24T14:50:16.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/TWto8RNKV_to.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Riises Avaldsnes sist etter stortap: – Årets dårligste kamp",
+        "url": "https://www.vg.no/sport/fotball/i/69e1bL/riises-avaldsnes-paa-sisteplass-etter-stortap-mot-arna-bjoernar"
+    },
+    {
+        "authors": [
+            {
+                "email": "per.opsahl@vg.no",
+                "id": "a8b54406-d047-4b1c-90e2-f9f77a0e7317",
+                "name": "Per Opsahl"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Xb3epb",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Xb3epb",
+        "preamble": "Etter en fantastisk vårsesong er en rekke Brann-spillere brennhete på overgangsmarkedet.",
+        "published": {
+            "date": "lørdag 24. juni",
+            "datetime": "2023-06-24 11:26:25",
+            "niceformat": "24.06.2023, 11:26",
+            "timestamp": "2023-06-24T09:26:25.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/1b26eaba-e716-478f-ae22-21578a030fcb?fit=crop&format=auto&h=267&w=400&s=9c1625a951c8e6454007b2e973ba7c1f16557211",
+            "width": 400
+        },
+        "title": "Frykter at Brann-laget rakner: – Vil være katastrofe",
+        "url": "https://www.vg.no/sport/fotball/i/Xb3epb/frykter-at-brann-selger-for-mange-profiler-i-sommer"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.magnussen@vg.no",
+                "id": "c2719103-4ea1-4707-a00b-f29f023b60e1",
+                "name": "Jostein Magnussen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q7XOMQ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q7XOMQ",
+        "preamble": "Det er ikke få tidligere fotballhelter som samles på Stamford Bridge i London for å bidra til innsamlingen av penger til gjenoppbyggingen i Ukraina.",
+        "published": {
+            "date": "lørdag 24. juni",
+            "datetime": "2023-06-24 09:45:19",
+            "niceformat": "24.06.2023, 09:45",
+            "timestamp": "2023-06-24T07:45:19.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/1886a161-edc2-410a-a605-eb2442a0447b?fit=crop&format=auto&h=267&w=400&s=ad55fca1e08758a4c4b24a90ee6d77aeb9aecf6f",
+            "width": 400
+        },
+        "title": "John Arne Riise med på stjernelag for Ukraina",
+        "url": "https://www.vg.no/sport/fotball/i/Q7XOMQ/john-arne-riise-med-paa-stjernelag-for-ukraina"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69eqpQ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69eqpQ",
+        "preamble": "Terje Liverød mener investor Tor Olav Trøim var med å sette sportslige kriterier i spissjakten i 2018. Og at det forteller mye om hvorfor Vålerenga sliter i dag.",
+        "published": {
+            "date": "lørdag 24. juni",
+            "datetime": "2023-06-24 08:26:39",
+            "niceformat": "24.06.2023, 08:26",
+            "timestamp": "2023-06-24T06:26:39.000Z"
+        },
+        "thumbnail": {
+            "height": 260,
+            "url": "https://akamai.vgc.no/v2/images/9217d71c-cfc4-4f49-b684-5a44fe359efa?fit=crop&format=auto&h=260&w=400&s=0bc4a4f99caf1476d6e72811c91d15918228cf0a",
+            "width": 400
+        },
+        "title": "Ville ha spiss med wow-effekt til Vålerenga: – Tragikomisk",
+        "url": "https://www.vg.no/sport/fotball/i/69eqpQ/tor-olav-troeim-og-erik-espeseth-paa-spissjakt-for-vaalerenga-ville-ha-spiller-med-wow-effekt"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5BeL4W",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5BeL4W",
+        "preamble": "Hylende barn, utsolgte kebaber og strengt vakthold. Sikkerhetssjefen kan ikke huske lignende tilstander rundt en norsk idrettsprofil. ",
+        "published": {
+            "date": "fredag 23. juni",
+            "datetime": "2023-06-23 21:42:03",
+            "niceformat": "23.06.2023, 21:42",
+            "timestamp": "2023-06-23T19:42:03.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/3d70cc87-dd79-4af2-964e-df281b0ff4c2?fit=crop&format=auto&h=267&w=400&s=46187a3ff9c2790ba3738827a467e0a07f7ecb5d",
+            "width": 400
+        },
+        "title": "Haaland-feber: – Tror ikke vi har opplevd lignende ",
+        "url": "https://www.vg.no/sport/fotball/i/5BeL4W/haaland-feber-tror-ikke-vi-har-opplevd-lignende"
+    }
+]

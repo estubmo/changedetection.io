@@ -1,0 +1,358 @@
+[
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9zMnK9",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9zMnK9",
+        "preamble": "Leicester ligger to poeng fra trygg grunn i Premier League og nedrykksspøkelset henger over King Power Stadium. Klubbhelten Jamie Vardy mener at å unngå nedrykk vil være større enn ligagullet i 2016.",
+        "published": {
+            "date": "torsdag 11. mai",
+            "datetime": "2023-05-11 10:59:32",
+            "niceformat": "11.05.2023, 10:59",
+            "timestamp": "2023-05-11T08:59:32.000Z"
+        },
+        "thumbnail": {
+            "height": 250,
+            "url": "https://akamai.vgc.no/v2/images/8687b6dc-fba6-4719-bd86-95015d7e7110?fit=crop&format=auto&h=250&w=400&s=a0a5e23d5beba8987f4f9142559da7b0d1e59aa1",
+            "width": 400
+        },
+        "title": "Vardy om nedrykkstrusselen: – Det smerter meg veldig",
+        "url": "https://www.vg.no/sport/fotball/i/9zMnK9/jamie-vardy-mener-at-aa-redde-leicester-fra-nedrykk-vil-vaere-karrierens-stoerste-prestasjon"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WRe51d",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WRe51d",
+        "preamble": "EU-kommisjonens vedtak om forbud mot salg av gummigranulat legger press på Norges Fotballforbund i jakten på en løsning. Norske forhold og manglende erfaring skaper utfordringer – også for forbundets millionsatsing.",
+        "published": {
+            "date": "torsdag 11. mai",
+            "datetime": "2023-05-11 08:15:40",
+            "niceformat": "11.05.2023, 08:15",
+            "timestamp": "2023-05-11T06:15:40.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/17f0c64c-382c-4ed0-a29e-3222cf72a15f?fit=crop&format=auto&h=267&w=400&s=f01c0dac7da186878b58e529e502d9f084672535",
+            "width": 400
+        },
+        "title": "Kunstgress-vedtak legger press på NFF: – Feilsteg blir kritisk",
+        "url": "https://www.vg.no/sport/fotball/i/WRe51d/kunstgress-vedtak-legger-press-paa-nff-feilsteg-blir-kritisk"
+    },
+    {
+        "authors": [
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9zMM35",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9zMM35",
+        "preamble": "(AC Milan–Inter 0–2) Milans midtstopper Fikayo Tomori (25) sliter med å forklare den katastrofale åpningen på semifinale-derbyet mot Inter.",
+        "published": {
+            "date": "torsdag 11. mai",
+            "datetime": "2023-05-11 04:25:56",
+            "niceformat": "11.05.2023, 04:25",
+            "timestamp": "2023-05-11T02:25:56.000Z"
+        },
+        "thumbnail": {
+            "height": 254,
+            "url": "https://akamai.vgc.no/v2/images/767e09b2-dcaa-48e0-9739-b8f58671e808?fit=crop&format=auto&h=254&w=400&s=893be92d5786d36c412ca5a7da63621f183bd30f",
+            "width": 400
+        },
+        "title": "Milan-kollapsen: – Det var et snev av angst i laget ",
+        "url": "https://www.vg.no/sport/fotball/i/9zMM35/milan-kollapsen-det-var-et-snev-av-angst-i-laget"
+    },
+    {
+        "authors": [
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            },
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4o0X2G",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4o0X2G",
+        "preamble": "(AC Milan–Inter 0–2) To «gamle» menn sørget for at Inter fikk en pangstart i den første semifinalen i Champions League. ",
+        "published": {
+            "date": "onsdag 10. mai",
+            "datetime": "2023-05-10 22:56:11",
+            "niceformat": "10.05.2023, 22:56",
+            "timestamp": "2023-05-10T20:56:11.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/15b7773c-c079-4932-9fb8-4deb4b6e4f85?fit=crop&format=auto&h=267&w=400&s=cbb7f30503940ba809ef49463adf4330f8ba0106",
+            "width": 400
+        },
+        "title": "Inter rystet naboen med sjokkstart: Lekte seg til seier i den første semifinalen ",
+        "url": "https://www.vg.no/sport/fotball/i/4o0X2G/inter-slo-ac-milan-i-den-foerste-semifinalen-i-champions-league"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5BwO9m",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5BwO9m",
+        "preamble": "(Brighton – Arsenal 0–4, Chelsea – Leicester 6–0) London-klubbene herjet med bunnlagene. Delaktig i de respektive storseirene var Frida Maanum og Guro Reiten.",
+        "published": {
+            "date": "onsdag 10. mai",
+            "datetime": "2023-05-10 22:27:50",
+            "niceformat": "10.05.2023, 22:27",
+            "timestamp": "2023-05-10T20:27:50.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/cYJVFu5OwOlX.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Nordmennene leker på britisk jord – Maanum og Reiten på scoringslisten",
+        "url": "https://www.vg.no/sport/fotball/i/5BwO9m/nordmennene-leker-seg-paa-britisk-jord-maanum-og-reiten-scoret"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "2BJX2q",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/2BJX2q",
+        "preamble": "Thea Bjelde tuppet inn målet som ga Vålerenga 2-1 hjemme mot bynabo Røa i Toppserien onsdag. Ligalederen er ubeseiret og har vunnet sju av ni kamper.",
+        "published": {
+            "date": "onsdag 10. mai",
+            "datetime": "2023-05-10 21:07:22",
+            "niceformat": "10.05.2023, 21:07",
+            "timestamp": "2023-05-10T19:07:22.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/97396456-ce72-4455-a6fd-0d98d64d641c?fit=crop&format=auto&h=267&w=400&s=2dcf63860550f84dc6437af9329c46d4a3831d0c",
+            "width": 400
+        },
+        "title": "Vålerenga snudde til derbyseier – økte luken i Toppserien",
+        "url": "https://www.vg.no/sport/fotball/i/2BJX2q/vaalerenga-snudde-til-derbyseier-oekte-luken-i-toppserien"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEbQz5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEbQz5",
+        "preamble": "Marius Bøe får igjen ansvaret som Aalesunds vikartrener i bortekampen mot Stabæk i Eliteserien lørdag. Klubben fortsetter jakten på Lars Arne Nilsens erstatter.",
+        "published": {
+            "date": "onsdag 10. mai",
+            "datetime": "2023-05-10 18:55:04",
+            "niceformat": "10.05.2023, 18:55",
+            "timestamp": "2023-05-10T16:55:04.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/e08cd162-516b-4c3f-bef9-1ff7ffcd6a7a?fit=crop&format=auto&h=267&w=400&s=8624ad653354e09fd3594bbfa834c677641bdb5b",
+            "width": 400
+        },
+        "title": "Bøe leder AaFK også mot Stabæk",
+        "url": "https://www.vg.no/sport/fotball/i/zEbQz5/boee-leder-aafk-ogsaa-mot-stabaek"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB-Reuters"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPpedW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPpedW",
+        "preamble": "José Mourinho (60) lo bort all snakk om trenerjobben i Paris Saint-Germain dagen før Roma spiller semifinale i europaligaen.",
+        "published": {
+            "date": "onsdag 10. mai",
+            "datetime": "2023-05-10 18:00:32",
+            "niceformat": "10.05.2023, 18:00",
+            "timestamp": "2023-05-10T16:00:32.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/7693b2d3-ff81-4178-b557-cc0d5f416ebc?fit=crop&format=auto&h=267&w=400&s=8c4cfe651dcde437b05334e7827e0a00372ee78f",
+            "width": 400
+        },
+        "title": "Mourinho avviser PSG-rykter",
+        "url": "https://www.vg.no/sport/fotball/i/VPpedW/mourinho-avviser-psg-rykter"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEBRX9",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEBRX9",
+        "preamble": "Det danske stortalentet Albert Grønbæk (21) har undertegnet en kontraktsforlengelse som gjør ham til Bodø/Glimt-spiller ut 2027-sesongen.",
+        "published": {
+            "date": "onsdag 10. mai",
+            "datetime": "2023-05-10 15:30:52",
+            "niceformat": "10.05.2023, 15:30",
+            "timestamp": "2023-05-10T13:30:52.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ca34745c-5c35-434b-a2bf-2259140a0895?fit=crop&format=auto&h=267&w=400&s=658a3e5951b819b98c7d21885af72d78a5a15586",
+            "width": 400
+        },
+        "title": "Juvelen Albert Grønbæk sikret seg ny kontrakt med Bodø/Glimt – forlenget ut 2027",
+        "url": "https://www.vg.no/sport/fotball/i/gEBRX9/juvelen-albert-groenbaek-sikret-seg-ny-kontrakt-med-bodoe-glimt-forlenget-ut-2027"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3beRe",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3beRe",
+        "preamble": "Det er fortsatt for tidlig å slå fast når Rosenborg-spissen Ole Sæter er spilleklar igjen. Det blir ikke til helgens bortekamp mot Bodø/Glimt.",
+        "published": {
+            "date": "onsdag 10. mai",
+            "datetime": "2023-05-10 14:24:20",
+            "niceformat": "10.05.2023, 14:24",
+            "timestamp": "2023-05-10T12:24:20.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/3e4cfb6e-316f-4c0f-a4cc-a290cfab5dac?fit=crop&format=auto&h=267&w=400&s=86c05d8166822832a45093022361e82a16ff9e0e",
+            "width": 400
+        },
+        "title": "Sæter rekker ikke Glimt-kampen – comebacket lar vente på seg",
+        "url": "https://www.vg.no/sport/fotball/i/l3beRe/saeter-rekker-ikke-glimt-kampen-comebacket-lar-vente-paa-seg"
+    }
+]

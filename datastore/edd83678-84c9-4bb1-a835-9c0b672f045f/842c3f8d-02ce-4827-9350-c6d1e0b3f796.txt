@@ -1,0 +1,192 @@
+[
+    {
+        "slug": "maalshow-fra-olsen",
+        "url": "/lokalfotballen/i/zEeLab/maalshow-fra-olsen",
+        "title": {
+            "value": "Målshow fra Olsen"
+        },
+        "description": "Namsos gikk på sitt fjerde strake tap da klubben tapte 2-5 for Ranheim 2 Fridtjof Killi Olsen slo til med hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T16:00:04Z",
+        "lastModifiedAt": "2023-06-03T16:00:04Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "nardo-vant-over-kristiansund-2",
+        "url": "/lokalfotballen/i/q1EnjO/nardo-vant-over-kristiansund-2",
+        "title": {
+            "value": "Nardo vant over Kristiansund 2"
+        },
+        "description": "Nardo banket Kristiansund 2 3-0 i 3. divisjon, Avdeling 5 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T15:59:00Z",
+        "lastModifiedAt": "2023-06-03T15:59:00Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "historiske-ingrid-engen-vant-champions-league",
+        "url": "/sport/fotball/i/4oGdAE/historiske-ingrid-engen-vant-champions-league",
+        "title": {
+            "value": "Historiske Ingrid Syrstad Engen vant Champions League"
+        },
+        "description": "Barcelona og Ingrid Syrstad Engen vant Champions League.",
+        "imageUrl": "86f09fac-9b67-4863-a47f-692103d68473",
+        "publishedAt": "2023-06-03T15:57:18Z",
+        "lastModifiedAt": "2023-06-03T16:03:51Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "womens-champions-league",
+            "ingrid-syrstad-engen",
+            "rosenborg-kvinner"
+        ]
+    },
+    {
+        "slug": "skaun-snudde-til-seier-over-sokna",
+        "url": "/lokalfotballen/i/BWnJO0/skaun-snudde-til-seier-over-sokna",
+        "title": {
+            "value": "Skaun snudde til seier over Sokna"
+        },
+        "description": "Skaun lå under 0-1, men snudde til 3-1-seier mot Sokna i 6. divisjon, Trøndelag - Avdeling 6 i fotball for menn. Skaun tok sin første seier i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T15:54:57Z",
+        "lastModifiedAt": "2023-06-03T15:54:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-tronderbladet",
+            "lokalfotballen-gauldalsposten"
+        ]
+    },
+    {
+        "slug": "mosjoeen-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/bgdKpA/mosjoeen-fortsatte-seiersrekken",
+        "title": {
+            "value": "Ny seier for Mosjøen"
+        },
+        "description": "Mosjøen slo Tiller 2-0 og fikk dermed med seg alle poengene i 3. divisjon, Avdeling 5 i fotball. Dermed har Mosjøen vunnet tre kamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T15:52:48Z",
+        "lastModifiedAt": "2023-06-03T15:56:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "troender-lyn-ubeseiret-paa-fire-kamper",
+        "url": "/lokalfotballen/i/GM817V/troender-lyn-ubeseiret-paa-fire-kamper",
+        "title": {
+            "value": "Fire strake uten tap for Trønder-Lyn"
+        },
+        "description": "Det endte 1-1 mellom Trønder-Lyn og Orkla på Sørøya kunstgress i 3. divisjon, Avdeling 5 i fotball. Det medførte at Orkla brøt tapsrekken på fire kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T15:10:53Z",
+        "lastModifiedAt": "2023-06-03T15:24:12Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "leinstrand-byneset-knuste-tynset-2",
+        "url": "/lokalfotballen/i/XbnwQx/leinstrand-byneset-knuste-tynset-2",
+        "title": {
+            "value": "Sæterbø-dobbel sikret seier"
+        },
+        "description": "Sunniva Sæterbø ledet an med to mål i 7-2-seieren over Tynset 2 i 4. divisjon, Trøndelag - Avdeling 3 i fotball lørdag. Det var Leinstrand/Bynesets første seier i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T14:12:31Z",
+        "lastModifiedAt": "2023-06-03T14:25:49Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "storseier-for-vuku",
+        "url": "/lokalfotballen/i/veymKX/storseier-for-vuku",
+        "title": {
+            "value": "Knusende seier for Vuku"
+        },
+        "description": "Vuku knuste Flatanger 7-1 i 4. divisjon, Trøndelag - Avdeling 1 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T13:52:49Z",
+        "lastModifiedAt": "2023-06-03T15:52:48Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "fjerdingoey-dobbel-for-neset",
+        "url": "/lokalfotballen/i/y6yvrK/fjerdingoey-dobbel-for-neset",
+        "title": {
+            "value": "To fulltreffere fra Fjerdingøy"
+        },
+        "description": "Henrik Aassved Fjerdingøy førte an med to av målene i 4-1-seieren over Vikvarvet i 6. divisjon, Trøndelag - Avdeling 2 i fotball for menn lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T13:43:35Z",
+        "lastModifiedAt": "2023-06-03T13:55:01Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ranheim-viste-muskler",
+        "url": "/lokalfotballen/i/abk2dd/ranheim-viste-muskler",
+        "title": {
+            "value": "Ranheim viste muskler"
+        },
+        "description": "Matilde Bentzen Hammer ledet an med tre av målene i 5-1-seieren over Remyra/Fram i J14 1. divisjon, Avdeling 1 - Vår lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T13:26:05Z",
+        "lastModifiedAt": "2023-06-03T13:56:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    }
+]

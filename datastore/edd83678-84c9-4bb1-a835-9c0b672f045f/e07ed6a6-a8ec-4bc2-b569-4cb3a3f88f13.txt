@@ -1,0 +1,205 @@
+[
+    {
+        "slug": "han-kan-ha-blitt-satt-i-en-umulig-situasjon",
+        "url": "/sport/i/veGd5X/han-kan-ha-blitt-satt-i-en-umulig-situasjon",
+        "title": {
+            "value": "Han kan ha blitt satt i en umulig situasjon"
+        },
+        "description": "KOMMENTAR: Rosenborg har valgt en strategi som krever tålmodighet. Hva skjer hvis Svein Maalen fortsetter å tape?",
+        "imageUrl": "4d9329b3-9c41-4b31-9bd8-4fed92b4a1ff",
+        "publishedAt": "2023-06-26T06:13:59Z",
+        "lastModifiedAt": "2023-06-26T06:13:59Z",
+        "premium": true,
+        "authors": [
+            "Birger Løfaldli"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "svein-maalen",
+            "rosenborg-bk",
+            "birger-loefaldli"
+        ]
+    },
+    {
+        "slug": "freidig-med-hjemmeseier-over-byaasen-2",
+        "url": "/lokalfotballen/i/bg6w85/freidig-med-hjemmeseier-over-byaasen-2",
+        "title": {
+            "value": "Freidig seiret hjemme mot Byåsen 2"
+        },
+        "description": "Freidig stoppet Byåsen 2s seiersrekke på tre kamper etter dagens 3-1-seier",
+        "imageUrl": null,
+        "publishedAt": "2023-06-25T20:17:04Z",
+        "lastModifiedAt": "2023-06-25T21:05:45Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "sverresborg-slo-nardo-2-i-maalfest",
+        "url": "/lokalfotballen/i/abe0Ja/sverresborg-slo-nardo-2-i-maalfest",
+        "title": {
+            "value": "Sverresborg slo Nardo 2 i målfest"
+        },
+        "description": "Magnus Kjølhamar sto fram med tre mål da Sverresborg seiret 4-3 over Nardo 2 i 4. divisjon, Trøndelag - Avdeling 2 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-25T20:04:58Z",
+        "lastModifiedAt": "2023-06-25T20:04:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "det-har-vaert-forferdelig-kjempetungt",
+        "url": "/sport/fotball/i/gExxXa/det-har-vaert-forferdelig-kjempetungt",
+        "title": {
+            "value": "– Jeg har ikke bidratt og hjulpet kameratene mine"
+        },
+        "description": "Ole Sæter har fulgt den turbulente våren fra sidelinjen. Søndagens comeback ble en ny nedtur for RBK-yndlingen.",
+        "imageUrl": "a50c91ba-8b43-4d71-a9c1-635ac6062835",
+        "publishedAt": "2023-06-25T19:36:56Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "ole-saeter-2",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "maatte-hjelpes-av-banen-rbk-kapteinen-holdt-seg-til-kneet-og-vred-seg-i-smerte",
+        "url": "/sport/fotball/i/veGGEj/maatte-hjelpes-av-banen-rbk-kapteinen-holdt-seg-til-kneet-og-vred-seg-i-smerte",
+        "title": {
+            "value": "RBK-kapteinen måtte hjelpes av banen: Forlot Lerkendal på krykker"
+        },
+        "description": "Markus Henriksen maktet ikke legge vekt på foten da han måtte av banen.",
+        "imageUrl": "5200c335-12f1-48ee-8a61-ac8dd6805eff",
+        "publishedAt": "2023-06-25T18:17:24Z",
+        "lastModifiedAt": "2023-06-25T18:45:10Z",
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal",
+            "Ole K. Sagbakken",
+            "Johannes Strand"
+        ],
+        "tags": [
+            "fotball",
+            "markus-henriksen",
+            "rosenborg-bk",
+            "eliteserien",
+            "svein-maalen",
+            "norsk-fotball",
+            "olav-aas"
+        ]
+    },
+    {
+        "slug": "simonsen-scoret-to-for-kil-hemne-2",
+        "url": "/lokalfotballen/i/l3amgA/simonsen-scoret-to-for-kil-hemne-2",
+        "title": {
+            "value": "Simonsen scoret to for KIL / Hemne 2"
+        },
+        "description": "Pål Fredrik Simonsen scoret to mål da KIL/Hemne 2 vant 3-1 over Trygg/Lade 2 i 5. divisjon, Trøndelag - Avdeling 2 i fotball søndag. KIL/Hemne 2 tok sin første hjemmeseier denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-25T18:05:48Z",
+        "lastModifiedAt": "2023-06-25T20:35:30Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "bekrefter-kommer-tilbake-til-rosenborg",
+        "url": "/sport/fotball/i/76ooX4/bekrefter-kommer-tilbake-til-rosenborg",
+        "title": {
+            "value": "Bekrefter: Kommer tilbake til RBK"
+        },
+        "description": "RBK-trener Svein Maalen bekrefter at Reims ikke benytter seg på opsjonen de har Noah Holm.",
+        "imageUrl": "33d4f83d-7a36-4444-a367-cbbaec83a686",
+        "publishedAt": "2023-06-25T17:45:54Z",
+        "lastModifiedAt": "2023-06-25T17:54:44Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg",
+            "noah-holm",
+            "svein-maalen"
+        ]
+    },
+    {
+        "slug": "blytung-boers-da-rbk-gikk-paa-trynet",
+        "url": "/sport/fotball/i/bg66b5/blytung-boers-da-rbk-gikk-paa-trynet",
+        "title": {
+            "value": "Blytung børs da RBK gikk på trynet"
+        },
+        "description": "Det ble rett og slett vrient å kåre Dagens Ivers etter fiaskoen i Svein Maalens debut.",
+        "imageUrl": "05bfecb2-6a39-451e-9207-36c6058e069f",
+        "publishedAt": "2023-06-25T16:58:24Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "fotball",
+            "dagens-ivers",
+            "rosenborg-bk",
+            "norsk-fotball",
+            "eliteserien"
+        ]
+    },
+    {
+        "slug": "marerittdebut-for-maalen-ble-knust-paa-lerkendal",
+        "url": "/sport/fotball/i/veGGjm/marerittdebut-for-maalen-ble-knust-paa-lerkendal",
+        "title": {
+            "value": "Marerittdebut for Maalen: - Da ser det veldig dumt ut"
+        },
+        "description": "Svein Maalens første kamp som RBK-trener endte med et knusende nederlag og pipekonsert på Lerkendal.",
+        "imageUrl": "4847a296-5c69-47a4-9494-58f06722083b",
+        "publishedAt": "2023-06-25T16:54:52Z",
+        "lastModifiedAt": "2023-06-25T17:44:06Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand",
+            "Christian Skare Stendal",
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "sarpsborg-08",
+            "eliteserien"
+        ]
+    },
+    {
+        "slug": "rosenborg-2-senket-av-storbraaten",
+        "url": "/lokalfotballen/i/APBByn/rosenborg-2-senket-av-storbraaten",
+        "title": {
+            "value": "Storbråten ble helten for Frigg"
+        },
+        "description": "Innbytter Tonje Storbråten avgjorde med sin 3-2-scoring da Frigg slo Rosenborg 2 i 2. divisjon, Avdeling 1 i fotball for kvinner søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-25T15:06:06Z",
+        "lastModifiedAt": "2023-06-25T15:07:11Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

@@ -1,0 +1,196 @@
+[
+    {
+        "slug": "hattrick-show-fra-ranheim-3",
+        "url": "/lokalfotballen/i/y6yGKx/hattrick-show-fra-ranheim-3",
+        "title": {
+            "value": "Langlo scoret hattrick mot Utleira 2"
+        },
+        "description": "Tuva Elise Langlo viste scoringsform da Ranheim 3 vant 8-2 over Utleira 2 i 4. divisjon, Trøndelag - Avdeling 3 i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-08T20:37:37Z",
+        "lastModifiedAt": "2023-06-08T20:41:52Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "bangsund-med-hjemmeseier-over-fram",
+        "url": "/lokalfotballen/i/y6yGVR/bangsund-med-hjemmeseier-over-fram",
+        "title": {
+            "value": "Bangsund med hjemmeseier over Fram"
+        },
+        "description": "Bangsund slo Fram 3-2 og tok dermed alle poengene i 5. divisjon, Trøndelag - Avdeling 1 i fotball torsdag. Det stanset Bangsunds tapsrekke, som var uten poeng på de tre siste kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-08T20:21:02Z",
+        "lastModifiedAt": "2023-06-08T20:26:23Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "nettsus-for-kammen",
+        "url": "/lokalfotballen/i/jlMgwz/nettsus-for-kammen",
+        "title": {
+            "value": "Kammen-dobbel for Kolstad 7er"
+        },
+        "description": "Trygg/Lade 7er ble slått 2-1 av Kolstad 7er og tapte dermed sin første kamp i årets sesong Tonje Kammen scoret begge målene for Kolstad 7er.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-08T20:12:32Z",
+        "lastModifiedAt": "2023-06-08T20:37:35Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "brakseier-for-lade",
+        "url": "/lokalfotballen/i/gEKR45/brakseier-for-lade",
+        "title": {
+            "value": "Lade knuste Rissa"
+        },
+        "description": "Lade knuste Rissa 5-1 i 6. divisjon, Trøndelag - Avdeling 3 i fotball for menn torsdag. Rissa har gått poengløse av banen to kamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-08T20:11:27Z",
+        "lastModifiedAt": "2023-06-08T20:36:26Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "maalfest-og-poengdeling-paa-elman-stadion",
+        "url": "/lokalfotballen/i/wA54nd/maalfest-og-poengdeling-paa-elman-stadion",
+        "title": {
+            "value": "Målfest og poengdeling på Elman stadion"
+        },
+        "description": "Det endte 3-3 mellom Vuku og Fram/Remyra i 4. divisjon, Trøndelag - Avdeling 1 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-08T20:01:36Z",
+        "lastModifiedAt": "2023-06-08T20:37:35Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "orkla-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/0QOb3B/orkla-fortsatte-seiersrekken",
+        "title": {
+            "value": "Orkla rundspilte KIL / Hemne 2"
+        },
+        "description": "Etter dagens 8-0-seier står Orkla med full pott så langt i år i 4. divisjon, Trøndelag - Avdeling 2 i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-08T20:01:36Z",
+        "lastModifiedAt": "2023-06-08T20:07:02Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "signe-nergaard-i-scoringshumoer",
+        "url": "/lokalfotballen/i/l3Le4e/signe-nergaard-i-scoringshumoer",
+        "title": {
+            "value": "Dobbel lykke da Freidig 2 9er vant"
+        },
+        "description": "Med 4-2-seier i dagens kamp har Freidig 2 9er tatt poeng i fem kamper på rad i J15 2. divisjon, Avdeling 4 - Vår torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-08T19:36:20Z",
+        "lastModifiedAt": "2023-06-08T20:02:39Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "storseier-for-soerlia-2-7er",
+        "url": "/lokalfotballen/i/MoJm5R/storseier-for-soerlia-2-7er",
+        "title": {
+            "value": "Tredje seier på rad for Sørlia 2 7er"
+        },
+        "description": "Sørlia 2 7er knuste Malm/Follafoss 7er 6-2 i 7er, Trøndelag i fotball for menn. Malm/Follafoss 7er har gått poengløse av banen i alle kampene sine så langt i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-08T19:24:23Z",
+        "lastModifiedAt": "2023-06-08T19:29:49Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "snaasa-tok-sin-aattende-seier-paa-rad",
+        "url": "/lokalfotballen/i/pQmlpj/snaasa-tok-sin-aattende-seier-paa-rad",
+        "title": {
+            "value": "Åttende seier på rad for Snåsa"
+        },
+        "description": "Snåsa slo Hegra 4-0 og tok dermed tre poeng i J14 2. divisjon, Avdeling 2 - Vår. Snåsa står med full pott så langt i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-08T18:33:37Z",
+        "lastModifiedAt": "2023-06-08T19:29:49Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "rbk-profilen-kroppen-sa-i-fra",
+        "url": "/sport/fotball/i/nQnMKx/rbk-profilen-kroppen-sa-i-fra",
+        "title": {
+            "value": "- Kroppen sa i fra"
+        },
+        "description": "Emilie Joramo fikk merke det tette kampprogrammet på kroppen.",
+        "imageUrl": "bc215101-21d9-4bbe-83c4-33c0e8ab452a",
+        "publishedAt": "2023-06-08T17:44:30Z",
+        "lastModifiedAt": "2023-06-08T17:44:30Z",
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "fotball",
+            "emilie-joramo",
+            "emilie-nautnes",
+            "toppserien"
+        ]
+    }
+]

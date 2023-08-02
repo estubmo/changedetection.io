@@ -1,0 +1,372 @@
+[
+    {
+        "authors": [
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            },
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMKpvB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMKpvB",
+        "preamble": "STJØRDAL (Stjørdals-Blink - Rosenborg 2–1) En hardt presset Kjetil Rekdal gikk fra krisemøte med eget styre onsdag og videre til cup-exit mot et lag fra nivå tre i dag. ",
+        "published": {
+            "date": "torsdag 1. juni",
+            "datetime": "2023-06-01 19:53:29",
+            "niceformat": "01.06.2023, 19:53",
+            "timestamp": "2023-06-01T17:53:29.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/8d81c90d-7e0c-4d7d-ba44-72de96a73769?fit=crop&format=auto&h=267&w=400&s=21876b8aeaf7ca6a9cd04097bedb8d9c7666d3d6",
+            "width": 400
+        },
+        "title": "Rosenborg-krisen fortsetter med full styrke etter pinlig cup-exit",
+        "url": "https://www.vg.no/sport/fotball/i/GMKpvB/rosenborg-krisen-fortsetter-med-full-styrke-etter-pinlig-cup-exit"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3XBEe",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3XBEe",
+        "preamble": "(Kjelsås – Stabæk 3–1) Stabæk fikk en marerittstart i andre runde av NM. Kjelsås, på tredje nivå, rystet Lars Bohinen og co. og sendte Stabæk på hodet ut av cupen. Både Lillestrøm og Tromsø spiller ekstraomganger.",
+        "published": {
+            "date": "torsdag 1. juni",
+            "datetime": "2023-06-01 18:30:22",
+            "niceformat": "01.06.2023, 18:30",
+            "timestamp": "2023-06-01T16:30:22.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/7e2d6137-a405-413f-b0b7-1c6423cfc62f?fit=crop&format=auto&h=267&w=400&s=617404aba5fb0960bf5045ac7ef47b8f57b1152f",
+            "width": 400
+        },
+        "title": "Kjempesmell for Stabæk – røk ut av cupen mot 2. divisjonslag",
+        "url": "https://www.vg.no/sport/fotball/i/l3XBEe/komisk-selvmaal-kjelsaas-sjokkerer-stabaek"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4m7k0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4m7k0",
+        "preamble": "Bodø/Glimt-trener Kjetil Knutsen er ønsket av Ajax. Nå bekrefter den nederlandske klubbens direktør at det er kontakt mellom partene.",
+        "published": {
+            "date": "torsdag 1. juni",
+            "datetime": "2023-06-01 17:12:27",
+            "niceformat": "01.06.2023, 17:12",
+            "timestamp": "2023-06-01T15:12:27.000Z"
+        },
+        "thumbnail": {
+            "height": 276,
+            "url": "https://akamai.vgc.no/v2/images/b15a3c72-9a5d-470a-82d3-52019507c218?fit=crop&format=auto&h=276&w=400&s=5838cc3db7da8b8f0e22356402d2efa5fdb897e2",
+            "width": 400
+        },
+        "title": "Ajax-direktør bekrefter kontakt med Knutsens agent",
+        "url": "https://www.vg.no/sport/fotball/i/P4m7k0/ajx-direktoer-bekrefter-kontakt-med-knutsens-agent"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "nQXpqo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/nQXpqo",
+        "preamble": "Karim Benzema (35), Real Madrids store stjerne, skal være ferdig i klubben, ifølge flere medier.",
+        "published": {
+            "date": "torsdag 1. juni",
+            "datetime": "2023-06-01 16:37:30",
+            "niceformat": "01.06.2023, 16:37",
+            "timestamp": "2023-06-01T14:37:30.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a6d84347-faf4-42e4-87ec-0fb97098bbde?fit=crop&format=auto&h=267&w=400&s=1aebdcdcb6b9216a0a73de5db82df42b0e63460d",
+            "width": 400
+        },
+        "title": "Medier: Benzema er ferdig i Real Madrid",
+        "url": "https://www.vg.no/sport/fotball/i/nQXpqo/spanske-medier-benzema-er-ferdig-i-real-madrid"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            },
+            {
+                "email": "eivind.haugen@vg.no",
+                "id": "1fb0c054-425a-4339-8b15-ef16b1d45bfd",
+                "name": "Eivind Haugen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Q05A6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Q05A6",
+        "preamble": "Alfie Haaland melder flytting fra Bryne til den sveitiske fjellandsbyen Andermatt, melder Dagbladet.",
+        "published": {
+            "date": "torsdag 1. juni",
+            "datetime": "2023-06-01 15:45:21",
+            "niceformat": "01.06.2023, 15:45",
+            "timestamp": "2023-06-01T13:45:21.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a3d24bbc-1876-4cfc-921d-302532a7815f?fit=crop&format=auto&h=267&w=400&s=1e73c411de9f8af276605e657674fc78227a5b18",
+            "width": 400
+        },
+        "title": "Dagbladet: Alfie Haaland flytter til Sveits",
+        "url": "https://www.vg.no/sport/fotball/i/0Q05A6/alfie-haaland-flytter-til-sveits"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9znPzr",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9znPzr",
+        "preamble": "Engelske medier skriver at danske Rasmus Højlund (20) kan bli Manchester Uniteds neste spiss. ",
+        "published": {
+            "date": "torsdag 1. juni",
+            "datetime": "2023-06-01 14:06:16",
+            "niceformat": "01.06.2023, 14:06",
+            "timestamp": "2023-06-01T12:06:16.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/46e2c683-4422-4166-b8dc-4161eec4fb4a?fit=crop&format=auto&h=267&w=400&s=fbf524d19526925f498f24d47de11771ed5f5a0f",
+            "width": 400
+        },
+        "title": "Hevder Manchester United vil hente «danske Haaland» ",
+        "url": "https://www.vg.no/sport/fotball/i/9znPzr/hevder-manchester-united-vil-hente-rasmus-hoejlund"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMKpPx",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMKpPx",
+        "preamble": "Regjerende mester Brann tar imot Klepp i tredje runde av fotball-NM for kvinner.",
+        "published": {
+            "date": "torsdag 1. juni",
+            "datetime": "2023-06-01 14:05:12",
+            "niceformat": "01.06.2023, 14:05",
+            "timestamp": "2023-06-01T12:05:12.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/bf570f5f-2273-44da-8ea2-42956af61662?fit=crop&format=auto&h=267&w=400&s=662b88916b68c8c97aa3fa59f41b8a589185398c",
+            "width": 400
+        },
+        "title": "Slik spilles tredje runde i cupen",
+        "url": "https://www.vg.no/sport/fotball/i/GMKpPx/nm-cup-kvinner-brann-fikk-hjemmekamp-i-cupen"
+    },
+    {
+        "authors": [
+            {
+                "email": "leif.welhaven@vg.no",
+                "id": "e46ed1bb-8354-4bd4-97d3-09ac43c5dc8f",
+                "name": "Leif Welhaven"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "bgWAld",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/bgWAld",
+        "preamble": "Dommer Anthony Taylor er slett ingen skam. Det er det José Mourinho selv som er.",
+        "published": {
+            "date": "torsdag 1. juni",
+            "datetime": "2023-06-01 12:30:07",
+            "niceformat": "01.06.2023, 12:30",
+            "timestamp": "2023-06-01T10:30:07.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/4e8c4f0b-9b01-4e97-a028-1731960d0935?fit=crop&format=auto&h=267&w=400&s=0251db6efef2db1547289b293caa3bcc7e2cae7e",
+            "width": 400
+        },
+        "title": "Nå er han ren gift",
+        "url": "https://www.vg.no/sport/fotball/i/bgWAld/naa-er-han-ren-gift"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "abL6LO",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/abL6LO",
+        "preamble": "Frida Maanum (23) har skrevet under på en ny kontrakt med Arsenal. Hun høster mye ros av sin trener.",
+        "published": {
+            "date": "torsdag 1. juni",
+            "datetime": "2023-06-01 11:15:01",
+            "niceformat": "01.06.2023, 11:15",
+            "timestamp": "2023-06-01T09:15:01.000Z"
+        },
+        "thumbnail": {
+            "height": 298,
+            "url": "https://akamai.vgc.no/v2/images/aef543a9-df22-4d03-8b34-72778868e93d?fit=crop&format=auto&h=298&w=400&s=9f33af1502f10d974a18627cfdeb4b99d2a0f5f2",
+            "width": 400
+        },
+        "title": "Forlenget med Arsenal ",
+        "url": "https://www.vg.no/sport/fotball/i/abL6LO/womens-super-league-frida-maanum-forlenget-med-arsenal"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3XdgA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3XdgA",
+        "preamble": "(Sevilla – Roma 1–1 e.e.o., 4–1 på straffer) Etter en heseblesende Europa League-finale med ekstraomganger, straffekonk og fullt kaos kunne Sevilla strekke armene i været for syvende gang.",
+        "published": {
+            "date": "torsdag 1. juni",
+            "datetime": "2023-06-01 00:03:13",
+            "niceformat": "01.06.2023, 00:03",
+            "timestamp": "2023-05-31T22:03:13.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/3cd5b70b-c088-4a35-9121-cb9d5feeac2c?fit=crop&format=auto&h=267&w=400&s=c65d6f57bbe904fa5164c3af1b112cc111985134",
+            "width": 400
+        },
+        "title": "Kaos og straffedrama – Sevilla vant Europa League for syvende gang: – Jeg er stolt",
+        "url": "https://www.vg.no/sport/fotball/i/l3XdgA/kaos-og-straffedrama-sevilla-vant-europa-league-for-syvende-gang"
+    }
+]

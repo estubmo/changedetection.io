@@ -1,0 +1,370 @@
+[
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwQkM1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwQkM1",
+        "preamble": "Sisteskanse Anders Kristiansen har forlenget kontrakten med Sarpsborg 08. 33-åringen har skrevet under for to nye år.",
+        "published": {
+            "date": "onsdag 5. juli",
+            "datetime": "2023-07-05 11:24:40",
+            "niceformat": "05.07.2023, 11:24",
+            "timestamp": "2023-07-05T09:24:40.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6f735a8c-c35a-4e8b-be59-a22bd0a6fc47?fit=crop&format=auto&h=267&w=400&s=ef3872659af458ab3d9adf6b235ca2cf791aacde",
+            "width": 400
+        },
+        "title": "Sarpsborg 08-keeperen forlenger kontrakten",
+        "url": "https://www.vg.no/sport/fotball/i/dwQkM1/sarpsborg-08-keeperen-forlenger-kontrakten"
+    },
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "nQr4Qd",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/nQr4Qd",
+        "preamble": "Christophe Galtier (56) er enig med Paris Saint-Germain om å slutte i jobben som klubbens manager.",
+        "published": {
+            "date": "onsdag 5. juli",
+            "datetime": "2023-07-05 10:23:26",
+            "niceformat": "05.07.2023, 10:23",
+            "timestamp": "2023-07-05T08:23:26.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/4c015cd2-00c0-45cc-b195-8011fd61a75e?fit=crop&format=auto&h=267&w=400&s=f598d095fa1f991000a4d57a4de5d3564dcf569c",
+            "width": 400
+        },
+        "title": "Bekreftet: Galtier gir seg som PSG-manager",
+        "url": "https://www.vg.no/sport/fotball/i/nQr4Qd/afp-galtier-enig-med-psg-gir-seg-som-manager-i-klubben"
+    },
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3mOEG",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3mOEG",
+        "preamble": "Både Amanda Frisbie (31) og Tameka Yallop (32) er ferdig i Brann.",
+        "published": {
+            "date": "onsdag 5. juli",
+            "datetime": "2023-07-05 10:08:33",
+            "niceformat": "05.07.2023, 10:08",
+            "timestamp": "2023-07-05T08:08:33.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/1997ee21-cb24-489d-8445-ada2feb27e2f?fit=crop&format=auto&h=267&w=400&s=fdbca0f6d5cf75996a889d53b4e61d42dfc3af2b",
+            "width": 400
+        },
+        "title": "To spillere ferdig i Brann – Frisbies kontrakt terminert",
+        "url": "https://www.vg.no/sport/fotball/i/l3mOEG/to-spillere-ferdig-i-brann"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "mQEL71",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/mQEL71",
+        "preamble": "Hannah Dingley (39) tar midlertidig over Forest Green Rovers. Hun blir med det den første kvinnelige manageren på herresiden i det engelske ligasystemet.",
+        "published": {
+            "date": "onsdag 5. juli",
+            "datetime": "2023-07-05 09:58:38",
+            "niceformat": "05.07.2023, 09:58",
+            "timestamp": "2023-07-05T07:58:38.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/09e97981-3a65-49b4-80ec-20f50a16bdd3?fit=crop&format=auto&h=267&w=400&s=7bee7ef4b9e2f49d7e6f19caef5025c80a23adb2",
+            "width": 400
+        },
+        "title": "Tidenes første kvinnelige manager i engelsk herrefotball",
+        "url": "https://www.vg.no/sport/fotball/i/mQEL71/tidenes-foerste-kvinnelige-manager-i-engelsk-herrefotball"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BW4GJ0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BW4GJ0",
+        "preamble": "Ifølge franske aviser presenterer Paris Saint-Germain onsdag sin syvende manager siden Qatar-oppkjøpet i 2011. Denne gangen er det velrenommerte Luis Enrique (53) som får ansvaret for klubbens jakt på sin første Champions League-tittel.",
+        "published": {
+            "date": "onsdag 5. juli",
+            "datetime": "2023-07-05 09:27:27",
+            "niceformat": "05.07.2023, 09:27",
+            "timestamp": "2023-07-05T07:27:27.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/50bc11c7-f17d-4b38-886a-6690d5834c94?fit=crop&format=auto&h=267&w=400&s=e8be20d770348a54727e56b8eada030144dd9494",
+            "width": 400
+        },
+        "title": "Franske aviser: Enrique presenteres som PSG-manager onsdag",
+        "url": "https://www.vg.no/sport/fotball/i/BW4GJ0/franske-aviser-enrique-presenteres-som-psg-manager-onsdag"
+    },
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kEPpXa",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kEPpXa",
+        "preamble": "De norske fotballspillerne Erling Braut Haaland (22), Erik Botheim (23) og Sander Berge (25) henger med kjendisene på ferie i Monaco.",
+        "published": {
+            "date": "onsdag 5. juli",
+            "datetime": "2023-07-05 07:55:43",
+            "niceformat": "05.07.2023, 07:55",
+            "timestamp": "2023-07-05T05:55:43.000Z"
+        },
+        "thumbnail": {
+            "height": 282,
+            "url": "https://akamai.vgc.no/v2/images/98fabe75-bdb9-41bf-bed8-e00bec6885c8?fit=crop&format=auto&h=282&w=400&s=d27aeab52e393a65fc47a9f17ddef61cae875cf3",
+            "width": 400
+        },
+        "title": "Haaland på ferie i Monaco – skal ha spist lunsj med fyrsten",
+        "url": "https://www.vg.no/sport/fotball/i/kEPpXa/erling-braut-haaland-erik-botheim-og-sander-berge-paa-ferie-i-monaco-skal-ha-spist-lunsj-med-fyrst-albert-ii"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMJ0d9",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMJ0d9",
+        "preamble": "Roberto Firmino følger etter en rekke store fotballnavn. Brasilianeren er klar for Al-Ahli i Saudi-Arabia.",
+        "published": {
+            "date": "tirsdag 4. juli",
+            "datetime": "2023-07-04 23:13:38",
+            "niceformat": "04.07.2023, 23:13",
+            "timestamp": "2023-07-04T21:13:38.000Z"
+        },
+        "thumbnail": {
+            "height": 279,
+            "url": "https://akamai.vgc.no/v2/images/4973e3af-b854-4ed6-b755-ce5c084efcdb?fit=crop&format=auto&h=279&w=400&s=5a5eeab109be06bf3dcfd8ec062c14993b7fdb5c",
+            "width": 400
+        },
+        "title": "Firmino er klar for saudiarabisk klubb",
+        "url": "https://www.vg.no/sport/fotball/i/GMJ0d9/firmino-er-klar-for-saudiarabisk-klubb"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "XbORXb",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/XbORXb",
+        "preamble": "Den tsjekkiske storklubben Sparta Praha forsøker å kjøpe den ferske landslagsbacken Brice Wembangomo (26) fra Bodø/Glimt.",
+        "published": {
+            "date": "tirsdag 4. juli",
+            "datetime": "2023-07-04 22:57:18",
+            "niceformat": "04.07.2023, 22:57",
+            "timestamp": "2023-07-04T20:57:18.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/f86cd479-6e33-417f-a56c-fa531882bd87?fit=crop&format=auto&h=267&w=400&s=d884039c1e3603dd48595aed2bc063b866dc620d",
+            "width": 400
+        },
+        "title": "Opplysninger til VG: Bodø/Glimt har avslått bud på Wembangomo",
+        "url": "https://www.vg.no/sport/fotball/i/XbORXb/opplysninger-til-vg-bodoe-glimt-har-avslaatt-bud-paa-wembangomo"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O81671",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O81671",
+        "preamble": "Den engelske landslagsspilleren Mason Mount (24) har lagt ut på Instagram at han forlater Chelsea. Alt tyder på at han havner i Manchester United.",
+        "published": {
+            "date": "tirsdag 4. juli",
+            "datetime": "2023-07-04 21:15:05",
+            "niceformat": "04.07.2023, 21:15",
+            "timestamp": "2023-07-04T19:15:05.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/faeee27b-1c56-4961-9fe8-64fa68f49790?fit=crop&format=auto&h=267&w=400&s=a938e35c62de302df249efd93f5a4afa364ad1b3",
+            "width": 400
+        },
+        "title": "Mason Mount forlater Chelsea",
+        "url": "https://www.vg.no/sport/fotball/i/O81671/mason-mount-forlater-chelsea"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            },
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q18JEg",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q18JEg",
+        "preamble": "(Norge – Hellas 5–4) Det norske U19-landslaget herjet i førsteomgang av EM-åpningen, ledet 5–0 og så ut til gå mot storseier. Etter pause gikk det meste galt.",
+        "published": {
+            "date": "tirsdag 4. juli",
+            "datetime": "2023-07-04 19:58:47",
+            "niceformat": "04.07.2023, 19:58",
+            "timestamp": "2023-07-04T17:58:47.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/_5J8Y9U0QyP-.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Nervepirrende avslutning for U19-landslaget i målfest",
+        "url": "https://www.vg.no/sport/fotball/i/q18JEg/nervepirrende-avslutning-for-u19-landslaget-i-maalfest"
+    }
+]

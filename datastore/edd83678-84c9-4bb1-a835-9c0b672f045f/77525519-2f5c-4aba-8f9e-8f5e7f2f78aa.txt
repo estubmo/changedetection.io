@@ -1,0 +1,191 @@
+[
+    {
+        "slug": "brakseier-for-trygg-lade",
+        "url": "/lokalfotballen/i/KnkXLM/brakseier-for-trygg-lade",
+        "title": {
+            "value": "Brakseier for Trygg / Lade"
+        },
+        "description": "Trygg/Lade slo Heimdal 7-1 og tok sin femte seier på rad i 4. divisjon, Trøndelag - Avdeling 1 i fotball lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T14:06:59Z",
+        "lastModifiedAt": "2023-06-10T14:06:59Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "tynset-seier-over-hitra",
+        "url": "/lokalfotballen/i/VPLXgV/tynset-seier-over-hitra",
+        "title": {
+            "value": "Tynset-seier over Hitra"
+        },
+        "description": "Tynset banket Hitra 3-0 i 4. divisjon, Trøndelag - Avdeling 2 i fotball for menn lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T14:03:49Z",
+        "lastModifiedAt": "2023-06-10T14:03:49Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya"
+        ]
+    },
+    {
+        "slug": "avgjorde-foersteplassen",
+        "url": "/lokalfotballen/i/abkeld/avgjorde-foersteplassen",
+        "title": {
+            "value": "Hitra dro i land seriemesterskapet"
+        },
+        "description": "Alex Soboniak viste scoringsform da Hitra vant 11-0 over Skaun 2 i G16 3. divisjon, Avdeling 2 - Vår lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T13:41:48Z",
+        "lastModifiedAt": "2023-06-10T14:00:39Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-avisast",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "brakseier-for-rana",
+        "url": "/lokalfotballen/i/y6yJRa/brakseier-for-rana",
+        "title": {
+            "value": "Rana knuste Orkla"
+        },
+        "description": "Rana knuste Orkla 7-0 i 3. divisjon, Avdeling 5 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T12:56:34Z",
+        "lastModifiedAt": "2023-06-10T13:27:09Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "aalesund-snudde-til-seier-i-sluttminuttene-over-rosenborg",
+        "url": "/lokalfotballen/i/rl3Ogw/aalesund-snudde-til-seier-i-sluttminuttene-over-rosenborg",
+        "title": {
+            "value": "Aalesund snudde til seier på tampen over Rosenborg"
+        },
+        "description": "Rosenborg fikk sitt første tap på tre kamper etter dagens 5-4-tap mot Aalesund i Nasjonal G15, Gruppe C lørdag. Marcus Haagensen Reed scoret hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T12:56:34Z",
+        "lastModifiedAt": "2023-06-10T13:27:10Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-smpno"
+        ]
+    },
+    {
+        "slug": "foelg-rbks-kamp-mot-arna-bjoernar",
+        "url": "/sport/fotball/i/jlMp1A/foelg-rbks-kamp-mot-arna-bjoernar",
+        "title": {
+            "value": "Målshow fra RBK-damene"
+        },
+        "description": "Rosenborg tar imot et av Toppseriens bunnlag på Koteng Arena.",
+        "imageUrl": "567f9077-a75c-4e73-acc2-48e46f1202a6",
+        "publishedAt": "2023-06-10T12:30:00Z",
+        "lastModifiedAt": "2023-06-10T14:07:36Z",
+        "premium": false,
+        "authors": [
+            "Yngve Bergli"
+        ],
+        "tags": [
+            "rosenborg",
+            "rosenborg-kvinner"
+        ]
+    },
+    {
+        "slug": "tiller-seier-over-amazon-grimstad",
+        "url": "/lokalfotballen/i/abke1M/tiller-seier-over-amazon-grimstad",
+        "title": {
+            "value": "Hjemmeseier for Tiller over Amazon Grimstad"
+        },
+        "description": "Tiller vant 2-1 over Amazon Grimstad i 2. divisjon, Avdeling 1 i fotball for kvinner lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T12:04:47Z",
+        "lastModifiedAt": "2023-06-10T12:27:03Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fvn",
+            "lokalfotballen-gat",
+            "lokalfotballen-agderposten"
+        ]
+    },
+    {
+        "slug": "brakseier-for-kvik",
+        "url": "/lokalfotballen/i/l3LagL/brakseier-for-kvik",
+        "title": {
+            "value": "Kvik knuste Alvdal"
+        },
+        "description": "Sebastian Kristensen sto fram med tre mål da Kvik vant 4-0 over Alvdal i 4. divisjon, Trøndelag - Avdeling 2 i fotball. Kvik har tatt poeng i ni strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T12:03:45Z",
+        "lastModifiedAt": "2023-06-10T12:27:02Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "psg-sjefen-avviser-rolle-i-manchester-united-oppkjoep",
+        "url": "/nyheter/innenriks/i/4oGGn9/psg-sjefen-avviser-rolle-i-manchester-united-oppkjoep",
+        "title": {
+            "value": "PSG-sjefen avviser rolle i Manchester United-oppkjøp"
+        },
+        "description": "Paris Saint-Germains president Nasser Al-Khelaifi sier han ikke har noe å gjøre med et potensielt Qatar-basert oppkjøp av Manchester United.",
+        "imageUrl": "e90be715-041b-4236-a1f3-0b9d13ff6b95",
+        "publishedAt": "2023-06-10T11:58:46Z",
+        "lastModifiedAt": "2023-06-10T11:59:51Z",
+        "premium": false,
+        "authors": [
+            "NTB-AFP"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "fjerde-seier-paa-rad-for-byaasen",
+        "url": "/lokalfotballen/i/Lldd8J/fjerde-seier-paa-rad-for-byaasen",
+        "title": {
+            "value": "Ny seier for Byåsen"
+        },
+        "description": "Byåsen tok sin fjerde strake seier med 7-2 over Melhus/Gimse i G14 1. divisjon, Avdeling 2 - Vår. Eivind Haugerud Morset scoret hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-10T11:45:07Z",
+        "lastModifiedAt": "2023-06-10T12:58:42Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    }
+]

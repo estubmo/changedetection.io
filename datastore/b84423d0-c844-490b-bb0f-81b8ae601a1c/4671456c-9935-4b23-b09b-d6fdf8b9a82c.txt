@@ -1,0 +1,373 @@
+[
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QqeB2",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QqeB2",
+        "preamble": "Kasper Høgh har levert en god første halvdel av sesongen for Stabæk. Nå blir han også Stabæks eiendom.",
+        "published": {
+            "date": "lørdag 1. juli",
+            "datetime": "2023-07-01 21:55:20",
+            "niceformat": "01.07.2023, 21:55",
+            "timestamp": "2023-07-01T19:55:20.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/bb185c23-8012-4dcb-8fce-37aaf7453486?fit=crop&format=auto&h=267&w=400&s=ae7cef8ca699930b1ac1a6d8a01bc452296fd8dd",
+            "width": 400
+        },
+        "title": "Opplysninger til VG: Stabæk kjøper Høgh",
+        "url": "https://www.vg.no/sport/fotball/i/0QqeB2/eliteserien-stabaek-kjoeper-kasper-hoegh"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JV3L1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JV3L1",
+        "preamble": "Tidligere Aalesund-trener Lars Arne Nilsen har fått ny jobb. Han skal fremover lede den færøyske fotballklubben 07 Vestur, sier han til TV 2.",
+        "published": {
+            "date": "lørdag 1. juli",
+            "datetime": "2023-07-01 21:30:46",
+            "niceformat": "01.07.2023, 21:30",
+            "timestamp": "2023-07-01T19:30:46.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/db584207-1215-42e5-9643-adae1b40e43f?fit=crop&format=auto&h=267&w=400&s=375d52633d8695f24d2d872a24fc8a6fc0c7fa05",
+            "width": 400
+        },
+        "title": "Lars Arne Nilsen blir trener på Færøyene",
+        "url": "https://www.vg.no/sport/fotball/i/8JV3L1/lars-arne-nilsen-blir-trener-paa-faeroeyene"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3a7L7",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3a7L7",
+        "preamble": "(Georgia U21 – Israel U21 0–0, 3–4 etter straffer) Israel var best fra elleve meter mot Georgia i kvartfinalen i U21-EM. Belønningen er enten England eller Portugal i semifinalen tirsdag.",
+        "published": {
+            "date": "lørdag 1. juli",
+            "datetime": "2023-07-01 21:13:04",
+            "niceformat": "01.07.2023, 21:13",
+            "timestamp": "2023-07-01T19:13:04.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/07a881f8-5f41-4072-885f-48a4ba5e7c16?fit=crop&format=auto&h=267&w=400&s=2571b3f0bd60aaa418a0a323f636e9d8740228c6",
+            "width": 400
+        },
+        "title": "Israel avanserte til semifinale i U21-EM etter straffesparkkonkurranse",
+        "url": "https://www.vg.no/sport/fotball/i/l3a7L7/u21-em-israel-til-semifinale"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            },
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "KnXQ6M",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/KnXQ6M",
+        "preamble": "VALLE (VG) (Vålerenga - Viking 1−2) Niklas Sandberg reddet alle tre poengene for Viking på overtid. Men etter kampen var det den omdiskuterte straffen til Vålerenga som ble diskutert.",
+        "published": {
+            "date": "lørdag 1. juli",
+            "datetime": "2023-07-01 20:00:42",
+            "niceformat": "01.07.2023, 20:00",
+            "timestamp": "2023-07-01T18:00:42.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/4fc4354e-6949-45e8-85e7-cadf3b9c5d27?fit=crop&format=auto&h=267&w=400&s=aa3d7381f45435cb73c5bd8db8e452e10a77e498",
+            "width": 400
+        },
+        "title": "Viking-kapteinen raser etter omdiskutert straffespark: – Dummeste jeg har sett",
+        "url": "https://www.vg.no/sport/fotball/i/KnXQ6M/eliteserien-viking-vant-mot-vaalerenga"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "nQl35x",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/nQl35x",
+        "preamble": "(Lyn – Avaldsnes 6–0, Røa - Rosenborg 0-3, Åsane - Stabæk 1-3) Avaldsnes havnet under 0–3 mot Lyn etter bare 16 minutter. Oslo-klubben ga seg ikke før det sto 6–0 på måltavlen.",
+        "published": {
+            "date": "lørdag 1. juli",
+            "datetime": "2023-07-01 16:51:35",
+            "niceformat": "01.07.2023, 16:51",
+            "timestamp": "2023-07-01T14:51:35.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/aba9f81a-1ea8-4eb8-9c37-03fbf749dd0e?fit=crop&format=auto&h=267&w=400&s=df855bbe12f4884f501fe89ed0010cf0de9c6ccb",
+            "width": 400
+        },
+        "title": "Riises Avaldsnes knust i nøkkelkamp",
+        "url": "https://www.vg.no/sport/fotball/i/nQl35x/riises-avaldsnes-knust-i-noekkelkamp"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "KnXO0E",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/KnXO0E",
+        "preamble": "Harry Winks (27) tar steget ned til Championship og er klar for Leicester.",
+        "published": {
+            "date": "lørdag 1. juli",
+            "datetime": "2023-07-01 14:33:47",
+            "niceformat": "01.07.2023, 14:33",
+            "timestamp": "2023-07-01T12:33:47.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ea73e3e2-6e51-4631-a6f1-88f9358ca14f?fit=crop&format=auto&h=267&w=400&s=3ff21c95eaccea93fb1322b096986324da5b69b1",
+            "width": 400
+        },
+        "title": "Tottenham-spiller til Leicester",
+        "url": "https://www.vg.no/sport/fotball/i/KnXO0E/tottenham-spiller-til-leicester"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "mQxX41",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/mQxX41",
+        "preamble": "Årets første sommermåned er over og lørdag skriver vi 1. juli. Foruten ferie, sol og varme betyr det for mange fotballspillere utløpt kontrakt. Flere store stjerner er nå kontraktsløse og kan gå gratis til nye klubber.",
+        "published": {
+            "date": "lørdag 1. juli",
+            "datetime": "2023-07-01 12:36:20",
+            "niceformat": "01.07.2023, 12:36",
+            "timestamp": "2023-07-01T10:36:20.000Z"
+        },
+        "thumbnail": {
+            "height": 261,
+            "url": "https://akamai.vgc.no/v2/images/f778a813-18c6-4408-a3ce-1b20761a52fd?fit=crop&format=auto&h=261&w=400&s=2f6a24825e5b3a0252aab2357a5241324e3d5618",
+            "width": 400
+        },
+        "title": "Disse stjernene står uten kontrakt",
+        "url": "https://www.vg.no/sport/fotball/i/mQxX41/disse-stjernene-staar-uten-kontrakt"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "MoX4Br",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/MoX4Br",
+        "preamble": "Marcus Thuram er klar for den italienske storklubben, og skal konkurrere mot Romelu Lukaku og Lautaro Martínez.",
+        "published": {
+            "date": "lørdag 1. juli",
+            "datetime": "2023-07-01 11:17:20",
+            "niceformat": "01.07.2023, 11:17",
+            "timestamp": "2023-07-01T09:17:20.000Z"
+        },
+        "thumbnail": {
+            "height": 225,
+            "url": "https://akamai.vgc.no/v2/images/797c2f25-c80e-452b-aa2a-888d422ff25d?fit=crop&format=auto&h=225&w=400&s=0edf2986477d7e32178afff49ba12deceb60e94e",
+            "width": 400
+        },
+        "title": "Inter bekrefter spiss-signering",
+        "url": "https://www.vg.no/sport/fotball/i/MoX4Br/inter-bekrefter-spiss-signering"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            },
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "MoXz0E",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/MoXz0E",
+        "preamble": "Etter trippelsesongen med Manchester City og mål i begge juni-landskampene for Norge, unner Erling Braut Haaland (22) seg en «sydenferie».",
+        "published": {
+            "date": "lørdag 1. juli",
+            "datetime": "2023-07-01 02:44:13",
+            "niceformat": "01.07.2023, 02:44",
+            "timestamp": "2023-07-01T00:44:13.000Z"
+        },
+        "thumbnail": {
+            "height": 501,
+            "url": "https://akamai.vgc.no/v2/images/2a3764ef-9d40-4d13-832c-b12fb465587b?fit=crop&format=auto&h=501&w=400&s=f580296f53fd694a86523f16c604fa0d4706b49b",
+            "width": 400
+        },
+        "title": "Haaland reiste på Ibiza-ferie: – Den snilleste og varmeste spilleren jeg har møtt",
+        "url": "https://www.vg.no/sport/fotball/i/MoXz0E/premier-league-manchester-city-stjernen-erling-braut-haaland-paa-ferie-med-erik-botheim-paa-ibiza"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "pQx7GG",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/pQx7GG",
+        "preamble": "(LSK Kvinner – Vålerenga 2–0) VM-uttatte Guro Pettersen fikk seg en skikkelig smell i hodet mot LSK Kvinner og måtte byttes ut kort tid før VM. Vondt gikk til verre for Vålerenga som tapte sesongens første kamp.",
+        "published": {
+            "date": "fredag 30. juni",
+            "datetime": "2023-06-30 19:44:32",
+            "niceformat": "30.06.2023, 19:44",
+            "timestamp": "2023-06-30T17:44:32.000Z"
+        },
+        "thumbnail": {
+            "height": 225,
+            "url": "https://akamai.vgc.no/v2/images/4d7fdafe-cbc5-43cd-bdea-f2516912d11d?fit=crop&format=auto&h=225&w=400&s=b21225cb72bac5bbcd568a7428bc906e32454560",
+            "width": 400
+        },
+        "title": "Vålerenga med sesongens første tap – VM-klare Pettersen forlot banen i tårer",
+        "url": "https://www.vg.no/sport/fotball/i/pQx7GG/toppserien-lillestroem-vaalerenga"
+    }
+]

@@ -1,0 +1,197 @@
+[
+    {
+        "slug": "ranheim-2-tok-sin-tredje-seier-paa-rad",
+        "url": "/lokalfotballen/i/0QkrVo/ranheim-2-tok-sin-tredje-seier-paa-rad",
+        "title": {
+            "value": "Ny seier for Ranheim 2"
+        },
+        "description": "Ranheim 2 slo Vinne 4-1 hjemme i J17 2. divisjon, Avdeling 1 - Vår. Ranheim 2 har vunnet alle kampene denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-09T18:47:35Z",
+        "lastModifiedAt": "2023-05-09T18:49:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "sjetne-2-7er-seiret-i-maalfest",
+        "url": "/lokalfotballen/i/zEb9A4/sjetne-2-7er-seiret-i-maalfest",
+        "title": {
+            "value": "Sjetne 2 7er slo Ranheim i målfest"
+        },
+        "description": "Ranheim ble slått 10-6 av Sjetne 2 7er og tapte dermed sin første kamp denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-09T18:47:34Z",
+        "lastModifiedAt": "2023-05-09T18:49:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ranheim-2-vant-over-nidelv-2",
+        "url": "/lokalfotballen/i/gEBJWk/ranheim-2-vant-over-nidelv-2",
+        "title": {
+            "value": "Borteseier for Ranheim 2 over Nidelv 2"
+        },
+        "description": "Ranheim 2 slo Nidelv 2 4-0 og tok sin første seier i årets sesong. I G13 2. divisjon, Avdeling 4 - Vår tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-09T18:08:34Z",
+        "lastModifiedAt": "2023-05-09T18:16:53Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "dobbel-fra-johanna-opheim-for-snaasa",
+        "url": "/lokalfotballen/i/P4qO36/dobbel-fra-johanna-opheim-for-snaasa",
+        "title": {
+            "value": "Snåsa tok sin fjerde seier på rad"
+        },
+        "description": "Snåsa slo Inderøy 3-1 og har dermed vunnet alle kampene sine hittil denne sesongen. I J14 2. divisjon, Avdeling 2 - Vår tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-09T18:03:22Z",
+        "lastModifiedAt": "2023-05-09T18:18:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "danil-jermolajevs-scoret-hattrick-mot-orkanger-2",
+        "url": "/lokalfotballen/i/BWq6J0/danil-jermolajevs-scoret-hattrick-mot-orkanger-2",
+        "title": {
+            "value": "Frøya IL seiret borte mot Orkanger 2"
+        },
+        "description": "Danil Jermolajevs ledet an med tre mål i 5-1-seieren over Orkanger 2 i G16 3. divisjon, Avdeling 2 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-09T17:58:15Z",
+        "lastModifiedAt": "2023-05-09T18:17:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    },
+    {
+        "slug": "siste-fra-breddefotballen",
+        "url": "/sport/fotball/i/GMjXaq/siste-fra-breddefotballen",
+        "title": {
+            "value": "Ole Sæters lillebror gjør klubbytte: - Drømmen er å spille foran Kjernen"
+        },
+        "description": null,
+        "imageUrl": "bd54f0d7-743e-492e-a832-8ff878d8d22b",
+        "publishedAt": "2023-03-24T14:51:36Z",
+        "lastModifiedAt": "2023-05-09T10:22:27Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "fotball",
+            "breddefotbaill",
+            "lokalfotballen",
+            "breddefotball"
+        ]
+    },
+    {
+        "slug": "den-gamle-rbk-kjempen-innroemmer-en-veldig-tung-periode",
+        "url": "/sport/fotball/i/BWmlnv/den-gamle-rbk-kjempen-innroemmer-en-veldig-tung-periode",
+        "title": {
+            "value": "RBK-legenden: - Surrealistisk. Ingen tenkte det skulle gå så langt"
+        },
+        "description": "I høst gjør Erik Hoftun comeback i fotballen, for første gang siden RBK-sparkingen og rettssaken som fulgte. Men han kunne vært tilbake tidligere.",
+        "imageUrl": "c201bfd4-1650-4937-994c-3018adca1b7a",
+        "publishedAt": "2023-05-09T15:31:17Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "erik-hoftun",
+            "kaare-ingebrigtsen",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "polsk-klubb-forhoerte-seg-om-rbk-profil",
+        "url": "/sport/fotball/i/wAbx8L/polsk-klubb-forhoerte-seg-om-rbk-profil",
+        "title": {
+            "value": "Utenlandsk klubb forhørte seg om RBK-profil"
+        },
+        "description": "Lech Poznan har Carlo Holse (23) høyt på ønskelista. Men ingenting tyder på at polakkene får det som de vil.",
+        "imageUrl": "52f47908-a7c5-4ac9-acde-1e6e3c8e0c2f",
+        "publishedAt": "2023-05-09T12:52:37Z",
+        "lastModifiedAt": "2023-05-09T12:59:19Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken",
+            "Petter Rasmus",
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "rbk-talentene-ble-sendt-til-sykehus-tvinges-til-aa-ta-pause",
+        "url": "/sport/fotball/i/O8qzyk/rbk-talentene-ble-sendt-til-sykehus-tvinges-til-aa-ta-pause",
+        "title": {
+            "value": "RBK-talentene ble sendt til sykehus - tvinges til å ta pause"
+        },
+        "description": null,
+        "imageUrl": "5d4fb7c3-b701-4fa3-8d97-69a1af15605d",
+        "publishedAt": "2023-05-09T12:46:22Z",
+        "lastModifiedAt": "2023-05-09T13:50:27Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "breddefotbaill",
+            "lokalfotballen"
+        ]
+    },
+    {
+        "slug": "her-gaar-de-loes-paa-hverandre-midt-i-trondheim-sentrum",
+        "url": "/nyheter/trondheim/i/pQbrP1/her-gaar-de-loes-paa-hverandre-midt-i-trondheim-sentrum",
+        "title": {
+            "value": "Plutselig begynte svartkledde menn å slåss midt i Trondheim"
+        },
+        "description": "Med barnefamilier og andre forbipasserende som vitner, barket fotballsupportere fra RBK og Vålerenga sammen på åpen gate lørdag. Nå har politiet gitt reaksjoner.",
+        "imageUrl": "9a715663-4b77-4b93-a4c8-8baf8247275c",
+        "publishedAt": "2023-05-09T11:57:10Z",
+        "lastModifiedAt": "2023-05-09T12:07:25Z",
+        "premium": true,
+        "authors": [
+            "Pål E. Solberg",
+            "Camilla Kilnes"
+        ],
+        "tags": [
+            "troendelag-politidistrikt",
+            "trondheim"
+        ]
+    }
+]

@@ -1,0 +1,190 @@
+[
+    {
+        "slug": "storseier-for-sparbu",
+        "url": "/lokalfotballen/i/4oXpR6/storseier-for-sparbu",
+        "title": {
+            "value": "Storseier for Sparbu"
+        },
+        "description": "Byafossen ble knust 5-1 av Sparbu i 6. divisjon, Trøndelag - Avdeling 1 i fotball for menn mandag. Byafossen har tapt tre strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T20:03:43Z",
+        "lastModifiedAt": "2023-05-01T20:03:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "siste-fra-breddefotballen",
+        "url": "/sport/fotball/i/GMjXaq/siste-fra-breddefotballen",
+        "title": {
+            "value": "Måtte operere etter skrekkskade: - Du føler når det knekker"
+        },
+        "description": null,
+        "imageUrl": "1d9b693d-97b9-46fb-994e-f4d11078ff0d",
+        "publishedAt": "2023-03-24T14:51:36Z",
+        "lastModifiedAt": "2023-04-23T20:17:37Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "fotball",
+            "breddefotbaill",
+            "lokalfotballen",
+            "breddefotball"
+        ]
+    },
+    {
+        "slug": "nardo-seiret-over-vestbyen",
+        "url": "/lokalfotballen/i/vezRnl/nardo-seiret-over-vestbyen",
+        "title": {
+            "value": "Nardo seiret over Vestbyen"
+        },
+        "description": "Vestbyen tapte 2-3 mot Nardo på Nissekollen i 3. divisjon, Trøndelag i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T19:58:33Z",
+        "lastModifiedAt": "2023-05-01T19:58:33Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "bye-scoret-hattrick-for-tiller-2",
+        "url": "/lokalfotballen/i/vezRwl/bye-scoret-hattrick-for-tiller-2",
+        "title": {
+            "value": "Bye ble tremålshelt"
+        },
+        "description": "Tiller 2 tok sin tredje strake seier med 5-2 over Verdal i 3. divisjon, Trøndelag i fotball. Emma Kalvøy Bye scoret tre av målene.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T19:46:53Z",
+        "lastModifiedAt": "2023-05-01T19:50:11Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "moravec-boettet-inn-maal-for-trygg-lade-7er",
+        "url": "/lokalfotballen/i/0QXRL2/moravec-boettet-inn-maal-for-trygg-lade-7er",
+        "title": {
+            "value": "Moravec med målshow"
+        },
+        "description": "Trygg/Lade 7er banket Kolstad 7er 13-1 i 7er, Trøndelag - Avdeling 2 mandag. Kolstad 7er har gått poengløse av banen i to strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T19:38:49Z",
+        "lastModifiedAt": "2023-05-01T19:51:13Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "maalshow-fra-strindheim",
+        "url": "/lokalfotballen/i/rlGxMw/maalshow-fra-strindheim",
+        "title": {
+            "value": "Lund scoret hattrick for Strindheim"
+        },
+        "description": "Strindheim kan juble for full pott så langt denne sesongen, etter å ha slått Rosenborg 2 7-1. I 3. divisjon, Avdeling 5 i fotball for menn. Fredrik Lund scoret tre av målene.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T18:57:50Z",
+        "lastModifiedAt": "2023-05-01T19:49:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "inderoey-ble-slaatt-i-maalfest",
+        "url": "/lokalfotballen/i/RGlg5x/inderoey-ble-slaatt-i-maalfest",
+        "title": {
+            "value": "Tredje seier på rad for Byåsen 2"
+        },
+        "description": "Byåsen 2 slo Inderøy på bortebane 16-1 og fikk dermed med seg tre poeng i G13 1. divisjon, Avdeling 2 - Vår mandag. Dermed har Byåsen 2 vunnet tre kamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T18:50:27Z",
+        "lastModifiedAt": "2023-05-01T19:21:23Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "dobbel-fra-borgan-for-kvam",
+        "url": "/lokalfotballen/i/mQymQE/dobbel-fra-borgan-for-kvam",
+        "title": {
+            "value": "Flatanger 2 ble slått i målfest"
+        },
+        "description": "Kvam kunne juble for årets første trepoenger etter dagens 4-2-seier mot Flatanger 2. i 6. divisjon, Trøndelag - Avdeling 1 i fotball for menn mandag. Mads Noem Borgan scoret to av målene.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T18:20:42Z",
+        "lastModifiedAt": "2023-05-01T19:50:11Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "ntnui-2-tapte-hjemme-mot-orkanger",
+        "url": "/lokalfotballen/i/Mopyom/ntnui-2-tapte-hjemme-mot-orkanger",
+        "title": {
+            "value": "NTNUI 2 tapte hjemme mot Orkanger"
+        },
+        "description": "NTNUI 2 tapte 0-1 mot Orkanger da Sham Teame Gebremanes scoret kampen eneste mål i 5. divisjon, Trøndelag - Avdeling 2 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T18:18:19Z",
+        "lastModifiedAt": "2023-05-01T18:18:19Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "tiller-ble-slaatt-av-charlottenlund",
+        "url": "/lokalfotballen/i/vezReV/tiller-ble-slaatt-av-charlottenlund",
+        "title": {
+            "value": "Bortetap for Tiller"
+        },
+        "description": "Tiller ble slått 0-5 av Charlottenlund på CSK Varmbo Arena i J13 1. divisjon, Avdeling 2 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T18:18:19Z",
+        "lastModifiedAt": "2023-05-01T18:22:07Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

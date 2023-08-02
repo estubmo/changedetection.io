@@ -1,0 +1,211 @@
+[
+    {
+        "slug": "dobbel-fra-soerdal-for-aalen",
+        "url": "/lokalfotballen/i/VPX8o1/dobbel-fra-soerdal-for-aalen",
+        "title": {
+            "value": "Dobbel fra Sørdal for Ålen"
+        },
+        "description": "Isak Evenås Sørdal ledet an med to av målene i 3-0-seieren over Strindheim 3 i 5. divisjon, Trøndelag - Avdeling 3 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-27T19:13:22Z",
+        "lastModifiedAt": "2023-06-27T21:35:53Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "mener-klaebos-valg-gjoer-dem-svekket-skadelig",
+        "url": "/sport/langrenn/i/abeov5/mener-klaebos-valg-gjoer-dem-svekket-skadelig",
+        "title": {
+            "value": "Varsler negativ trend for de gamle lagkompisene: – Skadelig"
+        },
+        "description": "Langrennslandslaget har mistet sine største profiler. Medieekspert Svein Tore Bergestuen tror Johannes Høsflot Klæbos exit gjør vondt verre.",
+        "imageUrl": "63e982a4-be3a-4d97-b54f-245c82b81728",
+        "publishedAt": "2023-06-27T18:38:39Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "langrenn",
+            "johannes-hoesflot-klaebo",
+            "emil-iversen",
+            "svein-tore-bergestuen",
+            "gro-eide",
+            "lasse-gimnes",
+            "norges-skiforbund"
+        ]
+    },
+    {
+        "slug": "i-fjor-fikk-de-ikke-komme-i-aar-er-de-som-kjendiser-paa-sletta",
+        "url": "/nyheter/trondheim/i/EQXg6a/i-fjor-fikk-de-ikke-komme-i-aar-er-de-som-kjendiser-paa-sletta",
+        "title": {
+            "value": "– Dette er ikke helt normalt. Det er ikke slik vi blir mottatt hjemme"
+        },
+        "description": "– Dette været er vi vant til. Vi tror virkelig vi har en fordel når det er så varmt.",
+        "imageUrl": "ab9a0ff1-b5bd-4f2a-8b98-0746c3a01ae8",
+        "publishedAt": "2023-06-27T17:18:53Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Norunn Bergesen",
+            "David Engmo"
+        ],
+        "tags": [
+            "skandia",
+            "fotball",
+            "kenya",
+            "trondheim",
+            "troendelag"
+        ]
+    },
+    {
+        "slug": "naa-kan-du-faa-spille-kamp-mot-rbk-stjernene",
+        "url": "/sport/fotball/i/6918lO/naa-kan-du-faa-spille-kamp-mot-rbk-stjernene",
+        "title": {
+            "value": "Nå kan du få spille kamp mot RBK-stjernene"
+        },
+        "description": "Er du Trøndelags beste målvakt, møtende spiss eller indreløper i lavere divisjon? I så fall kan du havne på «Folkets lag» og møte RBKs A-lag.",
+        "imageUrl": "17d73bb7-69aa-4fde-93ee-a10cebd10e17",
+        "publishedAt": "2023-06-27T17:00:19Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Adresseavisen"
+        ],
+        "tags": [
+            "fotball",
+            "breddefotbaill",
+            "lokalfotballen",
+            "rosenborg-bk",
+            "adressasnapchat-2"
+        ]
+    },
+    {
+        "slug": "rbk-kapteinen-trolig-ute-resten-av-sesongen",
+        "url": "/sport/fotball/i/VPX34W/rbk-kapteinen-trolig-ute-resten-av-sesongen",
+        "title": {
+            "value": "RBK-kapteinen trolig ute resten av sesongen: – En nedslående beskjed å få"
+        },
+        "description": "Svaret på undersøkelsene av Markus Henriksens skade var nedslående.",
+        "imageUrl": "4b8434c0-bbb4-422a-af76-09b7578e618a",
+        "publishedAt": "2023-06-27T07:53:23Z",
+        "lastModifiedAt": "2023-06-27T08:10:08Z",
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "markus-henriksen",
+            "eliteserien",
+            "svein-maalen"
+        ]
+    },
+    {
+        "slug": "se-kamper-direkte-fra-skandia-cup",
+        "url": "/sport/fotball/i/l3amqe/se-kamper-direkte-fra-skandia-cup",
+        "title": {
+            "value": "Se kamper fra Skandia cup her"
+        },
+        "description": "Adresseavisen viser kamper fra Skandia cup gjennom hele uka.",
+        "imageUrl": "9e255d2e-2a98-4100-9c99-e89c31d45600",
+        "publishedAt": "2023-06-26T06:38:16Z",
+        "lastModifiedAt": "2023-06-28T04:15:08Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "skandia-cup",
+            "breddefotbaill",
+            "lokalfotballen"
+        ]
+    },
+    {
+        "slug": "holse-har-et-oenske-kan-ikke-bare-skifte-til-4-3-3-og-saa-kommer-nils-arne-tilbake",
+        "url": "/sport/fotball/i/dwa09J/holse-har-et-oenske-kan-ikke-bare-skifte-til-4-3-3-og-saa-kommer-nils-arne-tilbake",
+        "title": {
+            "value": "Holse: - Trondheim er ikke den mest tålmodige byen"
+        },
+        "description": "Carlo Holse er klar på at Rosenborg trenger tid.",
+        "imageUrl": "4facc45d-b56a-4087-93b4-a67e54dae952",
+        "publishedAt": "2023-06-27T05:28:13Z",
+        "lastModifiedAt": "2023-06-27T05:29:51Z",
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "fotball",
+            "rosenborg-bk",
+            "norsk-fotball",
+            "svein-maalen",
+            "kjetil-rekdal"
+        ]
+    },
+    {
+        "slug": "to-fulltreffere-fra-sadiku",
+        "url": "/lokalfotballen/i/KnX73E/to-fulltreffere-fra-sadiku",
+        "title": {
+            "value": "Sadiku i scoringshumør"
+        },
+        "description": "Kolstad gikk på sitt sjette strake tap da klubben tapte 0-3 for Rosenborg 2 Agon Sadiku scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-26T17:57:45Z",
+        "lastModifiedAt": "2023-06-27T11:36:10Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "i-fjor-gikk-overgangen-i-vasken-naa-er-hun-klar-for-rbk",
+        "url": "/sport/fotball/i/JQX2y6/i-fjor-gikk-overgangen-i-vasken-naa-er-hun-klar-for-rbk",
+        "title": {
+            "value": "I fjor gikk overgangen i vasken - nå er hun klar for RBK"
+        },
+        "description": "Ett år på overtid kan endelig Camilla Linberg kalle seg for Rosenborg-spiller. Hun måtte bare et år innom Serie A først.",
+        "imageUrl": "ae456e7d-e3df-49f1-986d-5fc31c816a3c",
+        "publishedAt": "2023-06-26T15:03:50Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ine Skjellum",
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "sport",
+            "fotball",
+            "rosenborg-kvinner",
+            "steinar-lein",
+            "overgang-bekreftet"
+        ]
+    },
+    {
+        "slug": "30-grader-i-troendelag",
+        "url": "/nyheter/i/P4X2yb/30-grader-i-troendelag",
+        "title": {
+            "value": "Hit strømmet trønderne da tempen bikket 30 grader"
+        },
+        "description": "Mandag var det meldt opp mot 30 grader i Trondheim. Mange tok turen til Korsvika i Trondheim for å nyte finværet.",
+        "imageUrl": "7083f665-3c3c-4300-ba55-14a23abda3aa",
+        "publishedAt": "2023-06-26T14:13:20Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Lea Lauvland Longva",
+            "John Birger Morud"
+        ],
+        "tags": [
+            "adressasnapchat-2"
+        ]
+    }
+]

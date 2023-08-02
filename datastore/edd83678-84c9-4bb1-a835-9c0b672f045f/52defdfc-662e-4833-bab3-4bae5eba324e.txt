@@ -1,0 +1,190 @@
+[
+    {
+        "slug": "maalshow-fra-strindheim",
+        "url": "/lokalfotballen/i/rlGxMw/maalshow-fra-strindheim",
+        "title": {
+            "value": "Målshow fra Lund"
+        },
+        "description": "Rosenborg 2 ledet 1-0, men Strindheim snudde kampen og vant 7-1 i 3. divisjon, Avdeling 5 mandag. Strindheim har vunnet alle sine kamper så langt denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T18:57:50Z",
+        "lastModifiedAt": "2023-05-01T19:19:17Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "inderoey-ble-slaatt-i-maalfest",
+        "url": "/lokalfotballen/i/RGlg5x/inderoey-ble-slaatt-i-maalfest",
+        "title": {
+            "value": "Storseier for Byåsen 2"
+        },
+        "description": "Byåsen 2 seiret 16-1 over Inderøy borte i G13 1. divisjon, Avdeling 2 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T18:50:27Z",
+        "lastModifiedAt": "2023-05-01T18:53:44Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "dobbel-fra-borgan-for-kvam",
+        "url": "/lokalfotballen/i/mQymQE/dobbel-fra-borgan-for-kvam",
+        "title": {
+            "value": "Dobbel fra Borgan for Kvam"
+        },
+        "description": "Mads Noem Borgan scoret to mål og hjalp Kvam til 4-2-seier over Flatanger 2 i 6. divisjon, Trøndelag - Avdeling 1 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T18:20:42Z",
+        "lastModifiedAt": "2023-05-01T18:20:42Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "ntnui-2-tapte-hjemme-mot-orkanger",
+        "url": "/lokalfotballen/i/Mopyom/ntnui-2-tapte-hjemme-mot-orkanger",
+        "title": {
+            "value": "NTNUI 2 tapte hjemme mot Orkanger"
+        },
+        "description": "NTNUI 2 tapte 0-1 mot Orkanger da Sham Teame Gebremanes scoret kampen eneste mål i 5. divisjon, Trøndelag - Avdeling 2 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T18:18:19Z",
+        "lastModifiedAt": "2023-05-01T18:18:19Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "tiller-ble-slaatt-av-charlottenlund",
+        "url": "/lokalfotballen/i/vezReV/tiller-ble-slaatt-av-charlottenlund",
+        "title": {
+            "value": "Bortetap for Tiller"
+        },
+        "description": "Tiller ble slått 0-5 av Charlottenlund på CSK Varmbo Arena i J13 1. divisjon, Avdeling 2 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T18:18:19Z",
+        "lastModifiedAt": "2023-05-01T18:22:07Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "hjemmetap-for-melhus-gimse",
+        "url": "/lokalfotballen/i/kEyn6A/hjemmetap-for-melhus-gimse",
+        "title": {
+            "value": "Melhus/Gimse tapte hjemme"
+        },
+        "description": "Melhus/Gimse gav bort alle poengene da de tapte 3-1 mot Ranheim i J13 1. divisjon, Avdeling 2 - Vår mandag. Det var Ranheims første seier i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T18:14:12Z",
+        "lastModifiedAt": "2023-05-01T18:22:10Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "sverresborg-2-7er-snudde-til-seier-i-sluttminuttene",
+        "url": "/lokalfotballen/i/8J74B2/sverresborg-2-7er-snudde-til-seier-i-sluttminuttene",
+        "title": {
+            "value": "Sverresborg 2 7er snudde til seier på tampen over Skaun 7er"
+        },
+        "description": "Skaun 7er gav bort alle poengene da Sverresborg 2 7er snudde til seier i sluttminuttene i 7er, Trøndelag - Avdeling 3 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T18:02:05Z",
+        "lastModifiedAt": "2023-05-01T18:20:41Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "ranheim-reddet-poeng",
+        "url": "/lokalfotballen/i/mQym1L/ranheim-reddet-poeng",
+        "title": {
+            "value": "Ranheim reddet uavgjort"
+        },
+        "description": "Vinne/Verdal var på vei mot seier, men måtte nøye seg med 1-1 mot Ranheim",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T17:58:02Z",
+        "lastModifiedAt": "2023-05-01T18:20:42Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "bortetap-for-flataas-mot-rindal-2",
+        "url": "/lokalfotballen/i/vezRWp/bortetap-for-flataas-mot-rindal-2",
+        "title": {
+            "value": "Flatås-tap mot Rindal 2"
+        },
+        "description": "Daniel Hagen Eide sikret tre poeng for Rindal 2 da Flatås ble slått 2-1 i 6. divisjon, Trøndelag - Avdeling 5 i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T17:05:07Z",
+        "lastModifiedAt": "2023-05-01T17:20:26Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "borteseier-for-tynset-over-roeros",
+        "url": "/lokalfotballen/i/8J7aed/borteseier-for-tynset-over-roeros",
+        "title": {
+            "value": "Røros tapte på hjemmebane"
+        },
+        "description": "Tynset slo Røros 3-1 på Øra 6 i G14 1. divisjon, Avdeling 2 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T16:14:36Z",
+        "lastModifiedAt": "2023-05-01T17:49:47Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

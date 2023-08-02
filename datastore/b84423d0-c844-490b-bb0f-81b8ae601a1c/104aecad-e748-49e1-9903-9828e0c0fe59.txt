@@ -1,0 +1,363 @@
+[
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "nQbPAx",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/nQbPAx",
+        "preamble": "Hvis du setter en hundrelapp på Rosenborg-seier mot Bodø/Glimt, kan du nå få igjen ni-gangen av pengene. Norsk Tipping har ikke sett maken i norsk fotballhistorie.",
+        "published": {
+            "date": "fredag 12. mai",
+            "datetime": "2023-05-12 11:57:14",
+            "niceformat": "12.05.2023, 11:57",
+            "timestamp": "2023-05-12T09:57:14.000Z"
+        },
+        "thumbnail": {
+            "height": 242,
+            "url": "https://akamai.vgc.no/v2/images/cab83b0b-f5d0-4ec8-b44a-8cc07d05fac5?fit=crop&format=auto&h=242&w=400&s=2d1596af2fd0dba295867464968cca6bc4335e5f",
+            "width": 400
+        },
+        "title": "Rekordhøy odds på Rosenborg: – Aldri sett lignende",
+        "url": "https://www.vg.no/sport/fotball/i/nQbPAx/rekordhoey-odds-paa-rosenborg-aldri-sett-lignende"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "bgoJed",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/bgoJed",
+        "preamble": "Erling Braut Haaland (22) ble stemt frem som årets spiller av journalistene i Storbritannia med soleklar margin. Martin Ødegaard (24) ble nummer tre i kåringen. ",
+        "published": {
+            "date": "fredag 12. mai",
+            "datetime": "2023-05-12 11:02:33",
+            "niceformat": "12.05.2023, 11:02",
+            "timestamp": "2023-05-12T09:02:33.000Z"
+        },
+        "thumbnail": {
+            "height": 240,
+            "url": "https://akamai.vgc.no/v2/images/27bd2c41-ec3d-4f32-9962-7570ab8dcfe7?fit=crop&format=auto&h=240&w=400&s=e8f7caea15de247086610e9129e131c438b907bd",
+            "width": 400
+        },
+        "title": "Haaland vant pris med rekordmargin",
+        "url": "https://www.vg.no/sport/fotball/i/bgoJed/haaland-kaaret-til-sesongens-spiller-i-premier-league-av-journalistene"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69KMgo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69KMgo",
+        "preamble": "Fire fotballspillere verdsettes til over 200 millioner euro av analysebyrået CIES. Erling Braut Haaland er med i toppen, men har to mann foran seg.",
+        "published": {
+            "date": "fredag 12. mai",
+            "datetime": "2023-05-12 07:11:55",
+            "niceformat": "12.05.2023, 07:11",
+            "timestamp": "2023-05-12T05:11:55.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0e1cc296-35f5-4536-b464-67809983cdb5?fit=crop&format=auto&h=267&w=400&s=b12c2c9f4c562ee2b3e87fb1f76280f3e9dadc76",
+            "width": 400
+        },
+        "title": "CIES: Verdsetter Haaland til over to milliarder kroner",
+        "url": "https://www.vg.no/sport/fotball/i/69KMgo/cies-verdsetter-erling-braut-haaland-til-over-to-milliarder-kroner"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwpQd1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwpQd1",
+        "preamble": "Brann er i ferd med å selge unge og lovende David Møller Wolfe (21) til AZ Alkmaar for 30 millioner kroner. Det melder Bergens Tidende.\n",
+        "published": {
+            "date": "torsdag 11. mai",
+            "datetime": "2023-05-11 23:33:26",
+            "niceformat": "11.05.2023, 23:33",
+            "timestamp": "2023-05-11T21:33:26.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/c3b95c97-0603-4e65-9032-1772e3a5cc05?fit=crop&format=auto&h=267&w=400&s=4187fb0389c4052874ec4c8985e16ebfc9e27cfb",
+            "width": 400
+        },
+        "title": "BT: Wolfe kan bli tidenes største Brann-salg",
+        "url": "https://www.vg.no/sport/fotball/i/dwpQd1/bt-david-moeller-wolfe-kan-bli-tidenes-stoerste-brann-salg"
+    },
+    {
+        "authors": [
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76QoGv",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76QoGv",
+        "preamble": "(Juventus–Sevilla 1–1, Roma–Bayer Leverkusen 1–0) Sevilla hadde Juventus i kne, men på overtid av overtiden utlignet Federico Gatti. José Mourinhos Roma sikret samtidig et godt utgangspunkt på hjemmebane.",
+        "published": {
+            "date": "torsdag 11. mai",
+            "datetime": "2023-05-11 22:58:37",
+            "niceformat": "11.05.2023, 22:58",
+            "timestamp": "2023-05-11T20:58:37.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/XoXZ9YCS4izS.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Overtidsdrama i semifinalen i Europa League: Juventus scoret seks minutter på overtid ",
+        "url": "https://www.vg.no/sport/fotball/i/76QoGv/overtids-drama-i-semifinalen-i-europa-league-juventus-scoret-seks-minutter-paa-overtid"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q1bxbE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q1bxbE",
+        "preamble": "Det har vært rapporter i Sør-Europa om at fotballstjerne Cristiano Ronaldo (38) skal være på kanten med sin kjæreste Georgina Rodriguez (29).",
+        "published": {
+            "date": "torsdag 11. mai",
+            "datetime": "2023-05-11 21:49:25",
+            "niceformat": "11.05.2023, 21:49",
+            "timestamp": "2023-05-11T19:49:25.000Z"
+        },
+        "thumbnail": {
+            "height": 299,
+            "url": "https://akamai.vgc.no/v2/images/baf41aa6-324a-4687-bb89-f488cd906af0?fit=crop&format=auto&h=299&w=400&s=c856963212dd5429657976a9499b0a62f2803654",
+            "width": 400
+        },
+        "title": "Ronaldos mamma ut mot «sladder»: – Bare løgn",
+        "url": "https://www.vg.no/sport/fotball/i/q1bxbE/cristiano-ronaldos-mamma-ut-mot-spansk-og-portugisisk-sladder-bare-loegn"
+    },
+    {
+        "authors": [
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPpXll",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPpXll",
+        "preamble": "Ole Gunnar Solskjærs tidligere lagkamerat i Manchester United, Dwight Yorke, mener klubben ikke er blitt bedre under Erik ten Hags ledelse. ",
+        "published": {
+            "date": "torsdag 11. mai",
+            "datetime": "2023-05-11 20:10:48",
+            "niceformat": "11.05.2023, 20:10",
+            "timestamp": "2023-05-11T18:10:48.000Z"
+        },
+        "thumbnail": {
+            "height": 294,
+            "url": "https://akamai.vgc.no/v2/images/b294f075-e829-4323-a15e-020576a48109?fit=crop&format=auto&h=294&w=400&s=3df7d06ae6e06f37f8ea3eb9e7a62ed922290d1b",
+            "width": 400
+        },
+        "title": "Manchester United-helt kritisk til ten Hag: – Har tapt mer enn Solskjær",
+        "url": "https://www.vg.no/sport/fotball/i/VPpXll/tidligere-manchester-united-profil-dwight-yorke-er-ikke-imponert-over-erik-ten-hag-taper-mer-enn-ole-gunnar-solskjaer"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "onlxlV",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/onlxlV",
+        "preamble": "Arsenals sesongavslutning går uten nøkkelspillerne William Saliba og Oleksandr Zintsjenko, melder The Athletic. Det er et hardt slag for tittelutfordreren.",
+        "published": {
+            "date": "torsdag 11. mai",
+            "datetime": "2023-05-11 19:28:33",
+            "niceformat": "11.05.2023, 19:28",
+            "timestamp": "2023-05-11T17:28:33.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/cd656712-6c35-49da-af90-4cfd71698f9e?fit=crop&format=auto&h=267&w=400&s=08f67bc7b99b71d2e51fa7d9a501bf6b62b01b2b",
+            "width": 400
+        },
+        "title": "The Athletic: Arsenal uten viktig forsvarsduo i serieinnspurten",
+        "url": "https://www.vg.no/sport/fotball/i/onlxlV/the-athletic-arsenal-uten-viktig-forsvarsduo-i-serieinnspurten"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3Ez7zM",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3Ez7zM",
+        "preamble": "John Arne Riise har skrevet under på en ny kontrakt med Toppserien-klubben.",
+        "published": {
+            "date": "torsdag 11. mai",
+            "datetime": "2023-05-11 13:55:05",
+            "niceformat": "11.05.2023, 13:55",
+            "timestamp": "2023-05-11T11:55:05.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/c9da02a6-8cfe-411d-a93f-d933ee1cbbe2?fit=crop&format=auto&h=267&w=400&s=9411c7d3ba6d03565bd7d895e5afc8ed73ca5a9e",
+            "width": 400
+        },
+        "title": "Riise forlenger kontrakten med Avaldsnes",
+        "url": "https://www.vg.no/sport/fotball/i/3Ez7zM/riise-forlenger-trenerkontrakten-med-avaldsnes"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9zMnK9",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9zMnK9",
+        "preamble": "Leicester ligger to poeng fra trygg grunn i Premier League og nedrykksspøkelset henger over King Power Stadium. Klubbhelten Jamie Vardy mener at å unngå nedrykk vil være større enn ligagullet i 2016.",
+        "published": {
+            "date": "torsdag 11. mai",
+            "datetime": "2023-05-11 10:59:32",
+            "niceformat": "11.05.2023, 10:59",
+            "timestamp": "2023-05-11T08:59:32.000Z"
+        },
+        "thumbnail": {
+            "height": 250,
+            "url": "https://akamai.vgc.no/v2/images/8687b6dc-fba6-4719-bd86-95015d7e7110?fit=crop&format=auto&h=250&w=400&s=a0a5e23d5beba8987f4f9142559da7b0d1e59aa1",
+            "width": 400
+        },
+        "title": "Vardy om nedrykkstrusselen: – Det smerter meg veldig",
+        "url": "https://www.vg.no/sport/fotball/i/9zMnK9/jamie-vardy-mener-at-aa-redde-leicester-fra-nedrykk-vil-vaere-karrierens-stoerste-prestasjon"
+    }
+]

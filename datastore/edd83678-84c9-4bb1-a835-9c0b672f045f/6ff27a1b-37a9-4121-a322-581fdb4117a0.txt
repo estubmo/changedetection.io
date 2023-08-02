@@ -1,0 +1,192 @@
+[
+    {
+        "slug": "mosjoeen-seier-over-nardo",
+        "url": "/lokalfotballen/i/76oJnK/mosjoeen-seier-over-nardo",
+        "title": {
+            "value": "Mosjøen vant over Nardo"
+        },
+        "description": "Mosjøen slo Nardo 3-1 hjemme i 3. divisjon, Avdeling 5 lørdag. Det brøt seiersrekken til Nardo på tre kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-24T14:57:20Z",
+        "lastModifiedAt": "2023-06-24T15:06:41Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "kalddusj-for-kaare-paa-overtid-tapte-mot-mjoendalen",
+        "url": "/sport/fotball/i/JQXM4P/kalddusj-for-kaare-paa-overtid-tapte-mot-mjoendalen",
+        "title": {
+            "value": "Skistjernens lillebror senket Kåres Ranheim"
+        },
+        "description": "Lillebror Stavås Skistad og Mjøndalen sikret seieren sekunder før slutt.",
+        "imageUrl": "38968bb0-02ed-4711-9d1e-66f53fb27ff4",
+        "publishedAt": "2023-06-24T14:52:56Z",
+        "lastModifiedAt": "2023-06-24T15:02:23Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "ranheim-tf",
+            "obos-ligaen",
+            "mjoendalen-if"
+        ]
+    },
+    {
+        "slug": "to-maal-paa-to-minutter-rosenborg-med-ny-hjemmeseier",
+        "url": "/sport/fotball/i/wAkXB1/to-maal-paa-to-minutter-rosenborg-med-ny-hjemmeseier",
+        "title": {
+            "value": "To mål på to minutter: RBK med ny hjemmeseier"
+        },
+        "description": "Rosenborg hadde full kontroll mot Åsane.",
+        "imageUrl": "6cc9db37-adbf-48a5-be8a-da929ebebf1f",
+        "publishedAt": "2023-06-24T14:51:15Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "fotball",
+            "toppserien"
+        ]
+    },
+    {
+        "slug": "ukas-laatanbefalinger-her-er-det-bare-aa-faa-paa-seg-fotballskjorta",
+        "url": "/kultur/i/abkAgd/ukas-laatanbefalinger-her-er-det-bare-aa-faa-paa-seg-fotballskjorta",
+        "title": {
+            "value": "Vi hadde Astrid S fra før – nå er det hennes tur"
+        },
+        "description": "En fotballklubb som tar over dansegulvet og en spennende coverlåt er bare noen av musikkens godbiter fra den siste uka.",
+        "imageUrl": "2b9dc053-f6a7-47a3-9f5d-5a568dfcb5ae",
+        "publishedAt": "2023-06-24T14:36:37Z",
+        "lastModifiedAt": "2023-06-24T14:38:06Z",
+        "premium": true,
+        "authors": [
+            "Kristina Bye"
+        ],
+        "tags": [
+            "musikkanmeldelse",
+            "magnus-boermark",
+            "musikk",
+            "steinkjerfestivalen",
+            "stargate"
+        ]
+    },
+    {
+        "slug": "arvidsson-sikret-seieren-for-gimse",
+        "url": "/lokalfotballen/i/JQXMj7/arvidsson-sikret-seieren-for-gimse",
+        "title": {
+            "value": "Arvidsson senket Brekken"
+        },
+        "description": "Trym Arvidsson sikret tre poeng for Gimse da Brekken ble slått 2-1 i 6. divisjon, Trøndelag - Avdeling 6 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-24T14:01:37Z",
+        "lastModifiedAt": "2023-06-24T14:07:21Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "rbks-brennhete-tenaaring-ringer-fra-ni-land",
+        "url": "/sport/fotball/i/0QO6M2/rbks-brennhete-tenaaring-ringer-fra-ni-land",
+        "title": {
+            "value": "- Det er bare rykter for meg"
+        },
+        "description": "Sverre Nypan linkes til flere storklubber i Europa, men har ikke hastverk. Nå forklarer både han og rådgiver-far Arne hvorfor.",
+        "imageUrl": "afab7f9c-ba82-46ab-b4a2-0c0a3b2106d3",
+        "publishedAt": "2023-06-24T13:03:13Z",
+        "lastModifiedAt": "2023-06-24T13:34:42Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "sverre-nypan",
+            "svein-maalen",
+            "kjetil-rekdal"
+        ]
+    },
+    {
+        "slug": "kristiansen-senket-sogndal-fk",
+        "url": "/lokalfotballen/i/8JVWaA/kristiansen-senket-sogndal-fk",
+        "title": {
+            "value": "Kristiansen avgjorde for Tiller"
+        },
+        "description": "Tiller har tatt poeng i fem kamper på rad etter dagens 1-0-seier i 2. divisjon, Avdeling 1 i fotball lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-24T13:00:42Z",
+        "lastModifiedAt": "2023-06-24T13:05:46Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "tekeste-med-maalshow",
+        "url": "/lokalfotballen/i/MoXWeM/tekeste-med-maalshow",
+        "title": {
+            "value": "Tekeste bøttet inn mål for Tynset 2"
+        },
+        "description": "Tynset 2 stanset Vestbyen 2s seiersrekke på fire kamper etter dagens 4-2-seier Bietlehem Tekeste scoret alle målene for Tynset 2.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-24T12:54:35Z",
+        "lastModifiedAt": "2023-06-24T13:05:46Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ny-seier-for-strindheim",
+        "url": "/lokalfotballen/i/veGXB4/ny-seier-for-strindheim",
+        "title": {
+            "value": "Strindheim vant igjen"
+        },
+        "description": "Strindheim slo Rana 4-0 og har dermed tatt poeng i fem kamper på rad i 3. divisjon, Avdeling 5 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-24T12:54:35Z",
+        "lastModifiedAt": "2023-06-24T13:35:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "foelg-rbk-aasane-direkte",
+        "url": "/sport/i/mQxyBO/foelg-rbk-aasane-direkte",
+        "title": {
+            "value": "Flere store muligheter for RBK"
+        },
+        "description": "Rosenborg tar imot Åsane til sesongens siste hjemmekamp før den lange sommerpausen på grunn av fotball-VM.",
+        "imageUrl": "d48875c8-6ccc-4d8f-9911-45feee27896a",
+        "publishedAt": "2023-06-24T12:30:00Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Yngve Bergli"
+        ],
+        "tags": []
+    }
+]

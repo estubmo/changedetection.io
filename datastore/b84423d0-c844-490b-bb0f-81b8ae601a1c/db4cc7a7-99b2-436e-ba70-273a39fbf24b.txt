@@ -1,0 +1,368 @@
+[
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEzVy5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEzVy5",
+        "preamble": "Flere medier skriver at Saudi-Arabia gir opp planene om å arrangere fotball-VM i 2030 sammen med Hellas og Egypt.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 22:21:32",
+            "niceformat": "22.06.2023, 22:21",
+            "timestamp": "2023-06-22T20:21:32.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/cea21022-2a96-4758-bb05-d713303a6561?fit=crop&format=auto&h=267&w=400&s=769541a1f05178492c95d6c2447691957183e1fd",
+            "width": 400
+        },
+        "title": "Medier: Saudi-Arabia gir opp drømmen om å arrangere fotball-VM",
+        "url": "https://www.vg.no/sport/fotball/i/zEzVy5/medier-saudi-arabia-gir-opp-droemmen-om-aa-arrangere-fotball-vm"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "MoXj90",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/MoXj90",
+        "preamble": "CLUJ, ROMANIA (VG) Sivert Mannsverk (21) ble byttet ut i pausen mot Sveits. Fra sidelinjen så Molde-bautaen laget tape 1–2 i EM-åpningen.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 22:06:50",
+            "niceformat": "22.06.2023, 22:06",
+            "timestamp": "2023-06-22T20:06:50.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/OWJSARcQvfwY.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "U21-profil forbannet etter sjefens valg: – Jeg forstår ingenting",
+        "url": "https://www.vg.no/sport/fotball/i/MoXj90/u21-profil-forbannet-etter-sjefens-valg-jeg-forstaar-ingenting"
+    },
+    {
+        "authors": [
+            {
+                "email": "svea@vg.no",
+                "id": "f852e5e5-5ba9-48c7-96da-9455a160031f",
+                "name": "Knut Espen Svegaarden"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEzVlq",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEzVlq",
+        "preamble": "(Norge-Sveits 1–2) Internasjonal fotball er nådeløs, det er marginer hele veien, også på U21-nivå. Landslagssjef Leif Gunnar Smerud valgte Mads Hedenstad Christiansen foran Kristoffer Klaesson i mål - og må leve med det.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 20:28:11",
+            "niceformat": "22.06.2023, 20:28",
+            "timestamp": "2023-06-22T18:28:11.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/2c69e349-ac7a-487a-9d89-b6cd25c16599?fit=crop&format=auto&h=267&w=400&s=81f3c718caac0c37b1299b6192b0e3b6a2e4b661",
+            "width": 400
+        },
+        "title": "Ikke godt nok på dette nivået",
+        "url": "https://www.vg.no/sport/fotball/i/zEzVlq/ikke-godt-nok-paa-dette-nivaaet"
+    },
+    {
+        "authors": [
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            },
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            },
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgd91n",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgd91n",
+        "preamble": "CLUJ, ROMANIA (VG) (Norge U21 – Sveits U21 1–2) Mads Hedenstad Christiansen (22) fikk hovedskylden for Norges krisestart i EM. Etter kampen uttalte landslagssjef Leif Gunnar Smerud (46) at Kristoffer Klaesson (22) står i mål mot Frankrike og at det var avtalt i forkant, noe Christiansen reagerer på.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 19:52:58",
+            "niceformat": "22.06.2023, 19:52",
+            "timestamp": "2023-06-22T17:52:58.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/316f1817-29b1-4ef6-ba6a-d0af876924d5?fit=crop&format=auto&h=267&w=400&s=c57a70b59fe0de04f67d6270e41e47b6dcae64e9",
+            "width": 400
+        },
+        "title": "Keeper Christiansen med tabbe i EM-nedtur - ble overrasket over beskjed om benking",
+        "url": "https://www.vg.no/sport/fotball/i/xgd91n/u21-em-norge-tapte-foerste-gruppekampen-mot-sveits"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPXa64",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPXa64",
+        "preamble": "De amerikanske eierne av Premier League-klubben Chelsea har inngått en avtale om å kjøpe opp den franske Ligue 1-klubben Strasbourg.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 19:46:10",
+            "niceformat": "22.06.2023, 19:46",
+            "timestamp": "2023-06-22T17:46:10.000Z"
+        },
+        "thumbnail": {
+            "height": 265,
+            "url": "https://akamai.vgc.no/v2/images/fe64a6e8-d966-4a86-ab92-3061dc40e709?fit=crop&format=auto&h=265&w=400&s=ea9f59895f8ea7e50871081cce69145952a32435",
+            "width": 400
+        },
+        "title": "Chelsea-eierne har kjøpt Ligue 1-klubben Strasbourg",
+        "url": "https://www.vg.no/sport/fotball/i/VPXa64/chelsea-eierne-har-kjoept-ligue-1-klubben-strasbourg"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76oBL4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76oBL4",
+        "preamble": "Jamie Carragher uttrykker sin bekymring etter at enda en stjerne blir linket til Saudi-Arabia.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 19:21:07",
+            "niceformat": "22.06.2023, 19:21",
+            "timestamp": "2023-06-22T17:21:07.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/587783c6-71b4-4609-aa08-95ae0a46a699?fit=crop&format=auto&h=266&w=400&s=bf298c34e762a21475435ebc54d86959ab066480",
+            "width": 400
+        },
+        "title": "Fotballekspert bekymret for utviklingen etter nye Saudi-rykter: – Vil endre alt",
+        "url": "https://www.vg.no/sport/fotball/i/76oBL4/fotballekspert-bekymret-for-utviklingen-etter-nye-saudi-rykter-vil-endre-alt"
+    },
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMX67B",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMX67B",
+        "preamble": "Odin Thiago Holm (20) har signert en fem års-kontrakt med den skotske storklubben Celtic.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 16:57:37",
+            "niceformat": "22.06.2023, 16:57",
+            "timestamp": "2023-06-22T14:57:37.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/29a4eb30-4b72-45be-9126-5bd78e027b58?fit=crop&format=auto&h=267&w=400&s=7907ec7d5986af923c42372773dc14829c134881",
+            "width": 400
+        },
+        "title": "Thiago Holm forlater Vålerenga: – Celtic er en massiv klubb",
+        "url": "https://www.vg.no/sport/fotball/i/GMX67B/bekreftet-thiago-holm-har-signert-fem-aars-kontrakt-med-celtic"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "LldrgR",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/LldrgR",
+        "preamble": "CLUJ, ROMANIA (VG) Det er et fryktløst U21-landslag som entrer gressmatten mot Sveits i Norges første mesterskapskamp på 10 år.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 15:55:32",
+            "niceformat": "22.06.2023, 15:55",
+            "timestamp": "2023-06-22T13:55:32.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/OJVqxksVpi3g.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "U21-gutta vil forsvare Norges ære: – Vi skal sjokkere",
+        "url": "https://www.vg.no/sport/fotball/i/LldrgR/u21-gutta-vil-forsvare-norges-aere-vi-skal-sjokkere"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgd9Vn",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgd9Vn",
+        "preamble": "Barcelona starter tittelforsvaret i La Liga borte mot Getafe, mens Real Madrid møter Athletic Bilbao. Sesongens første El Clásico er lagt til 29. oktober.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 15:02:35",
+            "niceformat": "22.06.2023, 15:02",
+            "timestamp": "2023-06-22T13:02:35.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/8f932a55-ebce-4ee9-b2f9-6ebcc55486dc?fit=crop&format=auto&h=267&w=400&s=a91af23a850bbe9aeb4505d268193fea5bbaaeba",
+            "width": 400
+        },
+        "title": "La Liga-kalenderen er klar: El Clásico i slutten av oktober",
+        "url": "https://www.vg.no/sport/fotball/i/xgd9Vn/la-liga-kalenderen-er-klar-el-clasico-i-slutten-av-oktober"
+    },
+    {
+        "authors": [
+            {
+                "email": "leif.welhaven@vg.no",
+                "id": "e46ed1bb-8354-4bd4-97d3-09ac43c5dc8f",
+                "name": "Leif Welhaven"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4Xdzb",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4Xdzb",
+        "preamble": "Malcolm Bidali ble et symbol på migrantarbeidernes kamp i Qatar. Dessverre har den ikke ført til stort.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 13:10:14",
+            "niceformat": "22.06.2023, 13:10",
+            "timestamp": "2023-06-22T11:10:14.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/55e4a1a6-002d-461b-a791-60ccce82bfd0?fit=crop&format=auto&h=300&w=400&s=53f34d96157c3195b79a3e728622e65c38b77cb0",
+            "width": 400
+        },
+        "title": "Stille etter stormen",
+        "url": "https://www.vg.no/sport/fotball/i/P4Xdzb/migrantarbeidere-i-qatar-stille-etter-stormen"
+    }
+]

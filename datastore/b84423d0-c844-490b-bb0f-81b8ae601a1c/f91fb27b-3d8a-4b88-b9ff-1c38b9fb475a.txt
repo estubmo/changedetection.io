@@ -1,0 +1,360 @@
+[
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEB0G5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEB0G5",
+        "preamble": "Norge går i gang med tidens første Nations League for kvinner hjemme mot Østerrike 22. september. Dobbeltmøtet med Frankrike spilles med få dagers mellomrom.",
+        "published": {
+            "date": "fredag 5. mai",
+            "datetime": "2023-05-05 14:41:52",
+            "niceformat": "05.05.2023, 14:41",
+            "timestamp": "2023-05-05T12:41:52.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/2eb7e092-3166-4086-9943-77c9a69f9471?fit=crop&format=auto&h=267&w=400&s=0842d47eadee71d384bdc177b0f6f2b515458197",
+            "width": 400
+        },
+        "title": "Kvinnelandslaget starter Nations League med hjemmekamp",
+        "url": "https://www.vg.no/sport/fotball/i/gEB0G5/kvinnelandslaget-starter-nations-league-med-hjemmekamp"
+    },
+    {
+        "authors": [
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMqQb6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMqQb6",
+        "preamble": "Paris Saint-Germain-trener Christophe Galtier er usikker på når Lionel Messi (35) er tilbake igjen etter hans reise til Saudi-Arabia. ",
+        "published": {
+            "date": "fredag 5. mai",
+            "datetime": "2023-05-05 14:39:37",
+            "niceformat": "05.05.2023, 14:39",
+            "timestamp": "2023-05-05T12:39:37.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/2409021b-9fa6-44e0-b4b2-565794374461?fit=crop&format=auto&h=267&w=400&s=4dc802d04d9b73050ab07d41c8088165547a17fd",
+            "width": 400
+        },
+        "title": "PSG-treneren bekrefter Messi-straff etter omstridt Saudi-Arabia-tur",
+        "url": "https://www.vg.no/sport/fotball/i/GMqQb6/psg-treneren-bekrefter-messi-suspensjon"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Llq1Q1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Llq1Q1",
+        "preamble": "En lårskade tvinger Tottenhams keeper Hugo Lloris (36) til å stå over sesongens siste kamper i Premier League.",
+        "published": {
+            "date": "fredag 5. mai",
+            "datetime": "2023-05-05 14:20:25",
+            "niceformat": "05.05.2023, 14:20",
+            "timestamp": "2023-05-05T12:20:25.000Z"
+        },
+        "thumbnail": {
+            "height": 273,
+            "url": "https://akamai.vgc.no/v2/images/7eacf83f-aa04-4cef-8df6-439d30c2af64?fit=crop&format=auto&h=273&w=400&s=824b658eaf940e5f701d1792fd8b1d108ee24967",
+            "width": 400
+        },
+        "title": "Tottenham-kapteinen mister serieinnspurten",
+        "url": "https://www.vg.no/sport/fotball/i/Llq1Q1/tottenham-kapteinen-mister-serieinnspurten"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Qk4rG",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Qk4rG",
+        "preamble": "En merkelig situasjon har oppstått i den svenske toppserien for kvinner: Spillerne på en klubb truer med å streike.",
+        "published": {
+            "date": "fredag 5. mai",
+            "datetime": "2023-05-05 13:35:51",
+            "niceformat": "05.05.2023, 13:35",
+            "timestamp": "2023-05-05T11:35:51.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/0b891e43-e00c-40b2-b4b7-70dff4f3c563?fit=crop&format=auto&h=266&w=400&s=319c7d5e1aa01108d718670f9659b6797e2cb029",
+            "width": 400
+        },
+        "title": "Elitespillere truer med streik",
+        "url": "https://www.vg.no/sport/fotball/i/0Qk4rG/elitespillere-truer-med-streik"
+    },
+    {
+        "authors": [
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "2BJ18l",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/2BJ18l",
+        "preamble": "TRONDHEIM (VG) Tap mot Vålerenga på lørdag kan bety starten på slutten for Kjetil Rekdal i Rosenborg, mener Adresseavisens kommentator.",
+        "published": {
+            "date": "fredag 5. mai",
+            "datetime": "2023-05-05 12:56:25",
+            "niceformat": "05.05.2023, 12:56",
+            "timestamp": "2023-05-05T10:56:25.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/e5aabb55-8003-4b1a-9501-4bbc41dd8ebb?fit=crop&format=auto&h=267&w=400&s=5388c0b33895eca57be10696450ff082f1116dac",
+            "width": 400
+        },
+        "title": "Klar tale om Rekdals fotballstil: – Famler i blinde",
+        "url": "https://www.vg.no/sport/fotball/i/2BJ18l/rosenborg-adressa-kommentator-med-klar-tale-om-kjetil-rekdals-fotballstil-famler-i-blinde"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMqQQ6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMqQQ6",
+        "preamble": "Liverpool har besluttet å samle spillere og dommere rundt midtsirkelen for å markere kroningen av kong Charles lørdag. Nasjonalsangen blir avspilt. Det er første gang på 70 år at en britisk monark skal krones. Kong Charles ble konge i samme øyeblikk som hans mor, dronning Elizabeth, døde.",
+        "published": {
+            "date": "fredag 5. mai",
+            "datetime": "2023-05-05 12:11:59",
+            "niceformat": "05.05.2023, 12:11",
+            "timestamp": "2023-05-05T10:11:59.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a30682b0-9feb-4848-ab5b-f32d56b42d95?fit=crop&format=auto&h=267&w=400&s=4672c8581b6e179010a0ce376859a365459fb25a",
+            "width": 400
+        },
+        "title": "Liverpool spiller nasjonalsangen for å markere kroningen av kong Charles",
+        "url": "https://www.vg.no/sport/fotball/i/GMqQQ6/liverpool-spiller-nasjonalsangen-for-aa-markere-kroningen-av-kong-charles"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JvBmE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JvBmE",
+        "preamble": "Eirik Horneland har ledet Brann til et sterkt comeback på øverste nivå, og belønnes med utmerkelsen som månedens trener i april. Amahl Pellegrino er kåret til månedens spiller.",
+        "published": {
+            "date": "fredag 5. mai",
+            "datetime": "2023-05-05 11:59:40",
+            "niceformat": "05.05.2023, 11:59",
+            "timestamp": "2023-05-05T09:59:40.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/317a3f99-dde1-4748-b1b3-4aedb4edfd1b?fit=crop&format=auto&h=267&w=400&s=1a71d1a83a0a2818811445cd94009386eaa41f3b",
+            "width": 400
+        },
+        "title": "Horneland og Pellegrino fikk årets første priser i Eliteserien",
+        "url": "https://www.vg.no/sport/fotball/i/8JvBmE/horneland-og-pellegrino-fikk-aarets-foerste-priser-i-eliteserien"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Xbp8kE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Xbp8kE",
+        "preamble": "NM-kampene i 2. runde for kvinner i fotball er offentliggjort. Det blir årets første cupkamp for Toppserielagene. ",
+        "published": {
+            "date": "fredag 5. mai",
+            "datetime": "2023-05-05 10:41:26",
+            "niceformat": "05.05.2023, 10:41",
+            "timestamp": "2023-05-05T08:41:26.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0332b5a7-806b-4048-8d6a-a79aae9e5355?fit=crop&format=auto&h=267&w=400&s=02e899f2bddc5ac4f4bac9db8fbc822561b75f9c",
+            "width": 400
+        },
+        "title": "Slik spilles 2. runde i fotball-NM for kvinner",
+        "url": "https://www.vg.no/sport/fotball/i/Xbp8kE/slik-spilles-2-runde-i-fotball-nm-for-kvinner"
+    },
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            },
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76QKMw",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76QKMw",
+        "preamble": "I sin første oppgave som Leeds-manager, skal Sam Allardyce (68) stoppe Erling Braut Haaland (22). Den rutinerte engelskmannen har planen klar.",
+        "published": {
+            "date": "fredag 5. mai",
+            "datetime": "2023-05-05 10:21:44",
+            "niceformat": "05.05.2023, 10:21",
+            "timestamp": "2023-05-05T08:21:44.000Z"
+        },
+        "thumbnail": {
+            "height": 279,
+            "url": "https://akamai.vgc.no/v2/images/f8c4f8d3-10e1-48d9-900a-4a83c91ee984?fit=crop&format=auto&h=279&w=400&s=4684f622460473529c386eb9e3ba2dfcbea94030",
+            "width": 400
+        },
+        "title": "Leeds-manageren lo av Haaland-spørsmål: – Må holde et øye med ham hele tiden",
+        "url": "https://www.vg.no/sport/fotball/i/76QKMw/manchester-city-mot-leeds-slik-skal-sam-allardyce-stoppe-erling-braut-haaland"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPpqQV",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPpqQV",
+        "preamble": "City Football Group (CFG) har kjøpt seg inn i den brasilianske klubben Bahia. De håper å kunne hjelpe brasiliansk fotball til å vokse finansielt. ",
+        "published": {
+            "date": "fredag 5. mai",
+            "datetime": "2023-05-05 08:52:12",
+            "niceformat": "05.05.2023, 08:52",
+            "timestamp": "2023-05-05T06:52:12.000Z"
+        },
+        "thumbnail": {
+            "height": 244,
+            "url": "https://akamai.vgc.no/v2/images/b37f5bdf-03ea-486a-b6c5-9dc91651446f?fit=crop&format=auto&h=244&w=400&s=9483d2540e0dd51bc7a76c9e1877a4b6e7d0ca06",
+            "width": 400
+        },
+        "title": "Manchester City-eierne kjøper brasiliansk klubb",
+        "url": "https://www.vg.no/sport/fotball/i/VPpqQV/manchester-city-eierne-kjoeper-brasiliansk-klubb"
+    }
+]

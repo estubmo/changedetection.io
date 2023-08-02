@@ -1,0 +1,189 @@
+[
+    {
+        "slug": "nationalkameratene-2-spilte-uavgjort",
+        "url": "/lokalfotballen/i/GMnW6B/nationalkameratene-2-spilte-uavgjort",
+        "title": {
+            "value": "Uavgjort for Nationalkameratene 2 og Glimt"
+        },
+        "description": "Nationalkameratene 2 ledet 1-0, men Glimt kom tilbake mot slutten og sørget for 1-1 i 6. divisjon, Trøndelag - Avdeling 4 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T20:21:22Z",
+        "lastModifiedAt": "2023-05-01T20:24:26Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "steen-boettet-inn-maal-mot-rissa",
+        "url": "/lokalfotballen/i/VPeAd1/steen-boettet-inn-maal-mot-rissa",
+        "title": {
+            "value": "Steen med målshow"
+        },
+        "description": "Fosen slo Rissa 12-0 i dagens kamp. Rissa har gått poengløse av banen i alle kampene sine så langt denne sesongen. I 6. divisjon, Trøndelag - Avdeling 3 i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T20:16:54Z",
+        "lastModifiedAt": "2023-05-01T20:21:21Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-fosnafolket",
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "loeseth-scoret-hattrick-for-kil-hemne-3",
+        "url": "/lokalfotballen/i/xgw65B/loeseth-scoret-hattrick-for-kil-hemne-3",
+        "title": {
+            "value": "Hattrick-show fra KIL/Hemne 3"
+        },
+        "description": "Orkanger 2 ble knust 5-0 av KIL/Hemne 3 i 6. divisjon, Trøndelag - Avdeling 4 i fotball. Dermed har KIL/Hemne 3 vunnet tre kamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T20:10:51Z",
+        "lastModifiedAt": "2023-05-01T20:21:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "hattrick-show-fra-tiller-3",
+        "url": "/lokalfotballen/i/9zG78w/hattrick-show-fra-tiller-3",
+        "title": {
+            "value": "Torset med målshow"
+        },
+        "description": "Marius Modalsli Torset scoret tre ganger da Tiller 3 vant 5-1 over Byneset i 6. divisjon, Trøndelag - Avdeling 5 i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T20:10:50Z",
+        "lastModifiedAt": "2023-05-01T20:21:23Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "siste-fra-breddefotballen",
+        "url": "/sport/fotball/i/GMjXaq/siste-fra-breddefotballen",
+        "title": {
+            "value": "Måtte operere etter skrekkskade: - Du føler når det knekker"
+        },
+        "description": null,
+        "imageUrl": "1d9b693d-97b9-46fb-994e-f4d11078ff0d",
+        "publishedAt": "2023-03-24T14:51:36Z",
+        "lastModifiedAt": "2023-04-23T20:17:37Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "fotball",
+            "breddefotbaill",
+            "lokalfotballen",
+            "breddefotball"
+        ]
+    },
+    {
+        "slug": "nardo-seiret-over-vestbyen",
+        "url": "/lokalfotballen/i/vezRnl/nardo-seiret-over-vestbyen",
+        "title": {
+            "value": "Vestbyen tapte borte mot Nardo"
+        },
+        "description": "Vestbyen gav bort alle poengene da de ble slått 3-2 av Nardo i 3. divisjon, Trøndelag i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T19:58:33Z",
+        "lastModifiedAt": "2023-05-01T20:20:01Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "gross-benberg-scoret-hattrick-for-utleira",
+        "url": "/lokalfotballen/i/kEynma/gross-benberg-scoret-hattrick-for-utleira",
+        "title": {
+            "value": "Gross-Benberg scoret hattrick for Utleira"
+        },
+        "description": "Helene Gross-Benberg scoret tre ganger da Utleira vant 7-1 over Charlottenlund i 3. divisjon, Trøndelag i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T19:55:19Z",
+        "lastModifiedAt": "2023-05-01T20:21:23Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "bye-scoret-hattrick-for-tiller-2",
+        "url": "/lokalfotballen/i/vezRwl/bye-scoret-hattrick-for-tiller-2",
+        "title": {
+            "value": "Målshow fra Tiller 2"
+        },
+        "description": "Tiller 2 banket Verdal 5-2 i 3. divisjon, Trøndelag i fotball for kvinner. Emma Kalvøy Bye scoret tre ganger. Det var Tiller 2s tredje strake trepoenger.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T19:46:53Z",
+        "lastModifiedAt": "2023-05-01T20:20:00Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "moravec-boettet-inn-maal-for-trygg-lade-7er",
+        "url": "/lokalfotballen/i/0QXRL2/moravec-boettet-inn-maal-for-trygg-lade-7er",
+        "title": {
+            "value": "Moravec med målshow"
+        },
+        "description": "Trygg/Lade 7er banket Kolstad 7er 13-1 i 7er, Trøndelag - Avdeling 2 mandag. Kolstad 7er har gått poengløse av banen i to strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T19:38:49Z",
+        "lastModifiedAt": "2023-05-01T19:51:13Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "maalshow-fra-strindheim",
+        "url": "/lokalfotballen/i/rlGxMw/maalshow-fra-strindheim",
+        "title": {
+            "value": "Lund scoret hattrick for Strindheim"
+        },
+        "description": "Strindheim kan juble for full pott så langt denne sesongen, etter å ha slått Rosenborg 2 7-1. I 3. divisjon, Avdeling 5 i fotball for menn. Fredrik Lund scoret tre av målene.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-01T18:57:50Z",
+        "lastModifiedAt": "2023-05-01T19:49:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

@@ -1,0 +1,355 @@
+[
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q7qgaA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q7qgaA",
+        "preamble": "Ole Gunnar Solskjær blir ikke Aalesund-trener, opplyser styreleder Gunnar Haagensen til TV 2.",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 18:12:43",
+            "niceformat": "07.05.2023, 18:12",
+            "timestamp": "2023-05-07T16:12:43.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/980cad89-8b59-41f0-8471-88bcf804deaf?fit=crop&format=auto&h=267&w=400&s=215b7b573d5bf22ef91b8887e25ec2cf6618fc2a",
+            "width": 400
+        },
+        "title": "Aalesund kontaktet Solskjær og fikk nei",
+        "url": "https://www.vg.no/sport/fotball/i/Q7qgaA/aalesund-kontaktet-solskjaer-og-fikk-nei"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Xbp9wo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Xbp9wo",
+        "preamble": "(Rosenborg - Vålerenga 0–0) Både Rosenborg og Vålerenga misbrukte de få sjansene som ble skapt i toppoppgjøret i Trondheim. Før pause måtte VIF-spiss Elise Thorsnes (34) av med skade.",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 16:52:04",
+            "niceformat": "07.05.2023, 16:52",
+            "timestamp": "2023-05-07T14:52:04.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/cb95f5de-71c5-422d-a693-891f54bf041f?fit=crop&format=auto&h=267&w=400&s=bd7d8de27f61470f721306a91142e4671b4b1ecb",
+            "width": 400
+        },
+        "title": "Topplagene nullet hverandre ut da Vålerengas stjernespiss måtte av med skade",
+        "url": "https://www.vg.no/sport/fotball/i/Xbp9wo/topplagene-nullet-hverandre-ut-uavgjort-mellom-rosenborg-og-vaalerenga"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5Bw86K",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5Bw86K",
+        "preamble": "Vilde Bøe Risas Manchester United er virkelig med i kampen om klubbens første ligatittel etter de vant 3-0 hjemme mot Tottenham søndag ettermiddag.",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 15:27:10",
+            "niceformat": "07.05.2023, 15:27",
+            "timestamp": "2023-05-07T13:27:10.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/18ce694f-d85f-462f-8275-d94f7b561a4e?fit=crop&format=auto&h=267&w=400&s=8d38998b8efa95fc72c9e462b26886c454840961",
+            "width": 400
+        },
+        "title": "Risas Manchester United jakter seriegull – City avga poeng",
+        "url": "https://www.vg.no/sport/fotball/i/5Bw86K/risas-manchester-united-jakter-seriegull-knuste-bizets-tottenham"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEbl51",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEbl51",
+        "preamble": "Juventus slo Napoli 2-0 i Serie A søndag og skaffet seg gode odds i topp 4-kampen foran de fire siste rundene.",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 14:51:43",
+            "niceformat": "07.05.2023, 14:51",
+            "timestamp": "2023-05-07T12:51:43.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/l7kl1S-8u4i3.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Juventus klatret til 2.-plass med sterk borteseier",
+        "url": "https://www.vg.no/sport/fotball/i/zEbl51/juventus-klatret-til-2-plass-med-sterk-borteseier"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jlb0oe",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jlb0oe",
+        "preamble": "TRONDHEIM (VG) Misnøyen stiger i Trøndelag etter tre svake hjemmekamper på rad. Rosenborg-trener Kjetil Rekdal (54) forteller at han ble tatt på sengen av formsvikten.",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 14:40:45",
+            "niceformat": "07.05.2023, 14:40",
+            "timestamp": "2023-05-07T12:40:45.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6f075253-9ef3-4b2d-888b-8b7681410175?fit=crop&format=auto&h=267&w=400&s=90a792d4fc9ab8179d70bce6e8ac05a6c746f313",
+            "width": 400
+        },
+        "title": "Rekdal overrasket over Rosenborg-nedturen – dette bekymrer ham mest ",
+        "url": "https://www.vg.no/sport/fotball/i/jlb0oe/rekdal-overrasket-over-rosenborg-nedturen-dette-bekymrer-ham-mest"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEbOWr",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEbOWr",
+        "preamble": "Milans store stjernespiller Rafael Leão kan bli klar for onsdagens mesterligasemifinale mot Inter tross skaden han pådro seg i lørdagens kamp.",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 14:21:17",
+            "niceformat": "07.05.2023, 14:21",
+            "timestamp": "2023-05-07T12:21:17.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/42c91364-3d7e-4f97-b0da-4704487a0875?fit=crop&format=auto&h=267&w=400&s=1c317d233650848c2d989ed98ed1edfb86f0f2fc",
+            "width": 400
+        },
+        "title": "Leão beroliger Milan-fansen: – Snart tilbake",
+        "url": "https://www.vg.no/sport/fotball/i/zEbOWr/leao-beroliger-milan-fansen-snart-tilbake"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O8qkOV",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O8qkOV",
+        "preamble": "Manchester United-talentet Alejandro Garnacho var med på flyet da troppen satte snuta mot London, hvor de møter West Ham søndag kveld.",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 12:11:40",
+            "niceformat": "07.05.2023, 12:11",
+            "timestamp": "2023-05-07T10:11:40.000Z"
+        },
+        "thumbnail": {
+            "height": 272,
+            "url": "https://akamai.vgc.no/v2/images/f1a77ee8-5c3c-472e-b6ba-9f2c4056ff54?fit=crop&format=auto&h=272&w=400&s=624879433a803800bde4e9197442bcb9696141b8",
+            "width": 400
+        },
+        "title": "Avis: Garnacho tilbake i United-troppen etter sju uker ute med skade",
+        "url": "https://www.vg.no/sport/fotball/i/O8qkOV/avis-garnacho-tilbake-i-united-troppen-etter-sju-uker-ute-med-skade"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "rlbr2m",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/rlbr2m",
+        "preamble": "Tottenham-spiller Son Heung-min skal ha blitt utsatt for rasisme da han ble byttet ut i det 89. minutt i 1-0-seieren over Crystal Palace lørdag.",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 11:47:42",
+            "niceformat": "07.05.2023, 11:47",
+            "timestamp": "2023-05-07T09:47:42.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/f672b133-09fe-4669-b835-5be8079231bb?fit=crop&format=auto&h=267&w=400&s=4115048ec66347c2ddfd63d9ceb86f4e8b85ee5a",
+            "width": 400
+        },
+        "title": "Son utsatt for rasisme av Crystal Palace-supporter – Tottenham har startet etterforskning",
+        "url": "https://www.vg.no/sport/fotball/i/rlbr2m/son-utsatt-for-rasisme-av-crystal-palace-supporter-tottenham-har-startet-etterforskning"
+    },
+    {
+        "authors": [
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJX7RO",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJX7RO",
+        "preamble": "Manchester United-helten Wayne Rooney (37) applauderer Erling Braut Haalands (22) innstilling og tror nordmannen kan slå sin egen rekord neste år alt. ",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 09:52:59",
+            "niceformat": "07.05.2023, 09:52",
+            "timestamp": "2023-05-07T07:52:59.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ac8fae00-d390-466c-b216-f42adf1f4889?fit=crop&format=auto&h=267&w=400&s=c4daa0d1124d753cdc628f6c5bb785fe31a7d84d",
+            "width": 400
+        },
+        "title": "Rooney roser Haaland-reaksjon: – Han så flau ut",
+        "url": "https://www.vg.no/sport/fotball/i/eJX7RO/rooney-roser-haaland-reaksjon-han-saa-flau-ut"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Knlx16",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Knlx16",
+        "preamble": "MANCHESTER (VG) Av asken fra lojale Manchester United-supporteres tapte kjærlighet for klubben, oppsto FC United of Manchester – kultklubben på nivå syv i engelsk fotball.",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 08:16:42",
+            "niceformat": "07.05.2023, 08:16",
+            "timestamp": "2023-05-07T06:16:42.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/3b01a83f-16eb-4477-bbce-b15c142d300e?fit=crop&format=auto&h=267&w=400&s=f42f196131451c76b732b7ff1f53066a260bac97",
+            "width": 400
+        },
+        "title": "Kultklubben i Manchester ble stiftet i protest: – Det er dette fotball handler om",
+        "url": "https://www.vg.no/sport/fotball/i/Knlx16/kultklubben-i-manchester-ble-stiftet-i-protest-det-er-dette-fotball-handler-om"
+    }
+]

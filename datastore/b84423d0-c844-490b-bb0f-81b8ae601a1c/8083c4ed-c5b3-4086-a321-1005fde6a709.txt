@@ -1,0 +1,353 @@
+[
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9z06g5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9z06g5",
+        "preamble": "Fiorentina-tilhengere gikk til angrep på noen West Ham-supportere i en bar i Praha før finalen i conferenceligaen, opplyser tsjekkisk politi.",
+        "published": {
+            "date": "onsdag 7. juni",
+            "datetime": "2023-06-07 17:16:00",
+            "niceformat": "07.06.2023, 17:16",
+            "timestamp": "2023-06-07T15:16:00.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/bb0aee3b-fab8-429b-b8df-22bfc4ff6e7a?fit=crop&format=auto&h=267&w=400&s=4fa2d8b0830242cd4cd4cfd4b54d75b4ad620448",
+            "width": 400
+        },
+        "title": "Fiorentina-fans angrep West Ham-supportere før finalen i Conference League",
+        "url": "https://www.vg.no/sport/fotball/i/9z06g5/fiorentina-fans-angrep-west-ham-supportere-foer-finalen-iconferenceligaen"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "MoJjVK",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/MoJjVK",
+        "preamble": "Jude Bellingham (19) er enig med Real Madrid, skriver Borussia Dortmund på sine nettsider onsdag.",
+        "published": {
+            "date": "onsdag 7. juni",
+            "datetime": "2023-06-07 16:21:34",
+            "niceformat": "07.06.2023, 16:21",
+            "timestamp": "2023-06-07T14:21:34.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/4fea648e-ec29-4177-ae47-f76966496da9?fit=crop&format=auto&h=266&w=400&s=07e83a0e33e5c5a1846c9db9a724375b0ed050a7",
+            "width": 400
+        },
+        "title": "Dortmund bekrefter: Selger Bellingham til Real Madrid",
+        "url": "https://www.vg.no/sport/fotball/i/MoJjVK/bekreftet-bellingham-er-ny-real-madrid-spiller"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q7KjeW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q7KjeW",
+        "preamble": "Målvakten Per Kristian Bråtveit (27) får ikke ny kontrakt med den danske fotballklubben AGF.",
+        "published": {
+            "date": "onsdag 7. juni",
+            "datetime": "2023-06-07 16:11:07",
+            "niceformat": "07.06.2023, 16:11",
+            "timestamp": "2023-06-07T14:11:07.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/e63cf02b-27a9-4159-8166-e6ad34d31ce7?fit=crop&format=auto&h=266&w=400&s=c9cd40cba08fbc663d27625da306780d7c03d68e",
+            "width": 400
+        },
+        "title": "Bråtveit ferdig i danske AGF",
+        "url": "https://www.vg.no/sport/fotball/i/Q7KjeW/braatveit-ferdig-i-danske-agf"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQEjK2",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQEjK2",
+        "preamble": "Sarpsborg-trenerne Stefan Billborn og Joachim Björklund har skrevet under på nye kontrakter som binder dem til eliteserieklubben ut 2026-sesongen.",
+        "published": {
+            "date": "onsdag 7. juni",
+            "datetime": "2023-06-07 14:11:35",
+            "niceformat": "07.06.2023, 14:11",
+            "timestamp": "2023-06-07T12:11:35.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ba0c7d20-761f-41d9-8607-ea1610813e87?fit=crop&format=auto&h=267&w=400&s=f1aa1767484ea551985463cee367debf2621a407",
+            "width": 400
+        },
+        "title": "Sarpsborgs trenerduo forlenget med klubben",
+        "url": "https://www.vg.no/sport/fotball/i/EQEjK2/sarpsborgs-trenerduo-forlenget-med-klubben"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kE1QQj",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kE1QQj",
+        "preamble": "Lionel Messi kan være på vei til USA. ",
+        "published": {
+            "date": "onsdag 7. juni",
+            "datetime": "2023-06-07 14:09:19",
+            "niceformat": "07.06.2023, 14:09",
+            "timestamp": "2023-06-07T12:09:19.000Z"
+        },
+        "thumbnail": {
+            "height": 276,
+            "url": "https://akamai.vgc.no/v2/images/113c23da-40ff-49b0-bfdb-1a1a97f0fa2f?fit=crop&format=auto&h=276&w=400&s=6fc146d43c085a0d39264a9464e4581a8c29ec31",
+            "width": 400
+        },
+        "title": "Hevder Messi har bestemt seg for ny klubb ",
+        "url": "https://www.vg.no/sport/fotball/i/kE1QQj/storavis-beckhams-klubb-favoritter-til-aa-hente-messi"
+    },
+    {
+        "authors": [
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "bgd78A",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/bgd78A",
+        "preamble": "Qatar-sjeiken Jassim Bin Hamad Al-Thani skal ha levert et femte bud på Manchester United tidligere denne uken.",
+        "published": {
+            "date": "onsdag 7. juni",
+            "datetime": "2023-06-07 13:40:48",
+            "niceformat": "07.06.2023, 13:40",
+            "timestamp": "2023-06-07T11:40:48.000Z"
+        },
+        "thumbnail": {
+            "height": 295,
+            "url": "https://akamai.vgc.no/v2/images/988e31f2-f194-44d6-aad4-bada58438093?fit=crop&format=auto&h=295&w=400&s=08fd4f0a220f8908f57cda8568a1ef474dd8de75",
+            "width": 400
+        },
+        "title": "Medier: Qatar-byder legger inn nytt Manchester United-bud",
+        "url": "https://www.vg.no/sport/fotball/i/bgd78A/medier-qatar-byder-legger-inn-nytt-manchester-united-bud"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69dBmW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69dBmW",
+        "preamble": "Saken mot personen som kastet en flaske i hodet på fotballdommer Rohit Saggi under Stabæk og Vålerenga er henlagt.",
+        "published": {
+            "date": "onsdag 7. juni",
+            "datetime": "2023-06-07 12:30:50",
+            "niceformat": "07.06.2023, 12:30",
+            "timestamp": "2023-06-07T10:30:50.000Z"
+        },
+        "thumbnail": {
+            "height": 679,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/BGw8ddWDqpDD.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Politiet har henlagt saken mot personen som kastet flaske på fotballdommer på Nadderud",
+        "url": "https://www.vg.no/sport/fotball/i/69dBmW/politiet-har-henlagt-saken-mot-personen-som-kastet-flaske-paa-fotballdommer-paa-nadderud"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEKL2B",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEKL2B",
+        "preamble": "Argentina-vingen Angel Di Maria er ferdig i Juventus etter kun én sesong. Han er kontraktsløs og kan hentes gratis til en ny klubb.",
+        "published": {
+            "date": "onsdag 7. juni",
+            "datetime": "2023-06-07 11:46:05",
+            "niceformat": "07.06.2023, 11:46",
+            "timestamp": "2023-06-07T09:46:05.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a19aa77f-ad4c-418e-bcb0-fa0a61ce0b16?fit=crop&format=auto&h=267&w=400&s=4124e9683ea5c1b6e494a3113aa65a7f384f3908",
+            "width": 400
+        },
+        "title": "Verdensmester Di Maria gir seg i Juventus",
+        "url": "https://www.vg.no/sport/fotball/i/gEKL2B/verdensmester-di-maria-gir-seg-i-juventus"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q7KPbV",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q7KPbV",
+        "preamble": "Landslagskeeper Ørjan Håskjold Nyland er ferdig i den tyske fotballklubben RB Leipzig.",
+        "published": {
+            "date": "onsdag 7. juni",
+            "datetime": "2023-06-07 11:28:50",
+            "niceformat": "07.06.2023, 11:28",
+            "timestamp": "2023-06-07T09:28:50.000Z"
+        },
+        "thumbnail": {
+            "height": 289,
+            "url": "https://akamai.vgc.no/v2/images/3c6277f2-7e2b-4793-b54c-5052eef8eb0b?fit=crop&format=auto&h=289&w=400&s=74c459b013a13c152f4dedc0bc3fb4cc47db197a",
+            "width": 400
+        },
+        "title": "Landslagskeeper Nyland ferdig i Leipzig",
+        "url": "https://www.vg.no/sport/fotball/i/Q7KPbV/nyland-ferdig-i-leipzig"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5BkLzm",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5BkLzm",
+        "preamble": "Bayern München er villig til å legge mer enn én milliard kroner på bordet for spillekjøp denne sommeren.",
+        "published": {
+            "date": "onsdag 7. juni",
+            "datetime": "2023-06-07 11:10:05",
+            "niceformat": "07.06.2023, 11:10",
+            "timestamp": "2023-06-07T09:10:05.000Z"
+        },
+        "thumbnail": {
+            "height": 261,
+            "url": "https://akamai.vgc.no/v2/images/119ce270-2061-4418-9dc6-cbc73d90cf0f?fit=crop&format=auto&h=261&w=400&s=498e58a01625bc1479b39987d9ea0469bbee1a02",
+            "width": 400
+        },
+        "title": "Bayern vil bruke milliardbeløp",
+        "url": "https://www.vg.no/sport/fotball/i/5BkLzm/bayern-vil-bruke-milliardbeloep"
+    }
+]

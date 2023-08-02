@@ -1,0 +1,389 @@
+[
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O8XJeA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O8XJeA",
+        "preamble": "Mathias Rasmussen (25) har signert for den belgiske toppklubben Union Saint-Gilloise. Det er en drøm, men han innser at situasjonen kunne vært en helt annen om vi skrur tiden noen år tilbake.",
+        "published": {
+            "date": "tirsdag 27. juni",
+            "datetime": "2023-06-27 15:00:29",
+            "niceformat": "27.06.2023, 15:00",
+            "timestamp": "2023-06-27T13:00:29.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/325e961b-7943-4065-8d02-06502e2edfc8?fit=crop&format=auto&h=267&w=400&s=3363377cf1005ba89569b5f583c6bd13c7c090af",
+            "width": 400
+        },
+        "title": "Rasmussen er klar for belgisk toppklubb: – Det var ikke så lett å sove",
+        "url": "https://www.vg.no/sport/fotball/i/O8XJeA/eliteserien-mathias-rasmussen-er-klar-for-union-saint-gilloise"
+    },
+    {
+        "authors": [],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kExOk6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kExOk6",
+        "preamble": "Bayern München har tirsdag ha levert et bud på Tottenhams storscorer Harry Kane (29), men det skal ha blitt avvist. ",
+        "published": {
+            "date": "tirsdag 27. juni",
+            "datetime": "2023-06-27 12:23:19",
+            "niceformat": "27.06.2023, 12:23",
+            "timestamp": "2023-06-27T10:23:19.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/64098c2c-ab86-4431-ac38-34a697740fd5?fit=crop&format=auto&h=266&w=400&s=9ad6b141e37b9321d72b424fb2a4b4e2e6d79258",
+            "width": 400
+        },
+        "title": "Medier: Bayern München fått bud avslått på Harry Kane",
+        "url": "https://www.vg.no/sport/fotball/i/kExOk6/the-athletic-bayern-munchen-med-bud-paa-harry-kane"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQXn8l",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQXn8l",
+        "preamble": "Leicesters midtbane-elegant James Maddison skal være enig med Tottenham om personlige betingelser.",
+        "published": {
+            "date": "tirsdag 27. juni",
+            "datetime": "2023-06-27 12:04:46",
+            "niceformat": "27.06.2023, 12:04",
+            "timestamp": "2023-06-27T10:04:46.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0272b49e-1f24-4199-8e67-c0e51c351aa8?fit=crop&format=auto&h=267&w=400&s=c2746ca6384031844c294a49608bde7842a0cab9",
+            "width": 400
+        },
+        "title": "Romano: Maddison enig med Tottenham",
+        "url": "https://www.vg.no/sport/fotball/i/EQXn8l/romano-maddison-enig-med-tottenham"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4XAPe",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4XAPe",
+        "preamble": "Den tunge tiden fortsetter for Rosenborg. Nå ser det ut til at RBK-kaptein Markus Henriksen mister resten av sesongen.",
+        "published": {
+            "date": "tirsdag 27. juni",
+            "datetime": "2023-06-27 09:48:45",
+            "niceformat": "27.06.2023, 09:48",
+            "timestamp": "2023-06-27T07:48:45.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/2da222ae-297d-43de-975a-2e7e84f9b438?fit=crop&format=auto&h=267&w=400&s=034fd9e0ef1376c792b7a034ccfff841c02affee",
+            "width": 400
+        },
+        "title": "Henriksen trolig ferdigspilt for sesongen",
+        "url": "https://www.vg.no/sport/fotball/i/P4XAPe/henriksen-ferdigspilt-for-sesongen"
+    },
+    {
+        "authors": [
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "mQx45p",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/mQx45p",
+        "preamble": "West Ham virker ikke å la midtbanespiller Declan Rice (24) slippe lett.",
+        "published": {
+            "date": "tirsdag 27. juni",
+            "datetime": "2023-06-27 09:48:10",
+            "niceformat": "27.06.2023, 09:48",
+            "timestamp": "2023-06-27T07:48:10.000Z"
+        },
+        "thumbnail": {
+            "height": 274,
+            "url": "https://akamai.vgc.no/v2/images/61247b39-0ffc-41c3-8f9a-4a3eca4ad2d8?fit=crop&format=auto&h=274&w=400&s=413bedaf0888d973541b245d86b0d8f4f8224e45",
+            "width": 400
+        },
+        "title": "The Athletic: Manchester Citys bud på Declan Rice avvist ",
+        "url": "https://www.vg.no/sport/fotball/i/mQx45p/the-athletic-manchester-citys-bud-paa-declan-rice-avvist"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "mQxw10",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/mQxw10",
+        "preamble": "Ada Hegerberg og Caroline Graham Hansen sammenlignes med Erling Braut Haaland og Martin Ødegaard på landslaget",
+        "published": {
+            "date": "tirsdag 27. juni",
+            "datetime": "2023-06-27 08:29:47",
+            "niceformat": "27.06.2023, 08:29",
+            "timestamp": "2023-06-27T06:29:47.000Z"
+        },
+        "thumbnail": {
+            "height": 284,
+            "url": "https://akamai.vgc.no/v2/images/77c49b81-9a4d-4944-9aa8-dde8bf1790ad?fit=crop&format=auto&h=284&w=400&s=fa38e6b447a866a2168b07ab34bd2940f259ac0f",
+            "width": 400
+        },
+        "title": "Sammenlignes med Haaland og Ødegaard: – Ikke knekt koden",
+        "url": "https://www.vg.no/sport/fotball/i/mQxw10/sammenlignes-med-haaland-og-oedegaard-ikke-knekt-koden"
+    },
+    {
+        "authors": [
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            },
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEzw79",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEzw79",
+        "preamble": "TRONDHEIM (VG) Budskapet var klokkeklart da Svein Maalen tok over etter Kjetil Rekdal. Nå skal Rosenborg spille offensiv fotball. Men mot Sarpsborg lakk trønderne som en sil i 45 minutter.",
+        "published": {
+            "date": "tirsdag 27. juni",
+            "datetime": "2023-06-27 04:10:25",
+            "niceformat": "27.06.2023, 04:10",
+            "timestamp": "2023-06-27T02:10:25.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/040b321e-bf74-405c-a534-d0873d38d22d?fit=crop&format=auto&h=267&w=400&s=9668cbdde8ae449ebfcc593357a5d63651f98d17",
+            "width": 400
+        },
+        "title": "Blytunge tall for Maalen – verste på nesten 20 år: – Fryktelig opplevelse",
+        "url": "https://www.vg.no/sport/fotball/i/zEzw79/blytunge-tall-for-maalen-verste-paa-nesten-20-aar-fryktelig-opplevelse"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JVKjx",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JVKjx",
+        "preamble": "The Athletic melder mandag kveld at Manchester City har lagt inn et formelt bud på West Hams Declan Rice.",
+        "published": {
+            "date": "mandag 26. juni",
+            "datetime": "2023-06-26 23:25:07",
+            "niceformat": "26.06.2023, 23:25",
+            "timestamp": "2023-06-26T21:25:07.000Z"
+        },
+        "thumbnail": {
+            "height": 274,
+            "url": "https://akamai.vgc.no/v2/images/30489882-9070-476c-8603-24b03406d85e?fit=crop&format=auto&h=274&w=400&s=4870388f61b6500db1f6a2b65f949d71180e0d43",
+            "width": 400
+        },
+        "title": "The Athletic: Manchester City med bud på West Ham-stjerne",
+        "url": "https://www.vg.no/sport/fotball/i/8JVKjx/the-athletic-manchester-city-med-bud-paa-west-ham-stjerne"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJRBMy",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJRBMy",
+        "preamble": "CLUJ, ROMANIA (VG) Det franske trenerteamet skal ha gitt klar beskjed foran møtet med Norge: Pass på Oscar Bobb!",
+        "published": {
+            "date": "mandag 26. juni",
+            "datetime": "2023-06-26 21:34:07",
+            "niceformat": "26.06.2023, 21:34",
+            "timestamp": "2023-06-26T19:34:07.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/21b5a535-5806-4e20-afa6-4b402bb8ba9a?fit=crop&format=auto&h=267&w=400&s=480c650cbf5413c1ed37a0ec41c5cf4fb04e36ad",
+            "width": 400
+        },
+        "title": "Frankrike advarte mot norsk stjerne (19)",
+        "url": "https://www.vg.no/sport/fotball/i/eJRBMy/frankrike-advarte-mot-norske-oscar-bobb-19"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "bg6BPe",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/bg6BPe",
+        "preamble": "ULLEVAAL STADION (VG) Ada Hegerberg er blitt koblet til Champions League-vinner Barcelona, men akkurat det tar hun med knusende ro en drøy måned før VM.",
+        "published": {
+            "date": "mandag 26. juni",
+            "datetime": "2023-06-26 18:17:11",
+            "niceformat": "26.06.2023, 18:17",
+            "timestamp": "2023-06-26T16:17:11.000Z"
+        },
+        "thumbnail": {
+            "height": 269,
+            "url": "https://akamai.vgc.no/v2/images/a72155a5-8b82-4da7-909a-c1a6e11b82e4?fit=crop&format=auto&h=269&w=400&s=06a1b9b949b8e88c5b8d9afbd1dd5c3c141dbc8d",
+            "width": 400
+        },
+        "title": "Hegerberg svarte om Barcelona-koblingen – ikke tilbudt ny Lyon-avtale",
+        "url": "https://www.vg.no/sport/fotball/i/bg6BPe/hegerberg-om-barcelona-koblingen-ingen-kommentar"
+    }
+]

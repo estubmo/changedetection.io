@@ -1,0 +1,359 @@
+[
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwP5yX",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwP5yX",
+        "preamble": "",
+        "published": {
+            "date": "fredag 19. mai",
+            "datetime": "2023-05-19 11:07:42",
+            "niceformat": "19.05.2023, 11:07",
+            "timestamp": "2023-05-19T09:07:42.000Z"
+        },
+        "title": "Phil Jones ferdig i Manchester United",
+        "url": "https://www.vg.no/sport/fotball/i/dwP5yX/phil-jones-ferdig-i-manchester-united"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQ547l",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQ547l",
+        "preamble": "Gresset på Ullevaal stadion er i bedring, men det er fortsatt ikke optimalt foran lørdagens cupfinale mellom Lillestrøm og Brann.",
+        "published": {
+            "date": "fredag 19. mai",
+            "datetime": "2023-05-19 11:02:18",
+            "niceformat": "19.05.2023, 11:02",
+            "timestamp": "2023-05-19T09:02:18.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0239dbdc-8aaf-46a6-ac4c-06b1c3b3ab63?fit=crop&format=auto&h=267&w=400&s=e66c8e3c941835884dff6648f031250e36f026a3",
+            "width": 400
+        },
+        "title": "Stri jobb med Ullevaal-gresset før cupfinalen: – Det visuelle inntrykket er ikke optimalt",
+        "url": "https://www.vg.no/sport/fotball/i/EQ547l/stri-jobb-med-ullevaal-gresset-foer-cupfinalen-det-visuelle-inntrykket-er-ikke-optimalt"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "trond.johannessen@vg.no",
+                "id": "13d85b67-6e63-41d4-a85c-65a952496c1d",
+                "name": "Trond Johannessen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwP5bj",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwP5bj",
+        "preamble": "ALS-rammede Egil «Snapper’n» Johansen (61) ble hyllet på Vålerengas hjemmebane 16.mai. Han kaller opplevelsen «uforglemmelig».",
+        "published": {
+            "date": "fredag 19. mai",
+            "datetime": "2023-05-19 10:22:42",
+            "niceformat": "19.05.2023, 10:22",
+            "timestamp": "2023-05-19T08:22:42.000Z"
+        },
+        "thumbnail": {
+            "height": 306,
+            "url": "https://akamai.vgc.no/v2/images/15118058-1789-400b-ad77-ec3e8509d59c?fit=crop&format=auto&h=306&w=400&s=4159058c846bbe0446a151cbfa2a09285055c866",
+            "width": 400
+        },
+        "title": "«Snapper’n» ble hyllet på fotballens nasjonaldag: – En uforglemmelig opplevelse",
+        "url": "https://www.vg.no/sport/fotball/i/dwP5bj/egil-snappern-johansen-ble-hyllet-paa-fotballens-nasjonaldag-en-uforglemmelig-opplevelse"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "bgo3gA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/bgo3gA",
+        "preamble": "MANCHESTER (VG) Dette bildet av en tilsynelatende hoverende Pep Guardiola og hans indre krets vekker nå oppsikt i Spania.",
+        "published": {
+            "date": "fredag 19. mai",
+            "datetime": "2023-05-19 07:05:09",
+            "niceformat": "19.05.2023, 07:05",
+            "timestamp": "2023-05-19T05:05:09.000Z"
+        },
+        "thumbnail": {
+            "height": 293,
+            "url": "https://akamai.vgc.no/v2/images/fc3378c1-df91-4c9b-b6cd-de7f53d70921?fit=crop&format=auto&h=293&w=400&s=3b83a0ea922ac66c4e3b6103209c96539e734e01",
+            "width": 400
+        },
+        "title": "Fire fingre fra Guardiola – dette bildet får oppmerksomhet i Spania ",
+        "url": "https://www.vg.no/sport/fotball/i/bgo3gA/fire-fingre-fra-guardiola-dette-bildet-faar-oppmerksomhet-i-spania"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WR34Kr",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WR34Kr",
+        "preamble": "(Sheffield Wednesday-Peterborough 5–1 e.e.o., 5–5 sammenlagt – 5–3 etter straffespark) Sheffield Wednesday skal spille opprykksfinale til Championship etter en playoff-kamp mot Peterborough som trolig aldri glemmes på Hillsborough.",
+        "published": {
+            "date": "torsdag 18. mai",
+            "datetime": "2023-05-18 23:53:54",
+            "niceformat": "18.05.2023, 23:53",
+            "timestamp": "2023-05-18T21:53:54.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/0L9_fcsFfJAq.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Sensasjonelt comeback av Sheffield Wednesday: – Du har aldri sett lignende",
+        "url": "https://www.vg.no/sport/fotball/i/WR34Kr/sensasjonelt-comeback-av-sheffield-wednesday-du-har-aldri-sett-lignende"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "nQbkKJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/nQbkKJ",
+        "preamble": "West Ham tok vare på sin 2-1-ledelse fra det første oppgjøret og gikk til finalen i conferenceligaen med 1-0 helt på tampen mot nederlandske AZ Alkmaar.",
+        "published": {
+            "date": "torsdag 18. mai",
+            "datetime": "2023-05-18 22:56:50",
+            "niceformat": "18.05.2023, 22:56",
+            "timestamp": "2023-05-18T20:56:50.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/ztoB6tE6uDWI.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "West Ham til første finale i Europa på 47 år",
+        "url": "https://www.vg.no/sport/fotball/i/nQbkKJ/west-ham-til-foerste-finale-i-europa-paa-47-aar"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4o0n0V",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4o0n0V",
+        "preamble": "(Newcastle-Brighton 4–1) Newcastle er tre poeng unna å være sikret spill i Europas gjeveste klubbturnering for første gang på 21 sesonger etter et målshow på St. James’ Park torsdag kveld.",
+        "published": {
+            "date": "torsdag 18. mai",
+            "datetime": "2023-05-18 22:31:16",
+            "niceformat": "18.05.2023, 22:31",
+            "timestamp": "2023-05-18T20:31:16.000Z"
+        },
+        "thumbnail": {
+            "height": 294,
+            "url": "https://akamai.vgc.no/v2/images/43b6bd79-257e-49f0-bc01-1dfe468cd5bd?fit=crop&format=auto&h=294&w=400&s=c01cfc1d1e97f92482e469fca11c4efe86ecba8a",
+            "width": 400
+        },
+        "title": "Newcastle mot Champions League etter utklassing av Brighton",
+        "url": "https://www.vg.no/sport/fotball/i/4o0n0V/newcastle-mot-champions-league-etter-utklassing-av-brighton"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAbMV1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAbMV1",
+        "preamble": "Sky Sports-ekspert og Manchester United-legende Gary Neville spurte om en kollega «er ok» på Twitter etter at han fikk kritikk for å sette spørsmålstegn ved Manchester City-laget.",
+        "published": {
+            "date": "torsdag 18. mai",
+            "datetime": "2023-05-18 20:13:07",
+            "niceformat": "18.05.2023, 20:13",
+            "timestamp": "2023-05-18T18:13:07.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6aae2053-dc46-4f98-a26b-7dcb5e84f8eb?fit=crop&format=auto&h=267&w=400&s=45f88aa8c8309f20ecb2673749932f455bd89f74",
+            "width": 400
+        },
+        "title": "Syrlig Gary Neville ut mot kollega i sosiale medier – deaktiverte brukeren",
+        "url": "https://www.vg.no/sport/fotball/i/wAbMV1/gary-neville-ut-mot-kollega-i-sosiale-medier-slettet-brukeren"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76QX9v",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76QX9v",
+        "preamble": "Jürgen Klopp er suspendert i to kamper og får millionbot for uttalelser om dommer Paul Tierney etter Tottenham-oppgjøret i vår. ",
+        "published": {
+            "date": "torsdag 18. mai",
+            "datetime": "2023-05-18 17:08:24",
+            "niceformat": "18.05.2023, 17:08",
+            "timestamp": "2023-05-18T15:08:24.000Z"
+        },
+        "thumbnail": {
+            "height": 289,
+            "url": "https://akamai.vgc.no/v2/images/689fdd97-6ee4-4aa1-afbb-d7eb322ce8ae?fit=crop&format=auto&h=289&w=400&s=a6e6faeb117e4a6e3fd57e6275015717e9eed992",
+            "width": 400
+        },
+        "title": "Liverpool-manager Jürgen Klopp suspendert",
+        "url": "https://www.vg.no/sport/fotball/i/76QX9v/liverpool-manager-jurgen-klopp-suspendert"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9zMj2d",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9zMj2d",
+        "preamble": "(Mjällby-Häcken 1–4) Lars Olden Larsen (24) og Even Hovland (34) bidro sterkt da Per-Mathias Høgmos Häcken vant cupfinalen i Sverige. Etter kampen stormet flere supportere banen og havnet i klammeri med politiet.",
+        "published": {
+            "date": "torsdag 18. mai",
+            "datetime": "2023-05-18 16:56:39",
+            "niceformat": "18.05.2023, 16:56",
+            "timestamp": "2023-05-18T14:56:39.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6c1ee90a-7fd0-4849-9fef-f0c0c553cad7?fit=crop&format=auto&h=267&w=400&s=7320fa0e63329856ec4037721f5245d4a8ea1909",
+            "width": 400
+        },
+        "title": "Supportere angrep politiet etter «norsk» cupseier i Sverige",
+        "url": "https://www.vg.no/sport/fotball/i/9zMj2d/norske-hacken-herjet-i-den-svenske-cupfinalen"
+    }
+]

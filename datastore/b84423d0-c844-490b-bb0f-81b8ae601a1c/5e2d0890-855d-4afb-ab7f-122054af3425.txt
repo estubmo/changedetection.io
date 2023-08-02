@@ -1,0 +1,365 @@
+[
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4Xlbz",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4Xlbz",
+        "preamble": "(Italia – Norge 0–1) Det ble spenning helt til siste spark på ballen, men Norge klarte ikke å ta seg videre fra EM-gruppen.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 22:38:49",
+            "niceformat": "28.06.2023, 22:38",
+            "timestamp": "2023-06-28T20:38:49.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/139c0b9b-3952-48b4-ad6d-7452a0fc3255?fit=crop&format=auto&h=267&w=400&s=b5bd36b20e9221e4f21140685f8eb0c8e6147286",
+            "width": 400
+        },
+        "title": "Seier mot Italia var ikke nok – Norge er ute av U21-EM",
+        "url": "https://www.vg.no/sport/fotball/i/P4Xlbz/u21-em-norge-slo-italia-roek-ut-av-turneringen"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "bg6xak",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/bg6xak",
+        "preamble": "James Maddison blir ikke med Leicester ned til Championship. Tottenham har omsider fått kloen i midtbaneeleganten etter lange forhandlinger.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 22:15:04",
+            "niceformat": "28.06.2023, 22:15",
+            "timestamp": "2023-06-28T20:15:04.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/18ac450c-f010-4919-9b96-8d036031572b?fit=crop&format=auto&h=267&w=400&s=4c3c22c3f3fd06feaa7326fed4f473d49fcbd78d",
+            "width": 400
+        },
+        "title": "Bekreftet: Tottenham henter Maddison",
+        "url": "https://www.vg.no/sport/fotball/i/bg6xak/bekreftet-tottenham-henter-maddison"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "abeM3E",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/abeM3E",
+        "preamble": "(Bodø/Glimt - Tromsø 3–2) Ulrik Saltnes sendte Glimt videre i cupen i sine første minutter tilbake på åtte måneder. Fra Tromsø-leiren raste det etter kampslutt.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 21:04:23",
+            "niceformat": "28.06.2023, 21:04",
+            "timestamp": "2023-06-28T19:04:23.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/41cbf01a-0449-4934-bf62-e8bf3745923e?fit=crop&format=auto&h=267&w=400&s=7d3d4976646d7ac48afacca6c86b8e29f09d427e",
+            "width": 400
+        },
+        "title": "Saltnes sendte Glimt videre i skadereturen – Tromsø raste mot dommeren",
+        "url": "https://www.vg.no/sport/fotball/i/abeM3E/saltnes-sendte-glimt-videre-etter-skadereturen"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3aRJM",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3aRJM",
+        "preamble": "Kai Havertz erstatter blått med rødt. Chelsea-spissen blir lagkamerat med Martin Ødegaard i Arsenal.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 21:02:38",
+            "niceformat": "28.06.2023, 21:02",
+            "timestamp": "2023-06-28T19:02:38.000Z"
+        },
+        "thumbnail": {
+            "height": 309,
+            "url": "https://akamai.vgc.no/v2/images/9c8dcb36-3d93-4502-8140-f2bc89ee033a?fit=crop&format=auto&h=309&w=400&s=2ab25f8ab849a350aed3a798ebcf810747b5859d",
+            "width": 400
+        },
+        "title": "Havertz bytter farge i London – klar for Arsenal",
+        "url": "https://www.vg.no/sport/fotball/i/l3aRJM/havertz-bytter-farge-i-london-klar-for-arsenal"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJRnmM",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJRnmM",
+        "preamble": "(Raufoss - Viking 4–4, 4–1 på straffer) Obosligalaget Raufoss svarte på hver Viking-scoring, og slo eliteserielaget ut av cupen på straffer. Nå møter de 2.-divisjonslaget Kjelsås i kvartfinalen.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 20:46:04",
+            "niceformat": "28.06.2023, 20:46",
+            "timestamp": "2023-06-28T18:46:04.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/1e38642b-045b-494a-90ba-3384a666d483?fit=crop&format=auto&h=267&w=400&s=e1143b705595efeddd5a70421cda93356869fdb0",
+            "width": 400
+        },
+        "title": "Raufoss sendte Viking ut av cupen og fikk drømmetrekning: – Helt rått ",
+        "url": "https://www.vg.no/sport/fotball/i/eJRnmM/raufoss-slo-viking-ut-av-cupen-etter-straffedrama"
+    },
+    {
+        "authors": [
+            {
+                "email": "oyvind.herrebroden@vg.no",
+                "id": "7b5d0009-0f34-41e3-b5af-dcf22addbd42",
+                "name": "Øyvind Herrebrøden"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Qq606",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Qq606",
+        "preamble": "Declan Rice blir lagkamerat med Martin Ødegaard i Arsenal, ifølge The Athletic. Magasinet skriver at Arsenal har fått godtatt budet på 1,3 milliarder kroner.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 20:39:11",
+            "niceformat": "28.06.2023, 20:39",
+            "timestamp": "2023-06-28T18:39:11.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/7486b9a3-bf54-4efe-a7e9-39503e7d68ba?fit=crop&format=auto&h=267&w=400&s=0ad3121e8e52975064bc4918dbdbd5864a39acfa",
+            "width": 400
+        },
+        "title": "The Athletic: Arsenal enige med West Ham om milliardovergang for Rice",
+        "url": "https://www.vg.no/sport/fotball/i/0Qq606/the-athletic-arsenal-enige-med-west-ham-om-milliardovergang-for-rice"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAkBKM",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAkBKM",
+        "preamble": "(Kjelsås – KFUM Oslo 2–0, Brattvåg – Brann 1-7) Bård Finne er i fyr og flamme og sendte Brann enkelt videre til kvartfinale i cupen. Dit skal også annendivisjonslaget Kjelsås.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 19:49:09",
+            "niceformat": "28.06.2023, 19:49",
+            "timestamp": "2023-06-28T17:49:09.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0e2b6a39-db26-476d-b9df-731ac722b7ef?fit=crop&format=auto&h=267&w=400&s=36bcecafa21ab7ac71fc2b22eb0d9f54f10205dc",
+            "width": 400
+        },
+        "title": "Andredivisjonslag skrev historie – Kjelsås til klubbens første kvartfinale i cupen",
+        "url": "https://www.vg.no/sport/fotball/i/wAkBKM/cupen"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Qq69A",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Qq69A",
+        "preamble": "VG følger cupens  4. runde her.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 18:30:37",
+            "niceformat": "28.06.2023, 18:30",
+            "timestamp": "2023-06-28T16:30:37.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/c3162154-66f4-4f44-8d78-13f2b7a6d110?fit=crop&format=auto&h=267&w=400&s=24155b1bbc5cdec4c63b9ec211a8c0d8db132014",
+            "width": 400
+        },
+        "title": "Følg 4. runde i cupen her",
+        "url": "https://www.vg.no/sport/fotball/i/0Qq69A/foelg-4-runde-i-cupen-her"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Qq6Bg",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Qq6Bg",
+        "preamble": "Chelsea-keeper Edouard Mendy bytter ut London med Saudi-Arabia.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 18:12:04",
+            "niceformat": "28.06.2023, 18:12",
+            "timestamp": "2023-06-28T16:12:04.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/3eebd9d9-6933-4d3c-9ee0-281b93596aa0?fit=crop&format=auto&h=267&w=400&s=eb93e078094666fc4d6b34da5e31fbf3178fad06",
+            "width": 400
+        },
+        "title": "Ny Chelsea-spiller til Saudi-Arabia – Mendy klar for Al Ahly",
+        "url": "https://www.vg.no/sport/fotball/i/0Qq6Bg/mendy-klar-for-al-ahly"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAkBPn",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAkBPn",
+        "preamble": "Mesterligafinalen for kvinner i 2025 spilles på Estádio José Alvalade i Portugal. Det er hjemmearenaen til Sporting Lisboa.",
+        "published": {
+            "date": "onsdag 28. juni",
+            "datetime": "2023-06-28 17:04:24",
+            "niceformat": "28.06.2023, 17:04",
+            "timestamp": "2023-06-28T15:04:24.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/7771a783-209c-4969-8bde-8171fb7c30ef?fit=crop&format=auto&h=267&w=400&s=1f90897bfd3648ae085e61e094df1ddf290764da",
+            "width": 400
+        },
+        "title": "Lisboa tildelt kvinnenes Champions League-finale i 2025",
+        "url": "https://www.vg.no/sport/fotball/i/wAkBPn/lisboa-tildelt-kvinnenes-champions-league-finale-i-2025"
+    }
+]

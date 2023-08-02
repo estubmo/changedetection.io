@@ -1,0 +1,378 @@
+[
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "abL6LO",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/abL6LO",
+        "preamble": "Frida Maanum (23) har skrevet under på en ny kontrakt med Arsenal. Hun høster mye ros av sin trener.",
+        "published": {
+            "date": "torsdag 1. juni",
+            "datetime": "2023-06-01 11:15:01",
+            "niceformat": "01.06.2023, 11:15",
+            "timestamp": "2023-06-01T09:15:01.000Z"
+        },
+        "thumbnail": {
+            "height": 298,
+            "url": "https://akamai.vgc.no/v2/images/aef543a9-df22-4d03-8b34-72778868e93d?fit=crop&format=auto&h=298&w=400&s=9f33af1502f10d974a18627cfdeb4b99d2a0f5f2",
+            "width": 400
+        },
+        "title": "Forlenget med Arsenal ",
+        "url": "https://www.vg.no/sport/fotball/i/abL6LO/womens-super-league-frida-maanum-forlenget-med-arsenal"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3XdgA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3XdgA",
+        "preamble": "(Sevilla – Roma 1–1 e.e.o., 4–1 på straffer) Etter en heseblesende Europa League-finale med ekstraomganger, straffekonk og fullt kaos kunne Sevilla strekke armene i været for syvende gang.",
+        "published": {
+            "date": "torsdag 1. juni",
+            "datetime": "2023-06-01 00:03:13",
+            "niceformat": "01.06.2023, 00:03",
+            "timestamp": "2023-05-31T22:03:13.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/3cd5b70b-c088-4a35-9121-cb9d5feeac2c?fit=crop&format=auto&h=267&w=400&s=c65d6f57bbe904fa5164c3af1b112cc111985134",
+            "width": 400
+        },
+        "title": "Kaos og straffedrama – Sevilla vant Europa League for syvende gang: – Jeg er stolt",
+        "url": "https://www.vg.no/sport/fotball/i/l3XdgA/kaos-og-straffedrama-sevilla-vant-europa-league-for-syvende-gang"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q7OVkR",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q7OVkR",
+        "preamble": "En 15 år gammel tysk fotballspiller døde av alvorlige hodeskader etter en ungdomskamp i Frankfurt.",
+        "published": {
+            "date": "onsdag 31. mai",
+            "datetime": "2023-05-31 20:55:58",
+            "niceformat": "31.05.2023, 20:55",
+            "timestamp": "2023-05-31T18:55:58.000Z"
+        },
+        "title": "15-åring døde etter vold på fotballbane",
+        "url": "https://www.vg.no/sport/fotball/i/Q7OVkR/15-aaring-doede-etter-slagsmaal-paa-fotballbane"
+    },
+    {
+        "authors": [
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            },
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            },
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "veXREX",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/veXREX",
+        "preamble": "TRONDHEIM (VG) Rosenborgs hovedtrener Kjetil Rekdal og assistent Geir Frigård var onsdag i et møte med Rosenborg-styret. Der ble det klart at trenerduoen fortsetter i klubben.",
+        "published": {
+            "date": "onsdag 31. mai",
+            "datetime": "2023-05-31 16:29:27",
+            "niceformat": "31.05.2023, 16:29",
+            "timestamp": "2023-05-31T14:29:27.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/65d3702d-b469-4245-974f-2bf0b6e622ec?fit=crop&format=auto&h=300&w=400&s=2d58812a0075430d1bbc6454431bee5e5eff07a3",
+            "width": 400
+        },
+        "title": "Rekdal fortsetter som RBK-trener: – Fra dag én har det vært et voldsomt kjør",
+        "url": "https://www.vg.no/sport/fotball/i/veXREX/krisemoete-i-rbk-vil-ikke-svare-paa-om-rekdal-fortsetter"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WRdp5Q",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WRdp5Q",
+        "preamble": "ULLEVAAL STADION (VG) Stjørdals-Blink-keeper Rasmus Sandberg (22) gikk nesten i bakken da navnet hans ble inkludert i troppen som skal representere Norge i U21-EM for første gang på 10 år.",
+        "published": {
+            "date": "onsdag 31. mai",
+            "datetime": "2023-05-31 15:43:14",
+            "niceformat": "31.05.2023, 15:43",
+            "timestamp": "2023-05-31T13:43:14.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/88de8967-06b8-415c-8e38-97ae0f481be1?fit=crop&format=auto&h=267&w=400&s=c0d5753c40695dcc81124becfa8a2ecfb07d206a",
+            "width": 400
+        },
+        "title": "Ukjente Rasmus (22) fikk drøm oppfylt: – Holdt på å svime av",
+        "url": "https://www.vg.no/sport/fotball/i/WRdp5Q/ukjente-rasmus-22-fikk-droem-oppfylt-holdt-paa-aa-svime-av"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76L8kW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76L8kW",
+        "preamble": "Tre Brann-supportere er anmeldt for knallskudd, sparking og forsøk å bryte sperring, melder Bergensavisene.",
+        "published": {
+            "date": "onsdag 31. mai",
+            "datetime": "2023-05-31 15:09:18",
+            "niceformat": "31.05.2023, 15:09",
+            "timestamp": "2023-05-31T13:09:18.000Z"
+        },
+        "title": "Tre Brann-supportere anmeldes",
+        "url": "https://www.vg.no/sport/fotball/i/76L8kW/tre-brann-supportere-anmeldes"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            },
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4mQWp",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4mQWp",
+        "preamble": "ULLEVAAL STADION (VG) I sommer deltar Norge i U21-EM for første gang på 10 år. Onsdag kunne 23 mann se frem til karrierens foreløpige høydepunkt, mens flere norske talenter fikk mesterskapsdrømmen knust.",
+        "published": {
+            "date": "onsdag 31. mai",
+            "datetime": "2023-05-31 14:06:25",
+            "niceformat": "31.05.2023, 14:06",
+            "timestamp": "2023-05-31T12:06:25.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/f0de6a7f-f89f-4523-9f9a-476388a28eb2?fit=crop&format=auto&h=267&w=400&s=e96cfbacc7a221d974cd808b29b2738c26ba96b0",
+            "width": 400
+        },
+        "title": "Stjerneskudd til U21-EM: Nusa inkludert i troppen - Schjelderup ute",
+        "url": "https://www.vg.no/sport/fotball/i/P4mQWp/stjerneskudd-vraket-til-u21-em"
+    },
+    {
+        "authors": [
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            },
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Kn1JVM",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Kn1JVM",
+        "preamble": "OSLO SENTRUM (VG) Petter Northug er en av Rosenborgs mest profilerte supportere. Han er totalt uenig med «Mini» Jakobsen, og mener supporterne må få si det de vil om klubben - og at de må bli lyttet til. ",
+        "published": {
+            "date": "onsdag 31. mai",
+            "datetime": "2023-05-31 12:45:43",
+            "niceformat": "31.05.2023, 12:45",
+            "timestamp": "2023-05-31T10:45:43.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/b184adcd-0c13-4478-ad87-bc921d93740a?fit=crop&format=auto&h=267&w=400&s=562e14fa499e7ff26b961b629566ce8a593c35b8",
+            "width": 400
+        },
+        "title": "Northug hardt ut mot «Mini»: – Supporterne må få ha sin tydelige mening",
+        "url": "https://www.vg.no/sport/fotball/i/Kn1JVM/rosenborg-supporter-petter-northug-ut-mot-jahn-ivar-mini-jakobsen-supporterne-maa-faa-ha-sin-mening"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            },
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            },
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Kn17j7",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Kn17j7",
+        "preamble": "Norges Fotballforbund (NFF) har bestemt seg for sitt neste store satsningsområde: Å fange opp spillere som henger litt etter i den fysiske utviklingen.",
+        "published": {
+            "date": "onsdag 31. mai",
+            "datetime": "2023-05-31 09:50:49",
+            "niceformat": "31.05.2023, 09:50",
+            "timestamp": "2023-05-31T07:50:49.000Z"
+        },
+        "thumbnail": {
+            "height": 289,
+            "url": "https://akamai.vgc.no/v2/images/ec4045be-32ae-45c0-836f-4bd34b98c686?fit=crop&format=auto&h=289&w=400&s=a8ae458cb181702f0fd13fecfb97ad5efcee2d5b",
+            "width": 400
+        },
+        "title": "Stor NFF-satsing på sent utviklede: – Vi er nødt til å gjøre noe",
+        "url": "https://www.vg.no/sport/fotball/i/Kn17j7/stor-nff-satsing-paa-sent-utviklede-vi-er-noedt-til-aa-gjoere-noe"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "veXokl",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/veXokl",
+        "preamble": "De italienske forretningsmennene Andrea Radrizzani og Matteo Manfredi kjøper fotballklubben Sampdoria.",
+        "published": {
+            "date": "onsdag 31. mai",
+            "datetime": "2023-05-31 09:25:45",
+            "niceformat": "31.05.2023, 09:25",
+            "timestamp": "2023-05-31T07:25:45.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/5d44f598-d020-4673-94c4-52abcdcb827d?fit=crop&format=auto&h=267&w=400&s=e5d85d0cc207a756f1a61816aafb05d6742d2d4a",
+            "width": 400
+        },
+        "title": "Leeds-eieren tar over Sampdoria",
+        "url": "https://www.vg.no/sport/fotball/i/veXokl/leeds-eieren-tar-over-sampdoria"
+    }
+]

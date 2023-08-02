@@ -1,0 +1,198 @@
+[
+    {
+        "slug": "kil-hemne-2-tapte-paa-hjemmebane",
+        "url": "/lokalfotballen/i/l3l24A/kil-hemne-2-tapte-paa-hjemmebane",
+        "title": {
+            "value": "KIL/Hemne 2 tapte hjemme mot Svorkmo"
+        },
+        "description": "Svorkmo slo KIL/Hemne 2 3-1 og fikk dermed med seg tre poeng i 5. divisjon, Trøndelag - Avdeling 2 i fotball lørdag. Det var Svorkmos første seier denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T17:13:41Z",
+        "lastModifiedAt": "2023-04-29T17:17:52Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "slo-tilbake-etter-smellen",
+        "url": "/sport/fotball/i/eJyLAO/slo-tilbake-etter-smellen",
+        "title": {
+            "value": "Slo tilbake etter smellen"
+        },
+        "description": "Rosenborg hadde full kontroll mot Lyn.",
+        "imageUrl": "dd8f4e55-e3f6-4e64-a75b-475ed1569c4a",
+        "publishedAt": "2023-04-29T16:33:52Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "rosenborg-kvinner",
+            "norsk-fotball",
+            "toppserien",
+            "emilie-joramo",
+            "elin-soerum",
+            "anna-joesendal"
+        ]
+    },
+    {
+        "slug": "nytt-tap-for-namsos",
+        "url": "/lokalfotballen/i/l3l2VL/nytt-tap-for-namsos",
+        "title": {
+            "value": "Tredje strake nederlag for Namsos"
+        },
+        "description": "Trygg/Lade knuste Namsos 5-1 i 4. divisjon, Trøndelag - Avdeling 1 lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T16:04:46Z",
+        "lastModifiedAt": "2023-04-29T16:17:51Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "alvheim-avgjorde-for-kristiansund-2",
+        "url": "/lokalfotballen/i/bgaxGe/alvheim-avgjorde-for-kristiansund-2",
+        "title": {
+            "value": "Alvheim senket Steinkjer"
+        },
+        "description": "Leander Alvheim sikret tre poeng for Kristiansund 2 da Steinkjer ble slått 2-1 i 3. divisjon, Avdeling 5 i fotball. Steinkjer har tapt de siste to kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T16:03:43Z",
+        "lastModifiedAt": "2023-04-29T16:19:07Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "to-fulltreffere-fra-bakken",
+        "url": "/lokalfotballen/i/MopGLo/to-fulltreffere-fra-bakken",
+        "title": {
+            "value": "Malvik 2 tapte mot Namsos"
+        },
+        "description": "Emilie Sørensen Bakken scoret begge målene for Namsos og ble den store helten i 2-0-seieren over Malvik 2 i 4. divisjon, Trøndelag - Avdeling 1 i fotball for kvinner lørdag. Malvik 2 har gått poengløse av banen i to strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T16:00:42Z",
+        "lastModifiedAt": "2023-04-29T16:20:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "storseier-for-kvik",
+        "url": "/lokalfotballen/i/Q73zyx/storseier-for-kvik",
+        "title": {
+            "value": "Tungt nederlag for Strindheim 2"
+        },
+        "description": "David Melkvik scoret to mål da Kvik vant 4-0 over Strindheim 2 i 4. divisjon, Trøndelag - Avdeling 2 i fotball for menn lørdag. Strindheim 2 har ikke tatt poeng på de siste to kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T15:59:42Z",
+        "lastModifiedAt": "2023-04-29T16:17:51Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "hjemmeseier-for-aalesund-over-rosenborg",
+        "url": "/lokalfotballen/i/P4ex6e/hjemmeseier-for-aalesund-over-rosenborg",
+        "title": {
+            "value": "Rosenborg-tap mot Aalesund"
+        },
+        "description": "Aalesund slo Rosenborg 3-0 på Color Line stadion i Nasjonal G15, Gruppe C.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T15:05:06Z",
+        "lastModifiedAt": "2023-04-29T15:19:30Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-smpno",
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "verdal-maatte-dele-poengene",
+        "url": "/lokalfotballen/i/GMnLzQ/verdal-maatte-dele-poengene",
+        "title": {
+            "value": "Uavgjort på Tobb Arena Sør"
+        },
+        "description": "Verken Tiller eller Verdal fikk nettkjenning da lagene møttes i 3. divisjon, Avdeling 5 i fotball lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T14:57:55Z",
+        "lastModifiedAt": "2023-04-29T15:20:33Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "klarer-rbk-aa-slaa-tilbake",
+        "url": "/sport/fotball/i/q17xAO/klarer-rbk-aa-slaa-tilbake",
+        "title": {
+            "value": "- Har hatt stålkontroll"
+        },
+        "description": "Følg Rosenborg mot Lyn her. Kampstart klokken 16.45.",
+        "imageUrl": "f18329bd-322f-4c2d-95f3-21af8f6e77b6",
+        "publishedAt": "2023-04-29T14:50:57Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "fotball",
+            "rosenborg-bk",
+            "toppserien",
+            "norsk-fotball"
+        ]
+    },
+    {
+        "slug": "kil-hemne-ble-slaatt-i-maalfest",
+        "url": "/lokalfotballen/i/wA0GWG/kil-hemne-ble-slaatt-i-maalfest",
+        "title": {
+            "value": "KIL/Hemne tapte mot NTNUI i målfest"
+        },
+        "description": "NTNUI vant 4-2 over KIL/Hemne på bortebane i 4. divisjon, Trøndelag - Avdeling 2 lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-29T14:07:26Z",
+        "lastModifiedAt": "2023-04-29T17:17:52Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    }
+]

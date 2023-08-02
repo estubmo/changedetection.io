@@ -1,0 +1,346 @@
+[
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMXdxB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMXdxB",
+        "preamble": "Erling Braut Haalands kanonsesong i Manchester City tok ham til topps på den spanske storavisen Marcas rangering av fotballens beste spillere i 2022/23-sesongen.",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 22:30:37",
+            "niceformat": "29.06.2023, 22:30",
+            "timestamp": "2023-06-29T20:30:37.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/b259e4c2-9829-401f-9385-2dfafa20581e?fit=crop&format=auto&h=267&w=400&s=d56c368fe41bc0aedb62876eda342bd68b2e01c3",
+            "width": 400
+        },
+        "title": "Haaland øverst på Marcas topp 100-liste",
+        "url": "https://www.vg.no/sport/fotball/i/GMXdxB/haaland-oeverst-paa-marcas-topp-100-liste"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q1xq2o",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q1xq2o",
+        "preamble": "Joacim Holtan (24) fortsetter i Kongsvinger også de neste par årene. Serielederne i Obos-ligaen benytter seg av opsjonen i låneavtalen med Haugesund.",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 20:32:44",
+            "niceformat": "29.06.2023, 20:32",
+            "timestamp": "2023-06-29T18:32:44.000Z"
+        },
+        "thumbnail": {
+            "height": 295,
+            "url": "https://akamai.vgc.no/v2/images/0dcbfaac-e237-43d3-9240-e9e4d960e21e?fit=crop&format=auto&h=295&w=400&s=e7515816329b534df453801def65e8945abcd0c7",
+            "width": 400
+        },
+        "title": "Kongsvingers toppscorer blir værende – kjøpes fri fra FKH",
+        "url": "https://www.vg.no/sport/fotball/i/q1xq2o/kongsvingers-toppscorer-blir-vaerende-kjoepes-fri-fra-fkh"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPXVE6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPXVE6",
+        "preamble": "Liverpools tidligere storscorer Robbie Fowler (48) er ansatt som hovedtrener i saudiarabiske Al-Qadsiah. Laget holder til på nivå to.",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 19:46:15",
+            "niceformat": "29.06.2023, 19:46",
+            "timestamp": "2023-06-29T17:46:15.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/b5c1274f-05df-47ba-a292-213408fef220?fit=crop&format=auto&h=267&w=400&s=00d8e699891747784771624a417501cd73ed5770",
+            "width": 400
+        },
+        "title": "Fowler tar over klubb i Saudi-Arabia",
+        "url": "https://www.vg.no/sport/fotball/i/VPXVE6/fowler-tar-over-klubb-i-saudi-arabia"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "y6JqqA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/y6JqqA",
+        "preamble": "Kvartfinalene i fotballcupen for menn blir fordelt over to dager. Vålerenga – Brann spilles som senkamp 12. juli.",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 19:44:27",
+            "niceformat": "29.06.2023, 19:44",
+            "timestamp": "2023-06-29T17:44:27.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/9e4df029-fd71-4260-a301-1adb2e0b8e34?fit=crop&format=auto&h=267&w=400&s=556eb169389eba84e03e6de46871cd529c66d361",
+            "width": 400
+        },
+        "title": "Datoene for NM-kvartfinalene er klare – seriekamp utsettes",
+        "url": "https://www.vg.no/sport/fotball/i/y6JqqA/slik-spilles-kvartfinalene-i-nm-i-fotball-for-menn-vaalerenga-brann-kl-20-00-12-juli"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQXay7",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQXay7",
+        "preamble": "Viktor Fischer spilte VM for Danmark. Nå legger 29-åringen overraskende fotballskoene på hylla.",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 18:30:35",
+            "niceformat": "29.06.2023, 18:30",
+            "timestamp": "2023-06-29T16:30:35.000Z"
+        },
+        "thumbnail": {
+            "height": 258,
+            "url": "https://akamai.vgc.no/v2/images/4387effc-10cb-40ff-a1e9-0d75e1329a11?fit=crop&format=auto&h=258&w=400&s=12142519555b0b07f006e3dfc447a89c6815250c",
+            "width": 400
+        },
+        "title": "Fischer spilte VM for Danmark – legger opp",
+        "url": "https://www.vg.no/sport/fotball/i/JQXay7/viktor-fischer-legger-overraskende-opp"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Qq17g",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Qq17g",
+        "preamble": "Flere spillere fra Premier League har hvalfartet til Saudi-Arabia. Jamie Vardy blir ikke en av dem.",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 18:20:00",
+            "niceformat": "29.06.2023, 18:20",
+            "timestamp": "2023-06-29T16:20:00.000Z"
+        },
+        "thumbnail": {
+            "height": 285,
+            "url": "https://akamai.vgc.no/v2/images/ed580328-a204-4d6b-be7a-b2344b36c340?fit=crop&format=auto&h=285&w=400&s=732cc61ca232a78233147619c2c7e05764057906",
+            "width": 400
+        },
+        "title": "Takket nei til Saudi-Arabia",
+        "url": "https://www.vg.no/sport/fotball/i/0Qq17g/jamie-vardy-avslo-et-tilbud-fra-saudi-arabia"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "LlXVBP",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/LlXVBP",
+        "preamble": "Etter alle solemerker skal Mason Mount være klar for en overgang til Manchester United. ",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 17:52:11",
+            "niceformat": "29.06.2023, 17:52",
+            "timestamp": "2023-06-29T15:52:11.000Z"
+        },
+        "thumbnail": {
+            "height": 276,
+            "url": "https://akamai.vgc.no/v2/images/6b17c18b-7600-472c-8279-562d090867f7?fit=crop&format=auto&h=276&w=400&s=ee570894bdd0517ed7d74f97e263882c310d16f6",
+            "width": 400
+        },
+        "title": "The Athletic: Manchester United og Chelsea enige om Mason Mount",
+        "url": "https://www.vg.no/sport/fotball/i/LlXVBP/the-athletic-manchester-united-og-chelsea-enige-om-mason-mount"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BWea20",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BWea20",
+        "preamble": "Flere franske fotballstjerner reagerer etter at en 17-åring ble skutt under en politikontroll tirsdag. Kylian Mbappé kaller drapet uakseptabelt.",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 14:55:57",
+            "niceformat": "29.06.2023, 14:55",
+            "timestamp": "2023-06-29T12:55:57.000Z"
+        },
+        "thumbnail": {
+            "height": 259,
+            "url": "https://akamai.vgc.no/v2/images/f45df329-2621-4c5d-b556-c98b27c96756?fit=crop&format=auto&h=259&w=400&s=800c55e4ec6220ed783717b60550c6cf17f7f47c",
+            "width": 400
+        },
+        "title": "Kylian Mbappé reagerer sterkt på politidrap: – Det smerter å være fransk",
+        "url": "https://www.vg.no/sport/fotball/i/BWea20/kylian-mbappe-reagerer-sterkt-paa-politidrap-det-smerter-aa-vaere-fransk"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q1xqp0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q1xqp0",
+        "preamble": "Frankrikes øverste administrative domstol bevarer retten til å nekte kvinner i landet å bære hijab i offisielle fotballkamper.",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 14:49:42",
+            "niceformat": "29.06.2023, 14:49",
+            "timestamp": "2023-06-29T12:49:42.000Z"
+        },
+        "title": "Fortsatt hijabforbud i fransk fotball",
+        "url": "https://www.vg.no/sport/fotball/i/q1xqp0/fortsatt-hijabforbud-i-fransk-fotball"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9ze9lM",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9ze9lM",
+        "preamble": "Norske Martine Fenger (16) har signert en treårskontrakt med Barcelona-kvinnenes B-lag.",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 14:47:58",
+            "niceformat": "29.06.2023, 14:47",
+            "timestamp": "2023-06-29T12:47:58.000Z"
+        },
+        "title": "Norsk 16-åring klar for Barcelona",
+        "url": "https://www.vg.no/sport/fotball/i/9ze9lM/norsk-16-aaring-klar-for-barcelona"
+    }
+]

@@ -1,0 +1,199 @@
+[
+    {
+        "slug": "smeller-bomben-paa-lade-foelg-cupfesten-her",
+        "url": "/sport/fotball/i/APk0jA/smeller-bomben-paa-lade-foelg-cupfesten-her",
+        "title": {
+            "value": "15-åring starter for RBK: Følg cupfesten her!"
+        },
+        "description": "Vi går direkte i studio fra 17.45, og er på plass med reporter på fire arenaer!",
+        "imageUrl": "b0832e73-76e2-4264-a02f-6f4af1fc00ce",
+        "publishedAt": "2023-05-24T13:58:16Z",
+        "lastModifiedAt": "2023-05-24T15:36:00Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball"
+        ]
+    },
+    {
+        "slug": "freidig-2-med-hjemmeseier-over-rissa-stadsbygd-vanvik",
+        "url": "/lokalfotballen/i/rlX5j8/freidig-2-med-hjemmeseier-over-rissa-stadsbygd-vanvik",
+        "title": {
+            "value": "Freidig 2 med hjemmeseier over Rissa/Stadsbygd/Vanvik"
+        },
+        "description": "Freidig 2 seiret 5-0 over Rissa/Stadsbygd/Vanvik i J13 2. divisjon, Avdeling 4 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-24T12:28:05Z",
+        "lastModifiedAt": "2023-05-24T12:28:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "forskyver-cupkamp-etter-e6-stengning",
+        "url": "/sport/fotball/i/bgWQzq/forskyver-cupkamp-etter-e6-stengning",
+        "title": {
+            "value": "Forskyver cupkamp etter E6-stengning"
+        },
+        "description": "Onsdagens cupkamp mellom Verdal og Ranheim flyttes to timer.",
+        "imageUrl": "bfe4c200-e246-43e3-8183-e831f89d66ee",
+        "publishedAt": "2023-05-24T10:21:46Z",
+        "lastModifiedAt": "2023-05-24T10:47:42Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "kaare-ingebrigtsen",
+            "ranheim",
+            "levanger",
+            "verdal-il"
+        ]
+    },
+    {
+        "slug": "startet-med-en-leilighet-naa-er-han-milliardaer",
+        "url": "/nyheter/i/wAb6pM/startet-med-en-leilighet-naa-er-han-milliardaer",
+        "title": {
+            "value": "Han startet med én leilighet i Trondheim. Slik fikk han millionene til å renne inn"
+        },
+        "description": "Mens Francis Hay har kranglet om småpenger, har milliardformuen hans bare økt. Han er nå Trondheims tredje rikeste.",
+        "imageUrl": "1d83a292-17ef-4345-bb71-2f1dccf5a02f",
+        "publishedAt": "2023-05-24T08:01:47Z",
+        "lastModifiedAt": "2023-05-24T14:10:43Z",
+        "premium": true,
+        "authors": [
+            "Espen Rasmussen",
+            "Rune Petter Ness (foto)",
+            "Sissel Lynum",
+            "Margrete Konstad",
+            "Lajla Ellingsen"
+        ],
+        "tags": [
+            "sveits",
+            "trondheim",
+            "francis-hay",
+            "milliardaerer",
+            "naeringseiendom",
+            "penger"
+        ]
+    },
+    {
+        "slug": "her-tilbrakte-rbk-stjernen-hele-barndommen-20-aar-etter-er-han-tilbake",
+        "url": "/sport/fotball/i/15wq4W/her-tilbrakte-rbk-stjernen-hele-barndommen-20-aar-etter-er-han-tilbake",
+        "title": {
+            "value": "Her tilbrakte RBK-stjernen hele barndommen. 20 år etter er han tilbake"
+        },
+        "description": "Han er blitt 35 år, er RBK-helt og har vært proff i bundesliga. Men all erfaring til tross: Per Ciljan Skjelbred er krystallklar før møtet med 4. divisjonsgutta i Trygg/Lade.",
+        "imageUrl": "86e616fc-4efc-46fc-8fed-94b53c0aaa02",
+        "publishedAt": "2023-05-24T06:28:55Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "per-ciljan-skjelbred"
+        ]
+    },
+    {
+        "slug": "charlottenlund-2-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/VPkGa3/charlottenlund-2-fortsatte-seiersrekken",
+        "title": {
+            "value": "Tredje seier på rad for Charlottenlund 2"
+        },
+        "description": "Charlottenlund 2s 3-2-seier stanset NTNUI 2s seiersrekke på tre kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-23T21:27:30Z",
+        "lastModifiedAt": "2023-05-24T13:28:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "fagerbaek-scoret-hattrick-for-sokna",
+        "url": "/lokalfotballen/i/eJmdOK/fagerbaek-scoret-hattrick-for-sokna",
+        "title": {
+            "value": "Målshow fra Sokna"
+        },
+        "description": "Elise Sommervold Fagerbæk sto fram med tre mål da Sokna vant 8-0 over Budal i 4. divisjon, Trøndelag - Avdeling 3 i fotball tirsdag. Budal har gått poengløse av banen i alle kampene sine så langt i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-23T20:46:07Z",
+        "lastModifiedAt": "2023-05-24T12:28:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-gauldalsposten",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "tomaalslykke-da-utleira-vant",
+        "url": "/lokalfotballen/i/5BMjLE/tomaalslykke-da-utleira-vant",
+        "title": {
+            "value": "Scoringslykke for Hedda Sæbø"
+        },
+        "description": "Med dagens 3-2-seier over Ranheim tok Utleira sin første seier denne sesongen. I J15 2. divisjon, Avdeling 4 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-23T20:19:42Z",
+        "lastModifiedAt": "2023-05-24T06:58:15Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ranheim-2-vartet-opp-med-maalfest",
+        "url": "/lokalfotballen/i/eJmdaQ/ranheim-2-vartet-opp-med-maalfest",
+        "title": {
+            "value": "Pernille Helmersen bøttet inn mål for Ranheim 2"
+        },
+        "description": "Strindheim 2 gikk på sitt første nederlag for sesongen etter dagens 0-8-tap mot Ranheim 2. i J17 2. divisjon, Avdeling 1 - Vår tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-23T20:15:20Z",
+        "lastModifiedAt": "2023-05-23T20:38:36Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "olsson-scoret-hattrick-mot-trond",
+        "url": "/lokalfotballen/i/MoWj6J/olsson-scoret-hattrick-mot-trond",
+        "title": {
+            "value": "Målshow fra Ranheim 2"
+        },
+        "description": "Mie Olsson scoret tre ganger og hjalp Ranheim 2 til 11-1-seier over Trond i 4. divisjon, Trøndelag - Avdeling 2 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-23T20:14:17Z",
+        "lastModifiedAt": "2023-05-23T20:37:31Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

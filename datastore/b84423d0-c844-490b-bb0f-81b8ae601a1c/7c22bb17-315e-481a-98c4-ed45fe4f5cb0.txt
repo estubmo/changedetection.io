@@ -1,0 +1,365 @@
+[
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJXGL4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJXGL4",
+        "preamble": "LILLESTRØM (VG) (Lillestrøm – Bodø/Glimt 1–2) Kjetil Knutsen (54) raste på sidelinjen da Lillestrøm utlignet, men to mål av Pemi Moumbagna Faris (22) sørget for at nordlendingene stikker av på toppen av tabellen.",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 21:12:54",
+            "niceformat": "07.05.2023, 21:12",
+            "timestamp": "2023-05-07T19:12:54.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/45ca0173-81cd-42ff-a50b-102bc4d0d32b?fit=crop&format=auto&h=267&w=400&s=c1a1f4644006d6fa1a2dfa9ea48ff90d9d64486d",
+            "width": 400
+        },
+        "title": "Bodø/Glimt fikk revansje etter cupsmellen – første seier på gress siden oktober",
+        "url": "https://www.vg.no/sport/fotball/i/eJXGL4/bodoe-glimt-fikk-revansje-etter-cupsmellen-slo-lillestroem-21-paa-aaraasen"
+    },
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEBdk5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEBdk5",
+        "preamble": "(Newcastle - Arsenal 0–2) Mot et Champions League-jagende Newcastle hadde Arsenal kniven på strupen - da dukket rekordmannen Martin Ødegaard (24) opp.",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 19:29:08",
+            "niceformat": "07.05.2023, 19:29",
+            "timestamp": "2023-05-07T17:29:08.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/84u9QyQmmSaL.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Arsenal holder liv i titteldrømmen - Ødegaard tangerte rekord",
+        "url": "https://www.vg.no/sport/fotball/i/gEBdk5/arsenal-holder-liv-i-gulldroemmen-oedegaard-tangerte-rekord"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "APqbWM",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/APqbWM",
+        "preamble": "18-åringen Bork Classønn Bang-Kittilsen ble byttet inn for Odd og scoret kampens eneste mål i eliteseriemøtet med Tromsø søndag. ",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 19:03:27",
+            "niceformat": "07.05.2023, 19:03",
+            "timestamp": "2023-05-07T17:03:27.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/d3de26a3-49fc-4b5c-8c9d-c3280c44e141?fit=crop&format=auto&h=267&w=400&s=d39eb3ba6677ba608ca46d52a4f1baa9ca01373c",
+            "width": 400
+        },
+        "title": "Bork (18) matchvinner for Odd – påførte Tromsø det første tapet",
+        "url": "https://www.vg.no/sport/fotball/i/APqbWM/bork-18-matchvinner-for-odd-paafoerte-tromsoe-det-foerste-tapet"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9zMk0M",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9zMk0M",
+        "preamble": "To mål på tampen sørget for 1-1 mellom Stabæk og Sarpsborg i Eliteserien søndag. Nadderud-gresset dikterte nok en gang kampen.",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 19:02:16",
+            "niceformat": "07.05.2023, 19:02",
+            "timestamp": "2023-05-07T17:02:16.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a161941a-6476-4dbd-8f90-b1ec37e1219f?fit=crop&format=auto&h=267&w=400&s=f755c66aea6ad5b6961cee9122907460b923a061",
+            "width": 400
+        },
+        "title": "Uavgjort på «tørr» Nadderud-matte – tredje poengdeling på rad for Sarpsborg",
+        "url": "https://www.vg.no/sport/fotball/i/9zMk0M/uavgjort-paa-toerr-nadderud-matte-tredje-poengdeling-paa-rad-for-sarpsborg"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WR3g3L",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WR3g3L",
+        "preamble": "(Viking - Strømsgodset 1–1) Jonatan Braut Brunes (22) sendte Strømsgodset i ledelsen kun et halvt minutt etter å ha blitt byttet inn, men veteranen Birkir Bjarnason (34) utlignet i sluttminuttene.",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 18:53:57",
+            "niceformat": "07.05.2023, 18:53",
+            "timestamp": "2023-05-07T16:53:57.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6a5e4f89-312f-4d16-a779-87c2812d0dab?fit=crop&format=auto&h=267&w=400&s=783de0ce5fd6cac56622b81a037dfe9540bcda7e",
+            "width": 400
+        },
+        "title": "Braut Brunes scoret etter 29 sekunder på banen – Bjarnason reddet Viking-poeng",
+        "url": "https://www.vg.no/sport/fotball/i/WR3g3L/braut-brunes-scoret-etter-29-sekunder-paa-banen-bjarnason-reddet-viking-poeng"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kEbvwB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kEbvwB",
+        "preamble": "HAMAR (VG) (HamKam – Molde 0–4) Han scoret mot sine egne. Molde-seieren var spesiell for Kristian Eriksen på hans avdøde fars bursdag. Sammen med giganten Magnus Wolff Eikrem avgjorde han på Briskeby.",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 18:50:55",
+            "niceformat": "07.05.2023, 18:50",
+            "timestamp": "2023-05-07T16:50:55.000Z"
+        },
+        "thumbnail": {
+            "height": 236,
+            "url": "https://akamai.vgc.no/v2/images/cedc674a-55d6-4e20-aca0-53a6094f5ee4?fit=crop&format=auto&h=236&w=400&s=7377773e9244db5846551a243f1387a4acd3996b",
+            "width": 400
+        },
+        "title": "Kristian Eriksen dro til farens gravsted før kampen: – Ga meg ekstra energi",
+        "url": "https://www.vg.no/sport/fotball/i/kEbvwB/kristian-eriksen-scoret-mot-sine-egne-ekstra-spesielt"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            },
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q7qgaA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q7qgaA",
+        "preamble": "(Aalesund – FK Haugesund 0–0) Aalesund prøvde seg på Ole Gunnar Solskjær, men fikk nei. Samtidig har de nå en marerittrekke som ikke har skjedd i toppdivisjonens 75 år lange historie.",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 18:12:43",
+            "niceformat": "07.05.2023, 18:12",
+            "timestamp": "2023-05-07T16:12:43.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/36f9edc8-67ad-486a-a4e5-a2201c14a3f2?fit=crop&format=auto&h=267&w=400&s=064f32b68dad435bc37e056f16c4f0f561e05959",
+            "width": 400
+        },
+        "title": "Aalesund kontaktet Solskjær og fikk nei – har ikke scoret etter 540 minutter med fotball ",
+        "url": "https://www.vg.no/sport/fotball/i/Q7qgaA/aalesund-kontaktet-solskjaer-og-fikk-nei"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Xbp9wo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Xbp9wo",
+        "preamble": "(Rosenborg - Vålerenga 0–0) Både Rosenborg og Vålerenga misbrukte de få sjansene som ble skapt i toppoppgjøret i Trondheim. Før pause måtte VIF-spiss Elise Thorsnes (34) av med skade.",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 16:52:04",
+            "niceformat": "07.05.2023, 16:52",
+            "timestamp": "2023-05-07T14:52:04.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/cb95f5de-71c5-422d-a693-891f54bf041f?fit=crop&format=auto&h=267&w=400&s=bd7d8de27f61470f721306a91142e4671b4b1ecb",
+            "width": 400
+        },
+        "title": "Topplagene nullet hverandre ut da Vålerengas stjernespiss måtte av med skade",
+        "url": "https://www.vg.no/sport/fotball/i/Xbp9wo/topplagene-nullet-hverandre-ut-uavgjort-mellom-rosenborg-og-vaalerenga"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5Bw86K",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5Bw86K",
+        "preamble": "Vilde Bøe Risas Manchester United er virkelig med i kampen om klubbens første ligatittel etter de vant 3-0 hjemme mot Tottenham søndag ettermiddag.",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 15:27:10",
+            "niceformat": "07.05.2023, 15:27",
+            "timestamp": "2023-05-07T13:27:10.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/18ce694f-d85f-462f-8275-d94f7b561a4e?fit=crop&format=auto&h=267&w=400&s=8d38998b8efa95fc72c9e462b26886c454840961",
+            "width": 400
+        },
+        "title": "Risas Manchester United jakter seriegull – City avga poeng",
+        "url": "https://www.vg.no/sport/fotball/i/5Bw86K/risas-manchester-united-jakter-seriegull-knuste-bizets-tottenham"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEbl51",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEbl51",
+        "preamble": "Juventus slo Napoli 2-0 i Serie A søndag og skaffet seg gode odds i topp 4-kampen foran de fire siste rundene.",
+        "published": {
+            "date": "søndag 7. mai",
+            "datetime": "2023-05-07 14:51:43",
+            "niceformat": "07.05.2023, 14:51",
+            "timestamp": "2023-05-07T12:51:43.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/l7kl1S-8u4i3.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Juventus klatret til 2.-plass med sterk borteseier",
+        "url": "https://www.vg.no/sport/fotball/i/zEbl51/juventus-klatret-til-2-plass-med-sterk-borteseier"
+    }
+]

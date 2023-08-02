@@ -1,0 +1,354 @@
+[
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4oKlEq",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4oKlEq",
+        "preamble": "I den første superduellen på 400 meter hekk for sesongen var Karsten Warholm utilnærmelig. Nå gir han sine argeste konkurrenter noe av æren for at han løper så fort. ",
+        "published": {
+            "date": "lørdag 22. juli",
+            "datetime": "2023-07-22 22:04:32",
+            "niceformat": "22.07.2023, 22:04",
+            "timestamp": "2023-07-22T20:04:32.000Z"
+        },
+        "thumbnail": {
+            "height": 274,
+            "url": "https://akamai.vgc.no/v2/images/0c8b65ce-e385-4d56-9a3f-9842b1701020?fit=crop&format=auto&h=274&w=400&s=976535eeef0bb3a2601be657a7ee7899160349f9",
+            "width": 400
+        },
+        "title": "Warholm-stikk til konkurrentene: – Gir bensin på bålet ",
+        "url": "https://www.vg.no/sport/fotball/i/4oKlEq/warholm-stikk-til-konkurrentene-gir-bensin-paa-baalet"
+    },
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P422r6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P422r6",
+        "preamble": "Moussa Diaby (24) skal ha vraket saudiarabisk fotball for Premier League og Aston Villa.",
+        "published": {
+            "date": "lørdag 22. juli",
+            "datetime": "2023-07-22 21:44:24",
+            "niceformat": "22.07.2023, 21:44",
+            "timestamp": "2023-07-22T19:44:24.000Z"
+        },
+        "thumbnail": {
+            "height": 269,
+            "url": "https://akamai.vgc.no/v2/images/ab1d60a3-28a1-4bc1-b605-359449513e83?fit=crop&format=auto&h=269&w=400&s=1dedac81daa6ee8369070d5f077e19eeb93e9e6e",
+            "width": 400
+        },
+        "title": "Diaby bekreftet til Aston Villa",
+        "url": "https://www.vg.no/sport/fotball/i/P422r6/diaby-bekreftet-til-aston-villa"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Kn2KV4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Kn2KV4",
+        "preamble": "(Molde – Sarpsborg 08 5–1) Da Kristian Fardal Opseth ble utvist, var kampen i realiteten avgjort. Hat trick-helten Eric Kitolano sendte Molde opp på sølvplass. ",
+        "published": {
+            "date": "lørdag 22. juli",
+            "datetime": "2023-07-22 19:43:23",
+            "niceformat": "22.07.2023, 19:43",
+            "timestamp": "2023-07-22T17:43:23.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/rJcWiSuIzRvR.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Rødt kort etter brassespark: – Farefullt spill ",
+        "url": "https://www.vg.no/sport/fotball/i/Kn2KV4/roedt-kort-etter-brassespark-farefullt-spill"
+    },
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GM2JdJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GM2JdJ",
+        "preamble": "Nattens treningskamp mellom Barcelona og Juventus er avlyst etter at flere spillere i Barcelona-troppen har fått tarminfeksjon.",
+        "published": {
+            "date": "lørdag 22. juli",
+            "datetime": "2023-07-22 19:32:41",
+            "niceformat": "22.07.2023, 19:32",
+            "timestamp": "2023-07-22T17:32:41.000Z"
+        },
+        "thumbnail": {
+            "height": 282,
+            "url": "https://akamai.vgc.no/v2/images/3466bb18-d855-433e-9832-42caa75baca5?fit=crop&format=auto&h=282&w=400&s=e17099f002c5ab8c3e5a42e4b7988a72e1280977",
+            "width": 400
+        },
+        "title": "Barcelona-kamp avlyst grunnet tarminfeksjon",
+        "url": "https://www.vg.no/sport/fotball/i/GM2JdJ/barcelona-kamp-avlyst-grunnet-tarminfeksjon"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76M1Ov",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76M1Ov",
+        "preamble": "Viktor Hovland (25) spilte seg inn i serierskampen i The Open med en kanonrunde lørdag. Golfekspert Henrik Bjørnstad mener nordmannen er i en veldig god posisjon før finaledagen. ",
+        "published": {
+            "date": "lørdag 22. juli",
+            "datetime": "2023-07-22 18:11:13",
+            "niceformat": "22.07.2023, 18:11",
+            "timestamp": "2023-07-22T16:11:13.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0584b8c1-4e0e-460e-8d55-84d5ebaca0b5?fit=crop&format=auto&h=267&w=400&s=d5d778956511d644af5f8558f004d33f399f2ad4",
+            "width": 400
+        },
+        "title": "Hovland med superrunde: Spilte seg inn i seierskampen ",
+        "url": "https://www.vg.no/sport/fotball/i/76M1Ov/hovland-med-superrunde-spilte-seg-inn-i-seierskampen"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "RG2QGJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/RG2QGJ",
+        "preamble": "Victor Boniface forlater Union St. Gilloise, som han i 2022 kom til fra Bodø/Glimt. Bayer Leverkusen bekrefter spissen klar for klubben, som betyr gode penger i Glimt-kassen.",
+        "published": {
+            "date": "lørdag 22. juli",
+            "datetime": "2023-07-22 18:04:21",
+            "niceformat": "22.07.2023, 18:04",
+            "timestamp": "2023-07-22T16:04:21.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/2e21baaf-d6dc-4ce9-baaa-2e344e468b6c?fit=crop&format=auto&h=267&w=400&s=a9d58f08551018ffe2b4a231f653050cb7ab57e1",
+            "width": 400
+        },
+        "title": "Boniface klar for Bundesliga-klubb – betydelig sum til Glimt",
+        "url": "https://www.vg.no/sport/fotball/i/RG2QGJ/bundesliga-tidligere-bodoe-glimt-spiss-victor-boniface-klar-for-bundesliga-klubben-bayer-leverkusen"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BW24EG",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BW24EG",
+        "preamble": "(Danmark – Kina 1–0) Danmark måtte vente helt til det gjensto ett minutt før scoringen kom mot Kina.",
+        "published": {
+            "date": "lørdag 22. juli",
+            "datetime": "2023-07-22 16:53:51",
+            "niceformat": "22.07.2023, 16:53",
+            "timestamp": "2023-07-22T14:53:51.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/HTVms9hUrFT6.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Sen scoring sikret dansk VM-seier",
+        "url": "https://www.vg.no/sport/fotball/i/BW24EG/sen-scoring-sikret-dansk-vm-seier"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "vepdpV",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/vepdpV",
+        "preamble": "Allan Saint-Maximin skal være på vei til Al Ahli fra Newcastle. Det gjør flere Premier League-klubber bekymret. ",
+        "published": {
+            "date": "lørdag 22. juli",
+            "datetime": "2023-07-22 16:21:13",
+            "niceformat": "22.07.2023, 16:21",
+            "timestamp": "2023-07-22T14:21:13.000Z"
+        },
+        "thumbnail": {
+            "height": 278,
+            "url": "https://akamai.vgc.no/v2/images/85296992-4bc8-4972-93fb-6be8413850b0?fit=crop&format=auto&h=278&w=400&s=e11cdc6784d3c11c6b3e4ceb591bec8a50e4334d",
+            "width": 400
+        },
+        "title": "The Athletic: Flere Premier League-klubber vil klage på Newcastle-overgang",
+        "url": "https://www.vg.no/sport/fotball/i/vepdpV/the-athletic-flere-premier-league-klubber-vil-klage-paa-newcastle-overgang"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJwvdO",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJwvdO",
+        "preamble": "(England - Haiti 1–0) Etter 25 minutter måtte dommer Emikar Calderas oppsøke VAR-skjermen etter en uvanlig hands. VAR-straffen sikret England-seier i sin VM-åpningskamp – men ikke før på andre forsøk.",
+        "published": {
+            "date": "lørdag 22. juli",
+            "datetime": "2023-07-22 13:30:02",
+            "niceformat": "22.07.2023, 13:30",
+            "timestamp": "2023-07-22T11:30:02.000Z"
+        },
+        "thumbnail": {
+            "height": 263,
+            "url": "https://akamai.vgc.no/v2/images/4085fd2a-de74-4fca-83fd-3973b5955c28?fit=crop&format=auto&h=263&w=400&s=198aaf673b5341fb80baef65d3265e179286b6a1",
+            "width": 400
+        },
+        "title": "Absurd straffesituasjon sikret seier for England: – Hodemist",
+        "url": "https://www.vg.no/sport/fotball/i/eJwvdO/absurd-straffesituasjon-sikret-seier-for-england-hodemist"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QJzLA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QJzLA",
+        "preamble": "Dramatikken vil ingen ende ta for New Zealands VM-lag. Lørdag måtte de ut av hotellet etter at brannalarmen ble utløst, og en etterforskning har startet.",
+        "published": {
+            "date": "lørdag 22. juli",
+            "datetime": "2023-07-22 12:11:12",
+            "niceformat": "22.07.2023, 12:11",
+            "timestamp": "2023-07-22T10:11:12.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/1b955b6d-481f-4dbf-bc23-5072d46cecd1?fit=crop&format=auto&h=267&w=400&s=b92eb349ae8cc0a2328891e2a694bb0595fcd3e1",
+            "width": 400
+        },
+        "title": "New Zealands VM-tropp evakuert etter hotellbrann – etterforskning igangsatt",
+        "url": "https://www.vg.no/sport/fotball/i/0QJzLA/new-zealands-vm-tropp-evakuert-etter-hotellbrann"
+    }
+]

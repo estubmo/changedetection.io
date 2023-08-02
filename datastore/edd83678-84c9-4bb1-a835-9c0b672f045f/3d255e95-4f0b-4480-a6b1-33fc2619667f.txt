@@ -1,0 +1,190 @@
+[
+    {
+        "slug": "har-pratet-ut-etter-sjokket-mangel-paa-mentalitet-forberedelse-og-innstilling",
+        "url": "/sport/fotball/i/dwPjRJ/har-pratet-ut-etter-sjokket-mangel-paa-mentalitet-forberedelse-og-innstilling",
+        "title": {
+            "value": "Har pratet ut etter sjokket: – Mangel på mentalitet, forberedelse og innstilling"
+        },
+        "description": "Kjetil Rekdal varslet oppvask dagen derpå. Etterpå var han ordknapp om det som kom fram.",
+        "imageUrl": "454afc3c-27ff-453c-8895-bc39eb2540a7",
+        "publishedAt": "2023-05-25T10:35:45Z",
+        "lastModifiedAt": "2023-05-25T10:44:50Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold",
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "uavgjort-i-maalfest-mellom-utleira-2-og-sverresborg",
+        "url": "/lokalfotballen/i/mQaVBq/uavgjort-i-maalfest-mellom-utleira-2-og-sverresborg",
+        "title": {
+            "value": "Målfest på Utleira kunstgress"
+        },
+        "description": "Sverresborg var på vei mot seier, men måtte nøye seg med 3-3 mot Utleira 2 i 4. divisjon, Trøndelag - Avdeling 3 onsdag. Utleira 2 har tatt poeng i sine fem siste hjemmekamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-24T20:57:51Z",
+        "lastModifiedAt": "2023-05-24T21:59:31Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "gustav-kruger-solberg-sikret-poeng-for-trond",
+        "url": "/lokalfotballen/i/O8PaQl/gustav-kruger-solberg-sikret-poeng-for-trond",
+        "title": {
+            "value": "Gustav Krüger Solberg ordnet poeng for Trond"
+        },
+        "description": "Ranheim og Trond spilte 1-1 på Extra Arena i G19 Elite, Vår onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-24T20:54:49Z",
+        "lastModifiedAt": "2023-05-24T21:28:55Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "brage-lauten-tveit-i-scoringshumoer-mot-melhus-3-gimse-3",
+        "url": "/lokalfotballen/i/pQXVgE/brage-lauten-tveit-i-scoringshumoer-mot-melhus-3-gimse-3",
+        "title": {
+            "value": "Ranheim 3 trakk det lengste strået i dagens toppoppgjør"
+        },
+        "description": "Brage Lauten Tveit ledet an med to av målene i 3-1-seieren over Melhus 3/Gimse 3 i G16 3. divisjon, Avdeling 3 - Vår onsdag. Det var Melhus 3/Gimse 3s første tap i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-24T20:27:39Z",
+        "lastModifiedAt": "2023-05-24T20:33:03Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "charlottenlund-mistet-seieren-paa-overtid",
+        "url": "/lokalfotballen/i/WRdalg/charlottenlund-mistet-seieren-paa-overtid",
+        "title": {
+            "value": "Sondre Grøtte berget Tiller"
+        },
+        "description": "Tiller lå under 2-3, men klarte 3-3 mot Charlottenlund etter en sen utligning i G19 Elite, Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-24T20:22:31Z",
+        "lastModifiedAt": "2023-05-25T06:28:10Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "to-fulltreffere-fra-jobotn",
+        "url": "/lokalfotballen/i/nQXMkL/to-fulltreffere-fra-jobotn",
+        "title": {
+            "value": "Hitra 2 slo Tiller 3 i målfest"
+        },
+        "description": "Arne Julian Jobotn scoret to av målene og hjalp Hitra 2 til 5-3-seier over Tiller 3 i 6. divisjon, Trøndelag - Avdeling 5 i fotball for menn onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-24T20:12:57Z",
+        "lastModifiedAt": "2023-05-25T03:58:19Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya"
+        ]
+    },
+    {
+        "slug": "mina-othman-omar-saleem-var-giftig-foran-maal-scoret-hattrick",
+        "url": "/lokalfotballen/i/76LjWB/mina-othman-omar-saleem-var-giftig-foran-maal-scoret-hattrick",
+        "title": {
+            "value": "Mina Othman Omar Saleem scoret hattrick mot Orkla"
+        },
+        "description": "Strindheim snudde 0-1 til 3-1-seier mot Orkla i J17 1. divisjon, Avdeling 2 - Vår onsdag. Mina Othman Omar Saleem gjorde hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-24T19:46:13Z",
+        "lastModifiedAt": "2023-05-24T21:01:11Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "freidig-kunne-juble-etter-toppkampen",
+        "url": "/lokalfotballen/i/P4mOMJ/freidig-kunne-juble-etter-toppkampen",
+        "title": {
+            "value": "Freidig slo Ranheim i toppkampen"
+        },
+        "description": "Freidig slo Ranheim 2-1 på Freidigbanen i J14 1. divisjon, Avdeling 1 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-24T19:40:59Z",
+        "lastModifiedAt": "2023-05-24T20:03:06Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "nardo-2-seiret-i-maalfest",
+        "url": "/lokalfotballen/i/0Q0rmB/nardo-2-seiret-i-maalfest",
+        "title": {
+            "value": "Kozlowska i scoringshumør"
+        },
+        "description": "Zuzanna Maria Kozlowska viste scoringsform da Nardo 2 seiret 5-4 over Fosen i 4. divisjon, Trøndelag - Avdeling 2 i fotball for kvinner. Fosen har tapt sine tre siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-24T19:35:47Z",
+        "lastModifiedAt": "2023-05-25T11:28:40Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-fosnafolket",
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "hitra-9er-viste-muskler",
+        "url": "/lokalfotballen/i/jlXwyL/hitra-9er-viste-muskler",
+        "title": {
+            "value": "Hitra 9er viste muskler"
+        },
+        "description": "Evert Aarre Olavi Roseth ledet an med tre av målene i 4-2-seieren over KIL/Hemne 9er i G14 9er, Avdeling 3 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-24T19:02:20Z",
+        "lastModifiedAt": "2023-05-24T19:02:20Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-hitrafroya"
+        ]
+    }
+]

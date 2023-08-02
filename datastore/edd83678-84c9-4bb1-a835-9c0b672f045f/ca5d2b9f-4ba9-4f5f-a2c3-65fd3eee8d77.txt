@@ -1,0 +1,209 @@
+[
+    {
+        "slug": "nysigneringen-om-starten-det-gikk-ikke-som-jeg-ville",
+        "url": "/sport/fotball/i/76JMg8/nysigneringen-om-starten-det-gikk-ikke-som-jeg-ville",
+        "title": {
+            "value": "Nysigneringen om starten: - Det gikk ikke som jeg ville"
+        },
+        "description": "Agon Sadiku snakker om de første månedene som RBK-spiller. Og er sikker på at det snart vil løsne.",
+        "imageUrl": "bdecf8fb-ef3f-4ff8-a37c-9627a928af98",
+        "publishedAt": "2023-06-12T06:02:05Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "sport",
+            "eliteserien",
+            "kjetil-rekdal",
+            "agon-sadiku"
+        ]
+    },
+    {
+        "slug": "maalshow-fra-johansen",
+        "url": "/lokalfotballen/i/RGQ2Jx/maalshow-fra-johansen",
+        "title": {
+            "value": "Johansen med målshow"
+        },
+        "description": "Kaja Sofie Johansen viste scoringsform da Tiller 2 vant 4-3 over Ranheim i 3. divisjon, Trøndelag søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-11T20:49:19Z",
+        "lastModifiedAt": "2023-06-11T22:28:19Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "holse-om-var-jeg-synes-det-er-haaploest",
+        "url": "/sport/i/onPma0/holse-om-var-jeg-synes-det-er-haaploest",
+        "title": {
+            "value": "Holse om VAR: - Jeg synes det er håpløst"
+        },
+        "description": "Videodømmingen spilte hovedrollen i kampen mellom RBK og Stabæk. Det får flere til å reagere.",
+        "imageUrl": "5ffba2bf-4867-4985-9b28-8f9a6f41ac98",
+        "publishedAt": "2023-06-11T19:19:40Z",
+        "lastModifiedAt": "2023-06-11T19:40:17Z",
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl",
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "rosenborg-bk",
+            "sport",
+            "fotball",
+            "eliteserien",
+            "carlo-holse",
+            "olaus-skarsem"
+        ]
+    },
+    {
+        "slug": "granhus-scoret-to-for-steinkjer",
+        "url": "/lokalfotballen/i/onPmGm/granhus-scoret-to-for-steinkjer",
+        "title": {
+            "value": "Nettsus for Granhus"
+        },
+        "description": "Silje Granhus viste scoringsform da Steinkjer seiret 3-1 over Strindheim i 3. divisjon, Trøndelag i fotball søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-11T18:03:36Z",
+        "lastModifiedAt": "2023-06-11T20:58:30Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "utleira-reddet-uavgjort",
+        "url": "/lokalfotballen/i/MoJ2kR/utleira-reddet-uavgjort",
+        "title": {
+            "value": "Utleira ordnet poeng"
+        },
+        "description": "Hedda Sæbø berget uavgjort for Utleira med en sen utligning i 2-2-kampen mot Orkla 2 i J15 2. divisjon, Avdeling 4 - Vår søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-11T17:52:08Z",
+        "lastModifiedAt": "2023-06-11T18:00:30Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "strindheim-3-og-fosen-delte-poengene",
+        "url": "/lokalfotballen/i/RGQ22r/strindheim-3-og-fosen-delte-poengene",
+        "title": {
+            "value": "Målløst mellom Strindheim 3 og Fosen"
+        },
+        "description": "Verken Strindheim 3 eller Fosen fant nettmaskene da lagene møttes i J13 2. divisjon, Avdeling 4 - Vår søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-11T17:36:58Z",
+        "lastModifiedAt": "2023-06-11T18:00:32Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "de-har-stoerre-problemer-enn-vridd-koellesopp",
+        "url": "/meninger/i/dwzpWJ/de-har-stoerre-problemer-enn-vridd-koellesopp",
+        "title": {
+            "value": "De har større problemer enn vridd køllesopp"
+        },
+        "description": "– Nå går det over alle støvleskaft, sa ordfører Rita Ottervik. Nei, hun tenkte ikke på faren for at du får et høyhus rett i fleisen.",
+        "imageUrl": "9cb9f09a-c289-4284-8cb4-70966d3090cb",
+        "publishedAt": "2023-06-11T17:27:22Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Trygve Lundemo"
+        ],
+        "tags": [
+            "kommentarer",
+            "kommuneplanens-arealdel",
+            "trondheim",
+            "rita-ottervik",
+            "ranheim",
+            "klaebu",
+            "hallset",
+            "nullvekstmaalet",
+            "artsdatabankens-roedliste"
+        ]
+    },
+    {
+        "slug": "han-var-best-da-stabaek-rystet-rbk-med-sjokkaapning",
+        "url": "/sport/fotball/i/JQGwP7/han-var-best-da-stabaek-rystet-rbk-med-sjokkaapning",
+        "title": {
+            "value": "Han var best da Stabæk rystet RBK med sjokkåpning  "
+        },
+        "description": "Kjetil Rekdal ga fornyet tillit til laget som slo HamKam. Men det ble bare nesten for Rekdals utvalgte etter en skrekkåpning mot Stabæk. Best var målscorer Jayden Nelson.",
+        "imageUrl": "add8e902-3cff-4423-97d2-7b8282674c5a",
+        "publishedAt": "2023-06-11T17:05:40Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "dagens-ivers"
+        ]
+    },
+    {
+        "slug": "hoeytflyvende-holse-reddet-rosenborg",
+        "url": "/sport/fotball/i/O802kE/hoeytflyvende-holse-reddet-rosenborg",
+        "title": {
+            "value": "Høytflyvende Holse reddet Rosenborg"
+        },
+        "description": "RBK fant aldri løsningen på å bryte ned Stabæk. Før Carlo Holse fløy inn utligningen på tampen.",
+        "imageUrl": "26b0b4aa-7300-487f-bdf8-ce8efa3ba11e",
+        "publishedAt": "2023-06-11T17:01:46Z",
+        "lastModifiedAt": "2023-06-11T17:39:01Z",
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "sport",
+            "fotball",
+            "eliteserien",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "ingen-klarte-aa-avgjoere-toppoppgjoeret",
+        "url": "/lokalfotballen/i/P4w2nX/ingen-klarte-aa-avgjoere-toppoppgjoeret",
+        "title": {
+            "value": "Byåsen og Ranheim måtte dele poengene i toppoppgjøret"
+        },
+        "description": "Det endte uavgjort mellom Byåsen og Ranheim på Byåsen Arena i G16 Elite, Vår søndag. Det brøt seiersrekken til Byåsen, som ikke hadde gitt fra seg poeng på åtte kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-11T16:10:51Z",
+        "lastModifiedAt": "2023-06-11T16:29:04Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

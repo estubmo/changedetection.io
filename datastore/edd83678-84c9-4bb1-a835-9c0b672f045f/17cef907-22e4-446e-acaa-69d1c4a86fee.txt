@@ -1,0 +1,194 @@
+[
+    {
+        "slug": "skorstad-sikret-seieren-paa-overtid",
+        "url": "/lokalfotballen/i/onBlQg/skorstad-sikret-seieren-paa-overtid",
+        "title": {
+            "value": "Skorstad sikret seieren på overtid"
+        },
+        "description": "Anna Skorstad ble matchvinner for Grong i 3-2-seieren over Namsos på Grong Sparebank-banen i 4. divisjon, Trøndelag - Avdeling 1 i fotball torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T20:12:36Z",
+        "lastModifiedAt": "2023-05-25T20:12:36Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "stjoerdals-blink-moeter-rosenborg-i-andre-runde-i-nm-for-menn",
+        "url": "/sport/i/Kn1q7M/stjoerdals-blink-moeter-rosenborg-i-andre-runde-i-nm-for-menn",
+        "title": {
+            "value": "Stjørdals/Blink møter «storebror» i andre runde i cupen"
+        },
+        "description": "Den andre runden i NM i fotball for menn er trukket.",
+        "imageUrl": "064407b7-1728-42c0-98e1-19c81a4fa1c8",
+        "publishedAt": "2023-05-25T20:12:11Z",
+        "lastModifiedAt": "2023-05-25T20:14:07Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "knusende-seier-for-tangmoen",
+        "url": "/lokalfotballen/i/Kn1qKo/knusende-seier-for-tangmoen",
+        "title": {
+            "value": "Tangmoen vant i målfest"
+        },
+        "description": "Tangmoen knuste Hegra/Skjelstadmark 6-0 i 4. divisjon, Trøndelag - Avdeling 1 i fotball for kvinner torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T19:51:55Z",
+        "lastModifiedAt": "2023-05-25T20:04:44Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "nidelv-vant-over-laanke",
+        "url": "/lokalfotballen/i/eJmXml/nidelv-vant-over-laanke",
+        "title": {
+            "value": "Nidelv slo Lånke på bortebane"
+        },
+        "description": "Nidelv tok sine første poeng på tre kamper med 4-1 over Lånke",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T19:36:16Z",
+        "lastModifiedAt": "2023-05-25T20:04:44Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "hedda-saeboe-berget-poeng-for-utleira",
+        "url": "/lokalfotballen/i/q1XbbL/hedda-saeboe-berget-poeng-for-utleira",
+        "title": {
+            "value": "Utleira reddet uavgjort"
+        },
+        "description": "Utleira gikk fra 0-2 til 2-2 mot Malvik 2/Hommelvik 2 i J15 2. divisjon, Avdeling 4 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T19:20:26Z",
+        "lastModifiedAt": "2023-05-25T19:32:50Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "bruttern-forlenger-med-ranheim-jeg-tenker-svaert-lite-om-det-som-skjer-paa-lerkendal",
+        "url": "/sport/fotball/i/XbJe9W/bruttern-forlenger-med-ranheim-jeg-tenker-svaert-lite-om-det-som-skjer-paa-lerkendal",
+        "title": {
+            "value": "Bruttern forlenger med Ranheim: - Jeg tenker svært lite om det som skjer på Lerkendal"
+        },
+        "description": "Kåre Ingebrigtsen har funnet igjen gleden som fotball-trener i fjæra på Ranheim.",
+        "imageUrl": "1bf75180-443d-4325-819d-0119bdd706de",
+        "publishedAt": "2023-05-25T19:09:57Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "kaare-ingebrigtsen",
+            "kolbjoern-selmer",
+            "obos-ligaen",
+            "ranheim-tf"
+        ]
+    },
+    {
+        "slug": "tyra-boekestad-breiseth-avgjorde-for-neset-aasguten",
+        "url": "/lokalfotballen/i/y6Xb9R/tyra-boekestad-breiseth-avgjorde-for-neset-aasguten",
+        "title": {
+            "value": "Tyra Bøkestad-Breiseth sikret seieren for Neset/Aasguten"
+        },
+        "description": "Tyra Bøkestad-Breiseth ble matchvinner med sin 1-0-scoring da Neset/Aasguten slo Følling/Kvam 9er i J14 2. divisjon, Avdeling 2 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T18:49:02Z",
+        "lastModifiedAt": "2023-05-25T19:02:36Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "brakseier-for-froeya-il",
+        "url": "/lokalfotballen/i/rlXbda/brakseier-for-froeya-il",
+        "title": {
+            "value": "Storseier for Frøya IL"
+        },
+        "description": "Frøya IL slo Hitra 9er 6-0 på bortebane i J15 2. divisjon, Avdeling 3 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T18:25:47Z",
+        "lastModifiedAt": "2023-05-25T18:32:10Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    },
+    {
+        "slug": "tomaalslykke-da-tiller-2-vant",
+        "url": "/lokalfotballen/i/Kn1qPX/tomaalslykke-da-tiller-2-vant",
+        "title": {
+            "value": "Tomålshelten sikret seier for Tiller 2"
+        },
+        "description": "Adrian Båtstrand førte an med to av målene i 3-2-seieren over Ranheim 2 i G13 2. divisjon, Avdeling 4 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T18:13:24Z",
+        "lastModifiedAt": "2023-05-25T18:32:10Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "froeya-il-2-9er-sikret-seriegull",
+        "url": "/lokalfotballen/i/RG8q1d/froeya-il-2-9er-sikret-seriegull",
+        "title": {
+            "value": "Frøya IL 2 9er dro i land seriemesterskapet"
+        },
+        "description": "Frøya IL 2 9er vant 3-1 over Svorkmo/Meldal 9er på hjemmebane i G14 9er, Avdeling 3 - Vår torsdag. Frøya IL 2 9er har tatt poeng i sine seks siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-25T17:58:41Z",
+        "lastModifiedAt": "2023-05-25T18:00:00Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya",
+            "lokalfotballen-avisast"
+        ]
+    }
+]

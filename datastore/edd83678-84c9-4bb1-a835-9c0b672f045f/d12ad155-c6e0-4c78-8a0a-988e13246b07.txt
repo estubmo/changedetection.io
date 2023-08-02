@@ -1,0 +1,190 @@
+[
+    {
+        "slug": "ranheim-tf-2-reddet-uavgjort",
+        "url": "/lokalfotballen/i/15woLq/ranheim-tf-2-reddet-uavgjort",
+        "title": {
+            "value": "Ranheim TF 2 reddet uavgjort"
+        },
+        "description": "Trygg/Lade 2 og Ranheim TF 2 spilte 1-1 på Obos kunstgressbane (Lade) i G19 2. divisjon, Avdeling 4 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T21:17:31Z",
+        "lastModifiedAt": "2023-05-22T21:17:31Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "tangmoen-2-snudde-til-seier",
+        "url": "/lokalfotballen/i/MoWAV5/tangmoen-2-snudde-til-seier",
+        "title": {
+            "value": "Tangmoen 2 snudde til seier"
+        },
+        "description": "Tangmoen 2 lå under 0-1, men snudde til 4-1-seier mot Malvik 2/Hommelvik 2 i 6. divisjon, Trøndelag - Avdeling 2 i fotball for menn mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T21:17:31Z",
+        "lastModifiedAt": "2023-05-22T21:17:31Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet",
+            "lokalfotballen-stjordalsnytt"
+        ]
+    },
+    {
+        "slug": "sparbu-slo-soerlia-innherred-2-i-maalfest",
+        "url": "/lokalfotballen/i/O8Pgxw/sparbu-slo-soerlia-innherred-2-i-maalfest",
+        "title": {
+            "value": "Sparbu slo Sørlia/Innherred 2 i målfest"
+        },
+        "description": "Sparbu slo Sørlia/Innherred 2 4-2 på Løbanen gress i 6. divisjon, Trøndelag - Avdeling 1 i fotball for menn mandag. Sørlia/Innherred 2 har tapt alle kampene sine hittil denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T21:08:08Z",
+        "lastModifiedAt": "2023-05-22T21:08:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "winje-boettet-inn-maal-for-nessegutten-7er",
+        "url": "/lokalfotballen/i/q1Xy90/winje-boettet-inn-maal-for-nessegutten-7er",
+        "title": {
+            "value": "Winje bøttet inn mål mot Flatanger 7er"
+        },
+        "description": "Nessegutten 7er har tatt poeng i seks kamper på rad etter dagens 6-0-seier. I 7er, Trøndelag - Avdeling 1 i fotball for kvinner mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T21:08:07Z",
+        "lastModifiedAt": "2023-05-22T21:11:13Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "frank-berget-ett-poeng-for-gimse-melhus-gauldal",
+        "url": "/lokalfotballen/i/xgXlol/frank-berget-ett-poeng-for-gimse-melhus-gauldal",
+        "title": {
+            "value": "Hattrick på hjemmebane"
+        },
+        "description": "Nardo lå under 0-3, men klarte 3-3 mot Gimse/Melhus/Gauldal etter en sen utligning i 3. divisjon, Trøndelag i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T20:53:38Z",
+        "lastModifiedAt": "2023-05-22T21:06:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "vatten-var-giftig-foran-maal-scoret-hattrick",
+        "url": "/lokalfotballen/i/onBKgB/vatten-var-giftig-foran-maal-scoret-hattrick",
+        "title": {
+            "value": "Målshow fra Trond"
+        },
+        "description": "Lade ble slått 4-3 av Trond og tapte dermed sin første kamp denne sesongen. I 6. divisjon, Trøndelag - Avdeling 3 i fotball for menn. Lars Vatten gjorde hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T20:45:16Z",
+        "lastModifiedAt": "2023-05-22T21:08:09Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "indahl-scoret-hattrick-mot-helgaadal",
+        "url": "/lokalfotballen/i/y6Xl2a/indahl-scoret-hattrick-mot-helgaadal",
+        "title": {
+            "value": "Målene rant inn for Indahl"
+        },
+        "description": "Stian Indahl viste scoringsform da Vuku 2/Leksdal 2 vant 10-2 over Helgådal i 6. divisjon, Trøndelag - Avdeling 2 i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T20:26:59Z",
+        "lastModifiedAt": "2023-05-22T21:08:09Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "hjemmeseier-for-leik-over-gimse",
+        "url": "/lokalfotballen/i/0Q0BdJ/hjemmeseier-for-leik-over-gimse",
+        "title": {
+            "value": "Hjemmeseier for Leik over Gimse"
+        },
+        "description": "Leik slo Gimse 2-1 og fikk dermed med seg alle poengene i 6. divisjon, Trøndelag - Avdeling 6 i fotball mandag. Det var Gimses første tap for sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T20:22:55Z",
+        "lastModifiedAt": "2023-05-22T20:39:45Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "rindal-2-med-borteseier-over-svorkmo-2",
+        "url": "/lokalfotballen/i/EQ5lMG/rindal-2-med-borteseier-over-svorkmo-2",
+        "title": {
+            "value": "Rindal 2 vant over Svorkmo 2"
+        },
+        "description": "Rindal 2 seiret 2-0 over Svorkmo 2 i 6. divisjon, Trøndelag - Avdeling 5 i fotball for menn mandag. Det var Svorkmo 2s andre tap på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T20:16:44Z",
+        "lastModifiedAt": "2023-05-22T20:39:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "hellstroem-senket-leinstrand",
+        "url": "/lokalfotballen/i/15wo9J/hellstroem-senket-leinstrand",
+        "title": {
+            "value": "Byneset tok sin tredje seier på rad"
+        },
+        "description": "Bendik Hellstrøm scoret det avgjørende målet da Byneset slo Leinstrand 2-1 i 6. divisjon, Trøndelag - Avdeling 5 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T20:15:39Z",
+        "lastModifiedAt": "2023-05-22T20:39:44Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

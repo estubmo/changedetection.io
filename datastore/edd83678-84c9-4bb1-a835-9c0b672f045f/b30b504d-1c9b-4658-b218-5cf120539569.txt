@@ -1,0 +1,189 @@
+[
+    {
+        "slug": "ukequiz-uke-22",
+        "url": "/nyheter/i/dwPx6j/ukequiz-uke-22",
+        "title": {
+            "value": "Hva heter hjemmebanen til laget som slo RBK?"
+        },
+        "description": "Ta vår quiz og bli kjapt oppdatert på et utvalg av ukens store og mindre store nyheter.",
+        "imageUrl": "9de5f431-3c34-40fb-a205-6c4fcb6841cb",
+        "publishedAt": "2023-06-02T10:58:29Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Mia Kristin Midtbø"
+        ],
+        "tags": [
+            "ukequiz",
+            "quiz"
+        ]
+    },
+    {
+        "slug": "det-er-helt-uaktuelt-for-meg-aa-trekke-meg",
+        "url": "/sport/fotball/i/veXvyL/det-er-helt-uaktuelt-for-meg-aa-trekke-meg",
+        "title": {
+            "value": "– Det er helt uaktuelt for meg å trekke meg"
+        },
+        "description": "Kjetil Rekdal mener det ville vært feigt å si opp som RBK-trener.",
+        "imageUrl": "61da9a34-5089-465c-b67d-1e96605116da",
+        "publishedAt": "2023-06-02T10:40:01Z",
+        "lastModifiedAt": "2023-06-02T11:39:24Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand",
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "kjetil-rekdal"
+        ]
+    },
+    {
+        "slug": "rekdal-fyrer-loes-ikke-kontakt-ungene-mine",
+        "url": "/sport/fotball/i/eJm2kO/rekdal-fyrer-loes-ikke-kontakt-ungene-mine",
+        "title": {
+            "value": "– Hold dere unna ungene mine"
+        },
+        "description": "Kjetil Rekdal kom med en klar melding til pressen dagen etter sjokktapet mot Stjørdals-Blink.",
+        "imageUrl": "e6478bd1-7b95-4f5a-8a50-fd885d921699",
+        "publishedAt": "2023-06-02T10:15:55Z",
+        "lastModifiedAt": "2023-06-02T11:16:23Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand",
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "kjetil-rekdal"
+        ]
+    },
+    {
+        "slug": "rbk-profilen-maa-undersoekes",
+        "url": "/sport/fotball/i/nQX5RL/rbk-profilen-maa-undersoekes",
+        "title": {
+            "value": "RBK-profilen må undersøkes"
+        },
+        "description": "Tobias Børkeeiet pådro seg en skade i lysken mot Blink. Nå frykter RBK-legen strekk.",
+        "imageUrl": "d05f6c2a-8c50-4006-87cf-31fa112a1446",
+        "publishedAt": "2023-06-02T08:43:33Z",
+        "lastModifiedAt": "2023-06-02T08:43:41Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken",
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "olsen-sikret-seieren-for-gimse",
+        "url": "/lokalfotballen/i/4ov5yR/olsen-sikret-seieren-for-gimse",
+        "title": {
+            "value": "Melhus 3 senket av Olsen"
+        },
+        "description": "Melhus 3 gikk på sitt tredje tap på rad da laget tapte 1-2 for Gimse i 6. divisjon, Trøndelag - Avdeling 6 i fotball for menn torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-02T07:52:04Z",
+        "lastModifiedAt": "2023-06-02T09:21:56Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "tidligere-rbk-er-med-paa-neste-aars-mesternes-mester",
+        "url": "/kultur/i/Kn1Oey/tidligere-rbk-er-med-paa-neste-aars-mesternes-mester",
+        "title": {
+            "value": "To trøndere med på neste års «Mesternes mester»"
+        },
+        "description": "Trøndelag er godt representert i neste utgave av den populære TV-serien.",
+        "imageUrl": "afd0d950-83c0-452d-b064-6d1635d6e5b6",
+        "publishedAt": "2023-06-02T05:03:38Z",
+        "lastModifiedAt": "2023-06-02T07:02:38Z",
+        "premium": true,
+        "authors": [
+            "Carl Alfred Dahl"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "dahl-senket-melhus-2-gimse-2-gauldal-2",
+        "url": "/lokalfotballen/i/GMK44x/dahl-senket-melhus-2-gimse-2-gauldal-2",
+        "title": {
+            "value": "Dahl avgjorde for Flatås"
+        },
+        "description": "Emma Svean Dahl scoret det avgjørende målet da Flatås slo Melhus 2/Gimse 2/Gauldal 2 2-1 i 4. divisjon, Trøndelag - Avdeling 3 i fotball torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-01T21:03:38Z",
+        "lastModifiedAt": "2023-06-01T21:25:11Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "maalene-rant-inn-for-bergby",
+        "url": "/lokalfotballen/i/3EQrvv/maalene-rant-inn-for-bergby",
+        "title": {
+            "value": "Bergby bøttet inn mål mot NTNUI 3"
+        },
+        "description": "Silje Flack Bergby førte an med fem mål i 6-0-seieren over NTNUI 3 i 4. divisjon, Trøndelag - Avdeling 3 torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-01T21:01:32Z",
+        "lastModifiedAt": "2023-06-01T21:25:13Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "innherred-knuste-bangsund",
+        "url": "/lokalfotballen/i/4ovy99/innherred-knuste-bangsund",
+        "title": {
+            "value": "Ny seier for Innherred"
+        },
+        "description": "Innherred tok sin fjerde strake seier da Bangsund ble slått 4-0 i 5. divisjon, Trøndelag - Avdeling 1 i fotball. Mathias Gynnild Nordvik scoret to av målene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-01T20:49:35Z",
+        "lastModifiedAt": "2023-06-02T00:21:35Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "ranheim-tf-2-seier-over-trond-2",
+        "url": "/lokalfotballen/i/4ovy29/ranheim-tf-2-seier-over-trond-2",
+        "title": {
+            "value": "Ranheim TF 2 slo Trond 2 på hjemmebane"
+        },
+        "description": "Ranheim TF 2 vant 4-0 over Trond 2 i G19 2. divisjon, Avdeling 4 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-01T20:38:11Z",
+        "lastModifiedAt": "2023-06-01T21:52:44Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

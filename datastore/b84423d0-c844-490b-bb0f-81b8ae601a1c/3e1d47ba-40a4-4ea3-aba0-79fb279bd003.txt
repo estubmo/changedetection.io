@@ -1,0 +1,387 @@
+[
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            },
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            },
+            {
+                "email": "skandsen@vg.no",
+                "id": "f435294c-56cc-4c38-a714-d1f3f4e7a881",
+                "name": "Sondre Skandsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEQKWq",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEQKWq",
+        "preamble": "SKIEN (VG) (Odd – Rosenborg 0–0) Odd nekter å slippe inn, Rosenborgs spisser klarer ikke å score – og trønderne er dårligst i ligaen til å treffe mål. Da endte det 0–0 på Skagerak Arena.",
+        "published": {
+            "date": "søndag 30. april",
+            "datetime": "2023-04-30 21:06:56",
+            "niceformat": "30.04.2023, 21:06",
+            "timestamp": "2023-04-30T19:06:56.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/NBjdPIXhxznF.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Slakter Rosenborgs angrepsspill: – Så trist at det er vilt",
+        "url": "https://www.vg.no/sport/fotball/i/zEQKWq/nytt-poengtap-for-rosenborg-slapp-med-skrekken-mot-odds-sjansesloeseri"
+    },
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPe7zd",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPe7zd",
+        "preamble": "(Liverpool – Tottenham 4–3) Diogo Jota sikret Liverpool seieren dypt inn i overtiden på Anfield – men ifølge Spurs-sjef Ryan Mason burde portugiseren vært sendt av banen.",
+        "published": {
+            "date": "søndag 30. april",
+            "datetime": "2023-04-30 20:46:18",
+            "niceformat": "30.04.2023, 20:46",
+            "timestamp": "2023-04-30T18:46:18.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/BINZx3_3YsJV.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Raser mot dommer etter tap: – Klareste røde kortet du kommer til å se",
+        "url": "https://www.vg.no/sport/fotball/i/VPe7zd/tottenham-og-ryan-mason-raser-mot-dommeren-etter-dramatisk-liverpool-seier"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5BO7pK",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5BO7pK",
+        "preamble": "(Sandefjord – Aalesund 4–0) Sandefjord tok sesongens første seier da Aalesund ble sendt hjem med 0-4-tap. Det nærmer seg krise i AaFK etter null mål og null poeng på fire kamper.",
+        "published": {
+            "date": "søndag 30. april",
+            "datetime": "2023-04-30 20:16:38",
+            "niceformat": "30.04.2023, 20:16",
+            "timestamp": "2023-04-30T18:16:38.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/n4S2_HN7SIxY.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Aalesund fortsatte fiaskostarten: – En del ting som ikke fungerer",
+        "url": "https://www.vg.no/sport/fotball/i/5BO7pK/nytt-tap-for-aalesund-knust-av-sandefjord"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q17l6g",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q17l6g",
+        "preamble": "(Haugesund – Sarpsborg 08 0–0) Verken Sarpsborg eller Haugesund greide å finne veien til nettmaskene i søndagens eliteserieoppgjør. Gjestene ble stanset av aluminiumen ved tre anledninger. ",
+        "published": {
+            "date": "søndag 30. april",
+            "datetime": "2023-04-30 20:12:25",
+            "niceformat": "30.04.2023, 20:12",
+            "timestamp": "2023-04-30T18:12:25.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/fJeeMgQtkg-A.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Sarpsborg ble stoppet av metallet: – Et lite ran fra vår side",
+        "url": "https://www.vg.no/sport/fotball/i/q17l6g/sarpsborg-ble-stoppet-av-metallet-et-lite-ran-fra-vaar-side"
+    },
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q174Kw",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q174Kw",
+        "preamble": "(Liverpool - Tottenham 4–3) Liverpool så ut til å rakne fullstendig på Anfield - men så utløste Diogo Jota eufori blant hjemmefansen og holdt liv i Champions League-drømmen.",
+        "published": {
+            "date": "søndag 30. april",
+            "datetime": "2023-04-30 19:25:23",
+            "niceformat": "30.04.2023, 19:25",
+            "timestamp": "2023-04-30T17:25:23.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/qldjBqP_CfXN.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Liverpool vant ellevilt overtidsdrama",
+        "url": "https://www.vg.no/sport/fotball/i/q174Kw/liverpool-vant-ellevilt-overtidsdrama"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            },
+            {
+                "id": "d27d8a2b-cf3c-4743-a55c-8c46458fde28",
+                "name": "Geir Juva"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "698GwW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/698GwW",
+        "preamble": "(Viking – HamKam 7–3) En ellevill annenomgang – med totalt ni mål – gjorde at Viking tok en knusende hjemmeseier mot HamKam. Hele ti spillere noterte seg for scoring i timålsshowet på SR-Bank Arena.",
+        "published": {
+            "date": "søndag 30. april",
+            "datetime": "2023-04-30 18:50:39",
+            "niceformat": "30.04.2023, 18:50",
+            "timestamp": "2023-04-30T16:50:39.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/e8ac01a4-9533-4617-a249-8963a0327edf?fit=crop&format=auto&h=267&w=400&s=1b74f57f56e65b7236fc4d474163393b77deba5e",
+            "width": 400
+        },
+        "title": "Ni mål på én omgang da Viking knuste HamKam: – Viser hva som bor i oss",
+        "url": "https://www.vg.no/sport/fotball/i/698GwW/ni-maal-paa-en-omgang-da-viking-knuste-hamkam"
+    },
+    {
+        "authors": [
+            {
+                "email": "skandsen@vg.no",
+                "id": "f435294c-56cc-4c38-a714-d1f3f4e7a881",
+                "name": "Sondre Skandsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "rlG7xA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/rlG7xA",
+        "preamble": "(Molde – Stabæk 2–3) Først raste Molde-spiller Kristian Eriksen (27) mot dommerens manglende VAR-bruk etter å ha blitt sparket i skulderen. Så fikk den regjerende mesteren en ny trøkk.",
+        "published": {
+            "date": "søndag 30. april",
+            "datetime": "2023-04-30 18:10:50",
+            "niceformat": "30.04.2023, 18:10",
+            "timestamp": "2023-04-30T16:10:50.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/b748f2e5-97e8-41b6-a399-060f57f1d182?fit=crop&format=auto&h=267&w=400&s=f0fc28153251d8009360cf38b9185d3f2dd93219",
+            "width": 400
+        },
+        "title": "Molde-krisen fortsetter etter kontrovers: – Kan skrote VAR for min del",
+        "url": "https://www.vg.no/sport/fotball/i/rlG7xA/ny-dommerkontrovers-i-eliteserien-kan-skrote-var-for-min-del"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            },
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QX8zA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QX8zA",
+        "preamble": "LONDON (VG) (Fulham – Manchester City 1–2) Erling Braut Haaland (22) ble den første spilleren i engelsk toppdivisjon som når 50 mål siden 1931. Det historiske målet dediserte han til sin avdøde agent Mino Raiola (54).",
+        "published": {
+            "date": "søndag 30. april",
+            "datetime": "2023-04-30 17:01:59",
+            "niceformat": "30.04.2023, 17:01",
+            "timestamp": "2023-04-30T15:01:59.000Z"
+        },
+        "thumbnail": {
+            "height": 283,
+            "url": "https://akamai.vgc.no/v2/images/f4bf4cf9-0296-442f-bf80-408ca16ecc0d?fit=crop&format=auto&h=283&w=400&s=c7a02754271e366564858d7ef9fe2352e359690a",
+            "width": 400
+        },
+        "title": "Haaland dediserte milepæl-scoring til avdøde Raiola: – Jeg savner deg ",
+        "url": "https://www.vg.no/sport/fotball/i/0QX8zA/haaland-tangerte-nok-en-pl-rekord-da-city-tok-over-tabelltoppen"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "pQ48jR",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/pQ48jR",
+        "preamble": "(Manchester United – Aston Villa 1–0) Etter ti strake kamper uten tap tok det slutt for Unai Emery og Aston Villa. United slo tilbake på Old Trafford.",
+        "published": {
+            "date": "søndag 30. april",
+            "datetime": "2023-04-30 16:55:19",
+            "niceformat": "30.04.2023, 16:55",
+            "timestamp": "2023-04-30T14:55:19.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/bNB4XygfH0iv.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "United stoppet Aston Villas kanonform – har fått luke på fjerdeplass",
+        "url": "https://www.vg.no/sport/fotball/i/pQ48jR/united-stoppet-aston-villas-kanonform-har-faatt-luke-paa-fjerdeplass"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            },
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kEygba",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kEygba",
+        "preamble": "(Napoli - Salernitana 1–1) (Inter – Lazio 3–1) Inter slo ligatoer Lazio - men en sen scoring fra Salernitana utsatte seiersfesten for Napoli og Leo Østigård.",
+        "published": {
+            "date": "søndag 30. april",
+            "datetime": "2023-04-30 14:26:15",
+            "niceformat": "30.04.2023, 14:26",
+            "timestamp": "2023-04-30T12:26:15.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/Nk4w3qv-taKJ.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Salernitana spolerte Napoli-festen ",
+        "url": "https://www.vg.no/sport/fotball/i/kEygba/napoli-er-kledd-i-blaatt-kan-bli-mestere-for-foerste-gang-paa-33-aar"
+    }
+]

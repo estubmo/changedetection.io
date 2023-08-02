@@ -1,0 +1,194 @@
+[
+    {
+        "slug": "mister-flere-kamper-saa-lenge-er-rbk-spissen-ute",
+        "url": "/sport/fotball/i/veXg4V/mister-flere-kamper-saa-lenge-er-rbk-spissen-ute",
+        "title": {
+            "value": "RBK-spissen mister flere kamper: – Det har gått sakte"
+        },
+        "description": "Isak Snær Thorvaldssons skade mot Bodø/Glimt sitter i. Mens det er håp for en annen RBK-profil.",
+        "imageUrl": "33b6ec98-2a6b-4b8c-b300-489cfb47341d",
+        "publishedAt": "2023-05-22T11:12:33Z",
+        "lastModifiedAt": "2023-05-22T11:34:03Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken",
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "stjernen-sier-nei-til-rbk-har-signert-for-ny-klubb",
+        "url": "/sport/fotball/i/wAXgVn/stjernen-sier-nei-til-rbk-har-signert-for-ny-klubb",
+        "title": {
+            "value": "Stjernen sier nei til RBK - har signert for ny klubb"
+        },
+        "description": "Synne Skinnes Hansen har bestemt seg. Fortsetter karrieren i Tyskland.",
+        "imageUrl": "92415a61-8eac-4fb5-9ff1-62784d072651",
+        "publishedAt": "2023-05-22T08:40:03Z",
+        "lastModifiedAt": "2023-05-22T08:41:44Z",
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "synne-skinnes-hansen",
+            "johan-hoel",
+            "tysk-fotball",
+            "toppserien"
+        ]
+    },
+    {
+        "slug": "scoringslykke-for-lein",
+        "url": "/lokalfotballen/i/dwPwPB/scoringslykke-for-lein",
+        "title": {
+            "value": "Brakseier for Heimdal"
+        },
+        "description": "Nidelv gikk på sitt tredje tap på rad da laget tapte 0-4 for Heimdal i 4. divisjon, Trøndelag - Avdeling 2 i fotball for kvinner. Nikoline Aleksandra Aas Lein scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-21T21:11:20Z",
+        "lastModifiedAt": "2023-05-21T21:33:32Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "orkanger-seiret-over-charlottenlund",
+        "url": "/lokalfotballen/i/76L64V/orkanger-seiret-over-charlottenlund",
+        "title": {
+            "value": "Orkanger med hjemmeseier over Charlottenlund"
+        },
+        "description": "Orkanger seiret 5-1 over Charlottenlund i G16 Elite, Vår søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-21T20:40:22Z",
+        "lastModifiedAt": "2023-05-21T22:03:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "flataas-tok-sin-sjette-strake-seier",
+        "url": "/lokalfotballen/i/0Q0QbG/flataas-tok-sin-sjette-strake-seier",
+        "title": {
+            "value": "Flatås vant igjen"
+        },
+        "description": "Lena Aanensen sto fram med to scoringer da Flatås seiret 5-2 over Utleira 2 i 4. divisjon, Trøndelag - Avdeling 3 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-21T20:19:08Z",
+        "lastModifiedAt": "2023-05-21T20:35:59Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "sjuende-strake-seier-for-ranheim",
+        "url": "/lokalfotballen/i/Kn1nGo/sjuende-strake-seier-for-ranheim",
+        "title": {
+            "value": "Magnus Qvigstad-dobbel for Ranheim"
+        },
+        "description": "Magnus Qvigstad scoret to mål og hjalp Ranheim til 4-1-seier over Freidig i G16 Elite, Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-21T19:45:22Z",
+        "lastModifiedAt": "2023-05-21T20:03:51Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "langlid-scoret-to-for-soerlia-2-7er",
+        "url": "/lokalfotballen/i/5BMBRW/langlid-scoret-to-for-soerlia-2-7er",
+        "title": {
+            "value": "Dobbel fra Langlid for Sørlia 2 7er"
+        },
+        "description": "Sørlia 2 7er slo Malm/Follafoss 7er 4-2 borte i 7er, Trøndelag i fotball søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-21T19:26:57Z",
+        "lastModifiedAt": "2023-05-21T21:04:52Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "folstad-boettet-inn-maal-mot-buvik-2",
+        "url": "/lokalfotballen/i/zEXE8w/folstad-boettet-inn-maal-mot-buvik-2",
+        "title": {
+            "value": "Folstad bøttet inn mål for Støren"
+        },
+        "description": "John Eivind Folstad førte an med fem av målene i 18-1-seieren over Buvik 2 i 6. divisjon, Trøndelag - Avdeling 6 i fotball. Buvik 2 har gått poengløse av banen i alle kampene sine så langt denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-21T19:14:53Z",
+        "lastModifiedAt": "2023-05-21T20:05:56Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-tronderbladet",
+            "lokalfotballen-gauldalsposten"
+        ]
+    },
+    {
+        "slug": "ny-seier-for-melhus-2-gimse-2-gauldal-2",
+        "url": "/lokalfotballen/i/LlLl6q/ny-seier-for-melhus-2-gimse-2-gauldal-2",
+        "title": {
+            "value": "Fjerde seier på rad for Melhus 2/Gimse 2/Gauldal 2"
+        },
+        "description": "Melhus 2/Gimse 2/Gauldal 2 slo Leinstrand/Byneset 3-2 på Leinstrand gras i 4. divisjon, Trøndelag - Avdeling 3 i fotball for kvinner. Leinstrand/Byneset har gått poengløse av banen i alle kampene sine så langt i år.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-21T18:57:16Z",
+        "lastModifiedAt": "2023-05-21T19:35:09Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "storseier-for-sverresborg",
+        "url": "/lokalfotballen/i/XbJb9B/storseier-for-sverresborg",
+        "title": {
+            "value": "To fulltreffere fra Bakken"
+        },
+        "description": "Oda Bakken scoret to ganger og hjalp Sverresborg til 6-2-seier over Varden Meråker i 4. divisjon, Trøndelag - Avdeling 3 i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-21T18:28:38Z",
+        "lastModifiedAt": "2023-05-21T19:06:32Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    }
+]

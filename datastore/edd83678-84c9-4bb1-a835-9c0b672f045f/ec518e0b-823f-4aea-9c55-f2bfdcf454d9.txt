@@ -1,0 +1,188 @@
+[
+    {
+        "slug": "arvidsson-sikret-seieren-for-gimse",
+        "url": "/lokalfotballen/i/JQXMj7/arvidsson-sikret-seieren-for-gimse",
+        "title": {
+            "value": "Arvidsson senket Brekken"
+        },
+        "description": "Trym Arvidsson sikret tre poeng for Gimse da Brekken ble slått 2-1 i 6. divisjon, Trøndelag - Avdeling 6 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-24T14:01:37Z",
+        "lastModifiedAt": "2023-06-24T14:07:21Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "rbks-brennhete-tenaaring-ringer-fra-ni-land",
+        "url": "/sport/fotball/i/0QO6M2/rbks-brennhete-tenaaring-ringer-fra-ni-land",
+        "title": {
+            "value": "- Det er bare rykter for meg"
+        },
+        "description": "Sverre Nypan linkes til flere storklubber i Europa, men har ikke hastverk. Nå forklarer både han og rådgiver-far Arne hvorfor.",
+        "imageUrl": "afab7f9c-ba82-46ab-b4a2-0c0a3b2106d3",
+        "publishedAt": "2023-06-24T13:03:13Z",
+        "lastModifiedAt": "2023-06-24T13:34:42Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "sverre-nypan",
+            "svein-maalen",
+            "kjetil-rekdal"
+        ]
+    },
+    {
+        "slug": "kristiansen-senket-sogndal-fk",
+        "url": "/lokalfotballen/i/8JVWaA/kristiansen-senket-sogndal-fk",
+        "title": {
+            "value": "Kristiansen avgjorde for Tiller"
+        },
+        "description": "Tiller har tatt poeng i fem kamper på rad etter dagens 1-0-seier i 2. divisjon, Avdeling 1 i fotball lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-24T13:00:42Z",
+        "lastModifiedAt": "2023-06-24T13:05:46Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "tekeste-med-maalshow",
+        "url": "/lokalfotballen/i/MoXWeM/tekeste-med-maalshow",
+        "title": {
+            "value": "Tekeste bøttet inn mål for Tynset 2"
+        },
+        "description": "Tynset 2 stanset Vestbyen 2s seiersrekke på fire kamper etter dagens 4-2-seier Bietlehem Tekeste scoret alle målene for Tynset 2.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-24T12:54:35Z",
+        "lastModifiedAt": "2023-06-24T13:05:46Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ny-seier-for-strindheim",
+        "url": "/lokalfotballen/i/veGXB4/ny-seier-for-strindheim",
+        "title": {
+            "value": "Strindheim vant igjen"
+        },
+        "description": "Strindheim slo Rana 4-0 og har dermed tatt poeng i fem kamper på rad i 3. divisjon, Avdeling 5 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-24T12:54:35Z",
+        "lastModifiedAt": "2023-06-24T13:35:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "foelg-rbk-aasane-direkte",
+        "url": "/sport/i/mQxyBO/foelg-rbk-aasane-direkte",
+        "title": {
+            "value": "- Der bør det stå 3-0!"
+        },
+        "description": "Rosenborg tar imot Åsane til sesongens siste hjemmekamp før den lange sommerpausen på grunn av fotball-VM.",
+        "imageUrl": "d48875c8-6ccc-4d8f-9911-45feee27896a",
+        "publishedAt": "2023-06-24T12:30:00Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Yngve Bergli"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "naa-kan-de-bli-vm-millionaerer",
+        "url": "/sport/fotball/i/GMXOgB/naa-kan-de-bli-vm-millionaerer",
+        "title": {
+            "value": "Kan tjene millioner:  - Sier litt om hvor stort det er"
+        },
+        "description": "VM-spillerne er allerede sikret et solid beløp fra Fifa. Men RBK er ikke fornøyd med sin andel.",
+        "imageUrl": "c4417926-5956-4c42-9c5c-a919975c4dda",
+        "publishedAt": "2023-06-24T12:19:56Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "mathilde-harviken",
+            "anna-joesendal",
+            "sara-hoerte",
+            "rosenborg-bk",
+            "fotball-vm-kvinner-2023",
+            "fotball",
+            "norsk-fotball"
+        ]
+    },
+    {
+        "slug": "laereren-det-med-kropp-og-ungdom-er-veldig-vanskelig",
+        "url": "/nyheter/trondheim/i/veXzlL/laereren-det-med-kropp-og-ungdom-er-veldig-vanskelig",
+        "title": {
+            "value": "– Jeg håper jeg kan være et forbilde"
+        },
+        "description": "Perodd Tessem (56) vil at elevene skal se at han våger å gå sine egne veier: - Noen ganger overdriver jeg kanskje litt.",
+        "imageUrl": "5c63a729-ebd5-4c0d-a1cd-011453620469",
+        "publishedAt": "2023-06-24T07:25:58Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Kari-Anne Aarvåg",
+            "Kim Nygård (foto)"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/jlxbRq/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene lørdag 24. juni.",
+        "imageUrl": "31230f70-3d1c-491e-8d58-d1144b947c0b",
+        "publishedAt": "2023-06-24T04:00:44Z",
+        "lastModifiedAt": "2023-06-24T04:00:44Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "oerland-snudde-til-seier-paa-tampen",
+        "url": "/lokalfotballen/i/y6JbGR/oerland-snudde-til-seier-paa-tampen",
+        "title": {
+            "value": "Ørland snudde til seier på tampen mot Strindheim 2"
+        },
+        "description": "Ørland snudde til seier på tampen mot Strindheim 2 i 4. divisjon, Trøndelag - Avdeling 2 i fotball fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-23T19:29:08Z",
+        "lastModifiedAt": "2023-06-23T22:34:13Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    }
+]

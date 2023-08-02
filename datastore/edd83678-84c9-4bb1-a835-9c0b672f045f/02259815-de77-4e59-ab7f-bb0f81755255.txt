@@ -1,0 +1,202 @@
+[
+    {
+        "slug": "nettsus-for-philip-lundberg-holden",
+        "url": "/lokalfotballen/i/zEX7V1/nettsus-for-philip-lundberg-holden",
+        "title": {
+            "value": "Nettsus for Philip Lundberg Holden"
+        },
+        "description": "Philip Lundberg Holden sto fram med to scoringer da Strindheim 4 vant 3-1 over Trygg/Lade i G14 2. divisjon, Avdeling 3 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-21T11:48:50Z",
+        "lastModifiedAt": "2023-05-21T11:48:50Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "hun-kan-bli-idrettens-nye-foerstedame-jeg-er-ferdig-med-aa-vaere-et-talent",
+        "url": "/magasin/i/jlbk39/hun-kan-bli-idrettens-nye-foerstedame-jeg-er-ferdig-med-aa-vaere-et-talent",
+        "title": {
+            "value": "Hun kan bli idrettens nye førstedame: – En 16-åring vil tenke at jeg begynner å bli en gammel kjerring"
+        },
+        "description": "Hun gjemte treningsavgiften for foreldrene på grunn av dårlig råd. To tiår senere kan Zaineb Al-Samarai bli norsk idretts førstedame.",
+        "imageUrl": "bbf3e96c-c8af-4159-ac6d-5a415414f51a",
+        "publishedAt": "2023-05-21T09:03:33Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Robert Veiåker Johansen"
+        ],
+        "tags": [
+            "idrett",
+            "holmlia",
+            "vaalerenga-fotball",
+            "berit-kjoell",
+            "irak",
+            "ukeadressa",
+            "portrettet",
+            "norges-idrettsforbund-nif"
+        ]
+    },
+    {
+        "slug": "trondheimslag-med-historisk-seier-i-klassiker",
+        "url": "/sport/i/dwPndo/trondheimslag-med-historisk-seier-i-klassiker",
+        "title": {
+            "value": "Historisk seier: – Dette kommer jeg aldri til å glemme"
+        },
+        "description": "NTNUI har vunnet det svenske Tiomila, og blir med det første norske lag siden 2012 som vinner det gjeve løpet.",
+        "imageUrl": "b725d20a-45d1-4e1c-8535-a1352773d629",
+        "publishedAt": "2023-05-21T07:11:58Z",
+        "lastModifiedAt": "2023-05-21T10:10:05Z",
+        "premium": true,
+        "authors": [
+            "Roy Tommy Bråten",
+            "NTB",
+            "Truls August Råen"
+        ],
+        "tags": [
+            "ntnui",
+            "orientering"
+        ]
+    },
+    {
+        "slug": "da-jan-ove-farstad-doede-fikk-kompisene-en-ide-for-levi-andre-leite-har-det-gitt-et-langt-lettere-liv",
+        "url": "/sport/sprek/i/GMK3lm/da-jan-ove-farstad-doede-fikk-kompisene-en-ide-for-levi-andre-leite-har-det-gitt-et-langt-lettere-liv",
+        "title": {
+            "value": "Da Jan-Ove Farstad døde, fikk kompisene en idé. For Levi-Andre Leite har det gitt et langt lettere liv."
+        },
+        "description": "Han gikk under kallenavnet «Joggis». Nå hedres han av kompisene.",
+        "imageUrl": "d3c88bbb-cdfb-487e-b8fb-6b1e8317f4c1",
+        "publishedAt": "2023-05-21T07:00:09Z",
+        "lastModifiedAt": "2023-05-21T07:00:09Z",
+        "premium": true,
+        "authors": [
+            "Odd-Sølve Grannes"
+        ],
+        "tags": [
+            "kreft"
+        ]
+    },
+    {
+        "slug": "soerloth-herjet-med-barcelona-stolt-og-roert",
+        "url": "/sport/fotball/i/WRdqxQ/soerloth-herjet-med-barcelona-stolt-og-roert",
+        "title": {
+            "value": "Sørloth herjet med Barcelona: - Stolt og rørt"
+        },
+        "description": "Alexander Sørloth frustrerte vettet av den suverene spanske seriemesteren. Det ga RBK-helt og pappa Gøran klump i halsen.",
+        "imageUrl": "04119605-57fc-4a52-b450-38b38350ec1c",
+        "publishedAt": "2023-05-20T20:57:38Z",
+        "lastModifiedAt": "2023-05-20T21:04:23Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "alexander-soerloth",
+            "real-sociedad",
+            "barcelona"
+        ]
+    },
+    {
+        "slug": "roervik-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/2BK3bB/roervik-fortsatte-seiersrekken",
+        "title": {
+            "value": "Rørvik fortsatte seiersrekken"
+        },
+        "description": "Rørvik vant 2-1 over Levanger 2 og tok sin tredje seier på rad i 4. divisjon, Trøndelag - Avdeling 1 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-20T20:03:01Z",
+        "lastModifiedAt": "2023-05-20T20:03:01Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "stjoerdals-blink-2-seiret-over-namsos",
+        "url": "/lokalfotballen/i/5BMn0W/stjoerdals-blink-2-seiret-over-namsos",
+        "title": {
+            "value": "Stjørdals-Blink 2 seiret over Namsos"
+        },
+        "description": "Stjørdals-Blink 2 banket Namsos 3-0 i 4. divisjon, Trøndelag - Avdeling 1 i fotball for menn lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-20T16:23:15Z",
+        "lastModifiedAt": "2023-05-20T22:32:37Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "simonsen-senket-hitra",
+        "url": "/lokalfotballen/i/abLWw4/simonsen-senket-hitra",
+        "title": {
+            "value": "Simonsen senket Hitra"
+        },
+        "description": "Pål Fredrik Simonsen ble matchvinner med sin 1-0-scoring for KIL/Hemne mot Hitra på Hitra idrettspark i 4. divisjon, Trøndelag - Avdeling 2 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-20T16:22:13Z",
+        "lastModifiedAt": "2023-05-20T17:02:42Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "aamodt-sikret-seieren-for-tylldal",
+        "url": "/lokalfotballen/i/eJmP1l/aamodt-sikret-seieren-for-tylldal",
+        "title": {
+            "value": "Aamodt ble helten for Tylldal"
+        },
+        "description": "Simen Solvang Aamodt sikret tre poeng for Tylldal da Sokna ble slått 3-2 i 6. divisjon, Trøndelag - Avdeling 6 i fotball for menn lørdag. Sokna har tapt sine fire første kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-20T16:17:09Z",
+        "lastModifiedAt": "2023-05-20T16:33:30Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-gauldalsposten",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "maalshow-fra-samuelshaug",
+        "url": "/lokalfotballen/i/15w7PJ/maalshow-fra-samuelshaug",
+        "title": {
+            "value": "Samuelshaug ble tremålshelt"
+        },
+        "description": "Alvdal banket Ørland 5-0 i 4. divisjon, Trøndelag - Avdeling 2 i fotball for menn. Lars Neslund Samuelshaug scoret tre ganger. Ørland har gått poengløse av banen tre kamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-20T16:02:58Z",
+        "lastModifiedAt": "2023-05-20T16:33:29Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    }
+]

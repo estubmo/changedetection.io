@@ -1,0 +1,362 @@
+[
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q18rVL",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q18rVL",
+        "preamble": "Etter åtte år i Real Madrid er det slutt for Marco Asensio (27). Torsdag signerte han en treårskontrakt med Paris Saint-Germain.",
+        "published": {
+            "date": "torsdag 6. juli",
+            "datetime": "2023-07-06 14:04:08",
+            "niceformat": "06.07.2023, 14:04",
+            "timestamp": "2023-07-06T12:04:08.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/08f8e96c-3010-4ab2-916e-7325c11fdcc8?fit=crop&format=auto&h=267&w=400&s=119c505210840a0e9578e2c6af35183170d295b3",
+            "width": 400
+        },
+        "title": "Asensio signerte for PSG",
+        "url": "https://www.vg.no/sport/fotball/i/q18rVL/asensio-signerte-for-psg"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "nQrPLx",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/nQrPLx",
+        "preamble": "Det norske sykkellaget har fått med to mann i bruddet i torsdagens fjelletappe. Blant dem norske Tobias Halland Johannessen (23). ",
+        "published": {
+            "date": "torsdag 6. juli",
+            "datetime": "2023-07-06 13:44:05",
+            "niceformat": "06.07.2023, 13:44",
+            "timestamp": "2023-07-06T11:44:05.000Z"
+        },
+        "thumbnail": {
+            "height": 273,
+            "url": "https://akamai.vgc.no/v2/images/150b002f-015e-4a4e-b2e9-3ee73be49e5c?fit=crop&format=auto&h=273&w=400&s=f01768194fefbf0132ec911e995cfd303b7381f3",
+            "width": 400
+        },
+        "title": "NÅ: To Uno-X-ryttere med i brudd",
+        "url": "https://www.vg.no/sport/fotball/i/nQrPLx/naa-to-uno-x-ryttere-med-i-brudd"
+    },
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q18rRe",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q18rRe",
+        "preamble": "Franske medier skriver at hjemmet til Nasser al-Khelaifi, president i PSG, ble ransaket av fransk politi onsdag.",
+        "published": {
+            "date": "torsdag 6. juli",
+            "datetime": "2023-07-06 13:18:24",
+            "niceformat": "06.07.2023, 13:18",
+            "timestamp": "2023-07-06T11:18:24.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/65ae133f-2372-4865-9a66-634ecd1bd576?fit=crop&format=auto&h=267&w=400&s=246db8101db06a71b0372019e21a0882e6a8a357",
+            "width": 400
+        },
+        "title": "Flere medier: PSG-presidentens bolig ransaket",
+        "url": "https://www.vg.no/sport/fotball/i/q18rRe/flere-medier-psg-presidentens-bolig-ransaket"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQw2rR",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQw2rR",
+        "preamble": "Etter 12 serierunder forsvinner Sarpsborgs juvel til utlandet.",
+        "published": {
+            "date": "torsdag 6. juli",
+            "datetime": "2023-07-06 13:05:09",
+            "niceformat": "06.07.2023, 13:05",
+            "timestamp": "2023-07-06T11:05:09.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/f288fc5d-9c3b-43bb-a4ba-b01ac0b5795e?fit=crop&format=auto&h=267&w=400&s=82f746f00b47e1db2ac578a6c792324ce3329526",
+            "width": 400
+        },
+        "title": "Sarpsborg med rekordsalg: Bonsu Baah blir Genk-spiller",
+        "url": "https://www.vg.no/sport/fotball/i/JQw2rR/christopher-bonsu-baah-til-genk-blir-sarpsborgs-stoerste-spillersalg"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QzzmJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QzzmJ",
+        "preamble": "Den norske fotballdommeren Espen Eskås (35) blir kampleder i lørdagens finale mellom Spania og England.",
+        "published": {
+            "date": "torsdag 6. juli",
+            "datetime": "2023-07-06 11:27:49",
+            "niceformat": "06.07.2023, 11:27",
+            "timestamp": "2023-07-06T09:27:49.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/9ba92e7d-1c60-48e0-ab38-e631e1543e28?fit=crop&format=auto&h=267&w=400&s=49d68184a1a0c6e644bc47d27206fa307a193aef",
+            "width": 400
+        },
+        "title": "Espen Eskås dømmer finalen i U21-EM i fotball: – Vel fortjent",
+        "url": "https://www.vg.no/sport/fotball/i/0QzzmJ/espen-eskaas-doemmer-finalen-i-u21-em-i-fotball"
+    },
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "RGnnM8",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/RGnnM8",
+        "preamble": "Milan Skriniar (28) har signert en femårskontrakt med Paris Saint-Germain.",
+        "published": {
+            "date": "torsdag 6. juli",
+            "datetime": "2023-07-06 11:04:11",
+            "niceformat": "06.07.2023, 11:04",
+            "timestamp": "2023-07-06T09:04:11.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/d6d9bf96-dc3d-4f65-adda-5df66ba5eeec?fit=crop&format=auto&h=267&w=400&s=786facc20f70c48bbf02ce28c3d4192faec19af6",
+            "width": 400
+        },
+        "title": "PSG signerte Inter-stopper Skriniar",
+        "url": "https://www.vg.no/sport/fotball/i/RGnnM8/psg-signerte-inter-stopper-skriniar"
+    },
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JLLM1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JLLM1",
+        "preamble": "Ifølge Stavanger Aftenblad, har Viking nylig avslått et millionbud fra Aalesund på høyreback Herman Haugen (23).",
+        "published": {
+            "date": "torsdag 6. juli",
+            "datetime": "2023-07-06 10:56:58",
+            "niceformat": "06.07.2023, 10:56",
+            "timestamp": "2023-07-06T08:56:58.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0fc1fec3-2e47-42e3-acb0-487c7a7adb08?fit=crop&format=auto&h=267&w=400&s=2e587b96909fe952de1cbb0ef44e02e8a8de59a3",
+            "width": 400
+        },
+        "title": "Aftenbladet: Viking avslo bud på Herman Haugen",
+        "url": "https://www.vg.no/sport/fotball/i/8JLLM1/aftenbladet-viking-avslo-bud-paa-herman-haugen"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "mQEE4l",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/mQEE4l",
+        "preamble": "Myndighetene i Rio de Janeiro har innført en ny antirasismelov som er navngitt etter Real Madrid-stjernen Vinícius Júnior (22).",
+        "published": {
+            "date": "torsdag 6. juli",
+            "datetime": "2023-07-06 10:38:50",
+            "niceformat": "06.07.2023, 10:38",
+            "timestamp": "2023-07-06T08:38:50.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/adfb8f01-17a1-47c1-a64c-d1c176905854?fit=crop&format=auto&h=267&w=400&s=4fe7c7bf8611a0dc5aa78e1f28022113b74f0b71",
+            "width": 400
+        },
+        "title": "Antirasismelov oppkalt etter Vinícius Júnior",
+        "url": "https://www.vg.no/sport/fotball/i/mQEE4l/antirasismelov-i-rio-de-janeiro-oppkalt-etter-vinicius-junior"
+    },
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEwwwv",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEwwwv",
+        "preamble": "Bodø/Glimt nærmer seg et kjøp av Godset-juvelen Tobias Gulliksen (19). Det melder Drammens Tidende og Nettavisen.",
+        "published": {
+            "date": "torsdag 6. juli",
+            "datetime": "2023-07-06 10:13:46",
+            "niceformat": "06.07.2023, 10:13",
+            "timestamp": "2023-07-06T08:13:46.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/42949a45-9899-4606-a164-b6bd25bebdb3?fit=crop&format=auto&h=267&w=400&s=438f9cd3186f753e5a6279897e54618751f465ce",
+            "width": 400
+        },
+        "title": "Medier: Gulliksen på vei til Glimt",
+        "url": "https://www.vg.no/sport/fotball/i/zEwwwv/drammens-tidende-gulliksen-paa-vei-til-glimt-for-rekordsum"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            },
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "AP55vE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/AP55vE",
+        "preamble": "Erling Braut Haaland (22) er igjen verdens mest verdifulle fotballspiller på Transfermarkts uhøytidelige liste. Jærbuen deler topplasseringen med Kylian Mbappé (24).",
+        "published": {
+            "date": "torsdag 6. juli",
+            "datetime": "2023-07-06 08:59:03",
+            "niceformat": "06.07.2023, 08:59",
+            "timestamp": "2023-07-06T06:59:03.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/dfaeefd3-116a-4cda-a030-0a152fc60041?fit=crop&format=auto&h=267&w=400&s=77a99bea74968173b5619332d45120ce0d3da0c9",
+            "width": 400
+        },
+        "title": "Transfermarkt: Haaland har tatt igjen Mbappé som verdens mest verdifulle fotballspiller",
+        "url": "https://www.vg.no/sport/fotball/i/AP55vE/transfermarkt-erling-braut-haaland-og-kylian-mbappe-er-verdens-mest-verdifulle-spillere"
+    }
+]

@@ -1,0 +1,205 @@
+[
+    {
+        "slug": "der-var-karrieren-over",
+        "url": "/sport/fotball/i/VPk643/der-var-karrieren-over",
+        "title": {
+            "value": "«Der var karrieren over»"
+        },
+        "description": "Cesilie Andreassen var redd for at hun hadde pådratt seg mareritt-skaden hun har fryktet siden tenårene.",
+        "imageUrl": "367cddd0-4b9a-4663-8c03-69952e754e5c",
+        "publishedAt": "2023-05-22T18:49:31Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus",
+            "Christine Schefte (foto)"
+        ],
+        "tags": [
+            "cesilie-andreassen",
+            "rosenborg-kvinner",
+            "toppserien"
+        ]
+    },
+    {
+        "slug": "ranheim-seiret-hjemme-mot-tiller",
+        "url": "/lokalfotballen/i/JQMrMR/ranheim-seiret-hjemme-mot-tiller",
+        "title": {
+            "value": "Ranheim seiret hjemme mot Tiller"
+        },
+        "description": "Ranheim slo Tiller 5-1 og fikk dermed med seg alle poengene i J13 1. divisjon, Avdeling 2 - Vår mandag. Ranheim har tatt poeng i sine fem siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T18:38:43Z",
+        "lastModifiedAt": "2023-05-22T18:40:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "heimdal-vant-i-maalfest",
+        "url": "/lokalfotballen/i/8JWG7w/heimdal-vant-i-maalfest",
+        "title": {
+            "value": "Heimdal slo Melhus/Gimse i målfest"
+        },
+        "description": "Heimdal seiret 8-3 over Melhus/Gimse på bortebane i J13 1. divisjon, Avdeling 2 - Vår. Heimdal har tatt poeng i sine seks siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T18:19:28Z",
+        "lastModifiedAt": "2023-05-22T18:38:37Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "brakseier-for-hitra-7er",
+        "url": "/lokalfotballen/i/l3XKre/brakseier-for-hitra-7er",
+        "title": {
+            "value": "Knusende seier for Hitra 7er"
+        },
+        "description": "Med dagens 4-0-seier over Frøya IL 7er tok Hitra 7er sin første seier i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T18:09:13Z",
+        "lastModifiedAt": "2023-05-22T18:37:33Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    },
+    {
+        "slug": "sofie-ege-husby-scoret-hattrick-for-strindheim",
+        "url": "/lokalfotballen/i/kEXvmL/sofie-ege-husby-scoret-hattrick-for-strindheim",
+        "title": {
+            "value": "Målshow fra Sofie Ege Husby"
+        },
+        "description": "Sofie Ege Husby scoret tre ganger og hjalp Strindheim til 4-2-seier over Byåsen i J13 1. divisjon, Avdeling 2 - Vår mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-22T17:49:54Z",
+        "lastModifiedAt": "2023-05-22T18:07:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "bryr-de-seg-om-moellenberg-i-det-hele-tatt",
+        "url": "/meninger/i/XbJM2b/bryr-de-seg-om-moellenberg-i-det-hele-tatt",
+        "title": {
+            "value": "Bryr de seg om Møllenberg i det hele tatt?"
+        },
+        "description": "Er det greit for politikerne at sentrale bydeler blir smekkfulle av hybler? Eller vil de gjøre noe som kan koste noen kroner?",
+        "imageUrl": "6a017058-451b-4e95-968c-28df84c8e154",
+        "publishedAt": "2023-05-22T16:04:35Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Trygve Lundemo"
+        ],
+        "tags": [
+            "kommentarer",
+            "byutvikling",
+            "byutvikling-i-trondheim",
+            "moellenberg",
+            "trondheim-kommune",
+            "trygve-lundemo",
+            "kommunedirektoer"
+        ]
+    },
+    {
+        "slug": "redd-politikerne-tar-beslutning-paa-feil-grunnlag-alvorlig",
+        "url": "/nyheter/trondheim/i/69KE3W/redd-politikerne-tar-beslutning-paa-feil-grunnlag-alvorlig",
+        "title": {
+            "value": "Redd politikerne tar beslutning på feil grunnlag: - Alvorlig"
+        },
+        "description": "Velforeningsleder Bjørn-Erik Hanssen reagerer på at kommunedirektøren har gitt politikerne feil informasjon om salget av bygården på Møllenberg.",
+        "imageUrl": "8d81bd70-9221-4882-b9c8-4052541e0db6",
+        "publishedAt": "2023-05-22T14:55:38Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Kari-Anne Aarvåg"
+        ],
+        "tags": [
+            "byutvikling",
+            "trondheim",
+            "moellenberg",
+            "trondheim-kommune",
+            "kommunale-boliger",
+            "formannskapet"
+        ]
+    },
+    {
+        "slug": "siste-fra-breddefotballen",
+        "url": "/sport/fotball/i/GMjXaq/siste-fra-breddefotballen",
+        "title": {
+            "value": "Flere klubber var interessert i RBKs talent: Valget ble enkelt"
+        },
+        "description": null,
+        "imageUrl": "868771b2-26ac-44ba-8d69-c0a7aa4a8659",
+        "publishedAt": "2023-03-24T14:51:36Z",
+        "lastModifiedAt": "2023-05-09T10:22:27Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "fotball",
+            "breddefotbaill",
+            "lokalfotballen",
+            "breddefotball"
+        ]
+    },
+    {
+        "slug": "16-aarig-talent-forlot-rbk-hadde-helst-sett-at-hun-ble-vaerende",
+        "url": "/sport/fotball/i/wAXr24/16-aarig-talent-forlot-rbk-hadde-helst-sett-at-hun-ble-vaerende",
+        "title": {
+            "value": "16-årig talent forlot RBK: - Hadde helst sett at hun ble værende"
+        },
+        "description": null,
+        "imageUrl": "d8024700-295f-4151-8e35-ad346d29ed74",
+        "publishedAt": "2023-05-22T13:12:52Z",
+        "lastModifiedAt": "2023-05-22T13:12:52Z",
+        "premium": false,
+        "authors": [
+            "Aksel Murvold, Petter Rasmus"
+        ],
+        "tags": [
+            "breddefotbaill",
+            "lokalfotballen"
+        ]
+    },
+    {
+        "slug": "mister-flere-kamper-saa-lenge-er-rbk-spissen-ute",
+        "url": "/sport/fotball/i/veXg4V/mister-flere-kamper-saa-lenge-er-rbk-spissen-ute",
+        "title": {
+            "value": "RBK-spissen mister flere kamper: – Det har gått sakte"
+        },
+        "description": "Isak Snær Thorvaldsson er fremdeles et stort spørsmålstegn. Mens det er håp for en annen RBK-profil.",
+        "imageUrl": "33b6ec98-2a6b-4b8c-b300-489cfb47341d",
+        "publishedAt": "2023-05-22T11:12:33Z",
+        "lastModifiedAt": "2023-05-22T12:01:58Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken",
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "kjetil-rekdal"
+        ]
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "slug": "hvor-ble-det-av-den-bunnloese-tilliten",
+        "url": "/sport/i/XbJ7LB/hvor-ble-det-av-den-bunnloese-tilliten",
+        "title": {
+            "value": "Er det dette styret også ser?"
+        },
+        "description": "KOMMENTAR: Forventningene er fortsatt lave, men trykket er massivt. Det ser ut til å prege hele Rosenborg-organisasjonen.",
+        "imageUrl": "bacfc194-31fe-43a5-baeb-cc6919374e68",
+        "publishedAt": "2023-05-30T06:53:45Z",
+        "lastModifiedAt": "2023-05-30T06:53:50Z",
+        "premium": true,
+        "authors": [
+            "Birger Løfaldli"
+        ],
+        "tags": [
+            "cecilie-gotaas-johnsen",
+            "kjetil-rekdal",
+            "geir-frigaard",
+            "markus-henriksen",
+            "birger-loefaldli"
+        ]
+    },
+    {
+        "slug": "ingason-jeg-scorer-alltid-fra-straffemerket",
+        "url": "/sport/fotball/i/wAXjmL/ingason-jeg-scorer-alltid-fra-straffemerket",
+        "title": {
+            "value": "Ingason: - Jeg scorer alltid fra straffemerket"
+        },
+        "description": "Det endte til slutt med mål for Rosenborg. Men dramatikk ble det. Og en uendret selvtillit.",
+        "imageUrl": "dc6d2d15-f99d-40ba-b003-3c56d36f0811",
+        "publishedAt": "2023-05-30T06:01:23Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "fotball",
+            "sport",
+            "rosenborg-bk",
+            "kjetil-rekdal"
+        ]
+    },
+    {
+        "slug": "holshagen-scoret-to-for-vuku-2-7er",
+        "url": "/lokalfotballen/i/onBbAa/holshagen-scoret-to-for-vuku-2-7er",
+        "title": {
+            "value": "Holshagen scoret to for Vuku 2 7er"
+        },
+        "description": "Sara Holshagen scoret begge målene for Vuku 2 7er og ble den store helten i 2-1-seieren over Aasguten 7er i 7er, Trøndelag - Avdeling 1 i fotball for kvinner mandag. Aasguten 7er har ikke tatt ett eneste poeng denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T22:01:05Z",
+        "lastModifiedAt": "2023-05-29T22:01:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "oensket-i-rbk-naa-er-han-ferdig-i-sveits",
+        "url": "/sport/fotball/i/691Rno/oensket-i-rbk-naa-er-han-ferdig-i-sveits",
+        "title": {
+            "value": "Ønsket i RBK: Nå er han ferdig i Sveits"
+        },
+        "description": "Ole Selnæs spiller sin siste kamp for Zürich tirsdag.",
+        "imageUrl": "a0e0f947-13f6-49fc-bb65-dcb4c53bd60a",
+        "publishedAt": "2023-05-29T21:09:37Z",
+        "lastModifiedAt": "2023-05-29T21:15:59Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "ole-selnaes",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "johansen-dobbel-for-tiller-2",
+        "url": "/lokalfotballen/i/jlXEPw/johansen-dobbel-for-tiller-2",
+        "title": {
+            "value": "Johansen-dobbel for Tiller 2"
+        },
+        "description": "Tiller 2 banket Strindheim 4-1 i 3. divisjon, Trøndelag i fotball for kvinner mandag. Kaja Sofie Johansen scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T21:05:28Z",
+        "lastModifiedAt": "2023-05-29T21:30:46Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "dobbel-fra-kant-for-sokna",
+        "url": "/lokalfotballen/i/abLQ1L/dobbel-fra-kant-for-sokna",
+        "title": {
+            "value": "Kant i scoringshumør mot Buvik 2"
+        },
+        "description": "Marius Berge Kant scoret to ganger da Sokna vant 3-0 over Buvik 2 i 6. divisjon, Trøndelag - Avdeling 6 i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T20:49:00Z",
+        "lastModifiedAt": "2023-05-29T21:31:48Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-gauldalsposten",
+            "lokalfotballen-tronderbladet",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "charlottenlund-rotet-bort-seieren-paa-overtid",
+        "url": "/lokalfotballen/i/APkwzE/charlottenlund-rotet-bort-seieren-paa-overtid",
+        "title": {
+            "value": "Krogh reddet Ranheim"
+        },
+        "description": "Charlottenlund var på vei mot seier, men måtte nøye seg med 3-3 mot Ranheim i 3. divisjon, Trøndelag i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T20:45:57Z",
+        "lastModifiedAt": "2023-05-29T21:30:46Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "lensvik-med-hjemmeseier-over-orkanger-2",
+        "url": "/lokalfotballen/i/y6Xd1R/lensvik-med-hjemmeseier-over-orkanger-2",
+        "title": {
+            "value": "Lensvik vant over Orkanger 2"
+        },
+        "description": "Lensvik kunne juble for årets første trepoenger etter dagens 3-1-seier mot Orkanger 2 i 6. divisjon, Trøndelag - Avdeling 4 i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T20:41:53Z",
+        "lastModifiedAt": "2023-05-29T21:31:48Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "hjemmeseier-for-remyra-fram-over-verdal",
+        "url": "/lokalfotballen/i/0Q0Aw0/hjemmeseier-for-remyra-fram-over-verdal",
+        "title": {
+            "value": "Hjemmeseier for Remyra/Fram over Verdal"
+        },
+        "description": "Remyra/Fram fikk med seg alle poengene da Verdal ble slått 3-2 i J14 1. divisjon, Avdeling 1 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T20:34:38Z",
+        "lastModifiedAt": "2023-05-29T20:34:38Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "ny-seier-for-malvik",
+        "url": "/lokalfotballen/i/abLErO/ny-seier-for-malvik",
+        "title": {
+            "value": "Malvik fortsatte seiersrekken"
+        },
+        "description": "Malvik vant 2-1 over Gimse/Melhus/Gauldal hjemme i 3. divisjon, Trøndelag i fotball for kvinner. Det var Malviks fjerde trepoenger på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T20:30:05Z",
+        "lastModifiedAt": "2023-05-29T21:02:14Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet",
+            "lokalfotballen-tronderbladet"
+        ]
+    }
+]

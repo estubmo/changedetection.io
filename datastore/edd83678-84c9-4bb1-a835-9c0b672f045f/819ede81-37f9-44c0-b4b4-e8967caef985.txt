@@ -1,0 +1,193 @@
+[
+    {
+        "slug": "plutselig-sto-hun-paa-en-buss-midt-i-folkehavet-er-det-oss-de-feirer-naa",
+        "url": "/sport/fotball/i/Q7Ol9q/plutselig-sto-hun-paa-en-buss-midt-i-folkehavet-er-det-oss-de-feirer-naa",
+        "title": {
+            "value": "70 000 tok til gatene: «Er det oss de feirer nå?» "
+        },
+        "description": "Ingrid Syrstad Engen og Barcelona-kvinnene har vært suverene i år. Da også herrelaget sikret ligagullet, ble det en opplevelse hun aldri kommer til å glemme.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-19T19:18:31Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "ingrid-syrstad-engen",
+            "fotball",
+            "fc-barcelona"
+        ]
+    },
+    {
+        "slug": "alander-scoret-hattrick-mot-ranheim-3",
+        "url": "/lokalfotballen/i/pQXLXo/alander-scoret-hattrick-mot-ranheim-3",
+        "title": {
+            "value": "Mål-lykke for Alander"
+        },
+        "description": "Oline Alander scoret tre ganger og hjalp Vestbyen 2 til 6-5-seier over Ranheim 3 i 4. divisjon, Trøndelag - Avdeling 3 i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-19T18:40:16Z",
+        "lastModifiedAt": "2023-05-19T19:03:39Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "froeya-il-2-9er-soerget-for-maalfest",
+        "url": "/lokalfotballen/i/mQaRyv/froeya-il-2-9er-soerget-for-maalfest",
+        "title": {
+            "value": "Frøya IL 2 9er vant igjen"
+        },
+        "description": "Liam Johansen Inderø viste scoringsform da Frøya IL 2 9er vant 6-0 over Hitra 9er i G14 9er, Avdeling 3 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-19T18:02:52Z",
+        "lastModifiedAt": "2023-05-19T18:33:10Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    },
+    {
+        "slug": "mister-cupkampen-fikk-seg-en-smell",
+        "url": "/sport/fotball/i/4ovj5q/mister-cupkampen-fikk-seg-en-smell",
+        "title": {
+            "value": " - Ikke aktuell til cupkampen"
+        },
+        "description": "RBK må klare seg uten Santeri Väänänen mot Trygg/Lade.",
+        "imageUrl": "39782e16-f1c2-4a23-b6b1-7988a4728a9a",
+        "publishedAt": "2023-05-19T14:17:20Z",
+        "lastModifiedAt": "2023-05-19T14:17:20Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball"
+        ]
+    },
+    {
+        "slug": "se-helgaadal-markabygda-med-kjetil-rekdal-som-ekspert",
+        "url": "/sport/fotball/i/wAbMbA/se-helgaadal-markabygda-med-kjetil-rekdal-som-ekspert",
+        "title": {
+            "value": "- Den er fin og farlig"
+        },
+        "description": "Helgådal håper på årets første poeng når de endelig spiller på den sagnomsuste hjemmebanen. Oppgjøret ser du på adressa.no klokken 19.40!",
+        "imageUrl": "4e32406e-bb5b-4094-bf33-04046555cbda",
+        "publishedAt": "2023-05-19T09:49:52Z",
+        "lastModifiedAt": "2023-05-19T11:04:42Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "helgaadal",
+            "markabygda"
+        ]
+    },
+    {
+        "slug": "svendsen-dobbel-for-varden-meraaker",
+        "url": "/lokalfotballen/i/wAbyLA/svendsen-dobbel-for-varden-meraaker",
+        "title": {
+            "value": "Dobbel fra Svendsen for Varden Meråker"
+        },
+        "description": "Varden Meråker slo NTNUI 3 3-2 og tok sin første seier i årets sesong. I 4. divisjon, Trøndelag - Avdeling 3 i fotball for kvinner torsdag. Thea Elise Svendsen scoret to av målene.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-18T20:34:08Z",
+        "lastModifiedAt": "2023-05-18T21:32:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "pettersen-ble-matchvinner-paa-overtid",
+        "url": "/lokalfotballen/i/RGq322/pettersen-ble-matchvinner-paa-overtid",
+        "title": {
+            "value": "Pettersen ble matchvinner på overtid"
+        },
+        "description": "NTNUI 2 snudde til seier på overtid mot Trygg/Lade 2 i 5. divisjon, Trøndelag - Avdeling 2 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-18T20:31:44Z",
+        "lastModifiedAt": "2023-05-18T20:31:44Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "daniel-groeset-eriksen-dobbel-for-ranheim-3",
+        "url": "/lokalfotballen/i/q1bKEm/daniel-groeset-eriksen-dobbel-for-ranheim-3",
+        "title": {
+            "value": "Nettsus for Daniel Grøset-Eriksen"
+        },
+        "description": "Daniel Grøset-Eriksen scoret to mål og hjalp Ranheim 3 til 4-2-seier over Rissa 2/Stadsbygd 2/Vanvik 2 i G16 3. divisjon, Avdeling 3 - Vår torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-18T19:54:02Z",
+        "lastModifiedAt": "2023-05-18T20:33:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "dobbel-fra-pernille-helmersen-for-ranheim-2",
+        "url": "/lokalfotballen/i/pQb0mW/dobbel-fra-pernille-helmersen-for-ranheim-2",
+        "title": {
+            "value": "Pernille Helmersen scoret to for Ranheim 2"
+        },
+        "description": "Med 4-2-seier i dagens kamp har Ranheim 2 tatt poeng i fem kamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-18T19:52:01Z",
+        "lastModifiedAt": "2023-05-18T20:03:28Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "ny-seier-for-vuku",
+        "url": "/lokalfotballen/i/4o0n0o/ny-seier-for-vuku",
+        "title": {
+            "value": "Dobbel fra Bjørkeng for Vuku"
+        },
+        "description": "Vuku slo Egge 3-0 i dagens kamp. Egge har gått poengløse av banen i alle kampene sine hittil i årets sesong. I 4. divisjon, Trøndelag - Avdeling 1 i fotball torsdag. Fredrikke Baglo Bjørkeng scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-18T19:19:37Z",
+        "lastModifiedAt": "2023-05-18T19:31:47Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2",
+            "lokalfotballen-innherred"
+        ]
+    }
+]

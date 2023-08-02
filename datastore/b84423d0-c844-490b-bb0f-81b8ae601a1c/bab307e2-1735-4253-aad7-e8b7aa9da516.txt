@@ -1,0 +1,363 @@
+[
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O8qBXw",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O8qBXw",
+        "preamble": "(Odd – Lillestrøm 0–1) Lillestrøm-helten Akor Adams (23) gjorde det igjen. Hans tredje overtidsscoring denne sesongen sikret nok en gang tre poeng for LSK.",
+        "published": {
+            "date": "fredag 12. mai",
+            "datetime": "2023-05-12 20:53:41",
+            "niceformat": "12.05.2023, 20:53",
+            "timestamp": "2023-05-12T18:53:41.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/MweTuq_yBi_2.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Akor Adams matchvinner for Lillestrøm igjen – avgjorde på overtid for tredje gang denne sesongen",
+        "url": "https://www.vg.no/sport/fotball/i/O8qBXw/adams-matchvinner-for-lillestroem-igjen"
+    },
+    {
+        "authors": [
+            {
+                "email": "leif.welhaven@vg.no",
+                "id": "e46ed1bb-8354-4bd4-97d3-09ac43c5dc8f",
+                "name": "Leif Welhaven"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "nQbJRJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/nQbJRJ",
+        "preamble": "VAR-ROMMET (VG) Noen har bestemt seg på forhånd for å være mot teknologiske fremskritt, men mer og mer tyder på at VAR får en helt selvfølgelig plass i fotballen også her hjemme.",
+        "published": {
+            "date": "fredag 12. mai",
+            "datetime": "2023-05-12 19:50:54",
+            "niceformat": "12.05.2023, 19:50",
+            "timestamp": "2023-05-12T17:50:54.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/a47398cb-e761-40e0-bde9-165b5377f847?fit=crop&format=auto&h=300&w=400&s=b21d176d8f474207fc2654f70d7f766a737a27ba",
+            "width": 400
+        },
+        "title": "VAR blir som røykeloven",
+        "url": "https://www.vg.no/sport/fotball/i/nQbJRJ/var-blir-som-roeykeloven"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Qklro",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Qklro",
+        "preamble": "Manchester United kan måtte klare seg uten formspissen i lørdagens hjemmekamp mot Wolverhampton i Premier League.",
+        "published": {
+            "date": "fredag 12. mai",
+            "datetime": "2023-05-12 15:16:18",
+            "niceformat": "12.05.2023, 15:16",
+            "timestamp": "2023-05-12T13:16:18.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/ux_jqHWPCCMm.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Rashford usikker til viktig United-kamp",
+        "url": "https://www.vg.no/sport/fotball/i/0Qklro/rashford-usikker-til-viktig-united-kamp"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "KnqbKX",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/KnqbKX",
+        "preamble": "MANCHESTER (VG) Pep Guardiola reagerer på kampoppsettet før returoppgjøret mot Real Madrid.",
+        "published": {
+            "date": "fredag 12. mai",
+            "datetime": "2023-05-12 14:40:09",
+            "niceformat": "12.05.2023, 14:40",
+            "timestamp": "2023-05-12T12:40:09.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0f800b7d-ab48-44e0-a234-28c4ad11eede?fit=crop&format=auto&h=267&w=400&s=1cf7f4ef7c4318131cfefdbd3e0a89fdb5e20118",
+            "width": 400
+        },
+        "title": "Guardiola reagerer: – Jeg forstår det ikke",
+        "url": "https://www.vg.no/sport/fotball/i/KnqbKX/guardiola-reagerer-jeg-forstaar-det-ikke"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "nQbPAx",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/nQbPAx",
+        "preamble": "Hvis du setter en hundrelapp på Rosenborg-seier mot Bodø/Glimt, kan du nå få igjen ni-gangen av pengene. Norsk Tipping har ikke sett maken i norsk fotballhistorie.",
+        "published": {
+            "date": "fredag 12. mai",
+            "datetime": "2023-05-12 11:57:14",
+            "niceformat": "12.05.2023, 11:57",
+            "timestamp": "2023-05-12T09:57:14.000Z"
+        },
+        "thumbnail": {
+            "height": 242,
+            "url": "https://akamai.vgc.no/v2/images/cab83b0b-f5d0-4ec8-b44a-8cc07d05fac5?fit=crop&format=auto&h=242&w=400&s=2d1596af2fd0dba295867464968cca6bc4335e5f",
+            "width": 400
+        },
+        "title": "Rekordhøy odds på Rosenborg: – Aldri sett lignende",
+        "url": "https://www.vg.no/sport/fotball/i/nQbPAx/rekordhoey-odds-paa-rosenborg-aldri-sett-lignende"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "bgoJed",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/bgoJed",
+        "preamble": "Erling Braut Haaland (22) ble stemt frem som årets spiller av journalistene i Storbritannia med soleklar margin. Martin Ødegaard (24) ble nummer tre i kåringen. ",
+        "published": {
+            "date": "fredag 12. mai",
+            "datetime": "2023-05-12 11:02:33",
+            "niceformat": "12.05.2023, 11:02",
+            "timestamp": "2023-05-12T09:02:33.000Z"
+        },
+        "thumbnail": {
+            "height": 240,
+            "url": "https://akamai.vgc.no/v2/images/27bd2c41-ec3d-4f32-9962-7570ab8dcfe7?fit=crop&format=auto&h=240&w=400&s=e8f7caea15de247086610e9129e131c438b907bd",
+            "width": 400
+        },
+        "title": "Haaland vant pris med rekordmargin",
+        "url": "https://www.vg.no/sport/fotball/i/bgoJed/haaland-kaaret-til-sesongens-spiller-i-premier-league-av-journalistene"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69KMgo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69KMgo",
+        "preamble": "Fire fotballspillere verdsettes til over 200 millioner euro av analysebyrået CIES. Erling Braut Haaland er med i toppen, men har to mann foran seg.",
+        "published": {
+            "date": "fredag 12. mai",
+            "datetime": "2023-05-12 07:11:55",
+            "niceformat": "12.05.2023, 07:11",
+            "timestamp": "2023-05-12T05:11:55.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0e1cc296-35f5-4536-b464-67809983cdb5?fit=crop&format=auto&h=267&w=400&s=b12c2c9f4c562ee2b3e87fb1f76280f3e9dadc76",
+            "width": 400
+        },
+        "title": "CIES: Verdsetter Haaland til over to milliarder kroner",
+        "url": "https://www.vg.no/sport/fotball/i/69KMgo/cies-verdsetter-erling-braut-haaland-til-over-to-milliarder-kroner"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwpQd1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwpQd1",
+        "preamble": "Brann er i ferd med å selge unge og lovende David Møller Wolfe (21) til AZ Alkmaar for 30 millioner kroner. Det melder Bergens Tidende.\n",
+        "published": {
+            "date": "torsdag 11. mai",
+            "datetime": "2023-05-11 23:33:26",
+            "niceformat": "11.05.2023, 23:33",
+            "timestamp": "2023-05-11T21:33:26.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/c3b95c97-0603-4e65-9032-1772e3a5cc05?fit=crop&format=auto&h=267&w=400&s=4187fb0389c4052874ec4c8985e16ebfc9e27cfb",
+            "width": 400
+        },
+        "title": "BT: Wolfe kan bli tidenes største Brann-salg",
+        "url": "https://www.vg.no/sport/fotball/i/dwpQd1/bt-david-moeller-wolfe-kan-bli-tidenes-stoerste-brann-salg"
+    },
+    {
+        "authors": [
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76QoGv",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76QoGv",
+        "preamble": "(Juventus–Sevilla 1–1, Roma–Bayer Leverkusen 1–0) Sevilla hadde Juventus i kne, men på overtid av overtiden utlignet Federico Gatti. José Mourinhos Roma sikret samtidig et godt utgangspunkt på hjemmebane.",
+        "published": {
+            "date": "torsdag 11. mai",
+            "datetime": "2023-05-11 22:58:37",
+            "niceformat": "11.05.2023, 22:58",
+            "timestamp": "2023-05-11T20:58:37.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/XoXZ9YCS4izS.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Overtidsdrama i semifinalen i Europa League: Juventus scoret seks minutter på overtid ",
+        "url": "https://www.vg.no/sport/fotball/i/76QoGv/overtids-drama-i-semifinalen-i-europa-league-juventus-scoret-seks-minutter-paa-overtid"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q1bxbE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q1bxbE",
+        "preamble": "Det har vært rapporter i Sør-Europa om at fotballstjerne Cristiano Ronaldo (38) skal være på kanten med sin kjæreste Georgina Rodriguez (29).",
+        "published": {
+            "date": "torsdag 11. mai",
+            "datetime": "2023-05-11 21:49:25",
+            "niceformat": "11.05.2023, 21:49",
+            "timestamp": "2023-05-11T19:49:25.000Z"
+        },
+        "thumbnail": {
+            "height": 299,
+            "url": "https://akamai.vgc.no/v2/images/baf41aa6-324a-4687-bb89-f488cd906af0?fit=crop&format=auto&h=299&w=400&s=c856963212dd5429657976a9499b0a62f2803654",
+            "width": 400
+        },
+        "title": "Ronaldos mamma ut mot «sladder»: – Bare løgn",
+        "url": "https://www.vg.no/sport/fotball/i/q1bxbE/cristiano-ronaldos-mamma-ut-mot-spansk-og-portugisisk-sladder-bare-loegn"
+    }
+]

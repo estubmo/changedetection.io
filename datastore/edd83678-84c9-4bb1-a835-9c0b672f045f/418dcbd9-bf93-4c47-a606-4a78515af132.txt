@@ -1,0 +1,198 @@
+[
+    {
+        "slug": "tiller-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/onmJL7/tiller-fortsatte-seiersrekken",
+        "title": {
+            "value": "Maridi sikret seieren for Tiller"
+        },
+        "description": "Tiller slo Trønder-Lyn 2-1 og tok sin tredje strake seier",
+        "imageUrl": null,
+        "publishedAt": "2023-07-29T15:22:36Z",
+        "lastModifiedAt": "2023-07-29T16:21:56Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "strindheim-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/GM2zzB/strindheim-fortsatte-seiersrekken",
+        "title": {
+            "value": "Lund ble tomålshelt mot Verdal"
+        },
+        "description": "Fredrik Lund scoret begge målene for Strindheim og ble den store helten i 2-1-seieren over Verdal i 3. divisjon, Avdeling 5 i fotball for menn. Strindheim har tatt poeng i sju kamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-07-29T14:59:20Z",
+        "lastModifiedAt": "2023-07-29T15:21:36Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "fant-stor-pengesum-i-denne-hytta-mistenkelig-moete-satte-politiet-paa-sporet",
+        "url": "/nyheter/trondheim/i/0QJ24J/fant-stor-pengesum-i-denne-hytta-mistenkelig-moete-satte-politiet-paa-sporet",
+        "title": {
+            "value": "Fant nesten 300 000 i en Coop-pose da de gikk gjennom hytta"
+        },
+        "description": "I en bolig på Rosenborg i Trondheim ble det beslaglagt cirka 3,5 kilo amfetamin. Stoffet ble fraktet fra en speiderhytte i Granåsen etter kommunikasjon over et kryptert nett.",
+        "imageUrl": "24dd6ef4-cb7f-4905-9ac4-2d93ac7b1fce",
+        "publishedAt": "2023-07-29T12:44:29Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Pål E. Solberg"
+        ],
+        "tags": [
+            "troendelag-tingrett",
+            "amfetamin",
+            "troendelag-politidistrikt"
+        ]
+    },
+    {
+        "slug": "rbk-sjefen-det-er-ingen-enighet-med-odd",
+        "url": "/sport/fotball/i/wApMjo/rbk-sjefen-det-er-ingen-enighet-med-odd",
+        "title": {
+            "value": "RBK-sjefen: - Det er ingen enighet med Odd"
+        },
+        "description": "Svein Maalen avviser at det er noen enighet mellom Odd og RBK om André Hansen. Han tror ikke keeperen spiller sin siste RBK-kamp søndag.",
+        "imageUrl": "f5ec47d1-ca3f-47ee-886f-ce1d73dae3e4",
+        "publishedAt": "2023-07-29T11:28:29Z",
+        "lastModifiedAt": "2023-07-29T11:55:54Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "svein-maalen",
+            "rosenborg-bk",
+            "andre-hansen"
+        ]
+    },
+    {
+        "slug": "det-saa-ut-som-en-begravelse",
+        "url": "/sport/i/pQEJ41/det-saa-ut-som-en-begravelse",
+        "title": {
+            "value": "Så ut som en begravelse"
+        },
+        "description": "KOMMENTAR: Norge skulle cruise gjennom den kanskje letteste pulja i mesterskapet. Søndag morgen kan alt være over. Alvoret ser ut til å ha sunket inn.",
+        "imageUrl": "ee8c839a-ae82-4dd1-9455-56b4147df1f1",
+        "publishedAt": "2023-07-29T08:41:48Z",
+        "lastModifiedAt": "2023-07-29T13:06:45Z",
+        "premium": true,
+        "authors": [
+            "Birger Løfaldli"
+        ],
+        "tags": [
+            "caroline-graham-hansen",
+            "ada-hegerberg",
+            "hege-riise",
+            "birger-loefaldli"
+        ]
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/JQ2K1R/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag, lørdag 29. juli.",
+        "imageUrl": "0191fc30-184b-420e-80bf-fe1798cd3b0a",
+        "publishedAt": "2023-07-29T04:00:51Z",
+        "lastModifiedAt": "2023-07-29T04:00:51Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "har-forhandlet-med-odd-naa-skal-rbk-vaere-enige-om-overgang",
+        "url": "/sport/fotball/i/LlB8OR/har-forhandlet-med-odd-naa-skal-rbk-vaere-enige-om-overgang",
+        "title": {
+            "value": "Har forhandlet: Nå skal RBK og Odd være enige"
+        },
+        "description": "Rosenborg og Odd skal være enige om en overgang for André Hansen allerede i august.",
+        "imageUrl": "2d388d45-dcc2-466f-9601-ee1a62823a29",
+        "publishedAt": "2023-07-28T21:07:55Z",
+        "lastModifiedAt": "2023-07-28T21:21:54Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "andre-hansen",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "han-kobles-til-klubber-i-fire-land-ikke-bare-opp-til-meg",
+        "url": "/sport/fotball/i/mQnOo0/han-kobles-til-klubber-i-fire-land-ikke-bare-opp-til-meg",
+        "title": {
+            "value": "Han kobles til klubber i fire land: – Ikke bare opp til meg"
+        },
+        "description": "Carlo Holse (24) er for alvor i ferd med å finne tilbake til fjorårsformen. Da kommer også beilerne.",
+        "imageUrl": "b6a4172a-bcd7-48b5-92db-8ab3973647a7",
+        "publishedAt": "2023-07-28T17:34:26Z",
+        "lastModifiedAt": "2023-07-28T17:34:26Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "lech-poznan",
+            "carlo-holse",
+            "odds-bk"
+        ]
+    },
+    {
+        "slug": "marianne-setten-15-bisatt-en-fargeklatt-og-en-gledesspreder",
+        "url": "/nyheter/trondelag/i/zE3vvb/marianne-setten-15-bisatt-en-fargeklatt-og-en-gledesspreder",
+        "title": {
+            "value": "Marianne (15) bisatt: – Det var så mye liv i deg"
+        },
+        "description": "Marianne Setten ble beskrevet som et fantastisk menneske, og som en fargeklatt som var full av liv og glede.",
+        "imageUrl": "cf1b87e8-e5bb-47bc-a330-bac0e81fc421",
+        "publishedAt": "2023-07-28T13:56:32Z",
+        "lastModifiedAt": "2023-07-28T16:22:22Z",
+        "premium": true,
+        "authors": [
+            "Tone Midtgård, Steinkjer24"
+        ],
+        "tags": [
+            "steinkjer",
+            "prest",
+            "sokneprest"
+        ]
+    },
+    {
+        "slug": "en-god-nyhet-for-fotballen-men-et-spark-bak-for-norge",
+        "url": "/sport/i/bgJEak/en-god-nyhet-for-fotballen-men-et-spark-bak-for-norge",
+        "title": {
+            "value": "En god nyhet for fotballen, men et spark bak for Norge"
+        },
+        "description": "KOMMENTAR: Når gruppespillet går inn i sin siste fase, kan vi slå fast: Grepet som ble tatt foran årets fotball-VM, er en suksess.",
+        "imageUrl": "2042b499-88e3-45c3-98d0-1f6c8bc59922",
+        "publishedAt": "2023-07-28T10:20:48Z",
+        "lastModifiedAt": "2023-07-28T10:20:48Z",
+        "premium": true,
+        "authors": [
+            "Birger Løfaldli"
+        ],
+        "tags": [
+            "caroline-graham-hansen",
+            "ada-hegerberg",
+            "birger-loefaldli",
+            "hege-riise"
+        ]
+    }
+]

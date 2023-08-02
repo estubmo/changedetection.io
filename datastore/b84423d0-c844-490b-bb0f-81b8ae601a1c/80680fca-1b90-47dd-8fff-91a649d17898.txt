@@ -1,0 +1,358 @@
+[
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQXze6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQXze6",
+        "preamble": "Den ungarske landslagsspilleren Dominik Szoboszlai (22) kan bli Liverpools neste sommersignering, ifølge The Athletic-journalisten David Ornstein.",
+        "published": {
+            "date": "fredag 30. juni",
+            "datetime": "2023-06-30 11:44:59",
+            "niceformat": "30.06.2023, 11:44",
+            "timestamp": "2023-06-30T09:44:59.000Z"
+        },
+        "thumbnail": {
+            "height": 262,
+            "url": "https://akamai.vgc.no/v2/images/654bfdf7-9694-4ba1-b16e-60cf2646783e?fit=crop&format=auto&h=262&w=400&s=c8b3a6d90b77af1e97204f02dcfb56684166e620",
+            "width": 400
+        },
+        "title": "The Athletic: Liverpool jakter Leipzig-spiller Szoboszlai",
+        "url": "https://www.vg.no/sport/fotball/i/JQXze6/the-athletic-liverpool-jakter-leipzig-spiller-szoboszlai"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "abe6n2",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/abe6n2",
+        "preamble": "Sarpsborg 08 har lyktes i å få kloen på 19 år gamle Arnau Casas fra Barcelonas U19-lag.",
+        "published": {
+            "date": "fredag 30. juni",
+            "datetime": "2023-06-30 11:31:33",
+            "niceformat": "30.06.2023, 11:31",
+            "timestamp": "2023-06-30T09:31:33.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/196e8153-e694-46e9-8b07-fd0e95905d53?fit=crop&format=auto&h=267&w=400&s=5bb7bb2b895c80506548d0bfb2409fc4cdbe3a0a",
+            "width": 400
+        },
+        "title": "Barcelona-spiller Arnau Casas klar for Sarpsborg 08",
+        "url": "https://www.vg.no/sport/fotball/i/abe6n2/barcelona-spiller-arnau-casas-klar-for-sarpsborg-08"
+    },
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69ebgo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69ebgo",
+        "preamble": "PSG-manager Christophe Galtier (56) skal være satt i varetekt for diskriminerende kommentarer fra tiden som Nice-manager, ifølge nyhetsbyrået AFP.",
+        "published": {
+            "date": "fredag 30. juni",
+            "datetime": "2023-06-30 11:10:54",
+            "niceformat": "30.06.2023, 11:10",
+            "timestamp": "2023-06-30T09:10:54.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/56bb2316-5e61-4b9b-828b-1246fa90bb78?fit=crop&format=auto&h=267&w=400&s=f5f1a9b49b8fbb5c831499a778fccd69f27f8909",
+            "width": 400
+        },
+        "title": "AFP: PSG-manager pågrepet for diskriminerende kommentarer",
+        "url": "https://www.vg.no/sport/fotball/i/69ebgo/afp-psg-manager-paagrepet-for-diskrimenerende-kommentarer"
+    },
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69eber",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69eber",
+        "preamble": "Amalie Eikeland er klar for Brann på en to og et halvt års kontrakt",
+        "published": {
+            "date": "fredag 30. juni",
+            "datetime": "2023-06-30 11:01:08",
+            "niceformat": "30.06.2023, 11:01",
+            "timestamp": "2023-06-30T09:01:08.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/c0d94332-46a9-4229-a503-f1ae255c99af?fit=crop&format=auto&h=267&w=400&s=905c8c56f431a911de82b1184e7a3cf001118521",
+            "width": 400
+        },
+        "title": "Landslagsspiller Amalie Eikeland returnerer til Norge – har signert for Brann",
+        "url": "https://www.vg.no/sport/fotball/i/69eber/landslagsspiller-til-brann"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEzmav",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEzmav",
+        "preamble": "Den spanske avisen Marca har publisert sin liste over de 100 beste fotballspillerne i verden. Den topper Erling Braut Haaland.",
+        "published": {
+            "date": "fredag 30. juni",
+            "datetime": "2023-06-30 08:33:54",
+            "niceformat": "30.06.2023, 08:33",
+            "timestamp": "2023-06-30T06:33:54.000Z"
+        },
+        "thumbnail": {
+            "height": 281,
+            "url": "https://akamai.vgc.no/v2/images/9f60a55f-6d11-42ab-98ee-b9bec6d93b02?fit=crop&format=auto&h=281&w=400&s=ec3b8d65d66c5a85fca1ff68495a763f55a80515",
+            "width": 400
+        },
+        "title": "Marca: Haaland best i verden",
+        "url": "https://www.vg.no/sport/fotball/i/zEzmav/marca-haaland-best-i-verden"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwzGGO",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwzGGO",
+        "preamble": "Av Erling Braut Haalands nær 30 millioner følgere på Instagram er nesten seks millioner falske, ifølge et teknologiselskap. Men Martin Ødegaard har større prosentvis andel falske følgere.",
+        "published": {
+            "date": "fredag 30. juni",
+            "datetime": "2023-06-30 03:30:00",
+            "niceformat": "30.06.2023, 03:30",
+            "timestamp": "2023-06-30T01:30:00.000Z"
+        },
+        "thumbnail": {
+            "height": 269,
+            "url": "https://akamai.vgc.no/v2/images/9777d9b6-7b01-4dbb-b532-978397d2862c?fit=crop&format=auto&h=269&w=400&s=6914b0a893266c4602cf67a837a284ec677d315b",
+            "width": 400
+        },
+        "title": "Selskap hevder Haaland har nær seks millioner falske følgere: – En gigantisk industri",
+        "url": "https://www.vg.no/sport/fotball/i/dwzGGO/fotball-selskap-hevder-erling-braut-haaland-har-naer-seks-millioner-falske-foelgere-en-gigantisk-industri"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q1xq2o",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q1xq2o",
+        "preamble": "Joacim Holtan (24) fortsetter i Kongsvinger også de neste par årene. Serielederne i Obos-ligaen benytter seg av opsjonen i låneavtalen med Haugesund.",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 20:32:44",
+            "niceformat": "29.06.2023, 20:32",
+            "timestamp": "2023-06-29T18:32:44.000Z"
+        },
+        "thumbnail": {
+            "height": 295,
+            "url": "https://akamai.vgc.no/v2/images/0dcbfaac-e237-43d3-9240-e9e4d960e21e?fit=crop&format=auto&h=295&w=400&s=e7515816329b534df453801def65e8945abcd0c7",
+            "width": 400
+        },
+        "title": "Kongsvingers toppscorer blir værende – kjøpes fri fra FKH",
+        "url": "https://www.vg.no/sport/fotball/i/q1xq2o/kongsvingers-toppscorer-blir-vaerende-kjoepes-fri-fra-fkh"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPXVE6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPXVE6",
+        "preamble": "Liverpools tidligere storscorer Robbie Fowler (48) er ansatt som hovedtrener i saudiarabiske Al-Qadsiah. Laget holder til på nivå to.",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 19:46:15",
+            "niceformat": "29.06.2023, 19:46",
+            "timestamp": "2023-06-29T17:46:15.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/b5c1274f-05df-47ba-a292-213408fef220?fit=crop&format=auto&h=267&w=400&s=00d8e699891747784771624a417501cd73ed5770",
+            "width": 400
+        },
+        "title": "Fowler tar over klubb i Saudi-Arabia",
+        "url": "https://www.vg.no/sport/fotball/i/VPXVE6/fowler-tar-over-klubb-i-saudi-arabia"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "y6JqqA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/y6JqqA",
+        "preamble": "Kvartfinalene i fotballcupen for menn blir fordelt over to dager. Vålerenga – Brann spilles som senkamp 12. juli.",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 19:44:27",
+            "niceformat": "29.06.2023, 19:44",
+            "timestamp": "2023-06-29T17:44:27.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/9e4df029-fd71-4260-a301-1adb2e0b8e34?fit=crop&format=auto&h=267&w=400&s=556eb169389eba84e03e6de46871cd529c66d361",
+            "width": 400
+        },
+        "title": "Datoene for NM-kvartfinalene er klare – seriekamp utsettes",
+        "url": "https://www.vg.no/sport/fotball/i/y6JqqA/slik-spilles-kvartfinalene-i-nm-i-fotball-for-menn-vaalerenga-brann-kl-20-00-12-juli"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQXay7",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQXay7",
+        "preamble": "Viktor Fischer spilte VM for Danmark. Nå legger 29-åringen overraskende fotballskoene på hylla.",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 18:30:35",
+            "niceformat": "29.06.2023, 18:30",
+            "timestamp": "2023-06-29T16:30:35.000Z"
+        },
+        "thumbnail": {
+            "height": 258,
+            "url": "https://akamai.vgc.no/v2/images/4387effc-10cb-40ff-a1e9-0d75e1329a11?fit=crop&format=auto&h=258&w=400&s=12142519555b0b07f006e3dfc447a89c6815250c",
+            "width": 400
+        },
+        "title": "Fischer spilte VM for Danmark – legger opp",
+        "url": "https://www.vg.no/sport/fotball/i/JQXay7/viktor-fischer-legger-overraskende-opp"
+    }
+]

@@ -1,0 +1,193 @@
+[
+    {
+        "slug": "fikk-fyken-i-ranheim-naa-har-han-faatt-ny-jobb",
+        "url": "/sport/fotball/i/aby8nE/fikk-fyken-i-ranheim-naa-har-han-faatt-ny-jobb",
+        "title": {
+            "value": "Fikk fyken i Ranheim - har fått ny jobb"
+        },
+        "description": "Da det ble klart at Hugo Pereira var ferdig i Ranheim, tok det ikke lang tid før en gammel bekjent var på tråden.",
+        "imageUrl": "02b7cb06-9fe9-4b2c-9246-ea543768a7c4",
+        "publishedAt": "2023-04-26T06:01:34Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "fotball",
+            "hugo-pereira",
+            "espen-olafsen",
+            "norsk-toppfotball-ntf",
+            "norsk-fotball",
+            "ranheim-tf"
+        ]
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/pQ4lO6/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag, onsdag 26. april.",
+        "imageUrl": "a43b4f3c-33ef-4eea-8f09-7044f719dd01",
+        "publishedAt": "2023-04-26T04:00:54Z",
+        "lastModifiedAt": "2023-04-26T04:00:54Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "ntnui-3-tapte-mot-sokna",
+        "url": "/lokalfotballen/i/Llem6P/ntnui-3-tapte-mot-sokna",
+        "title": {
+            "value": "NTNUI 3 ble slått av Sokna"
+        },
+        "description": "Etter dagens 3-0-seier står Sokna uten poengtap så langt denne sesongen. I 4. divisjon, Trøndelag - Avdeling 3 i fotball for kvinner. Eline Bones scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-25T22:46:21Z",
+        "lastModifiedAt": "2023-04-25T23:07:21Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-gauldalsposten",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "gauldal-reddet-uavgjort",
+        "url": "/lokalfotballen/i/O8emkl/gauldal-reddet-uavgjort",
+        "title": {
+            "value": "Gauldal sikret uavgjort"
+        },
+        "description": "Melhus 3/Gimse 3 var på vei mot seier, men måtte nøye seg med 2-2 mot Gauldal",
+        "imageUrl": null,
+        "publishedAt": "2023-04-25T21:59:04Z",
+        "lastModifiedAt": "2023-04-25T22:07:38Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "dobbel-fra-jonas-nikolai-nilsen-kolnes-for-malvik-2-hommelvik-2",
+        "url": "/lokalfotballen/i/kEyeEX/dobbel-fra-jonas-nikolai-nilsen-kolnes-for-malvik-2-hommelvik-2",
+        "title": {
+            "value": "Jonas Nikolai Nilsen Kolnes-dobbel sikret seier"
+        },
+        "description": "Ranheim 2 mistet 2-0-ledelsen og tapte 3-2 mot Malvik 2/Hommelvik 2 i G14 2. divisjon, Avdeling 3 - Vår tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-25T21:21:48Z",
+        "lastModifiedAt": "2023-04-25T21:59:03Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "ntnui-2-ble-slaatt-av-orkla",
+        "url": "/lokalfotballen/i/3EXo4v/ntnui-2-ble-slaatt-av-orkla",
+        "title": {
+            "value": "Tredje strake seier for Orkla"
+        },
+        "description": "Orkla knuste NTNUI 2 4-1 i 4. divisjon, Trøndelag - Avdeling 2 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-25T21:13:49Z",
+        "lastModifiedAt": "2023-04-25T23:07:23Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "ranheim-2-tok-sin-tredje-strake-seier",
+        "url": "/lokalfotballen/i/gEyrq0/ranheim-2-tok-sin-tredje-strake-seier",
+        "title": {
+            "value": "Ranheim 2 vant igjen"
+        },
+        "description": "Ranheim 2 kan juble for full pott så langt i år, etter å ha slått Rissa/Stadsbygd/Vanvik 4-2.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-25T19:03:29Z",
+        "lastModifiedAt": "2023-04-25T23:07:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "aafjord-seiret-over-tiller-2",
+        "url": "/lokalfotballen/i/15XxAe/aafjord-seiret-over-tiller-2",
+        "title": {
+            "value": "Hjemmeseier for Åfjord over Tiller 2"
+        },
+        "description": "Med dagens 3-1-seier over Tiller 2 tok Åfjord sin første trepoenger i årets sesong. I G13 2. divisjon, Avdeling 4 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-25T18:32:19Z",
+        "lastModifiedAt": "2023-04-25T18:54:33Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "han-er-soenn-av-steffen-og-barnebarn-av-odd-naa-har-joey-flyttet-til-trondheim",
+        "url": "/sport/fotball/i/abyPRO/han-er-soenn-av-steffen-og-barnebarn-av-odd-naa-har-joey-flyttet-til-trondheim",
+        "title": {
+            "value": "Han er sønn av Steffen og barnebarn av Odd. Nå har Joey flyttet til Trondheim"
+        },
+        "description": "Joey Iversen tok en pause fra fotballen i England. I Trondheim har «bittelitj-Ivers» funnet tilbake til lidenskapen.",
+        "imageUrl": "001c8e34-cc2e-45fe-be36-ca1ff6fd9f5c",
+        "publishedAt": "2023-04-25T17:44:12Z",
+        "lastModifiedAt": "2023-04-25T17:46:32Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "breddefotbaill",
+            "lokalfotballen"
+        ]
+    },
+    {
+        "slug": "det-er-stor-forskjell-mener-den-tidligere-rbk-profilen-slik-svarer-rekdal",
+        "url": "/sport/fotball/i/vez9x5/det-er-stor-forskjell-mener-den-tidligere-rbk-profilen-slik-svarer-rekdal",
+        "title": {
+            "value": "Det er stor forskjell, mener den tidligere RBK-profilen. Slik svarer Rekdal"
+        },
+        "description": "– Det var en litt annen type fotball i Norge, som gjorde at man ikke fikk den spillegleden, sier Stefano Vecchia.",
+        "imageUrl": "751d65c3-3325-48d6-b745-1fd4fe6efdd3",
+        "publishedAt": "2023-04-25T17:20:37Z",
+        "lastModifiedAt": "2023-04-25T17:20:37Z",
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    }
+]

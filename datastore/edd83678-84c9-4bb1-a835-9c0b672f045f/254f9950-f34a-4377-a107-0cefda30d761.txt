@@ -1,0 +1,194 @@
+[
+    {
+        "slug": "ranheim-viste-muskler",
+        "url": "/lokalfotballen/i/abk2dd/ranheim-viste-muskler",
+        "title": {
+            "value": "Målshow fra Ranheim"
+        },
+        "description": "Matilde Bentzen Hammer scoret tre ganger og hjalp Ranheim til 5-1-seier over Remyra/Fram i J14 1. divisjon, Avdeling 1 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T13:26:05Z",
+        "lastModifiedAt": "2023-06-03T13:27:07Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "kasper-dybvad-ble-helten-for-laanke",
+        "url": "/lokalfotballen/i/BWnJ4e/kasper-dybvad-ble-helten-for-laanke",
+        "title": {
+            "value": "Kasper Dybvad ble helten for Lånke"
+        },
+        "description": "Kasper Dybvad scoret det eneste målet da Lånke slo Ranheim 2 1-0 i G16 1. divisjon, Avdeling 1 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T13:19:42Z",
+        "lastModifiedAt": "2023-06-03T13:26:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "rbk-vil-savne-henne-herjet-i-innhoppet-paa-lerkendal",
+        "url": "/sport/i/onPR37/rbk-vil-savne-henne-herjet-i-innhoppet-paa-lerkendal",
+        "title": {
+            "value": "RBK vil savne henne: Herjet i innhoppet på Lerkendal"
+        },
+        "description": "Synne Skinnes Hansen var med på å sette fart i Rosenborg-laget etter pause. 27-åringen scorer «alltid» på Lerkendal.",
+        "imageUrl": "78b04ab9-ab09-44f0-86bd-4fbe59d51870",
+        "publishedAt": "2023-06-03T13:00:53Z",
+        "lastModifiedAt": "2023-06-03T13:12:18Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "rosenborg-kvinner"
+        ]
+    },
+    {
+        "slug": "to-magiske-minutter-soerget-for-rbk-jubel",
+        "url": "/sport/fotball/i/l3L1Ke/to-magiske-minutter-soerget-for-rbk-jubel",
+        "title": {
+            "value": "To magiske minutter sørget for RBK-jubel"
+        },
+        "description": "Selv om tilskuertallet var halvvert fra fjorårets festkamp, ble det trønderfest på Lerkendal",
+        "imageUrl": "efb81a72-4c5e-40f3-b6e9-5d2d63cd3c89",
+        "publishedAt": "2023-06-03T12:52:45Z",
+        "lastModifiedAt": "2023-06-03T13:34:26Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand",
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "toppserien"
+        ]
+    },
+    {
+        "slug": "rbk-stenger-treninga-skjoenner-noen-reagerer",
+        "url": "/sport/fotball/i/Knkvb5/rbk-stenger-treninga-skjoenner-noen-reagerer",
+        "title": {
+            "value": "RBK stenger treninga: – Skjønner noen reagerer"
+        },
+        "description": "Kjetil Rekdal sier det er flere årsaker til valget. Han erkjenner at de trenger en pust i bakken før den «ekstremt viktige kampen».",
+        "imageUrl": "55a1d377-71ae-4ae7-b261-975bac43ec10",
+        "publishedAt": "2023-06-03T12:31:31Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "kjetil-rekdal"
+        ]
+    },
+    {
+        "slug": "ranheim-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/kE1aQB/ranheim-fortsatte-seiersrekken",
+        "title": {
+            "value": "Ranheim fortsatte seiersrekken"
+        },
+        "description": "Ranheim tok sin tredje strake seier da Strindheim 2 ble slått 5-1 i G14 1. divisjon, Avdeling 2 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T11:36:45Z",
+        "lastModifiedAt": "2023-06-03T11:52:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "scoringslykke-for-edvard-leidland-stokke",
+        "url": "/lokalfotballen/i/4oGdmR/scoringslykke-for-edvard-leidland-stokke",
+        "title": {
+            "value": "Tomålslykke i Trygg / Lade-seier"
+        },
+        "description": "Edvard Leidland Stokke scoret to av målene da Trygg/Lade vant 5-1 over Vestbyen 2/Nationalkameratene 2 i G14 2. divisjon, Avdeling 3 - Vår lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-03T11:33:41Z",
+        "lastModifiedAt": "2023-06-03T11:52:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "i-fjor-loep-de-bare-en-troendersk-mil-det-ble-ikke-noe-kluss-i-aar",
+        "url": "/nyheter/trondheim/i/9z0mvM/i-fjor-loep-de-bare-en-troendersk-mil-det-ble-ikke-noe-kluss-i-aar",
+        "title": {
+            "value": "«Fysiopappa» (34) vant:  – Det er jo ikke hverdagskost"
+        },
+        "description": "«Fysiopappa» (34) stakk av med seieren. Arrangøren er strålende fornøyd med at de unngikk teknisk svikt i år.",
+        "imageUrl": "16772d36-cf30-4491-89cf-8c1c39185a16",
+        "publishedAt": "2023-06-03T11:19:00Z",
+        "lastModifiedAt": "2023-06-03T11:43:09Z",
+        "premium": true,
+        "authors": [
+            "Berit Baumberger"
+        ],
+        "tags": [
+            "strindheim-il",
+            "skansen",
+            "rekord",
+            "nidaros",
+            "loep"
+        ]
+    },
+    {
+        "slug": "foelg-rbk-brann-direkte-her",
+        "url": "/sport/fotball/i/APk4xq/foelg-rbk-brann-direkte-her",
+        "title": {
+            "value": "- Denne kampen tok virkelig fyr "
+        },
+        "description": "Rosenborg kvinner tok imot Brann på Lerkendal, og måtte vinne for å holde liv i målet om seriegull. Les under hvordan det gikk.",
+        "imageUrl": "91fde421-641b-4b33-b47c-8df1b05c3606",
+        "publishedAt": "2023-06-03T10:30:00Z",
+        "lastModifiedAt": "2023-06-03T12:53:53Z",
+        "premium": false,
+        "authors": [
+            "Yngve Bergli"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "den-klart-toeffeste-perioden-jeg-har-vaert-med-paa",
+        "url": "/sport/fotball/i/XbJxKo/den-klart-toeffeste-perioden-jeg-har-vaert-med-paa",
+        "title": {
+            "value": "- Det er vanskelig å sette ord på"
+        },
+        "description": "Rosenborg-profilene Carlo Holse og Erlend Dahl Reitan har aldri vært lenger ned i sine karrierer.",
+        "imageUrl": "25a35ce0-30cc-42bc-9f54-1649543961d3",
+        "publishedAt": "2023-06-03T09:14:00Z",
+        "lastModifiedAt": "2023-06-03T10:14:48Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "carlo-holse",
+            "erlend-dahl-reitan"
+        ]
+    }
+]

@@ -1,0 +1,191 @@
+[
+    {
+        "slug": "her-tilbrakte-rbk-stjernen-hele-barndommen-20-aar-etter-er-han-tilbake",
+        "url": "/sport/fotball/i/15wq4W/her-tilbrakte-rbk-stjernen-hele-barndommen-20-aar-etter-er-han-tilbake",
+        "title": {
+            "value": "Her tilbrakte RBK-stjernen hele barndommen. 20 år etter er han tilbake"
+        },
+        "description": "Han er blitt 35 år, er RBK-helt og har vært proff i bundesliga. Men all erfaring til tross: Per Ciljan Skjelbred er krystallklar før møtet med 4. divisjonsgutta i Trygg/Lade.",
+        "imageUrl": "86e616fc-4efc-46fc-8fed-94b53c0aaa02",
+        "publishedAt": "2023-05-24T06:28:55Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "per-ciljan-skjelbred"
+        ]
+    },
+    {
+        "slug": "charlottenlund-2-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/VPkGa3/charlottenlund-2-fortsatte-seiersrekken",
+        "title": {
+            "value": "Charlottenlund 2 fortsatte seiersrekken"
+        },
+        "description": "Malin Låte avgjorde med sin 3-2-scoring for Charlottenlund 2 mot NTNUI 2 på CSK Varmbo Arena i 4. divisjon, Trøndelag - Avdeling 2 tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-23T21:27:30Z",
+        "lastModifiedAt": "2023-05-23T23:28:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "fagerbaek-scoret-hattrick-for-sokna",
+        "url": "/lokalfotballen/i/eJmdOK/fagerbaek-scoret-hattrick-for-sokna",
+        "title": {
+            "value": "Fagerbæk scoret hattrick for Sokna"
+        },
+        "description": "Elise Sommervold Fagerbæk ledet an med tre mål i 8-0-seieren over Budal i 4. divisjon, Trøndelag - Avdeling 3 i fotball for kvinner tirsdag. Budal har ikke tatt ett eneste poeng denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-23T20:46:07Z",
+        "lastModifiedAt": "2023-05-23T21:01:52Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-gauldalsposten",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "tomaalslykke-da-utleira-vant",
+        "url": "/lokalfotballen/i/5BMjLE/tomaalslykke-da-utleira-vant",
+        "title": {
+            "value": "To fulltreffere fra Hedda Sæbø"
+        },
+        "description": "Utleira lå under 1-2, men snudde til 3-2-seier over Ranheim i J15 2. divisjon, Avdeling 4 - Vår tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-23T20:19:42Z",
+        "lastModifiedAt": "2023-05-23T20:38:36Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ranheim-2-vartet-opp-med-maalfest",
+        "url": "/lokalfotballen/i/eJmdaQ/ranheim-2-vartet-opp-med-maalfest",
+        "title": {
+            "value": "Pernille Helmersen bøttet inn mål for Ranheim 2"
+        },
+        "description": "Strindheim 2 gikk på sitt første nederlag for sesongen etter dagens 0-8-tap mot Ranheim 2. i J17 2. divisjon, Avdeling 1 - Vår tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-23T20:15:20Z",
+        "lastModifiedAt": "2023-05-23T20:38:36Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "olsson-scoret-hattrick-mot-trond",
+        "url": "/lokalfotballen/i/MoWj6J/olsson-scoret-hattrick-mot-trond",
+        "title": {
+            "value": "Målshow fra Ranheim 2"
+        },
+        "description": "Mie Olsson scoret tre ganger og hjalp Ranheim 2 til 11-1-seier over Trond i 4. divisjon, Trøndelag - Avdeling 2 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-23T20:14:17Z",
+        "lastModifiedAt": "2023-05-23T20:37:31Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "advarer-rbk-stopperne-de-boer-ha-oeyne-i-nakken",
+        "url": "/sport/fotball/i/4ovEKq/advarer-rbk-stopperne-de-boer-ha-oeyne-i-nakken",
+        "title": {
+            "value": "Tror på cupbombe mot RBK: - En kamp vi kan ha litt føring i"
+        },
+        "description": "Han strutter av selvtillit, Trygg/Lades toppscorer, og kommer samtidig med en liten advarsel.",
+        "imageUrl": "8540b4aa-8070-4ab4-90ac-2774c0fc6f6f",
+        "publishedAt": "2023-05-23T19:04:51Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "breddefotbaill",
+            "cupen"
+        ]
+    },
+    {
+        "slug": "ranheim-2-kunne-juble-etter-toppoppgjoeret",
+        "url": "/lokalfotballen/i/XbJ5xW/ranheim-2-kunne-juble-etter-toppoppgjoeret",
+        "title": {
+            "value": "Ranheim 2 kunne juble etter toppoppgjøret"
+        },
+        "description": "Heimdal 2 ga fra seg poeng for første gang på fire kamper da Ranheim 2 vant 2-1",
+        "imageUrl": null,
+        "publishedAt": "2023-05-23T18:40:53Z",
+        "lastModifiedAt": "2023-05-23T19:01:36Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "orkla-2-seiret-i-maalfest",
+        "url": "/lokalfotballen/i/rlXnw3/orkla-2-seiret-i-maalfest",
+        "title": {
+            "value": "Jacob Samskott Storseth-dobbel for Orkla 2"
+        },
+        "description": "Jacob Samskott Storseth scoret to av målene da Orkla 2 vant 6-2 over Frøya IL i G16 3. divisjon, Avdeling 2 - Vår tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-23T18:14:31Z",
+        "lastModifiedAt": "2023-05-23T18:33:21Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    },
+    {
+        "slug": "uavgjort-mellom-inderoey-og-ranheim-2",
+        "url": "/lokalfotballen/i/XbJ5ym/uavgjort-mellom-inderoey-og-ranheim-2",
+        "title": {
+            "value": "Ranheim 2 ordnet poeng"
+        },
+        "description": "Inderøy og Ranheim 2 delte poengene på Inderøy Idrettspark Det brøt seiersrekken til Ranheim 2, som ikke hadde gitt fra seg poeng på fem kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-23T18:10:20Z",
+        "lastModifiedAt": "2023-05-23T18:33:20Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    }
+]

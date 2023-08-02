@@ -1,0 +1,203 @@
+[
+    {
+        "slug": "freidig-2-reddet-uavgjort",
+        "url": "/lokalfotballen/i/q1X4Go/freidig-2-reddet-uavgjort",
+        "title": {
+            "value": "Freidig 2 ordnet uavgjort"
+        },
+        "description": "Strindheim 3 har spilt uavgjort i tre kamper på rad etter dagens 3-3 kamp",
+        "imageUrl": null,
+        "publishedAt": "2023-05-30T18:17:22Z",
+        "lastModifiedAt": "2023-05-30T18:35:18Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "nyoperert-holse-gikk-rett-i-elleveren-oensker-aa-bli-vaerende-i-klubben",
+        "url": "/sport/fotball/i/onBbRV/nyoperert-holse-gikk-rett-i-elleveren-oensker-aa-bli-vaerende-i-klubben",
+        "title": {
+            "value": "Ønsker å bli i RBK"
+        },
+        "description": "Fire uker etter hasteoperasjonen er RBKs assistkonge tilbake på banen.",
+        "imageUrl": "6f625eeb-7953-462b-8b65-bd27e2051f01",
+        "publishedAt": "2023-05-30T16:56:24Z",
+        "lastModifiedAt": "2023-05-30T16:58:11Z",
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "fotball",
+            "sport",
+            "kjetil-rekdal",
+            "carlo-holse",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "ranheim-viste-muskler",
+        "url": "/lokalfotballen/i/abLnQE/ranheim-viste-muskler",
+        "title": {
+            "value": "Målshow fra Karla Sandsør"
+        },
+        "description": "Karla Sandsør ledet an med fire av målene i 14-1-seieren over Tiller i J14 1. divisjon, Avdeling 1 - Vår tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-30T16:30:32Z",
+        "lastModifiedAt": "2023-05-30T17:00:50Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "poengdeling-mellom-kristiansund-2-og-rosenborg-2",
+        "url": "/lokalfotballen/i/xgX0WB/poengdeling-mellom-kristiansund-2-og-rosenborg-2",
+        "title": {
+            "value": "Kristiansund 2 måtte dele poengene"
+        },
+        "description": "Awet Ermias Alemseged reddet poeng for Kristiansund 2 med en sen utligning i 2-2-kampen mot Rosenborg 2 i 3. divisjon, Avdeling 5 i fotball for menn tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-30T15:58:19Z",
+        "lastModifiedAt": "2023-05-30T17:30:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "rbk-sjefen-kjenner-paa-presset-naa-maa-vi-staa-i-krigen",
+        "url": "/sport/fotball/i/EQ5ePj/rbk-sjefen-kjenner-paa-presset-naa-maa-vi-staa-i-krigen",
+        "title": {
+            "value": "RBK-sjefen kjenner på presset: - Nå må vi stå i krigen"
+        },
+        "description": "Leder for sport i RBK, Roar Vikvang, gjester Rasmus&Saga.",
+        "imageUrl": "f463e5fa-8871-4283-ae77-50feddbeeb9f",
+        "publishedAt": "2023-05-30T15:39:11Z",
+        "lastModifiedAt": "2023-05-30T15:56:48Z",
+        "premium": false,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rasmus-saga"
+        ]
+    },
+    {
+        "slug": "det-er-vondt",
+        "url": "/meninger/i/GMKRXV/det-er-vondt",
+        "title": {
+            "value": "Det er flere problemer i RBK enn treneren"
+        },
+        "description": null,
+        "imageUrl": "de88d9d4-ce14-44a6-8524-6739558c938d",
+        "publishedAt": "2023-05-30T14:19:09Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Johannes Valen"
+        ],
+        "tags": [
+            "fotball",
+            "rosenborg-bk",
+            "kjetil-rekdal",
+            "eliteserien",
+            "midtnorsk-debatt",
+            "debatt"
+        ]
+    },
+    {
+        "slug": "kjernen-har-krevd-rekdals-avgang-dette-mener-ekspertene",
+        "url": "/sport/fotball/i/RG80G5/kjernen-har-krevd-rekdals-avgang-dette-mener-ekspertene",
+        "title": {
+            "value": "  - Rekdal og Frigård  burde aldri vært ansatt"
+        },
+        "description": "Flere fotballeksperter spår at Kjetil Rekdals framtid i Rosenborg avgjøres på de neste kampene.",
+        "imageUrl": "74d4eccb-fb1a-4398-8ffd-8f0968c34153",
+        "publishedAt": "2023-05-30T11:31:00Z",
+        "lastModifiedAt": "2023-05-30T11:31:00Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold",
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "jonas-groenner",
+            "fotball",
+            "kjetil-rekdal",
+            "kjernen"
+        ]
+    },
+    {
+        "slug": "kolstad-henter-ny-hoeyrekant",
+        "url": "/sport/i/veX2Op/kolstad-henter-ny-hoeyrekant",
+        "title": {
+            "value": "Går til Kolstad: – Jeg ble veldig glad for den telefonsamtalen"
+        },
+        "description": "Erlend Johnsen, tidligere Charlottenlund-spiller, er klar for Kolstad.",
+        "imageUrl": "1d39bba4-b1bf-427f-8b44-194e91d7ddd2",
+        "publishedAt": "2023-05-30T11:00:04Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "haandball",
+            "kolstad-haandball"
+        ]
+    },
+    {
+        "slug": "hvor-ble-det-av-den-bunnloese-tilliten",
+        "url": "/sport/i/XbJ7LB/hvor-ble-det-av-den-bunnloese-tilliten",
+        "title": {
+            "value": "Er det dette styret også ser?"
+        },
+        "description": "KOMMENTAR: Forventningene er fortsatt lave, men trykket er massivt. Det ser ut til å prege hele Rosenborg-organisasjonen.",
+        "imageUrl": "ee34d43c-2dce-44e6-8521-7e20905acb5b",
+        "publishedAt": "2023-05-30T06:53:45Z",
+        "lastModifiedAt": "2023-05-30T08:43:21Z",
+        "premium": true,
+        "authors": [
+            "Birger Løfaldli"
+        ],
+        "tags": [
+            "cecilie-gotaas-johnsen",
+            "kjetil-rekdal",
+            "geir-frigaard",
+            "markus-henriksen",
+            "birger-loefaldli"
+        ]
+    },
+    {
+        "slug": "ingason-jeg-scorer-alltid-fra-straffemerket",
+        "url": "/sport/fotball/i/wAXjmL/ingason-jeg-scorer-alltid-fra-straffemerket",
+        "title": {
+            "value": "Ingason: - Jeg scorer alltid fra straffemerket"
+        },
+        "description": "Det endte til slutt med mål for Rosenborg. Men dramatikk ble det. Og en uendret selvtillit.",
+        "imageUrl": "dc6d2d15-f99d-40ba-b003-3c56d36f0811",
+        "publishedAt": "2023-05-30T06:01:23Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "fotball",
+            "sport",
+            "rosenborg-bk",
+            "kjetil-rekdal"
+        ]
+    }
+]

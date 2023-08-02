@@ -1,0 +1,404 @@
+[
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76o08w",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76o08w",
+        "preamble": "ULLEVAAL STADION (VG) Fotballpresident Lise Klaveness gir full støtte til Ståle Solbakken. Selv ønsker ikke landslagssjefen å vurdere jobben han har gjort. ",
+        "published": {
+            "date": "søndag 18. juni",
+            "datetime": "2023-06-18 17:44:16",
+            "niceformat": "18.06.2023, 17:44",
+            "timestamp": "2023-06-18T15:44:16.000Z"
+        },
+        "thumbnail": {
+            "height": 264,
+            "url": "https://akamai.vgc.no/v2/images/b555b742-a051-43b6-89ad-8fabfcad5400?fit=crop&format=auto&h=264&w=400&s=ff5109799d54fceff02e447774b27bcd668d36af",
+            "width": 400
+        },
+        "title": "Klaveness med full støtte til Solbakken: – Overhodet ikke i tvil ",
+        "url": "https://www.vg.no/sport/fotball/i/76o08w/klaveness-med-full-stoette-til-solbakken-overhodet-ikke-i-tvil"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEzGqK",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEzGqK",
+        "preamble": "(Brann – Avaldsnes 3–0, Lyn – Rosenborg 2–0) John Arne Riise mente Avaldsnes fikk kampen ødelagt etter at Brann fikk en omdiskutert straffe. Midt i kampen skjelte han ut dommeren.",
+        "published": {
+            "date": "søndag 18. juni",
+            "datetime": "2023-06-18 16:57:46",
+            "niceformat": "18.06.2023, 16:57",
+            "timestamp": "2023-06-18T14:57:46.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/1176d0b3-6fe5-4bd9-aceb-ee643df08d96?fit=crop&format=auto&h=267&w=400&s=58a362098ed65022d5110b5ebfc466a37b4edc69",
+            "width": 400
+        },
+        "title": "Ny dommerkritikk fra Riise – Lyn sjokkerte Rosenborg",
+        "url": "https://www.vg.no/sport/fotball/i/zEzGqK/ny-riise-kritikk-mot-dommere-jeg-bare-ler"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BWeRBw",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BWeRBw",
+        "preamble": "Norges nye U21-landslag ledet lenge etter et mål fra Bryan Fiabema, men en straffe ga Skottland 1–1.",
+        "published": {
+            "date": "søndag 18. juni",
+            "datetime": "2023-06-18 14:12:33",
+            "niceformat": "18.06.2023, 14:12",
+            "timestamp": "2023-06-18T12:12:33.000Z"
+        },
+        "thumbnail": {
+            "height": 295,
+            "url": "https://akamai.vgc.no/v2/images/38a5efbe-9904-4416-98fb-03aaa1afdaff?fit=crop&format=auto&h=295&w=400&s=c47733a83167e43d08c67eaba75774a71101fed1",
+            "width": 400
+        },
+        "title": "Fiabema scoret for U21-landslaget – ny uavgjort mot Skottland",
+        "url": "https://www.vg.no/sport/fotball/i/BWeRBw/fiabema-scoret-for-u21-landslaget-ny-uavgjort-mot-skottland"
+    },
+    {
+        "authors": [
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJR8ya",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJR8ya",
+        "preamble": "ULLEVAAL STADION (VG) Erling Braut Haaland (22) vet ikke hvorfor Norge raknet i sluttminuttene mot Skottland. Kaptein Martin Ødegaard (24) sier det blir dumt å lete etter unnskyldninger. ",
+        "published": {
+            "date": "søndag 18. juni",
+            "datetime": "2023-06-18 12:16:52",
+            "niceformat": "18.06.2023, 12:16",
+            "timestamp": "2023-06-18T10:16:52.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/8uP3OA0hIG9u.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Haaland etter kollapsen mot Skottland: – Det er selvfølgelig tungt ",
+        "url": "https://www.vg.no/sport/fotball/i/eJR8ya/haaland-etter-nedturen-det-er-selvfoelgelig-tungt"
+    },
+    {
+        "authors": [
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "APBdLn",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/APBdLn",
+        "preamble": "ULLEVAAL STADION (VG) Per Joar Hansen trodde knapt egne øyne da Norge raknet mot Skottland. Jesper Mathisen sier det ikke blir mer typisk Norge. Dagen derpå innrømmer landslagssjef Ståle Solbakken feil fra sidelinjen.",
+        "published": {
+            "date": "søndag 18. juni",
+            "datetime": "2023-06-18 11:22:03",
+            "niceformat": "18.06.2023, 11:22",
+            "timestamp": "2023-06-18T09:22:03.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/80581cb6-5eea-4892-bfdb-636eddcde5e0?fit=crop&format=auto&h=267&w=400&s=0cc6a533cd34c54b764fa3e2641eebed21f73c5a",
+            "width": 400
+        },
+        "title": "Forbauset etter Norges kollaps: – En gedigen nedtur og skuffelse",
+        "url": "https://www.vg.no/sport/fotball/i/APBdLn/forbauset-etter-den-norske-kollapsen-en-gedigen-nedtur-og-skuffelse"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "15enkl",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/15enkl",
+        "preamble": "Du tenker kanskje at det norske EM-håpet er ute? Nei da, langt ifra. Sannsynligheten er stor for at Norge er to enkeltkamper unna EM i 2024.",
+        "published": {
+            "date": "søndag 18. juni",
+            "datetime": "2023-06-18 11:12:42",
+            "niceformat": "18.06.2023, 11:12",
+            "timestamp": "2023-06-18T09:12:42.000Z"
+        },
+        "thumbnail": {
+            "height": 303,
+            "url": "https://akamai.vgc.no/v2/images/4bb0a3b3-d624-46f3-8731-7475af7db0d1?fit=crop&format=auto&h=303&w=400&s=cc4ec028ae4a6511d82432cec524f495e6d505e5",
+            "width": 400
+        },
+        "title": "Nations League kan være redningen for Norge til EM i 2024 ",
+        "url": "https://www.vg.no/sport/fotball/i/15enkl/nations-league-slik-kan-norge-kvalifisere-seg-til-em-i-2024-via-playoff"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            },
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JVw7W",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JVw7W",
+        "preamble": "ULLEVAAL STADION (VG) (Norge-Skottland 1–2) Ståle Solbakken sier Erling Braut Haaland var helt tom for krefter og ba om å bli byttet ut etter rundt 75 minutter. Han tror ikke oppladningen med feiring av Champions League-tittelen var avgjørende. ",
+        "published": {
+            "date": "søndag 18. juni",
+            "datetime": "2023-06-18 08:51:11",
+            "niceformat": "18.06.2023, 08:51",
+            "timestamp": "2023-06-18T06:51:11.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/cb516f13-4ea3-4202-9678-6bb0e7056b9c?fit=crop&format=auto&h=267&w=400&s=b2a1f84bcec6766c11660c29fa4cce3d7b869a9f",
+            "width": 400
+        },
+        "title": "Mener feiringen ikke påvirket utslitt Haaland: – Søkt ",
+        "url": "https://www.vg.no/sport/fotball/i/8JVw7W/fotball-staale-solbakken-mener-ikke-manchester-city-feiringen-paavirket-erling-braut-haaland-til-skottland-kampen"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4oldQq",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4oldQq",
+        "preamble": "Han røk på et av sine verste tap som trener. Trykket øker på Ståle Solbakken etter ett av ni mulige poeng. Norge har ikke startet en kvalik verre siden 1986.",
+        "published": {
+            "date": "søndag 18. juni",
+            "datetime": "2023-06-18 00:33:33",
+            "niceformat": "18.06.2023, 00:33",
+            "timestamp": "2023-06-17T22:33:33.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/fcbcacf9-802f-4c2e-9d41-edf0f5d0a75f?fit=crop&format=auto&h=267&w=400&s=30e867f57a1d689f84e54ab8b13d4110debd59f7",
+            "width": 400
+        },
+        "title": "Verste kvalikstart på 37 år: – Null mennesker er fredet",
+        "url": "https://www.vg.no/sport/fotball/i/4oldQq/verste-kvalikstart-paa-37-aar-null-mennesker-er-fredet"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "andreas.hellenes@schibsted.com",
+                "id": "424642b6-03fe-42cd-abe2-5f7517e8a8e1",
+                "name": "Andreas Hellenes"
+            },
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3a1ae",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3a1ae",
+        "preamble": "ULLEVAAL STADION (VG) Hundrevis av barn ropte «Haaland, Haaland», men måtte skuffet innse at Norges største stjerne nøyde seg med å vinke. Da bussen lukket dørene og forsvant, ble det hørt buing fra de fremmøtte barna.",
+        "published": {
+            "date": "lørdag 17. juni",
+            "datetime": "2023-06-17 22:55:53",
+            "niceformat": "17.06.2023, 22:55",
+            "timestamp": "2023-06-17T20:55:53.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/CHCJOc5YmjYZ.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Haaland stakk: Droppet å svare på spørsmål og gikk rett i bussen",
+        "url": "https://www.vg.no/sport/fotball/i/l3a1ae/haaland-stakk-droppet-aa-svare-paa-spoersmaal-og-gikk-rett-i-bussen"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kExaGB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kExaGB",
+        "preamble": "(Island – Slovakia 1–2) Det ble ingen pangstart på Åge Hareides jobb som islandsk landslagssjef i fotball. Han måtte tåle tap for Slovakia hjemme i Reykjavik.",
+        "published": {
+            "date": "lørdag 17. juni",
+            "datetime": "2023-06-17 22:41:25",
+            "niceformat": "17.06.2023, 22:41",
+            "timestamp": "2023-06-17T20:41:25.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/b04f1102-4371-4ea1-8b74-cef54bb44431?fit=crop&format=auto&h=266&w=400&s=10e85d5b2f4738b3060aec379fcc0432500a9d79",
+            "width": 400
+        },
+        "title": "Åge Hareide tapte i Island-debuten",
+        "url": "https://www.vg.no/sport/fotball/i/kExaGB/aage-hareide-tapte-i-island-debuten"
+    }
+]

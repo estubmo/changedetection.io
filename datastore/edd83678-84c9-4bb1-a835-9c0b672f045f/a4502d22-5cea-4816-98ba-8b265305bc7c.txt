@@ -1,0 +1,197 @@
+[
+    {
+        "slug": "tredje-strake-seier-for-ranheim",
+        "url": "/lokalfotballen/i/O8qn4V/tredje-strake-seier-for-ranheim",
+        "title": {
+            "value": "Tredje strake seier for Ranheim"
+        },
+        "description": "Ranheim slo Røros 14-0 og sikret dermed alle poengene i G14 1. divisjon, Avdeling 2 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-04T17:38:10Z",
+        "lastModifiedAt": "2023-05-04T17:38:10Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "kjaeresten-spiller-for-laget-rbk-spissen-hater",
+        "url": "/sport/fotball/i/nQbgPJ/kjaeresten-spiller-for-laget-rbk-spissen-hater",
+        "title": {
+            "value": "Kjæresten spiller for laget RBK-spissen «hater»"
+        },
+        "description": "Oscar Aga gjester Rasmus&Saga.",
+        "imageUrl": "efd03d1a-cf6f-4db4-bb70-82f544c036f4",
+        "publishedAt": "2023-05-04T16:39:59Z",
+        "lastModifiedAt": "2023-05-04T16:39:59Z",
+        "premium": false,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rasmus-saga"
+        ]
+    },
+    {
+        "slug": "siste-fra-breddefotballen",
+        "url": "/sport/fotball/i/GMjXaq/siste-fra-breddefotballen",
+        "title": {
+            "value": "Signerer for å spille én kamp"
+        },
+        "description": null,
+        "imageUrl": "f21ae75e-94dc-4036-932a-f98205cedd53",
+        "publishedAt": "2023-03-24T14:51:36Z",
+        "lastModifiedAt": "2023-04-23T20:17:37Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "fotball",
+            "breddefotbaill",
+            "lokalfotballen",
+            "breddefotball"
+        ]
+    },
+    {
+        "slug": "sitter-arbeidsledig-i-tyskland-rosenborg-maa-bare-ringe",
+        "url": "/sport/fotball/i/zEkqkK/sitter-arbeidsledig-i-tyskland-rosenborg-maa-bare-ringe",
+        "title": {
+            "value": "Sitter arbeidsledig i Tyskland: - Rosenborg må bare ringe"
+        },
+        "description": "Anthony Annan får fortsatt energi og motivasjon av «Bilde tå’n Ivers» og «Rosenborgsangen».",
+        "imageUrl": "b1a41b0f-c1e1-450d-ac7d-7d66c36cc528",
+        "publishedAt": "2023-05-04T15:57:15Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "rasmus-saga"
+        ]
+    },
+    {
+        "slug": "rekdal-koblet-av-etter-tapet-naa-kommer-du-til-aa-le",
+        "url": "/sport/fotball/i/5BwJPz/rekdal-koblet-av-etter-tapet-naa-kommer-du-til-aa-le",
+        "title": {
+            "value": "Slik koblet Rekdal av etter tapet: - Nå kommer du til å le"
+        },
+        "description": "Etter onsdagens 0–2-tap mot Brann dro Kjetil Rekdal omsider hjem for å koble av, men mye søvn ble det ikke.",
+        "imageUrl": "f4ef066b-2cb8-48e9-9a0a-51ad3c6a3738",
+        "publishedAt": "2023-05-04T13:25:10Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "kjetil-rekdal"
+        ]
+    },
+    {
+        "slug": "innroemmet-filming-jeg-angrer-paa-noe-av-det-jeg-sa",
+        "url": "/sport/i/69Kw7r/innroemmet-filming-jeg-angrer-paa-noe-av-det-jeg-sa",
+        "title": {
+            "value": "- Jeg angrer på noe av det jeg sa"
+        },
+        "description": "Kristall Mani Ingason innrømmet å ha forsøkt på å filme seg til straffe. - Jeg angrer på noe av det jeg sa, sier han dagen derpå.",
+        "imageUrl": "c69e8127-467f-4e94-9981-9b3db80ad7c6",
+        "publishedAt": "2023-05-04T11:18:10Z",
+        "lastModifiedAt": "2023-05-04T12:36:40Z",
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl",
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "rosenborg-bk",
+            "fotball"
+        ]
+    },
+    {
+        "slug": "dette-skjedde-dagen-skredet-gikk-paa-e6",
+        "url": "/nyheter/trondelag/i/698B0L/dette-skjedde-dagen-skredet-gikk-paa-e6",
+        "title": {
+            "value": "- De første sekundene skjønte jeg ikke hva som skjedde. Jeg var i sjokk"
+        },
+        "description": null,
+        "imageUrl": "b81c7ed7-5c54-417c-8f3d-5f2c7a408988",
+        "publishedAt": "2023-05-04T09:29:26Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Karoline Ulvnes"
+        ],
+        "tags": [
+            "e6-2",
+            "skred",
+            "stavsjoefjelltunnelen",
+            "nye-veier-as"
+        ]
+    },
+    {
+        "slug": "rbk-ledelsen-maa-gi-ham-hjelp",
+        "url": "/sport/i/KneQ9o/rbk-ledelsen-maa-gi-ham-hjelp",
+        "title": {
+            "value": "RBK-ledelsen må gi ham hjelp"
+        },
+        "description": "KOMMENTAR: Hvis Kjetil Rekdals overordnede virkelig har tro på prosjektet, er det på tide å uttrykke det.",
+        "imageUrl": "1ceba146-0c70-4f44-9cb8-5e27d658224d",
+        "publishedAt": "2023-05-04T08:35:39Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Birger Løfaldli"
+        ],
+        "tags": [
+            "svein-maalen",
+            "mikael-dorsin",
+            "cecilie-gotaas-johnsen",
+            "kjetil-rekdal",
+            "roar-vikvang",
+            "birger-loefaldli",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "preget-rbk-kaptein-det-eneste-budskapet-jeg-har-naa",
+        "url": "/sport/fotball/i/wA0M4o/preget-rbk-kaptein-det-eneste-budskapet-jeg-har-naa",
+        "title": {
+            "value": "Preget RBK-kaptein: – Det eneste budskapet jeg har nå "
+        },
+        "description": "Markus Henriksen hadde en tydelig beskjed til RBK-fansen etter tapet mot Brann.",
+        "imageUrl": "3bd16148-0835-481f-bef5-50380faebec7",
+        "publishedAt": "2023-05-04T08:11:57Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/3EXLMM/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag, torsdag 4. mai",
+        "imageUrl": "084048d8-c182-409d-8bb5-86291f87ec4c",
+        "publishedAt": "2023-05-04T04:01:30Z",
+        "lastModifiedAt": "2023-05-04T04:01:30Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    }
+]

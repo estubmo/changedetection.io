@@ -1,0 +1,192 @@
+[
+    {
+        "slug": "kvam-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/APWVR5/kvam-fortsatte-seiersrekken",
+        "title": {
+            "value": "Kvam fortsatte seiersrekken"
+        },
+        "description": "Erik Magnus Bentzen sto fram med to scoringer da Kvam vant 4-0 over Snåsa i 6. divisjon, Trøndelag - Avdeling 1 i fotball for menn. Kvam har seiret i tre kamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T20:33:39Z",
+        "lastModifiedAt": "2023-06-12T20:33:39Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "nessegutten-7er-seiret-i-toppoppgjoeret",
+        "url": "/lokalfotballen/i/l3LjML/nessegutten-7er-seiret-i-toppoppgjoeret",
+        "title": {
+            "value": "Knusende seier for Nessegutten 7er"
+        },
+        "description": "Nessegutten 7er knuste Beitstad 7er 5-0 i 7er, Trøndelag - Avdeling 1 mandag. Nessegutten 7er har vunnet seks av sine sju siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T20:33:39Z",
+        "lastModifiedAt": "2023-06-12T20:37:59Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "orkanger-2-og-glimt-delte-poengene",
+        "url": "/lokalfotballen/i/eJ0xzy/orkanger-2-og-glimt-delte-poengene",
+        "title": {
+            "value": "Orkanger 2 og Glimt delte poengene"
+        },
+        "description": "Orkanger 2 og Glimt delte poengene på Orkla Maskin Arena i 6. divisjon, Trøndelag - Avdeling 4 i fotball. Det stanset tapsrekken til Orkanger 2, som ikke hadde tatt poeng de siste fire kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T20:33:37Z",
+        "lastModifiedAt": "2023-06-12T20:33:37Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "heimdal-2-ydmyket-klaebu",
+        "url": "/lokalfotballen/i/8JzAG2/heimdal-2-ydmyket-klaebu",
+        "title": {
+            "value": "Brakseier for Heimdal 2"
+        },
+        "description": "Klæbu gikk på sitt tredje strake tap da klubben tapte 0-6 for Heimdal 2 i 6. divisjon, Trøndelag - Avdeling 5 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T20:28:04Z",
+        "lastModifiedAt": "2023-06-12T20:33:39Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-klabuposten"
+        ]
+    },
+    {
+        "slug": "ranheim-3-seiret-i-maalfest",
+        "url": "/lokalfotballen/i/jlMjvw/ranheim-3-seiret-i-maalfest",
+        "title": {
+            "value": "Ranheim 3 vant igjen"
+        },
+        "description": "Med 4-3-seier over Rennebu tok Ranheim 3 sin tredje strake seier i 5. divisjon, Trøndelag - Avdeling 3 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T20:17:56Z",
+        "lastModifiedAt": "2023-06-12T20:29:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-opp"
+        ]
+    },
+    {
+        "slug": "nettsus-for-torset",
+        "url": "/lokalfotballen/i/LldO4J/nettsus-for-torset",
+        "title": {
+            "value": "To fulltreffere fra Torset"
+        },
+        "description": "Morten Modalsli Torset viste scoringsform da Tiller 3 seiret 5-2 over Meldal i 6. divisjon, Trøndelag - Avdeling 5 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T20:13:45Z",
+        "lastModifiedAt": "2023-06-12T20:33:37Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "ny-seier-for-flatanger-2",
+        "url": "/lokalfotballen/i/q1EB6E/ny-seier-for-flatanger-2",
+        "title": {
+            "value": "Tredje seier på rad for Flatanger 2"
+        },
+        "description": "Flatanger 2 fikk med seg alle poengene da Spillum ble slått 2-0 i 6. divisjon, Trøndelag - Avdeling 1 i fotball for menn. Spillum har ikke tatt poeng på de siste to kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T20:09:35Z",
+        "lastModifiedAt": "2023-06-12T20:32:27Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "heggem-scoret-hattrick-mot-rindal-2",
+        "url": "/lokalfotballen/i/3E73pP/heggem-scoret-hattrick-mot-rindal-2",
+        "title": {
+            "value": "Mål-lykke for Heggem"
+        },
+        "description": "Byneset slo Rindal 2 7-0 og tok sin sjette seier på rad i 6. divisjon, Trøndelag - Avdeling 5 i fotball. Aslak Rye Heggem scoret tre ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T20:08:32Z",
+        "lastModifiedAt": "2023-06-12T20:33:37Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "storseier-for-utleira",
+        "url": "/lokalfotballen/i/KnkAMX/storseier-for-utleira",
+        "title": {
+            "value": "Utleira slo Nardo i målfest"
+        },
+        "description": "Utleira knuste Nardo 5-1 i 3. divisjon, Trøndelag i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T20:01:51Z",
+        "lastModifiedAt": "2023-06-12T20:07:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "verdal-vant-over-levanger",
+        "url": "/lokalfotballen/i/abkEP5/verdal-vant-over-levanger",
+        "title": {
+            "value": "Verdal seiret borte mot Levanger"
+        },
+        "description": "Verdal knuste Levanger 3-0 i 3. divisjon, Trøndelag i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T19:26:06Z",
+        "lastModifiedAt": "2023-06-12T19:31:36Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    }
+]

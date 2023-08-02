@@ -1,0 +1,196 @@
+[
+    {
+        "slug": "han-har-fulgt-laget-tett-i-ni-aar-alle-elsker-lasse",
+        "url": "/sport/i/wA5Vvo/han-har-fulgt-laget-tett-i-ni-aar-alle-elsker-lasse",
+        "title": {
+            "value": "Han har fulgt laget tett i ni år: - Alle elsker Lasse "
+        },
+        "description": "Da Kolstad feiret sesongens tredje gull, var supporter Lasse Johansen forsanger i garderoben.",
+        "imageUrl": "9b8749ad-6f70-4288-9529-f80aaca512f3",
+        "publishedAt": "2023-06-12T11:35:16Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "haandball",
+            "kolstad-haandball",
+            "torbjoern-bergerud"
+        ]
+    },
+    {
+        "slug": "det-ligger-papir-spredd-over-hele-verandaen",
+        "url": "/nyheter/trondheim/i/y6yrXR/det-ligger-papir-spredd-over-hele-verandaen",
+        "title": {
+            "value": "– Det ligger papir spredd over hele verandaen"
+        },
+        "description": "Brannen ved papirfabrikken fikk det til å regne hvitt over et store områder i Trondheim.",
+        "imageUrl": "55033de4-c6ff-4353-a8e2-2125646e1e0f",
+        "publishedAt": "2023-06-12T11:00:01Z",
+        "lastModifiedAt": "2023-06-12T11:00:26Z",
+        "premium": true,
+        "authors": [
+            "Marit Ytterland Nygård",
+            "Kristoffer Furberg"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "kontroll-paa-brann-ved-papirfabrikk-i-trondheim",
+        "url": "/nyheter/innenriks/i/nQnKBx/kontroll-paa-brann-ved-papirfabrikk-i-trondheim",
+        "title": {
+            "value": "Kontroll på brann ved papirfabrikk i Trondheim"
+        },
+        "description": "Mandag formiddag begynte det å brenne i en papirfabrikk på Ranheim i Trondheim. Brannvesenet har nå fått kontroll på brannen.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T10:21:18Z",
+        "lastModifiedAt": "2023-06-12T10:21:18Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "melding-om-brann-fra-papirfabrikk",
+        "url": "/nyheter/trondheim/i/Lldgy4/melding-om-brann-fra-papirfabrikk",
+        "title": {
+            "value": "- Papiret må rives opp og dras utover"
+        },
+        "description": "Vitner i områder forteller at det regner brent papir i området.",
+        "imageUrl": "0a081d14-34c7-43db-b248-b9ebd3f59c83",
+        "publishedAt": "2023-06-12T08:26:03Z",
+        "lastModifiedAt": "2023-06-12T12:35:45Z",
+        "premium": true,
+        "authors": [
+            "Martin Haugland Andersen",
+            "Marit Ytterland Nygård",
+            "Alexander Killingberg",
+            "Kristoffer Furberg"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "to-fulltreffere-fra-bjordal",
+        "url": "/lokalfotballen/i/69dgJ3/to-fulltreffere-fra-bjordal",
+        "title": {
+            "value": "To fulltreffere fra Bjordal"
+        },
+        "description": "Nardo 2 gikk på sitt sjette tap på rad da laget tapte 3-4 for Strindheim 2 i 4. divisjon, Trøndelag - Avdeling 2 i fotball for menn søndag. Magnus Greiff Bjordal scoret to mål.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T07:27:34Z",
+        "lastModifiedAt": "2023-06-12T07:27:34Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "nysigneringen-om-starten-det-gikk-ikke-som-jeg-ville",
+        "url": "/sport/fotball/i/76JMg8/nysigneringen-om-starten-det-gikk-ikke-som-jeg-ville",
+        "title": {
+            "value": "- Jeg vil spille mest mulig. Men Rekdal vet hva som er best"
+        },
+        "description": "Agon Sadiku snakker om de første månedene som RBK-spiller. Og er sikker på at det snart vil løsne.",
+        "imageUrl": "bdecf8fb-ef3f-4ff8-a37c-9627a928af98",
+        "publishedAt": "2023-06-12T06:02:05Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "sport",
+            "eliteserien",
+            "kjetil-rekdal",
+            "agon-sadiku"
+        ]
+    },
+    {
+        "slug": "maalshow-fra-johansen",
+        "url": "/lokalfotballen/i/RGQ2Jx/maalshow-fra-johansen",
+        "title": {
+            "value": "Johansen med målshow"
+        },
+        "description": "Kaja Sofie Johansen viste scoringsform da Tiller 2 vant 4-3 over Ranheim i 3. divisjon, Trøndelag søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-11T20:49:19Z",
+        "lastModifiedAt": "2023-06-11T22:28:19Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "holse-om-var-jeg-synes-det-er-haaploest",
+        "url": "/sport/i/onPma0/holse-om-var-jeg-synes-det-er-haaploest",
+        "title": {
+            "value": "Holse om VAR: - Jeg synes det er håpløst"
+        },
+        "description": "Videodømmingen spilte hovedrollen i kampen mellom RBK og Stabæk. Det får flere til å reagere.",
+        "imageUrl": "5ffba2bf-4867-4985-9b28-8f9a6f41ac98",
+        "publishedAt": "2023-06-11T19:19:40Z",
+        "lastModifiedAt": "2023-06-11T19:40:17Z",
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl",
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "rosenborg-bk",
+            "sport",
+            "fotball",
+            "eliteserien",
+            "carlo-holse",
+            "olaus-skarsem"
+        ]
+    },
+    {
+        "slug": "granhus-scoret-to-for-steinkjer",
+        "url": "/lokalfotballen/i/onPmGm/granhus-scoret-to-for-steinkjer",
+        "title": {
+            "value": "Nettsus for Granhus"
+        },
+        "description": "Silje Granhus viste scoringsform da Steinkjer seiret 3-1 over Strindheim i 3. divisjon, Trøndelag i fotball søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-11T18:03:36Z",
+        "lastModifiedAt": "2023-06-11T20:58:30Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "utleira-reddet-uavgjort",
+        "url": "/lokalfotballen/i/MoJ2kR/utleira-reddet-uavgjort",
+        "title": {
+            "value": "Utleira berget poeng"
+        },
+        "description": "Utleira lå under 1-2, men klarte 2-2 mot Orkla 2 etter en sen utligning i J15 2. divisjon, Avdeling 4 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-11T17:52:08Z",
+        "lastModifiedAt": "2023-06-12T11:27:52Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    }
+]

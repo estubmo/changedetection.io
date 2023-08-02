@@ -1,0 +1,374 @@
+[
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            },
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Lld1bJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Lld1bJ",
+        "preamble": "– Farvel til fotballen, sier den svenske superhelten i takketalen etter søndagens kamp mot Hellas Verona.",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 23:26:59",
+            "niceformat": "04.06.2023, 23:26",
+            "timestamp": "2023-06-04T21:26:59.000Z"
+        },
+        "thumbnail": {
+            "height": 286,
+            "url": "https://akamai.vgc.no/v2/images/d217fc56-4b1b-43fd-945d-796df652017d?fit=crop&format=auto&h=286&w=400&s=62f8a64d28bb9a1ebd57bcffa33d6565e42f0e48",
+            "width": 400
+        },
+        "title": "Zlatan Ibrahimović legger opp - tårene rant ",
+        "url": "https://www.vg.no/sport/fotball/i/Lld1bJ/medier-zlatan-ibrahimovic-legger-opp"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4wyxJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4wyxJ",
+        "preamble": "(Celta Vigo – Barcelona 2–1) Fra benken så landslagsspiller Jørgen Strand Larsen (23) at lagkameratene sikret spill på Spanias øverste nivå neste sesong.",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 23:00:00",
+            "niceformat": "04.06.2023, 23:00",
+            "timestamp": "2023-06-04T21:00:00.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/9ab5028a-4ba2-4e0a-8589-696ba7414d8c?fit=crop&format=auto&h=267&w=400&s=4fd244d8d3f8157c08389b88d2b8d5395206b535",
+            "width": 400
+        },
+        "title": "Strand Larsen og Celta Vigo berget plassen i La Liga – slo Barcelona i serieavslutningen",
+        "url": "https://www.vg.no/sport/fotball/i/P4wyxJ/strand-larsen-og-celta-vigo-berget-plassen-i-la-liga-slo-barcelona-i-serieavslutningen"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "15870l",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/15870l",
+        "preamble": "På vei hjem fra 1–1-oppgjøret i Raufoss ble Fredrikstads supporterbuss plutselig angrepet i Oslo, ifølge Fredrikstad-supportere.",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 21:44:48",
+            "niceformat": "04.06.2023, 21:44",
+            "timestamp": "2023-06-04T19:44:48.000Z"
+        },
+        "thumbnail": {
+            "height": 449,
+            "url": "https://akamai.vgc.no/v2/images/03eb82ea-0ad4-4550-9bc8-d5c4692da59c?fit=crop&format=auto&h=449&w=400&s=6a82e07d001a2a91125bc22515bb66205ac153f3",
+            "width": 400
+        },
+        "title": "Fredrikstads supporterbuss angrepet i Oslo",
+        "url": "https://www.vg.no/sport/fotball/i/15870l/fredrikstads-supporterbuss-angrepet-i-oslo"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76J5B4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76J5B4",
+        "preamble": "(Viking – Molde 3–4) Tilbake i Stavanger for første gang siden overgangen til Molde fikk Veton Berisha hard medfart av siddisene. Etter syv mål og rødt kort blir alle tre poeng med hjem til «Rosenes by».",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 21:10:46",
+            "niceformat": "04.06.2023, 21:10",
+            "timestamp": "2023-06-04T19:10:46.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/17a675c3-f03d-4505-991c-1458843685cc?fit=crop&format=auto&h=267&w=400&s=a96d10c915569fe73831da1673aaef61dd3a31a1",
+            "width": 400
+        },
+        "title": "Berisha hetset av banen i målfest – Molde snudde til seier",
+        "url": "https://www.vg.no/sport/fotball/i/76J5B4/berisha-hetset-av-banen-i-maalfest-molde-snudde-til-seier"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "onP6VB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/onP6VB",
+        "preamble": "(Real Madrid – Athletic Bilbao 1–1) Klubblegende Karim Benzema (35) scoret i avskjeden foran egne supportere. Like etter fikk han en varm klem av trener Carlo Ancelotti.",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 20:26:36",
+            "niceformat": "04.06.2023, 20:26",
+            "timestamp": "2023-06-04T18:26:36.000Z"
+        },
+        "thumbnail": {
+            "height": 277,
+            "url": "https://akamai.vgc.no/v2/images/39412721-e9c6-4ca6-b526-4fc5c772f0c8?fit=crop&format=auto&h=277&w=400&s=840541176a23b9dbaf680f6c087862558580d255",
+            "width": 400
+        },
+        "title": "Benzema ble hyllet av hjemmepublikumet i avskjeden",
+        "url": "https://www.vg.no/sport/fotball/i/onP6VB/benzema-ble-hyllet-av-hjemmepublikumet-i-avskjeden"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Lld1ap",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Lld1ap",
+        "preamble": "(Strømsgodset – Haugesund 1–2) Peter Therkildsen og Sory Diarra scoret da Haugesund vant borte mot Strømsgodset i Eliteserien søndag. Det var bare deres andre seier så langt i sesongen.",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 20:10:17",
+            "niceformat": "04.06.2023, 20:10",
+            "timestamp": "2023-06-04T18:10:17.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/8edd94c8-236e-4891-9c03-9d72bf1c4488?fit=crop&format=auto&h=267&w=400&s=560a38e5493f2b71a6b1b208d902032adac6338a",
+            "width": 400
+        },
+        "title": "Diarra ordnet etterlengtet Haugesund-seier: – Veldig viktig",
+        "url": "https://www.vg.no/sport/fotball/i/Lld1ap/diarra-ordnet-etterlengtet-haugesund-seier-veldig-viktig"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q7Kx8Q",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q7Kx8Q",
+        "preamble": "(Tromsø – Sarpsborg 2–1) Mai Traore både scoret og hadde målgivende i seieren over Sarpsborg i Eliteserien søndag. Matchvinnerscoringen kom to minutter på overtid. ",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 20:08:36",
+            "niceformat": "04.06.2023, 20:08",
+            "timestamp": "2023-06-04T18:08:36.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/b56c11fc-cbfb-4518-965c-dc29f7eed536?fit=crop&format=auto&h=267&w=400&s=792ccb96499d1f85a32c8b34f601c6f5817b8b86",
+            "width": 400
+        },
+        "title": "Traore overtidshelt for Tromsø – stoppet Sarpsborgs seiersrekke",
+        "url": "https://www.vg.no/sport/fotball/i/Q7Kx8Q/eliteserien-mai-traore-overtidshelt-for-tromsoe-stoppet-sarpsborgs-seiersrekke"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEer9q",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEer9q",
+        "preamble": "(Sandefjord – Odd 4–1) Sandefjord hadde ikke vunnet på fire kamper i Eliteserien, men fikk endelig stoppet marerittrekken da de vant 4-1 hjemme over Odd søndag kveld.",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 20:07:36",
+            "niceformat": "04.06.2023, 20:07",
+            "timestamp": "2023-06-04T18:07:36.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/5186c9bd-56b0-4455-9732-973d60720431?fit=crop&format=auto&h=267&w=400&s=63a3d5c9a0abec69c00f94bd583b26a064659bdf",
+            "width": 400
+        },
+        "title": "Sandefjord slo for første gang Odd på hjemmebane: – En pinlig kamp",
+        "url": "https://www.vg.no/sport/fotball/i/zEer9q/eliteserien-sandefjord-slo-for-foerste-gang-odd-paa-hjemmebane-en-pinlig-kamp"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Lld1o4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Lld1o4",
+        "preamble": "(Lillestrøm – Stabæk 3–1) Med hat tricket mot Stabæk er Akor Adams delt toppscorer i Eliteserien.",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 19:00:19",
+            "niceformat": "04.06.2023, 19:00",
+            "timestamp": "2023-06-04T17:00:19.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ba7a6a9f-2f5d-41f3-a569-904fd73b0c71?fit=crop&format=auto&h=267&w=400&s=017de6f3adcb975d484086c7aef18d8f48a35df8",
+            "width": 400
+        },
+        "title": "Adams herjet med Stabæk – scoret hat trick",
+        "url": "https://www.vg.no/sport/fotball/i/Lld1o4/adams-herjet-med-stabaek-scoret-hat-trick"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "MoJ34J",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/MoJ34J",
+        "preamble": "(Aalesund – Brann 1–3) Kristoffer Barmen (29) ble byttet på til pause mot gamleklubben for å ta bedre vare på ballen. Men besinnelsen var ikke godt bevart da Brann vant mot tabelljumboen.",
+        "published": {
+            "date": "søndag 4. juni",
+            "datetime": "2023-06-04 18:53:04",
+            "niceformat": "04.06.2023, 18:53",
+            "timestamp": "2023-06-04T16:53:04.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/mp0J9gyq8y4b.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Barmen-mareritt mot gamleklubben – Brann snudde mot Aalesund",
+        "url": "https://www.vg.no/sport/fotball/i/MoJ34J/eliteserien"
+    }
+]

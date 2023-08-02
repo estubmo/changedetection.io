@@ -1,0 +1,197 @@
+[
+    {
+        "slug": "uavgjort-paa-roervik-kunstgress",
+        "url": "/lokalfotballen/i/3EXGLX/uavgjort-paa-roervik-kunstgress",
+        "title": {
+            "value": "Uavgjort for Rørvik og Flatanger"
+        },
+        "description": "Rørvik lå under 1-2, men klarte 2-2 mot Flatanger etter en sen utligning i 4. divisjon, Trøndelag - Avdeling 1 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-30T16:16:25Z",
+        "lastModifiedAt": "2023-04-30T16:18:34Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "maalloest-paa-astor-fotballpark",
+        "url": "/lokalfotballen/i/pQ48JW/maalloest-paa-astor-fotballpark",
+        "title": {
+            "value": "Målløst på Astor Fotballpark"
+        },
+        "description": "Verken Astor eller Frøya IL fant nettmaskene da lagene møttes i 6. divisjon, Trøndelag - Avdeling 4 i fotball for menn. Astor og Frøya IL står begge fortsatt uten seier denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-30T16:01:13Z",
+        "lastModifiedAt": "2023-04-30T16:19:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    },
+    {
+        "slug": "dette-er-rekdals-utvalgte-foelg-kampen-i-ivers-studio",
+        "url": "/sport/fotball/i/jlpe4o/dette-er-rekdals-utvalgte-foelg-kampen-i-ivers-studio",
+        "title": {
+            "value": "Dette er Rekdals utvalgte: Følg kampen i Ivers-studio "
+        },
+        "description": "RBK møter Odd på bortebane.",
+        "imageUrl": "b45d7e0e-101a-47d5-b2d0-02a543542961",
+        "publishedAt": "2023-04-30T16:00:27Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen",
+            "Johannes Strand",
+            "Christian Stendal"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "eliteserien"
+        ]
+    },
+    {
+        "slug": "bortetap-for-steinkjer-mot-ranheim",
+        "url": "/lokalfotballen/i/dwbE6z/bortetap-for-steinkjer-mot-ranheim",
+        "title": {
+            "value": "Storseier for Ranheim"
+        },
+        "description": "Ranheim slo Steinkjer 7-0 og tok dermed alle poengene i G16 Elite, Vår søndag. Ranheim har seiret i fire kamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-30T15:49:00Z",
+        "lastModifiedAt": "2023-04-30T16:49:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "politiet-rykket-ut-til-loepsk-hest-i-trondheim",
+        "url": "/nyheter/innenriks/i/8J70gQ/politiet-rykket-ut-til-loepsk-hest-i-trondheim",
+        "title": {
+            "value": "Politiet har kontroll på løpsk hest i Trondheim"
+        },
+        "description": "En hest med sulky ble observert på Ranheim utenfor Trondheim sentrum søndag ettermiddag. Kusken er sendt til St. Olavs hospital.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-30T15:14:59Z",
+        "lastModifiedAt": "2023-04-30T16:09:14Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "kusk-falt-av-loepsk-hest",
+        "url": "/nyheter/trondheim/i/764z8w/kusk-falt-av-loepsk-hest",
+        "title": {
+            "value": "Fikk plutselig løpsk hest med vogn i hagen: - Jeg ble veldig satt ut"
+        },
+        "description": "Politiet rykket ut til melding om en løpsk hest på Ranheim. I hagen til Jan Erik ble det drama.",
+        "imageUrl": "b006e8e6-144d-41c5-b4e3-255137828502",
+        "publishedAt": "2023-04-30T14:58:22Z",
+        "lastModifiedAt": "2023-04-30T16:53:20Z",
+        "premium": true,
+        "authors": [
+            "Vegard Eggen",
+            "Norunn Bergesen"
+        ],
+        "tags": [
+            "ranheim",
+            "hest",
+            "twitter",
+            "politi-2",
+            "trav",
+            "dyr",
+            "veterinaer"
+        ]
+    },
+    {
+        "slug": "hjemmeseier-for-steinkjer-over-levanger",
+        "url": "/lokalfotballen/i/l3lR27/hjemmeseier-for-steinkjer-over-levanger",
+        "title": {
+            "value": "Bortetap for Levanger"
+        },
+        "description": "Levanger ble knust 3-0 av Steinkjer i 3. divisjon, Trøndelag søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-30T14:13:57Z",
+        "lastModifiedAt": "2023-04-30T14:19:13Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "heimdal-ble-rundspilt-av-ranheim-2",
+        "url": "/lokalfotballen/i/eJyrg9/heimdal-ble-rundspilt-av-ranheim-2",
+        "title": {
+            "value": "Stygt tap for Heimdal"
+        },
+        "description": "Ranheim 2 kan juble for full pott så langt i årets sesong, etter å ha slått Heimdal 5-0. Fridtjof Killi Olsen scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-30T14:13:56Z",
+        "lastModifiedAt": "2023-04-30T16:18:34Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "kil-hemne-tapte-paa-bortebane",
+        "url": "/lokalfotballen/i/MoplkR/kil-hemne-tapte-paa-bortebane",
+        "title": {
+            "value": "Nettsus for Brudvik"
+        },
+        "description": "Kristina Brudvik scoret begge målene for Grand Bodø og ble den store helten i 2-1-seieren over KIL/Hemne i 1. divisjon i fotball søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-30T13:00:07Z",
+        "lastModifiedAt": "2023-04-30T13:18:25Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "tynset-senket-av-aaberge",
+        "url": "/lokalfotballen/i/0QX8qg/tynset-senket-av-aaberge",
+        "title": {
+            "value": "Tynset senket av Aaberge"
+        },
+        "description": "Tynset tapte 1-2 mot Sogndal FK på bortebane i 2. divisjon, Avdeling 1 i fotball for kvinner søndag. Tynset har ikke tatt ett eneste poeng i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-30T12:12:44Z",
+        "lastModifiedAt": "2023-04-30T12:18:47Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

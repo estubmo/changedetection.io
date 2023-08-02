@@ -1,0 +1,370 @@
+[
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJRy3M",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJRy3M",
+        "preamble": "Emilie Bragstad lånes ut fra Bayern München til Leverkusen foran neste sesong i tysk kvinnefotball.",
+        "published": {
+            "date": "fredag 23. juni",
+            "datetime": "2023-06-23 16:44:02",
+            "niceformat": "23.06.2023, 16:44",
+            "timestamp": "2023-06-23T14:44:02.000Z"
+        },
+        "thumbnail": {
+            "height": 248,
+            "url": "https://akamai.vgc.no/v2/images/44c9321c-93a4-4180-9e70-0e47248fa829?fit=crop&format=auto&h=248&w=400&s=49c87e63391e7f0e73debe61f9d7c5f4eb363768",
+            "width": 400
+        },
+        "title": "Bayern låner ut Bragstad til bundesligarival",
+        "url": "https://www.vg.no/sport/fotball/i/eJRy3M/bayern-laaner-ut-bragstad-til-bundesligarival"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O8XE5k",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O8XE5k",
+        "preamble": "Fotballspiller Smilla Vallotto var sterkt ønsket av Sveits i forberedelsene til VM. Det sa Stabæk nei til. ",
+        "published": {
+            "date": "fredag 23. juni",
+            "datetime": "2023-06-23 15:35:06",
+            "niceformat": "23.06.2023, 15:35",
+            "timestamp": "2023-06-23T13:35:06.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/1fff040b-d279-4c95-8201-c1c2080864e6?fit=crop&format=auto&h=267&w=400&s=2b39b1c3ad3895ea7c57e5c8acdb43f14fa191b8",
+            "width": 400
+        },
+        "title": "Vallotto (19) fikk VM-sjansen stoppet av Stabæk: – Fullstendig latterlig",
+        "url": "https://www.vg.no/sport/fotball/i/O8XE5k/landslagsspiller-fra-stabaek-smilla-vallotto-naerme-vm-uttak"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQXLp3",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQXLp3",
+        "preamble": "CLUJ, ROMANIA (VG) Leif Gunnar Smerud begrunner keeperbråket etter torsdagens åpningskamp som kommunikasjonssvikt. ",
+        "published": {
+            "date": "fredag 23. juni",
+            "datetime": "2023-06-23 13:02:54",
+            "niceformat": "23.06.2023, 13:02",
+            "timestamp": "2023-06-23T11:02:54.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/39f90241-0dbf-4906-a51a-ef30c8db6dfa?fit=crop&format=auto&h=267&w=400&s=46a294cd749615e1ed1d237fb1695708aa0b8c7c",
+            "width": 400
+        },
+        "title": "Forklarer keeperforvirringen: – Kommunikasjon som ikke er god nok ",
+        "url": "https://www.vg.no/sport/fotball/i/EQXLp3/forklarer-keeperbraaket-kommunikasjon-som-ikke-er-god-nok"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQXm8j",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQXm8j",
+        "preamble": "Både Magnus Wolff Eikrem og Veton Berisha trøbler med skader i forkant av helgens oppgjør mot Haugesund, skriver TV 2.",
+        "published": {
+            "date": "fredag 23. juni",
+            "datetime": "2023-06-23 10:42:51",
+            "niceformat": "23.06.2023, 10:42",
+            "timestamp": "2023-06-23T08:42:51.000Z"
+        },
+        "thumbnail": {
+            "height": 295,
+            "url": "https://akamai.vgc.no/v2/images/6ac45912-3483-43d7-b0ce-5bf59ac1eab2?fit=crop&format=auto&h=295&w=400&s=9fd02e3c5c626f09ebb3e20d53fefea943323418",
+            "width": 400
+        },
+        "title": "Nøkkelspillere ute for Molde",
+        "url": "https://www.vg.no/sport/fotball/i/EQXm8j/noekkelspillere-ute-for-molde"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Qqby6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Qqby6",
+        "preamble": "Brann er i ferd med å selge Mathias Rasmussen til belgisk fotball.",
+        "published": {
+            "date": "fredag 23. juni",
+            "datetime": "2023-06-23 10:23:24",
+            "niceformat": "23.06.2023, 10:23",
+            "timestamp": "2023-06-23T08:23:24.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/afe5adf3-f618-4762-af03-79cc6c1fcbbd?fit=crop&format=auto&h=267&w=400&s=08817e4e07fc73e7a8ba3f163012f80d0dcc2c7d",
+            "width": 400
+        },
+        "title": "Opplysninger: Brann i ferd med å selge midtbaneprofil – kan få 15 millioner",
+        "url": "https://www.vg.no/sport/fotball/i/0Qqby6/eliteserien-mathias-rasmussen-selges-fra-brann-til-belgisk-fotball"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9zeXWq",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9zeXWq",
+        "preamble": "Landslagssjefens sønn, Sondre Solbakken, venter barn.",
+        "published": {
+            "date": "fredag 23. juni",
+            "datetime": "2023-06-23 09:32:52",
+            "niceformat": "23.06.2023, 09:32",
+            "timestamp": "2023-06-23T07:32:52.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/58103e6a-d9b2-466d-b580-3798e7135316?fit=crop&format=auto&h=267&w=400&s=f63619eafaa3562a4434896efeb3ba7fce843fa5",
+            "width": 400
+        },
+        "title": "Ståle Solbakken skal bli bestefar",
+        "url": "https://www.vg.no/sport/fotball/i/9zeXWq/staale-solbakken-skal-bli-bestefar"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "APBXG3",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/APBXG3",
+        "preamble": "Liverpool-stjernen er sterkt ønsket i Midtøsten.",
+        "published": {
+            "date": "fredag 23. juni",
+            "datetime": "2023-06-23 08:48:55",
+            "niceformat": "23.06.2023, 08:48",
+            "timestamp": "2023-06-23T06:48:55.000Z"
+        },
+        "thumbnail": {
+            "height": 272,
+            "url": "https://akamai.vgc.no/v2/images/039aed57-bde7-4e2a-8b4d-0eff90b37169?fit=crop&format=auto&h=272&w=400&s=6103d2c508ff44fb418835c5c25c3e3d95982231",
+            "width": 400
+        },
+        "title": "Fotballmagasin: Saudi-Arabia jakter Salah",
+        "url": "https://www.vg.no/sport/fotball/i/APBXG3/fotballmagasin-saudi-arabia-jakter-salah"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB-Reuters"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "KnXlGo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/KnXlGo",
+        "preamble": "Spissveteranen Edin Dzeko (37) forlater den italienske toppklubben Inter til fordel for tyrkiske Fenerbahce.",
+        "published": {
+            "date": "fredag 23. juni",
+            "datetime": "2023-06-23 08:40:09",
+            "niceformat": "23.06.2023, 08:40",
+            "timestamp": "2023-06-23T06:40:09.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/04c92e16-cbad-434f-bc29-330ef6f5a48d?fit=crop&format=auto&h=267&w=400&s=952b27dacf3b0ccb722890b8b9dd8a666841a69a",
+            "width": 400
+        },
+        "title": "Dzeko forlater Inter – klar for Fenerbahce",
+        "url": "https://www.vg.no/sport/fotball/i/KnXlGo/dzeko-forlater-inter-klar-for-fenerbache"
+    },
+    {
+        "authors": [
+            {
+                "email": "svea@vg.no",
+                "id": "f852e5e5-5ba9-48c7-96da-9455a160031f",
+                "name": "Knut Espen Svegaarden"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3aOdk",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3aOdk",
+        "preamble": "MAJORSTUA (VG) Dag-Eilev Fagermo (56) sier det er «et personlig nederlag» at han ikke klarte å løfte Vålerenga forbi det middelmådige i norsk fotball. Han tar selvkritikk på flere områder og er samtidig tilbakeholden med kritikk av lederne sine i klubben.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 22:45:18",
+            "niceformat": "22.06.2023, 22:45",
+            "timestamp": "2023-06-22T20:45:18.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/681f2286-d403-4cdc-921f-de1c5dde02f5?fit=crop&format=auto&h=267&w=400&s=fb638889f60188836473847d71f2b474e81c95f7",
+            "width": 400
+        },
+        "title": "«I Vålerenga blir du spist»",
+        "url": "https://www.vg.no/sport/fotball/i/l3aOdk/dag-eilev-fagermo-snakker-ut-etter-sparkingen-i-vaalerenga-blir-du-spist"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "abeaxM",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/abeaxM",
+        "preamble": "Roma-trener José Mourinho er ikke lenger en del av Uefas fotballstyre. Portugiseren gir seg med en gang.",
+        "published": {
+            "date": "torsdag 22. juni",
+            "datetime": "2023-06-22 22:29:36",
+            "niceformat": "22.06.2023, 22:29",
+            "timestamp": "2023-06-22T20:29:36.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a73b09b0-73f7-4ba0-be7c-4ff1fb476e51?fit=crop&format=auto&h=267&w=400&s=33377ce6ff6f4cbf6feb3e510a21b3b43f07c9ec",
+            "width": 400
+        },
+        "title": "Mourinho:  Trekker seg med umiddelbar virkning",
+        "url": "https://www.vg.no/sport/fotball/i/abeaxM/mourinho-trekker-seg-med-umiddelbar-virkning"
+    }
+]

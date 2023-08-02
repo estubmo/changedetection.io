@@ -1,0 +1,364 @@
+[
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            },
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QX8zA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QX8zA",
+        "preamble": "LONDON (VG) (Fulham – Manchester City 1–2) Erling Braut Haaland (22) tangerte rekorden for antall ligascoringer i Premier League-æraen, og Manchester City tok over tabelltoppen for første gang siden august.",
+        "published": {
+            "date": "søndag 30. april",
+            "datetime": "2023-04-30 17:01:59",
+            "niceformat": "30.04.2023, 17:01",
+            "timestamp": "2023-04-30T15:01:59.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/UX7TJXe1Xzlc.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Haaland tangerte nok en PL-rekord da City tok over tabelltoppen",
+        "url": "https://www.vg.no/sport/fotball/i/0QX8zA/haaland-tangerte-nok-en-pl-rekord-da-city-tok-over-tabelltoppen"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "pQ48jR",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/pQ48jR",
+        "preamble": "(Manchester United – Aston Villa 1–0) Etter ti strake kamper uten tap tok det slutt for Unai Emery og Aston Villa. United slo tilbake på Old Trafford.",
+        "published": {
+            "date": "søndag 30. april",
+            "datetime": "2023-04-30 16:55:19",
+            "niceformat": "30.04.2023, 16:55",
+            "timestamp": "2023-04-30T14:55:19.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/nBvOcd5BhD5r.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "United stoppet Aston Villas kanonform – har fått luke på fjerdeplass",
+        "url": "https://www.vg.no/sport/fotball/i/pQ48jR/united-stoppet-aston-villas-kanonform-har-faatt-luke-paa-fjerdeplass"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            },
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kEygba",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kEygba",
+        "preamble": "(Napoli - Salernitana 1–1) (Inter – Lazio 3–1) Inter slo ligatoer Lazio - men en sen scoring fra Salernitana utsatte seiersfesten for Napoli og Leo Østigård.",
+        "published": {
+            "date": "søndag 30. april",
+            "datetime": "2023-04-30 14:26:15",
+            "niceformat": "30.04.2023, 14:26",
+            "timestamp": "2023-04-30T12:26:15.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/Nk4w3qv-taKJ.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Salernitana spolerte Napoli-festen ",
+        "url": "https://www.vg.no/sport/fotball/i/kEygba/napoli-er-kledd-i-blaatt-kan-bli-mestere-for-foerste-gang-paa-33-aar"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgw0yB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgw0yB",
+        "preamble": "Arsenal har solgt ut Emirates Stadium foran returoppgjøret mot Wolfsburg i semifinalen i kvinnenes Champions League . Det betyr over 60.000 solgte billetter.",
+        "published": {
+            "date": "søndag 30. april",
+            "datetime": "2023-04-30 14:03:30",
+            "niceformat": "30.04.2023, 14:03",
+            "timestamp": "2023-04-30T12:03:30.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/da087740-6002-4113-bdd8-5eae8cf3eeae?fit=crop&format=auto&h=267&w=400&s=7a0bf19c2799bbe6f2ca55ea49d68f52e071c1b1",
+            "width": 400
+        },
+        "title": "Maanums Arsenal med utsolgt stadion før semifinalen i mesterligaen",
+        "url": "https://www.vg.no/sport/fotball/i/xgw0yB/maanums-arsenal-med-utsolgt-stadion-foer-semifinalen-i-mesterligaen"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GMn96q",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GMn96q",
+        "preamble": "Det er åpnet etterforskning etter at en kvinnelig fotballsupporter døde utenfor portene på Stade Mohammed V-stadion før Raja Casablancas kamp mot Al-Ahly. ",
+        "published": {
+            "date": "søndag 30. april",
+            "datetime": "2023-04-30 12:21:58",
+            "niceformat": "30.04.2023, 12:21",
+            "timestamp": "2023-04-30T10:21:58.000Z"
+        },
+        "title": "Fotballsupporter mistet livet utenfor stadion i Marokko",
+        "url": "https://www.vg.no/sport/fotball/i/GMn96q/fotballsupporter-mistet-livet-utenfor-stadion-i-marokko"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "rlGJzA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/rlGJzA",
+        "preamble": "EU er innstilt på å forby gummi i kunstgressbaner. Det rammer rundt 2000 norske klubber.",
+        "published": {
+            "date": "søndag 30. april",
+            "datetime": "2023-04-30 11:36:26",
+            "niceformat": "30.04.2023, 11:36",
+            "timestamp": "2023-04-30T09:36:26.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/c7803b73-d8ee-4b31-8cf7-7439ab3a4c42?fit=crop&format=auto&h=266&w=400&s=6a0728930fafc775712bed4992a1c25c64e899cf",
+            "width": 400
+        },
+        "title": "Kaos i Fotball-Norge: – Veldig vanskelig situasjon",
+        "url": "https://www.vg.no/sport/fotball/i/rlGJzA/kaos-etter-vedtak-om-forbud-mot-gummigranulat-i-kunstgress"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "pQ48B6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/pQ48B6",
+        "preamble": "Lamine Yamal (15) skrev historie og ble tidenes yngste Barcelona-spiller lørdag, men noen uker i forkant ble han utestengt fra klubbens juniorlag.",
+        "published": {
+            "date": "søndag 30. april",
+            "datetime": "2023-04-30 10:37:42",
+            "niceformat": "30.04.2023, 10:37",
+            "timestamp": "2023-04-30T08:37:42.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/149f574c-a96f-4186-8992-ad74e646ab1b?fit=crop&format=auto&h=266&w=400&s=7f77e983199462e6dc5881c0a7252296bb14b4a4",
+            "width": 400
+        },
+        "title": "15-åring ble utestengt uker før Barcelona-debuten",
+        "url": "https://www.vg.no/sport/fotball/i/pQ48B6/lamine-yamal-ble-utestengt-uker-foer-barcelona-debuten"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QXdbA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QXdbA",
+        "preamble": "ASPMYRA (VG) Etter cupexit mot LSK og nesten-fadese mot Brann er Bodø/Glimt-trener Kjetil Knutsen tydelig på grepene serielederen må ta.",
+        "published": {
+            "date": "søndag 30. april",
+            "datetime": "2023-04-30 09:22:55",
+            "niceformat": "30.04.2023, 09:22",
+            "timestamp": "2023-04-30T07:22:55.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6e8cde1b-ea2a-4092-bfdf-eed3b40dcd69?fit=crop&format=auto&h=267&w=400&s=3c7a6b7d5dce2fb9a2c7af960047b86939b6e525",
+            "width": 400
+        },
+        "title": "Knutsen varsler endringer: – Vi må til tegnebrettet",
+        "url": "https://www.vg.no/sport/fotball/i/0QXdbA/knutsen-varsler-endringer-vi-maa-paa-tegnebrettet"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "pQ42Jo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/pQ42Jo",
+        "preamble": "Den fotballgale byen Napoli forbereder seg for full fest i dag og natt til mandag. Ligagullet kan komme til Sør-Italia igjen for første gang på 33 år. ",
+        "published": {
+            "date": "søndag 30. april",
+            "datetime": "2023-04-30 08:34:36",
+            "niceformat": "30.04.2023, 08:34",
+            "timestamp": "2023-04-30T06:34:36.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/4ff827f6-30e3-45e1-9293-391d51ba7f95?fit=crop&format=auto&h=267&w=400&s=10c00a43072613805e793f012f246ba111418a73",
+            "width": 400
+        },
+        "title": "Napoli syder før mulig fotballfeiring i kveld – første tittel siden Maradona-tiden på gang",
+        "url": "https://www.vg.no/sport/fotball/i/pQ42Jo/napoli-i-syder-foer-mulig-fotballfeiring-i-kveld-foerste-tittel-siden-maradona-tiden-paa-gang"
+    },
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4eJ2J",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4eJ2J",
+        "preamble": "(Barcelona - Real Betis 4–0) Syv minutter før fulltid ble Lamine Yamal tidenes yngste Barcelona-spiller i spansk toppdivisjon - og den yngste på 101 år. ",
+        "published": {
+            "date": "lørdag 29. april",
+            "datetime": "2023-04-29 23:40:24",
+            "niceformat": "29.04.2023, 23:40",
+            "timestamp": "2023-04-29T21:40:24.000Z"
+        },
+        "thumbnail": {
+            "height": 273,
+            "url": "https://akamai.vgc.no/v2/images/8f498318-a1de-4f1b-8bf8-f66bff97f784?fit=crop&format=auto&h=273&w=400&s=6ad9cc4da1d6edc9e919afa2cca512bcaec22c8b",
+            "width": 400
+        },
+        "title": "15-åring ble tidenes yngste Barcelona-spiller i La Liga",
+        "url": "https://www.vg.no/sport/fotball/i/P4eJ2J/15-aaring-ble-tidenes-yngste-barcelona-spiller-i-la-liga"
+    }
+]

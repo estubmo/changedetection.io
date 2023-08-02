@@ -1,0 +1,206 @@
+[
+    {
+        "slug": "rissa-snudde-til-seier-i-sluttminuttene",
+        "url": "/lokalfotballen/i/nQlVOQ/rissa-snudde-til-seier-i-sluttminuttene",
+        "title": {
+            "value": "Rissa snudde til seier på tampen over Kattem"
+        },
+        "description": "Rissa snudde til seier i sluttminuttene mot Kattem i 6. divisjon, Trøndelag - Avdeling 3 i fotball torsdag. Gabriel Stordal Trøa scoret begge målene for Rissa.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-22T19:06:29Z",
+        "lastModifiedAt": "2023-06-22T19:10:42Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "trenersparkingen-rbk-maa-ut-med-over-fem-mill",
+        "url": "/sport/fotball/i/BWewEl/trenersparkingen-rbk-maa-ut-med-over-fem-mill",
+        "title": {
+            "value": "Så mye koster trener-sparkingen i RBK"
+        },
+        "description": "En skriftlig rapport. Et møte med to av de viktigste spillerne. Uformelle samtaler i styret. Og supportere som engasjerte seg kraftig. Slik var forspillet til Kjetil Rekdals avgang.",
+        "imageUrl": "2eb51cb9-e90e-4d2e-a537-6a246786cf1c",
+        "publishedAt": "2023-06-22T18:00:20Z",
+        "lastModifiedAt": "2023-06-22T19:03:11Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken",
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "markus-henriksen",
+            "geir-frigaard",
+            "tore-bjoerseth-berdal",
+            "kjetil-rekdal",
+            "svein-tore-samdal",
+            "svein-maalen",
+            "bjoern-skar",
+            "erlend-dahl-reitan"
+        ]
+    },
+    {
+        "slug": "alle-ville-gi-henne-seiersklem-i-trondheim-gikk-litt-i-surr",
+        "url": "/sport/i/xgd9gX/alle-ville-gi-henne-seiersklem-i-trondheim-gikk-litt-i-surr",
+        "title": {
+            "value": "«Alle» ville gi henne seiersklem i Trondheim: – Gikk litt i surr"
+        },
+        "description": "Lene Berg Hanssen slo til med NM-gull på hjemmebane. Da ble det jubelscener.",
+        "imageUrl": "27cd5e03-e9bc-469f-ac6c-fa618cb00298",
+        "publishedAt": "2023-06-22T14:44:28Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "orientering",
+            "lene-berg-hanssen"
+        ]
+    },
+    {
+        "slug": "siste-fra-breddefotballen",
+        "url": "/sport/fotball/i/GMjXaq/siste-fra-breddefotballen",
+        "title": {
+            "value": "- Hun jeg snakket med først på telefonen begynte nesten å gråte"
+        },
+        "description": null,
+        "imageUrl": "929181bf-55c8-48f4-80aa-69165f655821",
+        "publishedAt": "2023-03-24T14:51:36Z",
+        "lastModifiedAt": "2023-05-09T10:22:27Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "fotball",
+            "breddefotbaill",
+            "lokalfotballen",
+            "breddefotball"
+        ]
+    },
+    {
+        "slug": "hadde-bilen-full-av-tyvgods",
+        "url": "/nyhetsstudio/i/4olRlG/hadde-bilen-full-av-tyvgods",
+        "title": {
+            "value": "Hadde bilen full av tyvegods"
+        },
+        "description": null,
+        "imageUrl": null,
+        "publishedAt": "2023-06-22T04:45:52Z",
+        "lastModifiedAt": "2023-06-22T05:53:27Z",
+        "premium": true,
+        "authors": [
+            "Roy Tommy Bråten"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/dwaqpq/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene torsdag 22. juni.",
+        "imageUrl": "184adceb-cb06-43d1-9e1f-d7e45630d5fb",
+        "publishedAt": "2023-06-22T04:01:15Z",
+        "lastModifiedAt": "2023-06-22T04:01:15Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "ny-seier-for-lade",
+        "url": "/lokalfotballen/i/xgde4n/ny-seier-for-lade",
+        "title": {
+            "value": "Lade tok sin tredje seier på rad"
+        },
+        "description": "Lade knuste Bjørgan/Åfjord 2 9-1 i 6. divisjon, Trøndelag - Avdeling 3 i fotball onsdag. Bjørgan/Åfjord 2 har ikke tatt poeng på de siste tre kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-21T21:35:40Z",
+        "lastModifiedAt": "2023-06-22T06:34:18Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "jeg-husker-at-jeg-graat-jeg-foelte-meg-saa-slem-som-sa-det-om-ungen-min",
+        "url": "/nyheter/trondheim/i/BWnqE0/jeg-husker-at-jeg-graat-jeg-foelte-meg-saa-slem-som-sa-det-om-ungen-min",
+        "title": {
+            "value": "Anna sluttet i jobben for å ta vare på sønnen: - Han ble bare sykere og sykere"
+        },
+        "description": "Anna fryktet at sønnen kunne skade seg selv eller andre. Hun sendte en tydelig bekymringsmelding i slutten av mars i år. 18 dager senere var sønnen siktet for drap.",
+        "imageUrl": "a8aaf8ff-74fc-4f52-8caa-587ee2427f5f",
+        "publishedAt": "2023-06-21T19:48:05Z",
+        "lastModifiedAt": "2023-06-22T07:23:27Z",
+        "premium": true,
+        "authors": [
+            "Camilla Kilnes",
+            "Pål E. Solberg"
+        ],
+        "tags": [
+            "drap",
+            "krim",
+            "oestmarka",
+            "trondheim-kommune",
+            "trondheim-fengsel",
+            "statens-helsetilsyn",
+            "st-olavs-hospital",
+            "troendelag-politidistrikt",
+            "adressasnapchat-2"
+        ]
+    },
+    {
+        "slug": "hoertes-droemmeuke-vm-plass-og-hattrick-da-rbk-lekte-seg-til-kvarten",
+        "url": "/sport/fotball/i/Xb3dkb/hoertes-droemmeuke-vm-plass-og-hattrick-da-rbk-lekte-seg-til-kvarten",
+        "title": {
+            "value": "Sikret VM-billett og scoret hattrick da RBK lekte seg til kvarten"
+        },
+        "description": "Sara Hørte sikret VM-billett mandag og onsdag kveld scoret hun hattrick da RBK lekte seg til kvartfinalen i cupen.",
+        "imageUrl": "0d3d0726-d268-450a-b40b-e24f839796be",
+        "publishedAt": "2023-06-21T18:49:48Z",
+        "lastModifiedAt": "2023-06-21T19:46:05Z",
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "rosenborg-bk",
+            "fotball",
+            "norsk-fotball"
+        ]
+    },
+    {
+        "slug": "beitstad-7er-slo-soerlia-2-7er-i-maalfest",
+        "url": "/lokalfotballen/i/VPXGwJ/beitstad-7er-slo-soerlia-2-7er-i-maalfest",
+        "title": {
+            "value": "Beitstad 7er seiret i målfest"
+        },
+        "description": "Beitstad 7er vant 6-4 over Sørlia 2 7er hjemme i 7er, Trøndelag i fotball onsdag. Beitstad 7er tok sin første seier i årets sesong.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-21T17:33:46Z",
+        "lastModifiedAt": "2023-06-21T18:05:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    }
+]

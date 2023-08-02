@@ -1,0 +1,192 @@
+[
+    {
+        "slug": "mikkel-volden-tiller-scoret-hattrick-for-astor-3",
+        "url": "/lokalfotballen/i/eJ0a8y/mikkel-volden-tiller-scoret-hattrick-for-astor-3",
+        "title": {
+            "value": "Mikkel Volden Tiller scoret hattrick for Astor 3"
+        },
+        "description": "Mikkel Volden Tiller scoret tre ganger da Astor 3 vant 9-2 over Kolstad/Flatås i G16 3. divisjon, Avdeling 2 - Vår tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-06T19:28:33Z",
+        "lastModifiedAt": "2023-06-06T19:28:33Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "boersen-stjernevingene-glitret-da-rbk-knappet-inn-paa-tabelltoppen",
+        "url": "/sport/fotball/i/kE1Mbj/boersen-stjernevingene-glitret-da-rbk-knappet-inn-paa-tabelltoppen",
+        "title": {
+            "value": "Stjernevingene glitret da RBK knappet inn på tabelltoppen"
+        },
+        "description": "Synne Skinnes Hansen leverte scoringer av høy klasse, mens Anna Jøsendal serverte som en hovmester ved slottet.",
+        "imageUrl": "371aff95-1a76-4ce6-81d6-c5b1c84ab9c7",
+        "publishedAt": "2023-06-06T19:23:22Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "synne-skinnes-hansen",
+            "anna-joesendal",
+            "dagens-ivers",
+            "toppserien"
+        ]
+    },
+    {
+        "slug": "rbk-fikk-revansje-mot-lillestroem",
+        "url": "/sport/fotball/i/JQGn4X/rbk-fikk-revansje-mot-lillestroem",
+        "title": {
+            "value": "RBK fikk revansje: - Verdensklasse"
+        },
+        "description": "To utsøkte scoringer og knalltøffe dueller da RBK knappet inn forspranget på tabellteten.",
+        "imageUrl": "3798fe44-58f1-41e8-87a0-6dfcc40a9ff4",
+        "publishedAt": "2023-06-06T18:53:51Z",
+        "lastModifiedAt": "2023-06-06T19:33:23Z",
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "toppserien",
+            "synne-skinnes-hansen",
+            "steinar-lein",
+            "anna-joesendal",
+            "emilie-joramo"
+        ]
+    },
+    {
+        "slug": "hjemmeseier-for-ranheim-2-over-vuku",
+        "url": "/lokalfotballen/i/GM8Po6/hjemmeseier-for-ranheim-2-over-vuku",
+        "title": {
+            "value": "Ranheim 2-seier over Vuku"
+        },
+        "description": "Ranheim 2 slo Vuku 4-1 og tok dermed tre poeng i G16 1. divisjon, Avdeling 1 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-06T18:47:39Z",
+        "lastModifiedAt": "2023-06-06T19:28:32Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "ny-seier-for-freidig-2",
+        "url": "/lokalfotballen/i/76JPEK/ny-seier-for-freidig-2",
+        "title": {
+            "value": "Storseier for Freidig 2"
+        },
+        "description": "Freidig 2 slo Ranheim 2 7-1 på bortebane i G13 2. divisjon, Avdeling 4 - Vår. Freidig 2 har vunnet tre strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-06T18:44:32Z",
+        "lastModifiedAt": "2023-06-06T18:59:07Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "foersteplassen-gikk-til-ranheim-2",
+        "url": "/lokalfotballen/i/Q7KrQP/foersteplassen-gikk-til-ranheim-2",
+        "title": {
+            "value": "Førsteplassen ble sikret"
+        },
+        "description": "Ranheim 2 slo Freidig 2 3-1 og har dermed tatt poeng i ni kamper på rad",
+        "imageUrl": null,
+        "publishedAt": "2023-06-06T18:35:14Z",
+        "lastModifiedAt": "2023-06-06T19:28:32Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "storseier-for-tiller-2",
+        "url": "/lokalfotballen/i/q1EOjz/storseier-for-tiller-2",
+        "title": {
+            "value": "Brakseier for Tiller 2"
+        },
+        "description": "Tiller 2 slo Utleira 2 på hjemmebane 6-0 og sikret dermed tre poeng i G13 2. divisjon, Avdeling 4 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-06T18:33:09Z",
+        "lastModifiedAt": "2023-06-06T18:59:06Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ranheim-avgjorde-foersteplassen",
+        "url": "/lokalfotballen/i/bgdkEB/ranheim-avgjorde-foersteplassen",
+        "title": {
+            "value": "Førsteplassen gikk til Ranheim"
+        },
+        "description": "Ranheim slo Gauldal/Melhus/Gimse 11-0 og har dermed tatt poeng i sju kamper på rad",
+        "imageUrl": null,
+        "publishedAt": "2023-06-06T18:29:44Z",
+        "lastModifiedAt": "2023-06-06T19:00:09Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "tomaalshelten-sikret-seier-for-orkla-2-9er",
+        "url": "/lokalfotballen/i/4oGEMq/tomaalshelten-sikret-seier-for-orkla-2-9er",
+        "title": {
+            "value": "Theodor Mælen Ysland scoret to for Orkla 2 9er"
+        },
+        "description": "Theodor Mælen Ysland scoret to mål og hjalp Orkla 2 9er til 4-0-seier over KIL/Hemne 9er i G14 9er, Avdeling 3 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-06T18:24:12Z",
+        "lastModifiedAt": "2023-06-06T18:59:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "foelg-rbks-bortekamp-mot-lillestroem",
+        "url": "/sport/fotball/i/WRWRqL/foelg-rbks-bortekamp-mot-lillestroem",
+        "title": {
+            "value": "Følg RBKs bortekamp mot Lillestrøm"
+        },
+        "description": "Kun tre dager etter seieren på Lerkendal skal Rosenborg-damene i aksjon igjen. Fra klokken 19 kan du følge bortekampen mot LSK Kvinner nedenfor.",
+        "imageUrl": "c18e4eb2-5f61-4fc4-80e7-c1b413f5c35b",
+        "publishedAt": "2023-06-06T16:30:00Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": []
+    }
+]

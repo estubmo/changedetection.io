@@ -1,0 +1,379 @@
+[
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9znk09",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9znk09",
+        "preamble": "(Newcastle-Leicester 0–0) Det går mot en neglebitende siste kampdag for supporterne til Everton, Leicester og Leeds. To av dem må følge Southampton ned.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 22:56:18",
+            "niceformat": "22.05.2023, 22:56",
+            "timestamp": "2023-05-22T20:56:18.000Z"
+        },
+        "thumbnail": {
+            "height": 272,
+            "url": "https://akamai.vgc.no/v2/images/a91aa7f2-df28-41e3-bd50-97fd92a38611?fit=crop&format=auto&h=272&w=400&s=c6f20e138ae43e6b92dd355a7a371171ebc0d4e8",
+            "width": 400
+        },
+        "title": "Leeds, Everton og Leicester: Hvem rykker ned?",
+        "url": "https://www.vg.no/sport/fotball/i/9znk09/leeds-everton-og-leicester-hvem-rykker-ned"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "abLO37",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/abLO37",
+        "preamble": "MANCHESTER (VG) Erling Braut Haaland (22) har blitt en global superstjerne. I et stort intervju forteller han om hvordan hverdagen hans er endret – og hva han gjør motsatt av mange toppspillere.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 22:53:56",
+            "niceformat": "22.05.2023, 22:53",
+            "timestamp": "2023-05-22T20:53:56.000Z"
+        },
+        "thumbnail": {
+            "height": 283,
+            "url": "https://akamai.vgc.no/v2/images/993ebb88-c1be-4c92-a60a-da22f3257798?fit=crop&format=auto&h=283&w=400&s=2f1968c394e6dd594a38c6e0bb0e5d12a9394390",
+            "width": 400
+        },
+        "title": "Haaland om stjernestatusen: – Jeg kan ikke leve normalt lenger",
+        "url": "https://www.vg.no/sport/fotball/i/abLO37/erling-braut-haaland-om-stjernetausen-jeg-kan-ikke-leve-normalt-lenger"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "onBK80",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/onBK80",
+        "preamble": "Den franske storavisen L’Équipe hevder at Manchester United er i diskusjoner med Paris Saint-Germain om en overgang for Neymar (31).",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 20:28:04",
+            "niceformat": "22.05.2023, 20:28",
+            "timestamp": "2023-05-22T18:28:04.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0bfa79fa-bc2e-4022-a46b-897b7f67cdf8?fit=crop&format=auto&h=267&w=400&s=3a062b0dc030cb61e81a4ec935f0a3ccf066386d",
+            "width": 400
+        },
+        "title": "L’Équipe: Manchester United i diskusjoner med PSG om Neymar",
+        "url": "https://www.vg.no/sport/fotball/i/onBK80/lequipe-manchester-united-forhandler-med-psg-om-neymar"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3XKee",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3XKee",
+        "preamble": "(Empoli – Juventus 4–1) Juventus er trukket ti poeng i den italienske toppdivisjonen Serie A. Få timer etter at poengtrekket ble bekreftet, gikk de på en kjempesmell borte mot Empoli.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 20:17:38",
+            "niceformat": "22.05.2023, 20:17",
+            "timestamp": "2023-05-22T18:17:38.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a64d043e-6813-41f5-a927-6fa5de2ab5d0?fit=crop&format=auto&h=267&w=400&s=32cc8b2b58db3fd0d43f10321c6db94f9fbafd68",
+            "width": 400
+        },
+        "title": "Juventus trukket ti poeng – Champions League er i fare for storklubben",
+        "url": "https://www.vg.no/sport/fotball/i/l3XKee/italiensk-nyhetsbyraa-juventus-trukket-ti-poeng"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jlXvPA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jlXvPA",
+        "preamble": "David Møller Wolfe (21) er solgt til nederlandske AZ Alkmaar fra Brann. Han har signert en kontrakt som gjelder frem til sommeren 2028.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 17:16:45",
+            "niceformat": "22.05.2023, 17:16",
+            "timestamp": "2023-05-22T15:16:45.000Z"
+        },
+        "thumbnail": {
+            "height": 241,
+            "url": "https://akamai.vgc.no/v2/images/86757917-7ccd-4e9b-b2ed-857f699482fa?fit=crop&format=auto&h=241&w=400&s=c9ce0cc0cb1e22c61716da3f99521c2856ebcc24",
+            "width": 400
+        },
+        "title": "Bekreftet: Wolfe solgt til AZ Alkmaar",
+        "url": "https://www.vg.no/sport/fotball/i/jlXvPA/brann-bekrefter-wolfe-solgt-til-nederland"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3Xnde",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3Xnde",
+        "preamble": "Polske Szymon Marciniak skal dømme mesterligafinalen i fotball mellom Manchester City og Inter Milan 10. juni. Anthony Taylor dømmer europaligafinalen.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 16:03:19",
+            "niceformat": "22.05.2023, 16:03",
+            "timestamp": "2023-05-22T14:03:19.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/f8db5d11-116d-4b82-b0e1-9765b0627565?fit=crop&format=auto&h=266&w=400&s=ccbdc2453c692cd37260a70660e5ea3569d1c78b",
+            "width": 400
+        },
+        "title": "Marciniak dømmer mesterligafinalen i fotball – Taylor dømmer finalen i europaligaen",
+        "url": "https://www.vg.no/sport/fotball/i/l3Xnde/marciniak-doemmer-mesterligafinalen-i-fotball-taylor-doemmer-finalen-i-europaligaen"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgXm5V",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgXm5V",
+        "preamble": "Premier League-tittelen endte i en stor familiefest for Erling Braut Haaland. Isabel Haugseng Johansen (18) var med på feiringen.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 13:40:00",
+            "niceformat": "22.05.2023, 13:40",
+            "timestamp": "2023-05-22T11:40:00.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/303ffce2-964f-4992-b4c0-a707bf7e029d?fit=crop&format=auto&h=267&w=400&s=7b8f64058ebd8d98ad2b770d6137795c77c8b76c",
+            "width": 400
+        },
+        "title": "Haaland tok med Isabel (18) på scenen",
+        "url": "https://www.vg.no/sport/fotball/i/xgXm5V/erling-braut-haaland-tok-med-isabel-haugseng-johansen-18-paa-scenen"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Kn18G6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Kn18G6",
+        "preamble": "Hodeskaden til Rosenborg-spiss Isak Snær Thorvaldsson holder islendingen borte fra fotballen en god stund til.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 13:39:05",
+            "niceformat": "22.05.2023, 13:39",
+            "timestamp": "2023-05-22T11:39:05.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/634c04cc-f01b-4e7c-b33d-fe5568751ae4?fit=crop&format=auto&h=267&w=400&s=2b9113f2747893364a60a59433a0304b9f6711be",
+            "width": 400
+        },
+        "title": "Rosenborg-spiss mister flere kamper",
+        "url": "https://www.vg.no/sport/fotball/i/Kn18G6/rosenborg-spiss-mister-flere-kamper"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "15w65e",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/15w65e",
+        "preamble": "Cupfinalen i fotball for menn ga så vidt over 200.000 seere på NRK, melder Kampanje.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 12:59:39",
+            "niceformat": "22.05.2023, 12:59",
+            "timestamp": "2023-05-22T10:59:39.000Z"
+        },
+        "thumbnail": {
+            "height": 246,
+            "url": "https://akamai.vgc.no/v2/images/216378bc-e1b3-4763-a104-a79e19cbba4a?fit=crop&format=auto&h=246&w=400&s=33b329a3c5e9c8a9e39e3c841c2c5cabbfe522b9",
+            "width": 400
+        },
+        "title": "Stort seerfall på cupfinalen",
+        "url": "https://www.vg.no/sport/fotball/i/15w65e/stort-seerfall-paa-cupfinalen"
+    },
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76L3mW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76L3mW",
+        "preamble": "Lillestrøms Ruben Gabrielsen (31) var i utdrikningslag torsdag - uten å drikke alkohol, ifølge ham selv. Lørdag spilte han cupfinale mot Brann.",
+        "published": {
+            "date": "mandag 22. mai",
+            "datetime": "2023-05-22 12:04:42",
+            "niceformat": "22.05.2023, 12:04",
+            "timestamp": "2023-05-22T10:04:42.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/2cc559f8-5af4-427a-b54f-31b0687b03b9?fit=crop&format=auto&h=267&w=400&s=2c77f43d61534ccd90d4182023721dfacfc048e3",
+            "width": 400
+        },
+        "title": "Ruben Gabrielsen i utdrikningslag to dager før cupfinalen: – Påvirket meg ikke i det hele tatt",
+        "url": "https://www.vg.no/sport/fotball/i/76L3mW/lillestroem-spiller-ruben-gabrielsen-i-utdrikningslag-to-dager-foer-cupfinalen-paavirket-meg-ikke-i-det-hele-tatt"
+    }
+]

@@ -1,0 +1,188 @@
+[
+    {
+        "slug": "dobbel-lykke-i-svorkmo-meldal-9er-seier",
+        "url": "/lokalfotballen/i/y6bone/dobbel-lykke-i-svorkmo-meldal-9er-seier",
+        "title": {
+            "value": "Dobbel fra Jacob Mo Rønning for Svorkmo/Meldal 9er"
+        },
+        "description": "Svorkmo/Meldal 9er kunne juble for sesongens første trepoenger etter dagens 2-1-seier mot Orkla 2 9er. I G14 9er, Avdeling 3 - Vår mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T18:16:23Z",
+        "lastModifiedAt": "2023-05-15T18:28:29Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "presset-rekdal-faar-meldinger-fra-supportere-sier-jeg-ikke-er-velkommen-her",
+        "url": "/sport/fotball/i/KnqxRX/presset-rekdal-faar-meldinger-fra-supportere-sier-jeg-ikke-er-velkommen-her",
+        "title": {
+            "value": "Presset Rekdal får meldinger fra supportere: – Sier jeg ikke er velkommen her "
+        },
+        "description": "Det trykket Kjetil Rekdal nå opplever, har han aldri kjent på før. Nå prøver han å skjerme spillerne fra det samme presset.",
+        "imageUrl": "d9a9f94c-66c1-4d53-9860-090f2287c7cf",
+        "publishedAt": "2023-05-15T15:36:46Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "solgte-to-leiligheter-for-over-100-000-kroner-per-kvadratmeter",
+        "url": "/mn24/i/wAbo64/solgte-to-leiligheter-for-over-100-000-kroner-per-kvadratmeter",
+        "title": {
+            "value": "Én type boliger er spesielt populære nå: - Merker ekstra trykk"
+        },
+        "description": "Spesielt én type leiligheter er populære nå og selges for langt over gjennomsnittlig kvadratmeterpris, ifølge megler Markus Tangvik.",
+        "imageUrl": "67dc4631-3026-48ec-9f0d-cbaf05138292",
+        "publishedAt": "2023-05-15T14:00:11Z",
+        "lastModifiedAt": "2023-05-15T14:00:11Z",
+        "premium": true,
+        "authors": [
+            "Synne Mauseth, MN24"
+        ],
+        "tags": [
+            "trondheim",
+            "rosenborg",
+            "bolig"
+        ]
+    },
+    {
+        "slug": "solbakken-avsloerte-egen-loenn-mesterskap-gir-stor-millionbonus",
+        "url": "/nyheter/innenriks/i/xgbBk8/solbakken-avsloerte-egen-loenn-mesterskap-gir-stor-millionbonus",
+        "title": {
+            "value": "Solbakken avslørte egen lønn – mesterskap gir stor millionbonus"
+        },
+        "description": "Ståle Solbakken får 6 millioner kroner i grunnlønn som norsk landslagssjef i fotball. Han gikk selv ut med summen på et pressetreff mandag.",
+        "imageUrl": "660eedda-c8a4-419a-a6ec-d173f18bd623",
+        "publishedAt": "2023-05-15T12:25:41Z",
+        "lastModifiedAt": "2023-05-15T12:25:41Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "nessegutten-7er-vant-igjen",
+        "url": "/lokalfotballen/i/WR3Ggd/nessegutten-7er-vant-igjen",
+        "title": {
+            "value": "Nessegutten 7er vant igjen"
+        },
+        "description": "Marte Stormo Winje scoret fem av målene og hjalp Nessegutten 7er til 10-1-seier over Namdalseid 7er i 7er, Trøndelag - Avdeling 1 i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-15T10:26:07Z",
+        "lastModifiedAt": "2023-05-15T10:26:07Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "rbk-spissen-skadet-naa-ryker-storkampen",
+        "url": "/sport/fotball/i/9zMJ3r/rbk-spissen-skadet-naa-ryker-storkampen",
+        "title": {
+            "value": "RBK-spissen skadet: Nå ryker storkampen"
+        },
+        "description": "Isak Snær Thorvaldsson trente ikke dagen før 16.mai-festen på Lerkendal.",
+        "imageUrl": "008f28da-1079-47a4-b8f1-a6630dd21d91",
+        "publishedAt": "2023-05-15T10:21:05Z",
+        "lastModifiedAt": "2023-05-15T12:04:08Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken",
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "solbakken-forlenger-som-norsk-landslagssjef-i-fotball",
+        "url": "/nyheter/innenriks/i/EQqrqP/solbakken-forlenger-som-norsk-landslagssjef-i-fotball",
+        "title": {
+            "value": "Solbakken satser mot VM i 2026: – Vi er på rett vei"
+        },
+        "description": "Ståle Solbakken har forlenget avtalen som trener for Norges herrelandslag i fotball. Han er med videre til et eventuelt VM-sluttspill sommeren 2026.",
+        "imageUrl": "08d2d6de-5e67-48a6-9ce6-ff785cb752ad",
+        "publishedAt": "2023-05-15T07:39:35Z",
+        "lastModifiedAt": "2023-05-15T11:25:07Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "hjemmeseier-for-kolstad-7er-over-hitra-7er",
+        "url": "/lokalfotballen/i/rlb2XK/hjemmeseier-for-kolstad-7er-over-hitra-7er",
+        "title": {
+            "value": "Hjemmeseier for Kolstad 7er over Hitra 7er"
+        },
+        "description": "Med dagens 1-3-tap har Hitra 7er ikke tatt et eneste poeng på de første tre kampene i år. I 7er, Trøndelag - Avdeling 2 søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-14T20:22:29Z",
+        "lastModifiedAt": "2023-05-14T20:22:29Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya"
+        ]
+    },
+    {
+        "slug": "magnus-qvigstad-med-maalshow",
+        "url": "/lokalfotballen/i/0Qkd0o/magnus-qvigstad-med-maalshow",
+        "title": {
+            "value": "Ranheim viste muskler"
+        },
+        "description": "Magnus Qvigstad viste scoringsform da Ranheim vant 10-2 over Strindheim i G16 Elite, Vår søndag. Det var Ranheims sjette trepoenger på rad, og de har dermed full pott denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-14T20:17:04Z",
+        "lastModifiedAt": "2023-05-14T21:21:17Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "buvik-snudde-til-seier",
+        "url": "/lokalfotballen/i/4o0wvo/buvik-snudde-til-seier",
+        "title": {
+            "value": "Buvik snudde til seier mot Strindheim 3"
+        },
+        "description": "Buvik lå under 0-1, men snudde til 3-1-seier over Strindheim 3 i 5. divisjon, Trøndelag - Avdeling 3 i fotball søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-14T20:15:04Z",
+        "lastModifiedAt": "2023-05-14T20:22:29Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-tronderbladet"
+        ]
+    }
+]

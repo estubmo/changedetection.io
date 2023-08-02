@@ -1,0 +1,369 @@
+[
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WR2Bek",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WR2Bek",
+        "preamble": "(Haugesund – Lillestrøm 1–0) Simon Mesfin gikk på sitt første tap som midlertidig LSK-trener i møte med Haugesund i Eliteserien søndag. Etter kampen kokte det over for Akor Adams.",
+        "published": {
+            "date": "søndag 23. juli",
+            "datetime": "2023-07-23 18:57:43",
+            "niceformat": "23.07.2023, 18:57",
+            "timestamp": "2023-07-23T16:57:43.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/95d1f9ce-f00f-4de3-958f-608212325982?fit=crop&format=auto&h=267&w=400&s=27b8730e52fe5fba349ea224ec1b870827ef19df",
+            "width": 400
+        },
+        "title": "Illsint Adams utvist etter kampslutt: – Mye energi som må ut",
+        "url": "https://www.vg.no/sport/fotball/i/WR2Bek/foerste-tap-for-mesfins-lsk-dansk-matchvinner-for-haugesund"
+    },
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            },
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q72BEJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q72BEJ",
+        "preamble": "(Sandefjord – Bodø/Glimt 2–5) Sandefjord overrasket før pause, men Bodø/Glimt-toget dundrer videre på toppen av tabellen.",
+        "published": {
+            "date": "søndag 23. juli",
+            "datetime": "2023-07-23 18:56:16",
+            "niceformat": "23.07.2023, 18:56",
+            "timestamp": "2023-07-23T16:56:16.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/777a26de-9ca9-4e54-8088-9b082d54c5b7?fit=crop&format=auto&h=267&w=400&s=110a6f73a5fdf17e5a9966163133a95dd616262e",
+            "width": 400
+        },
+        "title": "Sandefjord sjokkerte Bodø/Glimt – serielederen slo knallhardt tilbake",
+        "url": "https://www.vg.no/sport/fotball/i/Q72BEJ/sandefjord-sjokkerte-bodoe-glimt-serielederen-slo-knallhardt-tilbake"
+    },
+    {
+        "authors": [
+            {
+                "email": "kristine.bechmann.holter@schibsted.no",
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEQO3B",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEQO3B",
+        "preamble": "(Odd – Vålerenga 2–1) VAR brukte så mye som over syv minutter på å godkjenne Odds scoring mot Vålerenga. Det får ekspertene til å rase. ",
+        "published": {
+            "date": "søndag 23. juli",
+            "datetime": "2023-07-23 18:32:24",
+            "niceformat": "23.07.2023, 18:32",
+            "timestamp": "2023-07-23T16:32:24.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/e4902b7c-2cc0-4f19-8532-f0150098c797?fit=crop&format=auto&h=267&w=400&s=428f56d347469314ca82030c752dc260d7e87be5",
+            "width": 400
+        },
+        "title": "Tordner mot VAR-sjekk: – Det her er jo en skandale",
+        "url": "https://www.vg.no/sport/fotball/i/gEQO3B/tordner-mot-var-sjekk-det-her-er-jo-en-skandale"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jl17m0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jl17m0",
+        "preamble": "(HamKam – Stabæk 3–2) HamKam tok sin tredje strake seier i Eliteserien da Stabæk ble sendt hjem med overtidsstap fra Briskeby.",
+        "published": {
+            "date": "søndag 23. juli",
+            "datetime": "2023-07-23 17:12:15",
+            "niceformat": "23.07.2023, 17:12",
+            "timestamp": "2023-07-23T15:12:15.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/20155b29-a322-4bf1-8a3c-0941bd3cde12?fit=crop&format=auto&h=267&w=400&s=4ff97385a9c9cf5b6ea1d165e04e7c17e9992859",
+            "width": 400
+        },
+        "title": "HamKam tok sin tredje strake seier med overtidsscoring",
+        "url": "https://www.vg.no/sport/fotball/i/jl17m0/hamkam-fansen-forlot-banen-i-protest-mot-var"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "mQndLE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/mQndLE",
+        "preamble": "Storkampen mellom Henning Bergs AIK og Malmö startet opp igjen klokken 17 etter at supportere brukte knallskudd.",
+        "published": {
+            "date": "søndag 23. juli",
+            "datetime": "2023-07-23 16:52:08",
+            "niceformat": "23.07.2023, 16:52",
+            "timestamp": "2023-07-23T14:52:08.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/e3df4bb6-eec5-416c-986d-d040fbdeb3df?fit=crop&format=auto&h=267&w=400&s=80962ff36cc5bd9933c88b28f1ed40eac756bca9",
+            "width": 400
+        },
+        "title": "Svensk storkamp gjenopptatt etter supportertrøbbel: – Vil at alle skal oppføre seg",
+        "url": "https://www.vg.no/sport/fotball/i/mQndLE/svensk-storkamp-gjenopptas-etter-supportertroebbel"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            },
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zE3065",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zE3065",
+        "preamble": "VGs spørrerunde til Eliteseriens supporterklubber gir et tydelig svar: Et flertall ønsker VAR fjernet fra norske arenaer – og ingen av dem snakker for videodømming. ",
+        "published": {
+            "date": "søndag 23. juli",
+            "datetime": "2023-07-23 14:39:59",
+            "niceformat": "23.07.2023, 14:39",
+            "timestamp": "2023-07-23T12:39:59.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/f6e51c0a-e98d-4cb8-86f6-664063113674?fit=crop&format=auto&h=267&w=400&s=1179de3ae0dc6b61cc3c2466808850bb48c86e51",
+            "width": 400
+        },
+        "title": "Supporter-opprør i Norge: – VAR ødelegger gleden ved å være supporter ",
+        "url": "https://www.vg.no/sport/fotball/i/zE3065/eliteserien-supporter-opproer-rundt-var"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q1rr00",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q1rr00",
+        "preamble": "Alex Telles (30) skifter beite fra Manchester United og blir lagkamerat med Cristiano Ronaldo i Al-Nassr.",
+        "published": {
+            "date": "søndag 23. juli",
+            "datetime": "2023-07-23 12:28:53",
+            "niceformat": "23.07.2023, 12:28",
+            "timestamp": "2023-07-23T10:28:53.000Z"
+        },
+        "thumbnail": {
+            "height": 278,
+            "url": "https://akamai.vgc.no/v2/images/35b09312-b324-43e9-8ffe-68ea1e6978a3?fit=crop&format=auto&h=278&w=400&s=e35f71cd65a91a7a0e91e7f530cb65623a951f96",
+            "width": 400
+        },
+        "title": "United-forsvarer klar for Ronaldos Saudi-klubb",
+        "url": "https://www.vg.no/sport/fotball/i/q1rr00/united-forsvarer-klar-for-ronaldos-saudi-klubb"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kELLgX",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kELLgX",
+        "preamble": "TOKYO (VG) (Yokohama F. Marinos – Manchester City 3–5) Tusenvis av japanere sto klare for å se Erling Braut Haaland (23) og Manchester City. Nordmannen viste seg frem allerede etter seks minutter og 51 sekunder.",
+        "published": {
+            "date": "søndag 23. juli",
+            "datetime": "2023-07-23 11:08:28",
+            "niceformat": "23.07.2023, 11:08",
+            "timestamp": "2023-07-23T09:08:28.000Z"
+        },
+        "thumbnail": {
+            "height": 250,
+            "url": "https://akamai.vgc.no/v2/images/d5cced33-d27d-4d96-85b1-265c69482141?fit=crop&format=auto&h=250&w=400&s=f81ac55fdd6e54d0e1820cfa7d7e754c4084068f",
+            "width": 400
+        },
+        "title": "Haaland-feber i Tokyo: Scoret to mål i sesongens første treningskamp",
+        "url": "https://www.vg.no/sport/fotball/i/kELLgX/haaland-feber-i-tokyo-kommer-til-aa-score-50-maal"
+    },
+    {
+        "authors": [
+            {
+                "email": "per.opsahl@vg.no",
+                "id": "a8b54406-d047-4b1c-90e2-f9f77a0e7317",
+                "name": "Per Opsahl"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q72qwR",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q72qwR",
+        "preamble": "Strømsgodset-kaptein Gustav Valsvik (30) er i knallform – og gleder seg litt ekstra til kveldens møte med klubben som vraket ham for to år siden. ",
+        "published": {
+            "date": "søndag 23. juli",
+            "datetime": "2023-07-23 10:09:07",
+            "niceformat": "23.07.2023, 10:09",
+            "timestamp": "2023-07-23T08:09:07.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6cf50c8f-88b7-4f48-bf76-a22a9626f063?fit=crop&format=auto&h=267&w=400&s=7f570163ef0d3f053db66fb7683076a86a3749e9",
+            "width": 400
+        },
+        "title": "Godset-Valsvik før møtet med gamleklubben RBK: – Et sårbart lag",
+        "url": "https://www.vg.no/sport/fotball/i/Q72qwR/gustav-valsvik-foer-moetet-med-gamleklubben-rosenborg-et-saarbart-lag"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8J11Ww",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8J11Ww",
+        "preamble": "(Sverige - Sør-Afrika 2–1) Sverige fikk det vanskelig mot Sør-Afrika i sin åpningskamp av VM, men en sen scoring reddet tre poeng for de gule og blå.",
+        "published": {
+            "date": "søndag 23. juli",
+            "datetime": "2023-07-23 08:58:00",
+            "niceformat": "23.07.2023, 08:58",
+            "timestamp": "2023-07-23T06:58:00.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/IiW39YbPRwrE.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Overtidsscoring sikret svensk seier – fikk motstand av Sør-Afrika",
+        "url": "https://www.vg.no/sport/fotball/i/8J11Ww/overtidsscoring-sikret-svensk-trepoenger-fikk-motstand-av-soer-afrika"
+    }
+]

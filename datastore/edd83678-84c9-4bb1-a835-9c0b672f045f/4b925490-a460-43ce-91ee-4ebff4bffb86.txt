@@ -1,0 +1,205 @@
+[
+    {
+        "slug": "rekdals-varsler-oppvask-jeg-er-godt-sjokkert",
+        "url": "/sport/fotball/i/rlX9yl/rekdals-varsler-oppvask-jeg-er-godt-sjokkert",
+        "title": {
+            "value": "Rekdal varsler oppvask: - Jeg er godt sjokkert"
+        },
+        "description": "Kjetil Rekdal varsler en til en-prat med hver enkelt spiller.",
+        "imageUrl": "aa4e7332-7a36-4232-b8da-5bada00ecb2a",
+        "publishedAt": "2023-05-24T18:15:24Z",
+        "lastModifiedAt": "2023-05-24T18:28:23Z",
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "froeya-il-slo-kil-hemne-i-toppkampen",
+        "url": "/lokalfotballen/i/76LjMv/froeya-il-slo-kil-hemne-i-toppkampen",
+        "title": {
+            "value": "Frøya IL gikk seirende ut av toppoppgjøret"
+        },
+        "description": "Med dagens 1-2-tap mot Frøya IL gikk KIL/Hemne på sesongens første nederlag. I J15 2. divisjon, Avdeling 3 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-24T18:12:04Z",
+        "lastModifiedAt": "2023-05-24T18:33:54Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "kjoerte-i-134-kilometer-i-timen",
+        "url": "/nyhetsstudio/i/q1X3vz/kjoerte-i-134-kilometer-i-timen",
+        "title": {
+            "value": "Tatt i 134 km/t i Trondheim"
+        },
+        "description": null,
+        "imageUrl": null,
+        "publishedAt": "2023-05-24T18:08:57Z",
+        "lastModifiedAt": "2023-05-24T18:11:08Z",
+        "premium": true,
+        "authors": [
+            "Norunn Bergesen"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "torbjoern-stanget-melhus-til-himmels",
+        "url": "/sport/fotball/i/zEX9E9/torbjoern-stanget-melhus-til-himmels",
+        "title": {
+            "value": "Vil ha RBK på besøk: - Vi har sjans"
+        },
+        "description": "Torbjørn Trøen hadde en drømmedag på jobben og sørget for avansement i cupen.",
+        "imageUrl": "ff67162a-7971-4247-a53d-f5727aa87ae3",
+        "publishedAt": "2023-05-24T17:52:55Z",
+        "lastModifiedAt": "2023-05-24T18:12:50Z",
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "melhus",
+            "kolstad",
+            "melhus-il",
+            "kolstad-il",
+            "fotball",
+            "sport"
+        ]
+    },
+    {
+        "slug": "rbk-imponerte-ingen-i-cupen",
+        "url": "/sport/fotball/i/6915q3/rbk-imponerte-ingen-i-cupen",
+        "title": {
+            "value": "Knepen seier - imponerte ingen"
+        },
+        "description": "Rosenborg gikk videre. Og dét var omtrent dét på Lade.",
+        "imageUrl": "9b0a9b37-aa26-4a5e-9260-d907e390f30c",
+        "publishedAt": "2023-05-24T17:50:55Z",
+        "lastModifiedAt": "2023-05-24T18:09:25Z",
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "agon-sadiku",
+            "rosenborg-bk",
+            "nm-i-fotball"
+        ]
+    },
+    {
+        "slug": "droemmestart-for-kolstad-knuste-rivalen-for-fjerde-gang",
+        "url": "/sport/i/APkxlM/droemmestart-for-kolstad-knuste-rivalen-for-fjerde-gang",
+        "title": {
+            "value": "Drømmestart for Kolstad: Knuste rivalen for fjerde gang "
+        },
+        "description": "Det var spennende i én finaleomgang. Så sa Kolstad takk og farvel til Elverum.",
+        "imageUrl": "43ac14ad-6580-4c4b-bfd6-62d6e8464cfb",
+        "publishedAt": "2023-05-24T17:47:22Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "haandball",
+            "kolstad-haandball",
+            "christian-berge"
+        ]
+    },
+    {
+        "slug": "formlaget-tok-seg-enkelt-videre",
+        "url": "/sport/fotball/i/BWd6Wl/formlaget-tok-seg-enkelt-videre",
+        "title": {
+            "value": "20-åringen leverte hattrick i storseier"
+        },
+        "description": "Den tidligere RBK-kjempen Per Verner Rønning og Levanger hadde null problemer med å ta seg videre.",
+        "imageUrl": "f03e9656-c2e5-4a3e-8563-b51d5f8a0d06",
+        "publishedAt": "2023-05-24T17:47:14Z",
+        "lastModifiedAt": "2023-05-24T18:17:47Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "levanger-fk",
+            "orkla-fk",
+            "nm"
+        ]
+    },
+    {
+        "slug": "livets-harde-skole-moeter-dasspapirselgerne",
+        "url": "/meninger/i/onBkRR/livets-harde-skole-moeter-dasspapirselgerne",
+        "title": {
+            "value": "Hver gang du kjøper dopapir av en «helikopterpappa», har du spart skattepenger i fremtiden"
+        },
+        "description": null,
+        "imageUrl": "2a9ac976-d4ae-4757-9d16-45d7b9fe1ca3",
+        "publishedAt": "2023-05-24T16:44:23Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Børge Ånesen"
+        ],
+        "tags": [
+            "debatt",
+            "idrettspolitikk",
+            "inkludering",
+            "facebook",
+            "idrett",
+            "barn",
+            "dugnad",
+            "fotball",
+            "idrettsanlegg"
+        ]
+    },
+    {
+        "slug": "smeller-bomben-paa-lade-foelg-cupfesten-her",
+        "url": "/sport/fotball/i/APk0jA/smeller-bomben-paa-lade-foelg-cupfesten-her",
+        "title": {
+            "value": "Vi fulgte cupfesten her "
+        },
+        "description": "Vi går direkte i studio fra 17.45, og er på plass med reporter på fire arenaer!",
+        "imageUrl": "d5beeea6-38d5-411b-955b-163d867ffb49",
+        "publishedAt": "2023-05-24T13:58:16Z",
+        "lastModifiedAt": "2023-05-24T15:36:00Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball"
+        ]
+    },
+    {
+        "slug": "freidig-2-med-hjemmeseier-over-rissa-stadsbygd-vanvik",
+        "url": "/lokalfotballen/i/rlX5j8/freidig-2-med-hjemmeseier-over-rissa-stadsbygd-vanvik",
+        "title": {
+            "value": "Freidig 2 med hjemmeseier over Rissa/Stadsbygd/Vanvik"
+        },
+        "description": "Freidig 2 seiret 5-0 over Rissa/Stadsbygd/Vanvik i J13 2. divisjon, Avdeling 4 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-24T12:28:05Z",
+        "lastModifiedAt": "2023-05-24T12:28:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    }
+]

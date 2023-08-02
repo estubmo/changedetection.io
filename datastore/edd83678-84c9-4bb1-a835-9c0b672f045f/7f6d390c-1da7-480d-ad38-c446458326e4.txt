@@ -1,0 +1,210 @@
+[
+    {
+        "slug": "guven-scoret-hattrick-for-kolstad-7er",
+        "url": "/lokalfotballen/i/WRW27g/guven-scoret-hattrick-for-kolstad-7er",
+        "title": {
+            "value": "Güven scoret hattrick for Kolstad 7er"
+        },
+        "description": "Kolstad 7er slo Frøya IL 7er 5-1 i dagens kamp. Frøya IL 7er har gått poengløse av banen i alle kampene sine hittil denne sesongen Derya Güven gjorde hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-11T15:43:58Z",
+        "lastModifiedAt": "2023-06-11T15:43:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    },
+    {
+        "slug": "kristian-melby-birkelund-ble-tomaalshelt",
+        "url": "/lokalfotballen/i/RGQ268/kristian-melby-birkelund-ble-tomaalshelt",
+        "title": {
+            "value": "Kristian Melby Birkelund-dobbel sikret seier"
+        },
+        "description": "Med dagens 3-1-seier over Rosenborg tok Bodø/Glimt sin første seier i årets sesong",
+        "imageUrl": null,
+        "publishedAt": "2023-06-11T15:34:47Z",
+        "lastModifiedAt": "2023-06-11T15:58:19Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "bye-brente-straffe-da-ranheim-tapte-for-serielederen",
+        "url": "/sport/fotball/i/MoJ2oB/bye-brente-straffe-da-ranheim-tapte-for-serielederen",
+        "title": {
+            "value": "Bye brente straffe da Ranheim tapte for serielederen"
+        },
+        "description": "Ranheim hadde alle tiders mulighet å ta ledelsen borte mot Kongsvinger, men Bendik Bye mislyktes fra elleve meter i kampen som endte med 0-3-tap.",
+        "imageUrl": "74e33092-f6bd-4e71-91e1-9744218b9fcf",
+        "publishedAt": "2023-06-11T15:28:52Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "kongsvinger",
+            "fotball",
+            "ranheim",
+            "mjoendalen",
+            "vegard-hansen"
+        ]
+    },
+    {
+        "slug": "ny-seier-for-levanger",
+        "url": "/lokalfotballen/i/O802oE/ny-seier-for-levanger",
+        "title": {
+            "value": "Levanger fortsatte seiersrekken"
+        },
+        "description": "Tromsdalen ga fra seg poeng for første gang på tre kamper da Levanger vant 1-0 i 2. divisjon, Avdeling 2 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-11T14:57:28Z",
+        "lastModifiedAt": "2023-06-11T15:28:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-itromso",
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "fyllingsdalen-senket-av-bjerksaeter",
+        "url": "/lokalfotballen/i/LldBlx/fyllingsdalen-senket-av-bjerksaeter",
+        "title": {
+            "value": "Bjerksæter ble helten for KIL / Hemne"
+        },
+        "description": "Amalie Hoftun Bjerksæter sikret tre poeng for KIL/Hemne da Fyllingsdalen ble slått 1-0 i 1. divisjon, grunnserie søndag. KIL/Hemne har tatt poeng i fem kamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-11T14:56:19Z",
+        "lastModifiedAt": "2023-06-11T15:58:19Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "dommerbraaket-faar-ikke-etterspill-i-ranheim",
+        "url": "/sport/fotball/i/rl3b9e/dommerbraaket-faar-ikke-etterspill-i-ranheim",
+        "title": {
+            "value": "Dommerbråket får ikke etterspill i Ranheim"
+        },
+        "description": "Ranheims styreleder ser ingen grunn til å gå videre med saken etter dommer-rapporten mot Frank Lidahl.",
+        "imageUrl": "1754d762-44d2-4de8-8a4a-09c014602700",
+        "publishedAt": "2023-06-11T14:27:56Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "kolbjoern-selmer",
+            "frank-lidahl",
+            "obos-ligaen",
+            "ranheim-tf"
+        ]
+    },
+    {
+        "slug": "tiller-2-snudde-til-seier-paa-tampen",
+        "url": "/lokalfotballen/i/y6ypRg/tiller-2-snudde-til-seier-paa-tampen",
+        "title": {
+            "value": "Tiller 2 snudde til seier på tampen"
+        },
+        "description": "Tiller 2 har tatt poeng i fem kamper på rad etter dagens 4-3-seier i 5. divisjon, Trøndelag - Avdeling 2 i fotball for menn søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-11T14:18:32Z",
+        "lastModifiedAt": "2023-06-11T14:58:34Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "hva-skjedde",
+        "url": "/magasin/i/XbJ41m/hva-skjedde",
+        "title": {
+            "value": "Hit kom 21-åringen Aslaug som Norges første kvinnelige sivilingeniørstudent. Kort tid etter reiste hun hjem"
+        },
+        "description": "September 1910 presser en ung kvinne seg mot veggen i festsalen på Gløshaugen. Hun er tydelig ukomfortabel med å være der og forsøker å gjøre seg usynlig.",
+        "imageUrl": "85734c11-9371-4efd-953b-475edfb82d4c",
+        "publishedAt": "2023-06-11T14:17:29Z",
+        "lastModifiedAt": "2023-06-11T14:17:29Z",
+        "premium": true,
+        "authors": [
+            "Frode Singsaas"
+        ],
+        "tags": [
+            "rjukan",
+            "handelsbanken",
+            "trondheim",
+            "troendelag",
+            "gloeshaugen",
+            "trondheim-katedralskole",
+            "ntnu",
+            "byantikvaren",
+            "grong",
+            "berlin",
+            "gatelys",
+            "middelalderen",
+            "mette-bye"
+        ]
+    },
+    {
+        "slug": "nordli-dobbel-sikret-seier",
+        "url": "/lokalfotballen/i/mQWnR0/nordli-dobbel-sikret-seier",
+        "title": {
+            "value": "Storseier for Melhus 2"
+        },
+        "description": "Ole Kristian Nordli scoret to ganger og hjalp Melhus 2 til 5-0-seier over Frøya i 6. divisjon, Trøndelag - Avdeling 4 i fotball søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-11T14:03:14Z",
+        "lastModifiedAt": "2023-06-11T14:59:40Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya"
+        ]
+    },
+    {
+        "slug": "ranheim-2-tok-tre-poeng-i-toppkampen",
+        "url": "/lokalfotballen/i/9z0Lll/ranheim-2-tok-tre-poeng-i-toppkampen",
+        "title": {
+            "value": "Ranheim 2 slo Snåsa i toppkampen"
+        },
+        "description": "Ranheim 2 stoppet Snåsas seiersrekke på åtte kamper etter dagens 3-0-seier i J14 2. divisjon, Avdeling 2 - Vår søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-11T13:39:40Z",
+        "lastModifiedAt": "2023-06-11T14:30:00Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

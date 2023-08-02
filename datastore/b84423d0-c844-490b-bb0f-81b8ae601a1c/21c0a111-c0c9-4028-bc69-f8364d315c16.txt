@@ -1,0 +1,371 @@
+[
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "nQb3lB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/nQb3lB",
+        "preamble": "MANCHESTER (VG) (Manchester City – Real Madrid 4–0, 5–1 sammenlagt) Store sjanser, men null mål: Erling Braut Haaland (22) ble stoppet av en magisk Thibaut Courtois på Manchester Citys jubelkveld.",
+        "published": {
+            "date": "torsdag 18. mai",
+            "datetime": "2023-05-18 07:15:53",
+            "niceformat": "18.05.2023, 07:15",
+            "timestamp": "2023-05-18T05:15:53.000Z"
+        },
+        "thumbnail": {
+            "height": 264,
+            "url": "https://akamai.vgc.no/v2/images/b259b4f4-9d3e-4c87-92bf-98ea74a12240?fit=crop&format=auto&h=264&w=400&s=9280dc3c48e9c9c9e854b19f0e93ffd067830e70",
+            "width": 400
+        },
+        "title": "Forundret over Haaland-misser: – Skulle hatt to mål",
+        "url": "https://www.vg.no/sport/fotball/i/nQb3lB/forundret-over-haaland-misser-skulle-hatt-to-maal"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69KmK8",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69KmK8",
+        "preamble": "MANCHESTER (VG) (Manchester City – Real Madrid 4–0, 5–1 sammenlagt) De ydmyket kanskje Real Madrid og gikk til Champions League-finale, men Pep Guardiola vil ikke høre snakk om at hans City er ustoppelige.",
+        "published": {
+            "date": "torsdag 18. mai",
+            "datetime": "2023-05-18 00:41:48",
+            "niceformat": "18.05.2023, 00:41",
+            "timestamp": "2023-05-17T22:41:48.000Z"
+        },
+        "thumbnail": {
+            "height": 304,
+            "url": "https://akamai.vgc.no/v2/images/7747e4c8-c74e-4857-b07a-bee96e9ae2a6?fit=crop&format=auto&h=304&w=400&s=d50d2d8ad6d879c4a008c1083781e39dbe8467c4",
+            "width": 400
+        },
+        "title": "Guardiola refser Grealish-melding: – Jeg liker det ikke",
+        "url": "https://www.vg.no/sport/fotball/i/69KmK8/guardiola-refser-grealish-melding-jeg-liker-det-ikke"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            },
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Xbpvd7",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Xbpvd7",
+        "preamble": "MANCHESTER (VG) (Manchester City – Real Madrid 4–0, 5–1 sammenlagt) Manchester City ydmyket Real Madrid og er i Champions League-finalen. Erling Braut Haaland (22) er i gyllen posisjon til å gjennomføre en historisk bragd.",
+        "published": {
+            "date": "onsdag 17. mai",
+            "datetime": "2023-05-17 22:46:58",
+            "niceformat": "17.05.2023, 22:46",
+            "timestamp": "2023-05-17T20:46:58.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/f03c43ed-5d26-4bf9-bf24-dca5db0a471a?fit=crop&format=auto&h=267&w=400&s=a1fcc7b071ec5afd1f20949999cc905fd02a0ad5",
+            "width": 400
+        },
+        "title": "Manchester City til Champions League-finale – Haaland feiret med norsk flagg",
+        "url": "https://www.vg.no/sport/fotball/i/Xbpvd7/manchester-city-til-champions-league-finale-kan-kopiere-historisk-bragd"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "rlbk3A",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/rlbk3A",
+        "preamble": "MANCHESTER (VG) Her er spisslegenden Alan Shearers råd til Erling Braut Haaland (22) før nordmannens største kamp i karrieren.",
+        "published": {
+            "date": "onsdag 17. mai",
+            "datetime": "2023-05-17 19:07:31",
+            "niceformat": "17.05.2023, 19:07",
+            "timestamp": "2023-05-17T17:07:31.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/917d3a3f-4222-4a94-9192-cefef7e261cb?fit=crop&format=auto&h=267&w=400&s=6b823c76c4b3460fe21bdd587c5588101e6879a9",
+            "width": 400
+        },
+        "title": "Nå venter Haalands største kamp: – Du trenger bare treffe én gang",
+        "url": "https://www.vg.no/sport/fotball/i/rlbk3A/naa-venter-haalands-stoerste-kamp-du-trenger-bare-treffe-en-gang"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76Qbe8",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76Qbe8",
+        "preamble": "Liverpool bekrefter at kvartetten Roberto Firmino, Naby Keita, James Milner og Alex Oxlade-Chamberlain forlater klubben til sommeren.",
+        "published": {
+            "date": "onsdag 17. mai",
+            "datetime": "2023-05-17 18:11:32",
+            "niceformat": "17.05.2023, 18:11",
+            "timestamp": "2023-05-17T16:11:32.000Z"
+        },
+        "thumbnail": {
+            "height": 280,
+            "url": "https://akamai.vgc.no/v2/images/c916efdf-abb6-4536-9db6-98de6dc90bfd?fit=crop&format=auto&h=280&w=400&s=55de1f3ca8296c4c09c7492fd019d301d9c2e7b7",
+            "width": 400
+        },
+        "title": "Liverpool-kvartett forlater klubben",
+        "url": "https://www.vg.no/sport/fotball/i/76Qbe8/liverpool-kvartett-forlater-klubben"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "rlbkQ0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/rlbkQ0",
+        "preamble": "Brentford-spiss Ivan Toney (27) har scoret tredje flest mål i Premier League denne sesongen. Nå må profilen belage seg på en lang tid uten fotball.",
+        "published": {
+            "date": "onsdag 17. mai",
+            "datetime": "2023-05-17 18:05:08",
+            "niceformat": "17.05.2023, 18:05",
+            "timestamp": "2023-05-17T16:05:08.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/fcc52eb9-c33e-4280-8fdd-a0e9af4fd6ca?fit=crop&format=auto&h=267&w=400&s=5662317bd79a84c1123e559ed4c0b2e4640958d4",
+            "width": 400
+        },
+        "title": "Premier League-stjerne utestengt i åtte måneder for gambling",
+        "url": "https://www.vg.no/sport/fotball/i/rlbkQ0/premier-league-stjerne-utestengt-i-aatte-maaneder-for-gambling"
+    },
+    {
+        "authors": [
+            {
+                "email": "leif.welhaven@vg.no",
+                "id": "e46ed1bb-8354-4bd4-97d3-09ac43c5dc8f",
+                "name": "Leif Welhaven"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BWqo49",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BWqo49",
+        "preamble": "Denne feiringen må ha gitt Brann-spillerne langt mer energi enn de brukte på å rusle litt i komfortabelt fottøy.",
+        "published": {
+            "date": "onsdag 17. mai",
+            "datetime": "2023-05-17 17:49:51",
+            "niceformat": "17.05.2023, 17:49",
+            "timestamp": "2023-05-17T15:49:51.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/7ca0753a-8617-47c7-897d-eee68771d4a7?fit=crop&format=auto&h=267&w=400&s=2c2d7af4c89c54499c16d33bc1b8679cf023ece7",
+            "width": 400
+        },
+        "title": "Årets teiteste debatt",
+        "url": "https://www.vg.no/sport/fotball/i/BWqo49/aarets-teiteste-debatt"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "LlqEw4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/LlqEw4",
+        "preamble": "MANCHESTER (VG) Manchester City-sjef Pep Guardiola insisterer på at ettermælet hans allerede er fantastisk. Men han vet at han alltid vil bli minnet på trofeet som mangler.",
+        "published": {
+            "date": "onsdag 17. mai",
+            "datetime": "2023-05-17 16:15:12",
+            "niceformat": "17.05.2023, 16:15",
+            "timestamp": "2023-05-17T14:15:12.000Z"
+        },
+        "thumbnail": {
+            "height": 301,
+            "url": "https://akamai.vgc.no/v2/images/409dc2d8-115a-4416-9858-6aa3a1483fb8?fit=crop&format=auto&h=301&w=400&s=82c9a60614ead13e16fc113fd98ccd6621f087f6",
+            "width": 400
+        },
+        "title": "Grealish-bildet avslørte Manchester Citys store drøm",
+        "url": "https://www.vg.no/sport/fotball/i/LlqEw4/jack-grealish-bildet-avsloerer-manchester-citys-store-droem"
+    },
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            },
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "bgoEpA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/bgoEpA",
+        "preamble": "Brann-spillernes deltakelse i 17. mai-toget har skapt debatt. Onsdag var David Møller Wolfe og lagkameratene ute i gatene for å møte folket på nasjonaldagen.",
+        "published": {
+            "date": "onsdag 17. mai",
+            "datetime": "2023-05-17 12:23:28",
+            "niceformat": "17.05.2023, 12:23",
+            "timestamp": "2023-05-17T10:23:28.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/d8e0dd71-95a5-4a60-923f-8a390c7309dd?fit=crop&format=auto&h=267&w=400&s=e807eb5b1e4aa81c0e139858f99e9587a3689460",
+            "width": 400
+        },
+        "title": "Brann-spillerne i 17. mai-toget etter kritikken: – Det har vi kontroll på",
+        "url": "https://www.vg.no/sport/fotball/i/bgoEpA/brann-spillerne-fulgte-ekspertens-raad-det-har-vi-kontroll-paa"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BWqOk7",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BWqOk7",
+        "preamble": "ÅRÅSEN (VG) Thomas Lehne Olsen (31) var ikke i LSKs startoppstilling mot Sarpsborg 08. Fra sidelinjen så storscoreren laget havne under med to mål.",
+        "published": {
+            "date": "onsdag 17. mai",
+            "datetime": "2023-05-17 11:09:19",
+            "niceformat": "17.05.2023, 11:09",
+            "timestamp": "2023-05-17T09:09:19.000Z"
+        },
+        "thumbnail": {
+            "height": 264,
+            "url": "https://akamai.vgc.no/v2/images/91dea807-ec53-44e6-bad9-0935c70f907c?fit=crop&format=auto&h=264&w=400&s=f13164d22274d57190f6a243d568360703b5c4c2",
+            "width": 400
+        },
+        "title": "Lehne Olsen benket mot sin vilje i LSK-tap",
+        "url": "https://www.vg.no/sport/fotball/i/BWqOk7/thomas-lehne-olsen-benket-mot-sin-vilje-saa-lsk-rakne-mot-sarpsborg-08"
+    }
+]

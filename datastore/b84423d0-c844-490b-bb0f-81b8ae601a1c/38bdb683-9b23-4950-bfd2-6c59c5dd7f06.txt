@@ -1,0 +1,362 @@
+[
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QzzmJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QzzmJ",
+        "preamble": "Den norske fotballdommeren Espen Eskås (35) blir kampleder i lørdagens finale mellom Spania og England.",
+        "published": {
+            "date": "torsdag 6. juli",
+            "datetime": "2023-07-06 11:27:49",
+            "niceformat": "06.07.2023, 11:27",
+            "timestamp": "2023-07-06T09:27:49.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/9ba92e7d-1c60-48e0-ab38-e631e1543e28?fit=crop&format=auto&h=267&w=400&s=49d68184a1a0c6e644bc47d27206fa307a193aef",
+            "width": 400
+        },
+        "title": "Espen Eskås dømmer finalen i U21-EM i fotball: – Vel fortjent",
+        "url": "https://www.vg.no/sport/fotball/i/0QzzmJ/espen-eskaas-doemmer-finalen-i-u21-em-i-fotball"
+    },
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "RGnnM8",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/RGnnM8",
+        "preamble": "Milan Skriniar (28) har signert en femårskontrakt med Paris Saint-Germain.",
+        "published": {
+            "date": "torsdag 6. juli",
+            "datetime": "2023-07-06 11:04:11",
+            "niceformat": "06.07.2023, 11:04",
+            "timestamp": "2023-07-06T09:04:11.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/d6d9bf96-dc3d-4f65-adda-5df66ba5eeec?fit=crop&format=auto&h=267&w=400&s=786facc20f70c48bbf02ce28c3d4192faec19af6",
+            "width": 400
+        },
+        "title": "PSG signerte Inter-stopper Skriniar",
+        "url": "https://www.vg.no/sport/fotball/i/RGnnM8/psg-signerte-inter-stopper-skriniar"
+    },
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JLLM1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JLLM1",
+        "preamble": "Ifølge Stavanger Aftenblad, har Viking nylig avslått et millionbud fra Aalesund på høyreback Herman Haugen (23).",
+        "published": {
+            "date": "torsdag 6. juli",
+            "datetime": "2023-07-06 10:56:58",
+            "niceformat": "06.07.2023, 10:56",
+            "timestamp": "2023-07-06T08:56:58.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0fc1fec3-2e47-42e3-acb0-487c7a7adb08?fit=crop&format=auto&h=267&w=400&s=2e587b96909fe952de1cbb0ef44e02e8a8de59a3",
+            "width": 400
+        },
+        "title": "Aftenbladet: Viking avslo bud på Herman Haugen",
+        "url": "https://www.vg.no/sport/fotball/i/8JLLM1/aftenbladet-viking-avslo-bud-paa-herman-haugen"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "mQEE4l",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/mQEE4l",
+        "preamble": "Myndighetene i Rio de Janeiro har innført en ny antirasismelov som er navngitt etter Real Madrid-stjernen Vinícius Júnior (22).",
+        "published": {
+            "date": "torsdag 6. juli",
+            "datetime": "2023-07-06 10:38:50",
+            "niceformat": "06.07.2023, 10:38",
+            "timestamp": "2023-07-06T08:38:50.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/adfb8f01-17a1-47c1-a64c-d1c176905854?fit=crop&format=auto&h=267&w=400&s=4fe7c7bf8611a0dc5aa78e1f28022113b74f0b71",
+            "width": 400
+        },
+        "title": "Antirasismelov oppkalt etter Vinícius Júnior",
+        "url": "https://www.vg.no/sport/fotball/i/mQEE4l/antirasismelov-i-rio-de-janeiro-oppkalt-etter-vinicius-junior"
+    },
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEwwwv",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEwwwv",
+        "preamble": "Bodø/Glimt nærmer seg et kjøp av Godset-juvelen Tobias Gulliksen (19). Det melder Drammens Tidende og Nettavisen.",
+        "published": {
+            "date": "torsdag 6. juli",
+            "datetime": "2023-07-06 10:13:46",
+            "niceformat": "06.07.2023, 10:13",
+            "timestamp": "2023-07-06T08:13:46.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/42949a45-9899-4606-a164-b6bd25bebdb3?fit=crop&format=auto&h=267&w=400&s=438f9cd3186f753e5a6279897e54618751f465ce",
+            "width": 400
+        },
+        "title": "Medier: Gulliksen på vei til Glimt",
+        "url": "https://www.vg.no/sport/fotball/i/zEwwwv/drammens-tidende-gulliksen-paa-vei-til-glimt-for-rekordsum"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            },
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "AP55vE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/AP55vE",
+        "preamble": "Erling Braut Haaland (22) er igjen verdens mest verdifulle fotballspiller på Transfermarkts uhøytidelige liste. Jærbuen deler topplasseringen med Kylian Mbappé (24).",
+        "published": {
+            "date": "torsdag 6. juli",
+            "datetime": "2023-07-06 08:59:03",
+            "niceformat": "06.07.2023, 08:59",
+            "timestamp": "2023-07-06T06:59:03.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/dfaeefd3-116a-4cda-a030-0a152fc60041?fit=crop&format=auto&h=267&w=400&s=77a99bea74968173b5619332d45120ce0d3da0c9",
+            "width": 400
+        },
+        "title": "Transfermarkt: Haaland har tatt igjen Mbappé som verdens mest verdifulle fotballspiller",
+        "url": "https://www.vg.no/sport/fotball/i/AP55vE/transfermarkt-erling-braut-haaland-og-kylian-mbappe-er-verdens-mest-verdifulle-spillere"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kEPPRB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kEPPRB",
+        "preamble": "Chilenske Manuel Pellegrini (69) har signert en ny kontrakt som Real Betis-manager.",
+        "published": {
+            "date": "torsdag 6. juli",
+            "datetime": "2023-07-06 08:21:00",
+            "niceformat": "06.07.2023, 08:21",
+            "timestamp": "2023-07-06T06:21:00.000Z"
+        },
+        "thumbnail": {
+            "height": 284,
+            "url": "https://akamai.vgc.no/v2/images/62b3417f-e9b2-4cce-b9e9-990c1f92e469?fit=crop&format=auto&h=284&w=400&s=e092a8c1c0c07cff6670a22107883b09766be2fc",
+            "width": 400
+        },
+        "title": "Pellegrini forlenger med Real Betis",
+        "url": "https://www.vg.no/sport/fotball/i/kEPPRB/la-liga-manuel-pellegrini-forlenger-som-manager-i-real-betis"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "XbO3xo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/XbO3xo",
+        "preamble": "TV-publikummet kan glede seg til å få flere detaljer om VAR-avgjørelser i kvinnenes fotball-VM i Australia og New Zealand i sommer.",
+        "published": {
+            "date": "torsdag 6. juli",
+            "datetime": "2023-07-06 07:33:07",
+            "niceformat": "06.07.2023, 07:33",
+            "timestamp": "2023-07-06T05:33:07.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/704f7e96-028d-4f31-84f5-1c9fd14f103a?fit=crop&format=auto&h=267&w=400&s=a15e658275d6a5ddf9d791595fe6d45841fd2c08",
+            "width": 400
+        },
+        "title": "Fifa med VAR-nyvinning i VM – TV-seerne får større innblikk",
+        "url": "https://www.vg.no/sport/fotball/i/XbO3xo/fifa-med-var-nyvinning-i-vm-tv-seerne-faar-stoerre-innblikk"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gE1xL1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gE1xL1",
+        "preamble": "Etter 13 år i flere av Europas største fotballklubber reiser Ángel Di María tilbake til Portugal og klubben han for alvor slo igjennom med.",
+        "published": {
+            "date": "onsdag 5. juli",
+            "datetime": "2023-07-05 22:34:25",
+            "niceformat": "05.07.2023, 22:34",
+            "timestamp": "2023-07-05T20:34:25.000Z"
+        },
+        "thumbnail": {
+            "height": 283,
+            "url": "https://akamai.vgc.no/v2/images/e914180c-23f7-4961-a3e5-12faba26894a?fit=crop&format=auto&h=283&w=400&s=8845a0612d0bb89fee2d71926533f6323669ac52",
+            "width": 400
+        },
+        "title": "Di María returnerer til Benfica",
+        "url": "https://www.vg.no/sport/fotball/i/gE1xL1/di-maria-returnerer-til-benfica"
+    },
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "LlQXlR",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/LlQXlR",
+        "preamble": "Den svenske VM-stjernen Kosovare Asllani (33) ber Zlatan Ibrahimovic (41) og andre mannlige spillere være klar over påvirkningskraften de har – etter superstjernens hyllest av Qatar-VM. ",
+        "published": {
+            "date": "onsdag 5. juli",
+            "datetime": "2023-07-05 22:30:36",
+            "niceformat": "05.07.2023, 22:30",
+            "timestamp": "2023-07-05T20:30:36.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/aa5b782f-0727-4b9d-89db-2564b513e316?fit=crop&format=auto&h=267&w=400&s=4308cb8d1c035beab8f5b15c3de151e2cf808b4b",
+            "width": 400
+        },
+        "title": "Klart svar til Zlatan: – Må innse hvilken plattform de har",
+        "url": "https://www.vg.no/sport/fotball/i/LlQXlR/vm-2023-kosovare-asllani-med-beskjed-til-zlatan-maa-innse-hvilken-plattform-de-har"
+    }
+]

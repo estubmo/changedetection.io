@@ -1,0 +1,408 @@
+[
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q18zQE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q18zQE",
+        "preamble": "VALLE (VG) (Vålerenga – Brann 3–2) Vålerenga-kaptein Stefan Strandberg (32) sier han har vært mye involvert i prosessen som endte med at Geir Bakke (53) ble trener. ",
+        "published": {
+            "date": "onsdag 12. juli",
+            "datetime": "2023-07-12 23:11:24",
+            "niceformat": "12.07.2023, 23:11",
+            "timestamp": "2023-07-12T21:11:24.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/00a46f22-c5bc-4a1a-a8cc-89dd2e8734a3?fit=crop&format=auto&h=267&w=400&s=037b887d636afa15cf68d43e579299b0532c77d8",
+            "width": 400
+        },
+        "title": "VIF-kaptein Strandberg ga klar beskjed før trenervalget: – Jeg er ikke misfornøyd",
+        "url": "https://www.vg.no/sport/fotball/i/q18zQE/vif-kaptein-strandberg-hyller-bakke-valget-du-faar-ikke-mer-sirkus"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O81GRA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O81GRA",
+        "preamble": "VALLE (VG) (Vålerenga – Brann 3–2) Onsdag 12. juli vil skrive seg inn i historiebøkene til Vålerenga. Først hentet de Geir Bakke fra erkerival Lillestrøm, så slo de regjerende cupmester Brann ut av cupen.",
+        "published": {
+            "date": "onsdag 12. juli",
+            "datetime": "2023-07-12 21:53:30",
+            "niceformat": "12.07.2023, 21:53",
+            "timestamp": "2023-07-12T19:53:30.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/92SSIo-43ldn.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Vålerengas drømmedag fortsatte – Ofkir sendte Brann ut av cupen",
+        "url": "https://www.vg.no/sport/fotball/i/O81GRA/cupen-vaalerenga-brann"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JLrrA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JLrrA",
+        "preamble": "(Molde-Sarpsborg 08 3–1) Molde gjorde kort prosess med Sarpsborg 08 i kvartfinalen i cupen. Nå venter Raufoss eller Kjelsås.",
+        "published": {
+            "date": "onsdag 12. juli",
+            "datetime": "2023-07-12 19:51:23",
+            "niceformat": "12.07.2023, 19:51",
+            "timestamp": "2023-07-12T17:51:23.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a29d19ad-3245-477f-a071-63d2d6e18509?fit=crop&format=auto&h=267&w=400&s=4450039b1d2cc7b8c7b757c8edad6903d81a4458",
+            "width": 400
+        },
+        "title": "Sarpsborg-spiller slakter eget lag: – Vi kaster bort kampen",
+        "url": "https://www.vg.no/sport/fotball/i/8JLrrA/molde-ydmyket-sarpsborg-klare-for-semifinale"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3EKWAd",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3EKWAd",
+        "preamble": "Den spanske midtstopperen Pau Torres (26) skifter beite fra spansk til engelsk jord. Han har skrevet under for Premier League-klubben Aston Villa.",
+        "published": {
+            "date": "onsdag 12. juli",
+            "datetime": "2023-07-12 18:14:44",
+            "niceformat": "12.07.2023, 18:14",
+            "timestamp": "2023-07-12T16:14:44.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/c1cf4211-693d-4905-8456-0a1ecfd474d3?fit=crop&format=auto&h=267&w=400&s=b017617fe2a5b9c51dc9d0d244e1f093cb5a1df1",
+            "width": 400
+        },
+        "title": "Spansk stopperprofil klar for Aston Villa",
+        "url": "https://www.vg.no/sport/fotball/i/3EKWAd/pau-torres-er-klar-for-aston-villa-i-premier-league"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            },
+            {
+                "email": "andreas.hellenes@schibsted.com",
+                "id": "424642b6-03fe-42cd-abe2-5f7517e8a8e1",
+                "name": "Andreas Hellenes"
+            },
+            {
+                "email": "kristine.bechmann.holter@schibsted.no",
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwQ6Kz",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwQ6Kz",
+        "preamble": "LILLESTRØM/VALLE (VG) Geir Bakke brukte mye tid på å forklare hvorfor han tok det kontroversielle valget om å signere for Vålerenga. Uttalelsene setter fyr i LSK-leiren. ",
+        "published": {
+            "date": "onsdag 12. juli",
+            "datetime": "2023-07-12 12:58:08",
+            "niceformat": "12.07.2023, 12:58",
+            "timestamp": "2023-07-12T10:58:08.000Z"
+        },
+        "thumbnail": {
+            "height": 226,
+            "url": "https://akamai.vgc.no/v2/images/a6dad3d8-6037-4206-97a8-a7ac7891adbb?fit=crop&format=auto&h=226&w=400&s=25e26fd9d08203a32f71dfe0e4ebc5369eeeb071",
+            "width": 400
+        },
+        "title": "LSK-duoen om Bakkes påstand: – Går ikke an",
+        "url": "https://www.vg.no/sport/fotball/i/dwQ6Kz/lsk-duoen-om-bakkes-paastand-gaar-ikke-an"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            },
+            {
+                "email": "andreas.hellenes@schibsted.com",
+                "id": "424642b6-03fe-42cd-abe2-5f7517e8a8e1",
+                "name": "Andreas Hellenes"
+            },
+            {
+                "email": "kristine.bechmann.holter@schibsted.no",
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O81wrV",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O81wrV",
+        "preamble": "LILLESTRØM (VG) Geir Bakkes (53) overgang fra Lillestrøm til Vålerenga tok «alle» på sengen. Lillestrøm-legenden Ivar Hoff (75) sier han er lamslått. Kanarifansen stempler Bakke som tidenes judas.",
+        "published": {
+            "date": "onsdag 12. juli",
+            "datetime": "2023-07-12 10:08:01",
+            "niceformat": "12.07.2023, 10:08",
+            "timestamp": "2023-07-12T08:08:01.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/3a1ca401-ded2-45e1-b98b-5a4e6b35c95e?fit=crop&format=auto&h=267&w=400&s=37ad0ed32deb047f2484d6bc2ec4a571077615a6",
+            "width": 400
+        },
+        "title": "Slik reagerer Fotball-Norge på sjokkovergangen til Geir Bakke: – Man blir lamslått",
+        "url": "https://www.vg.no/sport/fotball/i/O81wrV/eliteserien-slik-reagerer-fotball-norge-paa-sjokkovergangen-til-geir-bakke"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            },
+            {
+                "email": "kristine.bechmann.holter@schibsted.no",
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            },
+            {
+                "email": "oyvind.herrebroden@vg.no",
+                "id": "7b5d0009-0f34-41e3-b5af-dcf22addbd42",
+                "name": "Øyvind Herrebrøden"
+            },
+            {
+                "email": "mattis.holt@vg.no",
+                "id": "783ec02a-650f-49b8-8655-cd3e1ad5f4fa",
+                "name": "Mattis Holt"
+            },
+            {
+                "email": "andreas.hellenes@schibsted.com",
+                "id": "424642b6-03fe-42cd-abe2-5f7517e8a8e1",
+                "name": "Andreas Hellenes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69MLx8",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69MLx8",
+        "preamble": "Vålerenga har funnet sin nye trener i erkerival Lillestrøms Geir Bakke (53) – og betaler tre millioner for å løse ut LSK-treneren. Styreleder Morten Kokkim uttaler at de er skuffet.",
+        "published": {
+            "date": "onsdag 12. juli",
+            "datetime": "2023-07-12 08:50:45",
+            "niceformat": "12.07.2023, 08:50",
+            "timestamp": "2023-07-12T06:50:45.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/PxkYtJ1llr7P.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Geir Bakke ferdig i Lillestrøm – klar for Vålerenga",
+        "url": "https://www.vg.no/sport/fotball/i/69MLx8/geir-bakke-ferdig-i-lillestroem-klar-for-vaalerenga"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB-Ritzau"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Qz51A",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Qz51A",
+        "preamble": "Lionel Messi (36) har ankommet USA for å fullføre overgangen til MLS-klubben Inter Miami. Han er ventet å gjøre unna debuten 21. juli.",
+        "published": {
+            "date": "onsdag 12. juli",
+            "datetime": "2023-07-12 08:17:35",
+            "niceformat": "12.07.2023, 08:17",
+            "timestamp": "2023-07-12T06:17:35.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/b643a293-27ee-4823-a302-14d83e70049d?fit=crop&format=auto&h=267&w=400&s=d1ca0aece7e83d1223da7c31f0b1a719a242f4a0",
+            "width": 400
+        },
+        "title": "Messi på plass i Florida: – Vil levere på øverste hylle",
+        "url": "https://www.vg.no/sport/fotball/i/0Qz51A/messi-paa-plass-i-florida-vil-levere-paa-oeverste-hylle"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgzL0R",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgzL0R",
+        "preamble": "Rune Jarstein er ferdig i Hertha Berlin, men striden fortsetter likevel. I august møtes partene i retten.",
+        "published": {
+            "date": "tirsdag 11. juli",
+            "datetime": "2023-07-11 20:20:55",
+            "niceformat": "11.07.2023, 20:20",
+            "timestamp": "2023-07-11T18:20:55.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/caf22733-07c3-4529-9b8b-348bef11dde7?fit=crop&format=auto&h=267&w=400&s=da929c80cad3438c777d3f087ad81fc06c05ac30",
+            "width": 400
+        },
+        "title": "Rettsmøtet mellom Rune Jarstein og Hertha Berlin utsettes til august",
+        "url": "https://www.vg.no/sport/fotball/i/xgzL0R/rettsmoetet-mellom-rune-jarstein-og-hertha-berlin-utsettes-til-august"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JLgqd",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JLgqd",
+        "preamble": "Det svenske fotballandslaget fikk en turbulent reise til New Zealand. Savnede bagasjer, tollavgifter og mistet fly sto på tapetet. ",
+        "published": {
+            "date": "tirsdag 11. juli",
+            "datetime": "2023-07-11 19:11:26",
+            "niceformat": "11.07.2023, 19:11",
+            "timestamp": "2023-07-11T17:11:26.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/5035e5de-15ac-4305-b681-110ea4329fdb?fit=crop&format=auto&h=267&w=400&s=311611cc6688e43ebf0eafd94267c396c545744e",
+            "width": 400
+        },
+        "title": "Snuskaos for svenskene – måtte betale 4000 kroner ",
+        "url": "https://www.vg.no/sport/fotball/i/8JLgqd/svenske-fotballandslaget-i-new-zealand-snus-og-mistet-bagasje"
+    }
+]

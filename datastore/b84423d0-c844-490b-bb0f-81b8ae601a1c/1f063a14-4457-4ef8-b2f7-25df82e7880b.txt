@@ -1,0 +1,379 @@
+[
+    {
+        "authors": [
+            {
+                "name": "NTB-AFP"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9zeOgr",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9zeOgr",
+        "preamble": "Det amerikanske fotballandslaget sikret seg sin andre strake nasjonsligatittel da de vant 2-0 over Canada i finalen natt til mandag norsk tid.",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 07:36:26",
+            "niceformat": "19.06.2023, 07:36",
+            "timestamp": "2023-06-19T05:36:26.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0d7de9a5-ed7c-4858-81fd-c5dcf8c8675b?fit=crop&format=auto&h=267&w=400&s=5560ad822f5857e285cd880c046dfa509945c539",
+            "width": 400
+        },
+        "title": "USA vant den amerikanske nasjonsligafinalen",
+        "url": "https://www.vg.no/sport/fotball/i/9zeOgr/usa-vant-den-amerikanske-nasjonsligafinalen"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QqnMo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QqnMo",
+        "preamble": "Den norske ledelsen ble forvandlet til et mareritt i sluttminuttene mot Skottland lørdag. I de siste ti minuttene er Norge nå dårligst av alle 53 lag i EM-kvalifiseringen.",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 00:32:42",
+            "niceformat": "19.06.2023, 00:32",
+            "timestamp": "2023-06-18T22:32:42.000Z"
+        },
+        "thumbnail": {
+            "height": 268,
+            "url": "https://akamai.vgc.no/v2/images/8bd14373-edd6-48a8-a90a-32bacd46b480?fit=crop&format=auto&h=268&w=400&s=6ddfec5c2432e4641fd25b75851ffe5be605643f",
+            "width": 400
+        },
+        "title": "Norge avslutter verst i Europa: – Jeg har ikke noe klart svar",
+        "url": "https://www.vg.no/sport/fotball/i/0QqnMo/norge-verst-i-europa-ingen-slipper-inn-flere-maal-i-sluttminuttene"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEzgb5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEzgb5",
+        "preamble": "(Kroatia – Spania 0–0, 4–5 etter straffer) Unai Simon ble helten da Spania vant Nations League. ",
+        "published": {
+            "date": "søndag 18. juni",
+            "datetime": "2023-06-18 23:29:51",
+            "niceformat": "18.06.2023, 23:29",
+            "timestamp": "2023-06-18T21:29:51.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/c0017d85-8260-47bb-9a6b-b0debe109bdb?fit=crop&format=auto&h=267&w=400&s=6c900764a88743b917da0c044ea3f5834c10a4da",
+            "width": 400
+        },
+        "title": "Spanias første trofé på elleve år – Simon ble helten i straffedrama",
+        "url": "https://www.vg.no/sport/fotball/i/zEzgb5/nations-league"
+    },
+    {
+        "authors": [
+            {
+                "email": "svea@vg.no",
+                "id": "f852e5e5-5ba9-48c7-96da-9455a160031f",
+                "name": "Knut Espen Svegaarden"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAkPB5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAkPB5",
+        "preamble": "ULLEVAAL STADION (VG) Det var noe spesielt med seansen under landslagets trening søndag – lagets to største stjerner sto der foran mikrofonene: Erling Braut Haaland og Martin Ødegaard prøvde å lette noe av trykket mot landslagssjef Ståle Solbakken.",
+        "published": {
+            "date": "søndag 18. juni",
+            "datetime": "2023-06-18 19:40:59",
+            "niceformat": "18.06.2023, 19:40",
+            "timestamp": "2023-06-18T17:40:59.000Z"
+        },
+        "thumbnail": {
+            "height": 292,
+            "url": "https://akamai.vgc.no/v2/images/f58840c2-55ba-4fe2-a2a3-218d9e4a6287?fit=crop&format=auto&h=292&w=400&s=d450f003b0007f8ea6ccdfb702c94b119c4d6dca",
+            "width": 400
+        },
+        "title": "Det er nå Solbakken trenger støtte",
+        "url": "https://www.vg.no/sport/fotball/i/wAkPB5/det-er-naa-solbakken-trenger-stoette"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "APBdo5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/APBdo5",
+        "preamble": "Tårene trillet da Truls (5) ikke fikk et bilde og autograf med Erling Braut Haaland før søndagens trening. Da kom NFFs sikkerhetssjef Geir Ellefsen til unnsetning.",
+        "published": {
+            "date": "søndag 18. juni",
+            "datetime": "2023-06-18 18:38:43",
+            "niceformat": "18.06.2023, 18:38",
+            "timestamp": "2023-06-18T16:38:43.000Z"
+        },
+        "thumbnail": {
+            "height": 679,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/ZPqPmpd9auEv.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Fikk drømmemøte med Haaland: – Viser bare hvor fin fyr han er",
+        "url": "https://www.vg.no/sport/fotball/i/APBdo5/truls-5-fikk-et-droemmemoete-med-erling-braut-haaland"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76o08w",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76o08w",
+        "preamble": "ULLEVAAL STADION (VG) Fotballpresident Lise Klaveness gir full støtte til Ståle Solbakken. Selv ønsker ikke landslagssjefen å vurdere jobben han har gjort. ",
+        "published": {
+            "date": "søndag 18. juni",
+            "datetime": "2023-06-18 17:44:16",
+            "niceformat": "18.06.2023, 17:44",
+            "timestamp": "2023-06-18T15:44:16.000Z"
+        },
+        "thumbnail": {
+            "height": 264,
+            "url": "https://akamai.vgc.no/v2/images/b555b742-a051-43b6-89ad-8fabfcad5400?fit=crop&format=auto&h=264&w=400&s=ff5109799d54fceff02e447774b27bcd668d36af",
+            "width": 400
+        },
+        "title": "Klaveness med full støtte til Solbakken: – Overhodet ikke i tvil ",
+        "url": "https://www.vg.no/sport/fotball/i/76o08w/klaveness-med-full-stoette-til-solbakken-overhodet-ikke-i-tvil"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEzGqK",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEzGqK",
+        "preamble": "(Brann – Avaldsnes 3–0, Lyn – Rosenborg 2–0) John Arne Riise mente Avaldsnes fikk kampen ødelagt etter at Brann fikk en omdiskutert straffe. Midt i kampen skjelte han ut dommeren.",
+        "published": {
+            "date": "søndag 18. juni",
+            "datetime": "2023-06-18 16:57:46",
+            "niceformat": "18.06.2023, 16:57",
+            "timestamp": "2023-06-18T14:57:46.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/1176d0b3-6fe5-4bd9-aceb-ee643df08d96?fit=crop&format=auto&h=267&w=400&s=58a362098ed65022d5110b5ebfc466a37b4edc69",
+            "width": 400
+        },
+        "title": "Ny dommerkritikk fra Riise – Lyn sjokkerte Rosenborg",
+        "url": "https://www.vg.no/sport/fotball/i/zEzGqK/ny-riise-kritikk-mot-dommere-jeg-bare-ler"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BWeRBw",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BWeRBw",
+        "preamble": "Norges nye U21-landslag ledet lenge etter et mål fra Bryan Fiabema, men en straffe ga Skottland 1–1.",
+        "published": {
+            "date": "søndag 18. juni",
+            "datetime": "2023-06-18 14:12:33",
+            "niceformat": "18.06.2023, 14:12",
+            "timestamp": "2023-06-18T12:12:33.000Z"
+        },
+        "thumbnail": {
+            "height": 295,
+            "url": "https://akamai.vgc.no/v2/images/38a5efbe-9904-4416-98fb-03aaa1afdaff?fit=crop&format=auto&h=295&w=400&s=c47733a83167e43d08c67eaba75774a71101fed1",
+            "width": 400
+        },
+        "title": "Fiabema scoret for U21-landslaget – ny uavgjort mot Skottland",
+        "url": "https://www.vg.no/sport/fotball/i/BWeRBw/fiabema-scoret-for-u21-landslaget-ny-uavgjort-mot-skottland"
+    },
+    {
+        "authors": [
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJR8ya",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJR8ya",
+        "preamble": "ULLEVAAL STADION (VG) Erling Braut Haaland (22) vet ikke hvorfor Norge raknet i sluttminuttene mot Skottland. Kaptein Martin Ødegaard (24) sier det blir dumt å lete etter unnskyldninger. ",
+        "published": {
+            "date": "søndag 18. juni",
+            "datetime": "2023-06-18 12:16:52",
+            "niceformat": "18.06.2023, 12:16",
+            "timestamp": "2023-06-18T10:16:52.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/8uP3OA0hIG9u.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Haaland etter kollapsen mot Skottland: – Det er selvfølgelig tungt ",
+        "url": "https://www.vg.no/sport/fotball/i/eJR8ya/haaland-etter-nedturen-det-er-selvfoelgelig-tungt"
+    },
+    {
+        "authors": [
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "APBdLn",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/APBdLn",
+        "preamble": "ULLEVAAL STADION (VG) Per Joar Hansen trodde knapt egne øyne da Norge raknet mot Skottland. Jesper Mathisen sier det ikke blir mer typisk Norge. Dagen derpå innrømmer landslagssjef Ståle Solbakken feil fra sidelinjen.",
+        "published": {
+            "date": "søndag 18. juni",
+            "datetime": "2023-06-18 11:22:03",
+            "niceformat": "18.06.2023, 11:22",
+            "timestamp": "2023-06-18T09:22:03.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/80581cb6-5eea-4892-bfdb-636eddcde5e0?fit=crop&format=auto&h=267&w=400&s=0cc6a533cd34c54b764fa3e2641eebed21f73c5a",
+            "width": 400
+        },
+        "title": "Forbauset etter Norges kollaps: – En gedigen nedtur og skuffelse",
+        "url": "https://www.vg.no/sport/fotball/i/APBdLn/forbauset-etter-den-norske-kollapsen-en-gedigen-nedtur-og-skuffelse"
+    }
+]

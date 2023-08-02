@@ -1,0 +1,189 @@
+[
+    {
+        "slug": "storseier-for-sjetne-2-7er",
+        "url": "/lokalfotballen/i/Q7qyKJ/storseier-for-sjetne-2-7er",
+        "title": {
+            "value": "Storseier for Sjetne 2 7er"
+        },
+        "description": "Sjetne 2 7er sikret alle poengene da Utleira ble slått 10-1 i J15 2. divisjon, Avdeling 4 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-05T18:19:08Z",
+        "lastModifiedAt": "2023-05-05T18:19:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "nidelv-2-snudde-til-seier",
+        "url": "/lokalfotballen/i/3Ez4zX/nidelv-2-snudde-til-seier",
+        "title": {
+            "value": "Nidelv 2 snudde til seier"
+        },
+        "description": "Nidelv 2 snudde 2-3 til 4-3 mot Tiller 2 i G13 2. divisjon, Avdeling 4 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-05T18:04:43Z",
+        "lastModifiedAt": "2023-05-05T18:19:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "strindheim-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/GMq3eq/strindheim-fortsatte-seiersrekken",
+        "title": {
+            "value": "Femte strake seier for Strindheim"
+        },
+        "description": "Med dagens 4-1-resultat har Strindheims innkassert sin femte strake seier. Det holder til full pott så langt i årets sesong. I 3. divisjon, Avdeling 5 i fotball for menn fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-05T17:54:27Z",
+        "lastModifiedAt": "2023-05-05T18:47:24Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "rbks-styreleder-taalmodigheten-er-stor",
+        "url": "/sport/fotball/i/jlbBjo/rbks-styreleder-taalmodigheten-er-stor",
+        "title": {
+            "value": "RBKs styreleder: - Tålmodigheten er stor "
+        },
+        "description": "Rosenborgs styreleder Cecilie Gotaas Johnsen mener situasjonen er udramatisk. Hun sier det er stor tålmodighet i klubben.",
+        "imageUrl": "274cd4fe-ebc9-4de2-b97f-c9484b04a737",
+        "publishedAt": "2023-05-05T16:02:23Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "cecilie-gotaas-johnsen"
+        ]
+    },
+    {
+        "slug": "horneland-fikk-aarets-foerste-trenerpris-i-eliteserien",
+        "url": "/sport/i/wAb8Q5/horneland-fikk-aarets-foerste-trenerpris-i-eliteserien",
+        "title": {
+            "value": "Horneland fikk årets første trenerpris i Eliteserien "
+        },
+        "description": "Eirik Horneland har ledet Brann til et sterkt comeback på øverste nivå. Han belønnes med utmerkelsen som månedens trener i april.",
+        "imageUrl": "bceac24e-2c7e-45ee-bf7a-b83b72000d24",
+        "publishedAt": "2023-05-05T12:42:32Z",
+        "lastModifiedAt": "2023-05-05T12:43:06Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "i-fjor-skjedde-dette-foer-rbk-kampen-naa-forbereder-politiet-seg-paa-nye-tumulter",
+        "url": "/nyheter/trondheim/i/dwpmLz/i-fjor-skjedde-dette-foer-rbk-kampen-naa-forbereder-politiet-seg-paa-nye-tumulter",
+        "title": {
+            "value": "Håper å unngå det som skjedde i fjor: - Kan bli støy og bråk"
+        },
+        "description": "Politiet varsler at de vil være til stede i Trondheim sentrum med mye folk før RBK-kampen mot Vålerenga lørdag.",
+        "imageUrl": "0903216c-dc58-4580-974b-f98ef8fdd67f",
+        "publishedAt": "2023-05-05T12:01:58Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Pål E. Solberg",
+            "Truls August Råen"
+        ],
+        "tags": [
+            "troendelag-politidistrikt",
+            "rosenborg",
+            "fotball"
+        ]
+    },
+    {
+        "slug": "kan-bli-endringer-ciljan-drillet-foer-storkampen",
+        "url": "/sport/fotball/i/O8q3kV/kan-bli-endringer-ciljan-drillet-foer-storkampen",
+        "title": {
+            "value": "Ciljan tilbake: Disse ble drillet før storkampen"
+        },
+        "description": "Per Ciljan Skjelbred (35) ser ut til å få sin første start i serien. Og det kan bli formasjonsendring.",
+        "imageUrl": "e7ab2439-6362-49c8-9d75-8970a36c380f",
+        "publishedAt": "2023-05-05T10:50:34Z",
+        "lastModifiedAt": "2023-05-05T12:43:29Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken",
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "per-ciljan-skjelbred",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "siste-fra-breddefotballen",
+        "url": "/sport/fotball/i/GMjXaq/siste-fra-breddefotballen",
+        "title": {
+            "value": "RBK møter bydelsklubb i cupen: - Dette blir gøy"
+        },
+        "description": null,
+        "imageUrl": "7cc1e655-6530-4feb-a7b9-e9784b0f2574",
+        "publishedAt": "2023-03-24T14:51:36Z",
+        "lastModifiedAt": "2023-04-23T20:17:37Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "fotball",
+            "breddefotbaill",
+            "lokalfotballen",
+            "breddefotball"
+        ]
+    },
+    {
+        "slug": "foelges-tett-i-utlandet-naa-har-rbk-strategen-bestemt-seg",
+        "url": "/sport/fotball/i/KnqymG/foelges-tett-i-utlandet-naa-har-rbk-strategen-bestemt-seg",
+        "title": {
+            "value": "Bekrefter kontrakt med RBK"
+        },
+        "description": "Elin Sørum (23) følges av storklubber, blant annet i England. Nå er hun klar for for to nye år i Rosenborg.",
+        "imageUrl": "1ce5a242-a00f-4c2a-b0f9-251ff32f2669",
+        "publishedAt": "2023-05-05T09:40:08Z",
+        "lastModifiedAt": "2023-05-05T11:00:59Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken",
+            "Petter Rasmus"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "troendersk-skitalent-faar-landslagsplass",
+        "url": "/sport/i/kEbRo9/troendersk-skitalent-faar-landslagsplass",
+        "title": {
+            "value": "Trøndersk skitalent får landslagsplass"
+        },
+        "description": "Det norske juniorlandslaget i langrenn til 2023/2024-sesongen er klart. Der er trønderske Casper Kvam Grindhagen blant ti utøvere.",
+        "imageUrl": "68616094-554f-4537-b1dc-a6b73040392c",
+        "publishedAt": "2023-05-05T09:00:01Z",
+        "lastModifiedAt": "2023-05-05T09:00:01Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold",
+            "NTB"
+        ],
+        "tags": [
+            "casper-kvam-grindhagen"
+        ]
+    }
+]

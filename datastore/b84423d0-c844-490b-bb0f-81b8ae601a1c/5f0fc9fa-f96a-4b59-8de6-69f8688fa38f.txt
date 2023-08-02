@@ -1,0 +1,367 @@
+[
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            },
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gE1Kr5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gE1Kr5",
+        "preamble": "Paris Saint-Germain har fått sin syvende manager siden Qatar-oppkjøpet i 2011. Luis Enrique (53) får ansvaret for klubbens jakt på sin første Champions League-tittel.",
+        "published": {
+            "date": "onsdag 5. juli",
+            "datetime": "2023-07-05 16:49:05",
+            "niceformat": "05.07.2023, 16:49",
+            "timestamp": "2023-07-05T14:49:05.000Z"
+        },
+        "thumbnail": {
+            "height": 273,
+            "url": "https://akamai.vgc.no/v2/images/aed24a44-b368-45c4-b8b9-da0862e7b638?fit=crop&format=auto&h=273&w=400&s=a60bbb85790c769e6b45ab08f1e7ab3c92ea9b29",
+            "width": 400
+        },
+        "title": "Luis Enrique presentert som ny PSG-manager",
+        "url": "https://www.vg.no/sport/fotball/i/gE1Kr5/luis-enrique-presentert-som-ny-manager-for-psg"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BW4ne7",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BW4ne7",
+        "preamble": "Branns toppscorer Bård Finne (28) har forlenget kontrakten sin til ut 2026. Spissen har vært i forrykende form denne sesongen.",
+        "published": {
+            "date": "onsdag 5. juli",
+            "datetime": "2023-07-05 16:24:56",
+            "niceformat": "05.07.2023, 16:24",
+            "timestamp": "2023-07-05T14:24:56.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/117665cd-692d-4fd9-8c61-bc6cb2d18661?fit=crop&format=auto&h=267&w=400&s=4cee8c1d0cf651eb5bd589001edbf45a93cb1507",
+            "width": 400
+        },
+        "title": "Bård Finne forlenget med Brann",
+        "url": "https://www.vg.no/sport/fotball/i/BW4ne7/eliteserien-baard-finne-forlenget-med-brann"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAJ5vM",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAJ5vM",
+        "preamble": "Conrad Wallem (23) forlater Odd. Neste stoppested blir «norske» Slavia Praha.",
+        "published": {
+            "date": "onsdag 5. juli",
+            "datetime": "2023-07-05 15:05:18",
+            "niceformat": "05.07.2023, 15:05",
+            "timestamp": "2023-07-05T13:05:18.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/141ad40a-2a70-4305-bc6c-334bc3553742?fit=crop&format=auto&h=267&w=400&s=8f3879e0ba088d0a096492b6e024169fcf7dcf0a",
+            "width": 400
+        },
+        "title": "Conrad Wallem solgt til Slavia Praha",
+        "url": "https://www.vg.no/sport/fotball/i/wAJ5vM/odd-spiller-conrad-wallem-solgt-til-slavia-praha"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QzXkM",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QzXkM",
+        "preamble": "Daniel Bassi (18) sin forventede overgang til Bodø/Glimt har satt sinnene i kok i Tromsø. Faren hadde regnet med reaksjoner.",
+        "published": {
+            "date": "onsdag 5. juli",
+            "datetime": "2023-07-05 14:57:15",
+            "niceformat": "05.07.2023, 14:57",
+            "timestamp": "2023-07-05T12:57:15.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/2cf69013-19fb-4ef7-9812-370382521883?fit=crop&format=auto&h=267&w=400&s=c289ec711c25e513b3e2310e78e10a478e2bd117",
+            "width": 400
+        },
+        "title": "Talentets valg skaper kraftige reaksjoner: – Ikke bruk for spillere som ikke vil være her",
+        "url": "https://www.vg.no/sport/fotball/i/0QzXkM/eliteserien-daniel-bassi-sin-overgang-fra-tromsoe-til-bodoe-glimt-skaper-reaksjoner"
+    },
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gE1y81",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gE1y81",
+        "preamble": "Manchester United trapper opp jakten på Inter-keeper André Onana (27).",
+        "published": {
+            "date": "onsdag 5. juli",
+            "datetime": "2023-07-05 14:49:43",
+            "niceformat": "05.07.2023, 14:49",
+            "timestamp": "2023-07-05T12:49:43.000Z"
+        },
+        "thumbnail": {
+            "height": 271,
+            "url": "https://akamai.vgc.no/v2/images/d036facc-bd65-4353-9ed3-0402c78d8a93?fit=crop&format=auto&h=271&w=400&s=0181efd3f3fec0ec11b93f49464ac27f554416ac",
+            "width": 400
+        },
+        "title": "Medier: Manchester United har lagt inn bud på Onana",
+        "url": "https://www.vg.no/sport/fotball/i/gE1y81/medier-manchester-united-har-lagt-inn-bud-paa-onana"
+    },
+    {
+        "authors": [
+            {
+                "email": "kristine.bechmann.holter@schibsted.no",
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3mOQM",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3mOQM",
+        "preamble": "Denne uken presenterte ESPN sin årlige rangering av de beste herrespillerne i verden. På toppen av listene finner vi to norske profiler. ",
+        "published": {
+            "date": "onsdag 5. juli",
+            "datetime": "2023-07-05 14:28:02",
+            "niceformat": "05.07.2023, 14:28",
+            "timestamp": "2023-07-05T12:28:02.000Z"
+        },
+        "thumbnail": {
+            "height": 351,
+            "url": "https://akamai.vgc.no/v2/images/c1fb4033-3a73-4fbe-8cb6-515c5d201664?fit=crop&format=auto&h=351&w=400&s=36d0782e6cb7d3f2ab6b346df294b15529ee0388",
+            "width": 400
+        },
+        "title": "ESPN-kåring: Ødegaard verdens nest beste i sin posisjon",
+        "url": "https://www.vg.no/sport/fotball/i/l3mOQM/martin-oedegaard-og-erling-braut-haaland-topper-espn-sine-lister-over-verdens-beste-fotballspillere"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAJn6P",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAJn6P",
+        "preamble": "Ola Solbakkens Roma serieåpner i serie A hjemme mot Salernitana med tre nordmenn i stallen.",
+        "published": {
+            "date": "onsdag 5. juli",
+            "datetime": "2023-07-05 13:48:10",
+            "niceformat": "05.07.2023, 13:48",
+            "timestamp": "2023-07-05T11:48:10.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/99c07602-08b5-4681-9865-394e8ebb5678?fit=crop&format=auto&h=267&w=400&s=a0ad7caac0b86f326baff799dfccdbdb359c8f8b",
+            "width": 400
+        },
+        "title": "Serie A: Roma åpner hjemme mot Salernitana",
+        "url": "https://www.vg.no/sport/fotball/i/wAJn6P/serie-a-roma-aapner-hjemme-mot-salernitana"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQwE9R",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQwE9R",
+        "preamble": "BODØ (VG) Stefan Johansen var denne uken på plass på Aspmyra og så gamleklubben Bodø/Glimt trene. Det virker dog ikke som at en retur til gamleklubben nærmer seg.",
+        "published": {
+            "date": "onsdag 5. juli",
+            "datetime": "2023-07-05 11:42:38",
+            "niceformat": "05.07.2023, 11:42",
+            "timestamp": "2023-07-05T09:42:38.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/ae33b2f2-3ae8-460a-91cf-e3dbaac0b277?fit=crop&format=auto&h=300&w=400&s=1b956f964beee899b711553930160b95e956ad2f",
+            "width": 400
+        },
+        "title": "Klubbløse Stefan Johansen: – Det har vært litt interesse",
+        "url": "https://www.vg.no/sport/fotball/i/JQwE9R/stefan-johansen-saa-bodoe-glimt-trene-dagen-etter-eliteserie-kampen-mot-molde"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            },
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJvd6y",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJvd6y",
+        "preamble": "Manchester United har sikret seg Chelsea-stjernen Mason Mount (24). ",
+        "published": {
+            "date": "onsdag 5. juli",
+            "datetime": "2023-07-05 11:33:26",
+            "niceformat": "05.07.2023, 11:33",
+            "timestamp": "2023-07-05T09:33:26.000Z"
+        },
+        "thumbnail": {
+            "height": 287,
+            "url": "https://akamai.vgc.no/v2/images/05de577b-6487-4c7d-9bd3-c3497486a22d?fit=crop&format=auto&h=287&w=400&s=035e4d642f0da4178764be907906b8cbd46e01d2",
+            "width": 400
+        },
+        "title": "Mount klar for United: – Alle kan se at klubben har tatt store steg",
+        "url": "https://www.vg.no/sport/fotball/i/eJvd6y/united-antyder-mount-signering"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwQkM1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwQkM1",
+        "preamble": "Sisteskanse Anders Kristiansen har forlenget kontrakten med Sarpsborg 08. 33-åringen har skrevet under for to nye år.",
+        "published": {
+            "date": "onsdag 5. juli",
+            "datetime": "2023-07-05 11:24:40",
+            "niceformat": "05.07.2023, 11:24",
+            "timestamp": "2023-07-05T09:24:40.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6f735a8c-c35a-4e8b-be59-a22bd0a6fc47?fit=crop&format=auto&h=267&w=400&s=ef3872659af458ab3d9adf6b235ca2cf791aacde",
+            "width": 400
+        },
+        "title": "Sarpsborg 08-keeperen forlenger kontrakten",
+        "url": "https://www.vg.no/sport/fotball/i/dwQkM1/sarpsborg-08-keeperen-forlenger-kontrakten"
+    }
+]

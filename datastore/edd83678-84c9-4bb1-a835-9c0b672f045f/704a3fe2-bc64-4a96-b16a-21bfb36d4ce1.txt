@@ -1,0 +1,191 @@
+[
+    {
+        "slug": "trodde-ikke-jeg-skulle-ta-til-taarene-dette-var-stort",
+        "url": "/sport/fotball/i/WRdxRg/trodde-ikke-jeg-skulle-ta-til-taarene-dette-var-stort",
+        "title": {
+            "value": "- Trodde ikke jeg skulle ta til tårene. Dette var stort"
+        },
+        "description": "Under TV-intervjuet tok følelsene til toppscoreren overhånd.",
+        "imageUrl": "48f44152-6c9d-4140-8ab4-130c4e1bcf8f",
+        "publishedAt": "2023-05-25T17:46:22Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Karoline Ulvnes"
+        ],
+        "tags": [
+            "breddefotbaill",
+            "cupen"
+        ]
+    },
+    {
+        "slug": "lytter-de-til-ham-lenger",
+        "url": "/sport/i/9znGMM/lytter-de-til-ham-lenger",
+        "title": {
+            "value": "Dette er oppsiktsvekkende"
+        },
+        "description": "KOMMENTAR: Kjetil Rekdal har i flere måneder gått rundt og fortalt at verden har for høye forventninger til RBK. Nå er han sjokkert over at det presteres svakt.",
+        "imageUrl": "d05446af-88e4-41cc-be59-2f95700b1534",
+        "publishedAt": "2023-05-25T16:38:07Z",
+        "lastModifiedAt": "2023-05-25T16:41:01Z",
+        "premium": true,
+        "authors": [
+            "Birger Løfaldli"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "markus-henriksen",
+            "rosenborg-bk",
+            "birger-loefaldli"
+        ]
+    },
+    {
+        "slug": "kapteinen-tror-han-vet-hva-som-er-rbks-hovedproblem",
+        "url": "/sport/fotball/i/dwPbGz/kapteinen-tror-han-vet-hva-som-er-rbks-hovedproblem",
+        "title": {
+            "value": "Kapteinen tror han vet hva som er RBKs hovedproblem"
+        },
+        "description": "Markus Henriksen ønsker seg mer fokus på eget spill og har gitt Kjetil Rekdal beskjed.",
+        "imageUrl": "67b265f4-0ea2-4cb0-b66f-b822350db5dd",
+        "publishedAt": "2023-05-25T14:52:56Z",
+        "lastModifiedAt": "2023-05-25T14:57:57Z",
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "kjetil-rekdal"
+        ]
+    },
+    {
+        "slug": "har-pratet-ut-etter-sjokket-mangel-paa-mentalitet-forberedelse-og-innstilling",
+        "url": "/sport/fotball/i/dwPjRJ/har-pratet-ut-etter-sjokket-mangel-paa-mentalitet-forberedelse-og-innstilling",
+        "title": {
+            "value": "Har pratet ut etter sjokket: – Mangel på mentalitet, forberedelse og innstilling"
+        },
+        "description": "Kjetil Rekdal varslet oppvask dagen derpå. Etterpå var han ordknapp om det som kom fram.",
+        "imageUrl": "454afc3c-27ff-453c-8895-bc39eb2540a7",
+        "publishedAt": "2023-05-25T10:35:45Z",
+        "lastModifiedAt": "2023-05-25T10:44:50Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold",
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "kjetil-rekdal",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "uavgjort-i-maalfest-mellom-utleira-2-og-sverresborg",
+        "url": "/lokalfotballen/i/mQaVBq/uavgjort-i-maalfest-mellom-utleira-2-og-sverresborg",
+        "title": {
+            "value": "Målfest på Utleira kunstgress"
+        },
+        "description": "Sverresborg var på vei mot seier, men måtte nøye seg med 3-3 mot Utleira 2 i 4. divisjon, Trøndelag - Avdeling 3 onsdag. Utleira 2 har tatt poeng i sine fem siste hjemmekamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-24T20:57:51Z",
+        "lastModifiedAt": "2023-05-24T21:59:31Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "gustav-kruger-solberg-sikret-poeng-for-trond",
+        "url": "/lokalfotballen/i/O8PaQl/gustav-kruger-solberg-sikret-poeng-for-trond",
+        "title": {
+            "value": "Gustav Krüger Solberg ordnet poeng for Trond"
+        },
+        "description": "Ranheim og Trond spilte 1-1 på Extra Arena i G19 Elite, Vår onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-24T20:54:49Z",
+        "lastModifiedAt": "2023-05-24T21:28:55Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "brage-lauten-tveit-i-scoringshumoer-mot-melhus-3-gimse-3",
+        "url": "/lokalfotballen/i/pQXVgE/brage-lauten-tveit-i-scoringshumoer-mot-melhus-3-gimse-3",
+        "title": {
+            "value": "Dobbel fra Brage Lauten Tveit for Ranheim 3"
+        },
+        "description": "Ranheim 3 slo Melhus 3/Gimse 3 3-1 og tok sin tredje seier på rad i G16 3. divisjon, Avdeling 3 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-24T20:27:39Z",
+        "lastModifiedAt": "2023-05-25T13:58:18Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "charlottenlund-mistet-seieren-paa-overtid",
+        "url": "/lokalfotballen/i/WRdalg/charlottenlund-mistet-seieren-paa-overtid",
+        "title": {
+            "value": "Sondre Grøtte berget Tiller"
+        },
+        "description": "Tiller lå under 2-3, men klarte 3-3 mot Charlottenlund etter en sen utligning i G19 Elite, Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-24T20:22:31Z",
+        "lastModifiedAt": "2023-05-25T06:28:10Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "to-fulltreffere-fra-jobotn",
+        "url": "/lokalfotballen/i/nQXMkL/to-fulltreffere-fra-jobotn",
+        "title": {
+            "value": "Hitra 2 slo Tiller 3 i målfest"
+        },
+        "description": "Arne Julian Jobotn scoret to av målene og hjalp Hitra 2 til 5-3-seier over Tiller 3 i 6. divisjon, Trøndelag - Avdeling 5 i fotball for menn onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-24T20:12:57Z",
+        "lastModifiedAt": "2023-05-25T03:58:19Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya"
+        ]
+    },
+    {
+        "slug": "mina-othman-omar-saleem-var-giftig-foran-maal-scoret-hattrick",
+        "url": "/lokalfotballen/i/76LjWB/mina-othman-omar-saleem-var-giftig-foran-maal-scoret-hattrick",
+        "title": {
+            "value": "Mina Othman Omar Saleem scoret hattrick mot Orkla"
+        },
+        "description": "Strindheim snudde 0-1 til 3-1-seier mot Orkla i J17 1. divisjon, Avdeling 2 - Vår onsdag. Mina Othman Omar Saleem gjorde hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-24T19:46:13Z",
+        "lastModifiedAt": "2023-05-24T21:01:11Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    }
+]

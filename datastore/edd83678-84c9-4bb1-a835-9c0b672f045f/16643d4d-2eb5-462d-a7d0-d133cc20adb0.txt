@@ -1,0 +1,194 @@
+[
+    {
+        "slug": "ringte-inn-til-politiet-opplevde-aa-ha-blitt-beskutt",
+        "url": "/nyheter/i/JQwgpR/ringte-inn-til-politiet-opplevde-aa-ha-blitt-beskutt",
+        "title": {
+            "value": "– Vi har mistanke om at gjenstanden er modifisert for å avfyre et prosjektil"
+        },
+        "description": "Politiet har tatt beslag i en signalpenn etter at en syklist opplevde å bli skutt på.",
+        "imageUrl": "f22bcede-dbd0-44e5-a779-e7ce262b2a20",
+        "publishedAt": "2023-07-06T18:18:04Z",
+        "lastModifiedAt": "2023-07-06T19:23:48Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold",
+            "Malin von Düring"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "politiet-person-sa-han-ble-beskutt-i-trondheim-en-paagrepet",
+        "url": "/nyheter/innenriks/i/1503rG/politiet-person-sa-han-ble-beskutt-i-trondheim-en-paagrepet",
+        "title": {
+            "value": "Person sa han ble beskutt i Trondheim – en pågrepet"
+        },
+        "description": "En person er pågrepet på Ranheim i Trondheim etter at en syklist hevdet han ble skutt etter.",
+        "imageUrl": null,
+        "publishedAt": "2023-07-06T18:15:41Z",
+        "lastModifiedAt": "2023-07-06T18:39:43Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "gjengen-fra-trondheim-trener-knallhardt-aner-ikke-hva-som-venter-dem",
+        "url": "/sport/i/q18kxm/gjengen-fra-trondheim-trener-knallhardt-aner-ikke-hva-som-venter-dem",
+        "title": {
+            "value": "En Netflix-dokumentar fikk Vår til å skifte idrett"
+        },
+        "description": "For tre år siden ble de bitt av basillen. Nå er de bedre trent enn flere av Norges ypperste toppidrettsutøvere.",
+        "imageUrl": "c52d39ab-dde7-4cde-8742-fc3e586df086",
+        "publishedAt": "2023-07-06T18:03:03Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ine Skjellum",
+            "Christine Schefte (foto)"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "brutal-dom-over-nederlaget-skikkelig-daarlig",
+        "url": "/sport/i/4oQKpR/brutal-dom-over-nederlaget-skikkelig-daarlig",
+        "title": {
+            "value": "Mener VM-billetten er i boks: - Hundre prosent sikkert"
+        },
+        "description": "Ingar Bratseth-Kiplesund innfridde forventningene og tok et overbevisende NM-gull.",
+        "imageUrl": "8ac946ed-67fa-487f-b86e-0736f93df8cb",
+        "publishedAt": "2023-07-06T14:33:31Z",
+        "lastModifiedAt": "2023-07-06T18:53:20Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand",
+            "Andreas Jakobsen, NTB"
+        ],
+        "tags": [
+            "friidrett",
+            "thea-leirfall-bremset",
+            "ingar-kiplesund"
+        ]
+    },
+    {
+        "slug": "fra-fysio-til-fulltidsproff-kaare-faar-en-spiller-som-er-over-snittet-opptatt-av-skadeforebyggende",
+        "url": "/sport/fotball/i/O811XO/fra-fysio-til-fulltidsproff-kaare-faar-en-spiller-som-er-over-snittet-opptatt-av-skadeforebyggende",
+        "title": {
+            "value": "Fra fysio til fotballproff: – Like overrasket som alle andre"
+        },
+        "description": "Hospitering med laget endte med proffkontrakt for 26-åringen.",
+        "imageUrl": "a2fe63d6-9de1-4344-8244-6c321a5dbdd4",
+        "publishedAt": "2023-07-06T08:42:14Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "sport",
+            "fotball",
+            "kaare-ingebrigtsen",
+            "ranheim-tf"
+        ]
+    },
+    {
+        "slug": "andre-hansen-mener-rbk-forventningene-maa-justeres",
+        "url": "/sport/fotball/i/P4Lwv7/andre-hansen-mener-rbk-forventningene-maa-justeres",
+        "title": {
+            "value": "- Vi har ingen rik onkel som gir penger av ren skjær glede"
+        },
+        "description": "33-åringen legger merke til at Rosenborg henter spillere fra en annen hylle enn tidligere.",
+        "imageUrl": "eab6e6d2-d55a-452e-9f68-48edb22313fa",
+        "publishedAt": "2023-07-06T07:04:30Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "sport",
+            "fotball",
+            "andre-hansen",
+            "oscar-aga",
+            "edvard-tagseth",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "urfolk-i-amazonas-forlater-regnskogen-til-fordel-for-byene",
+        "url": "/nyheter/utenriks/i/q18xq0/urfolk-i-amazonas-forlater-regnskogen-til-fordel-for-byene",
+        "title": {
+            "value": "Urfolk i Amazonas forlater regnskogen til fordel for byene"
+        },
+        "description": "Tusenvis av urfolk fra Amazonas forlater landsbyene sine i regnskogen til fordel for et liv i byene – noe som endrer både deres, landsbyenes og byenes liv.",
+        "imageUrl": "f0f48ecd-5825-40be-ade2-6b084b5034bb",
+        "publishedAt": "2023-07-06T04:01:12Z",
+        "lastModifiedAt": "2023-07-06T04:01:12Z",
+        "premium": false,
+        "authors": [
+            "NTB-AP"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "hjertesukk-fra-oss-som-ikke-har-peiling-paa-fotball",
+        "url": "/meninger/i/KnK1ay/hjertesukk-fra-oss-som-ikke-har-peiling-paa-fotball",
+        "title": {
+            "value": "De oppførte seg som skrikerunger og fikk viljen sin "
+        },
+        "description": "Jeg burde sikkert holdt kjeften (kjerring!). Men hva i raillkattlia er det med toppfotball som gjør at de kvitter seg med treneren så fort det går dårlig?",
+        "imageUrl": "62793b7e-38b2-4134-97ff-18010f784076",
+        "publishedAt": "2023-07-05T17:57:10Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Kari Hovde"
+        ],
+        "tags": [
+            "kommentarer",
+            "kari-hovde",
+            "rosenborg",
+            "fotball",
+            "ledelse"
+        ]
+    },
+    {
+        "slug": "rbk-profilen-bekrefter-har-avvist-to-kontraktsforslag",
+        "url": "/sport/fotball/i/2Bwq2q/rbk-profilen-bekrefter-har-avvist-to-kontraktsforslag",
+        "title": {
+            "value": "RBK-profilen bekrefter: Har avvist to kontraktsforslag"
+        },
+        "description": "Edvard Tagseth vil ikke legge for mye i at han har avvist to tilbud fra RBK.",
+        "imageUrl": "602c1453-5c6c-4ff7-8540-985c822b0327",
+        "publishedAt": "2023-07-05T16:51:59Z",
+        "lastModifiedAt": "2023-07-05T16:55:06Z",
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "edvard-tagseth"
+        ]
+    },
+    {
+        "slug": "ferieviner-paa-polet",
+        "url": "/kultur/i/pQOMKX/ferieviner-paa-polet",
+        "title": {
+            "value": "Pasta- og pizzavin til en svært god pris"
+        },
+        "description": "Gode bobler, hvitvin på halvflaske, sommerviner med naturlig lav alkohol og et spennende geografisk utvalg av røde viner står øverst på vår liste.",
+        "imageUrl": "be79d02c-5574-485b-8146-2bd6e7cd8336",
+        "publishedAt": "2023-07-05T13:42:30Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Monika Wessel"
+        ],
+        "tags": [
+            "bobler",
+            "hvitvin",
+            "alkohol"
+        ]
+    }
+]

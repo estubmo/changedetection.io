@@ -1,0 +1,186 @@
+[
+    {
+        "slug": "siste-fra-breddefotballen",
+        "url": "/sport/fotball/i/GMjXaq/siste-fra-breddefotballen",
+        "title": {
+            "value": "Henter tidligere førstedivisjonsspiller"
+        },
+        "description": null,
+        "imageUrl": "f5e35fa8-b9da-46b5-978e-d328a7fdb94b",
+        "publishedAt": "2023-03-24T14:51:36Z",
+        "lastModifiedAt": "2023-04-23T20:17:37Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "fotball",
+            "breddefotbaill",
+            "lokalfotballen",
+            "breddefotball"
+        ]
+    },
+    {
+        "slug": "eu-forbudet-mot-gummigranulat-kan-koste-over-100-milliarder-kroner",
+        "url": "/nyheter/innenriks/i/nQOK3m/eu-forbudet-mot-gummigranulat-kan-koste-over-100-milliarder-kroner",
+        "title": {
+            "value": "EU-forbudet mot gummigranulat kan koste over 100 milliarder kroner"
+        },
+        "description": "Uefa sier de jobber med å forsikre seg om at alle konsekvenser ved et gummigranulatforbud er belyst før innføringen. Prislappen kan bli astronomisk.",
+        "imageUrl": "63825ed7-6fb3-48ce-95a3-5f3acf6721cc",
+        "publishedAt": "2023-04-28T11:30:14Z",
+        "lastModifiedAt": "2023-04-28T11:31:07Z",
+        "premium": false,
+        "authors": [
+            "NTB-Stian Grythaugen og Lars Eide"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "ivers-direkte-fra-rbk-trening-faa-siste-nytt-foer-bortekampen",
+        "url": "/sport/fotball/i/O8eBwO/ivers-direkte-fra-rbk-trening-faa-siste-nytt-foer-bortekampen",
+        "title": {
+            "value": "Se sendingen fra RBK-treningen: - Vi er  revansjelystne"
+        },
+        "description": "Direkte fra 11.30: Vi lodder stemningen på treningsfeltet og snakker med aktuelle gjester.",
+        "imageUrl": "d685642c-d3a5-4d63-99a2-dce767dd5c2c",
+        "publishedAt": "2023-04-28T08:35:23Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "iversen-klar-for-ny-klubb-hadde-aldri-trodd-jeg-skulle-faa-til-det",
+        "url": "/sport/fotball/i/8J7KmE/iversen-klar-for-ny-klubb-hadde-aldri-trodd-jeg-skulle-faa-til-det",
+        "title": {
+            "value": "Iversen klar for ny klubb og oldboysfotball: Takker tidligere skistjerne"
+        },
+        "description": null,
+        "imageUrl": null,
+        "publishedAt": "2023-04-28T08:32:19Z",
+        "lastModifiedAt": "2023-04-28T13:39:40Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "breddefotbaill",
+            "lokalfotballen"
+        ]
+    },
+    {
+        "slug": "denne-29-aaringen-blir-ny-trener-i-nidaros",
+        "url": "/sport/i/rlGKo0/denne-29-aaringen-blir-ny-trener-i-nidaros",
+        "title": {
+            "value": "Denne 29-åringen blir ny trener i Nidaros"
+        },
+        "description": "Victor Wallson er krystallklar: - Det er opprykk som gjelder.",
+        "imageUrl": "cb3297e4-b1a1-4d8e-b681-1c4663df1332",
+        "publishedAt": "2023-04-28T08:27:15Z",
+        "lastModifiedAt": "2023-04-28T08:27:15Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "vaxjo-lakers",
+            "nidaros-hockey"
+        ]
+    },
+    {
+        "slug": "regjeringen-fornoeyd-med-eu-nei-til-gummigranulat-nff-slaar-alarm",
+        "url": "/nyheter/innenriks/i/4oXgE6/regjeringen-fornoeyd-med-eu-nei-til-gummigranulat-nff-slaar-alarm",
+        "title": {
+            "value": "Regjeringen fornøyd med EU-nei til gummigranulat – NFF slår alarm"
+        },
+        "description": "Klima- og miljøminister Espen Barth Eide (Ap) er glad for forbudet mot gummigranulat og mener overgangsperioden på åtte år er nok. NFF fortviler.",
+        "imageUrl": "1845c096-d1b8-492d-bda8-845a8d7d5bf5",
+        "publishedAt": "2023-04-28T04:53:09Z",
+        "lastModifiedAt": "2023-04-28T04:53:09Z",
+        "premium": false,
+        "authors": [
+            "NTB-Lars Eide"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "enebakk-senket-egge-paa-overtid",
+        "url": "/lokalfotballen/i/zEQ3pv/enebakk-senket-egge-paa-overtid",
+        "title": {
+            "value": "Enebakk senket Egge"
+        },
+        "description": "Erik Enebakk sto for den avgjørende scoringen da Vanvik slo Egge 4-3 i 5. divisjon, Trøndelag - Avdeling 1 i fotball. Det var Vanviks første seier denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-27T22:16:39Z",
+        "lastModifiedAt": "2023-04-28T08:16:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "arvina-nadiar-islam-ordnet-uavgjort-i-sluttminuttene",
+        "url": "/lokalfotballen/i/0QXJ8A/arvina-nadiar-islam-ordnet-uavgjort-i-sluttminuttene",
+        "title": {
+            "value": "Sen scoring ordnet Charlottenlund 2-poeng"
+        },
+        "description": "Arvina Nadiar Islam reddet poeng for Charlottenlund 2 med en sen utligning i 2-2-kampen mot Ranheim TF 2",
+        "imageUrl": null,
+        "publishedAt": "2023-04-27T21:24:17Z",
+        "lastModifiedAt": "2023-04-27T21:48:16Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "vuku-tapte-hjemme-mot-grong",
+        "url": "/lokalfotballen/i/zEQ3K1/vuku-tapte-hjemme-mot-grong",
+        "title": {
+            "value": "Vikan ble helten for Grong"
+        },
+        "description": "Vuku klarte ikke å finne nettmaskene og ble slått 0-1 av Grong i 4. divisjon, Trøndelag - Avdeling 1 i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-27T21:24:02Z",
+        "lastModifiedAt": "2023-04-27T21:48:01Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "vestbyen-2-tapte-borte",
+        "url": "/lokalfotballen/i/RGl2eW/vestbyen-2-tapte-borte",
+        "title": {
+            "value": "Vestbyen 2 tapte mot Flatås"
+        },
+        "description": "Flatås knuste Vestbyen 2 3-0 i 4. divisjon, Trøndelag - Avdeling 3 i fotball torsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-04-27T21:06:24Z",
+        "lastModifiedAt": "2023-04-27T21:21:02Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

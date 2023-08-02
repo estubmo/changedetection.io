@@ -1,0 +1,202 @@
+[
+    {
+        "slug": "iris-hassel-ble-tomaalshelt-mot-utleira",
+        "url": "/lokalfotballen/i/zEe61q/iris-hassel-ble-tomaalshelt-mot-utleira",
+        "title": {
+            "value": "Iris Hassel ble tomålshelt mot Utleira"
+        },
+        "description": "Iris Hassel sto fram med to scoringer da Ranheim seiret 5-0 over Utleira i J14 1. divisjon, Avdeling 1 - Vår onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-07T19:11:07Z",
+        "lastModifiedAt": "2023-06-07T19:11:07Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "emma-kutchera-ordnet-poeng-for-valsoeyfjord-halsa-9er",
+        "url": "/lokalfotballen/i/0QO372/emma-kutchera-ordnet-poeng-for-valsoeyfjord-halsa-9er",
+        "title": {
+            "value": "Emma Kutchera ordnet poeng for Valsøyfjord / Halsa 9er"
+        },
+        "description": "Orkla var på vei mot seier, men måtte nøye seg med 3-3 mot Valsøyfjord/Halsa 9er i J15 2. divisjon, Avdeling 3 - Vår onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-07T19:02:52Z",
+        "lastModifiedAt": "2023-06-07T19:02:52Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "dommer-rapporterer-inn-ranheim-leder-frank-lidahl-etter-knuffing-i-spillertunellen",
+        "url": "/sport/fotball/i/bgdqw3/dommer-rapporterer-inn-ranheim-leder-frank-lidahl-etter-knuffing-i-spillertunellen",
+        "title": {
+            "value": "Dommer rapporterer inn Ranheim-lederen etter knuffing i spillertunellen"
+        },
+        "description": "Ranheim-lederens opptreden etter cup-exiten blir rapportert inn til NFF. Det får Frank Lidahl til å rase.",
+        "imageUrl": "ab98dfdc-3ef4-40d9-b59a-cb856a9bc371",
+        "publishedAt": "2023-06-07T18:47:13Z",
+        "lastModifiedAt": "2023-06-07T19:22:45Z",
+        "premium": true,
+        "authors": [
+            "Even Berthelsen",
+            "Petter Rasmus"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "debutanten-sendte-blink-videre-etter-ekstraomganger",
+        "url": "/sport/fotball/i/3E7RJX/debutanten-sendte-blink-videre-etter-ekstraomganger",
+        "title": {
+            "value": "Cupeventyret fortsetter for det trønderske 2. divisjonslaget"
+        },
+        "description": "Stjørdals-Blink fosser videre, og er nå det eneste trønderske laget som fortsatt er med i cupen.",
+        "imageUrl": "783099ce-4d0f-4a61-ad5e-54f6c82e057c",
+        "publishedAt": "2023-06-07T18:32:28Z",
+        "lastModifiedAt": "2023-06-07T19:20:47Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "stjoerdals-blink",
+            "fotball",
+            "cupen"
+        ]
+    },
+    {
+        "slug": "ranheim-gikk-i-strupen-paa-glimt-men-roek-ut-av-cupen",
+        "url": "/sport/fotball/i/158ROq/ranheim-gikk-i-strupen-paa-glimt-men-roek-ut-av-cupen",
+        "title": {
+            "value": "Ranheim gikk i strupen på Glimt, men røk ut av cupen"
+        },
+        "description": "De ga det et ærlig forsøk, Ranheim. Men Bodø/Glimt ble for sterke i 4. runde i cupen.",
+        "imageUrl": "470b29f9-b8d0-47a2-a0e4-4292325d6483",
+        "publishedAt": "2023-06-07T17:52:38Z",
+        "lastModifiedAt": "2023-06-07T19:15:40Z",
+        "premium": true,
+        "authors": [
+            "Even Berthelsen",
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "sport",
+            "fotball",
+            "ranheim",
+            "ranheim-tf"
+        ]
+    },
+    {
+        "slug": "fremstiller-resultatene-som-gode-det-stemmer-ikke-med-virkeligheten",
+        "url": "/meninger/i/l3LK0G/fremstiller-resultatene-som-gode-det-stemmer-ikke-med-virkeligheten",
+        "title": {
+            "value": "Svarer Bafondoko: - Midt på treet er ikke godt nok"
+        },
+        "description": null,
+        "imageUrl": "faed4eab-8f37-4fd0-bbd5-d44cd17b0f54",
+        "publishedAt": "2023-06-07T17:14:25Z",
+        "lastModifiedAt": null,
+        "premium": false,
+        "authors": [
+            "Mats Ramo ",
+            "Robert Flataas "
+        ],
+        "tags": [
+            "debatt",
+            "trondheim",
+            "utdanning",
+            "skolepolitikk",
+            "trondheim-kommune",
+            "elev",
+            "forskning"
+        ]
+    },
+    {
+        "slug": "chat-fortsetter-ranheims-cupeventyr",
+        "url": "/sport/fotball/i/0QO3jJ/chat-fortsetter-ranheims-cupeventyr",
+        "title": {
+            "value": "Blink videre i cupen: - En enorm prestasjon"
+        },
+        "description": "Ranheim er ute av cupen etter tap mot Glimt, men cuphåpet lever på Stjørdal.",
+        "imageUrl": "703e4c78-496b-401a-91de-5a0e3eda4929",
+        "publishedAt": "2023-06-07T15:48:12Z",
+        "lastModifiedAt": "2023-06-07T17:56:11Z",
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "ranheim-tf"
+        ]
+    },
+    {
+        "slug": "rbk-henter-stortalent",
+        "url": "/sport/fotball/i/eJ0qWl/rbk-henter-stortalent",
+        "title": {
+            "value": "RBK henter stortalent"
+        },
+        "description": "Rosenborg er enig med Cille Nilsen om en treårskontrakt.",
+        "imageUrl": "f0a3b224-c233-4f7b-a352-b8d8793f06a7",
+        "publishedAt": "2023-06-07T15:35:11Z",
+        "lastModifiedAt": "2023-06-07T15:36:36Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "toppserien",
+            "rosenborg-kvinner",
+            "cille-nilsen"
+        ]
+    },
+    {
+        "slug": "iversen-med-klar-beskjed-til-familien-om-dere-mener-det-slutter-jeg",
+        "url": "/sport/langrenn/i/8Jz9Kw/iversen-med-klar-beskjed-til-familien-om-dere-mener-det-slutter-jeg",
+        "title": {
+            "value": "Iversen med klar beskjed til familien: – Om dere mener det, slutter jeg"
+        },
+        "description": "Emil Iversen tar drastiske grep for å slå tilbake etter to tøffe år. Det hele startet med et familieråd.",
+        "imageUrl": "58460d99-6918-4764-ac0d-0bb9d9d21b36",
+        "publishedAt": "2023-06-07T14:40:49Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "emil-iversen",
+            "langrenn",
+            "johannes-hoesflot-klaebo",
+            "trond-nystad"
+        ]
+    },
+    {
+        "slug": "her-er-han-tilbake-paa-rbk-trening-oensker-snarlig-avklaring",
+        "url": "/sport/i/JQGBbb/her-er-han-tilbake-paa-rbk-trening-oensker-snarlig-avklaring",
+        "title": {
+            "value": "Her er han tilbake på trening"
+        },
+        "description": "Noah Holm er tilbake i Trondheim etter det han beskriver som en skuffende avslutning på sesongen i Frankrike.",
+        "imageUrl": "a91618ff-8332-4089-b99f-b27900dbdaf4",
+        "publishedAt": "2023-06-07T11:41:05Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Yngve Bergli",
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg",
+            "noah-holm"
+        ]
+    }
+]

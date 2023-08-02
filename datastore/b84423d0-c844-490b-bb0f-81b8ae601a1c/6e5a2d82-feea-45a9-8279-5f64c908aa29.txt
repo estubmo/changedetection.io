@@ -1,0 +1,364 @@
+[
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            },
+            {
+                "email": "fredrik.solstad@vg.no",
+                "id": "42fbf715-1f5e-45d0-bd94-7e7ff1675788",
+                "name": "Fredrik Solstad (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "nQXnmm",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/nQXnmm",
+        "preamble": "JELØYA (VG) Sprint/Jeløy brukte godt over én million for å hindre at gummigranulat havnet i naturen. Men klubbens frivillige fikk likevel nye klager i fanget.  ",
+        "published": {
+            "date": "tirsdag 6. juni",
+            "datetime": "2023-06-06 10:17:22",
+            "niceformat": "06.06.2023, 10:17",
+            "timestamp": "2023-06-06T08:17:22.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ff4f405a-40d7-4ddb-a446-5fc0ea746d03?fit=crop&format=auto&h=267&w=400&s=c039652a58e7feb43f8461a972256eb95aa433c3",
+            "width": 400
+        },
+        "title": "Breddeklubb tømte sparegrisen – slites ut av nye naboklager",
+        "url": "https://www.vg.no/sport/fotball/i/nQXnmm/breddeklubb-toemte-sparegrisen-slites-ut-av-nye-naboklager"
+    },
+    {
+        "authors": [
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "XbnMxE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/XbnMxE",
+        "preamble": "Analysebyrået CIES Football Observatory mener Erling Braut Haaland (22) er verdens mest verdifulle fotballspiller.",
+        "published": {
+            "date": "tirsdag 6. juni",
+            "datetime": "2023-06-06 09:58:39",
+            "niceformat": "06.06.2023, 09:58",
+            "timestamp": "2023-06-06T07:58:39.000Z"
+        },
+        "thumbnail": {
+            "height": 290,
+            "url": "https://akamai.vgc.no/v2/images/c5ce2ed6-7198-417b-9294-f26bce0b1ae6?fit=crop&format=auto&h=290&w=400&s=6da40f7cb001fe53dc867406c9858e4e37a11bf5",
+            "width": 400
+        },
+        "title": "Mener Haaland er verdt 2,9 milliarder kroner",
+        "url": "https://www.vg.no/sport/fotball/i/XbnMxE/mener-haaland-er-verdt-2-9-milliarder-kroner"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB-Reuters"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "1586bW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/1586bW",
+        "preamble": "Sju personer har fått bøter og er utestengt fra spanske fotballstadioner for rasisme mot Real Madrid-spiller Vinicius Junior, melder Spanias regjering.",
+        "published": {
+            "date": "tirsdag 6. juni",
+            "datetime": "2023-06-06 07:50:25",
+            "niceformat": "06.06.2023, 07:50",
+            "timestamp": "2023-06-06T05:50:25.000Z"
+        },
+        "thumbnail": {
+            "height": 262,
+            "url": "https://akamai.vgc.no/v2/images/bad9d28c-fa0e-4785-9011-163c1579825c?fit=crop&format=auto&h=262&w=400&s=8d1b7a73c3c9f528acc468edcd09097363ecdb9c",
+            "width": 400
+        },
+        "title": "Sju personer straffet for Vinicius-hets",
+        "url": "https://www.vg.no/sport/fotball/i/1586bW/sju-personer-straffet-for-vinicius-hets"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wA5gXd",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wA5gXd",
+        "preamble": "Saudi-Arabias innsats for å tiltrekke seg verdens beste fotballspillere gikk mandag over i en ny fase da fire av landets klubber fikk ny eier.",
+        "published": {
+            "date": "mandag 5. juni",
+            "datetime": "2023-06-05 21:15:20",
+            "niceformat": "05.06.2023, 21:15",
+            "timestamp": "2023-06-05T19:15:20.000Z"
+        },
+        "thumbnail": {
+            "height": 284,
+            "url": "https://akamai.vgc.no/v2/images/35525f80-cdf1-41d1-9c2e-3d4481e17b87?fit=crop&format=auto&h=284&w=400&s=1b929a3b56138d1d26ffc65cb4af3c79db4b0cf6",
+            "width": 400
+        },
+        "title": "Newcastle-eier overtok Ronaldos klubb – storstilt «privatisering» i saudiarabisk fotball",
+        "url": "https://www.vg.no/sport/fotball/i/wA5gXd/newcastle-eier-overtok-ronaldos-klubb-storstilt-privatisering-i-saudiarabisk-fotball"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEK0y1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEK0y1",
+        "preamble": "VALLE (VG) (Vålerenga – Bodø/Glimt 1–3) Til tross for seieren kastet en frustrert Kjetil Knutsen (54) en vannflaske i bakken og pådro seg gult kort. Akkurat der kan nøkkelen ligge for Vålerenga, mener flere av spillerne.",
+        "published": {
+            "date": "mandag 5. juni",
+            "datetime": "2023-06-05 21:12:32",
+            "niceformat": "05.06.2023, 21:12",
+            "timestamp": "2023-06-05T19:12:32.000Z"
+        },
+        "thumbnail": {
+            "height": 268,
+            "url": "https://akamai.vgc.no/v2/images/9cfcb69a-d871-4be6-bac7-6ea08ebe7715?fit=crop&format=auto&h=268&w=400&s=31014850f05a92156a47e2261c230946be94ce1d",
+            "width": 400
+        },
+        "title": "Vålerenga-spillerne mener at de har noe å lære av Knutsens sinneutbrudd",
+        "url": "https://www.vg.no/sport/fotball/i/gEK0y1/vaalerenga-spillerne-mener-at-de-har-noe-aa-laere-av-knutsens-sinneutbrudd"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kE1wzj",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kE1wzj",
+        "preamble": "Stjerner som Youri Tielemans og Çaglar Söyüncü er ferdige i Leicester etter nedrykket til Championship.",
+        "published": {
+            "date": "mandag 5. juni",
+            "datetime": "2023-06-05 19:58:00",
+            "niceformat": "05.06.2023, 19:58",
+            "timestamp": "2023-06-05T17:58:00.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/3777f7fa-31d0-4c14-b63b-67f006408b83?fit=crop&format=auto&h=266&w=400&s=b4f83da24ff26e1ab314a0342282bfd70488325e",
+            "width": 400
+        },
+        "title": "Syv spillere forlater Leicester gratis etter Premier League-nedrykket",
+        "url": "https://www.vg.no/sport/fotball/i/kE1wzj/syv-spillere-forlater-leicester-gratis-etter-premier-league-nedrykket"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "APW3A5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/APW3A5",
+        "preamble": "SOLSIDEN (VG) Det var kampen han måtte vinne. Etter seieren mot HamKam feiret Kjetil Rekdal (54) med burger og cola. ",
+        "published": {
+            "date": "mandag 5. juni",
+            "datetime": "2023-06-05 18:43:32",
+            "niceformat": "05.06.2023, 18:43",
+            "timestamp": "2023-06-05T16:43:32.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/a586791a-9524-462e-8136-5b0c4fbdeb3b?fit=crop&format=auto&h=300&w=400&s=b264c00f41fe1f9d58babb51b46463ad04e74d7c",
+            "width": 400
+        },
+        "title": "Rekdal åpner opp om presset: – Sover dårligere og våkner om natta",
+        "url": "https://www.vg.no/sport/fotball/i/APW3A5/kjetil-rekdal-om-presset-som-rosenborg-trener"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4wpa7",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4wpa7",
+        "preamble": "Roma-spilleren Tammy Abraham ble båret av banen i siste serierunde av Serie A-fotballen søndag. Nå er det klart at spissen kan bli lenge borte fra fotballen.",
+        "published": {
+            "date": "mandag 5. juni",
+            "datetime": "2023-06-05 18:08:26",
+            "niceformat": "05.06.2023, 18:08",
+            "timestamp": "2023-06-05T16:08:26.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/48e58d6a-2e3f-4653-9250-683b9fb6d719?fit=crop&format=auto&h=267&w=400&s=e3808860a9c1158e1081f561799943a89cf3ac9a",
+            "width": 400
+        },
+        "title": "Kjempesmell for Roma-spiss – pådro seg alvorlig kneskade",
+        "url": "https://www.vg.no/sport/fotball/i/P4wpa7/kjempesmell-for-roma-spiss-paadro-seg-alvorlig-kneskade"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "MoJnj5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/MoJnj5",
+        "preamble": "Ramy Bensebaini (28) går gratis fra Borussia Mönchengladbach til ligarival Borussia Dortmund.",
+        "published": {
+            "date": "mandag 5. juni",
+            "datetime": "2023-06-05 17:15:53",
+            "niceformat": "05.06.2023, 17:15",
+            "timestamp": "2023-06-05T15:15:53.000Z"
+        },
+        "thumbnail": {
+            "height": 251,
+            "url": "https://akamai.vgc.no/v2/images/dc735b72-c08f-4310-8e69-81fe3f6cd166?fit=crop&format=auto&h=251&w=400&s=b2d2f21190180af9e411afd2869912bdd84e5cbe",
+            "width": 400
+        },
+        "title": "Algerisk landslagsspiller signerte for Dortmund",
+        "url": "https://www.vg.no/sport/fotball/i/MoJnj5/algerisk-landslagsspiller-signerte-for-dortmund"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwzRJA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwzRJA",
+        "preamble": "Chelsea har skrevet kontrakt med 16 år gamle Kendry Paez.",
+        "published": {
+            "date": "mandag 5. juni",
+            "datetime": "2023-06-05 16:47:22",
+            "niceformat": "05.06.2023, 16:47",
+            "timestamp": "2023-06-05T14:47:22.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/f3012508-5b76-4138-a98f-730d54d430fb?fit=crop&format=auto&h=267&w=400&s=d5652ab61dfb6ca1e740cb3aec082d58f25d80bd",
+            "width": 400
+        },
+        "title": "Chelsea signerte 16-årig stortalent fra Ecuador",
+        "url": "https://www.vg.no/sport/fotball/i/dwzRJA/chelsea-signerte-16-aarig-stortalent-fra-ecuador"
+    }
+]

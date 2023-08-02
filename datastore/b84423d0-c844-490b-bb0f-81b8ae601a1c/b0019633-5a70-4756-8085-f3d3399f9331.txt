@@ -1,0 +1,365 @@
+[
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "RGXkl2",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/RGXkl2",
+        "preamble": "Liverpool-talentet Fabio Carvalho (20) sendes ut på lån til tysk fotball. En annen spiller kan gå motsatt vei.",
+        "published": {
+            "date": "fredag 30. juni",
+            "datetime": "2023-06-30 14:33:01",
+            "niceformat": "30.06.2023, 14:33",
+            "timestamp": "2023-06-30T12:33:01.000Z"
+        },
+        "thumbnail": {
+            "height": 265,
+            "url": "https://akamai.vgc.no/v2/images/39fa1193-456d-484b-bccf-470caf343727?fit=crop&format=auto&h=265&w=400&s=13988c9e5fcd94d5d3ba2fc61da46cc1078b0628",
+            "width": 400
+        },
+        "title": "Bekreftet: Carvalho lånes ut fra Liverpool til RB Leipzig",
+        "url": "https://www.vg.no/sport/fotball/i/RGXkl2/premier-league-bekreftet-fabio-carvalho-laanes-ut-fra-liverpool-til-rb-leipzig"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "mQxjLO",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/mQxjLO",
+        "preamble": "Frida Maanums lagvenninne i Arsenal, Beth Mead, vil nok aldri glemme sitt forrige møte med Norge. Det har Maanum fått kjenne ekstra på det siste året. ",
+        "published": {
+            "date": "fredag 30. juni",
+            "datetime": "2023-06-30 13:44:11",
+            "niceformat": "30.06.2023, 13:44",
+            "timestamp": "2023-06-30T11:44:11.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/4a0b92cd-7ced-48c8-97bd-2d7966a89d4a?fit=crop&format=auto&h=266&w=400&s=90acdab102fd50f81c9a17e67f7a15a9c156808c",
+            "width": 400
+        },
+        "title": "England-stjerne i latter etter VG-spørsmål: Kommer med stikk til Norge ",
+        "url": "https://www.vg.no/sport/fotball/i/mQxjLO/england-stjerne-i-latter-etter-vg-spoersmaal-kommer-med-stikk-til-norge"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "LlX25x",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/LlX25x",
+        "preamble": "Union Berlin med Morten Thorsby og Andreas Hanche-Olsens klubb Mainz møtes i første serierunde i Bundesliga i august.",
+        "published": {
+            "date": "fredag 30. juni",
+            "datetime": "2023-06-30 13:21:41",
+            "niceformat": "30.06.2023, 13:21",
+            "timestamp": "2023-06-30T11:21:41.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0a07c0e1-1f01-45d0-891d-a38abf18d8c4?fit=crop&format=auto&h=267&w=400&s=df7714aa2f88fa78eee4ab5444ab2d82aded952f",
+            "width": 400
+        },
+        "title": "Terminlisten i Bundesliga klar: Norsk duell i åpningsrunden",
+        "url": "https://www.vg.no/sport/fotball/i/LlX25x/terminlisten-i-bundesliga-klar-norsk-duell-i-aapningsrunden"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "abemP5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/abemP5",
+        "preamble": "Vålerenga og Brann Kvinner har fått sine første motstandere i Champions League-kvalifiseringen. For Vålerengas del blir det et spørsmål om hvor kampen skal spilles.",
+        "published": {
+            "date": "fredag 30. juni",
+            "datetime": "2023-06-30 13:21:04",
+            "niceformat": "30.06.2023, 13:21",
+            "timestamp": "2023-06-30T11:21:04.000Z"
+        },
+        "thumbnail": {
+            "height": 274,
+            "url": "https://akamai.vgc.no/v2/images/de40bce8-ed45-4f04-a47f-b973d2b63f6d?fit=crop&format=auto&h=274&w=400&s=92788943320f3f3b0ff26659ae2fe2a0c80012d6",
+            "width": 400
+        },
+        "title": "Vålerenga fikk belarusisk motstand i Champions League",
+        "url": "https://www.vg.no/sport/fotball/i/abemP5/brann-moeter-bulgarsk-lag-i-champions-league"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQXze6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQXze6",
+        "preamble": "Den ungarske landslagsspilleren Dominik Szoboszlai (22) kan bli Liverpools neste sommersignering, ifølge The Athletic-journalisten David Ornstein.",
+        "published": {
+            "date": "fredag 30. juni",
+            "datetime": "2023-06-30 11:44:59",
+            "niceformat": "30.06.2023, 11:44",
+            "timestamp": "2023-06-30T09:44:59.000Z"
+        },
+        "thumbnail": {
+            "height": 262,
+            "url": "https://akamai.vgc.no/v2/images/654bfdf7-9694-4ba1-b16e-60cf2646783e?fit=crop&format=auto&h=262&w=400&s=c8b3a6d90b77af1e97204f02dcfb56684166e620",
+            "width": 400
+        },
+        "title": "The Athletic: Liverpool jakter Leipzig-spiller Szoboszlai",
+        "url": "https://www.vg.no/sport/fotball/i/JQXze6/the-athletic-liverpool-jakter-leipzig-spiller-szoboszlai"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "abe6n2",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/abe6n2",
+        "preamble": "Sarpsborg 08 har lyktes i å få kloen på 19 år gamle Arnau Casas fra Barcelonas U19-lag.",
+        "published": {
+            "date": "fredag 30. juni",
+            "datetime": "2023-06-30 11:31:33",
+            "niceformat": "30.06.2023, 11:31",
+            "timestamp": "2023-06-30T09:31:33.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/196e8153-e694-46e9-8b07-fd0e95905d53?fit=crop&format=auto&h=267&w=400&s=5bb7bb2b895c80506548d0bfb2409fc4cdbe3a0a",
+            "width": 400
+        },
+        "title": "Barcelona-spiller Arnau Casas klar for Sarpsborg 08",
+        "url": "https://www.vg.no/sport/fotball/i/abe6n2/barcelona-spiller-arnau-casas-klar-for-sarpsborg-08"
+    },
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69ebgo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69ebgo",
+        "preamble": "PSG-manager Christophe Galtier (56) skal være satt i varetekt for diskriminerende kommentarer fra tiden som Nice-manager, ifølge nyhetsbyrået AFP.",
+        "published": {
+            "date": "fredag 30. juni",
+            "datetime": "2023-06-30 11:10:54",
+            "niceformat": "30.06.2023, 11:10",
+            "timestamp": "2023-06-30T09:10:54.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/56bb2316-5e61-4b9b-828b-1246fa90bb78?fit=crop&format=auto&h=267&w=400&s=f5f1a9b49b8fbb5c831499a778fccd69f27f8909",
+            "width": 400
+        },
+        "title": "AFP: PSG-manager pågrepet for diskriminerende kommentarer",
+        "url": "https://www.vg.no/sport/fotball/i/69ebgo/afp-psg-manager-paagrepet-for-diskrimenerende-kommentarer"
+    },
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69eber",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69eber",
+        "preamble": "Amalie Eikeland (27) er klar for Brann på en to og et halvt års kontrakt.",
+        "published": {
+            "date": "fredag 30. juni",
+            "datetime": "2023-06-30 11:01:08",
+            "niceformat": "30.06.2023, 11:01",
+            "timestamp": "2023-06-30T09:01:08.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/c0d94332-46a9-4229-a503-f1ae255c99af?fit=crop&format=auto&h=267&w=400&s=905c8c56f431a911de82b1184e7a3cf001118521",
+            "width": 400
+        },
+        "title": "Landslagsspiller Amalie Eikeland returnerer til Norge – har signert for Brann",
+        "url": "https://www.vg.no/sport/fotball/i/69eber/landslagsspiller-til-brann"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEzmav",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEzmav",
+        "preamble": "Den spanske avisen Marca har publisert sin liste over de 100 beste fotballspillerne i verden. Den topper Erling Braut Haaland.",
+        "published": {
+            "date": "fredag 30. juni",
+            "datetime": "2023-06-30 08:33:54",
+            "niceformat": "30.06.2023, 08:33",
+            "timestamp": "2023-06-30T06:33:54.000Z"
+        },
+        "thumbnail": {
+            "height": 281,
+            "url": "https://akamai.vgc.no/v2/images/9f60a55f-6d11-42ab-98ee-b9bec6d93b02?fit=crop&format=auto&h=281&w=400&s=ec3b8d65d66c5a85fca1ff68495a763f55a80515",
+            "width": 400
+        },
+        "title": "Marca: Haaland best i verden",
+        "url": "https://www.vg.no/sport/fotball/i/zEzmav/marca-haaland-best-i-verden"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwzGGO",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwzGGO",
+        "preamble": "Av Erling Braut Haalands nær 30 millioner følgere på Instagram er nesten seks millioner falske, ifølge et teknologiselskap. Men Martin Ødegaard har større prosentvis andel falske følgere.",
+        "published": {
+            "date": "fredag 30. juni",
+            "datetime": "2023-06-30 03:30:00",
+            "niceformat": "30.06.2023, 03:30",
+            "timestamp": "2023-06-30T01:30:00.000Z"
+        },
+        "thumbnail": {
+            "height": 269,
+            "url": "https://akamai.vgc.no/v2/images/9777d9b6-7b01-4dbb-b532-978397d2862c?fit=crop&format=auto&h=269&w=400&s=6914b0a893266c4602cf67a837a284ec677d315b",
+            "width": 400
+        },
+        "title": "Selskap hevder Haaland har nær seks millioner falske følgere: – En gigantisk industri",
+        "url": "https://www.vg.no/sport/fotball/i/dwzGGO/fotball-selskap-hevder-erling-braut-haaland-har-naer-seks-millioner-falske-foelgere-en-gigantisk-industri"
+    }
+]

@@ -1,0 +1,203 @@
+[
+    {
+        "slug": "nettsus-for-reitan",
+        "url": "/lokalfotballen/i/rlOloK/nettsus-for-reitan",
+        "title": {
+            "value": "Nettsus for Reitan"
+        },
+        "description": "Steinkjer slo Vestbyen 5-2 og har dermed tatt poeng i fem kamper på rad i 3. divisjon, Trøndelag mandag. Vilde Reitan scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T20:18:35Z",
+        "lastModifiedAt": "2023-06-19T20:18:35Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "maalene-rant-inn-for-boermark-by",
+        "url": "/lokalfotballen/i/q1x1jL/maalene-rant-inn-for-boermark-by",
+        "title": {
+            "value": "Målene rant inn for Børmark-By"
+        },
+        "description": "Sverresborg slo Orkla 2 13-0 i dagens kamp. Orkla 2 har gått poengløse av banen i alle kampene sine så langt denne sesongen i 4. divisjon, Trøndelag - Avdeling 2 i fotball for menn. Ørjan Børmark-By scoret tre av målene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T20:11:18Z",
+        "lastModifiedAt": "2023-06-19T20:11:18Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "tilseth-ble-helten-for-stoeren",
+        "url": "/lokalfotballen/i/pQxQzw/tilseth-ble-helten-for-stoeren",
+        "title": {
+            "value": "Tilseth ble helten for Støren"
+        },
+        "description": "Magnus Tilseth sikret seieren med sin 3-2-scoring da Støren slo Trønder-Lyn 2 i 6. divisjon, Trøndelag - Avdeling 6 i fotball mandag. Støren har tatt poeng i åtte kamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T20:10:16Z",
+        "lastModifiedAt": "2023-06-19T20:10:16Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-gauldalsposten",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "stoerdal-senket-tangmoen-2",
+        "url": "/lokalfotballen/i/gExEo9/stoerdal-senket-tangmoen-2",
+        "title": {
+            "value": "Størdal senket Tangmoen 2"
+        },
+        "description": "Neset slo Tangmoen 2 3-2 og har dermed vunnet alle kampene sine hittil denne sesongen i 6. divisjon, Trøndelag - Avdeling 2 i fotball for menn mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T20:10:15Z",
+        "lastModifiedAt": "2023-06-19T20:10:15Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "kil-hemne-2-senket-av-fredriksen",
+        "url": "/lokalfotballen/i/0QqQmo/kil-hemne-2-senket-av-fredriksen",
+        "title": {
+            "value": "KIL / Hemne 2 senket av Fredriksen"
+        },
+        "description": "Bendik Fredriksen scoret det avgjørende målet for Dolmøy i 2-1-seieren over KIL/Hemne 2 på Hemne Sparebank Arena i 5. divisjon, Trøndelag - Avdeling 2 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T20:02:35Z",
+        "lastModifiedAt": "2023-06-19T20:09:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-hitrafroya"
+        ]
+    },
+    {
+        "slug": "melhus-2-vant-igjen",
+        "url": "/lokalfotballen/i/8JVJ22/melhus-2-vant-igjen",
+        "title": {
+            "value": "Melhus 2 vant igjen"
+        },
+        "description": "Med 4-1-seier i dagens kamp har Melhus 2 tatt poeng i fem strake kamper i 6. divisjon, Trøndelag - Avdeling 4 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T19:58:23Z",
+        "lastModifiedAt": "2023-06-19T20:06:54Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "furberg-boettet-inn-maal-mot-lensvik",
+        "url": "/lokalfotballen/i/kExEnj/furberg-boettet-inn-maal-mot-lensvik",
+        "title": {
+            "value": "Furberg bøttet inn mål for Frøya"
+        },
+        "description": "Nataniel Sandvik Furberg sto fram med fem scoringer da Frøya vant 11-0 over Lensvik i 6. divisjon, Trøndelag - Avdeling 4 i fotball. Lensvik har tapt de siste fire kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T19:36:39Z",
+        "lastModifiedAt": "2023-06-19T20:06:56Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "boegeberg-med-maalshow",
+        "url": "/lokalfotballen/i/8JVJa1/boegeberg-med-maalshow",
+        "title": {
+            "value": "Bøgeberg bøttet inn mål mot Buvik 7er"
+        },
+        "description": "Heidi Bøgeberg ledet an med fire av målene i 9-1-seieren over Buvik 7er i 7er, Trøndelag - Avdeling 3 i fotball for kvinner. Buvik 7er har tapt alle kampene sine så langt denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T19:23:58Z",
+        "lastModifiedAt": "2023-06-19T19:36:37Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "stavnesli-scoret-hattrick-mot-fosen",
+        "url": "/lokalfotballen/i/4olokR/stavnesli-scoret-hattrick-mot-fosen",
+        "title": {
+            "value": "Stavnesli scoret hattrick mot Fosen"
+        },
+        "description": "Eivor Sandvik Stavnesli viste scoringsform da KIL/Hemne 2 seiret 4-0 over Fosen i 4. divisjon, Trøndelag - Avdeling 2 i fotball mandag. Det var Fosens andre tap på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T18:59:02Z",
+        "lastModifiedAt": "2023-06-19T19:36:37Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "er-disse-to-et-offer",
+        "url": "/sport/i/veG525/er-disse-to-et-offer",
+        "title": {
+            "value": "Hun tar opp et ømt punkt"
+        },
+        "description": "KOMMENTAR: Svaret er nei, men fotballpresidenten har likevel helt rett når hun tar opp et ømt punkt i norsk idrett.",
+        "imageUrl": "bac908c2-6a9b-4376-92ac-6ae671b9f139",
+        "publishedAt": "2023-06-19T18:28:15Z",
+        "lastModifiedAt": "2023-06-19T18:28:15Z",
+        "premium": true,
+        "authors": [
+            "Birger Løfaldli"
+        ],
+        "tags": [
+            "erling-braut-haaland",
+            "staale-vaag",
+            "sverre-nypan",
+            "lise-klaveness",
+            "birger-loefaldli"
+        ]
+    }
+]

@@ -1,0 +1,398 @@
+[
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            },
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "APWBjq",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/APWBjq",
+        "preamble": "ISTANBUL (Manchester City-Inter (1–0) Erling Braut Haaland kronet en sensasjonell sesong med Champions League-tittelen lørdag kveld, da jærbuen også ble toppscorer i turneringen. Etterpå feiret han med Bryne-jenta Isabel Haugseng Johansen.",
+        "published": {
+            "date": "lørdag 10. juni",
+            "datetime": "2023-06-10 23:43:58",
+            "niceformat": "10.06.2023, 23:43",
+            "timestamp": "2023-06-10T21:43:58.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/1f14427b-fec6-407d-808c-fefcfc043084?fit=crop&format=auto&h=266&w=400&s=e7f5d21edad4e44e35ec2ab65ee2c691cc7e630f",
+            "width": 400
+        },
+        "title": "Haaland feiret bragden med Isabel: – Viser at det er mulig for alle",
+        "url": "https://www.vg.no/sport/fotball/i/APWBjq/haaland-feiret-bragden-med-isabel-viser-at-det-er-mulig-for-alle"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            },
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQEXnG",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQEXnG",
+        "preamble": "ISTANBUL (VG) (Manchester City – Inter 1–0) Erling Braut Haaland (22) og hans Manchester City-lag kopierte en historisk bragd: De er bare det andre engelske laget som vinner de tre største trofeene samme sesong.",
+        "published": {
+            "date": "lørdag 10. juni",
+            "datetime": "2023-06-10 22:55:32",
+            "niceformat": "10.06.2023, 22:55",
+            "timestamp": "2023-06-10T20:55:32.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/e099d465-5f6e-4e8e-826d-5424638b856c?fit=crop&format=auto&h=266&w=400&s=37e6a38009cf00bd2d9ff6a074b5e3ad23126f24",
+            "width": 400
+        },
+        "title": "Erling Braut Haaland og City skrev historie – vant «the treble» etter seier i Champions League-finalen",
+        "url": "https://www.vg.no/sport/fotball/i/EQEXnG/erling-braut-haaland-og-city-skrev-historie-vant-the-treble-etter-seier-i-champions-league-finalen"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            },
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QOq82",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QOq82",
+        "preamble": "ISTANBUL (VG) Manchester Citys arabiske eier, Sjeik Mansour (52), Tyrkia-president Recep Erdogan (69) og flere andre prominente gjester var på plass for Champions League-finalen mellom Erling Braut Haalands lag og italienske Inter. ",
+        "published": {
+            "date": "lørdag 10. juni",
+            "datetime": "2023-06-10 21:39:50",
+            "niceformat": "10.06.2023, 21:39",
+            "timestamp": "2023-06-10T19:39:50.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/eab92951-be14-41b2-925c-7ae47544eb05?fit=crop&format=auto&h=267&w=400&s=9cac67c124fa850b27e95bf25cb5cbf32d10a3cd",
+            "width": 400
+        },
+        "title": "Omstridt City-eier dukket opp på kamp for første gang på 13 år",
+        "url": "https://www.vg.no/sport/fotball/i/0QOq82/omstridt-city-eier-dukket-opp-paa-kamp-for-foerste-gang-paa-13-aar"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEe8r1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEe8r1",
+        "preamble": "Han vekkes av Champions League-hymnen hver dag. Erling Braut Haaland er klar for sin største kamp. Sin største drøm. Han elsker Champions League.",
+        "published": {
+            "date": "lørdag 10. juni",
+            "datetime": "2023-06-10 18:33:39",
+            "niceformat": "10.06.2023, 18:33",
+            "timestamp": "2023-06-10T16:33:39.000Z"
+        },
+        "thumbnail": {
+            "height": 243,
+            "url": "https://akamai.vgc.no/v2/images/fccfc802-e298-4b29-97ef-ad5b908c7140?fit=crop&format=auto&h=243&w=400&s=a926fdccef141fd17c657eba3da14ec4a67bac96",
+            "width": 400
+        },
+        "title": "Haalands besettelse",
+        "url": "https://www.vg.no/sport/fotball/i/zEe8r1/erling-braut-haalands-besettelse-hele-livet-har-ledet-opp-til-champions-league-finalen-med-manchester-city"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "158eWB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/158eWB",
+        "preamble": "(Kristiansund - Moss 4–1) Den hjemvendte KBK-spissen Benjamin Stokke scoret to, og Kristiansund overnatter på 1.-plass i den svært jevne Obos-ligaen.",
+        "published": {
+            "date": "lørdag 10. juni",
+            "datetime": "2023-06-10 17:04:25",
+            "niceformat": "10.06.2023, 17:04",
+            "timestamp": "2023-06-10T15:04:25.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/e43c8f97-126f-45fb-bc39-dc0b303cd50d?fit=crop&format=auto&h=266&w=400&s=8bc8572af16b66e9bc47a90e485f883210e6fdab",
+            "width": 400
+        },
+        "title": "Stokke-dobbel mot Moss – KBK topper Obos-ligaen",
+        "url": "https://www.vg.no/sport/fotball/i/158eWB/kristiansund-ligger-paa-1-plass-i-obos-ligaen-etter-seier-mot-moss"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQGXWP",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQGXWP",
+        "preamble": "Paris Saint-Germains president Nasser Al-Khelaifi sier han ikke har noe å gjøre med et potensielt Qatar-basert oppkjøp av Manchester United.",
+        "published": {
+            "date": "lørdag 10. juni",
+            "datetime": "2023-06-10 14:16:21",
+            "niceformat": "10.06.2023, 14:16",
+            "timestamp": "2023-06-10T12:16:21.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/5400ea8d-ce0e-4b55-806d-0ebb3489bf98?fit=crop&format=auto&h=267&w=400&s=3d66fb527f782c3c0e73cef489643072caa3f52e",
+            "width": 400
+        },
+        "title": "PSG-sjefen avviser rolle i Manchester United-oppkjøp",
+        "url": "https://www.vg.no/sport/fotball/i/JQGXWP/psg-sjefen-avviser-rolle-i-manchester-united-oppkjoep"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwzpLA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwzpLA",
+        "preamble": "Før Champions League-finalen har VG fått et eksklusivt intervju med Erling Braut! ",
+        "published": {
+            "date": "lørdag 10. juni",
+            "datetime": "2023-06-10 13:47:10",
+            "niceformat": "10.06.2023, 13:47",
+            "timestamp": "2023-06-10T11:47:10.000Z"
+        },
+        "thumbnail": {
+            "height": 325,
+            "url": "https://akamai.vgc.no/v2/images/30bddb35-38ca-4fd9-9ab9-5b4b3110fcf3?fit=crop&format=auto&h=325&w=400&s=ec74a3123d4d21c2855eca9149ed32bd7ca43e7f",
+            "width": 400
+        },
+        "title": "Erling Braut om Erling Braut: – Ein goe’ kar ",
+        "url": "https://www.vg.no/sport/fotball/i/dwzpLA/erling-braut-om-erling-braut-ein-goe-kar"
+    },
+    {
+        "authors": [
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76JJOV",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76JJOV",
+        "preamble": "Den svenske stjernen Nilla Fischer åpner opp om ydmykende kjønnstester under fotball-VM i 2011.",
+        "published": {
+            "date": "lørdag 10. juni",
+            "datetime": "2023-06-10 13:16:28",
+            "niceformat": "10.06.2023, 13:16",
+            "timestamp": "2023-06-10T11:16:28.000Z"
+        },
+        "thumbnail": {
+            "height": 248,
+            "url": "https://akamai.vgc.no/v2/images/a49c3fb4-79dc-4874-9998-e0ea1ce63577?fit=crop&format=auto&h=248&w=400&s=8217f8b333e1d46c43711865bf4848e495498148",
+            "width": 400
+        },
+        "title": "Måtte vise kjønnsorganene i VM: – Trodde det var en spøk",
+        "url": "https://www.vg.no/sport/fotball/i/76JJOV/maatte-vise-kjoennsorganene-i-vm-trodde-det-var-en-spoek"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76JJzo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76JJzo",
+        "preamble": "Carlos Carvalhal er ferdig som trener for Jørgen Strand Larsens Celta Vigo til tross for at La Liga-plassen ble berget med et nødskrik.",
+        "published": {
+            "date": "lørdag 10. juni",
+            "datetime": "2023-06-10 12:43:23",
+            "niceformat": "10.06.2023, 12:43",
+            "timestamp": "2023-06-10T10:43:23.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a086d775-7ebe-4e01-9972-d79735c6581a?fit=crop&format=auto&h=267&w=400&s=aee3d2e3dcbb841f0f794db87ade60f13391f3f8",
+            "width": 400
+        },
+        "title": "Strand Larsens trener fikk sparken etter tung sesongavslutning",
+        "url": "https://www.vg.no/sport/fotball/i/76JJzo/strand-larsens-trener-fikk-sparken-etter-tung-sesongavslutning"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QOkPG",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QOkPG",
+        "preamble": "ISTANBUL (VG) Francesco Acerbi (35) slet med alkohol og en følelse av meningsløshet da han ble diagnostisert med testikkelkreft. ",
+        "published": {
+            "date": "lørdag 10. juni",
+            "datetime": "2023-06-10 10:40:46",
+            "niceformat": "10.06.2023, 10:40",
+            "timestamp": "2023-06-10T08:40:46.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/77c231ff-d47c-4ba6-b08b-abeb7a82702b?fit=crop&format=auto&h=267&w=400&s=b544004a0aff51c7b1ad1bd5a5b0f2b6782c59be",
+            "width": 400
+        },
+        "title": "Inter-stopper Acerbi sier kreften reddet ham – nå skal han stoppe Haaland",
+        "url": "https://www.vg.no/sport/fotball/i/0QOkPG/inter-stopper-acerbi-sier-kreften-reddet-ham-naa-skal-han-stoppe-haaland"
+    }
+]

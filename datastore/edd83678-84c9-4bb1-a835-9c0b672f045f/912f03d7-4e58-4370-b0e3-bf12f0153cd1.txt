@@ -1,0 +1,192 @@
+[
+    {
+        "slug": "ranheim-2-seiret-hjemme-mot-strindheim-4",
+        "url": "/lokalfotballen/i/JQMgXb/ranheim-2-seiret-hjemme-mot-strindheim-4",
+        "title": {
+            "value": "Ranheim 2 seiret hjemme mot Strindheim 4"
+        },
+        "description": "Ranheim 2 slo Strindheim 4 3-1 på Ranheim Arena 2 i G14 2. divisjon, Avdeling 3 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-28T11:59:30Z",
+        "lastModifiedAt": "2023-05-28T12:00:31Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "loeftet-hele-rbk-laget-da-hun-kom-inn",
+        "url": "/sport/fotball/i/nQXr7J/loeftet-hele-rbk-laget-da-hun-kom-inn",
+        "title": {
+            "value": "Børsen: Løftet hele RBK-laget da hun kom inn"
+        },
+        "description": "Rosenborg leverte en svak første time mot Vålerenga. Da Mathilde Rogde kom inn, bidro hun til å endre kampbildet.",
+        "imageUrl": "3807dd70-af66-4a4d-8899-ebeb496fe244",
+        "publishedAt": "2023-05-27T17:38:15Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "matilde-rogde",
+            "toppserien",
+            "emilie-nautnes"
+        ]
+    },
+    {
+        "slug": "seriegullet-glapp-ut-av-rbks-egne-hender",
+        "url": "/sport/fotball/i/MoW2gr/seriegullet-glapp-ut-av-rbks-egne-hender",
+        "title": {
+            "value": "Seriegullet glapp ut av RBKs hender"
+        },
+        "description": "RBKs tap for Enga sender hovedstadslaget ni poeng foran Rosenborg i kampen om seriemesterskapet.",
+        "imageUrl": "280689e9-c550-490f-8644-66011a53604b",
+        "publishedAt": "2023-05-27T16:44:56Z",
+        "lastModifiedAt": "2023-05-27T19:42:03Z",
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "toppserien"
+        ]
+    },
+    {
+        "slug": "dobbel-fra-kjoelhamar-for-sverresborg",
+        "url": "/lokalfotballen/i/y6Xpze/dobbel-fra-kjoelhamar-for-sverresborg",
+        "title": {
+            "value": "Kjølhamar i scoringshumør mot Hitra"
+        },
+        "description": "Magnus Kjølhamar ledet an med to av målene i 5-1-seieren over Hitra i 4. divisjon, Trøndelag - Avdeling 2 i fotball. Hitra har tapt tre strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-27T16:35:52Z",
+        "lastModifiedAt": "2023-05-27T16:59:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya"
+        ]
+    },
+    {
+        "slug": "saether-scoret-hattrick-mot-overhalla",
+        "url": "/lokalfotballen/i/Q7O2gq/saether-scoret-hattrick-mot-overhalla",
+        "title": {
+            "value": "Hattrick-show fra Malvik 2"
+        },
+        "description": "Malvik 2 banket Overhalla 6-2 i 4. divisjon, Trøndelag - Avdeling 1 i fotball. Hedda Sæther slo til med hattrick. Overhalla har tapt to strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-27T16:14:30Z",
+        "lastModifiedAt": "2023-05-27T21:29:01Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "namsos-senket-av-skeie",
+        "url": "/lokalfotballen/i/BWd2Ml/namsos-senket-av-skeie",
+        "title": {
+            "value": "Rørvik fortsatte seiersrekken"
+        },
+        "description": "Rørvik tok sin fjerde seier på rad med 2-1 over Namsos",
+        "imageUrl": null,
+        "publishedAt": "2023-05-27T16:09:24Z",
+        "lastModifiedAt": "2023-05-27T16:29:42Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "trygg-lade-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/q1XrP0/trygg-lade-fortsatte-seiersrekken",
+        "title": {
+            "value": "Tredje seier på rad for Trygg/Lade"
+        },
+        "description": "Martin André Elverum Engvik scoret to mål og hjalp Trygg/Lade til 3-1-seier over Lånke i 4. divisjon, Trøndelag - Avdeling 1 i fotball for menn lørdag. Trygg/Lade har vunnet fire av sine fem siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-27T15:59:06Z",
+        "lastModifiedAt": "2023-05-27T19:29:19Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "trond-vant-igjen",
+        "url": "/lokalfotballen/i/gEjQw1/trond-vant-igjen",
+        "title": {
+            "value": "Trond tok sin fjerde seier på rad"
+        },
+        "description": "Trond fikk med seg tre poeng da Ranheim 2 ble slått 3-0 i G16 1. divisjon, Avdeling 1 - Vår. Dermed har Trond vunnet fire kamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-27T15:55:03Z",
+        "lastModifiedAt": "2023-05-27T17:00:13Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "loeberg-avgjorde-for-stoeren",
+        "url": "/lokalfotballen/i/VPk2q4/loeberg-avgjorde-for-stoeren",
+        "title": {
+            "value": "Tredje seier på rad for Støren"
+        },
+        "description": "Christian Løberg sikret tre poeng for Støren da Tylldal ble slått 1-0 i 6. divisjon, Trøndelag - Avdeling 6 i fotball for menn lørdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-27T15:08:09Z",
+        "lastModifiedAt": "2023-05-27T15:31:44Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-gauldalsposten",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "sen-scoring-reddet-ranheim-poeng",
+        "url": "/lokalfotballen/i/l3XWgo/sen-scoring-reddet-ranheim-poeng",
+        "title": {
+            "value": "Seieren glapp for Nardo på tampen"
+        },
+        "description": "Ranheim lå under 0-2, men klarte 2-2 mot Nardo i G19 Elite, Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-27T14:36:32Z",
+        "lastModifiedAt": "2023-05-27T15:00:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

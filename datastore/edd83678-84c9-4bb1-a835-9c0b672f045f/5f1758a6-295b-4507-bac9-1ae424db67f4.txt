@@ -1,0 +1,209 @@
+[
+    {
+        "slug": "ny-seier-for-malvik",
+        "url": "/lokalfotballen/i/abLErO/ny-seier-for-malvik",
+        "title": {
+            "value": "Malvik tok sin fjerde strake seier"
+        },
+        "description": "Malvik seiret 2-1 over Gimse/Melhus/Gauldal hjemme i 3. divisjon, Trøndelag i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T20:30:05Z",
+        "lastModifiedAt": "2023-05-29T20:33:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-bladet",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "hegra-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/kEXjAB/hegra-fortsatte-seiersrekken",
+        "title": {
+            "value": "Storseier for Hegra"
+        },
+        "description": "Hegra banket Ekne 7-3 i 6. divisjon, Trøndelag - Avdeling 2 i fotball for menn mandag. Ekne har gått poengløse av banen i tre strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T20:09:44Z",
+        "lastModifiedAt": "2023-05-29T20:34:39Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "uavgjort-paa-tobb-arena-levanger",
+        "url": "/lokalfotballen/i/691AxQ/uavgjort-paa-tobb-arena-levanger",
+        "title": {
+            "value": "Poengdeling mellom Levanger og Vestbyen"
+        },
+        "description": "Vestbyen lå under 0-1, men klarte 1-1 mot Levanger etter en sen utligning i 3. divisjon, Trøndelag i fotball for kvinner. Det stanset tapsrekken til Levanger, som var poengløse på de siste fire kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T20:02:11Z",
+        "lastModifiedAt": "2023-05-29T20:33:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "karlsen-i-scoringshumoer-mot-laanke-2",
+        "url": "/lokalfotballen/i/l3XjBy/karlsen-i-scoringshumoer-mot-laanke-2",
+        "title": {
+            "value": "Karlsen scoret to for Malvik 2/Hommelvik 2"
+        },
+        "description": "Malvik 2/Hommelvik 2 banket Lånke 2 4-1 i 6. divisjon, Trøndelag - Avdeling 2 i fotball mandag. Henrik Emil Karlsen scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T20:02:11Z",
+        "lastModifiedAt": "2023-05-29T20:34:38Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "nettsus-for-lucas-rode-schanche",
+        "url": "/lokalfotballen/i/jlXjRq/nettsus-for-lucas-rode-schanche",
+        "title": {
+            "value": "To fulltreffere fra Lucas Rode Schanche"
+        },
+        "description": "Lucas Rode Schanche scoret to av målene da Ørland vant 6-1 over Trygg/Lade i G16 1. divisjon, Avdeling 1 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T19:55:59Z",
+        "lastModifiedAt": "2023-05-29T20:03:20Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "fosen-seiret-i-maalfest",
+        "url": "/lokalfotballen/i/xgXjap/fosen-seiret-i-maalfest",
+        "title": {
+            "value": "Fosen fortsatte seiersrekken"
+        },
+        "description": "Lucas Berg Steen scoret fem ganger og hjalp Fosen til 15-2-seier over Munkholmen i 6. divisjon, Trøndelag - Avdeling 3 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T19:53:58Z",
+        "lastModifiedAt": "2023-05-29T20:34:36Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "namdalseid-tok-sin-tredje-strake-seier",
+        "url": "/lokalfotballen/i/XbJQrn/namdalseid-tok-sin-tredje-strake-seier",
+        "title": {
+            "value": "Namdalseid vant igjen"
+        },
+        "description": "Namdalseid knuste Nærøy 3-0 i 6. divisjon, Trøndelag - Avdeling 1 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T19:43:44Z",
+        "lastModifiedAt": "2023-05-29T20:02:10Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "kjernen-krever-at-rekdal-blir-sparket",
+        "url": "/sport/fotball/i/4ovAPa/kjernen-krever-at-rekdal-blir-sparket",
+        "title": {
+            "value": "Kjernen krever at Rekdal blir sparket - dette svarer styrelederen"
+        },
+        "description": "Supportergruppen er tydelige overfor styret i klubben og ønsker ikke lenger at RBK ledes av Kjetil Rekdal.",
+        "imageUrl": "92bbf9f9-d8ff-40b0-8ec6-9d3c3ad7bef0",
+        "publishedAt": "2023-05-29T19:38:56Z",
+        "lastModifiedAt": "2023-05-29T20:16:49Z",
+        "premium": true,
+        "authors": [
+            "Even Berthelsen",
+            "Yngve Bergli"
+        ],
+        "tags": [
+            "sport",
+            "fotball",
+            "kjetil-rekdal",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "gir-lekser-bare-naar-de-trengs",
+        "url": "/nyheter/trondheim/i/KnlwXX/gir-lekser-bare-naar-de-trengs",
+        "title": {
+            "value": "– Blir det altfor mye, eller for vanskelig, så får vi det ikke til"
+        },
+        "description": "– Vi har tenkt at skolearbeidet skal ligne litt mer på arbeidslivet, sier lærer Øyvind Moldestad. Tallak (11) har hatt én lekse dette skoleåret.",
+        "imageUrl": "347e93cc-6c92-44ce-b3a2-1ac43ac42ec7",
+        "publishedAt": "2023-05-29T19:37:00Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Norunn Bergesen"
+        ],
+        "tags": [
+            "adressa-undersoekelsen",
+            "elev",
+            "barn",
+            "lekser",
+            "leksefri",
+            "skole",
+            "laerere",
+            "dysleksi",
+            "stress",
+            "fritid",
+            "fritidsaktiviteter"
+        ]
+    },
+    {
+        "slug": "to-fulltreffere-fra-vekseth",
+        "url": "/lokalfotballen/i/pQXjq1/to-fulltreffere-fra-vekseth",
+        "title": {
+            "value": "To fulltreffere fra Vekseth"
+        },
+        "description": "Sørlia 7er fikk med seg alle poengene da Nessegutten 7er ble slått 3-2 i 7er, Trøndelag - Avdeling 1 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T19:22:58Z",
+        "lastModifiedAt": "2023-05-29T19:33:24Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2",
+            "lokalfotballen-innherred"
+        ]
+    }
+]

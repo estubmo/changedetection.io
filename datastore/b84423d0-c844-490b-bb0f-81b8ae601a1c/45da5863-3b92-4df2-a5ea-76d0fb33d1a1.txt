@@ -1,0 +1,364 @@
+[
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q1XKkw",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q1XKkw",
+        "preamble": "Synne Skinnes Hansen (27) bytter ut Rosenborg med tyske Bayer Leverkusen til sommeren. ",
+        "published": {
+            "date": "fredag 2. juni",
+            "datetime": "2023-06-02 15:40:18",
+            "niceformat": "02.06.2023, 15:40",
+            "timestamp": "2023-06-02T13:40:18.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/32295ba7-a926-4f32-9c3e-3b7f51ed4aad?fit=crop&format=auto&h=267&w=400&s=bc55eef26a4adf41abc1a3be66f4bbf42d7dd982",
+            "width": 400
+        },
+        "title": "Skinnes Hansen klar for Bayer Leverkusen",
+        "url": "https://www.vg.no/sport/fotball/i/q1XKkw/skinnes-hansen-klar-for-bayer-leverkusen"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3EQl80",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3EQl80",
+        "preamble": "EINDHOVEN (VG) Caroline Graham Hansen (28) synes lite om at FA-cupfinalen og kvinnenes Champions League-finale spilles på samme tid. ",
+        "published": {
+            "date": "fredag 2. juni",
+            "datetime": "2023-06-02 15:21:43",
+            "niceformat": "02.06.2023, 15:21",
+            "timestamp": "2023-06-02T13:21:43.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/c35f1924-379e-49da-8100-1e3869e21827?fit=crop&format=auto&h=267&w=400&s=a94726191ce36eed0a2222706843897e94ba7992",
+            "width": 400
+        },
+        "title": "Reagerer på finale-krasj med Haaland: – Respektløst",
+        "url": "https://www.vg.no/sport/fotball/i/3EQl80/reagerer-paa-finale-krasj-med-haaland-respektloest"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Q0ey2",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Q0ey2",
+        "preamble": "Uefa bekrefter at polske Szymon Marciniak skal dømme mesterligafinalen til tross for at han talte på et arrangement ledet av en høyreekstrem politiker.",
+        "published": {
+            "date": "fredag 2. juni",
+            "datetime": "2023-06-02 13:10:19",
+            "niceformat": "02.06.2023, 13:10",
+            "timestamp": "2023-06-02T11:10:19.000Z"
+        },
+        "thumbnail": {
+            "height": 270,
+            "url": "https://akamai.vgc.no/v2/images/6930afc8-7ef0-4cf0-850f-6bb0f642614f?fit=crop&format=auto&h=270&w=400&s=5decd806670024fd773b87c5bbd5f8190c955318",
+            "width": 400
+        },
+        "title": "Marciniak beklaget til Uefa – får dømme mesterligafinalen",
+        "url": "https://www.vg.no/sport/fotball/i/0Q0ey2/marciniak-beklaget-til-uefa-faar-doemme-mesterligafinalen"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "APkWV5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/APkWV5",
+        "preamble": "Oslo sier nei til gummigranulat. Men fotballpresident Lise Klaveness jobber nå aktivt mot Oslo-forbudet. ",
+        "published": {
+            "date": "fredag 2. juni",
+            "datetime": "2023-06-02 10:37:36",
+            "niceformat": "02.06.2023, 10:37",
+            "timestamp": "2023-06-02T08:37:36.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/79847f5c-bbde-499c-88df-3c47e962f900?fit=crop&format=auto&h=267&w=400&s=d5c466b083e68dd72ea2e1f780623da1449f255d",
+            "width": 400
+        },
+        "title": "Fotballpresident Lise Klaveness jobber mot Oslos «forbud» mot gummigranulat",
+        "url": "https://www.vg.no/sport/fotball/i/APkWV5/klaveness-vil-oppheve-oslos-forbud-mot-gummigranulat"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "y6Xkog",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/y6Xkog",
+        "preamble": "Erling Braut Haaland og Manchester City er to kamper unna en bragd bare erkerival Manchester United har klart før dem i England.",
+        "published": {
+            "date": "fredag 2. juni",
+            "datetime": "2023-06-02 09:33:51",
+            "niceformat": "02.06.2023, 09:33",
+            "timestamp": "2023-06-02T07:33:51.000Z"
+        },
+        "thumbnail": {
+            "height": 282,
+            "url": "https://akamai.vgc.no/v2/images/a7db1018-339a-4ae6-b997-907f7e156882?fit=crop&format=auto&h=282&w=400&s=04761134db08888eeab16177b59b96c93533d930",
+            "width": 400
+        },
+        "title": "Haaland kan skrive historie: – Vil være uvirkelig",
+        "url": "https://www.vg.no/sport/fotball/i/y6Xkog/haaland-kan-skrive-historie-vil-vaere-uvirkelig"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "rlXB20",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/rlXB20",
+        "preamble": "\nRohit Saggi (31) må stå over helgens runde i Eliteserien etter å ha blitt truffet av en flaske fra en tilskuer mandag kveld.",
+        "published": {
+            "date": "fredag 2. juni",
+            "datetime": "2023-06-02 09:08:50",
+            "niceformat": "02.06.2023, 09:08",
+            "timestamp": "2023-06-02T07:08:50.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/91307166-823f-4a0c-8fa8-f77597fe2faa?fit=crop&format=auto&h=300&w=400&s=7c36a9db54cc1b75e7793a0e9ce3f35845845bc4",
+            "width": 400
+        },
+        "title": "Hjernerystelse setter fotballdommer Saggi ut av spill",
+        "url": "https://www.vg.no/sport/fotball/i/rlXB20/hjernerystelse-setter-saggi-ut-av-spill"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            },
+            {
+                "email": "mattis.holt@vg.no",
+                "id": "783ec02a-650f-49b8-8655-cd3e1ad5f4fa",
+                "name": "Mattis Holt"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9znylp",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9znylp",
+        "preamble": "Phil Neville (46) er ferdig som manager i den David Beckham-eide MLS-klubben Inter Miami. Det bekrefter klubben på Instagram.",
+        "published": {
+            "date": "fredag 2. juni",
+            "datetime": "2023-06-02 00:15:04",
+            "niceformat": "02.06.2023, 00:15",
+            "timestamp": "2023-06-01T22:15:04.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/23d1cd41-64ff-4dc0-bc3d-b7fddc68bf05?fit=crop&format=auto&h=267&w=400&s=a32019eaabb724b1353d495df36718acb582d0a4",
+            "width": 400
+        },
+        "title": "Beckham sparket kompisen Neville: – Vanskelig avgjørelse",
+        "url": "https://www.vg.no/sport/fotball/i/9znylp/phil-neville-ferdig-i-inter-miami"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BWdoo7",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BWdoo7",
+        "preamble": "Szymon Marciniak, den polske dommeren som skal dømme Champions League-finalen, settes under lupen av UEFA.",
+        "published": {
+            "date": "torsdag 1. juni",
+            "datetime": "2023-06-01 23:21:18",
+            "niceformat": "01.06.2023, 23:21",
+            "timestamp": "2023-06-01T21:21:18.000Z"
+        },
+        "thumbnail": {
+            "height": 280,
+            "url": "https://akamai.vgc.no/v2/images/0e60ebde-6f07-48ef-b711-dce62935ac29?fit=crop&format=auto&h=280&w=400&s=315c626a10524f18f756bd873fe21bffea5fbce6",
+            "width": 400
+        },
+        "title": "UEFA gransker anklager mot dommeren i Champions League-finalen",
+        "url": "https://www.vg.no/sport/fotball/i/BWdoo7/uefa-gransker-anklager-mot-dommeren-i-champions-league-finalen"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEj58B",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEj58B",
+        "preamble": "Onsdag tok Sevilla sitt syvende Europa League-trofé etter seier mot Roma. I etterkant ble dommer Anthony Taylor først skjelt ut av José Mourinho, så ble han og familien angrepet av sinte Roma-fans på flyplassen.",
+        "published": {
+            "date": "torsdag 1. juni",
+            "datetime": "2023-06-01 22:36:56",
+            "niceformat": "01.06.2023, 22:36",
+            "timestamp": "2023-06-01T20:36:56.000Z"
+        },
+        "thumbnail": {
+            "height": 679,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/0EOm04cDuqJr.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Dommeren i Europa League-finalen angrepet på flyplassen",
+        "url": "https://www.vg.no/sport/fotball/i/gEj58B/dommeren-i-europa-league-finalen-angrepet-paa-flyplassen"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "pQX72R",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/pQX72R",
+        "preamble": "Tredje runde i cupen ble trukket torsdag kveld.",
+        "published": {
+            "date": "torsdag 1. juni",
+            "datetime": "2023-06-01 22:13:10",
+            "niceformat": "01.06.2023, 22:13",
+            "timestamp": "2023-06-01T20:13:10.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/57a85353-3576-4cc0-8da6-04bf7023afce?fit=crop&format=auto&h=267&w=400&s=75f9c72bf2ac04b8a96d9a4b5bef1e40cb184dd0",
+            "width": 400
+        },
+        "title": "Brann møter Aalesund – slik spilles 3. runde i cupen",
+        "url": "https://www.vg.no/sport/fotball/i/pQX72R/brann-moeter-aalesund-slik-spilles-3-runde-i-cupen"
+    }
+]

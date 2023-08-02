@@ -1,0 +1,193 @@
+[
+    {
+        "slug": "tangmoen-2-slo-vuku-2-leksdal-2-i-maalfest",
+        "url": "/lokalfotballen/i/veyjep/tangmoen-2-slo-vuku-2-leksdal-2-i-maalfest",
+        "title": {
+            "value": "Tangmoen 2 slo Vuku 2 / Leksdal 2 i målfest"
+        },
+        "description": "Tangmoen 2 banket Vuku 2/Leksdal 2 6-3 i 6. divisjon, Trøndelag - Avdeling 2 i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T19:53:33Z",
+        "lastModifiedAt": "2023-06-12T19:53:33Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "verdal-vant-over-levanger",
+        "url": "/lokalfotballen/i/abkEP5/verdal-vant-over-levanger",
+        "title": {
+            "value": "Verdal seiret borte mot Levanger"
+        },
+        "description": "Verdal knuste Levanger 3-0 i 3. divisjon, Trøndelag i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T19:26:06Z",
+        "lastModifiedAt": "2023-06-12T19:31:36Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "jan-olav-loep-mot-brannen-da-alarmen-gikk-i-kampens-hete-tenker-du-ikke",
+        "url": "/nyheter/trondheim/i/nQnKKo/jan-olav-loep-mot-brannen-da-alarmen-gikk-i-kampens-hete-tenker-du-ikke",
+        "title": {
+            "value": "Hylles etter brannen: - Helt avgjørende innsats"
+        },
+        "description": "For andre gang kjørte Jan Olav Hauan hjullaster i flammehavet på papirfabrikken på Ranheim.",
+        "imageUrl": "4f5acad2-8fb2-41dd-b62d-7fc1450ef477",
+        "publishedAt": "2023-06-12T19:02:44Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Kristoffer Furberg",
+            "Marit Ytterland Nygård",
+            "Richard Sagen (foto)"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "leander-sesseng-lone-scoret-to-for-tiller-2",
+        "url": "/lokalfotballen/i/3E7Oy0/leander-sesseng-lone-scoret-to-for-tiller-2",
+        "title": {
+            "value": "Leander Sesseng Lone-dobbel for Tiller 2"
+        },
+        "description": "Leander Sesseng Lone førte an med to mål i 4-1-seieren over Byneset/Leinstrand i G13 2. divisjon, Avdeling 4 - Vår mandag. Tiller 2 har vunnet fire av sine fem siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T18:07:35Z",
+        "lastModifiedAt": "2023-06-12T18:33:20Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "byaasen-seiret-i-maalfest",
+        "url": "/lokalfotballen/i/nQn7za/byaasen-seiret-i-maalfest",
+        "title": {
+            "value": "Nettsus for Romsdalen"
+        },
+        "description": "Mats Romsdalen førte an med to av målene i 4-2-seieren over Rosenborg 2 i 3. divisjon, Avdeling 5 mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T17:57:04Z",
+        "lastModifiedAt": "2023-06-12T19:29:22Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "poengdeling-mellom-strindheim-3-og-ranheim-2",
+        "url": "/lokalfotballen/i/Knk95o/poengdeling-mellom-strindheim-3-og-ranheim-2",
+        "title": {
+            "value": "Uavgjort mellom Strindheim 3 og Ranheim 2"
+        },
+        "description": "Strindheim 3 lå under 0-3, men klarte 3-3 mot Ranheim 2 i J13 2. divisjon, Avdeling 4 - Vår mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T17:45:57Z",
+        "lastModifiedAt": "2023-06-12T18:00:19Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "fillip-dahl-heireth-ble-tomaalshelt",
+        "url": "/lokalfotballen/i/abkoR4/fillip-dahl-heireth-ble-tomaalshelt",
+        "title": {
+            "value": "Ranheim TF 2 sikret tre poeng i toppkampen"
+        },
+        "description": "Fillip Dahl Heireth viste scoringsform da Ranheim TF 2 seiret 5-0 over Sokna 7er i G19 2. divisjon, Avdeling 4 - Vår mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T17:27:49Z",
+        "lastModifiedAt": "2023-06-12T18:00:20Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-gauldalsposten",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "glimt-laget-i-helgens-runde-var-yngre-enn-rosenborgs",
+        "url": "/sport/fotball/i/zEeyav/glimt-laget-i-helgens-runde-var-yngre-enn-rosenborgs",
+        "title": {
+            "value": "Rekdal snakker om sitt unge RBK-lag. Dette viser tallene"
+        },
+        "description": "Tre av RBK-spillerne som startet mot Stabæk er under 24 år.",
+        "imageUrl": "f47ee465-ac75-46a2-abcd-74f0cd550b2b",
+        "publishedAt": "2023-06-12T16:49:31Z",
+        "lastModifiedAt": "2023-06-12T16:49:31Z",
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "jonas-groenner",
+            "michael-karlsen",
+            "kjetil-rekdal",
+            "fotball",
+            "eliteserien",
+            "rosenborg-bk",
+            "norsk-fotball"
+        ]
+    },
+    {
+        "slug": "ajers-klubb-signerte-tysk-spiss-satte-overgangsrekord",
+        "url": "/nyheter/innenriks/i/eJ0okQ/ajers-klubb-signerte-tysk-spiss-satte-overgangsrekord",
+        "title": {
+            "value": "Ajers klubb signerte tysk spiss – satte overgangsrekord"
+        },
+        "description": "Angriperen Kevin Schade er klar for Brentford. Han blir Premier League-klubbens dyreste kjøp noen gang.",
+        "imageUrl": "4e24a429-cdd7-4768-bd6a-b4a1a9f71951",
+        "publishedAt": "2023-06-12T14:24:53Z",
+        "lastModifiedAt": "2023-06-12T14:25:48Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "rbk-faar-enklere-vei-inn-i-europa",
+        "url": "/sport/fotball/i/kE1zE9/rbk-faar-enklere-vei-inn-i-europa",
+        "title": {
+            "value": "RBK får enklere vei inn i Europa"
+        },
+        "description": "Trønderne slipper å møte de antatt beste lagene i den tredje kvalik-runden i Conference League.",
+        "imageUrl": "edcb57ce-869c-41e1-9ffb-ebedeaef1856",
+        "publishedAt": "2023-06-12T13:48:05Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "europa-conference-league"
+        ]
+    }
+]

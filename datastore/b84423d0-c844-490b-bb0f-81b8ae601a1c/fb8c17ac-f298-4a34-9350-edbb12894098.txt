@@ -1,0 +1,369 @@
+[
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q72564",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q72564",
+        "preamble": "Spekulasjonene rundt Gaute Helstrup og den ledige trenerjobben i Lillestrøm fortsetter. Tromsø ønsker å avslutte saken snarest mulig.",
+        "published": {
+            "date": "tirsdag 18. juli",
+            "datetime": "2023-07-18 11:09:03",
+            "niceformat": "18.07.2023, 11:09",
+            "timestamp": "2023-07-18T09:09:03.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0d73ca78-66cb-40ec-a112-46a25fe937cb?fit=crop&format=auto&h=267&w=400&s=1e91b225f8ee37a95511ec3a87bbfea8b7d78226",
+            "width": 400
+        },
+        "title": "Helstrup-samtaler i Tromsø: – Strekker oss for å få til langsiktigheten vi ønsker",
+        "url": "https://www.vg.no/sport/fotball/i/Q72564/helstrup-samtaler-i-tromsoe"
+    },
+    {
+        "authors": [
+            {
+                "email": "mattis.holt@vg.no",
+                "id": "783ec02a-650f-49b8-8655-cd3e1ad5f4fa",
+                "name": "Mattis Holt"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5BQ8nb",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5BQ8nb",
+        "preamble": "Det er under fire uker til Premier League-sesongen starter, og hvis Fabinho og Jordan Henderson drar til Saudi-Arabia har Jürgen Klopp ingen friske defensive midtbanespillere i troppen.",
+        "published": {
+            "date": "tirsdag 18. juli",
+            "datetime": "2023-07-18 07:48:20",
+            "niceformat": "18.07.2023, 07:48",
+            "timestamp": "2023-07-18T05:48:20.000Z"
+        },
+        "thumbnail": {
+            "height": 278,
+            "url": "https://akamai.vgc.no/v2/images/2e0ebeb3-2f27-464c-b9a1-ba4b8ec3558e?fit=crop&format=auto&h=278&w=400&s=3b11de0f008bdd7eea7ef85df377c539e0d0a084",
+            "width": 400
+        },
+        "title": "Saudi-klubbene lager midtbanefloke for Klopp: – En «minikrise»",
+        "url": "https://www.vg.no/sport/fotball/i/5BQ8nb/liverpool-floka-hvem-erstatter-fabinho-og-jordan-henderson"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GM2Pdm",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GM2Pdm",
+        "preamble": "AUCKLAND (VG) Ada Hegerberg (28) møtte Erling Braut Haaland før avreise til VM. Hun er optimistisk til mesterskapet, men tydelig på at fotballjentene ikke har marginene med seg. ",
+        "published": {
+            "date": "tirsdag 18. juli",
+            "datetime": "2023-07-18 06:12:53",
+            "niceformat": "18.07.2023, 06:12",
+            "timestamp": "2023-07-18T04:12:53.000Z"
+        },
+        "thumbnail": {
+            "height": 280,
+            "url": "https://akamai.vgc.no/v2/images/ed7c62cc-93b0-40d2-ba97-68311add349a?fit=crop&format=auto&h=280&w=400&s=ffb729c92c7f146f88802749c4792ebef164bda1",
+            "width": 400
+        },
+        "title": "Røper Haaland-møte før VM: – Innså hvor stor han var ",
+        "url": "https://www.vg.no/sport/fotball/i/GM2Pdm/roeper-haaland-moete-foer-vm-innsaa-hvor-stor-han-var"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "vepkdX",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/vepkdX",
+        "preamble": "(Celta Vigo - Al Nassr 5–0) Jørgen Strand Larsen viser storform i oppkjøringen. Mandag kveld var han med på å senke Cristiano Ronaldo og Al Nassr. ",
+        "published": {
+            "date": "mandag 17. juli",
+            "datetime": "2023-07-17 23:29:52",
+            "niceformat": "17.07.2023, 23:29",
+            "timestamp": "2023-07-17T21:29:52.000Z"
+        },
+        "thumbnail": {
+            "height": 533,
+            "url": "https://akamai.vgc.no/v2/images/80b8a689-c913-4067-ae73-f1e1ef97836b?fit=crop&format=auto&h=533&w=400&s=6acae92e7fcc3c71c9add6ecc479012a1581aabf",
+            "width": 400
+        },
+        "title": "Strand Larsen med hat trick mot Ronaldo og co.",
+        "url": "https://www.vg.no/sport/fotball/i/vepkdX/strand-larsen-med-hat-trick-mot-ronaldo-og-co"
+    },
+    {
+        "authors": [
+            {
+                "email": "kristine.bechmann.holter@schibsted.no",
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8J1P91",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8J1P91",
+        "preamble": "(Varbergs BoIS – AIK 1–2) Henning Berg fikk en tøff start som AIK-trener, men mandag ledet han laget til en viktig seier. ",
+        "published": {
+            "date": "mandag 17. juli",
+            "datetime": "2023-07-17 21:06:01",
+            "niceformat": "17.07.2023, 21:06",
+            "timestamp": "2023-07-17T19:06:01.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/28483ee1-6940-4fa4-94ff-6b4c27444b32?fit=crop&format=auto&h=266&w=400&s=deeb0e98cd377778c60cf87dc1a72f5287f73d6c",
+            "width": 400
+        },
+        "title": "Henning Berg og AIK vant dramatisk bunnkamp",
+        "url": "https://www.vg.no/sport/fotball/i/8J1P91/henning-berg"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5BQpX1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5BQpX1",
+        "preamble": "Arsenal knuste sin egen overgangsrekord da de signerte Declan Rice. Ekspertene tror på et perfekt samarbeid med Martin Ødegaard – til tross for et møte mellom to kapteiner.",
+        "published": {
+            "date": "mandag 17. juli",
+            "datetime": "2023-07-17 17:07:17",
+            "niceformat": "17.07.2023, 17:07",
+            "timestamp": "2023-07-17T15:07:17.000Z"
+        },
+        "thumbnail": {
+            "height": 309,
+            "url": "https://akamai.vgc.no/v2/images/c07886d4-0138-4847-b3e2-77136a6f732c?fit=crop&format=auto&h=309&w=400&s=e3617252a3403c90c6f612f1f3c56f9c51c54803",
+            "width": 400
+        },
+        "title": "Spår drømmepartner for Ødegaard: – Har en veldig høy stjerne",
+        "url": "https://www.vg.no/sport/fotball/i/5BQpX1/spaar-droemmepartner-for-oedegaard-har-en-veldig-hoey-stjerne"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P42g7R",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P42g7R",
+        "preamble": "Arsenal har passert Manchester City på listen over fotballens mest verdifulle tropper, ifølge overgangseksperten Transfermarkts vurdering.",
+        "published": {
+            "date": "mandag 17. juli",
+            "datetime": "2023-07-17 16:48:39",
+            "niceformat": "17.07.2023, 16:48",
+            "timestamp": "2023-07-17T14:48:39.000Z"
+        },
+        "thumbnail": {
+            "height": 256,
+            "url": "https://akamai.vgc.no/v2/images/3a7ef06f-0833-45dc-8357-e782b67131af?fit=crop&format=auto&h=256&w=400&s=a1d663defb186ac3beab6b8f8ab52dd924592ab3",
+            "width": 400
+        },
+        "title": "Transfermarkt: Arsenals stall mest verdifull i verden",
+        "url": "https://www.vg.no/sport/fotball/i/P42g7R/transfermarkt-arsenals-stall-mest-verdifull-i-verden"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            },
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jl1Q4q",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jl1Q4q",
+        "preamble": "Birk Risa (25) har signert en kontrakt ut 2025 med New York City og blir én av fire nordmenn på USAs høyeste nivå. ",
+        "published": {
+            "date": "mandag 17. juli",
+            "datetime": "2023-07-17 15:00:03",
+            "niceformat": "17.07.2023, 15:00",
+            "timestamp": "2023-07-17T13:00:03.000Z"
+        },
+        "thumbnail": {
+            "height": 240,
+            "url": "https://akamai.vgc.no/v2/images/1dac008c-4780-473a-a704-9fb9a90cad8c?fit=crop&format=auto&h=240&w=400&s=06fb35872fed2619e2ae7462c8c71c36cc34056b",
+            "width": 400
+        },
+        "title": "Birk Risa er klar for MLS-klubb: – Noe som trigget meg og familien",
+        "url": "https://www.vg.no/sport/fotball/i/jl1Q4q/fotball-birk-risa-gjoer-overgang-fra-molde-til-new-york-city"
+    },
+    {
+        "authors": [
+            {
+                "email": "vegard.aulstad@vg.no",
+                "id": "32320ac9-8b78-4d86-b923-ee64dc408816",
+                "name": "Vegard Aulstad"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q72MLR",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q72MLR",
+        "preamble": "TRONDHEIM (VG) (Rosenborg - Tromsø 2–1) Ole Sæter (27) scoret igjen og med en kontrakt som utgår ved nyttår mottar han tilbud fra «hele verden» denne sommeren. Men ikke alt er like aktuelt som neste stoppested.",
+        "published": {
+            "date": "mandag 17. juli",
+            "datetime": "2023-07-17 14:32:38",
+            "niceformat": "17.07.2023, 14:32",
+            "timestamp": "2023-07-17T12:32:38.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/540db7ae-1f00-4565-b0c4-ebc9fa9d781e?fit=crop&format=auto&h=267&w=400&s=a40099aefd07acb7dd2ada537e0242910bcdf403",
+            "width": 400
+        },
+        "title": "RBK-profilens uvisse fremtid: – Har ingen planer om Saudi-Arabia",
+        "url": "https://www.vg.no/sport/fotball/i/Q72MLR/rbk-profilen-ole-saeters-uvisse-fremtid-har-ingen-planer-om-saudi-arabia"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8J1GOA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8J1GOA",
+        "preamble": "Obos-ligaens toppscorer Kristian Lien er klar for en overgang til nederlandske Groningen etter én sesong i Mjøndalen.",
+        "published": {
+            "date": "mandag 17. juli",
+            "datetime": "2023-07-17 13:22:54",
+            "niceformat": "17.07.2023, 13:22",
+            "timestamp": "2023-07-17T11:22:54.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/cfcd1447-21da-4ddd-9f2c-769ed368411f?fit=crop&format=auto&h=267&w=400&s=c612f8b2ec1858138cf58c40f934d368615e3c58",
+            "width": 400
+        },
+        "title": "Lien klar for nederlandske Groningen: – Har prestert kamp etter kamp",
+        "url": "https://www.vg.no/sport/fotball/i/8J1GOA/lien-klar-for-nederlandske-groningen-har-prestert-kamp-etter-kamp"
+    }
+]

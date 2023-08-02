@@ -1,0 +1,349 @@
+[
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Qq17g",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Qq17g",
+        "preamble": "Flere spillere fra Premier League har hvalfartet til Saudi-Arabia. Jamie Vardy blir ikke en av dem.",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 18:20:00",
+            "niceformat": "29.06.2023, 18:20",
+            "timestamp": "2023-06-29T16:20:00.000Z"
+        },
+        "thumbnail": {
+            "height": 285,
+            "url": "https://akamai.vgc.no/v2/images/ed580328-a204-4d6b-be7a-b2344b36c340?fit=crop&format=auto&h=285&w=400&s=732cc61ca232a78233147619c2c7e05764057906",
+            "width": 400
+        },
+        "title": "Takket nei til Saudi-Arabia",
+        "url": "https://www.vg.no/sport/fotball/i/0Qq17g/jamie-vardy-avslo-et-tilbud-fra-saudi-arabia"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "LlXVBP",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/LlXVBP",
+        "preamble": "Etter alle solemerker skal Mason Mount være klar for en overgang til Manchester United. ",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 17:52:11",
+            "niceformat": "29.06.2023, 17:52",
+            "timestamp": "2023-06-29T15:52:11.000Z"
+        },
+        "thumbnail": {
+            "height": 276,
+            "url": "https://akamai.vgc.no/v2/images/6b17c18b-7600-472c-8279-562d090867f7?fit=crop&format=auto&h=276&w=400&s=ee570894bdd0517ed7d74f97e263882c310d16f6",
+            "width": 400
+        },
+        "title": "The Athletic: Manchester United og Chelsea enige om Mason Mount",
+        "url": "https://www.vg.no/sport/fotball/i/LlXVBP/the-athletic-manchester-united-og-chelsea-enige-om-mason-mount"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BWea20",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BWea20",
+        "preamble": "Flere franske fotballstjerner reagerer etter at en 17-åring ble skutt under en politikontroll tirsdag. Kylian Mbappé kaller drapet uakseptabelt.",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 14:55:57",
+            "niceformat": "29.06.2023, 14:55",
+            "timestamp": "2023-06-29T12:55:57.000Z"
+        },
+        "thumbnail": {
+            "height": 259,
+            "url": "https://akamai.vgc.no/v2/images/f45df329-2621-4c5d-b556-c98b27c96756?fit=crop&format=auto&h=259&w=400&s=800c55e4ec6220ed783717b60550c6cf17f7f47c",
+            "width": 400
+        },
+        "title": "Kylian Mbappé reagerer sterkt på politidrap: – Det smerter å være fransk",
+        "url": "https://www.vg.no/sport/fotball/i/BWea20/kylian-mbappe-reagerer-sterkt-paa-politidrap-det-smerter-aa-vaere-fransk"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "q1xqp0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/q1xqp0",
+        "preamble": "Frankrikes øverste administrative domstol bevarer retten til å nekte kvinner i landet å bære hijab i offisielle fotballkamper.",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 14:49:42",
+            "niceformat": "29.06.2023, 14:49",
+            "timestamp": "2023-06-29T12:49:42.000Z"
+        },
+        "title": "Fortsatt hijabforbud i fransk fotball",
+        "url": "https://www.vg.no/sport/fotball/i/q1xqp0/fortsatt-hijabforbud-i-fransk-fotball"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9ze9lM",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9ze9lM",
+        "preamble": "Norske Martine Fenger (16) har signert en treårskontrakt med Barcelona-kvinnenes B-lag.",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 14:47:58",
+            "niceformat": "29.06.2023, 14:47",
+            "timestamp": "2023-06-29T12:47:58.000Z"
+        },
+        "title": "Norsk 16-åring klar for Barcelona",
+        "url": "https://www.vg.no/sport/fotball/i/9ze9lM/norsk-16-aaring-klar-for-barcelona"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "15elmJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/15elmJ",
+        "preamble": "Amor Layouni er tilbake på Intility Arena etter et kort låneopphold i Western Sydney Wanderers FC. Fremtiden er ikke avklart.",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 14:29:40",
+            "niceformat": "29.06.2023, 14:29",
+            "timestamp": "2023-06-29T12:29:40.000Z"
+        },
+        "thumbnail": {
+            "height": 259,
+            "url": "https://akamai.vgc.no/v2/images/185c772b-f673-430e-81ca-6da8feca7991?fit=crop&format=auto&h=259&w=400&s=fd17710b2745d3b3194e5c8d62db65361861cfae",
+            "width": 400
+        },
+        "title": "Layouni er tilbake i Vålerenga",
+        "url": "https://www.vg.no/sport/fotball/i/15elmJ/layouni-er-tilbake-i-vaalerenga"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgd67l",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgd67l",
+        "preamble": "Magnus Knudsen (22) leies ut fra Rostov til AGF i den danske superligaen på en ettårskontrakt.",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 12:11:51",
+            "niceformat": "29.06.2023, 12:11",
+            "timestamp": "2023-06-29T10:11:51.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0b80a8a7-6b36-41ef-ab90-99970bf16783?fit=crop&format=auto&h=267&w=400&s=e021844ed41021405978e21142f828220188211d",
+            "width": 400
+        },
+        "title": "Magnus Knudsen ferdig i LSK: Klar for AGF",
+        "url": "https://www.vg.no/sport/fotball/i/xgd67l/magnus-knudsen-ferdig-i-lsk-klar-for-agf"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WRXPn2",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WRXPn2",
+        "preamble": "En feil dommeravgjørelse kan ha frarøvet Tromsø både cupavansementet og en prestisjetung seier over Bodø/Glimt. Men det blir ingen karantene på Rohit Saggi etter dramaet på Aspmyra.",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 11:21:32",
+            "niceformat": "29.06.2023, 11:21",
+            "timestamp": "2023-06-29T09:21:32.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/I_YEwySuDTOS.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Saggi etter «årets dommertabbe»: – Det er en seig morgen",
+        "url": "https://www.vg.no/sport/fotball/i/WRXPn2/dommer-rohit-saggi-etter-aarets-dommertabbe-i-slaget-om-nord-norge-det-er-en-seig-morgen"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQX1Wl",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQX1Wl",
+        "preamble": "Det begynner å haste dersom David de Gea skal vokte målet for Manchester United også neste sesong. Om 37 timer er kontrakten ute.",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 10:43:14",
+            "niceformat": "29.06.2023, 10:43",
+            "timestamp": "2023-06-29T08:43:14.000Z"
+        },
+        "thumbnail": {
+            "height": 263,
+            "url": "https://akamai.vgc.no/v2/images/0da29165-6ab6-4ac5-9f4f-22ed09b9d370?fit=crop&format=auto&h=263&w=400&s=22c8ae4fe0e1a9b0ddc102a5a3319a2bf5ec2791",
+            "width": 400
+        },
+        "title": "De Gea med kryptisk melding etter kontraktsbråk",
+        "url": "https://www.vg.no/sport/fotball/i/EQX1Wl/de-gea-med-kryptisk-melding-etter-kontraktbraak"
+    },
+    {
+        "authors": [
+            {
+                "email": "sindre.ogar@vg.no",
+                "id": "aef1d521-95b8-4dc7-95bc-399dd287f141",
+                "name": "Sindre Øgar"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "abeRz4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/abeRz4",
+        "preamble": "NFF søker om 33 millioner kroner til en grønn omstilling av landets fotballbaner. ",
+        "published": {
+            "date": "torsdag 29. juni",
+            "datetime": "2023-06-29 10:13:34",
+            "niceformat": "29.06.2023, 10:13",
+            "timestamp": "2023-06-29T08:13:34.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/35fdf95a-cfb9-43b4-a11c-5a587032b7d1?fit=crop&format=auto&h=267&w=400&s=1a52fe7985f1f5955a55b485abda0e331da0a9ab",
+            "width": 400
+        },
+        "title": "Norges Fotballforbunds kunstgress-anslag: Prislapp på 10 milliarder",
+        "url": "https://www.vg.no/sport/fotball/i/abeRz4/nff-anslaar-prislappen-for-omstilling-av-kunstgressbaner-til-10-milliarder"
+    }
+]

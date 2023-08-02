@@ -1,0 +1,359 @@
+[
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q7KPbV",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q7KPbV",
+        "preamble": "Landslagskeeper Ørjan Håskjold Nyland er ferdig i den tyske fotballklubben RB Leipzig.",
+        "published": {
+            "date": "onsdag 7. juni",
+            "datetime": "2023-06-07 11:28:50",
+            "niceformat": "07.06.2023, 11:28",
+            "timestamp": "2023-06-07T09:28:50.000Z"
+        },
+        "thumbnail": {
+            "height": 289,
+            "url": "https://akamai.vgc.no/v2/images/3c6277f2-7e2b-4793-b54c-5052eef8eb0b?fit=crop&format=auto&h=289&w=400&s=74c459b013a13c152f4dedc0bc3fb4cc47db197a",
+            "width": 400
+        },
+        "title": "Nyland ferdig i Leipzig",
+        "url": "https://www.vg.no/sport/fotball/i/Q7KPbV/nyland-ferdig-i-leipzig"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5BkLzm",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5BkLzm",
+        "preamble": "Bayern München er villig til å legge mer enn én milliard kroner på bordet for spillekjøp denne sommeren.",
+        "published": {
+            "date": "onsdag 7. juni",
+            "datetime": "2023-06-07 11:10:05",
+            "niceformat": "07.06.2023, 11:10",
+            "timestamp": "2023-06-07T09:10:05.000Z"
+        },
+        "thumbnail": {
+            "height": 261,
+            "url": "https://akamai.vgc.no/v2/images/119ce270-2061-4418-9dc6-cbc73d90cf0f?fit=crop&format=auto&h=261&w=400&s=498e58a01625bc1479b39987d9ea0469bbee1a02",
+            "width": 400
+        },
+        "title": "Bayern vil bruke milliardbeløp",
+        "url": "https://www.vg.no/sport/fotball/i/5BkLzm/bayern-vil-bruke-milliardbeloep"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB-TT"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4wPBe",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4wPBe",
+        "preamble": "Dansken Jens Berthel Askou ble onsdag presentert som ny trener for IFK Göteborg. Laget har to nordmenn i stallen.",
+        "published": {
+            "date": "onsdag 7. juni",
+            "datetime": "2023-06-07 10:55:26",
+            "niceformat": "07.06.2023, 10:55",
+            "timestamp": "2023-06-07T08:55:26.000Z"
+        },
+        "title": "Danske Askou tar over trenerjobben i IFK Göteborg",
+        "url": "https://www.vg.no/sport/fotball/i/P4wPBe/danske-askou-tar-over-trenerjobben-i-ifk-goteborg"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QOLqA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QOLqA",
+        "preamble": "LILLESTRØM (VG) På grunn av U 21-EM har Vålerenga og Lillestrøm fått utsatt sine kamper i Eliteserien. ",
+        "published": {
+            "date": "onsdag 7. juni",
+            "datetime": "2023-06-07 10:49:34",
+            "niceformat": "07.06.2023, 10:49",
+            "timestamp": "2023-06-07T08:49:34.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/eb67e641-7bdc-4a9f-ba6c-443bc10fa550?fit=crop&format=auto&h=267&w=400&s=ab6cab0a8ba155ddb6c05c6d7b51943e9cfe7832",
+            "width": 400
+        },
+        "title": "To eliteseriekamper utsettes ",
+        "url": "https://www.vg.no/sport/fotball/i/0QOLqA/to-eliteseriekamper-utsettes"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8Jzp3r",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8Jzp3r",
+        "preamble": "ULLEVAAL STADION (VG) Mens Erling Braut Haaland (22) spiller Champions League-finale to dager før landslagssamlingen, rekker Martin Ødegaard (24) å koble av i varmere strøk. Helt ideelt, mener landslagssjef Ståle Solbakken (55).",
+        "published": {
+            "date": "tirsdag 6. juni",
+            "datetime": "2023-06-06 22:55:01",
+            "niceformat": "06.06.2023, 22:55",
+            "timestamp": "2023-06-06T20:55:01.000Z"
+        },
+        "thumbnail": {
+            "height": 679,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/76C_N7c2iiBH.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Solbakken mener Ødegaards kjæresteferie er perfekt: – Lever et asketliv i elleve måneder ",
+        "url": "https://www.vg.no/sport/fotball/i/8Jzp3r/solbakken-mener-oedegaards-kjaeresteferie-er-perfekt-lever-et-asketliv-i-elleve-maaneder"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgyMPV",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgyMPV",
+        "preamble": "Den suverene serielederen Vålerenga greide bare 1-1 mot tabelljumbo Avaldsnes i Toppserien fotball. Rosenborg slo LSK Kvinner borte og tok innpå.",
+        "published": {
+            "date": "tirsdag 6. juni",
+            "datetime": "2023-06-06 21:35:47",
+            "niceformat": "06.06.2023, 21:35",
+            "timestamp": "2023-06-06T19:35:47.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/1396c3a7-7daa-4afc-a454-dca9d41a27b9?fit=crop&format=auto&h=267&w=400&s=b4ad5bf6eb3bba45832916f16e2669d782db2fb5",
+            "width": 400
+        },
+        "title": "Vålerenga avga poeng mot Avaldsnes – Viktig RBK-seier",
+        "url": "https://www.vg.no/sport/fotball/i/xgyMPV/vaalerenga-avga-poeng-mot-avaldsnes-viktig-rbk-seier"
+    },
+    {
+        "authors": [
+            {
+                "email": "oyvind.herrebroden@vg.no",
+                "id": "7b5d0009-0f34-41e3-b5af-dcf22addbd42",
+                "name": "Øyvind Herrebrøden"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69dP28",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69dP28",
+        "preamble": "Gullballvinner Karim Benzema (35) fortsetter karrieren i Saudi-Arabia.",
+        "published": {
+            "date": "tirsdag 6. juni",
+            "datetime": "2023-06-06 20:10:50",
+            "niceformat": "06.06.2023, 20:10",
+            "timestamp": "2023-06-06T18:10:50.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/a79db4f1-2210-4ba6-8f4e-c62a738d871d?fit=crop&format=auto&h=267&w=400&s=b5d5dcdb3a718df13bb204460a2cc7bb054be4ed",
+            "width": 400
+        },
+        "title": "Benzema klar for All-Ittihad – skal tjene over en milliard i året",
+        "url": "https://www.vg.no/sport/fotball/i/69dP28/benzema-klar-for-all-ittihad"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "APW245",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/APW245",
+        "preamble": "Alfie Haaland høster kritikk etter å ha meldt flytting til Sveits, men får tydelig støtte fra Finansavisens redaktør Trygve Hegnar.",
+        "published": {
+            "date": "tirsdag 6. juni",
+            "datetime": "2023-06-06 18:28:06",
+            "niceformat": "06.06.2023, 18:28",
+            "timestamp": "2023-06-06T16:28:06.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/216b9956-44e4-4f45-b241-326289f47a16?fit=crop&format=auto&h=267&w=400&s=0c08bfeb7b31b14c2e1270ab77914c9c71e1fdb0",
+            "width": 400
+        },
+        "title": "Alfie Haaland kritiseres etter Sveits-flytting – Trygve Hegnar kaller kritikken «kvalmende»",
+        "url": "https://www.vg.no/sport/fotball/i/APW245/alfie-haaland-kritiseres-etter-sveits-flytting-trygve-hegnar-kaller-kritikken-kvalmende"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "MoJ5vm",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/MoJ5vm",
+        "preamble": "Paolo Maldini er ferdig som teknisk direktør i Milan. Ifølge italienske medier skjer det som følge av uenighet med klubbeier Gerry Cardinale.",
+        "published": {
+            "date": "tirsdag 6. juni",
+            "datetime": "2023-06-06 18:08:56",
+            "niceformat": "06.06.2023, 18:08",
+            "timestamp": "2023-06-06T16:08:56.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/411867e7-b7a1-4d91-9e0e-10c07eaa33bc?fit=crop&format=auto&h=267&w=400&s=c536e6721984348ab1cd38f8b4a2cfd61d928bc6",
+            "width": 400
+        },
+        "title": "Paolo Maldini ferdig i Milan",
+        "url": "https://www.vg.no/sport/fotball/i/MoJ5vm/serie-a-paolo-maldini-ferdig-i-milan"
+    },
+    {
+        "authors": [
+            {
+                "email": "joachim.baardsen@vg.no",
+                "id": "59cbf93a-363a-4bbe-afba-1e0702314ccf",
+                "name": "Joachim Baardsen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Kn1Ql6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Kn1Ql6",
+        "preamble": "ULLEVAAL STADION (VG) Norge tar inn på strøkne hoteller og dobler antall medlemmer i støtteapparatet med blant annet sikkerhetssjef og kokk foran U21-EM denne måneden.",
+        "published": {
+            "date": "tirsdag 6. juni",
+            "datetime": "2023-06-06 15:49:20",
+            "niceformat": "06.06.2023, 15:49",
+            "timestamp": "2023-06-06T13:49:20.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/e6df2211-a2fc-463e-b37f-befd9cdcbf8e?fit=crop&format=auto&h=267&w=400&s=b92396c39b5a065758bc1923a685179e781489b0",
+            "width": 400
+        },
+        "title": "U21-landslaget med omfattende EM-plan: «Viktig» besøk hos Bayern München",
+        "url": "https://www.vg.no/sport/fotball/i/Kn1Ql6/u21-landslaget-med-omfattende-em-plan-viktig-besoek-hos-bayern-munchen"
+    }
+]

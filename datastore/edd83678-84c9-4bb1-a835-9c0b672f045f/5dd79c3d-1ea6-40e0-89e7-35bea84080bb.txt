@@ -1,0 +1,196 @@
+[
+    {
+        "slug": "vollan-ble-helten-for-verdal",
+        "url": "/lokalfotballen/i/GMKA2q/vollan-ble-helten-for-verdal",
+        "title": {
+            "value": "Vollan ble helten for Verdal"
+        },
+        "description": "Magnus Vollan ble matchvinner for Verdal i 1-0-seieren over Nardo på Verdalskalk Arena i 3. divisjon, Avdeling 5 mandag. Før møtet med Verdal hadde Nardo tatt poeng i alle kamper denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T17:55:23Z",
+        "lastModifiedAt": "2023-05-29T18:00:42Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "troender-lyn-knuste-kolstad",
+        "url": "/lokalfotballen/i/76LAM4/troender-lyn-knuste-kolstad",
+        "title": {
+            "value": "Knusende seier for Trønder-Lyn"
+        },
+        "description": "Trønder-Lyn vant 7-0 mot Kolstad og innkasserte dermed sin første trepoenger på hjemmebane i årets sesong Anton Aune slo til med hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T17:55:23Z",
+        "lastModifiedAt": "2023-05-29T18:00:40Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "andreas-korsnes-dobbel-sikret-seier",
+        "url": "/lokalfotballen/i/LlLOd4/andreas-korsnes-dobbel-sikret-seier",
+        "title": {
+            "value": "To fulltreffere fra Andreas Korsnes"
+        },
+        "description": "Andreas Korsnes førte an med to av målene i 3-0-seieren over Trygg/Lade i G14 2. divisjon, Avdeling 3 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T17:12:43Z",
+        "lastModifiedAt": "2023-05-29T17:32:02Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "kapteinen-var-best-da-brann-tok-ny-rbk-skalp",
+        "url": "/sport/i/15wbQX/kapteinen-var-best-da-brann-tok-ny-rbk-skalp",
+        "title": {
+            "value": "Kapteinen var best da Brann tok ny RBK-skalp "
+        },
+        "description": "Brann tok sin andre RBK-skalp på en knapp måned selv om Rosenborg leverte en enorm sluttspurt, anført av kaptein Markus Henriksen.",
+        "imageUrl": "8e8bc398-67bb-43bb-84cc-63bff56b910b",
+        "publishedAt": "2023-05-29T16:57:36Z",
+        "lastModifiedAt": "2023-05-29T17:01:18Z",
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "dagens-ivers"
+        ]
+    },
+    {
+        "slug": "rosenborg-sloeste-med-sjansene-og-tapte-nok-en-gang",
+        "url": "/sport/fotball/i/wAXj6n/rosenborg-sloeste-med-sjansene-og-tapte-nok-en-gang",
+        "title": {
+            "value": "Rosenborg sløste med sjansene og tapte nok en gang"
+        },
+        "description": "RBK var tidvis på høyde med Brann i Bergen. Men nok en gang endte det med tap for Rekdal & co.",
+        "imageUrl": "d1cc0294-076b-410f-ba9a-894ecf15332b",
+        "publishedAt": "2023-05-29T16:55:38Z",
+        "lastModifiedAt": "2023-05-29T17:25:47Z",
+        "premium": true,
+        "authors": [
+            "Even Berthelsen",
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "sport",
+            "fotball",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "bender-dobbel-sikret-seier",
+        "url": "/lokalfotballen/i/veXjxw/bender-dobbel-sikret-seier",
+        "title": {
+            "value": "Bender-dobbel for Tangmoen"
+        },
+        "description": "Tangmoen banket Bangsund 3-0 i 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn. Jonas Røkke Bender scoret to av målene. Bangsund har ikke tatt poeng på de siste to kampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T16:05:34Z",
+        "lastModifiedAt": "2023-05-29T16:30:49Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "mosjoeen-slo-steinkjer-paa-bortebane",
+        "url": "/lokalfotballen/i/l3Xj9y/mosjoeen-slo-steinkjer-paa-bortebane",
+        "title": {
+            "value": "Mosjøen seiret over Steinkjer"
+        },
+        "description": "Mosjøen fikk med seg alle poengene da Steinkjer ble slått 2-0 i 3. divisjon, Avdeling 5 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T15:59:21Z",
+        "lastModifiedAt": "2023-05-29T17:01:19Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "to-fulltreffere-fra-ola-hoeyem-bye",
+        "url": "/lokalfotballen/i/O8P7EO/to-fulltreffere-fra-ola-hoeyem-bye",
+        "title": {
+            "value": "Tomålslykke da Ranheim vant"
+        },
+        "description": "Ola Høyem-Bye scoret to av målene da Ranheim vant 3-1 over Tynset i G14 1. divisjon, Avdeling 2 - Vår mandag. Ranheim har fem seirer på sine seks siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T15:36:01Z",
+        "lastModifiedAt": "2023-05-29T16:02:30Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "straffespark-og-roedt-kort-da-ranheim-tapte-for-start",
+        "url": "/sport/fotball/i/8JWA5W/straffespark-og-roedt-kort-da-ranheim-tapte-for-start",
+        "title": {
+            "value": "Straffespark og rødt kort da Ranheim tapte for Start"
+        },
+        "description": "Et tvilsomt straffespark og et rødt kort like etter hvilen førte til 1-2-tap for Ranheim borte mot Start mandag.",
+        "imageUrl": "44e37598-7b83-4f2d-bb0a-556c33f2c6f1",
+        "publishedAt": "2023-05-29T15:22:17Z",
+        "lastModifiedAt": "2023-05-29T15:33:52Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "fotball",
+            "ranheim",
+            "mads-reginiussen",
+            "rolf-daniel-vikstoel",
+            "strindheim"
+        ]
+    },
+    {
+        "slug": "johnsen-avgjorde-for-tiller",
+        "url": "/lokalfotballen/i/76LA7V/johnsen-avgjorde-for-tiller",
+        "title": {
+            "value": "Johnsen ble helten for Tiller"
+        },
+        "description": "Tiller lå under 1-2, men snudde til 3-2-seier mot Orkla i 3. divisjon, Avdeling 5 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T15:00:04Z",
+        "lastModifiedAt": "2023-05-29T15:31:56Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    }
+]

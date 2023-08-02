@@ -1,0 +1,197 @@
+[
+    {
+        "slug": "melhus-2-snudde-til-seier-paa-tampen",
+        "url": "/lokalfotballen/i/jlMqrL/melhus-2-snudde-til-seier-paa-tampen",
+        "title": {
+            "value": "Melhus 2 snudde til seier på tampen over Nationalkameratene 2"
+        },
+        "description": "Nationalkameratene 2 gikk på sitt fjerde strake tap da klubben røk 1-2 for Melhus 2 i 6. divisjon, Trøndelag - Avdeling 4 i fotball for menn onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-14T20:35:14Z",
+        "lastModifiedAt": "2023-06-14T20:39:32Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "ranheim-3-avgjorde-seriespillet",
+        "url": "/lokalfotballen/i/kE15dL/ranheim-3-avgjorde-seriespillet",
+        "title": {
+            "value": "Ranheim 3 sikret førsteplassen"
+        },
+        "description": "Ranheim 3 hentet opp Rennebus 2-0-ledelse og vant 3-2 i G16 3. divisjon, Avdeling 3 - Vår onsdag. Ranheim 3 har tatt poeng i sine fem siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-14T20:20:24Z",
+        "lastModifiedAt": "2023-06-14T20:36:17Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-opp"
+        ]
+    },
+    {
+        "slug": "siste-fra-breddefotballen",
+        "url": "/sport/fotball/i/GMjXaq/siste-fra-breddefotballen",
+        "title": {
+            "value": "Rystet RBK-juniorene i NM"
+        },
+        "description": null,
+        "imageUrl": "5e16d415-4db7-434f-90ce-a04ea6d400c9",
+        "publishedAt": "2023-03-24T14:51:36Z",
+        "lastModifiedAt": "2023-05-09T10:22:27Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "fotball",
+            "breddefotbaill",
+            "lokalfotballen",
+            "breddefotball"
+        ]
+    },
+    {
+        "slug": "dobbel-lykke-i-vestbyen-nationalkameratene-sverresborg-seier",
+        "url": "/lokalfotballen/i/O80Vzk/dobbel-lykke-i-vestbyen-nationalkameratene-sverresborg-seier",
+        "title": {
+            "value": "Dobbel lykke da Vestbyen / Nationalkameratene / Sverresborg vant"
+        },
+        "description": "Marcus Elmgren viste scoringsform da Vestbyen/Nationalkameratene/Sverresborg vant 4-1 over Ranheim i G19 Elite, Vår onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-14T20:16:14Z",
+        "lastModifiedAt": "2023-06-14T20:36:15Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "troender-lyn-2-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/EQEVzA/troender-lyn-2-fortsatte-seiersrekken",
+        "title": {
+            "value": "Tredje seier på rad for Trønder-Lyn 2"
+        },
+        "description": "Trønder-Lyn 2 knuste Sokna 4-1 i 6. divisjon, Trøndelag - Avdeling 6 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-14T20:10:01Z",
+        "lastModifiedAt": "2023-06-14T21:03:16Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet",
+            "lokalfotballen-gauldalsposten"
+        ]
+    },
+    {
+        "slug": "vant-serien",
+        "url": "/lokalfotballen/i/nQnqQo/vant-serien",
+        "title": {
+            "value": "Oppdal ble seriemester"
+        },
+        "description": "Line Sletvold ledet an med to mål i 4-3-seieren over Ranheim i J15 2. divisjon, Avdeling 4 - Vår. Dermed har Oppdal vunnet tre kamper på rad.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-14T18:55:19Z",
+        "lastModifiedAt": "2023-06-14T21:04:19Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-opp"
+        ]
+    },
+    {
+        "slug": "maal-lykke-for-vegar-paulsby",
+        "url": "/lokalfotballen/i/KnkVpG/maal-lykke-for-vegar-paulsby",
+        "title": {
+            "value": "Vegar Paulsby bøttet inn mål mot Ranheim 2"
+        },
+        "description": "Utleira 2 tok sine første poeng på fire kamper med 10-2 over Ranheim 2",
+        "imageUrl": null,
+        "publishedAt": "2023-06-14T18:38:57Z",
+        "lastModifiedAt": "2023-06-14T19:02:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "tre-strake-uten-tap-for-verdal",
+        "url": "/lokalfotballen/i/8Jzy62/tre-strake-uten-tap-for-verdal",
+        "title": {
+            "value": "Ranheim spilte uavgjort"
+        },
+        "description": "Det endte uavgjort mellom Ranheim og Verdal på Ranheim Arena 2 i J14 1. divisjon, Avdeling 1 - Vår onsdag. Ranheim har tatt poeng i de siste fem hjemmekampene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-14T18:35:50Z",
+        "lastModifiedAt": "2023-06-14T19:02:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "thea-skaugen-rygg-ble-helten-for-orkla",
+        "url": "/lokalfotballen/i/MoJVwK/thea-skaugen-rygg-ble-helten-for-orkla",
+        "title": {
+            "value": "Orkla slo Frøya IL i toppoppgjøret"
+        },
+        "description": "Thea Skaugen Rygg avgjorde med sin 1-0-scoring for Orkla mot Frøya IL på Frøya storhall i J15 2. divisjon, Avdeling 3 - Vår onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-14T18:15:08Z",
+        "lastModifiedAt": "2023-06-14T18:33:38Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya",
+            "lokalfotballen-froya",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "charlottenlund-ordnet-poeng",
+        "url": "/lokalfotballen/i/O80xRE/charlottenlund-ordnet-poeng",
+        "title": {
+            "value": "Charlottenlund reddet poeng"
+        },
+        "description": "Charlottenlund og Hegra delte poengene på Hegra Sparebank stadion i J14 2. divisjon, Avdeling 2 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-14T18:09:57Z",
+        "lastModifiedAt": "2023-06-14T18:33:39Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    }
+]

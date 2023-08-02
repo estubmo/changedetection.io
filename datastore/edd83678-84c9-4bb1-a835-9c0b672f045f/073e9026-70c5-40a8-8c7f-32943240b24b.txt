@@ -1,0 +1,193 @@
+[
+    {
+        "slug": "tromsdalen-snudde-til-seier",
+        "url": "/lokalfotballen/i/nQXjAa/tromsdalen-snudde-til-seier",
+        "title": {
+            "value": "Tromsdalen snudde til seier mot Stjørdals-Blink"
+        },
+        "description": "Tromsdalen lå under 0-1, men snudde til 3-1-seier over Stjørdals-Blink i 2. divisjon, Avdeling 2 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T13:58:10Z",
+        "lastModifiedAt": "2023-05-29T14:30:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-itromso",
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "holse-gjoer-comeback-for-rbk",
+        "url": "/sport/fotball/i/2BKeMR/holse-gjoer-comeback-for-rbk",
+        "title": {
+            "value": "Brann leder mot RBK"
+        },
+        "description": "RBK jakter revansje i Bergen. Følg kampen i Ivers direkte.",
+        "imageUrl": "53e56b5c-215a-46d3-9340-8788aa24b1dd",
+        "publishedAt": "2023-05-29T13:49:39Z",
+        "lastModifiedAt": "2023-05-29T15:07:25Z",
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "eliteserien"
+        ]
+    },
+    {
+        "slug": "fotballsupportere-hoerer-ikke-hjemme-noe-sted",
+        "url": "/nyheter/innenriks/i/EQ5nrl/fotballsupportere-hoerer-ikke-hjemme-noe-sted",
+        "title": {
+            "value": "Fotballsupportere om slåsskamp: – Hører ikke hjemme noe sted"
+        },
+        "description": "Flere reagerer på slåsskampen mellom det som skal være Brann- og Rosenborg-supportere.",
+        "imageUrl": "620e837e-e1ca-44a5-a8aa-74aa0e2bb475",
+        "publishedAt": "2023-05-29T11:10:27Z",
+        "lastModifiedAt": "2023-05-29T11:10:27Z",
+        "premium": true,
+        "authors": [
+            "Aina Fladset",
+            "Marianne Nilsen"
+        ],
+        "tags": [
+            "bergen",
+            "fotball",
+            "rosenborg",
+            "supporter",
+            "brann"
+        ]
+    },
+    {
+        "slug": "mister-noekkelspiller-maa-tygge-litt-paa-loesningen",
+        "url": "/sport/fotball/i/8JWzPA/mister-noekkelspiller-maa-tygge-litt-paa-loesningen",
+        "title": {
+            "value": "Mister nøkkelspiller:  - Vi må finne ut hva som er best for hele laget"
+        },
+        "description": "Sivert Solli er ute med skade. Det gir Ranheim-treneren en utfordring med laguttaket før kampen mot Start.",
+        "imageUrl": "f948a460-b836-40bf-9f29-bf05ae2c9a40",
+        "publishedAt": "2023-05-29T08:49:44Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "sivert-solli",
+            "kaare-ingebrigtsen",
+            "ranheim-tf",
+            "obos-ligaen"
+        ]
+    },
+    {
+        "slug": "masseslagsmaal-i-sentrum-politiet-mener-fotballsupportere-er-involvert",
+        "url": "/nyheter/innenriks/i/WRd1QL/masseslagsmaal-i-sentrum-politiet-mener-fotballsupportere-er-involvert",
+        "title": {
+            "value": "Fotballsupportere skal ha barket sammen i Bergen: – Det var brutalt"
+        },
+        "description": "Her slåss mennene midt i Bergen sentrum. Politiet mener det er Brann- og Rosenborg-supportere som barker sammen.",
+        "imageUrl": "6b3b8f41-5336-4ddd-9cb3-719e73880ba0",
+        "publishedAt": "2023-05-29T05:20:27Z",
+        "lastModifiedAt": "2023-05-29T05:20:27Z",
+        "premium": true,
+        "authors": [
+            "Per Lindberg",
+            "Marianne Nilsen"
+        ],
+        "tags": [
+            "supporter",
+            "politi-2",
+            "vest-politidistrikt",
+            "sentrum",
+            "bergen"
+        ]
+    },
+    {
+        "slug": "politiet-oppsoekte-mann-med-stor-kjepp-i-hendene",
+        "url": "/nyhetsstudio/i/onBQ0j/politiet-oppsoekte-mann-med-stor-kjepp-i-hendene",
+        "title": {
+            "value": "Politiet oppsøkte mann med stor kjepp i hendene "
+        },
+        "description": null,
+        "imageUrl": null,
+        "publishedAt": "2023-05-29T04:04:54Z",
+        "lastModifiedAt": "2023-05-29T06:33:54Z",
+        "premium": true,
+        "authors": [
+            "Carl Alfred Dahl"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/P4mz1X/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag, mandag 29. mai.",
+        "imageUrl": "0b6a3ac8-154d-4142-ba84-bf7ac9b8de23",
+        "publishedAt": "2023-05-29T04:00:47Z",
+        "lastModifiedAt": "2023-05-29T04:00:47Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "nattens-viktigste-nyheter",
+        "url": "/nyheter/innenriks/i/JQM4a6/nattens-viktigste-nyheter",
+        "title": {
+            "value": "Nattens viktigste nyheter"
+        },
+        "description": "Dette er de viktigste nyhetene fra natt til mandag 29. mai.",
+        "imageUrl": "ca25854c-d378-4f8a-929a-e2d752430696",
+        "publishedAt": "2023-05-29T03:30:45Z",
+        "lastModifiedAt": "2023-05-29T03:30:45Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "melding-om-masseslagsmaal-i-bergen",
+        "url": "/nyheter/innenriks/i/8JWKKw/melding-om-masseslagsmaal-i-bergen",
+        "title": {
+            "value": "Masseslagsmål i Bergen – trolig mellom fotballtilhengere"
+        },
+        "description": "Mellom 20 og 30 personer skal ha vært innblandet i et masseslagsmål i Bergen sentrum. Det skal dreie seg om fotballsupportere fra Brann og Rosenborg.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-28T22:29:14Z",
+        "lastModifiedAt": "2023-05-29T01:13:09Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "reitan-dobbel-sikret-seier",
+        "url": "/lokalfotballen/i/dwP8LJ/reitan-dobbel-sikret-seier",
+        "title": {
+            "value": "Steinkjer knuste Utleira"
+        },
+        "description": "Med dagens 2-8-tap mot Steinkjer gikk Utleira på årets første nederlag Vilde Reitan scoret to av målene.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-28T18:55:29Z",
+        "lastModifiedAt": "2023-05-28T19:29:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    }
+]

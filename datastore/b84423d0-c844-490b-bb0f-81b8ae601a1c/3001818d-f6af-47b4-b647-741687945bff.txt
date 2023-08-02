@@ -1,0 +1,377 @@
+[
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPkBqJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPkBqJ",
+        "preamble": "Dette er veien inn til Premier Leagues nye klubb. Luton Town ser frem til å ta imot Manchester Citys målkonge.",
+        "published": {
+            "date": "søndag 28. mai",
+            "datetime": "2023-05-28 10:26:45",
+            "niceformat": "28.05.2023, 10:26",
+            "timestamp": "2023-05-28T08:26:45.000Z"
+        },
+        "thumbnail": {
+            "height": 279,
+            "url": "https://akamai.vgc.no/v2/images/e34a0cf5-3e97-43a6-ac72-881d8e76150e?fit=crop&format=auto&h=279&w=400&s=952325b12d9a9b92e1adae9a25418b2d348a5509",
+            "width": 400
+        },
+        "title": "Slik ønsker Luton Erling Braut Haaland velkommen",
+        "url": "https://www.vg.no/sport/fotball/i/VPkBqJ/slik-oensker-luton-erling-braut-haaland-velkommen"
+    },
+    {
+        "authors": [
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            },
+            {
+                "email": "vegard.aulstad@vg.no",
+                "id": "32320ac9-8b78-4d86-b923-ee64dc408816",
+                "name": "Vegard Aulstad"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwPQpz",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwPQpz",
+        "preamble": "En dårlig Rosenborg-vår ble ikke bedre av en svak cupkamp mot Trygg/Lade. Det er høy temperatur rundt trener Kjetil Rekdal og klubben før mandagens møte med Brann.",
+        "published": {
+            "date": "søndag 28. mai",
+            "datetime": "2023-05-28 09:26:46",
+            "niceformat": "28.05.2023, 09:26",
+            "timestamp": "2023-05-28T07:26:46.000Z"
+        },
+        "thumbnail": {
+            "height": 245,
+            "url": "https://akamai.vgc.no/v2/images/5a796070-be37-4446-a01a-359e4c2e6478?fit=crop&format=auto&h=245&w=400&s=c5e412522d9bec94d848bae246db7004e3ad0c6f",
+            "width": 400
+        },
+        "title": "Rosenborg-koket: – Sirkuset rundt oss får gå sin gang",
+        "url": "https://www.vg.no/sport/fotball/i/dwPQpz/rosenborg-koket-sirkuset-rundt-oss-faar-gaa-sin-gang"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            },
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "bgW6w5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/bgW6w5",
+        "preamble": "MANCHESTER/OSLO (VG) Pep Guardiola (52) mener at Erling Braut Haaland (22) er en type som aldri mister selvtilliten. Og sammenligner nordmannen med et amerikansk basketballag.",
+        "published": {
+            "date": "lørdag 27. mai",
+            "datetime": "2023-05-27 23:33:04",
+            "niceformat": "27.05.2023, 23:33",
+            "timestamp": "2023-05-27T21:33:04.000Z"
+        },
+        "thumbnail": {
+            "height": 240,
+            "url": "https://akamai.vgc.no/v2/images/0a58d83f-67a2-495f-9175-aad432ec6cd7?fit=crop&format=auto&h=240&w=400&s=40dd20088e340d7d9698e0a93b5daa47661effee",
+            "width": 400
+        },
+        "title": "Guardiola om Haalands selvtillit: – Den største verdien du kan ha",
+        "url": "https://www.vg.no/sport/fotball/i/bgW6w5/guardiola-om-haalands-selvtillit-den-stoerste-verdien-du-kan-ha"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0Q0JJo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0Q0JJo",
+        "preamble": "Luton rykket opp mens kapteinen Tom Lockyer (28) lå på sykehuset. Han kollapset etter bare syv minutters spill. Men nå viser bilder at han jubler fra sykesengen – sammen med familien.",
+        "published": {
+            "date": "lørdag 27. mai",
+            "datetime": "2023-05-27 23:06:57",
+            "niceformat": "27.05.2023, 23:06",
+            "timestamp": "2023-05-27T21:06:57.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/ea2e7f03-8a3c-4175-99bb-a41ee4773a36?fit=crop&format=auto&h=300&w=400&s=d4aac84c3428fed5853463a937890019e31f52bd",
+            "width": 400
+        },
+        "title": "Falt om på banen – her jubler han fra sykesengen",
+        "url": "https://www.vg.no/sport/fotball/i/0Q0JJo/falt-om-paa-banen-her-jubler-han-fra-sykesengen"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEX3w4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEX3w4",
+        "preamble": "(Strasbourg-PSG 1–1) Lionel Messi har blitt pepet på og ønsket vekk av egne supportere. Lørdag kveld sikret han PSG et nytt seriegull.",
+        "published": {
+            "date": "lørdag 27. mai",
+            "datetime": "2023-05-27 22:48:13",
+            "niceformat": "27.05.2023, 22:48",
+            "timestamp": "2023-05-27T20:48:13.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/f23bcb88-a313-4fbc-b1ae-a2a9a9026247?fit=crop&format=auto&h=267&w=400&s=ed5c92094c044585d913bd3ef5f5ccafbd8b98da",
+            "width": 400
+        },
+        "title": "Messi sikret ligatittel til PSG – satte ny rekord",
+        "url": "https://www.vg.no/sport/fotball/i/zEX3w4/messi-sikret-ligatittel-til-psg"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQ525o",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQ525o",
+        "preamble": "Fredrik Aursnes  (27) er portugisisk seriemester med Benfica etter 3–0 over bunnlaget Santa Clara lørdag.",
+        "published": {
+            "date": "lørdag 27. mai",
+            "datetime": "2023-05-27 21:34:42",
+            "niceformat": "27.05.2023, 21:34",
+            "timestamp": "2023-05-27T19:34:42.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/dd7137c7-1666-4074-a35a-a7d35fe3463f?fit=crop&format=auto&h=267&w=400&s=1b6be54a9ad636e9e03b6fb7c6dcb93c030b47b7",
+            "width": 400
+        },
+        "title": "Aursnes portugisisk mester med Benfica",
+        "url": "https://www.vg.no/sport/fotball/i/EQ525o/aursnes-portugisisk-mester-med-benfica"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "bgWJ8l",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/bgWJ8l",
+        "preamble": "(Coventry-Luton 1–1 e.e.o., 5–6 på straffer) Luton er klar for milliardbingen Premier League etter straffeseier over Coventry i det som omtales som den mest verdifulle enkeltkamp i fotballen. 31 års ventetid er over for fansen.",
+        "published": {
+            "date": "lørdag 27. mai",
+            "datetime": "2023-05-27 20:49:18",
+            "niceformat": "27.05.2023, 20:49",
+            "timestamp": "2023-05-27T18:49:18.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/RC6u0htPAECr.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Luton vant milliardkampen etter straffedrama",
+        "url": "https://www.vg.no/sport/fotball/i/bgWJ8l/vant-milliardkampen-etter-straffedrama"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JW1Jr",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JW1Jr",
+        "preamble": "Klubbdirektør i Bayern München, Oliver Kahn, og sportsdirektør Hasan Salihamidzić har fått sparken av klubben.",
+        "published": {
+            "date": "lørdag 27. mai",
+            "datetime": "2023-05-27 17:49:35",
+            "niceformat": "27.05.2023, 17:49",
+            "timestamp": "2023-05-27T15:49:35.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/05798f84-3aa6-4928-90a8-6e06a58eb29c?fit=crop&format=auto&h=267&w=400&s=993f70c7519639eb7eda54aa8326561a1492dd55",
+            "width": 400
+        },
+        "title": "Kahn og Salihamidzić ferdig i Bayern: – Ansvarlige for alt som skjedde",
+        "url": "https://www.vg.no/sport/fotball/i/8JW1Jr/kahn-og-salihamidzic-ferdig-i-bayern"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            },
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "VPk2ll",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/VPk2ll",
+        "preamble": "(Borussia Dortmund – Mainz 2–2, Köln – Bayern München 1–2) Premisset var klart: Med seier i siste kamp ville Dortmund bli tyske mestere for første gang siden 2012. På ti minutter raknet det fullstendig, og da erkerivalen gjorde sin del av jobben sendes trofeet til München.",
+        "published": {
+            "date": "lørdag 27. mai",
+            "datetime": "2023-05-27 17:26:07",
+            "niceformat": "27.05.2023, 17:26",
+            "timestamp": "2023-05-27T15:26:07.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/D2ohbHrI2Vkd.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Ligagullet glapp i siste kamp – Bayern er mestere for ellevte gang på rad",
+        "url": "https://www.vg.no/sport/fotball/i/VPk2ll/ligagullet-glapp-i-siste-kamp-bayern-er-mestere-for-ellevte-gang-paa-rad"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "2BKwRx",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/2BKwRx",
+        "preamble": "(Reading - Chelsea 0–3) Guro Reiten har herjet i ligaen i hele år. I siste serierunde toppet hun den gode sesongen med både scoring, målgivende og seriegull.",
+        "published": {
+            "date": "lørdag 27. mai",
+            "datetime": "2023-05-27 17:18:49",
+            "niceformat": "27.05.2023, 17:18",
+            "timestamp": "2023-05-27T15:18:49.000Z"
+        },
+        "thumbnail": {
+            "height": 250,
+            "url": "https://akamai.vgc.no/v2/images/07afcc0e-e0c3-4ed7-b19b-f12a9125d3cd?fit=crop&format=auto&h=250&w=400&s=9d33b6482702f3b9be5fceca6fd7be0bee92bfca",
+            "width": 400
+        },
+        "title": "Reiten med scoring og assist – Chelsea seriemester igjen",
+        "url": "https://www.vg.no/sport/fotball/i/2BKwRx/guro-reiten-og-maren-mjelde-ble-seriemester-med-chelsea"
+    }
+]

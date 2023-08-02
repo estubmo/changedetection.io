@@ -1,0 +1,197 @@
+[
+    {
+        "slug": "troenderen-havnet-midt-i-dramaet-det-var-voldsomt",
+        "url": "/sport/i/l3azLM/troenderen-havnet-midt-i-dramaet-det-var-voldsomt",
+        "title": {
+            "value": "Trønderen havnet midt i dramaet: - Det var voldsomt "
+        },
+        "description": "Øyvind Togstad opplevde sitt mest dramatiske håndballøyeblikk foran 20 000 tilskuere i Mesterliga-finalen i Køln.",
+        "imageUrl": "a1990e67-108f-4144-a99e-7a06dc01bfc3",
+        "publishedAt": "2023-06-19T09:19:46Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "haandball",
+            "kolstad-haandball"
+        ]
+    },
+    {
+        "slug": "se-maalens-foerste-rbk-trening-her",
+        "url": "/sport/fotball/i/69ek8r/se-maalens-foerste-rbk-trening-her",
+        "title": {
+            "value": "Se Svein Maalens første Rosenborg-trening"
+        },
+        "description": "Mandag formiddag møtte Svein Maalen RBK-spillerne til lunsj og møte på Brakka. Derfra gikk turen til «Skoglunden» og «Ivers direkte»-sendt trening fra kl. 11.55.",
+        "imageUrl": "1db509a9-f795-46f3-9e8f-4212ff7dffb2",
+        "publishedAt": "2023-06-19T08:11:44Z",
+        "lastModifiedAt": "2023-06-19T09:46:37Z",
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "svein-maalen"
+        ]
+    },
+    {
+        "slug": "tre-rbk-spillere-tatt-med-i-norges-vm-tropp",
+        "url": "/sport/fotball/i/eJRPzQ/tre-rbk-spillere-tatt-med-i-norges-vm-tropp",
+        "title": {
+            "value": "Tre RBK-spillere tatt med i Norges VM-tropp - Riise tabbet seg ut"
+        },
+        "description": "Anna Jøsendal er en av tre Rosenborg-spillere som kan juble for VM-plass. En fjerde, RBK-spissen Emilie Nautnes, trodde hun var tatt ut som reserve. Det viste seg å være feil.",
+        "imageUrl": "e8caca37-7c1d-4d9d-b5f3-2ea38a68e3e2",
+        "publishedAt": "2023-06-19T07:37:39Z",
+        "lastModifiedAt": "2023-06-19T08:53:34Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "anna-joesendal",
+            "mathilde-harviken",
+            "emilie-nautnes",
+            "ingrid-syrstad-engen"
+        ]
+    },
+    {
+        "slug": "foersteplassen-ble-sikret",
+        "url": "/lokalfotballen/i/zEzgR5/foersteplassen-ble-sikret",
+        "title": {
+            "value": "Førsteplassen ble sikret"
+        },
+        "description": "Ranheim 2 snudde 0-1 til 3-1-seier mot Charlottenlund i J14 2. divisjon, Avdeling 2 - Vår. Ranheim 2 har tatt tre poeng i tre strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-19T05:32:04Z",
+        "lastModifiedAt": "2023-06-19T05:32:04Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "foersteplassen-gikk-til-ranheim",
+        "url": "/lokalfotballen/i/9zeO05/foersteplassen-gikk-til-ranheim",
+        "title": {
+            "value": "Ranheim vant seriegull"
+        },
+        "description": "Ranheim slo Melhus/Gimse 11-1 og har dermed tatt poeng i fem strake kamper",
+        "imageUrl": null,
+        "publishedAt": "2023-06-18T20:34:17Z",
+        "lastModifiedAt": "2023-06-18T21:02:42Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "nettsus-for-sydskjoer",
+        "url": "/lokalfotballen/i/veGAXV/nettsus-for-sydskjoer",
+        "title": {
+            "value": "Sydskjør ble tomålshelt mot Levanger"
+        },
+        "description": "Charlottenlund kunne juble for sesongens første seier etter dagens 3-0-seier mot Levanger i 3. divisjon, Trøndelag i fotball for kvinner søndag. Lone Hagen Sydskjør scoret to av målene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-18T20:03:15Z",
+        "lastModifiedAt": "2023-06-19T05:01:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "maalshow-fra-national",
+        "url": "/lokalfotballen/i/KnXyey/maalshow-fra-national",
+        "title": {
+            "value": "Kitonyi scoret hattrick mot Freidig"
+        },
+        "description": "Med 6-1-seier i dagens kamp har National tatt poeng i ni strake kamper i 5. divisjon, Trøndelag - Avdeling 3 i fotball for menn. Junior Mutua Kitonyi scoret tre ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-18T19:32:31Z",
+        "lastModifiedAt": "2023-06-18T20:32:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "ranheim-2-med-hjemmeseier-over-byneset-leinstrand",
+        "url": "/lokalfotballen/i/WRXOJQ/ranheim-2-med-hjemmeseier-over-byneset-leinstrand",
+        "title": {
+            "value": "Ranheim 2-seier over Byneset / Leinstrand"
+        },
+        "description": "Ranheim 2 slo Byneset/Leinstrand 3-2 og tok dermed sin første seier på hjemmebane denne sesongen i G13 2. divisjon, Avdeling 4 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-18T18:58:25Z",
+        "lastModifiedAt": "2023-06-18T21:02:41Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "oeyeblikket-gir-henne-fortsatt-gaasehud-min-stoerste-droem",
+        "url": "/sport/fotball/i/wA571L/oeyeblikket-gir-henne-fortsatt-gaasehud-min-stoerste-droem",
+        "title": {
+            "value": "Ble historisk: - Når jeg kommer hjem til Trøndelag går det opp for meg"
+        },
+        "description": "Ingrid Syrstad Engen får gåsehud bare av å snakke om kvelden da drømmen gikk i oppfyllelse.",
+        "imageUrl": "18f7f504-d3ba-4227-8385-0aabfed3bbd8",
+        "publishedAt": "2023-06-18T18:55:43Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Aksel Murvold",
+            "David Engmo"
+        ],
+        "tags": [
+            "ingrid-syrstad-engen",
+            "melhus",
+            "fc-barcelona",
+            "adressasnapchat-2"
+        ]
+    },
+    {
+        "slug": "bare-en-faar-godkjent-sjekk-boersen-etter-rbk-tapet",
+        "url": "/sport/fotball/i/Q7XmjW/bare-en-faar-godkjent-sjekk-boersen-etter-rbk-tapet",
+        "title": {
+            "value": "Bare én får godkjent "
+        },
+        "description": "Et avskrudd Rosenborg gikk på et pinlig bortetap mot bunnlaget Lyn i Oslo.",
+        "imageUrl": "070d3531-fda9-4438-a117-1f81ce7ff4b6",
+        "publishedAt": "2023-06-18T18:37:58Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "fotball",
+            "sport",
+            "toppserien",
+            "rosenborg-kvinner"
+        ]
+    }
+]

@@ -1,0 +1,368 @@
+[
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "5BemKe",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/5BemKe",
+        "preamble": "Sander Kartum (27) blir Brann-spiller fra 1. august.",
+        "published": {
+            "date": "søndag 2. juli",
+            "datetime": "2023-07-02 16:23:00",
+            "niceformat": "02.07.2023, 16:23",
+            "timestamp": "2023-07-02T14:23:00.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/cfff9a52-4b87-4eba-8a12-22a4c39c8478?fit=crop&format=auto&h=267&w=400&s=37195e553bbeb2a9db104f27390c8d416fa9612f",
+            "width": 400
+        },
+        "title": "Sander Kartum klar for Brann: – Glad og stolt",
+        "url": "https://www.vg.no/sport/fotball/i/5BemKe/sander-kartum-klar-for-brann"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgdxzQ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgdxzQ",
+        "preamble": "David de Geas kontrakt med Manchester United gikk ut 30. juni og 32-åringen kan hentes gratis til en ny klubb. Den saudiarabiske klubben Al-Nassr skal være interessert.",
+        "published": {
+            "date": "søndag 2. juli",
+            "datetime": "2023-07-02 14:47:24",
+            "niceformat": "02.07.2023, 14:47",
+            "timestamp": "2023-07-02T12:47:24.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/bbbc4c7e-bcd0-43d7-a14d-e52c31bf5eba?fit=crop&format=auto&h=300&w=400&s=2e05e0efe44384ff253c93852c788f348259fa2f",
+            "width": 400
+        },
+        "title": "Medier: De Gea kan gjenforenes med Ronaldo",
+        "url": "https://www.vg.no/sport/fotball/i/xgdxzQ/medier-de-gea-kan-gjenforenes-med-ronaldo"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "MoXM2K",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/MoXM2K",
+        "preamble": "VALLE (VG) Vålerengas daglige leder Erik Espeseth har den siste tiden møtt hard motstand fra VIF-supporterne i sosiale medier. Nå har supporterne tatt det til tribunen.",
+        "published": {
+            "date": "søndag 2. juli",
+            "datetime": "2023-07-02 07:59:40",
+            "niceformat": "02.07.2023, 07:59",
+            "timestamp": "2023-07-02T05:59:40.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/bc3e7c47-1adf-4f2a-845a-c1515892efd4?fit=crop&format=auto&h=267&w=400&s=4e3aa835c5f200ad1c5123ff35bd929193d70782",
+            "width": 400
+        },
+        "title": "Vålerenga-sjef Espeseth om supporterkritikken: – Det er tungt",
+        "url": "https://www.vg.no/sport/fotball/i/MoXM2K/eliteserien-vaalerengas-daglige-leder-erik-espeseth-moeter-motstand-fra-klanen-det-er-tungt"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "15eg9X",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/15eg9X",
+        "preamble": "(Spania U21 – Sveits U21 2–1 e.e.o.) Norges overmenn utlignet på overtid i ordinær tid, men hadde ikke noe å komme med etter Juan Mirandas matchvinnerscoring.",
+        "published": {
+            "date": "lørdag 1. juli",
+            "datetime": "2023-07-01 23:43:19",
+            "niceformat": "01.07.2023, 23:43",
+            "timestamp": "2023-07-01T21:43:19.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/ce31c9d8-e467-4608-b7b0-4f30995e83ee?fit=crop&format=auto&h=267&w=400&s=5e4b0eb3e78188e512ccdcc5a3eff15a41d5838b",
+            "width": 400
+        },
+        "title": "Norges overmenn senket av Spania i kvartfinalen",
+        "url": "https://www.vg.no/sport/fotball/i/15eg9X/norges-overmenn-senket-av-spania-i-kvartfinalen"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "mQxG4L",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/mQxG4L",
+        "preamble": "Cesc Fàbregas legger opp i en alder av 36 år.",
+        "published": {
+            "date": "lørdag 1. juli",
+            "datetime": "2023-07-01 22:51:05",
+            "niceformat": "01.07.2023, 22:51",
+            "timestamp": "2023-07-01T20:51:05.000Z"
+        },
+        "thumbnail": {
+            "height": 308,
+            "url": "https://akamai.vgc.no/v2/images/e4a09dd4-c733-43c5-9625-f13298b4a5f9?fit=crop&format=auto&h=308&w=400&s=6796112a7b7e6e0145f5dedefaaca023119e8833",
+            "width": 400
+        },
+        "title": "Legendariske Cesc Fàbregas legger opp ",
+        "url": "https://www.vg.no/sport/fotball/i/mQxG4L/cesc-fabregas-legger-opp"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "0QqeB2",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/0QqeB2",
+        "preamble": "Kasper Høgh har levert en god første halvdel av sesongen for Stabæk. Nå blir han også Stabæks eiendom.",
+        "published": {
+            "date": "lørdag 1. juli",
+            "datetime": "2023-07-01 21:55:20",
+            "niceformat": "01.07.2023, 21:55",
+            "timestamp": "2023-07-01T19:55:20.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/bb185c23-8012-4dcb-8fce-37aaf7453486?fit=crop&format=auto&h=267&w=400&s=ae7cef8ca699930b1ac1a6d8a01bc452296fd8dd",
+            "width": 400
+        },
+        "title": "Opplysninger til VG: Stabæk kjøper Høgh",
+        "url": "https://www.vg.no/sport/fotball/i/0QqeB2/eliteserien-stabaek-kjoeper-kasper-hoegh"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8JV3L1",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8JV3L1",
+        "preamble": "Tidligere Aalesund-trener Lars Arne Nilsen har fått ny jobb. Han skal fremover lede den færøyske fotballklubben 07 Vestur, sier han til TV 2.",
+        "published": {
+            "date": "lørdag 1. juli",
+            "datetime": "2023-07-01 21:30:46",
+            "niceformat": "01.07.2023, 21:30",
+            "timestamp": "2023-07-01T19:30:46.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/db584207-1215-42e5-9643-adae1b40e43f?fit=crop&format=auto&h=267&w=400&s=375d52633d8695f24d2d872a24fc8a6fc0c7fa05",
+            "width": 400
+        },
+        "title": "Lars Arne Nilsen blir trener på Færøyene",
+        "url": "https://www.vg.no/sport/fotball/i/8JV3L1/lars-arne-nilsen-blir-trener-paa-faeroeyene"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3a7L7",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3a7L7",
+        "preamble": "(Georgia U21 – Israel U21 0–0, 3–4 etter straffer) Israel var best fra elleve meter mot Georgia i kvartfinalen i U21-EM. Belønningen er enten England eller Portugal i semifinalen tirsdag.",
+        "published": {
+            "date": "lørdag 1. juli",
+            "datetime": "2023-07-01 21:13:04",
+            "niceformat": "01.07.2023, 21:13",
+            "timestamp": "2023-07-01T19:13:04.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/07a881f8-5f41-4072-885f-48a4ba5e7c16?fit=crop&format=auto&h=267&w=400&s=2571b3f0bd60aaa418a0a323f636e9d8740228c6",
+            "width": 400
+        },
+        "title": "Israel avanserte til semifinale i U21-EM etter straffesparkkonkurranse",
+        "url": "https://www.vg.no/sport/fotball/i/l3a7L7/u21-em-israel-til-semifinale"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            },
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "KnXQ6M",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/KnXQ6M",
+        "preamble": "VALLE (VG) (Vålerenga - Viking 1−2) Niklas Sandberg reddet alle tre poengene for Viking på overtid. Men etter kampen var det den omdiskuterte straffen til Vålerenga som ble diskutert.",
+        "published": {
+            "date": "lørdag 1. juli",
+            "datetime": "2023-07-01 20:00:42",
+            "niceformat": "01.07.2023, 20:00",
+            "timestamp": "2023-07-01T18:00:42.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/4fc4354e-6949-45e8-85e7-cadf3b9c5d27?fit=crop&format=auto&h=267&w=400&s=aa3d7381f45435cb73c5bd8db8e452e10a77e498",
+            "width": 400
+        },
+        "title": "Viking-kapteinen raser etter omdiskutert straffespark: – Dummeste jeg har sett",
+        "url": "https://www.vg.no/sport/fotball/i/KnXQ6M/eliteserien-viking-vant-mot-vaalerenga"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "nQl35x",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/nQl35x",
+        "preamble": "(Lyn – Avaldsnes 6–0, Røa - Rosenborg 0-3, Åsane - Stabæk 1-3) Avaldsnes havnet under 0–3 mot Lyn etter bare 16 minutter. Oslo-klubben ga seg ikke før det sto 6–0 på måltavlen.",
+        "published": {
+            "date": "lørdag 1. juli",
+            "datetime": "2023-07-01 16:51:35",
+            "niceformat": "01.07.2023, 16:51",
+            "timestamp": "2023-07-01T14:51:35.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/aba9f81a-1ea8-4eb8-9c37-03fbf749dd0e?fit=crop&format=auto&h=267&w=400&s=df855bbe12f4884f501fe89ed0010cf0de9c6ccb",
+            "width": 400
+        },
+        "title": "Riises Avaldsnes knust i nøkkelkamp",
+        "url": "https://www.vg.no/sport/fotball/i/nQl35x/riises-avaldsnes-knust-i-noekkelkamp"
+    }
+]

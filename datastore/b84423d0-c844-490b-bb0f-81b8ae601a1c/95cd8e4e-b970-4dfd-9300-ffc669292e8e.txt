@@ -1,0 +1,388 @@
+[
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQ2dX5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQ2dX5",
+        "preamble": "(Sverige – Italia 5–0) Tre cornermål la grunnlaget for svensk storseier mot Italia i fotball-VM lørdag. De gulkledde booket med det plass i åttedelsfinalen.",
+        "published": {
+            "date": "lørdag 29. juli",
+            "datetime": "2023-07-29 11:29:01",
+            "niceformat": "29.07.2023, 11:29",
+            "timestamp": "2023-07-29T09:29:01.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/TLZF0C0MddeA.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Sverige videre i VM etter målfest mot Italia",
+        "url": "https://www.vg.no/sport/fotball/i/EQ2dX5/sverige-videre-i-vm-etter-maalfest-mot-italia"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dw0xyB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dw0xyB",
+        "preamble": "AUCKLAND (VG) Ada Hegerberg trente ikke med den norske VM-troppen lørdag. Deretter kom beskjeden om at stjernespilleren må stå over søndagens skjebnekamp mot Filippinene. ",
+        "published": {
+            "date": "lørdag 29. juli",
+            "datetime": "2023-07-29 02:37:59",
+            "niceformat": "29.07.2023, 02:37",
+            "timestamp": "2023-07-29T00:37:59.000Z"
+        },
+        "thumbnail": {
+            "height": 258,
+            "url": "https://akamai.vgc.no/v2/images/51f885fe-c956-4efe-9e4c-ba1faa9b8139?fit=crop&format=auto&h=258&w=400&s=e1157fad6f697759dac03fed0c72333a795e5332",
+            "width": 400
+        },
+        "title": "Hegerberg uaktuell mot Filippinene: – Ble for kort tid ",
+        "url": "https://www.vg.no/sport/fotball/i/dw0xyB/hegerberg-trente-ikke-med-vm-laget-loerdag-fortsatt-aktuell-mot-filippinene"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GM8kK9",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GM8kK9",
+        "preamble": "AUCKLAND (VG) Fotballen rystes av en ny kneskade etter at England-stjernen Keira Walsh (26) måtte ut på båre. En av hennes lagvenninner vil ha endringer i kampoppsettet.",
+        "published": {
+            "date": "fredag 28. juli",
+            "datetime": "2023-07-28 22:03:11",
+            "niceformat": "28.07.2023, 22:03",
+            "timestamp": "2023-07-28T20:03:11.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/d46e6c7e-eb2a-413a-8d60-e11e1d1638b1?fit=crop&format=auto&h=267&w=400&s=6724625c184b72344d5146cab1dbc43fdc5eb3d6",
+            "width": 400
+        },
+        "title": "Ny VM-profil skadet – England-stjerne ber om endringer",
+        "url": "https://www.vg.no/sport/fotball/i/GM8kK9/korsbaandskader-i-fotball-england-stjerne-beth-mead-ber-om-tiltak"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAp7nG",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAp7nG",
+        "preamble": "Den italienske giganten Juventus får ikke delta i europeiske turneringer på ett år. Det betyr at de ikke spiller i Conference League kommende sesong.",
+        "published": {
+            "date": "fredag 28. juli",
+            "datetime": "2023-07-28 19:39:46",
+            "niceformat": "28.07.2023, 19:39",
+            "timestamp": "2023-07-28T17:39:46.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/f3e777de-7599-42a8-98f2-e93e10b156bf?fit=crop&format=auto&h=267&w=400&s=901a81ac5535e6180822cc6512088ed81270de2b",
+            "width": 400
+        },
+        "title": "Juventus utestengt fra europeiske turneringer: – Et skadet rovdyr",
+        "url": "https://www.vg.no/sport/fotball/i/wAp7nG/juventus-utestengt-fra-europeiske-turneringer"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "vepMbB",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/vepMbB",
+        "preamble": "TOKYO (VG) I et forsøk på å erobre verden reiser Manchester City verden rundt for å fri til fans og sponsorer. Det er ikke optimalt for det sportslige, mener manager Pep Guardiola (52).",
+        "published": {
+            "date": "fredag 28. juli",
+            "datetime": "2023-07-28 17:34:32",
+            "niceformat": "28.07.2023, 17:34",
+            "timestamp": "2023-07-28T15:34:32.000Z"
+        },
+        "thumbnail": {
+            "height": 225,
+            "url": "https://akamai.vgc.no/v2/images/b804b3b5-f1cc-4f8d-93c6-7ea8f6dcb0f5?fit=crop&format=auto&h=225&w=400&s=3907f8276aa82916c3e06ee61de247d4767b84ce",
+            "width": 400
+        },
+        "title": "Derfor frir Haaland & co. til Asia: – Vi er her fordi klubben må",
+        "url": "https://www.vg.no/sport/fotball/i/vepMbB/derfor-frir-haaland-co-til-asia-vi-er-her-fordi-klubben-maa"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "abdgoA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/abdgoA",
+        "preamble": "Midtstopper Sander Moen Foss (24) har signert en treårskontrakt med Lillestrøm. 24-åringen blir spilleklar for klubben fra 1. januar 2024.",
+        "published": {
+            "date": "fredag 28. juli",
+            "datetime": "2023-07-28 14:12:39",
+            "niceformat": "28.07.2023, 14:12",
+            "timestamp": "2023-07-28T12:12:39.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/05b9829a-d521-4456-a1e8-eabf6ff1f786?fit=crop&format=auto&h=267&w=400&s=8a7eae38e908c274212ec27a5bf2803b2f558588",
+            "width": 400
+        },
+        "title": "Moen Foss har signert for Lillestrøm: – Veldig fornøyde",
+        "url": "https://www.vg.no/sport/fotball/i/abdgoA/eliteserien-sander-moen-foss-gaar-fra-sandefjord-til-lillestroem"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P42KXb",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P42KXb",
+        "preamble": "Riyad Mahrez (32) drar til saudiarabisk fotball. Det bekrefter Manchester City i en pressemelding.",
+        "published": {
+            "date": "fredag 28. juli",
+            "datetime": "2023-07-28 13:34:07",
+            "niceformat": "28.07.2023, 13:34",
+            "timestamp": "2023-07-28T11:34:07.000Z"
+        },
+        "thumbnail": {
+            "height": 280,
+            "url": "https://akamai.vgc.no/v2/images/032a0e61-d6c7-429a-8e18-c08b09b1ae9d?fit=crop&format=auto&h=280&w=400&s=eb04490570a1a5b3f22cb5098fb42352756713f3",
+            "width": 400
+        },
+        "title": "Riyad Mahrez forlater Manchester City til fordel for Al Ahli",
+        "url": "https://www.vg.no/sport/fotball/i/P42KXb/riyad-mahrez-klar-for-al-ahli"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4oKMBR",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4oKMBR",
+        "preamble": "AUCKLAND (VG) Britiske fotballstjerner ble tatt på sengen av Hege Riises nedtonede lederstil. Selv er hun klar: Hun bruker stemmen når det trengs.",
+        "published": {
+            "date": "fredag 28. juli",
+            "datetime": "2023-07-28 11:11:24",
+            "niceformat": "28.07.2023, 11:11",
+            "timestamp": "2023-07-28T09:11:24.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/4967f7cc-4480-4bf8-bb40-4cdf2cb29bcd?fit=crop&format=auto&h=267&w=400&s=6e2e056e2a4611295f4330d89c2be18231047fc5",
+            "width": 400
+        },
+        "title": "England-stjerne stusset over Riises lederstil: – Alle ble litt sjokkerte",
+        "url": "https://www.vg.no/sport/fotball/i/4oKMBR/fotball-vm-kvinner-spillere-om-hege-riises-lederstil"
+    },
+    {
+        "authors": [
+            {
+                "email": "mattis.holt@vg.no",
+                "id": "783ec02a-650f-49b8-8655-cd3e1ad5f4fa",
+                "name": "Mattis Holt"
+            },
+            {
+                "email": "andreas.hellenes@schibsted.com",
+                "id": "424642b6-03fe-42cd-abe2-5f7517e8a8e1",
+                "name": "Andreas Hellenes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dw0X2j",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dw0X2j",
+        "preamble": "Leeds-supporter Kjetil Rekdal (54) ser ikke hvordan laget hans skal komme seg opp igjen til Premier League med det første og kaller situasjonen for «tragisk».",
+        "published": {
+            "date": "fredag 28. juli",
+            "datetime": "2023-07-28 10:39:39",
+            "niceformat": "28.07.2023, 10:39",
+            "timestamp": "2023-07-28T08:39:39.000Z"
+        },
+        "thumbnail": {
+            "height": 225,
+            "url": "https://akamai.vgc.no/v2/images/e4bacee4-a170-4492-b242-28e31a469fd0?fit=crop&format=auto&h=225&w=400&s=6c7c5490079313a80df6b554b318aad1c5d05964",
+            "width": 400
+        },
+        "title": "Rekdal tror ikke på nytt Leeds-opprykk: – Tragisk",
+        "url": "https://www.vg.no/sport/fotball/i/dw0X2j/kjetil-rekdal-tror-ikke-leeds-rykker-opp-fra-championship-i-2023-24"
+    },
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "AP9o5n",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/AP9o5n",
+        "preamble": "(Crusaders - Rosenborg 2–2) Rosenborg gikk mot seier i Belfast - men så spratt ballen riktig vei for underdogen fra Nord-Irland.",
+        "published": {
+            "date": "torsdag 27. juli",
+            "datetime": "2023-07-27 22:48:57",
+            "niceformat": "27.07.2023, 22:48",
+            "timestamp": "2023-07-27T20:48:57.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/57163334-b798-4945-ae18-8df1a319bd03?fit=crop&format=auto&h=266&w=400&s=4046102599e31c7bdd14592afa8c26a5360f714c",
+            "width": 400
+        },
+        "title": "Crusaders sjokkerte Rosenborg – uavgjort i Belfast",
+        "url": "https://www.vg.no/sport/fotball/i/AP9o5n/crusaders-sjokkerte-rosenborg-uavgjort-i-belfast"
+    }
+]

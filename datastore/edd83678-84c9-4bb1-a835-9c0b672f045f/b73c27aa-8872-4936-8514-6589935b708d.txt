@@ -1,0 +1,200 @@
+[
+    {
+        "slug": "melhus-2-gimse-2-gauldal-2-slo-budal-i-maalfest",
+        "url": "/lokalfotballen/i/eJy33O/melhus-2-gimse-2-gauldal-2-slo-budal-i-maalfest",
+        "title": {
+            "value": "Melhus 2/Gimse 2/Gauldal 2 rundspilte Budal"
+        },
+        "description": "Gunilla Forseth sto fram med seks mål da Melhus 2/Gimse 2/Gauldal 2 seiret 9-0 over Budal i 4. divisjon, Trøndelag - Avdeling 3 i fotball for kvinner tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-02T20:29:12Z",
+        "lastModifiedAt": "2023-05-02T21:52:09Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-gauldalsposten",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "tredje-seier-paa-rad-for-byaasen-2",
+        "url": "/lokalfotballen/i/764e2o/tredje-seier-paa-rad-for-byaasen-2",
+        "title": {
+            "value": "Tredje strake seier for Byåsen 2"
+        },
+        "description": "Buvik tapte 3-6 mot Byåsen 2 og har dermed tapt sine én første kamper denne sesongen. I 5. divisjon, Trøndelag - Avdeling 3 i fotball tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-02T20:20:29Z",
+        "lastModifiedAt": "2023-05-02T20:49:49Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "hjemmeseier-for-orkanger-2-over-astor-3",
+        "url": "/lokalfotballen/i/q1705e/hjemmeseier-for-orkanger-2-over-astor-3",
+        "title": {
+            "value": "Orkanger 2 med hjemmeseier over Astor 3"
+        },
+        "description": "Orkanger 2 seiret 4-1 over Astor 3 i G16 3. divisjon, Avdeling 2 - Vår. Orkanger 2 tok sin første seier denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-02T20:18:19Z",
+        "lastModifiedAt": "2023-05-02T20:58:06Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "stjoerdals-blink-2-slo-charlottenlund-i-maalfest",
+        "url": "/lokalfotballen/i/764ero/stjoerdals-blink-2-slo-charlottenlund-i-maalfest",
+        "title": {
+            "value": "Stjørdals-Blink 2 slo Charlottenlund i målfest"
+        },
+        "description": "Charlottenlund gikk på sitt tredje strake tap da laget røk 2-4 for Stjørdals-Blink 2 i 4. divisjon, Trøndelag - Avdeling 1 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-02T20:11:03Z",
+        "lastModifiedAt": "2023-05-02T20:20:28Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "ida-ljoekelsoey-scoret-hattrick-for-orkla",
+        "url": "/lokalfotballen/i/4oX9aE/ida-ljoekelsoey-scoret-hattrick-for-orkla",
+        "title": {
+            "value": "Ida Ljøkelsøy scoret hattrick for Orkla"
+        },
+        "description": "Ida Ljøkelsøy sto fram med tre mål da Orkla seiret 6-2 over Byåsen i J17 1. divisjon, Avdeling 2 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-02T20:04:33Z",
+        "lastModifiedAt": "2023-05-02T20:31:54Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "lucas-rode-schanche-ble-helten-for-oerland",
+        "url": "/lokalfotballen/i/aby69A/lucas-rode-schanche-ble-helten-for-oerland",
+        "title": {
+            "value": "Lucas Rode Schanche ble helten for Ørland"
+        },
+        "description": "Lucas Rode Schanche ble matchvinner med sin 1-0-scoring for Ørland mot Nidelv på Tempe hovedbane i G16 1. divisjon, Avdeling 1 - Vår tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-02T19:54:48Z",
+        "lastModifiedAt": "2023-05-02T20:30:48Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "hun-var-centimetere-unna-aa-avgjoere-for-rbk",
+        "url": "/sport/i/dwb3xo/hun-var-centimetere-unna-aa-avgjoere-for-rbk",
+        "title": {
+            "value": "Hun var centimetere unna å avgjøre for RBK"
+        },
+        "description": "Elin Sørum var knallgod da RBK var som best mot Avaldsnes. Det holdt likevel ikke til tre poeng.",
+        "imageUrl": "3ec5bad5-54af-4993-a41a-4d259615ad65",
+        "publishedAt": "2023-05-02T19:31:00Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "rosenborg-kvinner",
+            "toppserien"
+        ]
+    },
+    {
+        "slug": "aafjord-seier-over-ranheim-2",
+        "url": "/lokalfotballen/i/4oX9l9/aafjord-seier-over-ranheim-2",
+        "title": {
+            "value": "Åfjord seiret borte mot Ranheim 2"
+        },
+        "description": "Åfjord vant 2-1 over Ranheim 2 i G13 2. divisjon, Avdeling 4 - Vår tirsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-02T18:43:13Z",
+        "lastModifiedAt": "2023-05-02T18:52:31Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "freidig-2-ordnet-poeng",
+        "url": "/lokalfotballen/i/mQykel/freidig-2-ordnet-poeng",
+        "title": {
+            "value": "Freidig 2 ordnet uavgjort"
+        },
+        "description": "Freidig 2 og Ranheim 2 måtte nøye seg med uavgjort Det brøt seiersrekken til Ranheim 2, som ikke hadde gitt fra seg poeng på tre kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-02T17:58:08Z",
+        "lastModifiedAt": "2023-05-02T18:24:34Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "nyter-opptur-i-brann-jeg-fikk-min-sjanse-i-rbk-og-grep-den-ikke",
+        "url": "/sport/fotball/i/7642y3/nyter-opptur-i-brann-jeg-fikk-min-sjanse-i-rbk-og-grep-den-ikke",
+        "title": {
+            "value": "- Jeg mistet kraften"
+        },
+        "description": "Eirik Horneland (48) mener det ikke finnes noen vanskeligere klubb å trene i Norge enn Rosenborg.",
+        "imageUrl": "8da5e2e9-0f8a-48c7-80c6-2308e23d615e",
+        "publishedAt": "2023-05-02T17:39:02Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "kaare-ingebrigtsen",
+            "erik-hoftun",
+            "nicklas-bendtner",
+            "kjetil-rekdal",
+            "eirik-horneland",
+            "karl-oskar-emberland",
+            "kjetil-knutsen"
+        ]
+    }
+]

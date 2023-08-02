@@ -1,0 +1,195 @@
+[
+    {
+        "slug": "strand-sikret-seieren-for-strindheim-paa-overtid",
+        "url": "/lokalfotballen/i/rl3rL8/strand-sikret-seieren-for-strindheim-paa-overtid",
+        "title": {
+            "value": "Strindheim avgjorde på overtid"
+        },
+        "description": "Johanne Skarvøy Strand ble matchvinner for Strindheim i 1-0-seieren over Vestbyen på Hammersborg kunstgress i 3. divisjon, Trøndelag i fotball for kvinner.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-05T20:22:06Z",
+        "lastModifiedAt": "2023-06-05T20:29:31Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "hoestland-ble-matchvinner-paa-overtid",
+        "url": "/lokalfotballen/i/Q7KJlR/hoestland-ble-matchvinner-paa-overtid",
+        "title": {
+            "value": "Høstland sikret seieren for Flatanger 2 på overtid"
+        },
+        "description": "Flatanger 2 stoppet Sparbus seiersrekke på tre kamper etter dagens 4-3-seier",
+        "imageUrl": null,
+        "publishedAt": "2023-06-05T20:18:02Z",
+        "lastModifiedAt": "2023-06-05T20:29:31Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "markabygda-vant-igjen",
+        "url": "/lokalfotballen/i/abkJ1E/markabygda-vant-igjen",
+        "title": {
+            "value": "Markabygda tok sin tredje strake seier"
+        },
+        "description": "Markabygda seiret 2-0 over Tangmoen 2 på hjemmebane i 6. divisjon, Trøndelag - Avdeling 2 i fotball mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-05T20:13:57Z",
+        "lastModifiedAt": "2023-06-05T20:31:11Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "utleira-seiret-over-ranheim",
+        "url": "/lokalfotballen/i/onPELm/utleira-seiret-over-ranheim",
+        "title": {
+            "value": "Utleira slo Ranheim på hjemmebane"
+        },
+        "description": "Utleira seiret 3-2 over Ranheim i 3. divisjon, Trøndelag mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-05T20:13:56Z",
+        "lastModifiedAt": "2023-06-05T20:29:31Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "nettsus-for-simonsen",
+        "url": "/lokalfotballen/i/rl3rp8/nettsus-for-simonsen",
+        "title": {
+            "value": "KIL / Hemne slo Orkla 2 i målfest"
+        },
+        "description": "Med dagens 2-4-tap har Orkla 2 ikke tatt et eneste poeng på de første åtte kampene i årets sesong i 4. divisjon, Trøndelag - Avdeling 2 i fotball for menn mandag. Bendik Simonsen scoret to mål.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-05T20:10:54Z",
+        "lastModifiedAt": "2023-06-05T20:24:09Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "bentzen-med-maalshow",
+        "url": "/lokalfotballen/i/Q7KJRR/bentzen-med-maalshow",
+        "title": {
+            "value": "Bentzen scoret hattrick for Kvam"
+        },
+        "description": "Kvam banket Spillum 5-2 i 6. divisjon, Trøndelag - Avdeling 1 i fotball. Erik Magnus Bentzen slo til med hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-05T20:08:50Z",
+        "lastModifiedAt": "2023-06-05T20:31:09Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "scoringslykke-for-betten",
+        "url": "/lokalfotballen/i/4oGBna/scoringslykke-for-betten",
+        "title": {
+            "value": "Betten i scoringshumør"
+        },
+        "description": "Nidelv tok sine første poeng på tre kamper da Stjørdals-Blink 2 ble slått 3-1 i 4. divisjon, Trøndelag - Avdeling 1 i fotball for menn mandag. Jakob Estenstad Betten scoret to av målene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-05T20:06:44Z",
+        "lastModifiedAt": "2023-06-05T20:24:10Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "fosen-vant-igjen",
+        "url": "/lokalfotballen/i/8JzqbW/fosen-vant-igjen",
+        "title": {
+            "value": "Fosen knuste Kolstad 2"
+        },
+        "description": "Fosen knuste Kolstad 2 9-2 i 6. divisjon, Trøndelag - Avdeling 3 mandag. Det stoppet seiersrekken til Kolstad 2 på fire kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-05T20:03:29Z",
+        "lastModifiedAt": "2023-06-05T20:31:09Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-fosnafolket",
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "brekken-med-maalshow",
+        "url": "/lokalfotballen/i/WRW0n2/brekken-med-maalshow",
+        "title": {
+            "value": "Målshow fra Beitstad 7er"
+        },
+        "description": "Beitstad 7er knuste Sørlia 7er 7-4 i 7er, Trøndelag - Avdeling 1 i fotball for kvinner mandag. Christina Brekken scoret tre mål.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-05T19:35:08Z",
+        "lastModifiedAt": "2023-06-05T19:58:18Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "folstad-med-maalshow",
+        "url": "/lokalfotballen/i/wA5gw4/folstad-med-maalshow",
+        "title": {
+            "value": "Målshow fra Folstad"
+        },
+        "description": "John Eivind Folstad ledet an med fem mål i 14-0-seieren over Skaun i 6. divisjon, Trøndelag - Avdeling 6 i fotball for menn mandag. Støren har tatt poeng i seks strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-05T19:34:05Z",
+        "lastModifiedAt": "2023-06-05T19:58:17Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-gauldalsposten",
+            "lokalfotballen-tronderbladet",
+            "lokalfotballen-avisast"
+        ]
+    }
+]

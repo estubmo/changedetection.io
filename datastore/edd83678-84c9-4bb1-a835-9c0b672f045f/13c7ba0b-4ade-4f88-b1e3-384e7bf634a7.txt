@@ -1,0 +1,195 @@
+[
+    {
+        "slug": "to-fulltreffere-fra-gaasoe",
+        "url": "/lokalfotballen/i/dwpnXo/to-fulltreffere-fra-gaasoe",
+        "title": {
+            "value": "To fulltreffere fra Gaasø"
+        },
+        "description": "Kristoffer Gaasø førte an med to mål i 4-3-seieren over Trygg/Lade 2 i 5. divisjon, Trøndelag - Avdeling 2 i fotball for menn. Det var sesongens første seier for Dolmøy.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-05T21:17:20Z",
+        "lastModifiedAt": "2023-05-05T21:17:20Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-hitrafroya"
+        ]
+    },
+    {
+        "slug": "aksnes-avgjorde-for-leksdal-paa-overtid",
+        "url": "/lokalfotballen/i/nQbWq5/aksnes-avgjorde-for-leksdal-paa-overtid",
+        "title": {
+            "value": "Aksnes avgjorde for Leksdal på overtid"
+        },
+        "description": "Før dagens 1-2-tap mot Leksdal hadde Fram tatt poeng i alle seriekampene denne sesongen. I 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-05T20:46:44Z",
+        "lastModifiedAt": "2023-05-05T20:46:44Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet"
+        ]
+    },
+    {
+        "slug": "dobbel-fra-bjoernsvik-for-levangerstudentene",
+        "url": "/lokalfotballen/i/mQprbl/dobbel-fra-bjoernsvik-for-levangerstudentene",
+        "title": {
+            "value": "Bjørnsvik-dobbel for Levangerstudentene"
+        },
+        "description": "Levangerstudentene kunne juble for sesongens første seier etter dagens 5-0-seier mot Innherred. I 5. divisjon, Trøndelag - Avdeling 1 i fotball. Håvard Damhaug Bjørnsvik scoret to ganger.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-05T20:16:46Z",
+        "lastModifiedAt": "2023-05-05T20:46:43Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "ranheim-vant-igjen",
+        "url": "/lokalfotballen/i/Knqzx6/ranheim-vant-igjen",
+        "title": {
+            "value": "Tredje seier på rad for Ranheim"
+        },
+        "description": "Ranheim slo Tynset 9-0 på bortebane i J17 1. divisjon, Avdeling 2 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-05T20:09:36Z",
+        "lastModifiedAt": "2023-05-05T20:18:48Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "tangmoen-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/EQqar5/tangmoen-fortsatte-seiersrekken",
+        "title": {
+            "value": "Tangmoen tok sin fjerde seier på rad"
+        },
+        "description": "Tangmoen kan juble for full pott så langt i årets sesong, etter å ha slått Egge 1-0. I 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-05T20:04:22Z",
+        "lastModifiedAt": "2023-05-05T20:15:44Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "veien-videre-etter-peder",
+        "url": "/magasin/i/bg4ag5/veien-videre-etter-peder",
+        "title": {
+            "value": "– De fire første årene tenkte vi hele tiden at «dette er kanskje den siste bursdagen»"
+        },
+        "description": null,
+        "imageUrl": "e0f359e6-ae22-427e-9fab-ab91699a1bf2",
+        "publishedAt": "2023-05-05T19:41:57Z",
+        "lastModifiedAt": "2023-05-05T20:33:14Z",
+        "premium": true,
+        "authors": [
+            "Kari-Anne Aarvåg",
+            "Håvard Haugseth Jensen (foto)"
+        ],
+        "tags": [
+            "ukeadressa",
+            "boersa",
+            "sorg",
+            "st-olavs-hospital",
+            "familie",
+            "sykdom"
+        ]
+    },
+    {
+        "slug": "efl-inngikk-kjempeavtale-med-sky-sports",
+        "url": "/nyheter/innenriks/i/8JvQoW/efl-inngikk-kjempeavtale-med-sky-sports",
+        "title": {
+            "value": "EFL inngikk kjempeavtale med Sky Sports"
+        },
+        "description": "Sky Sports har betalt nær 13 milliarder kroner rettighetene til nivå to, tre og fire i engelsk fotball for de neste fem sesongene.",
+        "imageUrl": "bed5a70a-b80f-4942-8c1b-c34e926a45fb",
+        "publishedAt": "2023-05-05T18:57:23Z",
+        "lastModifiedAt": "2023-05-05T18:57:23Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "storseier-for-sjetne-2-7er",
+        "url": "/lokalfotballen/i/Q7qyKJ/storseier-for-sjetne-2-7er",
+        "title": {
+            "value": "Storseier for Sjetne 2 7er"
+        },
+        "description": "Sjetne 2 7er sikret alle poengene da Utleira ble slått 10-1 i J15 2. divisjon, Avdeling 4 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-05T18:19:08Z",
+        "lastModifiedAt": "2023-05-05T18:19:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "nidelv-2-snudde-til-seier",
+        "url": "/lokalfotballen/i/3Ez4zX/nidelv-2-snudde-til-seier",
+        "title": {
+            "value": "Nidelv 2 snudde til seier"
+        },
+        "description": "Nidelv 2 snudde 2-3 til 4-3 mot Tiller 2 i G13 2. divisjon, Avdeling 4 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-05T18:04:43Z",
+        "lastModifiedAt": "2023-05-05T18:19:08Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "strindheim-fortsatte-seiersrekken",
+        "url": "/lokalfotballen/i/GMq3eq/strindheim-fortsatte-seiersrekken",
+        "title": {
+            "value": "Femte strake seier for Strindheim"
+        },
+        "description": "Med dagens 4-1-resultat har Strindheims innkassert sin femte strake seier. Det holder til full pott så langt i årets sesong. I 3. divisjon, Avdeling 5 i fotball for menn fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-05T17:54:27Z",
+        "lastModifiedAt": "2023-05-05T18:47:24Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

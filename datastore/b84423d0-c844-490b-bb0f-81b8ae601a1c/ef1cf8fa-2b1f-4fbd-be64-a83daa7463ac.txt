@@ -1,0 +1,375 @@
+[
+    {
+        "authors": [
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3EzMEM",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3EzMEM",
+        "preamble": "(Bournemouth - Chelsea 1–3), (Tottenham - Crystal Palace 1–0) Det lå lenge an til å bli nok en kamp uten seier for Chelsea, men like før slutt våknet gjestene.",
+        "published": {
+            "date": "lørdag 6. mai",
+            "datetime": "2023-05-06 17:54:05",
+            "niceformat": "06.05.2023, 17:54",
+            "timestamp": "2023-05-06T15:54:05.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/9234d0ed-9189-42a6-87ef-3f70f922262d?fit=crop&format=auto&h=266&w=400&s=aea9f8360a43506dcf6469c02ec8861017eebc44",
+            "width": 400
+        },
+        "title": "Etterlengtet Chelsea-opptur: Første seier siden mars",
+        "url": "https://www.vg.no/sport/fotball/i/3EzMEM/etterlengtet-chelsea-opptur-foerste-seier-siden-mars"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            },
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kEbww9",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kEbww9",
+        "preamble": "MANCHESTER (VG) (Manchester City – Leeds United 2–1) At Erling Braut Haaland (22) scorer mest, er det ingen tvil om – men nordmannen topper nå også listen over store sjanser misbrukt.",
+        "published": {
+            "date": "lørdag 6. mai",
+            "datetime": "2023-05-06 17:53:46",
+            "niceformat": "06.05.2023, 17:53",
+            "timestamp": "2023-05-06T15:53:46.000Z"
+        },
+        "thumbnail": {
+            "height": 248,
+            "url": "https://akamai.vgc.no/v2/images/82b1aab8-0b91-4f5f-835a-7274fa7d019c?fit=crop&format=auto&h=248&w=400&s=93b4caf49238bae04c3b28a45537db6311f17f54",
+            "width": 400
+        },
+        "title": "Haaland lo av eget sjansesløseri – nå er han også den som bommer (!) mest",
+        "url": "https://www.vg.no/sport/fotball/i/kEbww9/haaland-lo-av-eget-sjansesloeseri-naa-er-han-den-som-bommer-mest"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJXMzR",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJXMzR",
+        "preamble": "(Åsane-Avaldsnes 5–1) Målene rant inn mot John Arne Riise og Avaldsnes på slutten. Åsane vant 5–1 i bunnoppgjøret.",
+        "published": {
+            "date": "lørdag 6. mai",
+            "datetime": "2023-05-06 16:58:17",
+            "niceformat": "06.05.2023, 16:58",
+            "timestamp": "2023-05-06T14:58:17.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://akamai.vgc.no/v2/images/14e99fd5-9517-48ba-a688-2a683e77cc67?fit=crop&format=auto&h=213&w=400&s=1b16917a971067deae68b2e889ebff1ab5177e80",
+            "width": 400
+        },
+        "title": "Stortap i bunnkamp for John Arne Riise",
+        "url": "https://www.vg.no/sport/fotball/i/eJXMzR/stortap-i-bunnkamp-for-john-arne-riise"
+    },
+    {
+        "authors": [
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3EzMqL",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3EzMqL",
+        "preamble": "(Ranheim-Åsane 3–2) Ranheim lå under med to mål - men slo tilbake mot Åsane og holder ledelsen i OBOS-ligaen. Men Christian Michelsen og Kristiansund har fått opp dampen.",
+        "published": {
+            "date": "lørdag 6. mai",
+            "datetime": "2023-05-06 16:54:48",
+            "niceformat": "06.05.2023, 16:54",
+            "timestamp": "2023-05-06T14:54:48.000Z"
+        },
+        "thumbnail": {
+            "height": 178,
+            "url": "https://akamai.vgc.no/v2/images/926e4df1-4930-460b-98dd-53e3d2715e9f?fit=crop&format=auto&h=178&w=400&s=61aad96adc41a32f8713a990697cac9e286cb672",
+            "width": 400
+        },
+        "title": "Ranheim holder koken på toppen",
+        "url": "https://www.vg.no/sport/fotball/i/3EzMqL/ranheim-holder-koken-paa-toppen"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "herman.folvik@schibsted.com",
+                "id": "f9f55d8f-1714-4f09-a6b8-97298ac543bf",
+                "name": "Herman Folvik"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "zEbAEw",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/zEbAEw",
+        "preamble": "TRONDHEIM (VG) Politiet melder om slåssing mellom fotballsupportere i Trondheim sentrum før storkampen mellom Rosenborg og Vålerenga lørdag kveld.",
+        "published": {
+            "date": "lørdag 6. mai",
+            "datetime": "2023-05-06 15:35:30",
+            "niceformat": "06.05.2023, 15:35",
+            "timestamp": "2023-05-06T13:35:30.000Z"
+        },
+        "thumbnail": {
+            "height": 300,
+            "url": "https://akamai.vgc.no/v2/images/3f3095ca-2f6b-4d6d-8d62-c0edc839c893?fit=crop&format=auto&h=300&w=400&s=355ef7f2802037507ab00a17c639e14dbc62ac32",
+            "width": 400
+        },
+        "title": "Supporterbråk før Rosenborg - Vålerenga: 30–40 stykker som sloss",
+        "url": "https://www.vg.no/sport/fotball/i/zEbAEw/slaassing-foer-rosenborg-vaalerenga"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "15dMOJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/15dMOJ",
+        "preamble": "Ada Hegerberg (27) begynte på benken, men kom inn og scoret kampens siste mål i Lyons 3-0-seier over Dijon i den franske toppdivisjonen lørdag.",
+        "published": {
+            "date": "lørdag 6. mai",
+            "datetime": "2023-05-06 15:27:19",
+            "niceformat": "06.05.2023, 15:27",
+            "timestamp": "2023-05-06T13:27:19.000Z"
+        },
+        "thumbnail": {
+            "height": 270,
+            "url": "https://akamai.vgc.no/v2/images/bf4b698f-313c-46a9-86a0-66bb78bd9b55?fit=crop&format=auto&h=270&w=400&s=2d7e52118e3d514794a6caf1ec8b5d65d93cc13c",
+            "width": 400
+        },
+        "title": "Hegerberg med innhopp og mål i Lyon-seier",
+        "url": "https://www.vg.no/sport/fotball/i/15dMOJ/hegerberg-med-innhopp-og-maal-i-lyon-seier"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dwpwgo",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dwpwgo",
+        "preamble": "Marius Høibråten tvang fram det avgjørende selvmålet da Urawa Red Diamonds vant den asiatiske mesterligaen i fotball med 1–0 over saudiarabiske Al-Hilal lørdag.",
+        "published": {
+            "date": "lørdag 6. mai",
+            "datetime": "2023-05-06 14:15:42",
+            "niceformat": "06.05.2023, 14:15",
+            "timestamp": "2023-05-06T12:15:42.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/8fe75840-b1b9-4ba8-ba17-49ddd41b3250?fit=crop&format=auto&h=267&w=400&s=3a8cab58840823d95d23d73600cad1ba167af037",
+            "width": 400
+        },
+        "title": "Høibråten ble helten i den asiatiske Champions League-finalen",
+        "url": "https://www.vg.no/sport/fotball/i/dwpwgo/marius-hoeibraaten-ble-helten-i-den-asiatiske-champions-league-finalen-fire-maaneder-etter-glimt-exiten"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "vebeap",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/vebeap",
+        "preamble": "Spillerne i Wigan må igjen vente på å få utbetalt lønn. Klubben beklager det inntrufne og ga spillerne fri lørdag som følge av de «krevende omstendighetene».",
+        "published": {
+            "date": "lørdag 6. mai",
+            "datetime": "2023-05-06 13:22:22",
+            "niceformat": "06.05.2023, 13:22",
+            "timestamp": "2023-05-06T11:22:22.000Z"
+        },
+        "title": "Mer lønnstrøbbel for Aasgaard og Wigan – klubben legger seg flat",
+        "url": "https://www.vg.no/sport/fotball/i/vebeap/mer-loennstroebbel-for-aasgaard-og-wigan-klubben-legger-seg-flat"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Knqnw6",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Knqnw6",
+        "preamble": "Chelsea-stjernen Raheem Sterling vedgår at han knapt har vært lenger nede i fotballkarrieren enn akkurat nå. Hundre prosent svart er likevel ikke situasjonen. ",
+        "published": {
+            "date": "lørdag 6. mai",
+            "datetime": "2023-05-06 12:52:28",
+            "niceformat": "06.05.2023, 12:52",
+            "timestamp": "2023-05-06T10:52:28.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/905a8540-717e-4e60-8cf0-b968fe30a927?fit=crop&format=auto&h=267&w=400&s=e24ca27ea89610f5fc34800441a1349301abf9fd",
+            "width": 400
+        },
+        "title": "Chelsea-stjerne: – En av de tyngste periodene i karrieren min",
+        "url": "https://www.vg.no/sport/fotball/i/Knqnw6/chelsea-stjerne-en-av-de-tyngste-periodene-i-karrieren-min"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            },
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            },
+            {
+                "email": "ole.kristian.strom@vg.no",
+                "id": "bb235994-444c-4af5-8ea5-355ac8022404",
+                "name": "Ole Kristian Strøm"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "eJXEKK",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/eJXEKK",
+        "preamble": "Liverpool har bestemt seg for å adlyde Premier Leagues forespørsel om å spille nasjonalsangen lørdag. Det tas ikke like godt imot av alle. En Liverpool-ekspert tror det ender med piping.",
+        "published": {
+            "date": "lørdag 6. mai",
+            "datetime": "2023-05-06 12:26:46",
+            "niceformat": "06.05.2023, 12:26",
+            "timestamp": "2023-05-06T10:26:46.000Z"
+        },
+        "thumbnail": {
+            "height": 234,
+            "url": "https://akamai.vgc.no/v2/images/dc082605-5c68-4f37-b4a0-e4652ccc08e0?fit=crop&format=auto&h=234&w=400&s=15f90b1bc297b1f9383bb4a9f7904bc70b76e45f",
+            "width": 400
+        },
+        "title": "Omdiskutert Liverpool-avgjørelse om kroningen: – Det blir ingen jubel for Charles",
+        "url": "https://www.vg.no/sport/fotball/i/eJXEKK/omdiskutert-liverpool-avgjoerelse-om-kroningen-det-blir-ingen-jubel-for-charles"
+    }
+]

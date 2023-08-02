@@ -1,0 +1,370 @@
+[
+    {
+        "authors": [
+            {
+                "email": "sander.randeberg.hauan@schibsted.com",
+                "id": "d2157c75-6c54-4a7d-b6cf-5021c264b9be",
+                "name": "Sander Hauan"
+            },
+            {
+                "email": "jonas.bucher@schibsted.com",
+                "id": "6823a173-d8a4-4334-8402-f375115eac7f",
+                "name": "Jonas Bucher"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dw0noO",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dw0noO",
+        "preamble": "VALLE (VG) (Vålerenga - Molde 0–4) Etter en kaotisk uke ble det en verst tenkelig start på Geir Bakke-æraen i Vålerenga. ",
+        "published": {
+            "date": "lørdag 15. juli",
+            "datetime": "2023-07-15 19:52:33",
+            "niceformat": "15.07.2023, 19:52",
+            "timestamp": "2023-07-15T17:52:33.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/2e9cb9c3-d95b-40bf-a0f7-b071cf90a8b2?fit=crop&format=auto&h=267&w=400&s=3ce53a56fea171cda4fc49274c516682b363b5af",
+            "width": 400
+        },
+        "title": "Marerittstart for Geir Bakke i Vålerenga: – Vi har nok å jobbe med",
+        "url": "https://www.vg.no/sport/fotball/i/dw0noO/marerittstart-for-bakke-vaalerenga-ydmyket-av-molde"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "GM232V",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/GM232V",
+        "preamble": "Luton-fansen må vente til september før Premier League-fotballen inntar Kenilworth Road. Opprykkslagets første hjemmeoppgjør blir ikke spilt som oppsatt.",
+        "published": {
+            "date": "lørdag 15. juli",
+            "datetime": "2023-07-15 13:00:06",
+            "niceformat": "15.07.2023, 13:00",
+            "timestamp": "2023-07-15T11:00:06.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/656365f6-a98e-485b-ba32-25c1ca869a94?fit=crop&format=auto&h=267&w=400&s=4abcd3e98afd9a54d9270ac2ec44203b6b910589",
+            "width": 400
+        },
+        "title": "Lutons første hjemmekamp i Premier League utsatt",
+        "url": "https://www.vg.no/sport/fotball/i/GM232V/lutons-foerste-hjemmekamp-i-premier-league-utsatt"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "mQnrn0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/mQnrn0",
+        "preamble": "Fabinho reiser ikke med Liverpool til Tyskland etter at den saudiarabiske klubben Al Ittihad la et megabud på bordet.",
+        "published": {
+            "date": "lørdag 15. juli",
+            "datetime": "2023-07-15 12:48:07",
+            "niceformat": "15.07.2023, 12:48",
+            "timestamp": "2023-07-15T10:48:07.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/fcb2a7c5-7af0-467d-967f-bb73431cfc19?fit=crop&format=auto&h=267&w=400&s=59b9b5848386e617712faf48ca11f6556200ec90",
+            "width": 400
+        },
+        "title": "Fabinho utelatt fra troppen til Liverpools treningsleir",
+        "url": "https://www.vg.no/sport/fotball/i/mQnrn0/medier-fabinho-utelatt-fra-troppen-til-liverpools-treningsleir"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            },
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "2B08j4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/2B08j4",
+        "preamble": "Lørdag ettermiddag ble midtbaneesset Declan Rice (24) presentert som ny Arsenal-spiller.",
+        "published": {
+            "date": "lørdag 15. juli",
+            "datetime": "2023-07-15 09:12:35",
+            "niceformat": "15.07.2023, 09:12",
+            "timestamp": "2023-07-15T07:12:35.000Z"
+        },
+        "thumbnail": {
+            "height": 274,
+            "url": "https://akamai.vgc.no/v2/images/8e946bb5-d16d-4513-a450-8c5b95ed208c?fit=crop&format=auto&h=274&w=400&s=ff4eba812ed2437dfe530b15622fc92046196175",
+            "width": 400
+        },
+        "title": "Bekreftet: Arsenal henter Declan Rice for rekordsum",
+        "url": "https://www.vg.no/sport/fotball/i/2B08j4/bekreftet-west-ham-selger-declan-rice"
+    },
+    {
+        "authors": [
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "O823jk",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/O823jk",
+        "preamble": "Fotballfrue Maja Nilsson Lindelöf (29) får hard medfart på sosiale medier etter hennes uttalelser i «Sommar» i svenske P1. ",
+        "published": {
+            "date": "fredag 14. juli",
+            "datetime": "2023-07-14 21:44:26",
+            "niceformat": "14.07.2023, 21:44",
+            "timestamp": "2023-07-14T19:44:26.000Z"
+        },
+        "thumbnail": {
+            "height": 254,
+            "url": "https://akamai.vgc.no/v2/images/9ca5b271-d43d-4e48-9b07-21dcf7237652?fit=crop&format=auto&h=254&w=400&s=6230d73ff6e14eb7b070a7cd4ebf41714ff139de",
+            "width": 400
+        },
+        "title": "United-stjernens kone hengt ut etter radioprat: – Gjør meg deprimert",
+        "url": "https://www.vg.no/sport/fotball/i/O823jk/maja-nilsson-lindelof-og-victor-lindelof-forteller-om-bryllupet"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "8J16rE",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/8J16rE",
+        "preamble": "Ifølge britiske medier skal Harry Kane ha blitt tilbudt en ny kontrakt i Tottenham som gir han en karriere i klubben etter at han lagt opp, i tillegg til en solid lønnsøkning. Samtidig snuser Bayern München på spissen.",
+        "published": {
+            "date": "fredag 14. juli",
+            "datetime": "2023-07-14 19:05:06",
+            "niceformat": "14.07.2023, 19:05",
+            "timestamp": "2023-07-14T17:05:06.000Z"
+        },
+        "thumbnail": {
+            "height": 257,
+            "url": "https://akamai.vgc.no/v2/images/fa870234-170e-49f7-9d3e-b8ccd745a6d5?fit=crop&format=auto&h=257&w=400&s=aca8ebf2a971ed9e55971b62774836fd5f37bbe3",
+            "width": 400
+        },
+        "title": "The Telegraph: Tottenham har tilbudt Kane en ellevill kontrakt – kan tjene over fem millioner kroner i uken",
+        "url": "https://www.vg.no/sport/fotball/i/8J16rE/harry-kane-skal-ha-blitt-tilbudt-en-monsterkontrakt-av-tottenham-bayern-munchen-oensker-spissen"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "l3WznA",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/l3WznA",
+        "preamble": "Tidligere Manchester City-spiller Benjamin Mendy er frifunnet for ytterligere to tiltaler i den omfattende voldtektssaken mot ham.",
+        "published": {
+            "date": "fredag 14. juli",
+            "datetime": "2023-07-14 16:25:36",
+            "niceformat": "14.07.2023, 16:25",
+            "timestamp": "2023-07-14T14:25:36.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/1ffed04a-53ae-4351-8f33-a2354150abe2?fit=crop&format=auto&h=267&w=400&s=ee91148ebe499f7bc306411ded995cde2449113e",
+            "width": 400
+        },
+        "title": "Medier: Tidligere Manchester City-spiller Benjamin Mendy frifunnet for ytterligere tiltaler om voldtekt",
+        "url": "https://www.vg.no/sport/fotball/i/l3WznA/medier-tidligere-manchester-city-spiller-benjamin-mendy-frifunnet-for-ytterligere-tiltaler-om-voldtekt"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "RG29Wa",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/RG29Wa",
+        "preamble": "Vålerenga-kaptein Stefan Strandberg (32) er ikke med når de tar imot Molde i det som blir Geir Bakkes debut på sidelinjen.",
+        "published": {
+            "date": "fredag 14. juli",
+            "datetime": "2023-07-14 14:20:38",
+            "niceformat": "14.07.2023, 14:20",
+            "timestamp": "2023-07-14T12:20:38.000Z"
+        },
+        "thumbnail": {
+            "height": 274,
+            "url": "https://akamai.vgc.no/v2/images/3dc3200d-ff22-4262-8799-2cd7c5eff40e?fit=crop&format=auto&h=274&w=400&s=c62f5891aa02c9dcc1aa65f78fb4d8e43ab47372",
+            "width": 400
+        },
+        "title": "Strandberg mister kampen mot Molde",
+        "url": "https://www.vg.no/sport/fotball/i/RG29Wa/strandberg-mister-kampen-mot-molde"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEQWM0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEQWM0",
+        "preamble": "Den tyske seriemesteren Bayern München skal være verbalt enig med Kyle Walker (33) om en overgang.",
+        "published": {
+            "date": "fredag 14. juli",
+            "datetime": "2023-07-14 14:09:28",
+            "niceformat": "14.07.2023, 14:09",
+            "timestamp": "2023-07-14T12:09:28.000Z"
+        },
+        "thumbnail": {
+            "height": 272,
+            "url": "https://akamai.vgc.no/v2/images/60b33fa1-08ca-49c9-a7fb-d7770d4e8ee5?fit=crop&format=auto&h=272&w=400&s=57cdeb7a1fb7fc81cf62441806fddf26959c923a",
+            "width": 400
+        },
+        "title": "Sky Sports: Walker takker ja til Bayern",
+        "url": "https://www.vg.no/sport/fotball/i/gEQWM0/sky-sports-walker-takker-ja-til-bayern"
+    },
+    {
+        "authors": [
+            {
+                "email": "leif.welhaven@vg.no",
+                "id": "e46ed1bb-8354-4bd4-97d3-09ac43c5dc8f",
+                "name": "Leif Welhaven"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "nQPaz5",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/nQPaz5",
+        "preamble": "Selvsagt ble det bråk da Geir Bakke gikk fra Lillestrøm til Vålerenga. Men det må faktisk være lov til å forholde seg til kontrakten han hadde på Romerike.",
+        "published": {
+            "date": "fredag 14. juli",
+            "datetime": "2023-07-14 12:19:13",
+            "niceformat": "14.07.2023, 12:19",
+            "timestamp": "2023-07-14T10:19:13.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/0b8ceddf-6e61-4746-b2f9-67ee482d056a?fit=crop&format=auto&h=267&w=400&s=fbccadc7eb7d6d45487019ab58baff5b38d1898e",
+            "width": 400
+        },
+        "title": "Ingen skam for Bakke",
+        "url": "https://www.vg.no/sport/fotball/i/nQPaz5/ingen-skam-for-bakke"
+    }
+]

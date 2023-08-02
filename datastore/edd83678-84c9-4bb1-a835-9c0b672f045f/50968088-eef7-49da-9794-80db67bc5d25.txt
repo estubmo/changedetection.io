@@ -1,0 +1,216 @@
+[
+    {
+        "slug": "se-kamper-direkte-fra-skandia-cup",
+        "url": "/sport/fotball/i/l3amqe/se-kamper-direkte-fra-skandia-cup",
+        "title": {
+            "value": "Se kamper fra Skandia cup her"
+        },
+        "description": "Adresseavisen viser kamper fra Skandia cup gjennom hele uka.",
+        "imageUrl": "9b64b89a-4269-4613-841d-898be154867f",
+        "publishedAt": "2023-06-26T06:38:16Z",
+        "lastModifiedAt": "2023-06-29T06:38:44Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "skandia-cup",
+            "breddefotbaill",
+            "lokalfotballen"
+        ]
+    },
+    {
+        "slug": "natten-da-odin-forsvant",
+        "url": "/magasin/i/RGQwMW/natten-da-odin-forsvant",
+        "title": {
+            "value": "Odin var sammen med fem gutter rett før forsvinningen. Dette har de forklart"
+        },
+        "description": "Det er over fire år siden Odin André Hagen Jacobsen forsvant. Tilfeldigheter kan ha ført til at gåten fortsatt er uløst.",
+        "imageUrl": "aefd7783-cb8c-4864-ac27-084d2b08ca13",
+        "publishedAt": "2023-06-28T19:46:53Z",
+        "lastModifiedAt": "2023-06-28T19:46:53Z",
+        "premium": true,
+        "authors": [
+            "Alexander Killingberg",
+            "Kristoffer Furberg",
+            "Pål E. Solberg",
+            "Camilla Kilnes"
+        ],
+        "tags": [
+            "odin-saken",
+            "trondheim"
+        ]
+    },
+    {
+        "slug": "signeringsdagen",
+        "url": "/sport/fotball/i/kExL5a/signeringsdagen",
+        "title": {
+            "value": "RBKs ferskeste spiller: - Føler jeg har runda Finn"
+        },
+        "description": null,
+        "imageUrl": "08e9e68a-bdb8-46fa-b755-d01f6f3e2ecf",
+        "publishedAt": "2023-06-28T19:09:12Z",
+        "lastModifiedAt": "2023-06-28T20:05:20Z",
+        "premium": true,
+        "authors": [
+            "Ine Skjellum",
+            "Even Berthelsen"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "her-tror-jonas-andre-at-han-har-utlignet-mot-vaalerenga-saa-raknet-det",
+        "url": "/sport/fotball/i/APB1Px/her-tror-jonas-andre-at-han-har-utlignet-mot-vaalerenga-saa-raknet-det",
+        "title": {
+            "value": "- Jeg var i himmelen i et halvt sekund"
+        },
+        "description": "Stjørdals-Blink gjorde seg på ingen måte bort, men Eliteserielaget ble til slutt for sterke.",
+        "imageUrl": "e4417634-c9c2-41bb-a29c-33bdd11cfed7",
+        "publishedAt": "2023-06-28T17:52:20Z",
+        "lastModifiedAt": "2023-06-28T18:49:05Z",
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "sport",
+            "fotball",
+            "stjoerdals-blink-fotball",
+            "stjoerdals-blink",
+            "stjoerdal",
+            "cupen"
+        ]
+    },
+    {
+        "slug": "loerdag-kan-rbk-spissen-signere-for-en-annen-klubb-naa-har-en-ny-meldt-sin-interesse",
+        "url": "/sport/fotball/i/zEzKwq/loerdag-kan-rbk-spissen-signere-for-en-annen-klubb-naa-har-en-ny-meldt-sin-interesse",
+        "title": {
+            "value": "Ny klubb er interessert i Sæter"
+        },
+        "description": "Ole Sæter melder seg klar for en plass i startelleveren mot Ålesund. Før den tid kan han ha signert for en annen klubb.",
+        "imageUrl": "999b3e41-3311-407f-b14a-8c808c0e49f4",
+        "publishedAt": "2023-06-28T14:18:08Z",
+        "lastModifiedAt": "2023-06-28T14:32:40Z",
+        "premium": true,
+        "authors": [
+            "Petter Rasmus",
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "ole-saeter-2",
+            "jim-solbakken",
+            "vaalerenga-fotball",
+            "bodoe-glimt",
+            "rosenborg-bk",
+            "svein-maalen",
+            "eliteserien"
+        ]
+    },
+    {
+        "slug": "jeg-har-vaert-litt-som-et-lemen-saa-ting-gjoer-at-jeg-mister-det-litt-fortere",
+        "url": "/sport/fotball/i/rlO2Qm/jeg-har-vaert-litt-som-et-lemen-saa-ting-gjoer-at-jeg-mister-det-litt-fortere",
+        "title": {
+            "value": "– Det har vært noen tøffe døgn"
+        },
+        "description": "Markus Henriksen forteller om nedturen som trolig har avsluttet sesongen hans.",
+        "imageUrl": "ce7ea89c-b438-4fb9-b727-da2fa7bad14f",
+        "publishedAt": "2023-06-28T11:21:50Z",
+        "lastModifiedAt": "2023-06-28T13:09:56Z",
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal",
+            "Petter Rasmus"
+        ],
+        "tags": [
+            "fotball",
+            "markus-henriksen",
+            "norsk-fotball",
+            "eliteserien",
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "lanserer-ny-storsatsing-i-troendelag",
+        "url": "/sport/langrenn/i/15eJOW/lanserer-ny-storsatsing-i-troendelag",
+        "title": {
+            "value": "Lanserer ny storsatsing i Trøndelag"
+        },
+        "description": "22 løpere utgjør Trøndelags ferske regionlag for juniorløpere.",
+        "imageUrl": "0e7b5e3e-7889-4823-93bd-fafb501385b3",
+        "publishedAt": "2023-06-28T09:56:51Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "langrenn"
+        ]
+    },
+    {
+        "slug": "sikker-paa-aa-slaa-rbk-rekorden-maa-sette-opp-ekstra-tribuner",
+        "url": "/sport/fotball/i/rlOJn3/sikker-paa-aa-slaa-rbk-rekorden-maa-sette-opp-ekstra-tribuner",
+        "title": {
+            "value": "Sikker på å slå RBK-rekorden - må sette opp ekstra tribuner"
+        },
+        "description": "Blink-sjefen håper over 2000 stjørdalinger, ispedd noen østlendinger, når kampen om kvartfinaleplass blåses i gang. Men det skjer uten kapteinen.",
+        "imageUrl": "6eff67b3-90a1-407e-936b-21740e20e09e",
+        "publishedAt": "2023-06-28T06:38:24Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "stjoerdals-blink",
+            "sport",
+            "fotball",
+            "vaalerenga-fotball",
+            "nm-i-fotball"
+        ]
+    },
+    {
+        "slug": "brannvesenet-sjekket-sentral-utleiegaard-hva-de-fant-var-uakseptabelt",
+        "url": "/mn24/i/8JV8rG/brannvesenet-sjekket-sentral-utleiegaard-hva-de-fant-var-uakseptabelt",
+        "title": {
+            "value": "Brannvesenet sjekket sentral utleiegård i Trondheim. Hva de fant, var «uakseptabelt»"
+        },
+        "description": "En av bydelens beboere husker da han spylte taket sitt for å berge huset fra storbrann.",
+        "imageUrl": "c6facdf8-8f09-4b4a-804c-20767bd8cd3f",
+        "publishedAt": "2023-06-28T03:30:01Z",
+        "lastModifiedAt": "2023-06-28T03:30:01Z",
+        "premium": true,
+        "authors": [
+            "Stian Hansen, MN24"
+        ],
+        "tags": [
+            "brann",
+            "bolig",
+            "brannvesenet",
+            "moellenberg",
+            "velforening",
+            "leiligheter",
+            "sikkerhet",
+            "bakklandet",
+            "utleie"
+        ]
+    },
+    {
+        "slug": "dobbel-fra-soerdal-for-aalen",
+        "url": "/lokalfotballen/i/VPX8o1/dobbel-fra-soerdal-for-aalen",
+        "title": {
+            "value": "Dobbel fra Sørdal for Ålen"
+        },
+        "description": "Isak Evenås Sørdal ledet an med to av målene i 3-0-seieren over Strindheim 3 i 5. divisjon, Trøndelag - Avdeling 3 i fotball.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-27T19:13:22Z",
+        "lastModifiedAt": "2023-06-27T21:35:53Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

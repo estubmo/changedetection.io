@@ -1,0 +1,385 @@
+[
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "RGXGXW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/RGXGXW",
+        "preamble": "(Finland – San Marino 6–0) Daniel Håkans (22) scoret tre mål på ni minutter mot San Marino.",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 19:52:31",
+            "niceformat": "19.06.2023, 19:52",
+            "timestamp": "2023-06-19T17:52:31.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/dc34b405-4ef6-4cb2-95fb-f875214288b7?fit=crop&format=auto&h=267&w=400&s=9cc130ba4de7b59076c69759810ebe455632cab3",
+            "width": 400
+        },
+        "title": "Vålerenga-spiller scoret hat trick",
+        "url": "https://www.vg.no/sport/fotball/i/RGXGXW/vaalerenga-spiller-scoret-hat-trick"
+    },
+    {
+        "authors": [
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            },
+            {
+                "email": "mikal.emil.aaserud@schibsted.com",
+                "id": "559c9739-a4f0-4cc6-868a-cafe61a05685",
+                "name": "Mikal Emil Aaserud"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wAkAk4",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wAkAk4",
+        "preamble": "New Zealand møtte ikke opp til 2. omgang i landskampen mot Qatar mandag. ",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 19:47:09",
+            "niceformat": "19.06.2023, 19:47",
+            "timestamp": "2023-06-19T17:47:09.000Z"
+        },
+        "thumbnail": {
+            "height": 287,
+            "url": "https://akamai.vgc.no/v2/images/84beb27a-8084-4272-86ff-cb25f01f98a5?fit=crop&format=auto&h=287&w=400&s=8b9dcb6582dbe447af0f86295d194e77a942a003",
+            "width": 400
+        },
+        "title": "Avbrøt landskamp etter rasisme-anklager",
+        "url": "https://www.vg.no/sport/fotball/i/wAkAk4/avbroet-landskamp-etter-rasisme"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Xb3bzb",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Xb3bzb",
+        "preamble": "Stefan Johansen (32) og QPR er enige om en gjensidig oppsigelse av kontrakten til den norske midtbanespilleren.",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 18:16:56",
+            "niceformat": "19.06.2023, 18:16",
+            "timestamp": "2023-06-19T16:16:56.000Z"
+        },
+        "thumbnail": {
+            "height": 274,
+            "url": "https://akamai.vgc.no/v2/images/faf9b7aa-33d2-4e13-bd4b-0973af7619bb?fit=crop&format=auto&h=274&w=400&s=62415b655a47ed4d18d5969764832ed206a865da",
+            "width": 400
+        },
+        "title": "Stefan Johansen er ferdig i QPR",
+        "url": "https://www.vg.no/sport/fotball/i/Xb3bzb/stefan-johansen-er-ferdig-i-qpr"
+    },
+    {
+        "authors": [
+            {
+                "email": "camilla.vesteng@vg.no",
+                "id": "f95ac0e7-ada5-4b9f-a2ca-8d157f4a9d00",
+                "name": "Camilla Vesteng"
+            },
+            {
+                "email": "jostein.overvik@vg.no",
+                "id": "02af3c78-072d-42b3-8177-2b75e4d8a3fd",
+                "name": "Jostein Overvik"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76Jz1B",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76Jz1B",
+        "preamble": "Ingrid Syrstad Engen (25) viser sin lykke med en av verdens beste fotballspillere Maria Pilar León (28) for sine 337.000 følgere på Instagram.",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 16:58:55",
+            "niceformat": "19.06.2023, 16:58",
+            "timestamp": "2023-06-19T14:58:55.000Z"
+        },
+        "thumbnail": {
+            "height": 478,
+            "url": "https://akamai.vgc.no/v2/images/a12bf6ad-e0e2-40fc-b119-b8efc192e8c6?fit=crop&format=auto&h=478&w=400&s=c3c40caec1f58d669e3557abb6417788909e2357",
+            "width": 400
+        },
+        "title": "Lykkelig Ingrid Syrstad Engen forelsket i lagvenninne: – Elsker deg ",
+        "url": "https://www.vg.no/sport/fotball/i/76Jz1B/barcelona-spiller-ingrid-syrstad-engen-bekrefter-forhold-til-lagvenninnen-maria-pilar-leon-jeg-elsker-deg"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "3Ee4v0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/3Ee4v0",
+        "preamble": "Pep Guardiola sier han håper at Ilkay Gündogan (32) blir i Manchester City, men at han venter konkurranse fra sin tidligere klubb Barcelona.",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 15:39:44",
+            "niceformat": "19.06.2023, 15:39",
+            "timestamp": "2023-06-19T13:39:44.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/fe09adae-554f-421a-a7b2-a0f660b0e0fa?fit=crop&format=auto&h=267&w=400&s=e9b951a0c84ed5e10823cb224f21aec64f70dada",
+            "width": 400
+        },
+        "title": "Guardiola om Gündogan: – Kjemper for å beholde ham",
+        "url": "https://www.vg.no/sport/fotball/i/3Ee4v0/guardiola-om-gundogan-kjemper-for-aa-beholde-ham"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            },
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "2Bg3Oa",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/2Bg3Oa",
+        "preamble": "ULLEVAAL STADION (VG) Tidligere landslagsspiller John Carew (43) var tilstede på Ullevaal Stadion. Han har startet sin nye jobb i Norges Fotballforbund (NFF). ",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 13:50:06",
+            "niceformat": "19.06.2023, 13:50",
+            "timestamp": "2023-06-19T11:50:06.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/704f8154-45e5-405f-9f59-12b92bd9f2aa?fit=crop&format=auto&h=267&w=400&s=e895b38c5699281cd6c953d7da10fab086f5ffc6",
+            "width": 400
+        },
+        "title": "John Carew har begynt i ny jobb i NFF",
+        "url": "https://www.vg.no/sport/fotball/i/2Bg3Oa/john-carew-har-begynt-i-ny-jobb-i-nff"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "email": "hans.christian.boge-fredriksen@schibsted.com",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            },
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69e6VL",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69e6VL",
+        "preamble": "Det å holde plassen i Premier League var ikke godt nok for Bournemouth. Mandag ble Gary O'Neil sparket som manager og Andoni Iraola presentert som etterkommeren.",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 13:43:46",
+            "niceformat": "19.06.2023, 13:43",
+            "timestamp": "2023-06-19T11:43:46.000Z"
+        },
+        "thumbnail": {
+            "height": 275,
+            "url": "https://akamai.vgc.no/v2/images/0a840a1b-cfd7-498d-b1c8-d5b2d2a57615?fit=crop&format=auto&h=275&w=400&s=6b708d3d6af6042f4c418ee0a3bf8517217bddf3",
+            "width": 400
+        },
+        "title": "Andoni Iraola er ny Bournemouth-manager: – Fattigmanns Mourinho",
+        "url": "https://www.vg.no/sport/fotball/i/69e6VL/gary-o-neil-er-ferdig-i-bournemouth"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "LlX5WP",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/LlX5WP",
+        "preamble": "Brendan Rodgers er klar for en ny periode som hovedtrener for det skotske storlaget Celtic.",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 13:24:12",
+            "niceformat": "19.06.2023, 13:24",
+            "timestamp": "2023-06-19T11:24:12.000Z"
+        },
+        "thumbnail": {
+            "height": 266,
+            "url": "https://akamai.vgc.no/v2/images/685a4f34-8071-4ab7-8f5a-aceb85d274c0?fit=crop&format=auto&h=266&w=400&s=ee86d98080372caa8ab42cf5c0c7a60899b42a0a",
+            "width": 400
+        },
+        "title": "Rodgers gjør comeback i Celtic",
+        "url": "https://www.vg.no/sport/fotball/i/LlX5WP/rodgers-gjoer-comeback-i-celtic"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P4XojR",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P4XojR",
+        "preamble": "Belgia-keeper Thibaut Courtois har forlatt troppen før EM-kvalifiseringskampen mot Estland, angivelig fordi han ikke fikk være kaptein mot Østerrike i helgen.",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 13:19:32",
+            "niceformat": "19.06.2023, 13:19",
+            "timestamp": "2023-06-19T11:19:32.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/133beaac-e371-42c6-8d56-54e6a6b246bb?fit=crop&format=auto&h=267&w=400&s=aae4b6ffa924d8a9062d3a41e060f7027cb8a3a6",
+            "width": 400
+        },
+        "title": "Krangel i Belgia-troppen – Courtois forlot samlingen",
+        "url": "https://www.vg.no/sport/fotball/i/P4XojR/krangel-i-belgia-troppen-courtois-forlot-samlingen"
+    },
+    {
+        "authors": [
+            {
+                "id": "a73fdfa9-3f4a-4f57-a2ed-1120ba77cca5",
+                "name": "Kristine Bechmann Holter"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Xb36Pn",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Xb36Pn",
+        "preamble": "Landslagsstopperen er syk og reiser hjem fra samlingen med det norske herrelandslaget. ",
+        "published": {
+            "date": "mandag 19. juni",
+            "datetime": "2023-06-19 12:00:04",
+            "niceformat": "19.06.2023, 12:00",
+            "timestamp": "2023-06-19T10:00:04.000Z"
+        },
+        "thumbnail": {
+            "height": 268,
+            "url": "https://akamai.vgc.no/v2/images/24646631-d816-493a-9d67-85d728820680?fit=crop&format=auto&h=268&w=400&s=0d1b5cd4e1ce3439908b0e4600e424a5b3ea3786",
+            "width": 400
+        },
+        "title": "Hanche-Olsen reiser hjem ",
+        "url": "https://www.vg.no/sport/fotball/i/Xb36Pn/landslaget-andreas-hanche-olsen-reiser-hjem-fra-samling"
+    }
+]

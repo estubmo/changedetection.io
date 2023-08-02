@@ -1,0 +1,399 @@
+[
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76MzmK",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76MzmK",
+        "preamble": "Den norske landslagsspissen Alexander Sørloth (27) melder overgang fra RB Leipzig til Villarreal. Overgangen beskrives som «en bombe» av storavis.",
+        "published": {
+            "date": "tirsdag 25. juli",
+            "datetime": "2023-07-25 21:09:25",
+            "niceformat": "25.07.2023, 21:09",
+            "timestamp": "2023-07-25T19:09:25.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/bc39645a-10b7-4bec-ab4b-1b88c6cc062f?fit=crop&format=auto&h=267&w=400&s=5b47f19a1334b9321437ec75bbfe299d1a6abd1f",
+            "width": 400
+        },
+        "title": "Sørloth klar for Villarreal – omtales som «en bombe» i storavis",
+        "url": "https://www.vg.no/sport/fotball/i/76MzmK/soerloth-klar-for-villarreal"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P42J16",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P42J16",
+        "preamble": "(HJK Helsinki – Molde 1–0) Moldes Champions League-drøm fikk seg en støkk da de tapte for HJK Helsinki i Finland. Nå er bare seier godt nok i Molde.",
+        "published": {
+            "date": "tirsdag 25. juli",
+            "datetime": "2023-07-25 19:53:03",
+            "niceformat": "25.07.2023, 19:53",
+            "timestamp": "2023-07-25T17:53:03.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/T9rmkxPI2pNd.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Molde skuffet i Finland – tapte for HJK Helsinki",
+        "url": "https://www.vg.no/sport/fotball/i/P42J16/molde-skuffet-i-finland-tapte-for-hjk-helsinki"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jl1E8e",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jl1E8e",
+        "preamble": "TOKYO (VG) Japanske fotballsupportere møtte opp for å få servert Manchester-mat. Da matvognen åpnet seg, fikk de seg et sjokk.",
+        "published": {
+            "date": "tirsdag 25. juli",
+            "datetime": "2023-07-25 19:30:22",
+            "niceformat": "25.07.2023, 19:30",
+            "timestamp": "2023-07-25T17:30:22.000Z"
+        },
+        "thumbnail": {
+            "height": 225,
+            "url": "https://akamai.vgc.no/v2/images/ddf5e4b0-2ac7-49d0-80ef-7080b4d2286c?fit=crop&format=auto&h=225&w=400&s=48d61361f4a30cacfe1f05a87fcf1831662366e7",
+            "width": 400
+        },
+        "title": "Japanske fans tatt på sengen av Haaland-stunt: Dukket opp som servitør",
+        "url": "https://www.vg.no/sport/fotball/i/jl1E8e/erling-braut-haaland-overrasket-alle-dukket-opp-som-servitoer-i-tokyo"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            },
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgp26n",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgp26n",
+        "preamble": "NFF gjør konkrete endringer i bruken av VAR for å redusere tidsbruk.",
+        "published": {
+            "date": "tirsdag 25. juli",
+            "datetime": "2023-07-25 17:21:10",
+            "niceformat": "25.07.2023, 17:21",
+            "timestamp": "2023-07-25T15:21:10.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/27a6803b-1cbe-40c6-8172-97bcc9d28df9?fit=crop&format=auto&h=267&w=400&s=b6c70cc9fab9ff25d4c81be3400c6a787396dec0",
+            "width": 400
+        },
+        "title": "NFF bekrefter VAR-tiltak",
+        "url": "https://www.vg.no/sport/fotball/i/xgp26n/bekrefter-var-grep"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQ2gMP",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQ2gMP",
+        "preamble": "DRAMMEN (VG) Ole Sæter har blitt svært viktig for Rosenborg. Klubbfremtiden er fortsatt uviss, men det virker lite trolig at spissen blir i RBK. ",
+        "published": {
+            "date": "tirsdag 25. juli",
+            "datetime": "2023-07-25 15:39:28",
+            "niceformat": "25.07.2023, 15:39",
+            "timestamp": "2023-07-25T13:39:28.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/42c03ef1-4d88-4ef5-a68b-faf9d5fceedc?fit=crop&format=auto&h=267&w=400&s=d4f31db00c856e6e9026cdba5259c927d2362022",
+            "width": 400
+        },
+        "title": "RBK-stjernen åpner opp: – Vært overraskende vanskelig ",
+        "url": "https://www.vg.no/sport/fotball/i/EQ2gMP/rbk-stjernen-aapner-opp-vaert-overraskende-vanskelig"
+    },
+    {
+        "authors": [
+            {
+                "email": "trond.johannessen@vg.no",
+                "id": "13d85b67-6e63-41d4-a85c-65a952496c1d",
+                "name": "Trond Johannessen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "rly2Ma",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/rly2Ma",
+        "preamble": "Man trodde dramaet hadde nådd sitt maksimum da Ada Hegerberg tuslet strekkplaget i garderoben sekunder før kampstart. Det hadde knapt startet.",
+        "published": {
+            "date": "tirsdag 25. juli",
+            "datetime": "2023-07-25 15:34:18",
+            "niceformat": "25.07.2023, 15:34",
+            "timestamp": "2023-07-25T13:34:18.000Z"
+        },
+        "thumbnail": {
+            "height": 312,
+            "url": "https://akamai.vgc.no/v2/images/b04742ab-c22f-4293-be03-e87d619db296?fit=crop&format=auto&h=312&w=400&s=4dd7cd2216237e63f39c70401ac5edd8040a94a8",
+            "width": 400
+        },
+        "title": "For et helt uvirkelig drama – hva er det vi ikke vet?",
+        "url": "https://www.vg.no/sport/fotball/i/rly2Ma/for-et-helt-uvirkelig-drama-hva-skjer-naa"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "2B0zga",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/2B0zga",
+        "preamble": "Den svenske kantspilleren Anthony Elanga (21) forlater Manchester United og blir Nottingham Forest-spiller. ",
+        "published": {
+            "date": "tirsdag 25. juli",
+            "datetime": "2023-07-25 15:16:38",
+            "niceformat": "25.07.2023, 15:16",
+            "timestamp": "2023-07-25T13:16:38.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/d205ace8-fd66-4427-8b7e-d2a6f72e3b0b?fit=crop&format=auto&h=267&w=400&s=c155f83e91cfec56db31f3ace2119884ed5ca226",
+            "width": 400
+        },
+        "title": "Elanga forlater Manchester United – klar for Nottingham Forest",
+        "url": "https://www.vg.no/sport/fotball/i/2B0zga/elanga-forlater-manchester-united-klar-for-nottingham-forest"
+    },
+    {
+        "authors": [
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            },
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Q72zrW",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Q72zrW",
+        "preamble": "AUCKLAND/OSLO (VG) Caroline Graham Hansens (28) eksplosive tirade mot landslagsledelsen avdekker store gnisninger internt, ifølge flere eksperter.",
+        "published": {
+            "date": "tirsdag 25. juli",
+            "datetime": "2023-07-25 14:30:15",
+            "niceformat": "25.07.2023, 14:30",
+            "timestamp": "2023-07-25T12:30:15.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/F0O6G7EcFlKA.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Kraftige reaksjoner på Graham Hansen-tirade: – Åpenbart store konflikter",
+        "url": "https://www.vg.no/sport/fotball/i/Q72zrW/kraftige-reaksjoner-paa-graham-hansen-tirade-aapenbart-store-konflikter"
+    },
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            },
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "Kn2465",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/Kn2465",
+        "preamble": "Norsk Toppfotball er klar i sin tale på at VAR i Norge må endres. Nå krever interesseorganisasjonen for klubbene et møte med Norges Fotballforbund (NFF).",
+        "published": {
+            "date": "tirsdag 25. juli",
+            "datetime": "2023-07-25 14:05:36",
+            "niceformat": "25.07.2023, 14:05",
+            "timestamp": "2023-07-25T12:05:36.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/6e8d38be-8f03-4645-aecd-971bf51ba412?fit=crop&format=auto&h=267&w=400&s=a75866826283df156f23affc4bd62bb3909ce378",
+            "width": 400
+        },
+        "title": "NTF krever VAR-endringer: – Fungerer ikke som det skal",
+        "url": "https://www.vg.no/sport/fotball/i/Kn2465/ntf-krever-var-endringer-fungerer-ikke-som-det-skal"
+    },
+    {
+        "authors": [
+            {
+                "email": "hc@vg.no",
+                "id": "645d6d38-ac90-4570-90f1-0e8a4251bb2f",
+                "name": "Hans Christian Boge-Fredriksen"
+            },
+            {
+                "email": "magnus.helle@schibsted.com",
+                "id": "465b91ad-0c13-4b04-8be8-4dbb0cc0080a",
+                "name": "Magnus Helle"
+            },
+            {
+                "email": "synne.sofie.christiansen@schibsted.com",
+                "id": "49243b37-f8e6-42a9-a18e-fd2066dac214",
+                "name": "Synne Sofie Christiansen"
+            },
+            {
+                "email": "jens.friberg@vg.no",
+                "id": "cec10f69-4c56-4795-bd41-d6d64fe4b7d1",
+                "name": "Jens Friberg"
+            },
+            {
+                "email": "bjorn.steinar.delebekk@vg.no",
+                "id": "f796bdbc-5ad3-4595-89cf-73ce829f6367",
+                "name": "Bjørn S. Delebekk (foto)"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "9zL4yp",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/9zL4yp",
+        "preamble": "HAMILTON (VG) (Sveits – Norge 0–0) En tydelig frustrert Caroline Graham Hansen kommer med en eksplosiv tirade etter vrakingen mot Sveits. Hun føler seg tråkket på og gir Janteloven skylden.",
+        "published": {
+            "date": "tirsdag 25. juli",
+            "datetime": "2023-07-25 12:22:03",
+            "niceformat": "25.07.2023, 12:22",
+            "timestamp": "2023-07-25T10:22:03.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/52b4ab34-9edd-4f0a-97f2-2ff83fec0631?fit=crop&format=auto&h=267&w=400&s=1e34c054bc1deb1ae32dedfe57b19d8bf293af59",
+            "width": 400
+        },
+        "title": "Graham Hansen-tirade etter vrakingen: – Føler jeg har blitt tråkket på i ett år",
+        "url": "https://www.vg.no/sport/fotball/i/9zL4yp/graham-hansen-foeler-jeg-har-blitt-traakket-paa-i-aar"
+    }
+]

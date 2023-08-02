@@ -1,0 +1,358 @@
+[
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "wApLoP",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/wApLoP",
+        "preamble": "Magne Hoseth (42) har ledet Klaksvik til sin største bragd. Nå er de nærmere et europeisk gruppespill enn noen gang.",
+        "published": {
+            "date": "onsdag 26. juli",
+            "datetime": "2023-07-26 11:40:01",
+            "niceformat": "26.07.2023, 11:40",
+            "timestamp": "2023-07-26T09:40:01.000Z"
+        },
+        "thumbnail": {
+            "height": 306,
+            "url": "https://akamai.vgc.no/v2/images/25e2f07a-ebed-464b-b7ee-ad3f25cd605f?fit=crop&format=auto&h=306&w=400&s=d01b94fedf11a3875824b86bb3bd6e7ac986a356",
+            "width": 400
+        },
+        "title": "Norsk suksess i Klaksvik – kan skrive historie: – Uten sidestykke",
+        "url": "https://www.vg.no/sport/fotball/i/wApLoP/norsk-suksess-i-klaksvik-kan-skrive-historie-uten-sidestykke"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "dw0A5w",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/dw0A5w",
+        "preamble": "Spania vant komfortabelt 5-0 mot Zambia og er videre fra gruppe C i fotball-VM for kvinner. 33-åringen Jennifer Hermoso nådde en gjev milepæl i kampen.",
+        "published": {
+            "date": "onsdag 26. juli",
+            "datetime": "2023-07-26 11:36:52",
+            "niceformat": "26.07.2023, 11:36",
+            "timestamp": "2023-07-26T09:36:52.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/9493adf7-1170-461a-b2ed-cf0e275bef44?fit=crop&format=auto&h=267&w=400&s=ef8d4619fd2d98b4e9e1dcb5b94a8c1118d4a1b6",
+            "width": 400
+        },
+        "title": "Spania lekte seg videre i fotball-VM",
+        "url": "https://www.vg.no/sport/fotball/i/dw0A5w/spania-lekte-seg-videre-i-fotball-vm"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "pQE811",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/pQE811",
+        "preamble": "TOKYO (VG) Midtstopper Rúben Dias mener den vennskapelige ertingen fra kompisduoen Jack Grealish og Erling Braut Haaland er et godt eksempel på at de har det bra i Manchester City-garderoben.",
+        "published": {
+            "date": "onsdag 26. juli",
+            "datetime": "2023-07-26 09:38:26",
+            "niceformat": "26.07.2023, 09:38",
+            "timestamp": "2023-07-26T07:38:26.000Z"
+        },
+        "thumbnail": {
+            "height": 275,
+            "url": "https://akamai.vgc.no/v2/images/5eaabd14-5bda-41c5-8374-90703da4ad5e?fit=crop&format=auto&h=275&w=400&s=ed2a16fa69b88675f142a0b1c4f1d190b118e20e",
+            "width": 400
+        },
+        "title": "Lagkameraten ble ertet av Haaland: – Må akseptere å bli gjort narr av",
+        "url": "https://www.vg.no/sport/fotball/i/pQE811/lagkameraten-ble-ertet-av-haaland-maa-akseptere-aa-bli-gjort-narr-av"
+    },
+    {
+        "authors": [
+            {
+                "email": "oystein.david.johansen@vg.no",
+                "id": "93c58def-3983-4047-baa7-5c32d0bec3b8",
+                "name": "Øystein David Johansen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEQ9qJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEQ9qJ",
+        "preamble": "(Inter Miami – Atlanta 4–0) Lionel Messi fulgte opp knalldebuten for Inter Miami med to nye nettkjenninger. ",
+        "published": {
+            "date": "onsdag 26. juli",
+            "datetime": "2023-07-26 04:52:26",
+            "niceformat": "26.07.2023, 04:52",
+            "timestamp": "2023-07-26T02:52:26.000Z"
+        },
+        "thumbnail": {
+            "height": 265,
+            "url": "https://akamai.vgc.no/v2/images/8e61d234-976f-4562-aaed-f94203480ee5?fit=crop&format=auto&h=265&w=400&s=eea28c53019625ef8d9b51c8ef8c2b2b0b6b280e",
+            "width": 400
+        },
+        "title": "Messi fortsetter å herje i USA: – Drøm som går i oppfyllelse",
+        "url": "https://www.vg.no/sport/fotball/i/gEQ9qJ/messi-fortsetter-aa-herje-i-usa"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB-Reuters"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "JQ2e4m",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/JQ2e4m",
+        "preamble": "Britiske Joe Lewis er satt under tiltale i USA for å ha organisert innsidehandel. Milliardæren eier blant annet Premier League-klubben Tottenham Hotspur.",
+        "published": {
+            "date": "onsdag 26. juli",
+            "datetime": "2023-07-26 01:42:11",
+            "niceformat": "26.07.2023, 01:42",
+            "timestamp": "2023-07-25T23:42:11.000Z"
+        },
+        "title": "Tottenham-eieren tiltalt for innsidehandel",
+        "url": "https://www.vg.no/sport/fotball/i/JQ2e4m/tottenham-eieren-tiltalt-for-innsidehandel"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "76MzmK",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/76MzmK",
+        "preamble": "Den norske landslagsspissen Alexander Sørloth (27) melder overgang fra RB Leipzig til Villarreal. Overgangen beskrives som «en bombe» av storavis.",
+        "published": {
+            "date": "tirsdag 25. juli",
+            "datetime": "2023-07-25 21:09:25",
+            "niceformat": "25.07.2023, 21:09",
+            "timestamp": "2023-07-25T19:09:25.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/bc39645a-10b7-4bec-ab4b-1b88c6cc062f?fit=crop&format=auto&h=267&w=400&s=5b47f19a1334b9321437ec75bbfe299d1a6abd1f",
+            "width": 400
+        },
+        "title": "Sørloth klar for Villarreal – omtales som «en bombe» i storavis",
+        "url": "https://www.vg.no/sport/fotball/i/76MzmK/soerloth-klar-for-villarreal"
+    },
+    {
+        "authors": [
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "P42J16",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/P42J16",
+        "preamble": "(HJK Helsinki – Molde 1–0) Moldes Champions League-drøm fikk seg en støkk da de tapte for HJK Helsinki i Finland. Nå er bare seier godt nok i Molde.",
+        "published": {
+            "date": "tirsdag 25. juli",
+            "datetime": "2023-07-25 19:53:03",
+            "niceformat": "25.07.2023, 19:53",
+            "timestamp": "2023-07-25T17:53:03.000Z"
+        },
+        "thumbnail": {
+            "height": 213,
+            "url": "https://imbo.vgtv.no/users/vgtv/images/T9rmkxPI2pNd.jpg?t%5B%5D=380q80",
+            "width": 380
+        },
+        "title": "Molde skuffet i Finland – tapte for HJK Helsinki",
+        "url": "https://www.vg.no/sport/fotball/i/P42J16/molde-skuffet-i-finland-tapte-for-hjk-helsinki"
+    },
+    {
+        "authors": [
+            {
+                "email": "mats.arntzen@vg.no",
+                "id": "e5b4655b-3f0a-4f92-8235-65a437e3d8cd",
+                "name": "Mats Arntzen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jl1E8e",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jl1E8e",
+        "preamble": "TOKYO (VG) Japanske fotballsupportere møtte opp for å få servert Manchester-mat. Da matvognen åpnet seg, fikk de seg et sjokk.",
+        "published": {
+            "date": "tirsdag 25. juli",
+            "datetime": "2023-07-25 19:30:22",
+            "niceformat": "25.07.2023, 19:30",
+            "timestamp": "2023-07-25T17:30:22.000Z"
+        },
+        "thumbnail": {
+            "height": 225,
+            "url": "https://akamai.vgc.no/v2/images/ddf5e4b0-2ac7-49d0-80ef-7080b4d2286c?fit=crop&format=auto&h=225&w=400&s=48d61361f4a30cacfe1f05a87fcf1831662366e7",
+            "width": 400
+        },
+        "title": "Japanske fans tatt på sengen av Haaland-stunt: Dukket opp som servitør",
+        "url": "https://www.vg.no/sport/fotball/i/jl1E8e/erling-braut-haaland-overrasket-alle-dukket-opp-som-servitoer-i-tokyo"
+    },
+    {
+        "authors": [
+            {
+                "email": "andreas.jorgensen@schibsted.com",
+                "id": "e55adc28-bb52-4761-9ae2-c16a6905ec70",
+                "name": "Andreas Jørgensen"
+            },
+            {
+                "email": "hakon.brandsnes@schibsted.com",
+                "id": "5deb2576-b5d5-49ea-b3a4-677f0e163efb",
+                "name": "Håkon Brandsnes"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgp26n",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgp26n",
+        "preamble": "NFF gjør konkrete endringer i bruken av VAR for å redusere tidsbruk.",
+        "published": {
+            "date": "tirsdag 25. juli",
+            "datetime": "2023-07-25 17:21:10",
+            "niceformat": "25.07.2023, 17:21",
+            "timestamp": "2023-07-25T15:21:10.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/27a6803b-1cbe-40c6-8172-97bcc9d28df9?fit=crop&format=auto&h=267&w=400&s=b6c70cc9fab9ff25d4c81be3400c6a787396dec0",
+            "width": 400
+        },
+        "title": "NFF bekrefter VAR-tiltak",
+        "url": "https://www.vg.no/sport/fotball/i/xgp26n/bekrefter-var-grep"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "EQ2gMP",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/EQ2gMP",
+        "preamble": "DRAMMEN (VG) Ole Sæter har blitt svært viktig for Rosenborg. Klubbfremtiden er fortsatt uviss, men det virker lite trolig at spissen blir i RBK. ",
+        "published": {
+            "date": "tirsdag 25. juli",
+            "datetime": "2023-07-25 15:39:28",
+            "niceformat": "25.07.2023, 15:39",
+            "timestamp": "2023-07-25T13:39:28.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/42c03ef1-4d88-4ef5-a68b-faf9d5fceedc?fit=crop&format=auto&h=267&w=400&s=d4f31db00c856e6e9026cdba5259c927d2362022",
+            "width": 400
+        },
+        "title": "RBK-stjernen åpner opp: – Vært overraskende vanskelig ",
+        "url": "https://www.vg.no/sport/fotball/i/EQ2gMP/rbk-stjernen-aapner-opp-vaert-overraskende-vanskelig"
+    }
+]

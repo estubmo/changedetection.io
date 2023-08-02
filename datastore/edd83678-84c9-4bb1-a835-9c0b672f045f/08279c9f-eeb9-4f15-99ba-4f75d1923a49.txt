@@ -1,0 +1,196 @@
+[
+    {
+        "slug": "preget-rbk-kaptein-det-eneste-budskapet-jeg-har-naa",
+        "url": "/sport/fotball/i/wA0M4o/preget-rbk-kaptein-det-eneste-budskapet-jeg-har-naa",
+        "title": {
+            "value": "Preget RBK-kaptein: – Det eneste budskapet jeg har nå "
+        },
+        "description": "Markus Henriksen hadde en tydelig beskjed til RBK-fansen etter tapet mot Brann.",
+        "imageUrl": "3bd16148-0835-481f-bef5-50380faebec7",
+        "publishedAt": "2023-05-04T08:11:57Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Steffen Stenersen"
+        ],
+        "tags": [
+            "rosenborg-bk"
+        ]
+    },
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/3EXLMM/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene i dag, torsdag 4. mai",
+        "imageUrl": "084048d8-c182-409d-8bb5-86291f87ec4c",
+        "publishedAt": "2023-05-04T04:01:30Z",
+        "lastModifiedAt": "2023-05-04T04:01:30Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "levanger-ordnet-poeng",
+        "url": "/lokalfotballen/i/rlG06R/levanger-ordnet-poeng",
+        "title": {
+            "value": "Levanger ordnet uavgjort"
+        },
+        "description": "Levanger gikk fra 0-2 til 2-2 mot Ranheim",
+        "imageUrl": null,
+        "publishedAt": "2023-05-03T21:15:52Z",
+        "lastModifiedAt": "2023-05-03T21:20:00Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "knusende-seier-for-steinkjer-2",
+        "url": "/lokalfotballen/i/RGlPdO/knusende-seier-for-steinkjer-2",
+        "title": {
+            "value": "Steinkjer 2 ydmyket Grong"
+        },
+        "description": "Paloma Rosa Grøndal sto fram med tre scoringer da Steinkjer 2 vant 7-0 over Grong i 4. divisjon, Trøndelag - Avdeling 1 i fotball for kvinner onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-03T20:31:15Z",
+        "lastModifiedAt": "2023-05-03T21:47:20Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "bratli-ble-tomaalshelt",
+        "url": "/lokalfotballen/i/EQLdAa/bratli-ble-tomaalshelt",
+        "title": {
+            "value": "Vuku knuste Hegra/Skjelstadmark"
+        },
+        "description": "Vuku banket Hegra/Skjelstadmark 6-1 i 4. divisjon, Trøndelag - Avdeling 1 i fotball onsdag. Anna Bratli scoret to mål. Det var sesongens første seier for Vuku.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-03T20:30:06Z",
+        "lastModifiedAt": "2023-05-03T20:55:06Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-stjordalsnytt",
+            "lokalfotballen-bladet",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "faeroe-avgjorde-for-sverresborg",
+        "url": "/lokalfotballen/i/vezvK4/faeroe-avgjorde-for-sverresborg",
+        "title": {
+            "value": "Ny seier for Sverresborg"
+        },
+        "description": "Tuva Bjørkedal Færø scoret seiersmålet for Sverresborg i 3-2-seieren over Vestbyen 2 på Hammersborg kunstgress i 4. divisjon, Trøndelag - Avdeling 3 i fotball for kvinner onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-03T20:28:54Z",
+        "lastModifiedAt": "2023-05-03T20:55:07Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "hjemmeseier-for-gauldal-over-ranheim-3",
+        "url": "/lokalfotballen/i/eJy2oa/hjemmeseier-for-gauldal-over-ranheim-3",
+        "title": {
+            "value": "Gauldal seiret hjemme mot Ranheim 3"
+        },
+        "description": "Gauldal slo Ranheim 3 2-1 på Melhusbanken Arena Flå i G16 3. divisjon, Avdeling 3 - Vår onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-03T20:22:32Z",
+        "lastModifiedAt": "2023-05-03T21:18:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "dobbel-lykke-da-kattem-vant",
+        "url": "/lokalfotballen/i/rlG0yw/dobbel-lykke-da-kattem-vant",
+        "title": {
+            "value": "Dobbel lykke i Kattem-seier"
+        },
+        "description": "Kattem slo Charlottenlund 3-0 og tok sin første trepoenger i årets sesong. I G19 Elite, Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-03T20:05:17Z",
+        "lastModifiedAt": "2023-05-03T20:17:05Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "hattrick-show-fra-strindheim-2",
+        "url": "/lokalfotballen/i/abyXpL/hattrick-show-fra-strindheim-2",
+        "title": {
+            "value": "Hattrick-show fra Strindheim 2"
+        },
+        "description": "Emma Lorena Bidtnes sto fram med tre mål da Strindheim 2 vant 5-1 over Nidelv i 4. divisjon, Trøndelag - Avdeling 2 i fotball for kvinner onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-05-03T19:32:30Z",
+        "lastModifiedAt": "2023-05-03T22:45:49Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "vi-trenger-ny-skole-og-det-maa-vedtas-naa",
+        "url": "/nyheter/trondheim/i/MopQJM/vi-trenger-ny-skole-og-det-maa-vedtas-naa",
+        "title": {
+            "value": "Foreldre advarer: - Det skal klemmes inn enda flere"
+        },
+        "description": "– Så får vi leve med paviljonger til ungdomsskolen med 600 plasser står klar på smelteverkstomta, sier foreldrene.",
+        "imageUrl": "0fbe911f-8529-4e0f-8d98-3375919aa959",
+        "publishedAt": "2023-05-03T19:11:57Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Norunn Bergesen"
+        ],
+        "tags": [
+            "skole",
+            "skole-og-utdanning",
+            "trondheim",
+            "rosenborg",
+            "svein-johny-forren",
+            "rektor-2",
+            "utdanningsforbundet",
+            "budsjett",
+            "trondheim-kommune",
+            "undervisning",
+            "boligbygging"
+        ]
+    }
+]

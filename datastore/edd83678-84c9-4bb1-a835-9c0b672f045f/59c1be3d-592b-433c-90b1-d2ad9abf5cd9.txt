@@ -1,0 +1,192 @@
+[
+    {
+        "slug": "glimt-laget-i-helgens-runde-var-yngre-enn-rosenborgs",
+        "url": "/sport/fotball/i/zEeyav/glimt-laget-i-helgens-runde-var-yngre-enn-rosenborgs",
+        "title": {
+            "value": "Glimt-laget i helgens runde var yngre enn Rosenborgs"
+        },
+        "description": "Tre av RBK-spillerne som startet mot Stabæk er under 24 år.",
+        "imageUrl": "f47ee465-ac75-46a2-abcd-74f0cd550b2b",
+        "publishedAt": "2023-06-12T16:49:31Z",
+        "lastModifiedAt": "2023-06-12T16:49:31Z",
+        "premium": true,
+        "authors": [
+            "Christian Skare Stendal"
+        ],
+        "tags": [
+            "jonas-groenner",
+            "michael-karlsen",
+            "kjetil-rekdal",
+            "fotball",
+            "eliteserien",
+            "rosenborg-bk",
+            "norsk-fotball"
+        ]
+    },
+    {
+        "slug": "ajers-klubb-signerte-tysk-spiss-satte-overgangsrekord",
+        "url": "/nyheter/innenriks/i/eJ0okQ/ajers-klubb-signerte-tysk-spiss-satte-overgangsrekord",
+        "title": {
+            "value": "Ajers klubb signerte tysk spiss – satte overgangsrekord"
+        },
+        "description": "Angriperen Kevin Schade er klar for Brentford. Han blir Premier League-klubbens dyreste kjøp noen gang.",
+        "imageUrl": "4e24a429-cdd7-4768-bd6a-b4a1a9f71951",
+        "publishedAt": "2023-06-12T14:24:53Z",
+        "lastModifiedAt": "2023-06-12T14:25:48Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "rbk-faar-enklere-vei-inn-i-europa",
+        "url": "/sport/fotball/i/kE1zE9/rbk-faar-enklere-vei-inn-i-europa",
+        "title": {
+            "value": "RBK får enklere vei inn i Europa"
+        },
+        "description": "Trønderne slipper å møte de antatt beste lagene i den tredje kvalik-runden i Conference League.",
+        "imageUrl": "edcb57ce-869c-41e1-9ffb-ebedeaef1856",
+        "publishedAt": "2023-06-12T13:48:05Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "europa-conference-league"
+        ]
+    },
+    {
+        "slug": "han-har-fulgt-laget-tett-i-ni-aar-alle-elsker-lasse",
+        "url": "/sport/i/wA5Vvo/han-har-fulgt-laget-tett-i-ni-aar-alle-elsker-lasse",
+        "title": {
+            "value": "Han har fulgt laget tett i ni år: - Alle elsker Lasse "
+        },
+        "description": "Da Kolstad feiret sesongens tredje gull, var supporter Lasse Johansen forsanger i garderoben.",
+        "imageUrl": "9b8749ad-6f70-4288-9529-f80aaca512f3",
+        "publishedAt": "2023-06-12T11:35:16Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Anne-Marit Dahl"
+        ],
+        "tags": [
+            "haandball",
+            "kolstad-haandball",
+            "torbjoern-bergerud"
+        ]
+    },
+    {
+        "slug": "det-ligger-papir-spredd-over-hele-verandaen",
+        "url": "/nyheter/trondheim/i/y6yrXR/det-ligger-papir-spredd-over-hele-verandaen",
+        "title": {
+            "value": "– Det ligger papir spredd over hele verandaen"
+        },
+        "description": "Brannen ved papirfabrikken fikk det til å regne hvitt over et store områder i Trondheim.",
+        "imageUrl": "55033de4-c6ff-4353-a8e2-2125646e1e0f",
+        "publishedAt": "2023-06-12T11:00:01Z",
+        "lastModifiedAt": "2023-06-12T11:00:26Z",
+        "premium": true,
+        "authors": [
+            "Marit Ytterland Nygård",
+            "Kristoffer Furberg"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "kontroll-paa-brann-ved-papirfabrikk-i-trondheim",
+        "url": "/nyheter/innenriks/i/nQnKBx/kontroll-paa-brann-ved-papirfabrikk-i-trondheim",
+        "title": {
+            "value": "Kontroll på brann ved papirfabrikk i Trondheim"
+        },
+        "description": "Mandag formiddag begynte det å brenne i en papirfabrikk på Ranheim i Trondheim. Brannvesenet har nå fått kontroll på brannen.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T10:21:18Z",
+        "lastModifiedAt": "2023-06-12T10:21:18Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "melding-om-brann-fra-papirfabrikk",
+        "url": "/nyheter/trondheim/i/Lldgy4/melding-om-brann-fra-papirfabrikk",
+        "title": {
+            "value": "- Papiret må rives opp og dras utover"
+        },
+        "description": "Verdier for opptil én million kroner kan gå tapt.",
+        "imageUrl": "0a081d14-34c7-43db-b248-b9ebd3f59c83",
+        "publishedAt": "2023-06-12T08:26:03Z",
+        "lastModifiedAt": "2023-06-12T13:11:26Z",
+        "premium": true,
+        "authors": [
+            "Martin Haugland Andersen",
+            "Marit Ytterland Nygård",
+            "Alexander Killingberg",
+            "Kristoffer Furberg"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "to-fulltreffere-fra-bjordal",
+        "url": "/lokalfotballen/i/69dgJ3/to-fulltreffere-fra-bjordal",
+        "title": {
+            "value": "To fulltreffere fra Bjordal"
+        },
+        "description": "Nardo 2 gikk på sitt sjette tap på rad da laget tapte 3-4 for Strindheim 2 i 4. divisjon, Trøndelag - Avdeling 2 i fotball for menn søndag. Magnus Greiff Bjordal scoret to mål.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-12T07:27:34Z",
+        "lastModifiedAt": "2023-06-12T07:27:34Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "nysigneringen-om-starten-det-gikk-ikke-som-jeg-ville",
+        "url": "/sport/fotball/i/76JMg8/nysigneringen-om-starten-det-gikk-ikke-som-jeg-ville",
+        "title": {
+            "value": "- Jeg vil spille mest mulig. Men Rekdal vet hva som er best"
+        },
+        "description": "Agon Sadiku snakker om de første månedene som RBK-spiller. Og er sikker på at det snart vil løsne.",
+        "imageUrl": "bdecf8fb-ef3f-4ff8-a37c-9627a928af98",
+        "publishedAt": "2023-06-12T06:02:05Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "sport",
+            "eliteserien",
+            "kjetil-rekdal",
+            "agon-sadiku"
+        ]
+    },
+    {
+        "slug": "maalshow-fra-johansen",
+        "url": "/lokalfotballen/i/RGQ2Jx/maalshow-fra-johansen",
+        "title": {
+            "value": "Johansen med målshow"
+        },
+        "description": "Kaja Sofie Johansen viste scoringsform da Tiller 2 vant 4-3 over Ranheim i 3. divisjon, Trøndelag søndag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-11T20:49:19Z",
+        "lastModifiedAt": "2023-06-11T22:28:19Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

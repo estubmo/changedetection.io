@@ -1,0 +1,195 @@
+[
+    {
+        "slug": "umusikalsk-uklokt-og-pinlig",
+        "url": "/sport/i/jlMkyb/umusikalsk-uklokt-og-pinlig",
+        "title": {
+            "value": "Det var voldsomme ord, langt over streken"
+        },
+        "description": "KOMMENTAR: Mens Fotball-Norge retter et viktig fokus mot dommerhets og rekrutteringssvikt, fortsetter Ranheim-sjefen sitt angrep mot kampledere. Forstå det den som kan.",
+        "imageUrl": "87835cef-d301-4833-b3e2-5039731b5433",
+        "publishedAt": "2023-06-08T09:11:43Z",
+        "lastModifiedAt": "2023-06-08T09:11:43Z",
+        "premium": true,
+        "authors": [
+            "Birger Løfaldli"
+        ],
+        "tags": [
+            "frank-lidahl",
+            "rohit-saggi",
+            "lise-klaveness",
+            "ranheim-tf"
+        ]
+    },
+    {
+        "slug": "slik-er-de-ulike-rbk-supporterne-klubben-er-noedt-til-aa-forholde-seg-til-dem",
+        "url": "/sport/fotball/i/Knk8d7/slik-er-de-ulike-rbk-supporterne-klubben-er-noedt-til-aa-forholde-seg-til-dem",
+        "title": {
+            "value": "– Dette er de mest dedikerte og utagerende"
+        },
+        "description": "De protesterer, ber om treneravgang og gir RBK-styret det glatte lag. På Øvre Øst er røsten som krever å bli hørt.",
+        "imageUrl": "1d7a3043-c983-47c9-8686-12af9f7c2c71",
+        "publishedAt": "2023-06-08T08:15:44Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "kjernen",
+            "arve-hjelseth",
+            "bjoern-skar"
+        ]
+    },
+    {
+        "slug": "ranheim-mistet-seieren-paa-tampen",
+        "url": "/lokalfotballen/i/76JBnW/ranheim-mistet-seieren-paa-tampen",
+        "title": {
+            "value": "Seieren glapp for Ranheim"
+        },
+        "description": "Ranheim var på vei mot seier, men måtte nøye seg med 1-1 mot Strindheim i G19 Elite, Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-07T21:26:18Z",
+        "lastModifiedAt": "2023-06-07T22:55:28Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "blink-trakk-eliteseriemotstand-i-cupen",
+        "url": "/sport/fotball/i/JQGvK8/blink-trakk-eliteseriemotstand-i-cupen",
+        "title": {
+            "value": "Blink trakk eliteserie­motstand i cupen"
+        },
+        "description": "Vålerenga skal ta turen til Stjørdal for å møte Blink.",
+        "imageUrl": "bd0d1546-9379-477f-8911-ca0a013db25c",
+        "publishedAt": "2023-06-07T21:24:06Z",
+        "lastModifiedAt": "2023-06-08T08:10:09Z",
+        "premium": false,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "fotball",
+            "sport",
+            "stjoerdals-blink",
+            "stjoerdal"
+        ]
+    },
+    {
+        "slug": "oppdal-slo-melhus-gimse-gauldal-i-maalfest",
+        "url": "/lokalfotballen/i/l3L96y/oppdal-slo-melhus-gimse-gauldal-i-maalfest",
+        "title": {
+            "value": "Oppdal seiret i målfest"
+        },
+        "description": "Oppdal har tatt poeng i seks strake kamper etter dagens 8-1-seier i J15 2. divisjon, Avdeling 4 - Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-07T20:33:24Z",
+        "lastModifiedAt": "2023-06-07T21:27:32Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-opp",
+            "lokalfotballen-tronderbladet"
+        ]
+    },
+    {
+        "slug": "charlottenlund-ordnet-poeng",
+        "url": "/lokalfotballen/i/gEKpbA/charlottenlund-ordnet-poeng",
+        "title": {
+            "value": "Charlottenlund ordnet uavgjort"
+        },
+        "description": "Charlottenlund og Vestbyen/Nationalkameratene/Sverresborg spilte 1-1 på CSK Varmbo Arena i G19 Elite, Vår.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-07T20:33:22Z",
+        "lastModifiedAt": "2023-06-07T20:59:49Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "poengdeling-mellom-kvik-og-ntnui",
+        "url": "/lokalfotballen/i/rl3mw3/poengdeling-mellom-kvik-og-ntnui",
+        "title": {
+            "value": "NTNUI spilte uavgjort"
+        },
+        "description": "David Melkvik og Magnus Austbø Seth scoret hvert sitt mål da Kvik og NTNUI delte poengene på Rosenborgbanen i 4. divisjon, Trøndelag - Avdeling 2 i fotball onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-07T20:23:10Z",
+        "lastModifiedAt": "2023-06-07T20:25:19Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "rindal-tok-sin-femte-strake-seier",
+        "url": "/lokalfotballen/i/3E7Rne/rindal-tok-sin-femte-strake-seier",
+        "title": {
+            "value": "Rindal fortsatte seiersrekken"
+        },
+        "description": "Daniel Hagen Eide ledet an med tre av målene i 5-0-seieren over Vestbyen i 5. divisjon, Trøndelag - Avdeling 2 i fotball onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-07T20:08:54Z",
+        "lastModifiedAt": "2023-06-07T21:25:18Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "maalshow-fra-granhus",
+        "url": "/lokalfotballen/i/69dlE8/maalshow-fra-granhus",
+        "title": {
+            "value": "Målshow fra Granhus"
+        },
+        "description": "Rørvik gikk på sitt sjette strake tap da klubben tapte 1-3 for Steinkjer 2 i 4. divisjon, Trøndelag - Avdeling 1 i fotball for kvinner onsdag. Silje Granhus scoret hattrick.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-07T20:08:53Z",
+        "lastModifiedAt": "2023-06-07T20:59:49Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "tollhaug-avgjorde-for-ntnui-2",
+        "url": "/lokalfotballen/i/RGQoVa/tollhaug-avgjorde-for-ntnui-2",
+        "title": {
+            "value": "Tollhaug sikret tre poeng for NTNUI 2"
+        },
+        "description": "Nidelv gikk på sitt tredje strake tap da klubben røk 2-3 for NTNUI 2 i 4. divisjon, Trøndelag - Avdeling 2 i fotball for kvinner onsdag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-07T20:08:53Z",
+        "lastModifiedAt": "2023-06-07T20:31:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    }
+]

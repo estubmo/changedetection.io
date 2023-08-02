@@ -1,0 +1,360 @@
+[
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "KnRnzG",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/KnRnzG",
+        "preamble": "Samme dag som kontrakten til Thomas Drage (31) gikk ut med Fredrikstad, melder mannen fra Mosjøen overgang til Europa Point FC. ",
+        "published": {
+            "date": "tirsdag 1. august",
+            "datetime": "2023-08-01 18:14:05",
+            "niceformat": "01.08.2023, 18:14",
+            "timestamp": "2023-08-01T16:14:05.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/65c23edd-8c39-4655-9ee5-9e4a919676bd?fit=crop&format=auto&h=267&w=400&s=913fa7e28b63bd9a03d5f8e3ee1a77101623c955",
+            "width": 400
+        },
+        "title": "Thomas Drage melder overgang til Gibraltar",
+        "url": "https://www.vg.no/sport/fotball/i/KnRnzG/silly-season-thomas-drage-har-signert-for-europa-point-fc-fra-gibraltar"
+    },
+    {
+        "authors": [
+            {
+                "id": "596b5198-4b17-48a8-990f-36e9f166fd46",
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "gEO6bJ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/gEO6bJ",
+        "preamble": "(Kina – England 1–6, Haiti – Danmark 0–2) Lauren James var involvert i fem mål da England knuste Kina i fotball-VM. Dermed vant de gruppe D, og får med seg Danmark videre i mesterskapet.",
+        "published": {
+            "date": "tirsdag 1. august",
+            "datetime": "2023-08-01 16:16:46",
+            "niceformat": "01.08.2023, 16:16",
+            "timestamp": "2023-08-01T14:16:46.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/65bf81c6-2c18-4808-bd9c-332b33e1bb1f?fit=crop&format=auto&h=267&w=400&s=19acf08fcf9d58f1ddb90853f06a8cd0dcfd4466",
+            "width": 400
+        },
+        "title": "James strålte i engelsk målfest – Danmark med videre fra VM-gruppen",
+        "url": "https://www.vg.no/sport/fotball/i/gEO6bJ/james-straalte-i-engelsk-maalfest-danmark-med-videre-fra-vm-gruppen"
+    },
+    {
+        "authors": [
+            {
+                "email": "fredrik.schjesvold@schibsted.com",
+                "id": "4c732be8-b485-4343-9a23-48a29f19c76c",
+                "name": "Fredrik Schjesvold"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "69v1l0",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/69v1l0",
+        "preamble": "ROMERIKE (VG) Han hadde sin verste opplevelse på en fotballbane. Da forlot laget hans banen, og kretsen svarte med å gi dem en bot på 2500 kroner. ",
+        "published": {
+            "date": "tirsdag 1. august",
+            "datetime": "2023-08-01 13:00:08",
+            "niceformat": "01.08.2023, 13:00",
+            "timestamp": "2023-08-01T11:00:08.000Z"
+        },
+        "thumbnail": {
+            "height": 262,
+            "url": "https://akamai.vgc.no/v2/images/e18f61a2-aa95-4191-96c1-e9f759b158a6?fit=crop&format=auto&h=262&w=400&s=df1d1b8ddb61571b97b6580ff6612071c7a7506c",
+            "width": 400
+        },
+        "title": "15-åring ble kalt n-ordet: Laget fikk bot da de forlot banen",
+        "url": "https://www.vg.no/sport/fotball/i/69v1l0/fotball-15-aaring-utsatt-for-rasisme-laget-fikk-bot"
+    },
+    {
+        "authors": [
+            {
+                "email": "mattis.holt@vg.no",
+                "id": "783ec02a-650f-49b8-8655-cd3e1ad5f4fa",
+                "name": "Mattis Holt"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "ve15Qj",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/ve15Qj",
+        "preamble": "Kylian Mbappé (24) har hatt minst 450 millioner grunner til å ikke dra fra PSG før 1. august. Han hadde nemlig en lukrativ «lojalitetsklausul» i kontrakten, ifølge flere medier.",
+        "published": {
+            "date": "tirsdag 1. august",
+            "datetime": "2023-08-01 12:17:39",
+            "niceformat": "01.08.2023, 12:17",
+            "timestamp": "2023-08-01T10:17:39.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/85a9e91d-7003-4c87-aed9-323c1b55ac5e?fit=crop&format=auto&h=267&w=400&s=eecd1e223e5826641edbd8e4c85104177c720be8",
+            "width": 400
+        },
+        "title": "Kylian Mbappé: Får minst 450 millioner kroner i «lojalitetsbonus»",
+        "url": "https://www.vg.no/sport/fotball/i/ve15Qj/kylian-mbappe-faar-minst-450-millioner-i-lojalitetsbonus"
+    },
+    {
+        "authors": [
+            {
+                "id": "dc1b97f5-471a-45e9-9186-a4adc04ba6bf",
+                "name": "Steffen Stenersen"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "BWBjWQ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/BWBjWQ",
+        "preamble": "Ruben Kristiansen har forlenget sin kontrakt med Brann til 2024. ",
+        "published": {
+            "date": "tirsdag 1. august",
+            "datetime": "2023-08-01 12:06:31",
+            "niceformat": "01.08.2023, 12:06",
+            "timestamp": "2023-08-01T10:06:31.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/25fdca7f-9b80-49cc-a456-000ee49022c8?fit=crop&format=auto&h=267&w=400&s=4df78eeb51712db18e21c7e2ac50ad649d68b9a4",
+            "width": 400
+        },
+        "title": "Nøkkelspiller forlenger med Brann",
+        "url": "https://www.vg.no/sport/fotball/i/BWBjWQ/noekkelspiller-forlenger-med-brann"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "4ogzy9",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/4ogzy9",
+        "preamble": "(Portugal – USA 0–0, Vietnam – Nederland 0–7) Stolpen reddet USA, som slet seg videre fra gruppespillet. Nederland derimot tok VMs hittil største seier mot Vietnam.",
+        "published": {
+            "date": "tirsdag 1. august",
+            "datetime": "2023-08-01 10:57:57",
+            "niceformat": "01.08.2023, 10:57",
+            "timestamp": "2023-08-01T08:57:57.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/37cd3576-e40e-4c04-ada5-bb158cc68157?fit=crop&format=auto&h=267&w=400&s=e4ec8fcf1eb52793b08d460f55aacaa121343a2d",
+            "width": 400
+        },
+        "title": "USA haltet seg videre – Nederland knuste Vietnam",
+        "url": "https://www.vg.no/sport/fotball/i/4ogzy9/usa-og-nederland-videre-i-fotball-vm"
+    },
+    {
+        "authors": [
+            {
+                "email": "christian.dehlie.lokoy@schibsted.com",
+                "id": "524bf4d6-f701-4af5-a50f-392b4490c638",
+                "name": "Christian Dehlie Lokøy"
+            },
+            {
+                "email": "mattis.holt@vg.no",
+                "id": "783ec02a-650f-49b8-8655-cd3e1ad5f4fa",
+                "name": "Mattis Holt"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "kEG3jQ",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/kEG3jQ",
+        "preamble": "Morten Thorsby vender tilbake til Italia og Genoa kun ett år etter at han dro til Tyskland.",
+        "published": {
+            "date": "tirsdag 1. august",
+            "datetime": "2023-08-01 10:05:08",
+            "niceformat": "01.08.2023, 10:05",
+            "timestamp": "2023-08-01T08:05:08.000Z"
+        },
+        "thumbnail": {
+            "height": 225,
+            "url": "https://akamai.vgc.no/v2/images/03267369-26e0-4437-8bd6-21fbc2b48f04?fit=crop&format=auto&h=225&w=400&s=1e2b7d257ec06d550d2aae14b01b41fe94e49a1a",
+            "width": 400
+        },
+        "title": "Bekreftet: Morten Thorsby drar tilbake til Italia",
+        "url": "https://www.vg.no/sport/fotball/i/kEG3jQ/morten-thorsby-frar-fra-union-berling-til-genoa"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "xgW40Q",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/xgW40Q",
+        "preamble": "Kraftspissen Edinson Cavani (36) har skrevet under for argentinske Boca Juniors.",
+        "published": {
+            "date": "tirsdag 1. august",
+            "datetime": "2023-08-01 09:53:47",
+            "niceformat": "01.08.2023, 09:53",
+            "timestamp": "2023-08-01T07:53:47.000Z"
+        },
+        "thumbnail": {
+            "height": 271,
+            "url": "https://akamai.vgc.no/v2/images/1a6b4cb2-0197-4314-82ec-554e60b7acc8?fit=crop&format=auto&h=271&w=400&s=aa882edec5e05afbf488dcfebc96550203df7d04",
+            "width": 400
+        },
+        "title": "Cavani presentert som Boca Juniors-spiller",
+        "url": "https://www.vg.no/sport/fotball/i/xgW40Q/edinson-cavani-klar-for-boca-juniors"
+    },
+    {
+        "authors": [
+            {
+                "name": "NTB-DPA"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "WRBq3G",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/WRBq3G",
+        "preamble": "Overgangsaktiviteten blant saudiarabiske fotballklubber tiltar i styrke. Borussia Dortmunds sportsdirektør Sebastian Kehl liker ikke utviklingen.",
+        "published": {
+            "date": "tirsdag 1. august",
+            "datetime": "2023-08-01 08:31:15",
+            "niceformat": "01.08.2023, 08:31",
+            "timestamp": "2023-08-01T06:31:15.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/c14c91be-9fcb-412f-850e-fe9b797fa29d?fit=crop&format=auto&h=267&w=400&s=079452d3bf0286a9187e05be63dd549e694d7f0e",
+            "width": 400
+        },
+        "title": "Dortmund-topp advarer mot spillerstrøm til Saudi-Arabia: – Vil gjøre stor skade",
+        "url": "https://www.vg.no/sport/fotball/i/WRBq3G/dortmund-topp-sebastian-kehl-advarer-mot-spillerstroemmen-til-saudi-arabia"
+    },
+    {
+        "authors": [
+            {
+                "id": "ced2873c-6188-4c92-9e92-76ca60ac67cf",
+                "name": "Lisa Amdam Tetlie"
+            }
+        ],
+        "categories": [
+            {
+                "id": "2f4b47f2-26bd-4a57-a09a-52ef6ec96a41",
+                "name": "Fotball"
+            },
+            {
+                "id": "bd063f91-6bff-4fa1-84c2-a19a66b64d5f",
+                "name": "Sport"
+            }
+        ],
+        "id": "jl7B7n",
+        "mainCategory": "Sport",
+        "persistentUrl": "https://www.vg.no/i/jl7B7n",
+        "preamble": "Manchester United-forsvarer Luke Shaw forteller at Manchester Citys suksessesong var vanskelig å takle.",
+        "published": {
+            "date": "tirsdag 1. august",
+            "datetime": "2023-08-01 05:01:33",
+            "niceformat": "01.08.2023, 05:01",
+            "timestamp": "2023-08-01T03:01:33.000Z"
+        },
+        "thumbnail": {
+            "height": 267,
+            "url": "https://akamai.vgc.no/v2/images/2226602c-1daa-4837-a00d-61b9d1f3a02e?fit=crop&format=auto&h=267&w=400&s=4cac3c1683b28f81a0d35af94012eac035e26ffd",
+            "width": 400
+        },
+        "title": "United-profilen med City-innrømmelse: – Det gjorde vondt",
+        "url": "https://www.vg.no/sport/fotball/i/jl7B7n/premier-league-manchester-united-spiller-luke-shaw-innroemmer-at-manchester-city-triumfen-gjorde-vondt"
+    }
+]

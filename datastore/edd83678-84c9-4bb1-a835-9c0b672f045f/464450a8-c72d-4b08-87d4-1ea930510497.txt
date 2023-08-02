@@ -1,0 +1,200 @@
+[
+    {
+        "slug": "avgjorde-seriemesterskapet",
+        "url": "/lokalfotballen/i/onP3qB/avgjorde-seriemesterskapet",
+        "title": {
+            "value": "Avgjorde seriemesterskapet"
+        },
+        "description": "Heimdal har tatt poeng i sju strake kamper etter dagens 7-1-seier i J13 1. divisjon, Avdeling 2 - Vår mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-05T19:04:04Z",
+        "lastModifiedAt": "2023-06-05T19:04:04Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "maalshow-fra-sadiku",
+        "url": "/lokalfotballen/i/pQmPyV/maalshow-fra-sadiku",
+        "title": {
+            "value": "Sadiku med målshow"
+        },
+        "description": "Agon Sadiku scoret fire ganger og hjalp Rosenborg 2 til 9-0-seier over Steinkjer i 3. divisjon, Avdeling 5 mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-05T18:54:10Z",
+        "lastModifiedAt": "2023-06-05T19:09:29Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "tomaalslykke-da-ranheim-vant",
+        "url": "/lokalfotballen/i/mQWPm1/tomaalslykke-da-ranheim-vant",
+        "title": {
+            "value": "Scoringslykke for Lilly Annie Hagen"
+        },
+        "description": "Lilly Annie Hagen scoret seiersmålet da Ranheim slo Vestbyen/Nationalkameratene/Sverresborg 2-1 i J15 2. divisjon, Avdeling 4 - Vår mandag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-05T18:52:53Z",
+        "lastModifiedAt": "2023-06-05T19:05:07Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "fjerde-strake-seier-for-ranheim",
+        "url": "/lokalfotballen/i/pQmPaW/fjerde-strake-seier-for-ranheim",
+        "title": {
+            "value": "Storseier for Ranheim"
+        },
+        "description": "Med 8-0-seier i dagens kamp har Ranheim tatt poeng i seks kamper på rad",
+        "imageUrl": null,
+        "publishedAt": "2023-06-05T18:44:42Z",
+        "lastModifiedAt": "2023-06-05T19:02:57Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "lover-100-nye-sykehjemsplasser-vi-maa-ha-rett-folk-paa-rett-sted",
+        "url": "/politikk/i/WRWRoj/lover-100-nye-sykehjemsplasser-vi-maa-ha-rett-folk-paa-rett-sted",
+        "title": {
+            "value": "Lover 100 nye sykehjemsplasser: – Vi må ha rett folk på rett sted"
+        },
+        "description": "Ap vil bygge sykehjem raskere enn planlagt og ansette flere folk i eldreomsorgen. I tillegg lover de mer plass og mer utstyr i Trondheim-skolen.",
+        "imageUrl": "e0f73849-1a77-4c8e-ab70-3c1b2b3b9322",
+        "publishedAt": "2023-06-05T16:35:53Z",
+        "lastModifiedAt": "2023-06-05T16:44:30Z",
+        "premium": true,
+        "authors": [
+            "Stian Wallum"
+        ],
+        "tags": [
+            "eldreomsorg",
+            "trondheim",
+            "trude-basso",
+            "emil-raaen",
+            "joern-arve-flaatt",
+            "sara-shafighi",
+            "trondheim-kommune",
+            "samferdsel",
+            "roar-aas"
+        ]
+    },
+    {
+        "slug": "rbk-spissen-har-reist-til-island-har-ubehagelige-symptomer",
+        "url": "/sport/fotball/i/l3L3xG/rbk-spissen-har-reist-til-island-har-ubehagelige-symptomer",
+        "title": {
+            "value": "RBK-spissen har reist til Island: – Har ubehagelige symptomer"
+        },
+        "description": "Verken Isak Thorvaldsson, Ole Sæter eller Tobias Børkeeiet blir spilleklare til Stabæk-kampen.",
+        "imageUrl": "093dbb86-893a-45d6-b674-28f0e388ce4e",
+        "publishedAt": "2023-06-05T14:14:11Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Johannes Strand"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "fotball",
+            "olav-aas",
+            "ole-saeter-2",
+            "per-ciljan-skjelbred",
+            "omar-elabdellaoui",
+            "tobias-boerkeeiet"
+        ]
+    },
+    {
+        "slug": "siste-fra-breddefotballen",
+        "url": "/sport/fotball/i/GMjXaq/siste-fra-breddefotballen",
+        "title": {
+            "value": "Fem trønderske jenter tatt ut til talentsamling"
+        },
+        "description": null,
+        "imageUrl": "fe79cbf3-e8a9-456d-bdce-33fa5cc63000",
+        "publishedAt": "2023-03-24T14:51:36Z",
+        "lastModifiedAt": "2023-05-09T10:22:27Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "fotball",
+            "breddefotbaill",
+            "lokalfotballen",
+            "breddefotball"
+        ]
+    },
+    {
+        "slug": "norske-f-35-fly-identifiserte-russiske-bombefly-i-barentshavet",
+        "url": "/nyheter/innenriks/i/158MkK/norske-f-35-fly-identifiserte-russiske-bombefly-i-barentshavet",
+        "title": {
+            "value": "Norske F-35-fly identifiserte russiske bombefly i Barentshavet"
+        },
+        "description": "Norske F-35-fly rykket mandag ut fra Evenes flyplass og identifiserte flere russiske bombefly og jagerfly i internasjonalt luftrom nord for Finnmark.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-05T13:40:47Z",
+        "lastModifiedAt": "2023-06-05T13:40:47Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "minister-fra-qatar-skal-lede-fns-arbeidskonferanse",
+        "url": "/nyheter/utenriks/i/P4w4GR/minister-fra-qatar-skal-lede-fns-arbeidskonferanse",
+        "title": {
+            "value": "Minister fra Qatar skal lede FNs arbeidskonferanse"
+        },
+        "description": "Qatars arbeidsminister havnet i søkelyset for landets behandling av migrantarbeidere før fotball-VM i fjor. Nå er han valgt til å lede FNs arbeidskonferanse.",
+        "imageUrl": "e796e334-d017-46fb-98af-79bafaa92568",
+        "publishedAt": "2023-06-05T12:03:26Z",
+        "lastModifiedAt": "2023-06-05T12:03:26Z",
+        "premium": false,
+        "authors": [
+            "NTB-AP"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "pappa-holse-kjoerer-koebenhavn-trondheim-nesten-hver-kamp-for-aa-se-soennen-spille",
+        "url": "/sport/fotball/i/76J523/pappa-holse-kjoerer-koebenhavn-trondheim-nesten-hver-kamp-for-aa-se-soennen-spille",
+        "title": {
+            "value": "Kjører fra København til Trondheim nesten hver kamp for å se sønnen spille"
+        },
+        "description": "Enkelte trenerforeldre er mer dedikerte enn andre.",
+        "imageUrl": "033a454a-01c2-4097-9ea7-9f144b337f2c",
+        "publishedAt": "2023-06-05T08:10:55Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Even Berthelsen"
+        ],
+        "tags": [
+            "fotball",
+            "trondheim",
+            "rosenborg-bk",
+            "carlo-holse",
+            "sport"
+        ]
+    }
+]

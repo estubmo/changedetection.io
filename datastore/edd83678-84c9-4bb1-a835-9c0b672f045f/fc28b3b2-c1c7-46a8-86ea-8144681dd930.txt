@@ -1,0 +1,193 @@
+[
+    {
+        "slug": "dette-skjer-i-dag",
+        "url": "/nyheter/innenriks/i/abkkj5/dette-skjer-i-dag",
+        "title": {
+            "value": "Dette skjer i dag"
+        },
+        "description": "Dette er blant de ventede hendelsene lørdag 10. juni.",
+        "imageUrl": "84e1a0b9-e450-4e23-9484-fdc29e7b61a1",
+        "publishedAt": "2023-06-10T04:00:42Z",
+        "lastModifiedAt": "2023-06-10T04:00:42Z",
+        "premium": false,
+        "authors": [
+            "NTB"
+        ],
+        "tags": []
+    },
+    {
+        "slug": "brakseier-for-freidig",
+        "url": "/lokalfotballen/i/zEeXRw/brakseier-for-freidig",
+        "title": {
+            "value": "Brakseier for Freidig"
+        },
+        "description": "Johannes Mjønes Tysnes sto fram med to scoringer da Freidig seiret 7-2 over Tolga-Vingelen i 5. divisjon, Trøndelag - Avdeling 3 i fotball for menn fredag. Freidig har tatt poeng i fem strake kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-09T21:26:44Z",
+        "lastModifiedAt": "2023-06-09T21:26:44Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "revdal-avgjorde-for-egge",
+        "url": "/lokalfotballen/i/69d1be/revdal-avgjorde-for-egge",
+        "title": {
+            "value": "Revdal senket Åfjord"
+        },
+        "description": "Arve Revdal sikret tre poeng for Egge da Åfjord ble slått 2-1 i 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn fredag.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-09T20:18:21Z",
+        "lastModifiedAt": "2023-06-09T20:26:31Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-steinkjer-2",
+            "lokalfotballen-fosnafolket"
+        ]
+    },
+    {
+        "slug": "selbu-ydmyket-svorkmo",
+        "url": "/lokalfotballen/i/WRWdpQ/selbu-ydmyket-svorkmo",
+        "title": {
+            "value": "Selbu slo Svorkmo i målfest"
+        },
+        "description": "Selbu slo Svorkmo 7-1 og tok sin første trepoenger i årets sesong i 5. divisjon, Trøndelag - Avdeling 2 i fotball for menn fredag. Gunnar Thor Oddson Kjøsnes scoret to av målene.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-09T19:56:33Z",
+        "lastModifiedAt": "2023-06-09T20:26:30Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-avisast"
+        ]
+    },
+    {
+        "slug": "to-fulltreffere-fra-stokke",
+        "url": "/lokalfotballen/i/VPLk76/to-fulltreffere-fra-stokke",
+        "title": {
+            "value": "Scoringslykke for Stokke"
+        },
+        "description": "Joar Stokke scoret begge målene for Vikvarvet og ble den store helten i 2-0-seieren over Helgådal i 6. divisjon, Trøndelag - Avdeling 2 i fotball for menn.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-09T19:29:42Z",
+        "lastModifiedAt": "2023-06-09T21:56:58Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "ranheim-2-snudde-til-seier-mot-nidelv",
+        "url": "/lokalfotballen/i/dwzPew/ranheim-2-snudde-til-seier-mot-nidelv",
+        "title": {
+            "value": "Ranheim 2 snudde til seier over Nidelv"
+        },
+        "description": "Ranheim 2 har tatt poeng i fem kamper på rad etter dagens 4-1-seier",
+        "imageUrl": null,
+        "publishedAt": "2023-06-09T19:14:11Z",
+        "lastModifiedAt": "2023-06-09T21:00:16Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen"
+        ]
+    },
+    {
+        "slug": "vinne-snudde-til-seier-paa-tampen-over-innherred",
+        "url": "/lokalfotballen/i/JQGMyj/vinne-snudde-til-seier-paa-tampen-over-innherred",
+        "title": {
+            "value": "Vinne snudde til seier på tampen mot Innherred"
+        },
+        "description": "Vinne snudde til seier på tampen mot Innherred i 5. divisjon, Trøndelag - Avdeling 1 i fotball for menn. Vinne har vunnet fire av sine fem siste kamper.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-09T18:56:26Z",
+        "lastModifiedAt": "2023-06-09T19:56:33Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred",
+            "lokalfotballen-steinkjer-2"
+        ]
+    },
+    {
+        "slug": "petra-gausen-skjaeran-avgjorde-for-levanger-2-sverre-2-skogn-2",
+        "url": "/lokalfotballen/i/69d103/petra-gausen-skjaeran-avgjorde-for-levanger-2-sverre-2-skogn-2",
+        "title": {
+            "value": "Petra Gausen Skjæran ble helten for Levanger 2 / Sverre 2 / Skogn 2"
+        },
+        "description": "Petra Gausen Skjæran scoret det avgjørende målet for Levanger 2/Sverre 2/Skogn 2 i 2-1-seieren over Strindheim 2 på Tobb Arena Levanger i J17 2. divisjon, Avdeling 1 - Vår. Levanger 2/Sverre 2/Skogn 2 tok sin første seier denne sesongen.",
+        "imageUrl": null,
+        "publishedAt": "2023-06-09T18:44:08Z",
+        "lastModifiedAt": "2023-06-09T19:00:34Z",
+        "premium": true,
+        "authors": [
+            "NTB"
+        ],
+        "tags": [
+            "lokalfotballen-adresseavisen",
+            "lokalfotballen-innherred"
+        ]
+    },
+    {
+        "slug": "svarer-paa-kritikken-slik-er-rekdals-rbk-plan",
+        "url": "/sport/fotball/i/xgy7bV/svarer-paa-kritikken-slik-er-rekdals-rbk-plan",
+        "title": {
+            "value": "Dette er Rekdals Rosenborg-plan"
+        },
+        "description": "Vi ba om et kvarter. Halvannen time senere var det Adressa som måtte avrunde taktikkmøtet med Kjetil Rekdal og Geir Frigård.",
+        "imageUrl": "5d7cfee3-b16c-4351-995a-d1a0389aee48",
+        "publishedAt": "2023-06-09T17:54:28Z",
+        "lastModifiedAt": null,
+        "premium": true,
+        "authors": [
+            "Ole K. Sagbakken"
+        ],
+        "tags": [
+            "rosenborg-bk",
+            "nils-arne-eggen",
+            "erik-hamren",
+            "kjetil-rekdal"
+        ]
+    },
+    {
+        "slug": "siste-fra-breddefotballen",
+        "url": "/sport/fotball/i/GMjXaq/siste-fra-breddefotballen",
+        "title": {
+            "value": "«The Voice-Terje» herjer på scenen – og i 6. divisjon"
+        },
+        "description": null,
+        "imageUrl": "d687ce09-dd7d-41c5-9742-724a7d6a99b3",
+        "publishedAt": "2023-03-24T14:51:36Z",
+        "lastModifiedAt": "2023-05-09T10:22:27Z",
+        "premium": true,
+        "authors": [
+            "Aksel Murvold"
+        ],
+        "tags": [
+            "fotball",
+            "breddefotbaill",
+            "lokalfotballen",
+            "breddefotball"
+        ]
+    }
+]
