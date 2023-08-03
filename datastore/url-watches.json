@@ -4,21 +4,27 @@
         "3c3159a5-2e42-44af-9f1d-fe9b16aead3a": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 1188,
-            "consecutive_filter_failures": 1,
+            "check_count": 1189,
+            "date_created": 0,
+            "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "li.resultItem"
             ],
-            "last_checked": 1690979348,
-            "last_error": "Warning, no filters were found, no change detection ran.",
+            "last_checked": 1690993750,
+            "last_error": false,
             "last_viewed": 1676988586,
             "method": "GET",
             "notification_body": "{\r\n  \"sourceSlug\": \"nidaros-no\",\r\n  \"options\": {\r\n    \"maxPaginationLimit\": 0,\r\n    \"queryParams\": \"i&tags=fotball\"\r\n  }\r\n}\r\n",
@@ -31,11 +37,14 @@
                 "posts://api.apify.com/v2/actor-tasks/mowebdev~nidaros/runs?token=apify_api_KhmDs8WPVSsUr6BxboC2frIEBgqU3c37VSbl"
             ],
             "paused": false,
-            "previous_md5": "",
-            "previous_md5_before_filters": "5d1f9a44ba5926d28f9b2d74c26b401f",
+            "previous_md5": "e606f0d86331c660cc24c373f3ed9799",
+            "previous_md5_before_filters": "a60db3e2590ce514cee65aac88fd87cb",
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "Nidaros",
+            "tags": [
+                "a7e2ffd4-ed04-4634-afae-2d60cd14b470"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -55,27 +64,33 @@
             "last_notification_error": false,
             "content_type": "text/html; charset=utf-8",
             "last_check_status": 200,
-            "fetch_time": 1.123
+            "fetch_time": 0.362
         },
         "5f5dd375-b3a0-452e-9b26-72757d07b353": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15588,
+            "check_count": 15594,
+            "date_created": 1,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "li.resultItem"
             ],
-            "last_checked": 1690983117,
+            "last_checked": 1690994907,
             "last_error": false,
-            "last_viewed": 1676991492,
+            "last_viewed": 1690987435,
             "method": "GET",
             "notification_body": "{\r\n  \"sourceSlug\": \"nidaros-no\",\r\n  \"options\": {\r\n    \"maxPaginationLimit\": 0,\r\n    \"queryParams\": \"rbk\"\r\n  }\r\n}\r\n",
             "notification_format": "System default",
@@ -87,11 +102,14 @@
                 "posts://api.apify.com/v2/actor-tasks/mowebdev~nidaros/runs?token=apify_api_KhmDs8WPVSsUr6BxboC2frIEBgqU3c37VSbl"
             ],
             "paused": false,
-            "previous_md5": "36d70ce6112e13e096ac480e8b5eadea",
-            "previous_md5_before_filters": "fce93d7bba0161f4f3a8af24bcfbc51c",
+            "previous_md5": "192f47c53b9eee135ad74bdba17959b4",
+            "previous_md5_before_filters": "9b9ec67df9beaebcaebad13d137d6a5d",
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "Nidaros",
+            "tags": [
+                "a7e2ffd4-ed04-4634-afae-2d60cd14b470"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -111,25 +129,31 @@
             "last_notification_error": false,
             "content_type": "text/html; charset=utf-8",
             "last_check_status": 200,
-            "fetch_time": 1.134
+            "fetch_time": 0.291
         },
         "ef2e4038-f471-4c30-8f7b-08ebe0ed300d": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 9075,
+            "check_count": 9081,
+            "date_created": 2,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "li.resultItem"
             ],
-            "last_checked": 1690983117,
+            "last_checked": 1690994909,
             "last_error": false,
             "last_viewed": 1682846162,
             "method": "GET",
@@ -144,10 +168,13 @@
             ],
             "paused": false,
             "previous_md5": "eed2bc2bf2bef46bcccf376cbf2b0678",
-            "previous_md5_before_filters": "7f7ed4980bd3ef7e373d431ecdec5172",
+            "previous_md5_before_filters": "18ddb352d2669f224fc7fe7dc65a6a8f",
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "Nidaros",
+            "tags": [
+                "a7e2ffd4-ed04-4634-afae-2d60cd14b470"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -167,25 +194,31 @@
             "last_notification_error": false,
             "content_type": "text/html; charset=utf-8",
             "last_check_status": 200,
-            "fetch_time": 0.987
+            "fetch_time": 0.262
         },
         "1cede54b-e8e0-436a-bcb9-810114e5af00": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 464,
+            "check_count": 465,
+            "date_created": 3,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "li.resultItem"
             ],
-            "last_checked": 1690949833,
+            "last_checked": 1690993035,
             "last_error": false,
             "last_viewed": 1682846601,
             "method": "GET",
@@ -200,10 +233,13 @@
             ],
             "paused": false,
             "previous_md5": "347c495ad4c7836191b0c031ee1ea5f9",
-            "previous_md5_before_filters": "68b08f999e6b6c082484d5b7609b61bb",
+            "previous_md5_before_filters": "2c83502bf3309b0ca7b80c85bca1ef1a",
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "Nidaros",
+            "tags": [
+                "a7e2ffd4-ed04-4634-afae-2d60cd14b470"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -223,25 +259,31 @@
             "last_notification_error": false,
             "content_type": "text/html; charset=utf-8",
             "last_check_status": 200,
-            "fetch_time": 1.072
+            "fetch_time": 0.282
         },
         "d2ead686-f9ad-406a-af01-e5c2697bf820": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15076,
+            "check_count": 15085,
+            "date_created": 4,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983996,
+            "last_checked": 1690995499,
             "last_error": false,
             "last_viewed": 1680683232,
             "method": "GET",
@@ -255,11 +297,14 @@
                 "posts://api.apify.com/v2/actor-tasks/mowebdev~rbkweb/runs?token=apify_api_KhmDs8WPVSsUr6BxboC2frIEBgqU3c37VSbl"
             ],
             "paused": false,
-            "previous_md5": "e97bfc3b66a5088bbcf3f606fdaa4c3a",
-            "previous_md5_before_filters": "7621f34e7f5c8707f3b7a94431ec0abc",
+            "previous_md5": "d854f9736fc5a27c7819840d15b8f7e2",
+            "previous_md5_before_filters": "1ec5e3f1cc8b5d865649f413d0287d4f",
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "RBKweb",
+            "tags": [
+                "90fbc04b-bc2e-47e5-be8b-f9055bd9e144"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -277,27 +322,33 @@
             "ignore_status_codes": false,
             "save_button": true,
             "last_notification_error": false,
-            "content_type": "text/xml;charset=ISO-8859-1",
+            "content_type": "text/xml;charset=iso-8859-1",
             "last_check_status": 200,
-            "fetch_time": 0.798
+            "fetch_time": 0.206
         },
         "9da86dcf-8f5e-4d60-bbd4-04a5877a77ab": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15975,
+            "check_count": 15986,
+            "date_created": 5,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983545,
+            "last_checked": 1690994914,
             "last_error": false,
             "last_viewed": 1676490858,
             "method": "GET",
@@ -316,6 +367,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -335,25 +389,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 0.975
+            "fetch_time": 1.07
         },
         "953e1f3d-ffe3-480e-ad84-88461cb04cab": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15981,
+            "check_count": 15992,
+            "date_created": 6,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983436,
+            "last_checked": 1690994916,
             "last_error": false,
             "last_viewed": 1676757975,
             "method": "GET",
@@ -372,6 +432,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -391,25 +454,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 0.098
+            "fetch_time": 1.079
         },
         "66e9e4df-0123-4ab2-bc4a-fd78e8952622": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15981,
+            "check_count": 15992,
+            "date_created": 7,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690984028,
+            "last_checked": 1690994905,
             "last_error": false,
             "last_viewed": 1676490858,
             "method": "GET",
@@ -428,6 +497,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -447,25 +519,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 1.005
+            "fetch_time": 0.724
         },
         "f3d6fb80-0c1c-4730-9b00-03f6b2e580a8": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15977,
+            "check_count": 15988,
+            "date_created": 8,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983478,
+            "last_checked": 1690994901,
             "last_error": false,
             "last_viewed": 1676490858,
             "method": "GET",
@@ -484,6 +562,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -503,25 +584,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 0.093
+            "fetch_time": 0.88
         },
         "b85917db-a78e-4e2f-b29b-008c9ada48f6": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 5832,
+            "check_count": 5835,
+            "date_created": 9,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690982975,
+            "last_checked": 1690993778,
             "last_error": false,
             "last_viewed": 1682276696,
             "method": "GET",
@@ -540,6 +627,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "TSN",
+            "tags": [
+                "f853abe3-255c-483b-841f-e6428a05069f"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -559,25 +649,31 @@
             "last_notification_error": false,
             "content_type": "application/rss+xml; charset=UTF-8",
             "last_check_status": 200,
-            "fetch_time": 1.036
+            "fetch_time": 0.508
         },
         "91511074-3886-44cc-a5ca-f935183db1f9": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15975,
+            "check_count": 15986,
+            "date_created": 10,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983346,
+            "last_checked": 1690994915,
             "last_error": false,
             "last_viewed": 1676490858,
             "method": "GET",
@@ -596,6 +692,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -615,25 +714,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 0.071
+            "fetch_time": 0.061
         },
         "b29c2131-1e23-40a2-85f0-e3486234f021": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15974,
+            "check_count": 15985,
+            "date_created": 11,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983194,
+            "last_checked": 1690994921,
             "last_error": false,
             "last_viewed": 1676490858,
             "method": "GET",
@@ -652,6 +757,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -671,25 +779,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 0.072
+            "fetch_time": 1.006
         },
         "b33901c5-14a2-42f4-b683-455a07bb6e70": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 12477,
+            "check_count": 12483,
+            "date_created": 12,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983919,
+            "last_checked": 1690994899,
             "last_error": false,
             "last_viewed": 1682355874,
             "method": "GET",
@@ -708,6 +822,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -727,25 +844,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 0.084
+            "fetch_time": 0.832
         },
         "72d53f78-5c8d-42fb-88c0-ba5934efdd63": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 8146,
+            "check_count": 8152,
+            "date_created": 13,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690984027,
+            "last_checked": 1690994898,
             "last_error": false,
             "last_viewed": 1676744421,
             "method": "GET",
@@ -764,6 +887,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -783,25 +909,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 0.089
+            "fetch_time": 2.016
         },
         "21fa93d6-ddd2-428a-be8c-ce11217e7b0e": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 13729,
+            "check_count": 13735,
+            "date_created": 14,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983622,
+            "last_checked": 1690994906,
             "last_error": false,
             "last_viewed": 1676745314,
             "method": "GET",
@@ -820,6 +952,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -839,25 +974,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 5.467
+            "fetch_time": 1.626
         },
         "cca871e0-0ee6-4f0c-bed0-97be5e4b5ce3": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15982,
+            "check_count": 15993,
+            "date_created": 15,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983830,
+            "last_checked": 1690994916,
             "last_error": false,
             "last_viewed": 1676490858,
             "method": "GET",
@@ -871,11 +1012,14 @@
                 "posts://api.apify.com/v2/actor-tasks/mowebdev~ntf/runs?token=apify_api_KhmDs8WPVSsUr6BxboC2frIEBgqU3c37VSbl"
             ],
             "paused": false,
-            "previous_md5": "fcbb4754fd8613341210e391e2122301",
-            "previous_md5_before_filters": "97a2be5ea03ba5c1caab04a3a1e543ef",
+            "previous_md5": "6c84f5f87d0b306667888e949e91df78",
+            "previous_md5_before_filters": "c3a83e2c9729a4b5ee4e0b203a9f28bc",
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -895,25 +1039,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 1.069
+            "fetch_time": 0.937
         },
         "78296457-1033-4f2d-9fa8-5d55103cf0e8": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15980,
+            "check_count": 15991,
+            "date_created": 16,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983661,
+            "last_checked": 1690994916,
             "last_error": false,
             "last_viewed": 1676490858,
             "method": "GET",
@@ -932,6 +1082,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -951,25 +1104,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 0.106
+            "fetch_time": 0.728
         },
         "3c099241-4e7c-423f-8940-f9b1ee72f474": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15982,
+            "check_count": 15993,
+            "date_created": 17,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983785,
+            "last_checked": 1690994911,
             "last_error": false,
             "last_viewed": 1676490858,
             "method": "GET",
@@ -988,6 +1147,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -1007,25 +1169,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 0.075
+            "fetch_time": 0.86
         },
         "1ae93f2a-eafa-4868-9309-8c928d0dba4d": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15981,
+            "check_count": 15992,
+            "date_created": 18,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983318,
+            "last_checked": 1690994914,
             "last_error": false,
             "last_viewed": 1676490858,
             "method": "GET",
@@ -1044,6 +1212,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -1063,25 +1234,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 0.065
+            "fetch_time": 0.747
         },
         "e756d79a-0406-4623-9e0c-4dc206c017f9": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 8248,
+            "check_count": 8254,
+            "date_created": 19,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690982695,
+            "last_checked": 1690994907,
             "last_error": false,
             "last_viewed": 1676490858,
             "method": "GET",
@@ -1100,6 +1277,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -1119,25 +1299,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 0.08
+            "fetch_time": 0.946
         },
         "cc3ca974-86be-4cff-83b5-c6b2615d157c": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15981,
+            "check_count": 15992,
+            "date_created": 20,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983711,
+            "last_checked": 1690994913,
             "last_error": false,
             "last_viewed": 1676490858,
             "method": "GET",
@@ -1156,6 +1342,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -1175,25 +1364,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 0.086
+            "fetch_time": 0.124
         },
         "05e539c8-0218-419a-8d85-432b889e98e5": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15973,
+            "check_count": 15984,
+            "date_created": 21,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983410,
+            "last_checked": 1690994918,
             "last_error": false,
             "last_viewed": 1682619201,
             "method": "GET",
@@ -1212,6 +1407,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -1231,25 +1429,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 1.453
+            "fetch_time": 0.95
         },
         "ca7f4987-8ada-4e14-be3f-6bac3149c03a": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15981,
+            "check_count": 15992,
+            "date_created": 22,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983606,
+            "last_checked": 1690994916,
             "last_error": false,
             "last_viewed": 1682355866,
             "method": "GET",
@@ -1268,6 +1472,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -1287,25 +1494,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 0.085
+            "fetch_time": 0.802
         },
         "7e0b150a-01d9-42ef-b005-7db6bf36ed2d": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15980,
+            "check_count": 15991,
+            "date_created": 23,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983917,
+            "last_checked": 1690994909,
             "last_error": false,
             "last_viewed": 1682355841,
             "method": "GET",
@@ -1324,6 +1537,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -1343,25 +1559,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 0.093
+            "fetch_time": 0.115
         },
         "9c4cd291-b7d7-45a1-9568-c2694ca9a8b1": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15980,
+            "check_count": 15991,
+            "date_created": 24,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983809,
+            "last_checked": 1690994909,
             "last_error": false,
             "last_viewed": 1676490858,
             "method": "GET",
@@ -1380,6 +1602,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -1399,25 +1624,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 0.092
+            "fetch_time": 0.658
         },
         "86f5d02d-17c6-42ff-a74a-1acc4598f069": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15979,
+            "check_count": 15990,
+            "date_created": 25,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983410,
+            "last_checked": 1690994918,
             "last_error": false,
             "last_viewed": 1676490858,
             "method": "GET",
@@ -1436,6 +1667,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -1455,25 +1689,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 1.369
+            "fetch_time": 1.047
         },
         "68b589c4-4df1-4655-8a4f-9359a301c3a1": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15981,
+            "check_count": 15992,
+            "date_created": 26,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983924,
+            "last_checked": 1690994907,
             "last_error": false,
             "last_viewed": 1682585526,
             "method": "GET",
@@ -1492,6 +1732,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -1511,25 +1754,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 1.28
+            "fetch_time": 0.102
         },
         "045fca48-0b33-492d-ad9f-e3b1e7f84dc5": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15979,
+            "check_count": 15990,
+            "date_created": 27,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983512,
+            "last_checked": 1690994918,
             "last_error": false,
             "last_viewed": 1676490858,
             "method": "GET",
@@ -1548,6 +1797,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -1567,25 +1819,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 0.103
+            "fetch_time": 1.383
         },
         "33a32acc-73f3-44c6-9829-af2ec39a8300": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15972,
+            "check_count": 15983,
+            "date_created": 28,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983318,
+            "last_checked": 1690994917,
             "last_error": false,
             "last_viewed": 1676490858,
             "method": "GET",
@@ -1604,6 +1862,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -1623,25 +1884,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 0.47
+            "fetch_time": 0.189
         },
         "424820bb-8b71-419d-8681-88aea6558392": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15982,
+            "check_count": 15993,
+            "date_created": 29,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983791,
+            "last_checked": 1690994914,
             "last_error": false,
             "last_viewed": 1676490858,
             "method": "GET",
@@ -1660,6 +1927,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -1679,25 +1949,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 0.089
+            "fetch_time": 1.0
         },
         "93aaadd6-d01b-4928-af29-dc275e86a725": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15979,
+            "check_count": 15990,
+            "date_created": 30,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983203,
+            "last_checked": 1690994918,
             "last_error": false,
             "last_viewed": 1676490858,
             "method": "GET",
@@ -1716,6 +1992,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -1735,25 +2014,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 1.041
+            "fetch_time": 0.889
         },
         "d515db25-b004-4faf-95bc-d361aa32828f": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15977,
+            "check_count": 15988,
+            "date_created": 31,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983406,
+            "last_checked": 1690994915,
             "last_error": false,
             "last_viewed": 1676490858,
             "method": "GET",
@@ -1772,6 +2057,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -1791,25 +2079,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 0.077
+            "fetch_time": 0.174
         },
         "50df0e07-58a0-4db1-838b-9b71cfa0006e": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15983,
+            "check_count": 15994,
+            "date_created": 32,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983570,
+            "last_checked": 1690994915,
             "last_error": false,
             "last_viewed": 1682700964,
             "method": "GET",
@@ -1828,6 +2122,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -1847,25 +2144,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 1.118
+            "fetch_time": 0.105
         },
         "3947445c-d05b-46d2-9835-3477fade5c7d": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 8248,
+            "check_count": 8254,
+            "date_created": 33,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690984024,
+            "last_checked": 1690994898,
             "last_error": false,
             "last_viewed": 1676490858,
             "method": "GET",
@@ -1884,6 +2187,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -1903,25 +2209,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 1.656
+            "fetch_time": 1.102
         },
         "1eba2483-16d2-479b-b87f-f4f26d069557": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15981,
+            "check_count": 15992,
+            "date_created": 34,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983430,
+            "last_checked": 1690994916,
             "last_error": false,
             "last_viewed": 1676490858,
             "method": "GET",
@@ -1940,6 +2252,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -1959,25 +2274,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 0.083
+            "fetch_time": 0.692
         },
         "d877183c-49c2-4d9d-81bd-d702536da67f": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15982,
+            "check_count": 15993,
+            "date_created": 35,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983798,
+            "last_checked": 1690994908,
             "last_error": false,
             "last_viewed": 1676490858,
             "method": "GET",
@@ -1996,6 +2317,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -2015,25 +2339,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 0.851
+            "fetch_time": 0.062
         },
         "bc473014-2984-45f3-bb01-bc7648d46c39": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 8247,
+            "check_count": 8253,
+            "date_created": 36,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690982579,
+            "last_checked": 1690994907,
             "last_error": false,
             "last_viewed": 1676490858,
             "method": "GET",
@@ -2052,6 +2382,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -2071,25 +2404,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 0.09
+            "fetch_time": 0.744
         },
         "99cc6301-cd75-4c50-9949-2045a1f7e5b9": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15980,
+            "check_count": 15991,
+            "date_created": 37,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983979,
+            "last_checked": 1690994907,
             "last_error": false,
             "last_viewed": 1676490858,
             "method": "GET",
@@ -2108,6 +2447,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -2127,25 +2469,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 0.073
+            "fetch_time": 0.825
         },
         "0fe1b7d9-38fd-4acf-a00f-e5c1724f0b8a": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15980,
+            "check_count": 15991,
+            "date_created": 38,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690984015,
+            "last_checked": 1690994913,
             "last_error": false,
             "last_viewed": 1676490858,
             "method": "GET",
@@ -2164,6 +2512,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -2183,25 +2534,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 0.07
+            "fetch_time": 0.127
         },
         "6dfa27a8-8ee8-4b30-ac11-123934f97f82": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15988,
+            "check_count": 15999,
+            "date_created": 39,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983292,
+            "last_checked": 1690994913,
             "last_error": false,
             "last_viewed": 1676490858,
             "method": "GET",
@@ -2220,6 +2577,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -2239,25 +2599,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 0.249
+            "fetch_time": 0.132
         },
         "8c2669e7-185c-40de-9f46-a25b9fdd4f2f": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 8252,
+            "check_count": 8258,
+            "date_created": 40,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690982673,
+            "last_checked": 1690994901,
             "last_error": false,
             "last_viewed": 1676503697,
             "method": "GET",
@@ -2276,6 +2642,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -2295,25 +2664,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 1.351
+            "fetch_time": 0.8
         },
         "e7b6df92-a156-4ff5-9ffa-621b5ef4dc71": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15982,
+            "check_count": 15993,
+            "date_created": 41,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690984028,
+            "last_checked": 1690994910,
             "last_error": false,
             "last_viewed": 1676504577,
             "method": "GET",
@@ -2332,6 +2707,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -2351,25 +2729,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 1.301
+            "fetch_time": 0.985
         },
         "30d21a4a-dc87-464a-b836-df724c7846e3": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 5835,
+            "check_count": 5838,
+            "date_created": 42,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690982038,
+            "last_checked": 1690993105,
             "last_error": false,
             "last_viewed": 1682277328,
             "method": "GET",
@@ -2383,11 +2767,14 @@
                 "posts://api.apify.com/v2/actor-tasks/mowebdev~tsn/runs?token=apify_api_KhmDs8WPVSsUr6BxboC2frIEBgqU3c37VSbl"
             ],
             "paused": false,
-            "previous_md5": "871c94e6faa8feb240b104cadb71058d",
-            "previous_md5_before_filters": "ba4e5a37a162e511944869a09df0838d",
+            "previous_md5": "8700b9f730f5c65e663b62cd4256b6eb",
+            "previous_md5_before_filters": "0d72b144bcc027e89d9179515c19cdd8",
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "TSN",
+            "tags": [
+                "f853abe3-255c-483b-841f-e6428a05069f"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -2405,28 +2792,34 @@
             "ignore_status_codes": false,
             "save_button": true,
             "last_notification_error": false,
-            "content_type": "application/rss+xml; charset=UTF-8",
+            "content_type": "application/rss+xml; charset=utf-8",
             "last_check_status": 200,
-            "fetch_time": 1.256
+            "fetch_time": 2.156
         },
         "f745f784-7d5d-47f2-a491-73c6d04054e7": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 5837,
+            "check_count": 5840,
+            "date_created": 43,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690981552,
-            "last_error": "HTTPSConnectionPool(host='arna-bjornar.no', port=443): Max retries exceeded with url: /feed (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f52c03d9cc0>: Failed to establish a new connection: [Errno 111] ECONNREFUSED'))",
+            "last_checked": 1690993089,
+            "last_error": "HTTPSConnectionPool(host='arna-bjornar.no', port=443): Max retries exceeded with url: /feed (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f808c59bdf0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
             "last_viewed": 1682277328,
             "method": "GET",
             "notification_body": "{\r\n  \"sourceSlug\": \"arna-bjornar-no\"\r\n}\r\n",
@@ -2444,6 +2837,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "TSN",
+            "tags": [
+                "f853abe3-255c-483b-841f-e6428a05069f"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -2463,25 +2859,31 @@
             "last_notification_error": false,
             "content_type": "application/rss+xml; charset=UTF-8",
             "last_check_status": 200,
-            "fetch_time": 0.177
+            "fetch_time": 0.039
         },
         "f8752d91-76f9-44da-bc1f-af28780a4d76": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 5839,
+            "check_count": 5842,
+            "date_created": 44,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690981511,
+            "last_checked": 1690993105,
             "last_error": false,
             "last_viewed": 1682355125,
             "method": "GET",
@@ -2500,6 +2902,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "TSN",
+            "tags": [
+                "f853abe3-255c-483b-841f-e6428a05069f"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -2519,25 +2924,31 @@
             "last_notification_error": false,
             "content_type": "application/rss+xml; charset=UTF-8",
             "last_check_status": 200,
-            "fetch_time": 0.998
+            "fetch_time": 0.422
         },
         "c5746047-072d-458b-a9b2-7aa814b8ff7b": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 5838,
+            "check_count": 5841,
+            "date_created": 45,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690981493,
+            "last_checked": 1690993104,
             "last_error": false,
             "last_viewed": 1682277328,
             "method": "GET",
@@ -2556,6 +2967,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "TSN",
+            "tags": [
+                "f853abe3-255c-483b-841f-e6428a05069f"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -2575,25 +2989,31 @@
             "last_notification_error": false,
             "content_type": "application/rss+xml; charset=UTF-8",
             "last_check_status": 200,
-            "fetch_time": 1.2
+            "fetch_time": 0.462
         },
         "6f8ffc4c-0950-46f3-a1e4-27643d4f1921": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 5839,
+            "check_count": 5842,
+            "date_created": 46,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690982276,
+            "last_checked": 1690993102,
             "last_error": false,
             "last_viewed": 1682277328,
             "method": "GET",
@@ -2612,6 +3032,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "TSN",
+            "tags": [
+                "f853abe3-255c-483b-841f-e6428a05069f"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -2631,25 +3054,31 @@
             "last_notification_error": false,
             "content_type": "application/rss+xml; charset=UTF-8",
             "last_check_status": 200,
-            "fetch_time": 1.354
+            "fetch_time": 0.537
         },
         "2b48df71-2a0d-4b99-9e70-1842bc0e13b5": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 5838,
+            "check_count": 5843,
+            "date_created": 47,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": false,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690981693,
+            "last_checked": 1690993874,
             "last_error": false,
             "last_viewed": 1682277328,
             "method": "GET",
@@ -2663,11 +3092,14 @@
                 "posts://api.apify.com/v2/actor-tasks/mowebdev~tsn/runs?token=apify_api_KhmDs8WPVSsUr6BxboC2frIEBgqU3c37VSbl"
             ],
             "paused": false,
-            "previous_md5": "69e2f43250b892fee676d1f76f66bda0",
-            "previous_md5_before_filters": "8bd9d293d03bf6673c530acc718834a8",
+            "previous_md5": "cabcc79583dae2240305f78658ffda00",
+            "previous_md5_before_filters": "387a5685ce37b02c7e84af10af4b4573",
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "TSN",
+            "tags": [
+                "f853abe3-255c-483b-841f-e6428a05069f"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -2685,27 +3117,33 @@
             "ignore_status_codes": false,
             "save_button": true,
             "last_notification_error": false,
-            "content_type": "application/rss+xml; charset=UTF-8",
+            "content_type": "application/rss+xml; charset=utf-8",
             "last_check_status": 200,
-            "fetch_time": 2.712
+            "fetch_time": 1.721
         },
         "f0306abf-e03a-4f4c-ae96-ad8ba3fd8d56": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 5841,
+            "check_count": 5844,
+            "date_created": 48,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690981493,
+            "last_checked": 1690993104,
             "last_error": false,
             "last_viewed": 1682277328,
             "method": "GET",
@@ -2724,6 +3162,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "TSN",
+            "tags": [
+                "f853abe3-255c-483b-841f-e6428a05069f"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -2743,25 +3184,31 @@
             "last_notification_error": false,
             "content_type": "application/rss+xml; charset=UTF-8",
             "last_check_status": 200,
-            "fetch_time": 0.984
+            "fetch_time": 0.439
         },
         "0ab7db7a-c9ca-409b-8884-6f8f06064c7e": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 5841,
+            "check_count": 5844,
+            "date_created": 49,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690981247,
+            "last_checked": 1690993102,
             "last_error": false,
             "last_viewed": 1682277328,
             "method": "GET",
@@ -2780,6 +3227,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "TSN",
+            "tags": [
+                "f853abe3-255c-483b-841f-e6428a05069f"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -2799,25 +3249,31 @@
             "last_notification_error": false,
             "content_type": "application/rss+xml; charset=UTF-8",
             "last_check_status": 200,
-            "fetch_time": 1.005
+            "fetch_time": 0.441
         },
         "26a6a82c-c660-40d1-b002-fcd40b45f5be": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 5843,
+            "check_count": 5846,
+            "date_created": 50,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690981184,
+            "last_checked": 1690993094,
             "last_error": false,
             "last_viewed": 1682277328,
             "method": "GET",
@@ -2836,6 +3292,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "TSN",
+            "tags": [
+                "f853abe3-255c-483b-841f-e6428a05069f"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -2855,25 +3314,31 @@
             "last_notification_error": false,
             "content_type": "application/rss+xml; charset=UTF-8",
             "last_check_status": 200,
-            "fetch_time": 0.984
+            "fetch_time": 0.465
         },
         "7e674b61-5ca6-4610-a888-77ac9436f41a": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 5843,
+            "check_count": 5846,
+            "date_created": 51,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690981471,
+            "last_checked": 1690993092,
             "last_error": false,
             "last_viewed": 1682277328,
             "method": "GET",
@@ -2892,6 +3357,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "TSN",
+            "tags": [
+                "f853abe3-255c-483b-841f-e6428a05069f"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -2911,25 +3379,31 @@
             "last_notification_error": false,
             "content_type": "application/rss+xml; charset=UTF-8",
             "last_check_status": 200,
-            "fetch_time": 1.133
+            "fetch_time": 0.411
         },
         "1fe45f31-258f-466e-b56b-6fb6ed74c85f": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 5845,
+            "check_count": 5848,
+            "date_created": 52,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690981869,
+            "last_checked": 1690993105,
             "last_error": false,
             "last_viewed": 1682355847,
             "method": "GET",
@@ -2948,6 +3422,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "TSN",
+            "tags": [
+                "f853abe3-255c-483b-841f-e6428a05069f"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -2967,25 +3444,31 @@
             "last_notification_error": false,
             "content_type": "application/rss+xml; charset=UTF-8",
             "last_check_status": 200,
-            "fetch_time": 1.124
+            "fetch_time": 0.444
         },
         "9c892718-32f0-4269-bf24-42f5bffcfad0": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 5845,
+            "check_count": 5848,
+            "date_created": 53,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690981683,
+            "last_checked": 1690993102,
             "last_error": false,
             "last_viewed": 1682277328,
             "method": "GET",
@@ -3004,6 +3487,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "TSN",
+            "tags": [
+                "f853abe3-255c-483b-841f-e6428a05069f"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -3023,25 +3509,31 @@
             "last_notification_error": false,
             "content_type": "application/rss+xml; charset=UTF-8",
             "last_check_status": 200,
-            "fetch_time": 1.02
+            "fetch_time": 0.408
         },
         "7bac93ab-f7d6-4161-b125-4a1d54094d12": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 5842,
+            "check_count": 5845,
+            "date_created": 54,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690981663,
+            "last_checked": 1690993104,
             "last_error": false,
             "last_viewed": 1682277328,
             "method": "GET",
@@ -3060,6 +3552,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "TSN",
+            "tags": [
+                "f853abe3-255c-483b-841f-e6428a05069f"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -3079,25 +3574,31 @@
             "last_notification_error": false,
             "content_type": "application/rss+xml; charset=UTF-8",
             "last_check_status": 200,
-            "fetch_time": 1.007
+            "fetch_time": 0.463
         },
         "04df08dd-7169-4e05-96b7-d2f1cb241093": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 8148,
+            "check_count": 8154,
+            "date_created": 55,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983889,
+            "last_checked": 1690994913,
             "last_error": false,
             "last_viewed": 1682354975,
             "method": "GET",
@@ -3116,6 +3617,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -3135,25 +3639,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 0.097
+            "fetch_time": 2.219
         },
         "edd83678-84c9-4bb1-a835-9c0b672f045f": {
             "body": "",
             "check_unique_lines": true,
-            "check_count": 53345,
+            "check_count": 53377,
+            "date_created": 56,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": null,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "jq:.items[] | {slug: .promotionContent.slug, url: .urls.relative, title: .title, description: .lead, imageUrl: .promotionContent.imageAsset.id, publishedAt: .changes.published, lastModifiedAt: .changes.updated, premium: .access.paywall, authors: [.authors[]?.fullname], tags: [.tags[].slug]}"
             ],
-            "last_checked": 1690983996,
+            "last_checked": 1690995291,
             "last_error": false,
             "last_viewed": 1685286003,
             "method": "GET",
@@ -3167,11 +3677,14 @@
                 "posts://api.apify.com/v2/actor-tasks/mowebdev~adressa/runs?token=apify_api_KhmDs8WPVSsUr6BxboC2frIEBgqU3c37VSbl"
             ],
             "paused": false,
-            "previous_md5": "ed4db1f6309dd55140396b2a50f1f7e4",
-            "previous_md5_before_filters": "36f771976d34120deaaaf10c5a7aaa99",
+            "previous_md5": "97334e5a464da1e9011b8af480282f7b",
+            "previous_md5_before_filters": "956ecb82a89a0373b9ac30fd107925da",
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "Adressa ",
+            "tags": [
+                "ef6c990a-847c-433e-8b88-2e3a23354e97"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -3191,25 +3704,31 @@
             "last_notification_error": false,
             "content_type": "application/json; charset=utf-8",
             "last_check_status": 200,
-            "fetch_time": 0.838
+            "fetch_time": 0.137
         },
         "b84423d0-c844-490b-bb0f-81b8ae601a1c": {
             "body": "",
             "check_unique_lines": true,
-            "check_count": 27806,
+            "check_count": 27838,
+            "date_created": 57,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": null,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [],
-            "last_checked": 1690983899,
+            "last_checked": 1690995369,
             "last_error": false,
-            "last_viewed": 0,
+            "last_viewed": 1690987408,
             "method": "GET",
             "notification_body": "{\r\n  \"sourceSlug\": \"vg-no\",\r\n  \"options\": {\r\n    \"queryParams\": \"?categories=1073&keywords=&format=json\"\r\n  }\r\n}\r\n",
             "notification_format": "System default",
@@ -3221,11 +3740,14 @@
                 "posts://api.apify.com/v2/actor-tasks/mowebdev~vg-no/runs?token=apify_api_KhmDs8WPVSsUr6BxboC2frIEBgqU3c37VSbl"
             ],
             "paused": false,
-            "previous_md5": "df65ff2b56b6bf88ef1de583ab8c2f94",
-            "previous_md5_before_filters": "bb6c0f0c11a304447327a4f97967a689",
+            "previous_md5": "34dcc25d6129d3bab344b0b23e78d9f0",
+            "previous_md5_before_filters": "1d5f650b90eb0efa6937c5ab24c98ac4",
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "VG",
+            "tags": [
+                "818c1f6b-025d-4a51-a42d-6b4234a39e64"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -3245,25 +3767,31 @@
             "last_notification_error": false,
             "content_type": "application/json; charset=utf-8",
             "last_check_status": 200,
-            "fetch_time": 0.634
+            "fetch_time": 0.262
         },
         "572300f7-0629-464f-bc76-7109ea14cd60": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 15978,
+            "check_count": 15989,
+            "date_created": 58,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690984031,
+            "last_checked": 1690994903,
             "last_error": false,
             "last_viewed": 1682667355,
             "method": "GET",
@@ -3282,6 +3810,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -3301,25 +3832,31 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 0.101
+            "fetch_time": 0.604
         },
         "e2c65ef6-9546-4a20-a78c-38002481fe33": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 5844,
+            "check_count": 5847,
+            "date_created": 59,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983389,
+            "last_checked": 1690994198,
             "last_error": false,
             "last_viewed": 1682277328,
             "method": "GET",
@@ -3338,6 +3875,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "TSN",
+            "tags": [
+                "f853abe3-255c-483b-841f-e6428a05069f"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -3357,25 +3897,31 @@
             "last_notification_error": false,
             "content_type": "application/rss+xml; charset=UTF-8",
             "last_check_status": 200,
-            "fetch_time": 1.366
+            "fetch_time": 1.601
         },
         "f84f5f7c-96af-497d-ba2e-4610549eb532": {
             "body": "",
             "check_unique_lines": false,
-            "check_count": 9187,
+            "check_count": 9198,
+            "date_created": 60,
             "consecutive_filter_failures": 0,
             "extract_text": [],
             "extract_title_as_title": false,
             "fetch_backend": "html_requests",
+            "processor": "text_json_diff",
             "filter_failure_notification_send": true,
+            "filter_text_added": true,
+            "filter_text_replaced": true,
+            "filter_text_removed": true,
             "has_ldjson_price_data": false,
             "track_ldjson_price_data": null,
             "headers": {},
             "ignore_text": [],
+            "in_stock_only": true,
             "include_filters": [
                 "//item[*]"
             ],
-            "last_checked": 1690983347,
+            "last_checked": 1690994909,
             "last_error": false,
             "last_viewed": 0,
             "method": "GET",
@@ -3394,6 +3940,9 @@
             "proxy": null,
             "subtractive_selectors": [],
             "tag": "NTF",
+            "tags": [
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306"
+            ],
             "text_should_not_be_present": [],
             "time_between_check": {
                 "weeks": null,
@@ -3413,7 +3962,7 @@
             "last_notification_error": false,
             "content_type": "application/xml",
             "last_check_status": 200,
-            "fetch_time": 1.217
+            "fetch_time": 0.067
         }
     },
     "settings": {
@@ -3455,27 +4004,395 @@
         },
         "application": {
             "api_access_token_enabled": true,
-            "password": "4cNk4nBXRHKnAtexIFv3ZcLlgj7PHmPuvvNQGZ0RM1+NK7Zgzpv/upRMewepykfpF+erdg36ZgwmNdFSc5waLA==",
             "base_url": "https://changedetection.up.railway.app/",
-            "extract_title_as_title": false,
             "empty_pages_are_a_change": false,
+            "extract_title_as_title": false,
             "fetch_backend": "html_requests",
             "filter_failure_notification_threshold_attempts": 6,
             "global_ignore_text": [],
             "global_subtractive_selectors": [],
             "ignore_whitespace": true,
-            "render_anchor_tag_content": false,
-            "notification_urls": [],
-            "notification_title": "ChangeDetection.io Notification - {{watch_url}}",
             "notification_body": "{{watch_url}} had a change.\r\n---\r\n{{diff}}\r\n---\r\n",
             "notification_format": "Text",
-            "schema_version": 9,
+            "notification_title": "ChangeDetection.io Notification - {{watch_url}}",
+            "notification_urls": [],
+            "pager_size": 100,
+            "password": "4cNk4nBXRHKnAtexIFv3ZcLlgj7PHmPuvvNQGZ0RM1+NK7Zgzpv/upRMewepykfpF+erdg36ZgwmNdFSc5waLA==",
+            "render_anchor_tag_content": false,
+            "schema_version": 12,
+            "shared_diff_access": false,
             "webdriver_delay": null,
+            "tags": {
+                "a7e2ffd4-ed04-4634-afae-2d60cd14b470": {
+                    "body": null,
+                    "check_unique_lines": false,
+                    "check_count": 0,
+                    "date_created": 1690985829,
+                    "consecutive_filter_failures": 0,
+                    "extract_text": [],
+                    "extract_title_as_title": false,
+                    "fetch_backend": "system",
+                    "processor": "text_json_diff",
+                    "filter_failure_notification_send": 1,
+                    "filter_text_added": true,
+                    "filter_text_replaced": true,
+                    "filter_text_removed": true,
+                    "has_ldjson_price_data": null,
+                    "track_ldjson_price_data": null,
+                    "headers": {},
+                    "ignore_text": [],
+                    "in_stock_only": true,
+                    "include_filters": [],
+                    "last_checked": 0,
+                    "last_error": false,
+                    "last_viewed": 0,
+                    "method": "GET",
+                    "notification_body": null,
+                    "notification_format": "System default",
+                    "notification_muted": false,
+                    "notification_title": null,
+                    "notification_screenshot": false,
+                    "notification_urls": [],
+                    "paused": false,
+                    "previous_md5": false,
+                    "previous_md5_before_filters": false,
+                    "proxy": null,
+                    "subtractive_selectors": [],
+                    "tag": "",
+                    "tags": [],
+                    "text_should_not_be_present": [],
+                    "time_between_check": {
+                        "weeks": null,
+                        "days": null,
+                        "hours": null,
+                        "minutes": null,
+                        "seconds": null
+                    },
+                    "title": "Nidaros",
+                    "trigger_text": [],
+                    "url": "",
+                    "uuid": "a7e2ffd4-ed04-4634-afae-2d60cd14b470",
+                    "webdriver_delay": null,
+                    "webdriver_js_execute_code": null
+                },
+                "90fbc04b-bc2e-47e5-be8b-f9055bd9e144": {
+                    "body": null,
+                    "check_unique_lines": false,
+                    "check_count": 0,
+                    "date_created": 1690985829,
+                    "consecutive_filter_failures": 0,
+                    "extract_text": [],
+                    "extract_title_as_title": false,
+                    "fetch_backend": "system",
+                    "processor": "text_json_diff",
+                    "filter_failure_notification_send": 1,
+                    "filter_text_added": true,
+                    "filter_text_replaced": true,
+                    "filter_text_removed": true,
+                    "has_ldjson_price_data": null,
+                    "track_ldjson_price_data": null,
+                    "headers": {},
+                    "ignore_text": [],
+                    "in_stock_only": true,
+                    "include_filters": [],
+                    "last_checked": 0,
+                    "last_error": false,
+                    "last_viewed": 0,
+                    "method": "GET",
+                    "notification_body": null,
+                    "notification_format": "System default",
+                    "notification_muted": false,
+                    "notification_title": null,
+                    "notification_screenshot": false,
+                    "notification_urls": [],
+                    "paused": false,
+                    "previous_md5": false,
+                    "previous_md5_before_filters": false,
+                    "proxy": null,
+                    "subtractive_selectors": [],
+                    "tag": "",
+                    "tags": [],
+                    "text_should_not_be_present": [],
+                    "time_between_check": {
+                        "weeks": null,
+                        "days": null,
+                        "hours": null,
+                        "minutes": null,
+                        "seconds": null
+                    },
+                    "title": "RBKweb",
+                    "trigger_text": [],
+                    "url": "",
+                    "uuid": "90fbc04b-bc2e-47e5-be8b-f9055bd9e144",
+                    "webdriver_delay": null,
+                    "webdriver_js_execute_code": null
+                },
+                "bd7ee57c-9e7b-4e81-b554-805f1f488306": {
+                    "body": null,
+                    "check_unique_lines": false,
+                    "check_count": 0,
+                    "date_created": 1690985829,
+                    "consecutive_filter_failures": 0,
+                    "extract_text": [],
+                    "extract_title_as_title": false,
+                    "fetch_backend": "system",
+                    "processor": "text_json_diff",
+                    "filter_failure_notification_send": 1,
+                    "filter_text_added": true,
+                    "filter_text_replaced": true,
+                    "filter_text_removed": true,
+                    "has_ldjson_price_data": null,
+                    "track_ldjson_price_data": null,
+                    "headers": {},
+                    "ignore_text": [],
+                    "in_stock_only": true,
+                    "include_filters": [],
+                    "last_checked": 0,
+                    "last_error": false,
+                    "last_viewed": 0,
+                    "method": "GET",
+                    "notification_body": null,
+                    "notification_format": "System default",
+                    "notification_muted": false,
+                    "notification_title": null,
+                    "notification_screenshot": false,
+                    "notification_urls": [],
+                    "paused": false,
+                    "previous_md5": false,
+                    "previous_md5_before_filters": false,
+                    "proxy": null,
+                    "subtractive_selectors": [],
+                    "tag": "",
+                    "tags": [],
+                    "text_should_not_be_present": [],
+                    "time_between_check": {
+                        "weeks": null,
+                        "days": null,
+                        "hours": null,
+                        "minutes": null,
+                        "seconds": null
+                    },
+                    "title": "NTF",
+                    "trigger_text": [],
+                    "url": "",
+                    "uuid": "bd7ee57c-9e7b-4e81-b554-805f1f488306",
+                    "webdriver_delay": null,
+                    "webdriver_js_execute_code": null
+                },
+                "f853abe3-255c-483b-841f-e6428a05069f": {
+                    "body": null,
+                    "check_unique_lines": false,
+                    "check_count": 0,
+                    "date_created": 1690985829,
+                    "consecutive_filter_failures": 0,
+                    "extract_text": [],
+                    "extract_title_as_title": false,
+                    "fetch_backend": "system",
+                    "processor": "text_json_diff",
+                    "filter_failure_notification_send": 1,
+                    "filter_text_added": true,
+                    "filter_text_replaced": true,
+                    "filter_text_removed": true,
+                    "has_ldjson_price_data": null,
+                    "track_ldjson_price_data": null,
+                    "headers": {},
+                    "ignore_text": [],
+                    "in_stock_only": true,
+                    "include_filters": [],
+                    "last_checked": 0,
+                    "last_error": false,
+                    "last_viewed": 0,
+                    "method": "GET",
+                    "notification_body": null,
+                    "notification_format": "System default",
+                    "notification_muted": false,
+                    "notification_title": null,
+                    "notification_screenshot": false,
+                    "notification_urls": [],
+                    "paused": false,
+                    "previous_md5": false,
+                    "previous_md5_before_filters": false,
+                    "proxy": null,
+                    "subtractive_selectors": [],
+                    "tag": "",
+                    "tags": [],
+                    "text_should_not_be_present": [],
+                    "time_between_check": {
+                        "weeks": null,
+                        "days": null,
+                        "hours": null,
+                        "minutes": null,
+                        "seconds": null
+                    },
+                    "title": "TSN",
+                    "trigger_text": [],
+                    "url": "",
+                    "uuid": "f853abe3-255c-483b-841f-e6428a05069f",
+                    "webdriver_delay": null,
+                    "webdriver_js_execute_code": null
+                },
+                "ef6c990a-847c-433e-8b88-2e3a23354e97": {
+                    "body": null,
+                    "check_unique_lines": false,
+                    "check_count": 0,
+                    "date_created": 1690985829,
+                    "consecutive_filter_failures": 0,
+                    "extract_text": [],
+                    "extract_title_as_title": false,
+                    "fetch_backend": "system",
+                    "processor": "text_json_diff",
+                    "filter_failure_notification_send": 1,
+                    "filter_text_added": true,
+                    "filter_text_replaced": true,
+                    "filter_text_removed": true,
+                    "has_ldjson_price_data": null,
+                    "track_ldjson_price_data": null,
+                    "headers": {},
+                    "ignore_text": [],
+                    "in_stock_only": true,
+                    "include_filters": [],
+                    "last_checked": 0,
+                    "last_error": false,
+                    "last_viewed": 0,
+                    "method": "GET",
+                    "notification_body": null,
+                    "notification_format": "System default",
+                    "notification_muted": false,
+                    "notification_title": null,
+                    "notification_screenshot": false,
+                    "notification_urls": [],
+                    "paused": false,
+                    "previous_md5": false,
+                    "previous_md5_before_filters": false,
+                    "proxy": null,
+                    "subtractive_selectors": [],
+                    "tag": "",
+                    "tags": [],
+                    "text_should_not_be_present": [],
+                    "time_between_check": {
+                        "weeks": null,
+                        "days": null,
+                        "hours": null,
+                        "minutes": null,
+                        "seconds": null
+                    },
+                    "title": "Adressa",
+                    "trigger_text": [],
+                    "url": "",
+                    "uuid": "ef6c990a-847c-433e-8b88-2e3a23354e97",
+                    "webdriver_delay": null,
+                    "webdriver_js_execute_code": null
+                },
+                "818c1f6b-025d-4a51-a42d-6b4234a39e64": {
+                    "body": null,
+                    "check_unique_lines": false,
+                    "check_count": 0,
+                    "date_created": 1690985829,
+                    "consecutive_filter_failures": 0,
+                    "extract_text": [],
+                    "extract_title_as_title": false,
+                    "fetch_backend": "system",
+                    "processor": "text_json_diff",
+                    "filter_failure_notification_send": 1,
+                    "filter_text_added": true,
+                    "filter_text_replaced": true,
+                    "filter_text_removed": true,
+                    "has_ldjson_price_data": null,
+                    "track_ldjson_price_data": null,
+                    "headers": {},
+                    "ignore_text": [],
+                    "in_stock_only": true,
+                    "include_filters": [],
+                    "last_checked": 0,
+                    "last_error": false,
+                    "last_viewed": 0,
+                    "method": "GET",
+                    "notification_body": null,
+                    "notification_format": "System default",
+                    "notification_muted": false,
+                    "notification_title": null,
+                    "notification_screenshot": false,
+                    "notification_urls": [],
+                    "paused": false,
+                    "previous_md5": false,
+                    "previous_md5_before_filters": false,
+                    "proxy": null,
+                    "subtractive_selectors": [],
+                    "tag": "",
+                    "tags": [],
+                    "text_should_not_be_present": [],
+                    "time_between_check": {
+                        "weeks": null,
+                        "days": null,
+                        "hours": null,
+                        "minutes": null,
+                        "seconds": null
+                    },
+                    "title": "VG",
+                    "trigger_text": [],
+                    "url": "",
+                    "uuid": "818c1f6b-025d-4a51-a42d-6b4234a39e64",
+                    "webdriver_delay": null,
+                    "webdriver_js_execute_code": null
+                },
+                "bd122334-d686-4a37-8950-d1806c53b8cc": {
+                    "body": null,
+                    "check_unique_lines": false,
+                    "check_count": 0,
+                    "date_created": 1690986737,
+                    "consecutive_filter_failures": 0,
+                    "extract_text": [],
+                    "extract_title_as_title": false,
+                    "fetch_backend": "system",
+                    "processor": "text_json_diff",
+                    "filter_failure_notification_send": 1,
+                    "filter_text_added": true,
+                    "filter_text_replaced": true,
+                    "filter_text_removed": true,
+                    "has_ldjson_price_data": null,
+                    "track_ldjson_price_data": null,
+                    "headers": {},
+                    "ignore_text": [],
+                    "in_stock_only": true,
+                    "include_filters": [],
+                    "last_checked": 0,
+                    "last_error": false,
+                    "last_viewed": 0,
+                    "method": "GET",
+                    "notification_body": null,
+                    "notification_format": "System default",
+                    "notification_muted": false,
+                    "notification_title": null,
+                    "notification_screenshot": false,
+                    "notification_urls": [],
+                    "paused": false,
+                    "previous_md5": false,
+                    "previous_md5_before_filters": false,
+                    "proxy": null,
+                    "subtractive_selectors": [],
+                    "tag": "",
+                    "tags": [],
+                    "text_should_not_be_present": [],
+                    "time_between_check": {
+                        "weeks": null,
+                        "days": null,
+                        "hours": null,
+                        "minutes": null,
+                        "seconds": null
+                    },
+                    "title": "test",
+                    "trigger_text": [],
+                    "url": "",
+                    "uuid": "bd122334-d686-4a37-8950-d1806c53b8cc",
+                    "webdriver_delay": null,
+                    "webdriver_js_execute_code": null
+                }
+            },
             "rss_access_token": "fd32d417ffaac90cb2094f348e011558",
             "api_access_token": "63ee9463dc6f5ec28c58421719aaf43f",
             "removepassword_button": false
         }
     },
     "app_guid": "f1b89b93-493c-4d1d-b52c-703b0dce96cf",
-    "version_tag": "0.40.0.4"
+    "version_tag": "0.44.1"
 }
